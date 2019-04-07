@@ -1,0 +1,68 @@
+{
+  "id": 1226588649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39861,10.17056,-75.39861,10.17056",
+    "geom:latitude":10.17056,
+    "geom:longitude":-75.39861,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"Palma Dulce",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830821,
+    "gn:latitude":10.17056,
+    "gn:longitude":-75.39861,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palma Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830821
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4e6a2fa4f182010633a1dc89106fc5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184103,
+            "locality_id":1226588649,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226588649,
+    "wof:lastmodified":1536939403,
+    "wof:name":"Palma Dulce",
+    "wof:parent_id":421184103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39860999999998,
+    10.17056,
+    -75.39860999999998,
+    10.17056
+],
+  "geometry": {"coordinates":[-75.39860999999998,10.17056],"type":"Point"}
+}

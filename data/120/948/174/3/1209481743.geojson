@@ -1,0 +1,62 @@
+{
+  "id": 1209481743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.00921,11.5859,-72.00921,11.5859",
+    "geom:latitude":11.5859,
+    "geom:longitude":-72.00921,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Utka",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666362,
+    "gn:latitude":11.5859,
+    "gn:longitude":-72.00921,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Utka",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666362
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"13e1bc8aa33e16171080863275e7bfe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209481743
+        }
+    ],
+    "wof:id":1209481743,
+    "wof:lastmodified":1536285761,
+    "wof:name":"Utka",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.00921,
+    11.5859,
+    -72.00921,
+    11.5859
+],
+  "geometry": {"coordinates":[-72.00921,11.5859],"type":"Point"}
+}

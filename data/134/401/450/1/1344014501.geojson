@@ -1,0 +1,68 @@
+{
+  "id": 1344014501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3424,0.90989,-76.3424,0.90989",
+    "geom:latitude":0.90989,
+    "geom:longitude":-76.3424,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86571.0",
+    "gn:asciiname":"Santa Rosa de Los Estilleros",
+    "gn:country_code":"CO",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542235,
+    "gn:latitude":0.90989,
+    "gn:longitude":-76.3424,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Rosa de Los Estilleros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542235
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"38a7a886309ec38698fcc97d76e33059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701565,
+            "locality_id":1344014501,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1344014501,
+    "wof:lastmodified":1536942689,
+    "wof:name":"Santa Rosa de Los Estilleros",
+    "wof:parent_id":1108701565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3424,
+    0.90989,
+    -76.3424,
+    0.90989
+],
+  "geometry": {"coordinates":[-76.3424,0.90989],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226011361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53833,11.2275,-72.53833,11.2275",
+    "geom:latitude":11.2275,
+    "geom:longitude":-72.53833,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44035.0",
+    "gn:asciiname":"Garciabon",
+    "gn:country_code":"CO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756549,
+    "gn:latitude":11.2275,
+    "gn:longitude":-72.53833,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Garciabon",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756549
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6b69c3e6b4186761a953459614f41849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700853,
+            "locality_id":1226011361,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226011361,
+    "wof:lastmodified":1536775489,
+    "wof:name":"Garciabon",
+    "wof:parent_id":1108700853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53833,
+    11.2275,
+    -72.53833,
+    11.2275
+],
+  "geometry": {"coordinates":[-72.53833,11.2275],"type":"Point"}
+}

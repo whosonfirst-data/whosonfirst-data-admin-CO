@@ -1,0 +1,68 @@
+{
+  "id": 1343912453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89889,5.87972,-73.89889,5.87972",
+    "geom:latitude":5.87972,
+    "geom:longitude":-73.89889,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68773.0",
+    "gn:asciiname":"La Furatena",
+    "gn:country_code":"CO",
+    "gn:dem":2656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776682,
+    "gn:latitude":5.87972,
+    "gn:longitude":-73.89889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Furatena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776682
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58f1b75e3ea7257ff38584fab74e1190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701359,
+            "locality_id":1343912453,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1343912453,
+    "wof:lastmodified":1537086220,
+    "wof:name":"La Furatena",
+    "wof:parent_id":1108701359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89889000000002,
+    5.87972,
+    -73.89889000000002,
+    5.87972
+],
+  "geometry": {"coordinates":[-73.89889000000002,5.87972],"type":"Point"}
+}

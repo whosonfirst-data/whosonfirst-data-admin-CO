@@ -1,0 +1,67 @@
+{
+  "id": 1226182543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90167,5.50472,-73.90167,5.50472",
+    "geom:latitude":5.50472,
+    "geom:longitude":-73.90167,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"CO",
+    "gn:dem":2998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777171,
+    "gn:latitude":5.50472,
+    "gn:longitude":-73.90167,
+    "gn:modification_date":"2002-03-11",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777171
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19b0209816fd98e7ee9327cd1db0bdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700711,
+            "locality_id":1226182543,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226182543,
+    "wof:lastmodified":1537023556,
+    "wof:name":"San Isidro",
+    "wof:parent_id":1108700711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90167,
+    5.50472,
+    -73.90167,
+    5.50472
+],
+  "geometry": {"coordinates":[-73.90167,5.50472],"type":"Point"}
+}

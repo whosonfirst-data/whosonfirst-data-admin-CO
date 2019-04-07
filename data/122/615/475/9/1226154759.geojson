@@ -1,0 +1,71 @@
+{
+  "id": 1226154759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63436,8.01529,-76.63436,8.01529",
+    "geom:latitude":8.01529,
+    "geom:longitude":-76.63436,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5837.0",
+    "gn:asciiname":"La Quimera",
+    "gn:country_code":"CO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7522886,
+    "gn:latitude":8.01529,
+    "gn:longitude":-76.63436,
+    "gn:modification_date":"2015-06-24",
+    "gn:name":"La Quimera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Quimera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421190195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522886
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad52e31256ec782fdf7bb036a880ccda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190195,
+            "locality_id":1226154759,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226154759,
+    "wof:lastmodified":1537618708,
+    "wof:name":"La Quimera",
+    "wof:parent_id":421190195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63436,
+    8.01529,
+    -76.63436,
+    8.01529
+],
+  "geometry": {"coordinates":[-76.63436,8.01529],"type":"Point"}
+}

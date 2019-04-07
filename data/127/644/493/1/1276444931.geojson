@@ -1,0 +1,73 @@
+{
+  "id": 1276444931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.85,6.16667,-74.85,6.16667",
+    "geom:latitude":6.16667,
+    "geom:longitude":-74.85,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5649.0",
+    "gn:asciiname":"Samana del Norte",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670298,
+    "gn:latitude":6.16667,
+    "gn:longitude":-74.85,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Saman\u00e1 del Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saman\u00e1",
+        "Saman\u00e1 del Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670298
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1fbc2ca8822df59efe3f8d6effe06c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700005,
+            "locality_id":1276444931,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1276444931,
+    "wof:lastmodified":1537618407,
+    "wof:name":"Samana del Norte",
+    "wof:parent_id":1108700005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.85,
+    6.16667,
+    -74.85,
+    6.16667
+],
+  "geometry": {"coordinates":[-74.84999999999999,6.16667],"type":"Point"}
+}

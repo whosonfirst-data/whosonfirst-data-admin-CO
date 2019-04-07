@@ -1,0 +1,138 @@
+{
+  "id": 421201815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73344,6.6587,-72.73344,6.6587",
+    "geom:latitude":6.6587,
+    "geom:longitude":-72.73344,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u7c73\u862d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 Miranda"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10db\u10d8\u10e0\u10d0\u10dc\u10d3\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10db\u10d8\u10e0\u10d0\u10dc\u10d3\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "San Jos\u00e9 Miranda"
+    ],
+    "name:msa_x_preferred":[
+        "San Jos\u00e9 Miranda"
+    ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:tgl_x_preferred":[
+        "San Jos\u00e9 Miranda"
+    ],
+    "name:unk_x_variant":[
+        "Miranda"
+    ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9 de Miranda"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9 Miranda"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669545,
+    "qs:gn_pop":1096,
+    "qs:name":"San Jos\u00e9 de Miranda",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":214697,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365650,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669545,
+        "gp:id":365650,
+        "qs:id":214697,
+        "wd:id":"Q1657219"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010088,
+    "wof:geomhash":"1cfa44f55b36a2ef19ec72037473359d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701341,
+            "locality_id":421201815,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421201815,
+    "wof:lastmodified":1527716438,
+    "wof:name":"San Jos\u00e9 de Miranda",
+    "wof:parent_id":1108701341,
+    "wof:placetype":"locality",
+    "wof:population":1096,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73344,
+    6.6587,
+    -72.73344,
+    6.6587
+],
+  "geometry": {"coordinates":[-72.73344,6.6587],"type":"Point"}
+}

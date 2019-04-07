@@ -1,0 +1,68 @@
+{
+  "id": 1293864641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93333,4.38333,-76.93333,4.38333",
+    "geom:latitude":4.38333,
+    "geom:longitude":-76.93333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27250.0",
+    "gn:asciiname":"Cucurrupi",
+    "gn:country_code":"CO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685538,
+    "gn:latitude":4.38333,
+    "gn:longitude":-76.93333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cucurrup\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fa9dd901f11fcf321d84419e7844523d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700765,
+            "locality_id":1293864641,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1293864641,
+    "wof:lastmodified":1536740373,
+    "wof:name":"Cucurrupi",
+    "wof:parent_id":1108700765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93333,
+    4.38333,
+    -76.93333,
+    4.38333
+],
+  "geometry": {"coordinates":[-76.93333,4.38333],"type":"Point"}
+}

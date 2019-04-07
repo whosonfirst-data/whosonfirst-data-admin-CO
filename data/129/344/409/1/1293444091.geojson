@@ -1,0 +1,72 @@
+{
+  "id": 1293444091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.18485,9.5208,-75.18485,9.5208",
+    "geom:latitude":9.5208,
+    "geom:longitude":-75.18485,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70508.0",
+    "gn:asciiname":"La Pena",
+    "gn:country_code":"CO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678160,
+    "gn:latitude":9.5208,
+    "gn:longitude":-75.18485,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Pe\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Pe\u00f1a",
+        "La Pe\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421204839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678160
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fcf4acbec9f55732230b3f9d7b9585d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204839,
+            "locality_id":1293444091,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1293444091,
+    "wof:lastmodified":1537618508,
+    "wof:name":"La Pena",
+    "wof:parent_id":421204839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.18485,
+    9.5208,
+    -75.18485,
+    9.5208
+],
+  "geometry": {"coordinates":[-75.18485,9.5208],"type":"Point"}
+}

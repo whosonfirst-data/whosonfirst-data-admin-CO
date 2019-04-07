@@ -1,0 +1,68 @@
+{
+  "id": 1327336269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.03528,6.81361,-76.03528,6.81361",
+    "geom:latitude":6.81361,
+    "geom:longitude":-76.03528,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5138.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"CO",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669381,
+    "gn:latitude":6.81361,
+    "gn:longitude":-76.03528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669381
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e4441408b615218c42d8fbf977baab2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699941,
+            "locality_id":1327336269,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327336269,
+    "wof:lastmodified":1536818722,
+    "wof:name":"San Luis",
+    "wof:parent_id":1108699941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.03528,
+    6.81361,
+    -76.03528,
+    6.81361
+],
+  "geometry": {"coordinates":[-76.03528,6.81361],"type":"Point"}
+}

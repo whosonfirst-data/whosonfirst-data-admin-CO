@@ -1,0 +1,68 @@
+{
+  "id": 1277077097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73699,8.16641,-76.73699,8.16641",
+    "geom:latitude":8.16641,
+    "geom:longitude":-76.73699,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5837.0",
+    "gn:asciiname":"Playa La Martina",
+    "gn:country_code":"CO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7782692,
+    "gn:latitude":8.16641,
+    "gn:longitude":-76.73699,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Playa La Martina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421190195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7782692
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fbf22a02f241c345da44e55e03893069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190195,
+            "locality_id":1277077097,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1277077097,
+    "wof:lastmodified":1536776331,
+    "wof:name":"Playa La Martina",
+    "wof:parent_id":421190195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73699,
+    8.16641,
+    -76.73699,
+    8.16641
+],
+  "geometry": {"coordinates":[-76.73699000000001,8.16641],"type":"Point"}
+}

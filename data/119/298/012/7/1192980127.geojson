@@ -1,0 +1,72 @@
+{
+  "id": 1192980127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.76931,1.56561,-78.76931,1.56561",
+    "geom:latitude":1.56561,
+    "geom:longitude":-78.76931,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Guachal",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681779,
+    "gn:latitude":1.56561,
+    "gn:longitude":-78.76931,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guachal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guachali",
+        "Guachal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681779
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e3e6b11d45935051bf5a0e0951c98d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1192980127,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1192980127,
+    "wof:lastmodified":1537618554,
+    "wof:name":"Guachal",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.76931,
+    1.56561,
+    -78.76931,
+    1.56561
+],
+  "geometry": {"coordinates":[-78.76931,1.56561],"type":"Point"}
+}

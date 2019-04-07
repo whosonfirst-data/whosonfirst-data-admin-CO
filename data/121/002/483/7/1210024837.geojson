@@ -1,0 +1,71 @@
+{
+  "id": 1210024837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.71966,6.11127,-75.71966,6.11127",
+    "geom:latitude":6.11127,
+    "geom:longitude":-75.71966,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5036.0",
+    "gn:asciiname":"Vereda Santa Rita",
+    "gn:country_code":"CO",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8337330,
+    "gn:latitude":6.11127,
+    "gn:longitude":-75.71966,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421194901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337330
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0f10193730f18302892301455c3a0252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421194901,
+            "locality_id":1210024837,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1210024837,
+    "wof:lastmodified":1537618775,
+    "wof:name":"Vereda Santa Rita",
+    "wof:parent_id":421194901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.71966,
+    6.11127,
+    -75.71966,
+    6.11127
+],
+  "geometry": {"coordinates":[-75.71966,6.11127],"type":"Point"}
+}

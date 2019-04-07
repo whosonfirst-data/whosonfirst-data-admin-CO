@@ -1,0 +1,68 @@
+{
+  "id": 1326519503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.18528,1.82746,-77.18528,1.82746",
+    "geom:latitude":1.82746,
+    "geom:longitude":-77.18528,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19450.0",
+    "gn:asciiname":"El Placer",
+    "gn:country_code":"CO",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735645,
+    "gn:latitude":1.82746,
+    "gn:longitude":-77.18528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Placer",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735645
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d623179a96241c8cc99c566e60e369e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700475,
+            "locality_id":1326519503,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1326519503,
+    "wof:lastmodified":1537001664,
+    "wof:name":"El Placer",
+    "wof:parent_id":1108700475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.18528,
+    1.82746,
+    -77.18528,
+    1.82746
+],
+  "geometry": {"coordinates":[-77.18528000000001,1.82746],"type":"Point"}
+}

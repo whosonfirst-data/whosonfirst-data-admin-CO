@@ -1,0 +1,68 @@
+{
+  "id": 1260140843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14782,4.62977,-76.14782,4.62977",
+    "geom:latitude":4.62977,
+    "geom:longitude":-76.14782,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76863.0",
+    "gn:asciiname":"Campoalegre",
+    "gn:country_code":"CO",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687799,
+    "gn:latitude":4.62977,
+    "gn:longitude":-76.14782,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campoalegre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687799
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3a1e46adf496ba9aa0d76c4da894f211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701509,
+            "locality_id":1260140843,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1260140843,
+    "wof:lastmodified":1536906724,
+    "wof:name":"Campoalegre",
+    "wof:parent_id":1108701509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14782,
+    4.62977,
+    -76.14782,
+    4.62977
+],
+  "geometry": {"coordinates":[-76.14782,4.62977],"type":"Point"}
+}

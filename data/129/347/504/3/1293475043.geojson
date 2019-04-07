@@ -1,0 +1,71 @@
+{
+  "id": 1293475043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2,0.86667,-75.2,0.86667",
+    "geom:latitude":0.86667,
+    "geom:longitude":-75.2,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Petocasaragua",
+    "gn:country_code":"CO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672384,
+    "gn:latitude":0.86667,
+    "gn:longitude":-75.2,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Petocasaragua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Petocasaragua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672384
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e332ea98f5cce7be4a72fe19c325234c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700425,
+            "locality_id":1293475043,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1293475043,
+    "wof:lastmodified":1537618434,
+    "wof:name":"Petocasaragua",
+    "wof:parent_id":1108700425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2,
+    0.86667,
+    -75.2,
+    0.86667
+],
+  "geometry": {"coordinates":[-75.2,0.86667],"type":"Point"}
+}

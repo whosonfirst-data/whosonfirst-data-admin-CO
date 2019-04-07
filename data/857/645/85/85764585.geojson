@@ -1,0 +1,109 @@
+{
+  "id": 85764585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4284629.135988,
+    "geom:bbox":"-75.526062,10.453781,-75.526062,10.453781",
+    "geom:latitude":10.453781,
+    "geom:longitude":-75.526062,
+    "gn:latitude":10.45,
+    "gn:longitude":-75.53333,
+    "iso:country":"CO",
+    "lbl:latitude":10.453781,
+    "lbl:longitude":-75.526062,
+    "mps:latitude":10.455381,
+    "mps:longitude":-75.531747,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Canapote"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Canapote"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Canapote",
+        "Canapote"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687238,
+    "qs:gn_nam_loc":"cartagena",
+    "qs:gn_namadm1":"35",
+    "qs:gn_name":"Canapote",
+    "qs:local_max":7512,
+    "qs:local_sum":20719,
+    "qs:localhoods":16,
+    "qs:name":"Canapote",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:name_adm2":"Cartagena",
+    "qs:name_local":"Cartagena",
+    "qs:photo_max":2,
+    "qs:photo_sum":5,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345051,
+    "qs:woe_adm2":26796755,
+    "qs:woe_lau":0,
+    "qs:woe_local":368153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687686,
+        "gp:id":352298,
+        "qs:id":228631,
+        "qs_pg:id":228631
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8cae68aeb756b8facdb18b748db60da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85764585,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85764585,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858919,
+    "wof:name":"Canapote",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526062,
+    10.453781,
+    -75.526062,
+    10.453781
+],
+  "geometry": {"coordinates":[-75.526062,10.453781],"type":"Point"}
+}

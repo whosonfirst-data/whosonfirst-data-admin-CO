@@ -1,0 +1,68 @@
+{
+  "id": 1226608705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4662,11.83048,-71.4662,11.83048",
+    "geom:latitude":11.83048,
+    "geom:longitude":-71.4662,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Huralamain",
+    "gn:country_code":"CO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680660,
+    "gn:latitude":11.83048,
+    "gn:longitude":-71.4662,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Huralamain",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680660
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cc94fb1c7e05de319df478ae9ab964ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1226608705,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226608705,
+    "wof:lastmodified":1536912113,
+    "wof:name":"Huralamain",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4662,
+    11.83048,
+    -71.4662,
+    11.83048
+],
+  "geometry": {"coordinates":[-71.4662,11.83048],"type":"Point"}
+}

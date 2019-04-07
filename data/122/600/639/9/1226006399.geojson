@@ -1,0 +1,68 @@
+{
+  "id": 1226006399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.571,1.90195,-78.571,1.90195",
+    "geom:latitude":1.90195,
+    "geom:longitude":-78.571,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"El Olivo",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827990,
+    "gn:latitude":1.90195,
+    "gn:longitude":-78.571,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Olivo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827990
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"08063cfe971dbb3af83f0df67f2ccc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701049,
+            "locality_id":1226006399,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226006399,
+    "wof:lastmodified":1536782536,
+    "wof:name":"El Olivo",
+    "wof:parent_id":1108701049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.571,
+    1.90195,
+    -78.571,
+    1.90195
+],
+  "geometry": {"coordinates":[-78.571,1.90195],"type":"Point"}
+}

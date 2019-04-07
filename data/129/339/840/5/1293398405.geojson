@@ -1,0 +1,73 @@
+{
+  "id": 1293398405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.83333,7.4,-74.83333,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-74.83333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5895.0",
+    "gn:asciiname":"Saltillo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670312,
+    "gn:latitude":7.4,
+    "gn:longitude":-74.83333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Saltillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altillo",
+        "Saltillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421177931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670312
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"820a9a3ca22d067b8bee88c67daed28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177931,
+            "locality_id":1293398405,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293398405,
+    "wof:lastmodified":1537618407,
+    "wof:name":"Saltillo",
+    "wof:parent_id":421177931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.83333,
+    7.4,
+    -74.83333,
+    7.4
+],
+  "geometry": {"coordinates":[-74.83333,7.4],"type":"Point"}
+}

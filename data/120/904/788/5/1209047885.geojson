@@ -1,0 +1,62 @@
+{
+  "id": 1209047885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93659,4.95936,-73.93659,4.95936",
+    "geom:latitude":4.95936,
+    "geom:longitude":-73.93659,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25817.0",
+    "gn:asciiname":"Verganza",
+    "gn:country_code":"CO",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782430,
+    "gn:latitude":4.95936,
+    "gn:longitude":-73.93659,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Verganza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782430
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a3a174dcb6cda610534523feafc7b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209047885
+        }
+    ],
+    "wof:id":1209047885,
+    "wof:lastmodified":1536299338,
+    "wof:name":"Verganza",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93659,
+    4.95936,
+    -73.93659,
+    4.95936
+],
+  "geometry": {"coordinates":[-73.93659,4.95936],"type":"Point"}
+}

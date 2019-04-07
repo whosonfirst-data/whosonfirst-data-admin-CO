@@ -1,0 +1,62 @@
+{
+  "id": 1209254837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4325,6.01611,-74.4325,6.01611",
+    "geom:latitude":6.01611,
+    "geom:longitude":-74.4325,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15572.0",
+    "gn:asciiname":"El Lucero",
+    "gn:country_code":"CO",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3771557,
+    "gn:latitude":6.01611,
+    "gn:longitude":-74.4325,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Lucero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771557
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ba902be2c86d2ddd0f777cb9e5b260a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209254837
+        }
+    ],
+    "wof:id":1209254837,
+    "wof:lastmodified":1536292887,
+    "wof:name":"El Lucero",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.4325,
+    6.01611,
+    -74.4325,
+    6.01611
+],
+  "geometry": {"coordinates":[-74.4325,6.01611],"type":"Point"}
+}

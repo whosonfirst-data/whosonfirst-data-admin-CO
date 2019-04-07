@@ -1,0 +1,74 @@
+{
+  "id": 1293629857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26143,9.90384,-75.26143,9.90384",
+    "geom:latitude":9.90384,
+    "geom:longitude":-75.26143,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13442.0",
+    "gn:asciiname":"Nomenombres",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673817,
+    "gn:latitude":9.90384,
+    "gn:longitude":-75.26143,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nomenombres",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Nomenbromes",
+        "Nomembromes",
+        "No me Embrome",
+        "Nomenombres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673817
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"542d1e97c9fb8fa63995d2d05ed30b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700131,
+            "locality_id":1293629857,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293629857,
+    "wof:lastmodified":1537618450,
+    "wof:name":"Nomenombres",
+    "wof:parent_id":1108700131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26143,
+    9.90384,
+    -75.26143,
+    9.90384
+],
+  "geometry": {"coordinates":[-75.26143,9.90384],"type":"Point"}
+}

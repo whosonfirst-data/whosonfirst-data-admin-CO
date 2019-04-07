@@ -1,0 +1,69 @@
+{
+  "id": 1310704609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69479,5.73145,-75.69479,5.73145",
+    "geom:latitude":5.73145,
+    "geom:longitude":-75.69479,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5789.0",
+    "gn:asciiname":"Palermo",
+    "gn:country_code":"CO",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673285,
+    "gn:latitude":5.73145,
+    "gn:longitude":-75.69479,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Palermo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421193049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673285,
+        "wk:page":"Palermo,_Antioquia,_Colombia"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"14e7eb8ad88190e592293d9c31f7e4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421193049,
+            "locality_id":1310704609,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310704609,
+    "wof:lastmodified":1537503782,
+    "wof:name":"Palermo",
+    "wof:parent_id":421193049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69479,
+    5.73145,
+    -75.69479,
+    5.73145
+],
+  "geometry": {"coordinates":[-75.69479,5.73145],"type":"Point"}
+}

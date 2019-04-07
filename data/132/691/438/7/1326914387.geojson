@@ -1,0 +1,71 @@
+{
+  "id": 1326914387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3269,2.46319,-76.3269,2.46319",
+    "geom:latitude":2.46319,
+    "geom:longitude":-76.3269,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19824.0",
+    "gn:asciiname":"Hacienda Granadilla",
+    "gn:country_code":"CO",
+    "gn:dem":3024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624470,
+    "gn:latitude":2.46319,
+    "gn:longitude":-76.3269,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Granadilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Granadilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624470
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd40add0cdc54ff8fcd91186cbb4cc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700521,
+            "locality_id":1326914387,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1326914387,
+    "wof:lastmodified":1537618812,
+    "wof:name":"Hacienda Granadilla",
+    "wof:parent_id":1108700521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3269,
+    2.46319,
+    -76.3269,
+    2.46319
+],
+  "geometry": {"coordinates":[-76.32689999999999,2.46319],"type":"Point"}
+}

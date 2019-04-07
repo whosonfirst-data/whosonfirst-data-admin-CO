@@ -1,0 +1,68 @@
+{
+  "id": 1259439553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83361,5.98556,-73.83361,5.98556",
+    "geom:latitude":5.98556,
+    "geom:longitude":-73.83361,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68101.0",
+    "gn:asciiname":"Plan de Gracia",
+    "gn:country_code":"CO",
+    "gn:dem":2852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777071,
+    "gn:latitude":5.98556,
+    "gn:longitude":-73.83361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Plan de Gracia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777071
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"df968a79e0f4f105f031ce80d50e116b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701241,
+            "locality_id":1259439553,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1259439553,
+    "wof:lastmodified":1536922767,
+    "wof:name":"Plan de Gracia",
+    "wof:parent_id":1108701241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83361,
+    5.98556,
+    -73.83361,
+    5.98556
+],
+  "geometry": {"coordinates":[-73.83360999999999,5.98556],"type":"Point"}
+}

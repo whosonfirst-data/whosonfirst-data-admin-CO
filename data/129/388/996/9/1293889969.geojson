@@ -1,0 +1,71 @@
+{
+  "id": 1293889969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6572,6.7057,-70.6572,6.7057",
+    "geom:latitude":6.7057,
+    "geom:longitude":-70.6572,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Las Tres Eras",
+    "gn:country_code":"CO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677083,
+    "gn:latitude":6.7057,
+    "gn:longitude":-70.6572,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Las Tres Eras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Tres Eras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677083
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"77562cd10dc9cb4966eb0200c5ca3bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1293889969,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1293889969,
+    "wof:lastmodified":1537618489,
+    "wof:name":"Las Tres Eras",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6572,
+    6.7057,
+    -70.6572,
+    6.7057
+],
+  "geometry": {"coordinates":[-70.6572,6.7057],"type":"Point"}
+}

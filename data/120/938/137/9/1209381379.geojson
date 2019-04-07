@@ -1,0 +1,62 @@
+{
+  "id": 1209381379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.7,11.6,-72.7,11.6",
+    "geom:latitude":11.6,
+    "geom:longitude":-72.7,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Parna",
+    "gn:country_code":"CO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672839,
+    "gn:latitude":11.6,
+    "gn:longitude":-72.7,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Parna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672839
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eccdc0a80051e2be3acae217eff034ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209381379
+        }
+    ],
+    "wof:id":1209381379,
+    "wof:lastmodified":1536288771,
+    "wof:name":"Parna",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.7,
+    11.6,
+    -72.7,
+    11.6
+],
+  "geometry": {"coordinates":[-72.7,11.6],"type":"Point"}
+}

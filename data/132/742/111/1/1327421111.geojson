@@ -1,0 +1,66 @@
+{
+  "id": 1327421111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34388,4.80416,-77.34388,4.80416",
+    "geom:latitude":4.80416,
+    "geom:longitude":-77.34388,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"27077.0",
+    "gn:asciiname":"Siviru",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667912,
+    "gn:latitude":4.80416,
+    "gn:longitude":-77.34388,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sivir\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sivira",
+        "Sivir\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667912
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2357298ed26a1db6414ea79006a3a42e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327421111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327421111,
+    "wof:lastmodified":1537618379,
+    "wof:name":"Siviru",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34388,
+    4.80416,
+    -77.34388,
+    4.80416
+],
+  "geometry": {"coordinates":[-77.34388,4.80416],"type":"Point"}
+}

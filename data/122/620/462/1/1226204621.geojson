@@ -1,0 +1,71 @@
+{
+  "id": 1226204621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94871,3.57255,-73.94871,3.57255",
+    "geom:latitude":3.57255,
+    "geom:longitude":-73.94871,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50251",
+    "gn:asciiname":"Pena Blanca",
+    "gn:country_code":"CO",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330507,
+    "gn:latitude":3.57255,
+    "gn:longitude":-73.94871,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pe\u00f1a Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330507
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"868fce77483aa9ab35652b52c1489bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700931,
+            "locality_id":1226204621,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226204621,
+    "wof:lastmodified":1537618828,
+    "wof:name":"Pena Blanca",
+    "wof:parent_id":1108700931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94870999999998,
+    3.57255,
+    -73.94870999999998,
+    3.57255
+],
+  "geometry": {"coordinates":[-73.94870999999998,3.57255],"type":"Point"}
+}

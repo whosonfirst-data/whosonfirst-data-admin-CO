@@ -1,0 +1,68 @@
+{
+  "id": 1276496959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62472,3.20778,-75.62472,3.20778",
+    "geom:latitude":3.20778,
+    "geom:longitude":-75.62472,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73555.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"CO",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737164,
+    "gn:latitude":3.20778,
+    "gn:longitude":-75.62472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737164
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bbeab94542e72594c02b84c7bbde40cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701453,
+            "locality_id":1276496959,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1276496959,
+    "wof:lastmodified":1537054537,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1108701453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62472,
+    3.20778,
+    -75.62472,
+    3.20778
+],
+  "geometry": {"coordinates":[-75.62472,3.20778],"type":"Point"}
+}

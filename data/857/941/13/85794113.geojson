@@ -1,0 +1,111 @@
+{
+  "id": 85794113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":27534039.695578,
+    "geom:bbox":"-74.193724,11.265328,-74.193724,11.265328",
+    "geom:latitude":11.265328,
+    "geom:longitude":-74.193724,
+    "gn:latitude":11.26667,
+    "gn:longitude":-74.2,
+    "iso:country":"CO",
+    "lbl:latitude":11.265328,
+    "lbl:longitude":-74.193724,
+    "mps:latitude":11.274841,
+    "mps:longitude":-74.190769,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Pescadito"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Pescadito"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Pescadito",
+        "Pescadito"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":8051263,
+    "qs:gn_nam_loc":"santa marta",
+    "qs:gn_namadm1":"38",
+    "qs:gn_name":"Pescadito",
+    "qs:local_max":2404,
+    "qs:local_sum":4136,
+    "qs:localhoods":6,
+    "qs:name":"Pescadito",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:name_adm2":"Santa Marta",
+    "qs:name_local":"Santa Marta",
+    "qs:photo_max":386,
+    "qs:photo_sum":2404,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":57,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345063,
+    "qs:woe_adm2":26797230,
+    "qs:woe_lau":0,
+    "qs:woe_local":368170,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672423,
+        "gp:id":363761,
+        "qs:id":298902
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c90662a2b22cedd859590764cfd64617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85794113,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85794113,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379261,
+    "wof:name":"Pescadito",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126102965
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.193724,
+    11.265328,
+    -74.193724,
+    11.265328
+],
+  "geometry": {"coordinates":[-74.193724,11.265328],"type":"Point"}
+}

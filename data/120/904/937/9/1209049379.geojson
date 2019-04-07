@@ -1,0 +1,67 @@
+{
+  "id": 1209049379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.42682,9.34126,-74.42682,9.34126",
+    "geom:latitude":9.34126,
+    "geom:longitude":-74.42682,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47545.0",
+    "gn:asciiname":"Cabrera",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688167,
+    "gn:latitude":9.34126,
+    "gn:longitude":-74.42682,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cabrera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Cabrera",
+        "Cabrero",
+        "Cabrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688167
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fd6f186617d827c40db99bcd5a401abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209049379
+        }
+    ],
+    "wof:id":1209049379,
+    "wof:lastmodified":1537618639,
+    "wof:name":"Cabrera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.42681999999998,
+    9.34126,
+    -74.42681999999998,
+    9.34126
+],
+  "geometry": {"coordinates":[-74.42681999999998,9.34126],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225795435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.01397,4.36309,-76.01397,4.36309",
+    "geom:latitude":4.36309,
+    "geom:longitude":-76.01397,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76895.0",
+    "gn:asciiname":"Vallejuelo",
+    "gn:country_code":"CO",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666300,
+    "gn:latitude":4.36309,
+    "gn:longitude":-76.01397,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vallejuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatejuelo",
+        "Vallejuelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421181795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666300
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bae4d86a5781827ab53aba37fc2e3127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181795,
+            "locality_id":1225795435,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1225795435,
+    "wof:lastmodified":1537618365,
+    "wof:name":"Vallejuelo",
+    "wof:parent_id":421181795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.01397,
+    4.36309,
+    -76.01397,
+    4.36309
+],
+  "geometry": {"coordinates":[-76.01397,4.36309],"type":"Point"}
+}

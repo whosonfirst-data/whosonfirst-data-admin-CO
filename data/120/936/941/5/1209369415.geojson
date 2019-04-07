@@ -1,0 +1,62 @@
+{
+  "id": 1209369415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.67001,5.91627,-73.67001,5.91627",
+    "geom:latitude":5.91627,
+    "geom:longitude":-73.67001,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68572.0",
+    "gn:asciiname":"Alto Juyamoca",
+    "gn:country_code":"CO",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776092,
+    "gn:latitude":5.91627,
+    "gn:longitude":-73.67001,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alto Juyamoca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776092
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bd7a8e62c721a9ad7b2d7a35af7b28d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209369415
+        }
+    ],
+    "wof:id":1209369415,
+    "wof:lastmodified":1536289159,
+    "wof:name":"Alto Juyamoca",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.67000999999998,
+    5.91627,
+    -73.67000999999998,
+    5.91627
+],
+  "geometry": {"coordinates":[-73.67000999999998,5.91627],"type":"Point"}
+}

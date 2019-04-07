@@ -1,0 +1,72 @@
+{
+  "id": 1309894467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.48178,10.7504,-73.48178,10.7504",
+    "geom:latitude":10.7504,
+    "geom:longitude":-73.48178,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Sacaracunguee",
+    "gn:country_code":"CO",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670436,
+    "gn:latitude":10.7504,
+    "gn:longitude":-73.48178,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sacaracung\u00fce",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seracunque",
+        "Sacaracung\u00fce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670436
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd540cae8b93ce2b34542fe246f83ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1309894467,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1309894467,
+    "wof:lastmodified":1537618408,
+    "wof:name":"Sacaracunguee",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.48178,
+    10.7504,
+    -73.48178,
+    10.7504
+],
+  "geometry": {"coordinates":[-73.48178,10.7504],"type":"Point"}
+}

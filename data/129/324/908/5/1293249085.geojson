@@ -1,0 +1,68 @@
+{
+  "id": 1293249085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71667,7.03333,-73.71667,7.03333",
+    "geom:latitude":7.03333,
+    "geom:longitude":-73.71667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68081.0",
+    "gn:asciiname":"Trieste",
+    "gn:country_code":"CO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666730,
+    "gn:latitude":7.03333,
+    "gn:longitude":-73.71667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Trieste",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666730
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b6c5851b46e33aaebe065306b92a936c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701195,
+            "locality_id":1293249085,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293249085,
+    "wof:lastmodified":1536632314,
+    "wof:name":"Trieste",
+    "wof:parent_id":1108701195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71667,
+    7.03333,
+    -73.71667,
+    7.03333
+],
+  "geometry": {"coordinates":[-73.71666999999999,7.03333],"type":"Point"}
+}

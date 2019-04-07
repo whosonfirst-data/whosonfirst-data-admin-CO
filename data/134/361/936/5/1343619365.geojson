@@ -1,0 +1,68 @@
+{
+  "id": 1343619365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82859,5.35971,-75.82859,5.35971",
+    "geom:latitude":5.35971,
+    "geom:longitude":-75.82859,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66318.0",
+    "gn:asciiname":"El Retiro",
+    "gn:country_code":"CO",
+    "gn:dem":2424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785242,
+    "gn:latitude":5.35971,
+    "gn:longitude":-75.82859,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421184591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785242
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3229428af83c47582d10c1425483c270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184591,
+            "locality_id":1343619365,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1343619365,
+    "wof:lastmodified":1537013725,
+    "wof:name":"El Retiro",
+    "wof:parent_id":421184591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82859,
+    5.35971,
+    -75.82859,
+    5.35971
+],
+  "geometry": {"coordinates":[-75.82859000000001,5.35971],"type":"Point"}
+}

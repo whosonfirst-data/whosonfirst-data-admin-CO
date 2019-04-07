@@ -1,0 +1,71 @@
+{
+  "id": 1327142787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5053,6.39174,-75.5053,6.39174",
+    "geom:latitude":6.39174,
+    "geom:longitude":-75.5053,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5212.0",
+    "gn:asciiname":"Vereda La Veta",
+    "gn:country_code":"CO",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8266542,
+    "gn:latitude":6.39174,
+    "gn:longitude":-75.5053,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda La Veta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda La Veta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266542
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"27c5fc736685de6fc513f3f711f3917e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188617,
+            "locality_id":1327142787,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327142787,
+    "wof:lastmodified":1537618768,
+    "wof:name":"Vereda La Veta",
+    "wof:parent_id":421188617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5053,
+    6.39174,
+    -75.5053,
+    6.39174
+],
+  "geometry": {"coordinates":[-75.50530000000001,6.39174],"type":"Point"}
+}

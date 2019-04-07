@@ -1,0 +1,66 @@
+{
+  "id": 1209668227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.67023,9.05422,-74.67023,9.05422",
+    "geom:latitude":9.05422,
+    "geom:longitude":-74.67023,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13430.0",
+    "gn:asciiname":"Palmarito",
+    "gn:country_code":"CO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673208,
+    "gn:latitude":9.05422,
+    "gn:longitude":-74.67023,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmarito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Palmarito",
+        "Palmarito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673208
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"60d5fa9216f990340153a0cd92f3edb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209668227
+        }
+    ],
+    "wof:id":1209668227,
+    "wof:lastmodified":1537618444,
+    "wof:name":"Palmarito",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.67023,
+    9.05422,
+    -74.67023,
+    9.05422
+],
+  "geometry": {"coordinates":[-74.67023,9.05422],"type":"Point"}
+}

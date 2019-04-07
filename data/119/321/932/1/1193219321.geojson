@@ -1,0 +1,68 @@
+{
+  "id": 1193219321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.42194,4.08639,-74.42194,4.08639",
+    "geom:latitude":4.08639,
+    "geom:longitude":-74.42194,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25506.0",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"CO",
+    "gn:dem":2475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737945,
+    "gn:latitude":4.08639,
+    "gn:longitude":-74.42194,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737945
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d375f3fcb4c43db039e7230c974855a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700691,
+            "locality_id":1193219321,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193219321,
+    "wof:lastmodified":1536377150,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":1108700691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.42194,
+    4.08639,
+    -74.42194,
+    4.08639
+],
+  "geometry": {"coordinates":[-74.42194000000001,4.08639],"type":"Point"}
+}

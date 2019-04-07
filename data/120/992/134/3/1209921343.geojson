@@ -1,0 +1,72 @@
+{
+  "id": 1209921343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.23053,6.37156,-70.23053,6.37156",
+    "geom:latitude":6.37156,
+    "geom:longitude":-70.23053,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81220.0",
+    "gn:asciiname":"El Milagro",
+    "gn:country_code":"CO",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683799,
+    "gn:latitude":6.37156,
+    "gn:longitude":-70.23053,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Milagro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milagro",
+        "El Milagro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683799
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a306d8dfdd6979e1689e3ed5b48a4e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1209921343,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1209921343,
+    "wof:lastmodified":1537618582,
+    "wof:name":"El Milagro",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.23053,
+    6.37156,
+    -70.23053,
+    6.37156
+],
+  "geometry": {"coordinates":[-70.23053,6.37156],"type":"Point"}
+}

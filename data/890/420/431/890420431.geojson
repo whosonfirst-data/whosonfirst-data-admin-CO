@@ -1,0 +1,120 @@
+{
+  "id": 890420431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51126,8.00151,-73.51126,8.00151",
+    "geom:latitude":8.00151,
+    "geom:longitude":-73.51126,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":7029,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d0\u10e0\u10e2\u10d8\u10dc\u10d8"
+    ],
+    "name:hrv_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:nan_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:tgl_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:vie_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:war_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "qs:name":"San Mart\u00edn",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":533,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792385,
+        "gp:id":353379,
+        "qs:id":96580,
+        "wd:id":"Q545257",
+        "wk:page":"San Mart\u00edn"
+    },
+    "wof:country":"CO",
+    "wof:created":1469051339,
+    "wof:geomhash":"77a1776590b92799d6d85e31d2c234fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700561,
+            "locality_id":890420431,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":890420431,
+    "wof:lastmodified":1553816392,
+    "wof:name":"San Mart\u00edn",
+    "wof:parent_id":1108700561,
+    "wof:placetype":"locality",
+    "wof:population":7029,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51126,
+    8.00151,
+    -73.51126,
+    8.00151
+],
+  "geometry": {"coordinates":[-73.51125999999999,8.00151],"type":"Point"}
+}

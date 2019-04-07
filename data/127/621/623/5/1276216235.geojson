@@ -1,0 +1,67 @@
+{
+  "id": 1276216235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.94083,1.62417,-76.94083,1.62417",
+    "geom:latitude":1.62417,
+    "geom:longitude":-76.94083,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"San Gerardo",
+    "gn:country_code":"CO",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736460,
+    "gn:latitude":1.62417,
+    "gn:longitude":-76.94083,
+    "gn:modification_date":"1994-09-16",
+    "gn:name":"San Gerardo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736460
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3ccff95eafbd1b98b786945988378caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701019,
+            "locality_id":1276216235,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276216235,
+    "wof:lastmodified":1536936693,
+    "wof:name":"San Gerardo",
+    "wof:parent_id":1108701019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.94083,
+    1.62417,
+    -76.94083,
+    1.62417
+],
+  "geometry": {"coordinates":[-76.94083000000001,1.62417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209967169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27536,3.29962,-76.27536,3.29962",
+    "geom:latitude":3.29962,
+    "geom:longitude":-76.27536,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76275.0",
+    "gn:asciiname":"Hacienda Belgica",
+    "gn:country_code":"CO",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622281,
+    "gn:latitude":3.29962,
+    "gn:longitude":-76.27536,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda B\u00e9lgica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda B\u00e9lgica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622281
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24dc3e6bd66c5fe2cf1dcb4e244e5f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188707,
+            "locality_id":1209967169,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1209967169,
+    "wof:lastmodified":1537618799,
+    "wof:name":"Hacienda Belgica",
+    "wof:parent_id":421188707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27535999999998,
+    3.29962,
+    -76.27535999999998,
+    3.29962
+],
+  "geometry": {"coordinates":[-76.27535999999998,3.29962],"type":"Point"}
+}

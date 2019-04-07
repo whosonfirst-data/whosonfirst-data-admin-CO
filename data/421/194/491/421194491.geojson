@@ -1,0 +1,115 @@
+{
+  "id": 421194491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25248,9.87809,-75.25248,9.87809",
+    "geom:latitude":9.87809,
+    "geom:longitude":-75.25248,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:fra_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:ita_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:msa_x_preferred":[
+        "San Cristobal"
+    ],
+    "name:nld_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:por_x_preferred":[
+        "San Cristobal"
+    ],
+    "name:sco_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:spa_x_preferred":[
+        "San Crist\u00f3bal"
+    ],
+    "name:tgl_x_preferred":[
+        "San Cristobal"
+    ],
+    "name:unk_x_variant":[
+        "Caserio San Cristobal"
+    ],
+    "name:vie_x_preferred":[
+        "San Cristobal"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669956,
+    "qs:gn_pop":4737,
+    "qs:name":"San Crist\u00f3bal",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1206330,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365317,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421192869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669956,
+        "gp:id":365317,
+        "qs:id":1206330,
+        "wd:id":"Q2434056",
+        "wk:page":"San Crist\u00f3bal, Bol\u00edvar"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009807,
+    "wof:geomhash":"2984bd55877f2fe00c0ae6d3b3a1d546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192869,
+            "locality_id":421194491,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":421194491,
+    "wof:lastmodified":1527716131,
+    "wof:name":"San Crist\u00f3bal",
+    "wof:parent_id":421192869,
+    "wof:placetype":"locality",
+    "wof:population":4737,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25248,
+    9.87809,
+    -75.25248,
+    9.87809
+],
+  "geometry": {"coordinates":[-75.25248000000001,9.87809],"type":"Point"}
+}

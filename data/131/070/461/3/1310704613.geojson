@@ -1,0 +1,71 @@
+{
+  "id": 1310704613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51657,6.16827,-75.51657,6.16827",
+    "geom:latitude":6.16827,
+    "geom:longitude":-75.51657,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5266.0",
+    "gn:asciiname":"La Explanada",
+    "gn:country_code":"CO",
+    "gn:dem":2613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337265,
+    "gn:latitude":6.16827,
+    "gn:longitude":-75.51657,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Explanada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Explanada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421200813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337265
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fb3fd1aaf7bc200c232a2c6c6bd18df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200813,
+            "locality_id":1310704613,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310704613,
+    "wof:lastmodified":1537618775,
+    "wof:name":"La Explanada",
+    "wof:parent_id":421200813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51657,
+    6.16827,
+    -75.51657,
+    6.16827
+],
+  "geometry": {"coordinates":[-75.51657,6.16827],"type":"Point"}
+}

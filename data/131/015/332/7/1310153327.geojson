@@ -1,0 +1,72 @@
+{
+  "id": 1310153327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62687,8.81723,-74.62687,8.81723",
+    "geom:latitude":8.81723,
+    "geom:longitude":-74.62687,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"Arboleda",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689701,
+    "gn:latitude":8.81723,
+    "gn:longitude":-74.62687,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arboleda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Arboleda",
+        "Arboleda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421188689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689701
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f3e2598e68824281b04e98b91d91146e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188689,
+            "locality_id":1310153327,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1310153327,
+    "wof:lastmodified":1537618657,
+    "wof:name":"Arboleda",
+    "wof:parent_id":421188689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62687,
+    8.81723,
+    -74.62687,
+    8.81723
+],
+  "geometry": {"coordinates":[-74.62687,8.81723],"type":"Point"}
+}

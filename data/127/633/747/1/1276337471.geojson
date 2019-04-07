@@ -1,0 +1,68 @@
+{
+  "id": 1276337471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.74784,8.1959,-76.74784,8.1959",
+    "geom:latitude":8.1959,
+    "geom:longitude":-76.74784,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5837.0",
+    "gn:asciiname":"Punta de Piedra",
+    "gn:country_code":"CO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671249,
+    "gn:latitude":8.1959,
+    "gn:longitude":-76.74784,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Punta de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421190195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671249
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"edd6d5742213997ef3b8cc3f6fe60516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190195,
+            "locality_id":1276337471,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1276337471,
+    "wof:lastmodified":1536773607,
+    "wof:name":"Punta de Piedra",
+    "wof:parent_id":421190195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.74784,
+    8.1959,
+    -76.74784,
+    8.1959
+],
+  "geometry": {"coordinates":[-76.74784,8.1959],"type":"Point"}
+}

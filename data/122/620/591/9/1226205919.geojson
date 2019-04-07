@@ -1,0 +1,68 @@
+{
+  "id": 1226205919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98179,12.1054,-71.98179,12.1054",
+    "geom:latitude":12.1054,
+    "geom:longitude":-71.98179,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Shariep Jaschina",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668113,
+    "gn:latitude":12.1054,
+    "gn:longitude":-71.98179,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sh\u00e1riep Jaschina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668113
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4bee16c8b2cf5acce46b685555f1fcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1226205919,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226205919,
+    "wof:lastmodified":1536990324,
+    "wof:name":"Shariep Jaschina",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98179,
+    12.1054,
+    -71.98179,
+    12.1054
+],
+  "geometry": {"coordinates":[-71.98179,12.1054],"type":"Point"}
+}

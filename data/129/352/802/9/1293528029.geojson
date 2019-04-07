@@ -1,0 +1,68 @@
+{
+  "id": 1293528029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35583,9.57917,-74.35583,9.57917",
+    "geom:latitude":9.57917,
+    "geom:longitude":-74.35583,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47460.0",
+    "gn:asciiname":"Los Andes",
+    "gn:country_code":"CO",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776043,
+    "gn:latitude":9.57917,
+    "gn:longitude":-74.35583,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Andes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776043
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6b58a7868760c42f47315268a291c709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700891,
+            "locality_id":1293528029,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1293528029,
+    "wof:lastmodified":1536729007,
+    "wof:name":"Los Andes",
+    "wof:parent_id":1108700891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35583000000003,
+    9.57917,
+    -74.35583000000003,
+    9.57917
+],
+  "geometry": {"coordinates":[-74.35583000000003,9.57917],"type":"Point"}
+}

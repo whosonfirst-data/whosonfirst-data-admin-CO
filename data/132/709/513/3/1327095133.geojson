@@ -1,0 +1,68 @@
+{
+  "id": 1327095133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53278,3.31417,-76.53278,3.31417",
+    "geom:latitude":3.31417,
+    "geom:longitude":-76.53278,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76001.0",
+    "gn:asciiname":"La Viga",
+    "gn:country_code":"CO",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764009,
+    "gn:latitude":3.31417,
+    "gn:longitude":-76.53278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Viga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764009
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6809cc3f6e14e0f7c6b5fedd9dc87177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":1327095133,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327095133,
+    "wof:lastmodified":1536670066,
+    "wof:name":"La Viga",
+    "wof:parent_id":421170643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53278,
+    3.31417,
+    -76.53278,
+    3.31417
+],
+  "geometry": {"coordinates":[-76.53278,3.31417],"type":"Point"}
+}

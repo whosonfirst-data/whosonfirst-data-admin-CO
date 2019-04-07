@@ -1,0 +1,71 @@
+{
+  "id": 1343412239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77285,3.83635,-74.77285,3.83635",
+    "geom:latitude":3.83635,
+    "geom:longitude":-74.77285,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73585",
+    "gn:asciiname":"El Cirineo",
+    "gn:country_code":"CO",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630596,
+    "gn:latitude":3.83635,
+    "gn:longitude":-74.77285,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cirineo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Cirineo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421181785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630596
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"30956f671a498e70db1ba2009e89613b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181785,
+            "locality_id":1343412239,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1343412239,
+    "wof:lastmodified":1537618843,
+    "wof:name":"El Cirineo",
+    "wof:parent_id":421181785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77285,
+    3.83635,
+    -74.77285,
+    3.83635
+],
+  "geometry": {"coordinates":[-74.77285000000001,3.83635],"type":"Point"}
+}

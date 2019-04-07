@@ -1,0 +1,75 @@
+{
+  "id": 1327002113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02564,1.94651,-76.02564,1.94651",
+    "geom:latitude":1.94651,
+    "geom:longitude":-76.02564,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41551.0",
+    "gn:asciiname":"Guacacallo",
+    "gn:country_code":"CO",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681827,
+    "gn:latitude":1.94651,
+    "gn:longitude":-76.02564,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guacacallo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guacacallo"
+    ],
+    "name:und_x_variant":[
+        "Guaracullo",
+        "Guacacallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421193617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681827
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e7ab99045b7655204c5373c02f3db554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421193617,
+            "locality_id":1327002113,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327002113,
+    "wof:lastmodified":1537618554,
+    "wof:name":"Guacacallo",
+    "wof:parent_id":421193617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02564,
+    1.94651,
+    -76.02564,
+    1.94651
+],
+  "geometry": {"coordinates":[-76.02564,1.94651],"type":"Point"}
+}

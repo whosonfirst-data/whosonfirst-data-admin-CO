@@ -1,0 +1,62 @@
+{
+  "id": 1209201155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61667,8.85889,-75.61667,8.85889",
+    "geom:latitude":8.85889,
+    "geom:longitude":-75.61667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23189.0",
+    "gn:asciiname":"Beyrut",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783108,
+    "gn:latitude":8.85889,
+    "gn:longitude":-75.61667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Beyrut",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783108
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7eb5ae01e661ccc70d7091493ad9c59a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209201155
+        }
+    ],
+    "wof:id":1209201155,
+    "wof:lastmodified":1536294606,
+    "wof:name":"Beyrut",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61667,
+    8.858889999999997,
+    -75.61667,
+    8.858889999999997
+],
+  "geometry": {"coordinates":[-75.61667,8.85889],"type":"Point"}
+}

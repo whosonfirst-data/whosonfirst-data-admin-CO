@@ -1,0 +1,72 @@
+{
+  "id": 1243010995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15565,10.69349,-74.15565,10.69349",
+    "geom:latitude":10.69349,
+    "geom:longitude":-74.15565,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47980.0",
+    "gn:asciiname":"Guamachito",
+    "gn:country_code":"CO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681611,
+    "gn:latitude":10.69349,
+    "gn:longitude":-74.15565,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guamachito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamanchito",
+        "Guamachito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681611
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"082a24455c78af98e62180df3d664344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700923,
+            "locality_id":1243010995,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243010995,
+    "wof:lastmodified":1537618552,
+    "wof:name":"Guamachito",
+    "wof:parent_id":1108700923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15565,
+    10.69349,
+    -74.15565,
+    10.69349
+],
+  "geometry": {"coordinates":[-74.15564999999999,10.69349],"type":"Point"}
+}

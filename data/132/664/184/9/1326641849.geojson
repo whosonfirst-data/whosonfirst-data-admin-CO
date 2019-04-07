@@ -1,0 +1,68 @@
+{
+  "id": 1326641849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61417,6.71306,-75.61417,6.71306",
+    "geom:latitude":6.71306,
+    "geom:longitude":-75.61417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5086.0",
+    "gn:asciiname":"Las Palmas",
+    "gn:country_code":"CO",
+    "gn:dem":2506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787477,
+    "gn:latitude":6.71306,
+    "gn:longitude":-75.61417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787477
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"df4d1410eadd366208a7fb0ff3048ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699921,
+            "locality_id":1326641849,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1326641849,
+    "wof:lastmodified":1536824963,
+    "wof:name":"Las Palmas",
+    "wof:parent_id":1108699921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61417,
+    6.71306,
+    -75.61417,
+    6.71306
+],
+  "geometry": {"coordinates":[-75.61417,6.71306],"type":"Point"}
+}

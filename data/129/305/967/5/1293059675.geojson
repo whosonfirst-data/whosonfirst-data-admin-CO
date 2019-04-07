@@ -1,0 +1,71 @@
+{
+  "id": 1293059675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24543,0.53507,-75.24543,0.53507",
+    "geom:latitude":0.53507,
+    "geom:longitude":-75.24543,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86573.0",
+    "gn:asciiname":"Bellavista",
+    "gn:country_code":"CO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688971,
+    "gn:latitude":0.53507,
+    "gn:longitude":-75.24543,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bellavista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bellavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688971
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ede8a2f48301c22f2a2aad83d60832e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701569,
+            "locality_id":1293059675,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1293059675,
+    "wof:lastmodified":1537618648,
+    "wof:name":"Bellavista",
+    "wof:parent_id":1108701569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24543,
+    0.53507,
+    -75.24543,
+    0.53507
+],
+  "geometry": {"coordinates":[-75.24543,0.53507],"type":"Point"}
+}

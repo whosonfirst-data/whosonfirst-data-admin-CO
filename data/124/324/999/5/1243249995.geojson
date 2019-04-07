@@ -1,0 +1,68 @@
+{
+  "id": 1243249995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.35154,8.52788,-75.35154,8.52788",
+    "geom:latitude":8.52788,
+    "geom:longitude":-75.35154,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23570.0",
+    "gn:asciiname":"El Tesoro",
+    "gn:country_code":"CO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682930,
+    "gn:latitude":8.52788,
+    "gn:longitude":-75.35154,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Tesoro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682930
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dc424e155a477979e5d434a4e8352060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700591,
+            "locality_id":1243249995,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1243249995,
+    "wof:lastmodified":1537085576,
+    "wof:name":"El Tesoro",
+    "wof:parent_id":1108700591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35154,
+    8.52788,
+    -75.35154,
+    8.52788
+],
+  "geometry": {"coordinates":[-75.35154,8.52788],"type":"Point"}
+}

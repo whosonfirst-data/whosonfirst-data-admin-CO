@@ -1,0 +1,62 @@
+{
+  "id": 1209165881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50292,5.50401,-75.50292,5.50401",
+    "geom:latitude":5.50401,
+    "geom:longitude":-75.50292,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17513.0",
+    "gn:asciiname":"El Descanso",
+    "gn:country_code":"CO",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780779,
+    "gn:latitude":5.50401,
+    "gn:longitude":-75.50292,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Descanso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780779
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a7264b3f360beb7f6f12b5bab7f7c731",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209165881
+        }
+    ],
+    "wof:id":1209165881,
+    "wof:lastmodified":1536295749,
+    "wof:name":"El Descanso",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50291999999997,
+    5.50401,
+    -75.50291999999997,
+    5.50401
+],
+  "geometry": {"coordinates":[-75.50291999999997,5.50401],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343904791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85,3.86667,-76.85,3.86667",
+    "geom:latitude":3.86667,
+    "geom:longitude":-76.85,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76109.0",
+    "gn:asciiname":"Bodega",
+    "gn:country_code":"CO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688700,
+    "gn:latitude":3.86667,
+    "gn:longitude":-76.85,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bodega",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421190219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688700
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b0f415d46df710419eb08b7694e8b0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190219,
+            "locality_id":1343904791,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1343904791,
+    "wof:lastmodified":1537097007,
+    "wof:name":"Bodega",
+    "wof:parent_id":421190219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85,
+    3.86667,
+    -76.85,
+    3.86667
+],
+  "geometry": {"coordinates":[-76.84999999999999,3.86667],"type":"Point"}
+}

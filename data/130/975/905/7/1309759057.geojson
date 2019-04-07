@@ -1,0 +1,71 @@
+{
+  "id": 1309759057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86708,8.35805,-73.86708,8.35805",
+    "geom:latitude":8.35805,
+    "geom:longitude":-73.86708,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13473.0",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"CO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015666,
+    "gn:latitude":8.35805,
+    "gn:longitude":-73.86708,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Delicias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015666
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3f4c6cca6143bfdeb2436819964ec317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700135,
+            "locality_id":1309759057,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1309759057,
+    "wof:lastmodified":1537618747,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":1108700135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86708,
+    8.35805,
+    -73.86708,
+    8.35805
+],
+  "geometry": {"coordinates":[-73.86708,8.35805],"type":"Point"}
+}

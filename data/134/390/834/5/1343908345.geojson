@@ -1,0 +1,68 @@
+{
+  "id": 1343908345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33583,4.35639,-76.33583,4.35639",
+    "geom:latitude":4.35639,
+    "geom:longitude":-76.33583,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76100.0",
+    "gn:asciiname":"Betun",
+    "gn:country_code":"CO",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782872,
+    "gn:latitude":4.35639,
+    "gn:longitude":-76.33583,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bet\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782872
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8324b49ca9db9e57189d67c662a02665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701485,
+            "locality_id":1343908345,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1343908345,
+    "wof:lastmodified":1537092116,
+    "wof:name":"Betun",
+    "wof:parent_id":1108701485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33583,
+    4.35639,
+    -76.33583,
+    4.35639
+],
+  "geometry": {"coordinates":[-76.33583,4.35639],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 421203805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.42587,6.10333,-77.42587,6.10333",
+    "geom:latitude":6.10333,
+    "geom:longitude":-77.42587,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3682790,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Choco",
+    "qs:photos":433,
+    "qs:photos_1k":88,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":433,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235286,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":356232,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682790,
+        "gp:id":356232,
+        "qs:id":235286
+    },
+    "wof:country":"CO",
+    "wof:created":1459010164,
+    "wof:geomhash":"7745070b30b59346ad16f92584bc395f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700747,
+            "locality_id":421203805,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":421203805,
+    "wof:lastmodified":1527716194,
+    "wof:name":"El Valle",
+    "wof:parent_id":1108700747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.42587,
+    6.10333,
+    -77.42587,
+    6.10333
+],
+  "geometry": {"coordinates":[-77.42587,6.10333],"type":"Point"}
+}

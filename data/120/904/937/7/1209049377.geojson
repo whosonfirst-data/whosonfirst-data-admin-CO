@@ -1,0 +1,62 @@
+{
+  "id": 1209049377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95756,9.26671,-73.95756,9.26671",
+    "geom:latitude":9.26671,
+    "geom:longitude":-73.95756,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47245.0",
+    "gn:asciiname":"Monte Libano",
+    "gn:country_code":"CO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731404,
+    "gn:latitude":9.26671,
+    "gn:longitude":-73.95756,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Monte Libano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731404
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8983e16ef33127fe2acd2c69a743ab2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209049377
+        }
+    ],
+    "wof:id":1209049377,
+    "wof:lastmodified":1536299300,
+    "wof:name":"Monte Libano",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95756,
+    9.26671,
+    -73.95756,
+    9.26671
+],
+  "geometry": {"coordinates":[-73.95756,9.26671],"type":"Point"}
+}

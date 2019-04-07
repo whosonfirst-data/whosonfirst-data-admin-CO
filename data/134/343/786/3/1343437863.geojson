@@ -1,0 +1,73 @@
+{
+  "id": 1343437863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27024,8.7913,-75.27024,8.7913",
+    "geom:latitude":8.7913,
+    "geom:longitude":-75.27024,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Conguitos",
+    "gn:country_code":"CO",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676209,
+    "gn:latitude":8.7913,
+    "gn:longitude":-75.27024,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Conguitos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Los Conguitos",
+        "Los Conguatos",
+        "Conguito",
+        "Los Conguitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676209
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ab33aecc021420b43c1bc8053e8669e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701397,
+            "locality_id":1343437863,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343437863,
+    "wof:lastmodified":1537618476,
+    "wof:name":"Los Conguitos",
+    "wof:parent_id":1108701397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27024,
+    8.7913,
+    -75.27024,
+    8.7913
+],
+  "geometry": {"coordinates":[-75.27024,8.7913],"type":"Point"}
+}

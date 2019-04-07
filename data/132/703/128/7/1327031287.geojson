@@ -1,0 +1,68 @@
+{
+  "id": 1327031287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43666,6.85083,-70.43666,6.85083",
+    "geom:latitude":6.85083,
+    "geom:longitude":-70.43666,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Los Morrocoyes",
+    "gn:country_code":"CO",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676033,
+    "gn:latitude":6.85083,
+    "gn:longitude":-70.43666,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Morrocoyes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676033
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"feb78eb7a7ee69794a60443630d027e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1327031287,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1327031287,
+    "wof:lastmodified":1536762324,
+    "wof:name":"Los Morrocoyes",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43666,
+    6.85083,
+    -70.43666,
+    6.85083
+],
+  "geometry": {"coordinates":[-70.43666,6.85083],"type":"Point"}
+}

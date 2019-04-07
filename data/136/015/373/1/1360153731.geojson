@@ -1,0 +1,68 @@
+{
+  "id": 1360153731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33719,7.11768,-72.33719,7.11768",
+    "geom:latitude":7.11768,
+    "geom:longitude":-72.33719,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54820.0",
+    "gn:asciiname":"Miralindo",
+    "gn:country_code":"CO",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757024,
+    "gn:latitude":7.11768,
+    "gn:longitude":-72.33719,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Miralindo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757024
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"27f872d91c202afe855992636193f2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701157,
+            "locality_id":1360153731,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1360153731,
+    "wof:lastmodified":1536845676,
+    "wof:name":"Miralindo",
+    "wof:parent_id":1108701157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33719,
+    7.11768,
+    -72.33719,
+    7.11768
+],
+  "geometry": {"coordinates":[-72.33719000000001,7.11768],"type":"Point"}
+}

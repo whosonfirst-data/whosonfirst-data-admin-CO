@@ -1,0 +1,65 @@
+{
+  "id": 1209279711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31994,3.34557,-73.31994,3.34557",
+    "geom:latitude":3.34557,
+    "geom:longitude":-73.31994,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50577.0",
+    "gn:asciiname":"Mani",
+    "gn:country_code":"CO",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8599344,
+    "gn:latitude":3.34557,
+    "gn:longitude":-73.31994,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Man\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Man\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8599344
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"71723c5a5b0eb58a32cbd7870cae9813",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209279711
+        }
+    ],
+    "wof:id":1209279711,
+    "wof:lastmodified":1537618797,
+    "wof:name":"Mani",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31994,
+    3.34557,
+    -73.31994,
+    3.34557
+],
+  "geometry": {"coordinates":[-73.31994,3.34557],"type":"Point"}
+}

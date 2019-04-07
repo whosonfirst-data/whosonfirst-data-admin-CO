@@ -1,0 +1,68 @@
+{
+  "id": 1343957869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13333,10.8,-75.13333,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":-75.13333,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8549.0",
+    "gn:asciiname":"Manglar",
+    "gn:country_code":"CO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675466,
+    "gn:latitude":10.8,
+    "gn:longitude":-75.13333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Manglar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675466
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e343c5bc0f21142b3ad52dc721fddb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700067,
+            "locality_id":1343957869,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1343957869,
+    "wof:lastmodified":1537022746,
+    "wof:name":"Manglar",
+    "wof:parent_id":1108700067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13333,
+    10.8,
+    -75.13333,
+    10.8
+],
+  "geometry": {"coordinates":[-75.13333,10.8],"type":"Point"}
+}

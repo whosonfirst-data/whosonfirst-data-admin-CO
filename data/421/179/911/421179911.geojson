@@ -1,0 +1,153 @@
+{
+  "id": 421179911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64317,6.15769,-75.64317,6.15769",
+    "geom:latitude":6.15769,
+    "geom:longitude":-75.64317,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u62c9\u57c3\u65af\u7279\u96f7\u5229\u4e9e"
+    ],
+    "name:diq_x_preferred":[
+        "La Estrella"
+    ],
+    "name:dut_x_preferred":[
+        "La Estrella"
+    ],
+    "name:eng_x_preferred":[
+        "La Estrella"
+    ],
+    "name:fre_x_preferred":[
+        "La Estrella"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10d4\u10e1\u10e2\u10e0\u10d4\u10da\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Estrella"
+    ],
+    "name:gla_x_preferred":[
+        "La Estrella"
+    ],
+    "name:ile_x_preferred":[
+        "La Estrella"
+    ],
+    "name:ita_x_preferred":[
+        "La Estrella"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a8\u30b9\u30c8\u30ec\u30fc\u30b8\u30e3"
+    ],
+    "name:may_x_preferred":[
+        "La Estrella"
+    ],
+    "name:nan_x_preferred":[
+        "La Estrella"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u062a\u0631\u06cc\u06cc\u0627"
+    ],
+    "name:por_x_preferred":[
+        "La Estrella"
+    ],
+    "name:rum_x_preferred":[
+        "La Estrella"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u042d\u0441\u0442\u0440\u0435\u043b\u044c\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "La Estrella"
+    ],
+    "name:spa_x_preferred":[
+        "La Estrella"
+    ],
+    "name:tgl_x_preferred":[
+        "La Estrella"
+    ],
+    "name:unk_x_variant":[
+        "Estrella"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u0679\u0631\u06cc\u0644\u0627\u060c \u0627\u0646\u0679\u06cc\u0648\u06a9\u0648\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Estrella"
+    ],
+    "name:war_x_preferred":[
+        "La Estrella"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3679065,
+    "qs:gn_pop":49386,
+    "qs:name":"La Estrella",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":240965,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":358787,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":341,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679065,
+        "gp:id":358787,
+        "qs:id":240965,
+        "wd:id":"Q932102"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009237,
+    "wof:geomhash":"03db8a0c662f612865bc3a4bee5e43d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170567,
+            "locality_id":421179911,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421179911,
+    "wof:lastmodified":1527717716,
+    "wof:name":"La Estrella",
+    "wof:parent_id":421170567,
+    "wof:placetype":"locality",
+    "wof:population":49386,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64317,
+    6.15769,
+    -75.64317,
+    6.15769
+],
+  "geometry": {"coordinates":[-75.64317,6.15769],"type":"Point"}
+}

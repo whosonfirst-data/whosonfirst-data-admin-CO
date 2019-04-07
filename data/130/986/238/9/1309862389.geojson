@@ -1,0 +1,68 @@
+{
+  "id": 1309862389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.52056,7.38167,-73.52056,7.38167",
+    "geom:latitude":7.38167,
+    "geom:longitude":-73.52056,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68655.0",
+    "gn:asciiname":"Agua Fria",
+    "gn:country_code":"CO",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829610,
+    "gn:latitude":7.38167,
+    "gn:longitude":-73.52056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Agua Fr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829610
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f9b6bfcc0f0eff82ee394b2d2b0d2e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701329,
+            "locality_id":1309862389,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1309862389,
+    "wof:lastmodified":1536848600,
+    "wof:name":"Agua Fria",
+    "wof:parent_id":1108701329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.52056,
+    7.38167,
+    -73.52056,
+    7.38167
+],
+  "geometry": {"coordinates":[-73.52056,7.38167],"type":"Point"}
+}

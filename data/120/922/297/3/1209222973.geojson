@@ -1,0 +1,67 @@
+{
+  "id": 1209222973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88333,5.75,-74.88333,5.75",
+    "geom:latitude":5.75,
+    "geom:longitude":-74.88333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5756.0",
+    "gn:asciiname":"Pajuil",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673329,
+    "gn:latitude":5.75,
+    "gn:longitude":-74.88333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pajuil",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paujuil",
+        "Pajuil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673329
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"85d628e0b9e38a88772536a82b26f24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209222973
+        }
+    ],
+    "wof:id":1209222973,
+    "wof:lastmodified":1537618445,
+    "wof:name":"Pajuil",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88333,
+    5.75,
+    -74.88333,
+    5.75
+],
+  "geometry": {"coordinates":[-74.88333,5.75],"type":"Point"}
+}

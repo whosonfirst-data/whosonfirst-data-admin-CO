@@ -1,0 +1,79 @@
+{
+  "id": 421199563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.17332,10.38439,-73.17332,10.38439",
+    "geom:latitude":10.38439,
+    "geom:longitude":-73.17332,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678186,
+    "qs:gn_pop":13249,
+    "qs:name":"La Paz",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cesar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":194494,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359652,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678186,
+        "gp:id":359652,
+        "qs:id":194494
+    },
+    "wof:country":"CO",
+    "wof:created":1459009993,
+    "wof:geomhash":"7f3b1ae86c79976fc266077f4dbafc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":421199563,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":421199563,
+    "wof:lastmodified":1505340763,
+    "wof:name":"La Paz",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:population":13249,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17332,
+    10.38439,
+    -73.17332,
+    10.38439
+],
+  "geometry": {"coordinates":[-73.17332,10.38439],"type":"Point"}
+}

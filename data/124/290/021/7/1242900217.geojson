@@ -1,0 +1,68 @@
+{
+  "id": 1242900217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.9075,3.51028,-69.9075,3.51028",
+    "geom:latitude":3.51028,
+    "geom:longitude":-69.9075,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Valdivia",
+    "gn:country_code":"CO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794112,
+    "gn:latitude":3.51028,
+    "gn:longitude":-69.9075,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Valdivia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794112
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"81e04c1adf8f8295461c0712bdfa1a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1242900217,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1242900217,
+    "wof:lastmodified":1537092843,
+    "wof:name":"Valdivia",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.9075,
+    3.51028,
+    -69.9075,
+    3.51028
+],
+  "geometry": {"coordinates":[-69.9075,3.51028],"type":"Point"}
+}

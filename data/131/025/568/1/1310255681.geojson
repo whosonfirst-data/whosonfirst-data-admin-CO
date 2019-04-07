@@ -1,0 +1,68 @@
+{
+  "id": 1310255681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6625,3.43056,-75.6625,3.43056",
+    "geom:latitude":3.43056,
+    "geom:longitude":-75.6625,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73067.0",
+    "gn:asciiname":"La Camelia",
+    "gn:country_code":"CO",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737257,
+    "gn:latitude":3.43056,
+    "gn:longitude":-75.6625,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Camelia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737257
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"996e0b337fde5b4170c32e7b83cf150d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701429,
+            "locality_id":1310255681,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310255681,
+    "wof:lastmodified":1536780411,
+    "wof:name":"La Camelia",
+    "wof:parent_id":1108701429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6625,
+    3.43056,
+    -75.6625,
+    3.43056
+],
+  "geometry": {"coordinates":[-75.66249999999999,3.43056],"type":"Point"}
+}

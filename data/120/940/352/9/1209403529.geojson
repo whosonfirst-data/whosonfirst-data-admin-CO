@@ -1,0 +1,62 @@
+{
+  "id": 1209403529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.39295,10.18162,-73.39295,10.18162",
+    "geom:latitude":10.18162,
+    "geom:longitude":-73.39295,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"CO",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559699,
+    "gn:latitude":10.18162,
+    "gn:longitude":-73.39295,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559699
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ee337919bdb847d691719be6e0ed49a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209403529
+        }
+    ],
+    "wof:id":1209403529,
+    "wof:lastmodified":1536288068,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39295,
+    10.18162,
+    -73.39295,
+    10.18162
+],
+  "geometry": {"coordinates":[-73.39295,10.18162],"type":"Point"}
+}

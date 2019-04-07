@@ -1,0 +1,103 @@
+{
+  "id": 1126104277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10143,4.60172,-74.10143,4.60172",
+    "geom:latitude":4.60172,
+    "geom:longitude":-74.10143,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.60173,
+    "gn:longitude":-74.10143,
+    "iso:country":"CO",
+    "lbl:latitude":4.60172,
+    "lbl:longitude":-74.10143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_colloquial":[
+        "Tivoli"
+    ],
+    "name:spa_x_preferred":[
+        "T\u00edvoli"
+    ],
+    "name:unk_x_variant":[
+        "T\u00edvoli"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3667016,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"T\u00edvoli",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":184,
+    "qs_pg:photos_1k":37,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":184,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":475133,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":367318,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667016,
+        "gp:id":367318,
+        "qs:id":475133,
+        "qs_pg:id":475133
+    },
+    "wof:country":"CO",
+    "wof:created":1497316649,
+    "wof:geomhash":"241d6b482a110318fd0bfb3ab0112467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126104277,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126104277,
+    "wof:lastmodified":1534379262,
+    "wof:name":"T\u00edvoli",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764815
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10143,
+    4.60172,
+    -74.10143,
+    4.60172
+],
+  "geometry": {"coordinates":[-74.10142999999999,4.60172],"type":"Point"}
+}

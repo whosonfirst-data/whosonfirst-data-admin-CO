@@ -1,0 +1,71 @@
+{
+  "id": 1226407605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81582,2.22073,-73.81582,2.22073",
+    "geom:latitude":2.22073,
+    "geom:longitude":-73.81582,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50350.0",
+    "gn:asciiname":"Playa El Diablo",
+    "gn:country_code":"CO",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8601254,
+    "gn:latitude":2.22073,
+    "gn:longitude":-73.81582,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Playa El Diablo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Playa El Diablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8601254
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d4e6816f808da84e39230b01b82ad9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169199,
+            "locality_id":1226407605,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226407605,
+    "wof:lastmodified":1537618797,
+    "wof:name":"Playa El Diablo",
+    "wof:parent_id":421169199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81582,
+    2.22073,
+    -73.81582,
+    2.22073
+],
+  "geometry": {"coordinates":[-73.81582,2.22073],"type":"Point"}
+}

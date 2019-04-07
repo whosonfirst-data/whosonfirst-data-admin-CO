@@ -1,0 +1,71 @@
+{
+  "id": 1243160839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.77824,8.14586,-73.77824,8.14586",
+    "geom:latitude":8.14586,
+    "geom:longitude":-73.77824,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Olaya Herrera",
+    "gn:country_code":"CO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673604,
+    "gn:latitude":8.14586,
+    "gn:longitude":-73.77824,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Olaya Herrera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bodega Central",
+        "Olaya Herrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673604
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"69e66d9ff47286d865339dc6a7afd3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700135,
+            "locality_id":1243160839,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1243160839,
+    "wof:lastmodified":1537618447,
+    "wof:name":"Olaya Herrera",
+    "wof:parent_id":1108700135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.77824,
+    8.14586,
+    -73.77824,
+    8.14586
+],
+  "geometry": {"coordinates":[-73.77824,8.14586],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243513661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.61611,4.71417,-72.61611,4.71417",
+    "geom:latitude":4.71417,
+    "geom:longitude":-72.61611,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"La Providencia",
+    "gn:country_code":"CO",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677982,
+    "gn:latitude":4.71417,
+    "gn:longitude":-72.61611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677982
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"255ea1bc459a12d686fb1195980f12f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701553,
+            "locality_id":1243513661,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1243513661,
+    "wof:lastmodified":1536709032,
+    "wof:name":"La Providencia",
+    "wof:parent_id":1108701553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.61610999999998,
+    4.71417,
+    -72.61610999999998,
+    4.71417
+],
+  "geometry": {"coordinates":[-72.61610999999998,4.71417],"type":"Point"}
+}

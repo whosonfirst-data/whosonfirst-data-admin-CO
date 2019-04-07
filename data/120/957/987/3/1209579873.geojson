@@ -1,0 +1,62 @@
+{
+  "id": 1209579873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57333,8.45611,-72.57333,8.45611",
+    "geom:latitude":8.45611,
+    "geom:longitude":-72.57333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54810.0",
+    "gn:asciiname":"El Cortico",
+    "gn:country_code":"CO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738394,
+    "gn:latitude":8.45611,
+    "gn:longitude":-72.57333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cortico",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738394
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"89224295c192eeb8d68ef5042fe2f062",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209579873
+        }
+    ],
+    "wof:id":1209579873,
+    "wof:lastmodified":1536282822,
+    "wof:name":"El Cortico",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57333,
+    8.45611,
+    -72.57333,
+    8.45611
+],
+  "geometry": {"coordinates":[-72.57333,8.45611],"type":"Point"}
+}

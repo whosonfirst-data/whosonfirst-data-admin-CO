@@ -1,0 +1,71 @@
+{
+  "id": 1310386799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74961,3.42963,-74.74961,3.42963",
+    "geom:latitude":3.42963,
+    "geom:longitude":-74.74961,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41206.0",
+    "gn:asciiname":"El Confin",
+    "gn:country_code":"CO",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828222,
+    "gn:latitude":3.42963,
+    "gn:longitude":-74.74961,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Conf\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Conf\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828222
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4d927e0da0ecb5a3b578287b38f61f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700809,
+            "locality_id":1310386799,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1310386799,
+    "wof:lastmodified":1537618697,
+    "wof:name":"El Confin",
+    "wof:parent_id":1108700809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74961,
+    3.42963,
+    -74.74961,
+    3.42963
+],
+  "geometry": {"coordinates":[-74.74961,3.42963],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242786181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96537,5.70085,-75.96537,5.70085",
+    "geom:latitude":5.70085,
+    "geom:longitude":-75.96537,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5034.0",
+    "gn:asciiname":"Taparto",
+    "gn:country_code":"CO",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780316,
+    "gn:latitude":5.70085,
+    "gn:longitude":-75.96537,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tapart\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780316
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c69cba6d58a3c89277910b8853f1b506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188613,
+            "locality_id":1242786181,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1242786181,
+    "wof:lastmodified":1536763472,
+    "wof:name":"Taparto",
+    "wof:parent_id":421188613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96537,
+    5.70085,
+    -75.96537,
+    5.70085
+],
+  "geometry": {"coordinates":[-75.96536999999999,5.70085],"type":"Point"}
+}

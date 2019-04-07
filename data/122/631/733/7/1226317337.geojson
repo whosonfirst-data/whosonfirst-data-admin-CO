@@ -1,0 +1,71 @@
+{
+  "id": 1226317337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.7446,3.64302,-73.7446,3.64302",
+    "geom:latitude":3.64302,
+    "geom:longitude":-73.7446,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Piedra Negra",
+    "gn:country_code":"CO",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8578268,
+    "gn:latitude":3.64302,
+    "gn:longitude":-73.7446,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Piedra Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedra Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8578268
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fc42a053f7a4d519b9135bfdf0f45b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1226317337,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226317337,
+    "wof:lastmodified":1537618789,
+    "wof:name":"Piedra Negra",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.7446,
+    3.64302,
+    -73.7446,
+    3.64302
+],
+  "geometry": {"coordinates":[-73.74460000000001,3.64302],"type":"Point"}
+}

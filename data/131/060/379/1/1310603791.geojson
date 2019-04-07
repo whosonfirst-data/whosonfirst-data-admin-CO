@@ -1,0 +1,75 @@
+{
+  "id": 1310603791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65669,6.18458,-75.65669,6.18458",
+    "geom:latitude":6.18458,
+    "geom:longitude":-75.65669,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5001.0",
+    "gn:asciiname":"San Antonio del Prado",
+    "gn:country_code":"CO",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670061,
+    "gn:latitude":6.18458,
+    "gn:longitude":-75.65669,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Antonio del Prado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio del Prado"
+    ],
+    "name:und_x_variant":[
+        "Prado",
+        "San Antonio de Prado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670061
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad1108d0ca24ac81a7fd2ba6afd2165c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":1310603791,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310603791,
+    "wof:lastmodified":1537618404,
+    "wof:name":"San Antonio del Prado",
+    "wof:parent_id":421205069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65669,
+    6.18458,
+    -75.65669,
+    6.18458
+],
+  "geometry": {"coordinates":[-75.65669,6.18458],"type":"Point"}
+}

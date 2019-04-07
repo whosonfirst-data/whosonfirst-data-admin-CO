@@ -1,0 +1,68 @@
+{
+  "id": 1243029795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4275,1.56472,-77.4275,1.56472",
+    "geom:latitude":1.56472,
+    "geom:longitude":-77.4275,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52254.0",
+    "gn:asciiname":"Pindal Guascaurco",
+    "gn:country_code":"CO",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736048,
+    "gn:latitude":1.56472,
+    "gn:longitude":-77.4275,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pindal Guascaurco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736048
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"93266d82a5584c74b553f351fb9ae6b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700997,
+            "locality_id":1243029795,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1243029795,
+    "wof:lastmodified":1536909576,
+    "wof:name":"Pindal Guascaurco",
+    "wof:parent_id":1108700997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4275,
+    1.56472,
+    -77.4275,
+    1.56472
+],
+  "geometry": {"coordinates":[-77.42749999999999,1.56472],"type":"Point"}
+}

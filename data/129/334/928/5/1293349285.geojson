@@ -1,0 +1,68 @@
+{
+  "id": 1293349285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87917,8.12167,-72.87917,8.12167",
+    "geom:latitude":8.12167,
+    "geom:longitude":-72.87917,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54109.0",
+    "gn:asciiname":"Balsamina",
+    "gn:country_code":"CO",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738455,
+    "gn:latitude":8.12167,
+    "gn:longitude":-72.87917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Balsamina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738455
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b1c28760c9c1f11140c3baede3938c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701091,
+            "locality_id":1293349285,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1293349285,
+    "wof:lastmodified":1536985594,
+    "wof:name":"Balsamina",
+    "wof:parent_id":1108701091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87917,
+    8.12167,
+    -72.87917,
+    8.12167
+],
+  "geometry": {"coordinates":[-72.87917,8.12167],"type":"Point"}
+}

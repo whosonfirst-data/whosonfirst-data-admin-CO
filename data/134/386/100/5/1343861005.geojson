@@ -1,0 +1,68 @@
+{
+  "id": 1343861005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88417,6.5375,-75.88417,6.5375",
+    "geom:latitude":6.5375,
+    "geom:longitude":-75.88417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Guasimal",
+    "gn:country_code":"CO",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787122,
+    "gn:latitude":6.5375,
+    "gn:longitude":-75.88417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guasimal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787122
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"80c4a974eae9fb07a90009c35495f082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699913,
+            "locality_id":1343861005,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343861005,
+    "wof:lastmodified":1536665809,
+    "wof:name":"Guasimal",
+    "wof:parent_id":1108699913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88417,
+    6.5375,
+    -75.88417,
+    6.5375
+],
+  "geometry": {"coordinates":[-75.88417,6.5375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327282961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79781,4.39696,-72.79781,4.39696",
+    "geom:latitude":4.39696,
+    "geom:longitude":-72.79781,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Cantaclaro",
+    "gn:country_code":"CO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687549,
+    "gn:latitude":4.39696,
+    "gn:longitude":-72.79781,
+    "gn:modification_date":"2002-02-08",
+    "gn:name":"Cantaclaro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687549
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b47a5ac1f447a89c411d70af1ec546f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701557,
+            "locality_id":1327282961,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1327282961,
+    "wof:lastmodified":1536896626,
+    "wof:name":"Cantaclaro",
+    "wof:parent_id":1108701557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79781,
+    4.39696,
+    -72.79781,
+    4.39696
+],
+  "geometry": {"coordinates":[-72.79781,4.39696],"type":"Point"}
+}

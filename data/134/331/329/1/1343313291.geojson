@@ -1,0 +1,73 @@
+{
+  "id": 1343313291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.08559,9.19383,-74.08559,9.19383",
+    "geom:latitude":9.19383,
+    "geom:longitude":-74.08559,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47245.0",
+    "gn:asciiname":"Cano de Palma",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687574,
+    "gn:latitude":9.19383,
+    "gn:longitude":-74.08559,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1o de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Ca\u00f1o de Palma",
+        "Ca\u00f1o Palma",
+        "Ca\u00f1o de Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687574
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1428a9c8242653d2943c5b72413e2ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "locality_id":1343313291,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1343313291,
+    "wof:lastmodified":1537618633,
+    "wof:name":"Cano de Palma",
+    "wof:parent_id":421170439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.08559,
+    9.19383,
+    -74.08559,
+    9.19383
+],
+  "geometry": {"coordinates":[-74.08559,9.19383],"type":"Point"}
+}

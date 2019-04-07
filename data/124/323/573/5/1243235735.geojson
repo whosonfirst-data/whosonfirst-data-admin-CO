@@ -1,0 +1,68 @@
+{
+  "id": 1243235735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18085,1.80325,-76.18085,1.80325",
+    "geom:latitude":1.80325,
+    "geom:longitude":-76.18085,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41551.0",
+    "gn:asciiname":"Palmar de Criollo",
+    "gn:country_code":"CO",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8534676,
+    "gn:latitude":1.80325,
+    "gn:longitude":-76.18085,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmar de Criollo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421193617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534676
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"176e5809e7319d62e287e0542cc2d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421193617,
+            "locality_id":1243235735,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1243235735,
+    "wof:lastmodified":1536609742,
+    "wof:name":"Palmar de Criollo",
+    "wof:parent_id":421193617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18085,
+    1.80325,
+    -76.18085,
+    1.80325
+],
+  "geometry": {"coordinates":[-76.18085000000001,1.80325],"type":"Point"}
+}

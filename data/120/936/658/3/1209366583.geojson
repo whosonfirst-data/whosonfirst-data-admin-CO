@@ -1,0 +1,62 @@
+{
+  "id": 1209366583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88667,5.71361,-73.88667,5.71361",
+    "geom:latitude":5.71361,
+    "geom:longitude":-73.88667,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15106.0",
+    "gn:asciiname":"La Paloma",
+    "gn:country_code":"CO",
+    "gn:dem":1993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776737,
+    "gn:latitude":5.71361,
+    "gn:longitude":-73.88667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Paloma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776737
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a5af8d26090b0e06b9a1cb8110ca560c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209366583
+        }
+    ],
+    "wof:id":1209366583,
+    "wof:lastmodified":1536289252,
+    "wof:name":"La Paloma",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88667,
+    5.71361,
+    -73.88667,
+    5.71361
+],
+  "geometry": {"coordinates":[-73.88667,5.71361],"type":"Point"}
+}

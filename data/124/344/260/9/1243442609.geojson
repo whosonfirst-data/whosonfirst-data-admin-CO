@@ -1,0 +1,68 @@
+{
+  "id": 1243442609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33402,10.05706,-73.33402,10.05706",
+    "geom:latitude":10.05706,
+    "geom:longitude":-73.33402,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"Hacienda Macanal",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559999,
+    "gn:latitude":10.05706,
+    "gn:longitude":-73.33402,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Macanal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559999
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2247af23780890aecaf137c34b4b0465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":1243442609,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1243442609,
+    "wof:lastmodified":1536810569,
+    "wof:name":"Hacienda Macanal",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33402,
+    10.05706,
+    -73.33402,
+    10.05706
+],
+  "geometry": {"coordinates":[-73.33402,10.05706],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343910927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02039,8.93547,-74.02039,8.93547",
+    "geom:latitude":8.93547,
+    "geom:longitude":-74.02039,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13667.0",
+    "gn:asciiname":"Chimi",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686590,
+    "gn:latitude":8.93547,
+    "gn:longitude":-74.02039,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chim\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Chimi",
+        "Chim\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686590
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e78c515922476b250f3ad0d0b4acc562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700157,
+            "locality_id":1343910927,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1343910927,
+    "wof:lastmodified":1537618621,
+    "wof:name":"Chimi",
+    "wof:parent_id":1108700157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02039,
+    8.93547,
+    -74.02039,
+    8.93547
+],
+  "geometry": {"coordinates":[-74.02039000000001,8.93547],"type":"Point"}
+}

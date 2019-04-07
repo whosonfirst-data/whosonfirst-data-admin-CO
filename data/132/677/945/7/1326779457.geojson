@@ -1,0 +1,68 @@
+{
+  "id": 1326779457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38314,4.8913,-72.38314,4.8913",
+    "geom:latitude":4.8913,
+    "geom:longitude":-72.38314,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Los Algarrobos",
+    "gn:country_code":"CO",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769882,
+    "gn:latitude":4.8913,
+    "gn:longitude":-72.38314,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Algarrobos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769882
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e5d8068724b69de7e71f9b937b21076c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":1326779457,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1326779457,
+    "wof:lastmodified":1536625889,
+    "wof:name":"Los Algarrobos",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38314,
+    4.8913,
+    -72.38314,
+    4.8913
+],
+  "geometry": {"coordinates":[-72.38314,4.8913],"type":"Point"}
+}

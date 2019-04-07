@@ -1,0 +1,68 @@
+{
+  "id": 1259373351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23386,-0.04285,-72.23386,-0.04285",
+    "geom:latitude":-0.04285,
+    "geom:longitude":-72.23386,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Maranon",
+    "gn:country_code":"CO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675335,
+    "gn:latitude":-0.04285,
+    "gn:longitude":-72.23386,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mara\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675335
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"31f6c410ed13827c7e0b6a11791a8472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700425,
+            "locality_id":1259373351,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1259373351,
+    "wof:lastmodified":1537016181,
+    "wof:name":"Maranon",
+    "wof:parent_id":1108700425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23385999999998,
+    -0.04285,
+    -72.23385999999998,
+    -0.04285
+],
+  "geometry": {"coordinates":[-72.23385999999998,-0.04285],"type":"Point"}
+}

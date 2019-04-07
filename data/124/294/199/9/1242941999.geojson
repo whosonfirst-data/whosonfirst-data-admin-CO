@@ -1,0 +1,68 @@
+{
+  "id": 1242941999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04556,8.19528,-73.04556,8.19528",
+    "geom:latitude":8.19528,
+    "geom:longitude":-73.04556,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54003.0",
+    "gn:asciiname":"El Encenillo",
+    "gn:country_code":"CO",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737648,
+    "gn:latitude":8.19528,
+    "gn:longitude":-73.04556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Encenillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421198235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737648
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d5ac29864b813218ac9c34a1b024e1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421198235,
+            "locality_id":1242941999,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1242941999,
+    "wof:lastmodified":1537034480,
+    "wof:name":"El Encenillo",
+    "wof:parent_id":421198235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04556,
+    8.19528,
+    -73.04556,
+    8.19528
+],
+  "geometry": {"coordinates":[-73.04555999999999,8.19528],"type":"Point"}
+}

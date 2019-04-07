@@ -1,0 +1,62 @@
+{
+  "id": 1209182845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.65655,1.10556,-76.65655,1.10556",
+    "geom:latitude":1.10556,
+    "geom:longitude":-76.65655,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86001",
+    "gn:asciiname":"Vda. Las Planadas",
+    "gn:country_code":"CO",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345136,
+    "gn:latitude":1.10556,
+    "gn:longitude":-76.65655,
+    "gn:modification_date":"2015-06-18",
+    "gn:name":"Vda. Las Planadas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345136
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e2f8845e6cb50ca6fb4e7e223768e2b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209182845
+        }
+    ],
+    "wof:id":1209182845,
+    "wof:lastmodified":1536295200,
+    "wof:name":"Vda. Las Planadas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.65655,
+    1.10556,
+    -76.65655,
+    1.10556
+],
+  "geometry": {"coordinates":[-76.65655,1.10556],"type":"Point"}
+}

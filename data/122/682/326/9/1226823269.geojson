@@ -1,0 +1,68 @@
+{
+  "id": 1226823269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.26139,1.89803,-77.26139,1.89803",
+    "geom:latitude":1.89803,
+    "geom:longitude":-77.26139,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52405.0",
+    "gn:asciiname":"El Desterrado",
+    "gn:country_code":"CO",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735899,
+    "gn:latitude":1.89803,
+    "gn:longitude":-77.26139,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Desterrado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735899
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a94ad71278882177b06a744374dd6fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701029,
+            "locality_id":1226823269,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226823269,
+    "wof:lastmodified":1536600755,
+    "wof:name":"El Desterrado",
+    "wof:parent_id":1108701029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.26139,
+    1.89803,
+    -77.26139,
+    1.89803
+],
+  "geometry": {"coordinates":[-77.26139000000001,1.89803],"type":"Point"}
+}

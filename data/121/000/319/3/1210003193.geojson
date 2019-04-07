@@ -1,0 +1,68 @@
+{
+  "id": 1210003193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62167,8.6026,-75.62167,8.6026",
+    "geom:latitude":8.6026,
+    "geom:longitude":-75.62167,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23570.0",
+    "gn:asciiname":"Arroyo La Burra",
+    "gn:country_code":"CO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783103,
+    "gn:latitude":8.6026,
+    "gn:longitude":-75.62167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arroyo La Burra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783103
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bae56d66a071c1de23fd1d7f0ce87fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700603,
+            "locality_id":1210003193,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1210003193,
+    "wof:lastmodified":1536376523,
+    "wof:name":"Arroyo La Burra",
+    "wof:parent_id":1108700603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62167,
+    8.6026,
+    -75.62167,
+    8.6026
+],
+  "geometry": {"coordinates":[-75.62166999999999,8.6026],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 421180547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49718,6.48277,-72.49718,6.48277",
+    "geom:latitude":6.48277,
+    "geom:longitude":-72.49718,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u57c3\u65af\u76ae\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "El Espino"
+    ],
+    "name:eng_x_preferred":[
+        "El Espino"
+    ],
+    "name:fre_x_preferred":[
+        "El Espino"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d4\u10e1\u10de\u10d8\u10dc\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Espino"
+    ],
+    "name:may_x_preferred":[
+        "El Espino"
+    ],
+    "name:nan_x_preferred":[
+        "El Espino"
+    ],
+    "name:por_x_preferred":[
+        "El Espino"
+    ],
+    "name:spa_x_preferred":[
+        "El Espino"
+    ],
+    "name:swe_x_preferred":[
+        "El Espino"
+    ],
+    "name:tgl_x_preferred":[
+        "El Espino"
+    ],
+    "name:unk_x_variant":[
+        "Espino"
+    ],
+    "name:vie_x_preferred":[
+        "El Espino"
+    ],
+    "name:war_x_preferred":[
+        "El Espino"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3684189,
+    "qs:gn_pop":1313,
+    "qs:name":"El Espino",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1206213,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":354663,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684189,
+        "gp:id":354663,
+        "qs:id":1206213,
+        "wd:id":"Q1654603"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009263,
+    "wof:geomhash":"75e0be8e01fd6175fb8c587f2fafc072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700233,
+            "locality_id":421180547,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421180547,
+    "wof:lastmodified":1527716242,
+    "wof:name":"El Espino",
+    "wof:parent_id":1108700233,
+    "wof:placetype":"locality",
+    "wof:population":1313,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49718,
+    6.48277,
+    -72.49718,
+    6.48277
+],
+  "geometry": {"coordinates":[-72.49718,6.48277],"type":"Point"}
+}

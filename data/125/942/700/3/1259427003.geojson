@@ -1,0 +1,68 @@
+{
+  "id": 1259427003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.41922,5.86513,-74.41922,5.86513",
+    "geom:latitude":5.86513,
+    "geom:longitude":-74.41922,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15572.0",
+    "gn:asciiname":"Nueva Granada",
+    "gn:country_code":"CO",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775192,
+    "gn:latitude":5.86513,
+    "gn:longitude":-74.41922,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nueva Granada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421190201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775192
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd1b1984ea6da9443217fa3a1a0aa017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190201,
+            "locality_id":1259427003,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1259427003,
+    "wof:lastmodified":1536940621,
+    "wof:name":"Nueva Granada",
+    "wof:parent_id":421190201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.41922,
+    5.86513,
+    -74.41922,
+    5.86513
+],
+  "geometry": {"coordinates":[-74.41922,5.86513],"type":"Point"}
+}

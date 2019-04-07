@@ -1,0 +1,68 @@
+{
+  "id": 1226416719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.25092,1.74444,-78.25092,1.74444",
+    "geom:latitude":1.74444,
+    "geom:longitude":-78.25092,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52621.0",
+    "gn:asciiname":"Gorgona",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8640359,
+    "gn:latitude":1.74444,
+    "gn:longitude":-78.25092,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Gorgona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8640359
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a2b050750dff7b08dfed1c476e183e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701061,
+            "locality_id":1226416719,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226416719,
+    "wof:lastmodified":1536687429,
+    "wof:name":"Gorgona",
+    "wof:parent_id":1108701061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.25092,
+    1.74444,
+    -78.25092,
+    1.74444
+],
+  "geometry": {"coordinates":[-78.25091999999999,1.74444],"type":"Point"}
+}

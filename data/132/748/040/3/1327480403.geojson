@@ -1,0 +1,73 @@
+{
+  "id": 1327480403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.47417,3.63528,-76.47417,3.63528",
+    "geom:latitude":3.63528,
+    "geom:longitude":-76.47417,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76892.0",
+    "gn:asciiname":"Mulalo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674234,
+    "gn:latitude":3.63528,
+    "gn:longitude":-76.47417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mulal\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mulato",
+        "Mulal\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421186433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674234
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bfe5e68af0e37d32934cca6c5f5ca4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421186433,
+            "locality_id":1327480403,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327480403,
+    "wof:lastmodified":1537618453,
+    "wof:name":"Mulalo",
+    "wof:parent_id":421186433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.47417,
+    3.63528,
+    -76.47417,
+    3.63528
+],
+  "geometry": {"coordinates":[-76.47417,3.63528],"type":"Point"}
+}

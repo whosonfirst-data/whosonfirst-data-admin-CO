@@ -1,0 +1,122 @@
+{
+  "id": 85764635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14710572.742898,
+    "geom:bbox":"-76.500334,3.475415,-76.500334,3.475415",
+    "geom:latitude":3.475415,
+    "geom:longitude":-76.500334,
+    "gn:latitude":3.46813,
+    "gn:longitude":-76.51575,
+    "iso:country":"CO",
+    "lbl:latitude":3.475415,
+    "lbl:longitude":-76.500334,
+    "mps:latitude":3.478091,
+    "mps:longitude":-76.493266,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "El Pueblo"
+    ],
+    "name:deu_x_preferred":[
+        "El Pueblo"
+    ],
+    "name:glg_x_preferred":[
+        "El Pueblo"
+    ],
+    "name:spa_x_preferred":[
+        "El Pueblo",
+        "El pueblo"
+    ],
+    "name:unk_x_variant":[
+        "El Pueblo"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687925,
+    "qs:gn_nam_loc":"Cali",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"El Pueblo",
+    "qs:local_max":2212,
+    "qs:local_sum":6849,
+    "qs:localhoods":8,
+    "qs:name":"El Pueblo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:name_adm2":"Cali",
+    "qs:name_local":"Cali",
+    "qs:photo_max":32,
+    "qs:photo_sum":170,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345074,
+    "qs:woe_adm2":26797564,
+    "qs:woe_lau":0,
+    "qs:woe_local":368149,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        85670203,
+        102191577,
+        85632519,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683322,
+        "gp:id":355629,
+        "qs:id":1082699
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1ee7b42a547673bddc236e194bcfcee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":-1,
+            "neighbourhood_id":85764635,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":85764635,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379261,
+    "wof:name":"El Pueblo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126090465
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.500334,
+    3.475415,
+    -76.500334,
+    3.475415
+],
+  "geometry": {"coordinates":[-76.500334,3.475415],"type":"Point"}
+}

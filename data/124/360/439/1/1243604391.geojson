@@ -1,0 +1,68 @@
+{
+  "id": 1243604391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.51667,3.85,-76.51667,3.85",
+    "geom:latitude":3.85,
+    "geom:longitude":-76.51667,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76606.0",
+    "gn:asciiname":"Agua Mona",
+    "gn:country_code":"CO",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690381,
+    "gn:latitude":3.85,
+    "gn:longitude":-76.51667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Agua Mona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690381
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"95bd7c0c9eb1343c4e71c4f95ca7b00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188711,
+            "locality_id":1243604391,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1243604391,
+    "wof:lastmodified":1537071900,
+    "wof:name":"Agua Mona",
+    "wof:parent_id":421188711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51666999999998,
+    3.85,
+    -76.51666999999998,
+    3.85
+],
+  "geometry": {"coordinates":[-76.51666999999998,3.85],"type":"Point"}
+}

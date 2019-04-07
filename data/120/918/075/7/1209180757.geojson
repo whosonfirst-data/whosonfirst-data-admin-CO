@@ -1,0 +1,62 @@
+{
+  "id": 1209180757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.75117,11.19564,-72.75117,11.19564",
+    "geom:latitude":11.19564,
+    "geom:longitude":-72.75117,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44001.0",
+    "gn:asciiname":"Guadualito",
+    "gn:country_code":"CO",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681706,
+    "gn:latitude":11.19564,
+    "gn:longitude":-72.75117,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guadualito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681706
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"996b069087b0193c3e0fe0c6ee9ffd85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209180757
+        }
+    ],
+    "wof:id":1209180757,
+    "wof:lastmodified":1536295267,
+    "wof:name":"Guadualito",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75117,
+    11.19564,
+    -72.75117,
+    11.19564
+],
+  "geometry": {"coordinates":[-72.75117,11.19564],"type":"Point"}
+}

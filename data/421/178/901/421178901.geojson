@@ -1,0 +1,147 @@
+{
+  "id": 421178901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.06996,1.91408,-67.06996,1.91408",
+    "geom:latitude":1.91408,
+    "geom:longitude":-67.06996,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ceb_x_preferred":[
+        "San Felipe"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u83f2\u5229\u4f69"
+    ],
+    "name:dut_x_preferred":[
+        "San Felipe"
+    ],
+    "name:eng_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fra_x_preferred":[
+        "San Felipe"
+    ],
+    "name:fre_x_preferred":[
+        "San Felipe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10da\u10d8\u10de\u10d4"
+    ],
+    "name:glg_x_preferred":[
+        "San Felipe"
+    ],
+    "name:ita_x_preferred":[
+        "San Felipe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e4\u10d4\u10da\u10d8\u10de\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "San Felip\u0117"
+    ],
+    "name:may_x_preferred":[
+        "San Felipe"
+    ],
+    "name:msa_x_preferred":[
+        "San Felipe"
+    ],
+    "name:nan_x_preferred":[
+        "San Felipe"
+    ],
+    "name:nld_x_preferred":[
+        "San Felipe"
+    ],
+    "name:sco_x_preferred":[
+        "San Felipe"
+    ],
+    "name:spa_x_preferred":[
+        "San Felipe"
+    ],
+    "name:swe_x_preferred":[
+        "San Felipe"
+    ],
+    "name:tgl_x_preferred":[
+        "San Felipe"
+    ],
+    "name:unk_x_variant":[
+        "Fuerte San Felipe"
+    ],
+    "name:war_x_preferred":[
+        "San Felipe"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669922,
+    "qs:gn_pop":982,
+    "qs:name":"San Felipe",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Guainia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":288224,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365348,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669922,
+        "gp:id":365348,
+        "qs:id":288224,
+        "wd:id":"Q1656718",
+        "wk:page":"San Felipe, Guain\u00eda"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009197,
+    "wof:geomhash":"187ae52a27ff8e7a267f5e3290593e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701611,
+            "locality_id":421178901,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":421178901,
+    "wof:lastmodified":1513943463,
+    "wof:name":"San Felipe",
+    "wof:parent_id":1108701611,
+    "wof:placetype":"locality",
+    "wof:population":982,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.06996,
+    1.91408,
+    -67.06996,
+    1.91408
+],
+  "geometry": {"coordinates":[-67.06995999999999,1.91408],"type":"Point"}
+}

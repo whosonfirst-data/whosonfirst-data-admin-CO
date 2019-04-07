@@ -1,0 +1,66 @@
+{
+  "id": 1209155137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2775,10.14486,-75.2775,10.14486",
+    "geom:latitude":10.14486,
+    "geom:longitude":-75.2775,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"Sincerin",
+    "gn:country_code":"CO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667975,
+    "gn:latitude":10.14486,
+    "gn:longitude":-75.2775,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sincer\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Sincerin",
+        "Sincer\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667975
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dc8b7e1820c731f4bedb259777c95388",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209155137
+        }
+    ],
+    "wof:id":1209155137,
+    "wof:lastmodified":1537618380,
+    "wof:name":"Sincerin",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2775,
+    10.14486,
+    -75.2775,
+    10.14486
+],
+  "geometry": {"coordinates":[-75.2775,10.14486],"type":"Point"}
+}

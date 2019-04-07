@@ -1,0 +1,62 @@
+{
+  "id": 1209692049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.12561,11.85642,-72.12561,11.85642",
+    "geom:latitude":11.85642,
+    "geom:longitude":-72.12561,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Cerrito",
+    "gn:country_code":"CO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686905,
+    "gn:latitude":11.85642,
+    "gn:longitude":-72.12561,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cerrito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686905
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a01a522922e8f4d49cd1dfe6d4729ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209692049
+        }
+    ],
+    "wof:id":1209692049,
+    "wof:lastmodified":1536279205,
+    "wof:name":"Cerrito",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.12561,
+    11.85642,
+    -72.12561,
+    11.85642
+],
+  "geometry": {"coordinates":[-72.12560999999999,11.85642],"type":"Point"}
+}

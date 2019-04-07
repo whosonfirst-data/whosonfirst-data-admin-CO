@@ -1,0 +1,65 @@
+{
+  "id": 1209221061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18134,6.97354,-71.18134,6.97354",
+    "geom:latitude":6.97354,
+    "geom:longitude":-71.18134,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81065.0",
+    "gn:asciiname":"Cogollal",
+    "gn:country_code":"CO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10017451,
+    "gn:latitude":6.97354,
+    "gn:longitude":-71.18134,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cogollal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cogollal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10017451
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8196f43b6e6e19eec7e68a307a94335d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209221061
+        }
+    ],
+    "wof:id":1209221061,
+    "wof:lastmodified":1537618813,
+    "wof:name":"Cogollal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18134,
+    6.97354,
+    -71.18134,
+    6.97354
+],
+  "geometry": {"coordinates":[-71.18134000000001,6.97354],"type":"Point"}
+}

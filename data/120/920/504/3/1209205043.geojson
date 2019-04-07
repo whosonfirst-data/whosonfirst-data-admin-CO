@@ -1,0 +1,65 @@
+{
+  "id": 1209205043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.74386,1.52398,-75.74386,1.52398",
+    "geom:latitude":1.52398,
+    "geom:longitude":-75.74386,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18479.0",
+    "gn:asciiname":"La America",
+    "gn:country_code":"CO",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184129,
+    "gn:latitude":1.52398,
+    "gn:longitude":-75.74386,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Amer\u00edca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Amer\u00edca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184129
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0821588f02c396aadfb99b121e200658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209205043
+        }
+    ],
+    "wof:id":1209205043,
+    "wof:lastmodified":1537618760,
+    "wof:name":"La America",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74386,
+    1.52398,
+    -75.74386,
+    1.52398
+],
+  "geometry": {"coordinates":[-75.74386,1.52398],"type":"Point"}
+}

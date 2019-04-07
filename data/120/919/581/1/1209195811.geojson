@@ -1,0 +1,63 @@
+{
+  "id": 1209195811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27293,1.8803,-76.27293,1.8803",
+    "geom:latitude":1.8803,
+    "geom:longitude":-76.27293,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41668.0",
+    "gn:asciiname":"San Augustin",
+    "gn:country_code":"CO",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792390,
+    "gn:latitude":1.8803,
+    "gn:longitude":-76.27293,
+    "gn:modification_date":"2018-04-19",
+    "gn:name":"San August\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792390,
+        "wk:page":"San_Agust%C3%ADn,_Huila"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"84b5d5ccbb027a0678de2ab7bf57855a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209195811
+        }
+    ],
+    "wof:id":1209195811,
+    "wof:lastmodified":1537503837,
+    "wof:name":"San Augustin",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27293,
+    1.8803,
+    -76.27293,
+    1.8803
+],
+  "geometry": {"coordinates":[-76.27293,1.8803],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310075675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.77975,2.96577,-68.77975,2.96577",
+    "geom:latitude":2.96577,
+    "geom:longitude":-68.77975,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"Casuarita",
+    "gn:country_code":"CO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794786,
+    "gn:latitude":2.96577,
+    "gn:longitude":-68.77975,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casuarita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaib\u00fa",
+        "Casuarita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794786
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"85ebb11e35213174ec101760a405ac9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701605,
+            "locality_id":1310075675,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1310075675,
+    "wof:lastmodified":1537618694,
+    "wof:name":"Casuarita",
+    "wof:parent_id":1108701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.77975,
+    2.96577,
+    -68.77975,
+    2.96577
+],
+  "geometry": {"coordinates":[-68.77975000000001,2.96577],"type":"Point"}
+}

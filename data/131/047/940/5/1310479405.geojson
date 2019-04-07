@@ -1,0 +1,73 @@
+{
+  "id": 1310479405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87317,6.88421,-76.87317,6.88421",
+    "geom:latitude":6.88421,
+    "geom:longitude":-76.87317,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27150.0",
+    "gn:asciiname":"Isla de Los Palacios",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678694,
+    "gn:latitude":6.88421,
+    "gn:longitude":-76.87317,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Isla de Los Palacios",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Isla",
+        "La Isla Grande",
+        "Isla de Los Palacios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678694
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b8401c38530414159dba2620e9dedbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700755,
+            "locality_id":1310479405,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1310479405,
+    "wof:lastmodified":1537618517,
+    "wof:name":"Isla de Los Palacios",
+    "wof:parent_id":1108700755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87317,
+    6.88421,
+    -76.87317,
+    6.88421
+],
+  "geometry": {"coordinates":[-76.87317,6.88421],"type":"Point"}
+}

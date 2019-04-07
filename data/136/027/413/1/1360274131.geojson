@@ -1,0 +1,72 @@
+{
+  "id": 1360274131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47064,10.54047,-73.47064,10.54047",
+    "geom:latitude":10.54047,
+    "geom:longitude":-73.47064,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Templado",
+    "gn:country_code":"CO",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667317,
+    "gn:latitude":10.54047,
+    "gn:longitude":-73.47064,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Templado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Templadero",
+        "Templado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667317
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0af9b05fb5a9f328280cb5dfc3107544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1360274131,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1360274131,
+    "wof:lastmodified":1537618375,
+    "wof:name":"Templado",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47064,
+    10.54047,
+    -73.47064,
+    10.54047
+],
+  "geometry": {"coordinates":[-73.47064,10.54047],"type":"Point"}
+}

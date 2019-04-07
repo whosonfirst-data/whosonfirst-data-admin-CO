@@ -1,0 +1,67 @@
+{
+  "id": 1360059571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0644,1.11288,-77.0644,1.11288",
+    "geom:latitude":1.11288,
+    "geom:longitude":-77.0644,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"La Alegria",
+    "gn:country_code":"CO",
+    "gn:dem":2894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626977,
+    "gn:latitude":1.11288,
+    "gn:longitude":-77.0644,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"La Alegr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626977
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"984b8f0a2055250326570f24b935ae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701577,
+            "locality_id":1360059571,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1360059571,
+    "wof:lastmodified":1536981898,
+    "wof:name":"La Alegria",
+    "wof:parent_id":1108701577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0644,
+    1.11288,
+    -77.0644,
+    1.11288
+],
+  "geometry": {"coordinates":[-77.06440000000001,1.11288],"type":"Point"}
+}

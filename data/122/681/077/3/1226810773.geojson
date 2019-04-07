@@ -1,0 +1,68 @@
+{
+  "id": 1226810773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.09683,2.25855,-78.09683,2.25855",
+    "geom:latitude":2.25855,
+    "geom:longitude":-78.09683,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52250.0",
+    "gn:asciiname":"La Tribuna",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8639035,
+    "gn:latitude":2.25855,
+    "gn:longitude":-78.09683,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Tribuna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8639035
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7265a58d928d6657f10f4ceb91d3b59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700995,
+            "locality_id":1226810773,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226810773,
+    "wof:lastmodified":1536619940,
+    "wof:name":"La Tribuna",
+    "wof:parent_id":1108700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.09683000000003,
+    2.25855,
+    -78.09683000000003,
+    2.25855
+],
+  "geometry": {"coordinates":[-78.09683000000003,2.25855],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259560309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28861,9.06914,-75.28861,9.06914",
+    "geom:latitude":9.06914,
+    "geom:longitude":-75.28861,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Zumbador",
+    "gn:country_code":"CO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665530,
+    "gn:latitude":9.06914,
+    "gn:longitude":-75.28861,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zumbador",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Zumbador",
+        "Zumbado",
+        "Zumbador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665530
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c47c7714a08fdcd21ecb95943a2cd414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701409,
+            "locality_id":1259560309,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1259560309,
+    "wof:lastmodified":1537618356,
+    "wof:name":"Zumbador",
+    "wof:parent_id":1108701409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28860999999998,
+    9.06914,
+    -75.28860999999998,
+    9.06914
+],
+  "geometry": {"coordinates":[-75.28860999999998,9.06914],"type":"Point"}
+}

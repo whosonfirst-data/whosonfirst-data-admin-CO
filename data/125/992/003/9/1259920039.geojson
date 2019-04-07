@@ -1,0 +1,72 @@
+{
+  "id": 1259920039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20723,5.75816,-73.20723,5.75816",
+    "geom:latitude":5.75816,
+    "geom:longitude":-73.20723,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15763.0",
+    "gn:asciiname":"Timisa",
+    "gn:country_code":"CO",
+    "gn:dem":2606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667065,
+    "gn:latitude":5.75816,
+    "gn:longitude":-73.20723,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Timisa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Timisa",
+        "Timisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421183883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667065
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c3c987d1c9f2af74b42f560e51971930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421183883,
+            "locality_id":1259920039,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1259920039,
+    "wof:lastmodified":1537618372,
+    "wof:name":"Timisa",
+    "wof:parent_id":421183883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20723000000002,
+    5.75816,
+    -73.20723000000002,
+    5.75816
+],
+  "geometry": {"coordinates":[-73.20723000000002,5.75816],"type":"Point"}
+}

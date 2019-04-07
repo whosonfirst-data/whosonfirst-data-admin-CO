@@ -1,0 +1,117 @@
+{
+  "id": 85764547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11196027.697398,
+    "geom:bbox":"-75.555698,10.400988,-75.555698,10.400988",
+    "geom:latitude":10.400988,
+    "geom:longitude":-75.555698,
+    "gn:latitude":9.68526,
+    "gn:longitude":-75.22396,
+    "iso:country":"CO",
+    "lbl:latitude":10.400988,
+    "lbl:longitude":-75.555698,
+    "mps:latitude":10.397215,
+    "mps:longitude":-75.564502,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Urbanizacion de Boca Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Boca Grande"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Boca Grande",
+        "Castillo Grande",
+        "Urbanizaci\u00f3n de Boca Grande"
+    ],
+    "name:unk_x_variant":[
+        "Corregimiento Bajogrande",
+        "Boca Grande"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3687238,
+    "qs:gn_nam_loc":"cartagena",
+    "qs:gn_namadm1":"35",
+    "qs:gn_name":"Bajo Grande",
+    "qs:local_max":7512,
+    "qs:local_sum":20719,
+    "qs:localhoods":16,
+    "qs:name":"Boca Grande",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:name_adm2":"Cartagena",
+    "qs:name_local":"Cartagena",
+    "qs:photo_max":247,
+    "qs:photo_sum":1237,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":34,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345051,
+    "qs:woe_adm2":26796755,
+    "qs:woe_lau":0,
+    "qs:woe_local":368153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700093,
+        85670209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689310,
+        "gp:id":351498,
+        "qs:id":892032
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0286f397d52a1352f9067125c20d1275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":85764547,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":85764547,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858912,
+    "wof:name":"Boca Grande",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.555698,
+    10.400988,
+    -75.555698,
+    10.400988
+],
+  "geometry": {"coordinates":[-75.55569800000001,10.400988],"type":"Point"}
+}

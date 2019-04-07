@@ -1,0 +1,74 @@
+{
+  "id": 1277131387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33333,7.08333,-73.33333,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-73.33333,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68307.0",
+    "gn:asciiname":"La Parroquia",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678212,
+    "gn:latitude":7.08333,
+    "gn:longitude":-73.33333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Parroquia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Payoa",
+        "La Payoa",
+        "La Parroquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678212
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4054b7855e9f56829c02fb9daf3fc571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701259,
+            "locality_id":1277131387,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1277131387,
+    "wof:lastmodified":1537618509,
+    "wof:name":"La Parroquia",
+    "wof:parent_id":1108701259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33333,
+    7.08333,
+    -73.33333,
+    7.08333
+],
+  "geometry": {"coordinates":[-73.33333,7.08333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343922293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.77914,8.60957,-72.77914,8.60957",
+    "geom:latitude":8.60957,
+    "geom:longitude":-72.77914,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54810.0",
+    "gn:asciiname":"Bertrania",
+    "gn:country_code":"CO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758305,
+    "gn:latitude":8.60957,
+    "gn:longitude":-72.77914,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bertrania",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758305
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a2e26927651d56aca7f83999245d87d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701155,
+            "locality_id":1343922293,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1343922293,
+    "wof:lastmodified":1537072087,
+    "wof:name":"Bertrania",
+    "wof:parent_id":1108701155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.77914,
+    8.60957,
+    -72.77914,
+    8.60957
+],
+  "geometry": {"coordinates":[-72.77914,8.60957],"type":"Point"}
+}

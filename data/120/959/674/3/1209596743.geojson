@@ -1,0 +1,64 @@
+{
+  "id": 1209596743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9242,2.94382,-74.9242,2.94382",
+    "geom:latitude":2.94382,
+    "geom:longitude":-74.9242,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Palmeras",
+    "gn:country_code":"CO",
+    "gn:dem":2436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354456,
+    "gn:latitude":2.94382,
+    "gn:longitude":-74.9242,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Palmeras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354456
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"46a711274dba55d81f05564127410f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209596743
+        }
+    ],
+    "wof:id":1209596743,
+    "wof:lastmodified":1537618837,
+    "wof:name":"Palmeras",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9242,
+    2.94382,
+    -74.9242,
+    2.94382
+],
+  "geometry": {"coordinates":[-74.9242,2.94382],"type":"Point"}
+}

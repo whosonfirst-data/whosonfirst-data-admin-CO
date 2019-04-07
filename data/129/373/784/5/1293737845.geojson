@@ -1,0 +1,73 @@
+{
+  "id": 1293737845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,4.55,-74.25,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":-74.25,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25754.0",
+    "gn:asciiname":"Chusaca",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686313,
+    "gn:latitude":4.55,
+    "gn:longitude":-74.25,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chusac\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuzac\u00e1",
+        "Chusac\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421170611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686313
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f189472e459ff7b376bbea3be1413777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170611,
+            "locality_id":1293737845,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293737845,
+    "wof:lastmodified":1537618619,
+    "wof:name":"Chusaca",
+    "wof:parent_id":421170611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    4.55,
+    -74.25,
+    4.55
+],
+  "geometry": {"coordinates":[-74.25,4.55],"type":"Point"}
+}

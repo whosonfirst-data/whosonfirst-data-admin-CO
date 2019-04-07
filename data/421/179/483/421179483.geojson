@@ -1,0 +1,148 @@
+{
+  "id": 421179483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20833,2.93833,-73.20833,2.93833",
+    "geom:latitude":2.93833,
+    "geom:longitude":-73.20833,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Yuca"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u79d1\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10e0\u10d8\u10d9\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10e0\u10d8\u10d9\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:msa_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:nan_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:spa_x_variant":[
+        "Puerto Yuca"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Yuca"
+    ],
+    "name:tgl_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u79d1\u6e2f"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3671346,
+    "qs:gn_pop":5029,
+    "qs:name":"Puerto Rico",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150056,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369301,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671346,
+        "gp:id":369301,
+        "qs:id":150056,
+        "wd:id":"Q1956919",
+        "wk:page":"Puerto Rico, Meta"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009222,
+    "wof:geomhash":"2fca8776d24125ea275405198d26d519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700953,
+            "locality_id":421179483,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421179483,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Puerto Rico",
+    "wof:parent_id":1108700953,
+    "wof:placetype":"locality",
+    "wof:population":5029,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20833,
+    2.93833,
+    -73.20833,
+    2.93833
+],
+  "geometry": {"coordinates":[-73.20833,2.93833],"type":"Point"}
+}

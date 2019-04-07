@@ -1,0 +1,68 @@
+{
+  "id": 1310369639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1425,8.01806,-73.1425,8.01806",
+    "geom:latitude":8.01806,
+    "geom:longitude":-73.1425,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54003.0",
+    "gn:asciiname":"La Cienaga",
+    "gn:country_code":"CO",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737675,
+    "gn:latitude":8.01806,
+    "gn:longitude":-73.1425,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cienaga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421198235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737675
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f1f4dc916e913df0325fa800c60d76cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421198235,
+            "locality_id":1310369639,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1310369639,
+    "wof:lastmodified":1536613185,
+    "wof:name":"La Cienaga",
+    "wof:parent_id":421198235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1425,
+    8.01806,
+    -73.1425,
+    8.01806
+],
+  "geometry": {"coordinates":[-73.1425,8.01806],"type":"Point"}
+}

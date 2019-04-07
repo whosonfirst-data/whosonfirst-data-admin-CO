@@ -1,0 +1,72 @@
+{
+  "id": 1309757313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.66589,10.39257,-74.66589,10.39257",
+    "geom:latitude":10.39257,
+    "geom:longitude":-74.66589,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47258.0",
+    "gn:asciiname":"San Basilio",
+    "gn:country_code":"CO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670048,
+    "gn:latitude":10.39257,
+    "gn:longitude":-74.66589,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Basilio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento San Basilio",
+        "San Basilio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670048
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3f65411b1149b96c6dbc8a39af589699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700885,
+            "locality_id":1309757313,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1309757313,
+    "wof:lastmodified":1537618404,
+    "wof:name":"San Basilio",
+    "wof:parent_id":1108700885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.66589,
+    10.39257,
+    -74.66589,
+    10.39257
+],
+  "geometry": {"coordinates":[-74.66589,10.39257],"type":"Point"}
+}

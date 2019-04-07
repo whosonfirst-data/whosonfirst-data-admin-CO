@@ -1,0 +1,81 @@
+{
+  "id": 421200561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2,11.25,-74.2,11.25",
+    "geom:latitude":11.25,
+    "geom:longitude":-74.2,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Barrio Obrero"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3689124,
+    "qs:gn_pop":0,
+    "qs:name":"Barrio Obrero",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:photos":491,
+    "qs:photos_1k":99,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":491,
+    "qs:photos_sr":7,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887581,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":351246,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700871,
+        85670223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689124,
+        "gp:id":351246,
+        "qs:id":887581
+    },
+    "wof:country":"CO",
+    "wof:created":1459010029,
+    "wof:geomhash":"668dbc21ba75abbf02fe08a240a690f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700871,
+            "locality_id":-1,
+            "neighbourhood_id":421200561,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":421200561,
+    "wof:lastmodified":1531858776,
+    "wof:name":"Barrio Obrero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2,
+    11.25,
+    -74.2,
+    11.25
+],
+  "geometry": {"coordinates":[-74.2,11.25],"type":"Point"}
+}

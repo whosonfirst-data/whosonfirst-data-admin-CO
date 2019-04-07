@@ -1,0 +1,68 @@
+{
+  "id": 1309723863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53772,5.74194,-75.53772,5.74194",
+    "geom:latitude":5.74194,
+    "geom:longitude":-75.53772,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5002.0",
+    "gn:asciiname":"Llanogrande",
+    "gn:country_code":"CO",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780751,
+    "gn:latitude":5.74194,
+    "gn:longitude":-75.53772,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Llanogrande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780751
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"356abfaf2e7db1986d7fbda6327b1ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699899,
+            "locality_id":1309723863,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1309723863,
+    "wof:lastmodified":1537047166,
+    "wof:name":"Llanogrande",
+    "wof:parent_id":1108699899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53772,
+    5.74194,
+    -75.53772,
+    5.74194
+],
+  "geometry": {"coordinates":[-75.53771999999999,5.74194],"type":"Point"}
+}

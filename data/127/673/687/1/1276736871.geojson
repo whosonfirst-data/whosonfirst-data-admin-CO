@@ -1,0 +1,68 @@
+{
+  "id": 1276736871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.48452,1.75292,-78.48452,1.75292",
+    "geom:latitude":1.75292,
+    "geom:longitude":-78.48452,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Limones",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8640263,
+    "gn:latitude":1.75292,
+    "gn:longitude":-78.48452,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Limones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8640263
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"697853bb592401af94425ee89ba82a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1276736871,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276736871,
+    "wof:lastmodified":1536735323,
+    "wof:name":"Limones",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.48451999999997,
+    1.75292,
+    -78.48451999999997,
+    1.75292
+],
+  "geometry": {"coordinates":[-78.48451999999997,1.75292],"type":"Point"}
+}

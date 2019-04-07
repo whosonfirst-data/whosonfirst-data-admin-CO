@@ -1,0 +1,73 @@
+{
+  "id": 1226687461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1485,4.21645,-74.1485,4.21645",
+    "geom:latitude":4.21645,
+    "geom:longitude":-74.1485,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"11001.0",
+    "gn:admin3_code":"20.0",
+    "gn:asciiname":"Betania",
+    "gn:country_code":"CO",
+    "gn:dem":3130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688860,
+    "gn:latitude":4.21645,
+    "gn:longitude":-74.1485,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"Betania",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bethania",
+        "Betania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670165,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688860
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d989bdf8bd5f24978eeb898ec8603153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":1226687461,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1226687461,
+    "wof:lastmodified":1537618647,
+    "wof:name":"Betania",
+    "wof:parent_id":1108700089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1485,
+    4.21645,
+    -74.1485,
+    4.21645
+],
+  "geometry": {"coordinates":[-74.1485,4.21645],"type":"Point"}
+}

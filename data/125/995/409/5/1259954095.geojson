@@ -1,0 +1,72 @@
+{
+  "id": 1259954095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.11901,2.17144,-78.11901,2.17144",
+    "geom:latitude":2.17144,
+    "geom:longitude":-78.11901,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52250.0",
+    "gn:asciiname":"Playa Grande",
+    "gn:country_code":"CO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672015,
+    "gn:latitude":2.17144,
+    "gn:longitude":-78.11901,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Playa Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turbay",
+        "Playa Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672015
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"97fdc40d054039a102001b2080b0dfa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700995,
+            "locality_id":1259954095,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1259954095,
+    "wof:lastmodified":1537618430,
+    "wof:name":"Playa Grande",
+    "wof:parent_id":1108700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.11901,
+    2.17144,
+    -78.11901,
+    2.17144
+],
+  "geometry": {"coordinates":[-78.11901,2.17144],"type":"Point"}
+}

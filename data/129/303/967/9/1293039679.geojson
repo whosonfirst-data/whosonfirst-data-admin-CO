@@ -1,0 +1,68 @@
+{
+  "id": 1293039679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85,5.06667,-75.85,5.06667",
+    "geom:latitude":5.06667,
+    "geom:longitude":-75.85,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17665.0",
+    "gn:asciiname":"Asia",
+    "gn:country_code":"CO",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689475,
+    "gn:latitude":5.06667,
+    "gn:longitude":-75.85,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Asia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        1108700395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689475
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"28bb0931dc5fe21ba24fc9506abc1429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700395,
+            "locality_id":1293039679,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1293039679,
+    "wof:lastmodified":1536936462,
+    "wof:name":"Asia",
+    "wof:parent_id":1108700395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85,
+    5.06667,
+    -75.85,
+    5.06667
+],
+  "geometry": {"coordinates":[-75.84999999999999,5.06667],"type":"Point"}
+}

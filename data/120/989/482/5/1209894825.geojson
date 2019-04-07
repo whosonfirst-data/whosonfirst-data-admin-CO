@@ -1,0 +1,68 @@
+{
+  "id": 1209894825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.46433,10.19659,-73.46433,10.19659",
+    "geom:latitude":10.19659,
+    "geom:longitude":-73.46433,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Marilandia",
+    "gn:country_code":"CO",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559487,
+    "gn:latitude":10.19659,
+    "gn:longitude":-73.46433,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Marilandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559487
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8b81879c2fc932c3fe27d79226d1ac62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1209894825,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1209894825,
+    "wof:lastmodified":1536389099,
+    "wof:name":"Marilandia",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.46433,
+    10.19659,
+    -73.46433,
+    10.19659
+],
+  "geometry": {"coordinates":[-73.46433,10.19659],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293530689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.67498,4.66038,-73.67498,4.66038",
+    "geom:latitude":4.66038,
+    "geom:longitude":-73.67498,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25372.0",
+    "gn:asciiname":"Miraflores",
+    "gn:country_code":"CO",
+    "gn:dem":2586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782137,
+    "gn:latitude":4.66038,
+    "gn:longitude":-73.67498,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"Miraflores",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782137
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f61321c1347733c37f6a9df75b443d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700665,
+            "locality_id":1293530689,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293530689,
+    "wof:lastmodified":1536725137,
+    "wof:name":"Miraflores",
+    "wof:parent_id":1108700665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.67498,
+    4.66038,
+    -73.67498,
+    4.66038
+],
+  "geometry": {"coordinates":[-73.67498000000001,4.66038],"type":"Point"}
+}

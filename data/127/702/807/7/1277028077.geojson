@@ -1,0 +1,71 @@
+{
+  "id": 1277028077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93464,4.43159,-73.93464,4.43159",
+    "geom:latitude":4.43159,
+    "geom:longitude":-73.93464,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25151.0",
+    "gn:asciiname":"Llanos de Velandia",
+    "gn:country_code":"CO",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524723,
+    "gn:latitude":4.43159,
+    "gn:longitude":-73.93464,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Llanos de Velandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llanos de Velandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421184951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524723
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f12f030adcafd6e8efd4c3582e4fd0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184951,
+            "locality_id":1277028077,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1277028077,
+    "wof:lastmodified":1537618719,
+    "wof:name":"Llanos de Velandia",
+    "wof:parent_id":421184951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93464,
+    4.43159,
+    -73.93464,
+    4.43159
+],
+  "geometry": {"coordinates":[-73.93464,4.43159],"type":"Point"}
+}

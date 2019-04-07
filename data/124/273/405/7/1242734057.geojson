@@ -1,0 +1,67 @@
+{
+  "id": 1242734057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78611,4.73889,-75.78611,4.73889",
+    "geom:latitude":4.73889,
+    "geom:longitude":-75.78611,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"La Palmilla",
+    "gn:country_code":"CO",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678247,
+    "gn:latitude":4.73889,
+    "gn:longitude":-75.78611,
+    "gn:modification_date":"2003-06-13",
+    "gn:name":"La Palmilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421187825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678247
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b250d3b3ca232248a227ad8f031305fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187825,
+            "locality_id":1242734057,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1242734057,
+    "wof:lastmodified":1536837508,
+    "wof:name":"La Palmilla",
+    "wof:parent_id":421187825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78611,
+    4.73889,
+    -75.78611,
+    4.73889
+],
+  "geometry": {"coordinates":[-75.78610999999999,4.73889],"type":"Point"}
+}

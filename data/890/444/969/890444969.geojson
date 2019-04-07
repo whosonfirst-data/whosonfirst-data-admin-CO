@@ -1,0 +1,69 @@
+{
+  "id": 890444969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7717,6.79277,-71.7717,6.79277",
+    "geom:latitude":6.79277,
+    "geom:longitude":-71.7717,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":4607,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fortoul"
+    ],
+    "qs:name":"Municipio de Fortul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682361,
+        "gp:id":369345,
+        "qs:id":1046333
+    },
+    "wof:country":"CO",
+    "wof:created":1469052489,
+    "wof:geomhash":"70c2bdac8636c111746eedf648cdc3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701517,
+            "locality_id":890444969,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":890444969,
+    "wof:lastmodified":1505343602,
+    "wof:name":"Municipio de Fortul",
+    "wof:parent_id":1108701517,
+    "wof:placetype":"locality",
+    "wof:population":4607,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7717,
+    6.79277,
+    -71.7717,
+    6.79277
+],
+  "geometry": {"coordinates":[-71.7717,6.79277],"type":"Point"}
+}

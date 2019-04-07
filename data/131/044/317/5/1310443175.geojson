@@ -1,0 +1,68 @@
+{
+  "id": 1310443175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,5.83333,-72.18333,5.83333",
+    "geom:latitude":5.83333,
+    "geom:longitude":-72.18333,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85400.0",
+    "gn:asciiname":"Cachipay Santa Rita",
+    "gn:country_code":"CO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668536,
+    "gn:latitude":5.83333,
+    "gn:longitude":-72.18333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cachipay Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668536
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"120d4790701683ba1e039d633f78c9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701551,
+            "locality_id":1310443175,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1310443175,
+    "wof:lastmodified":1537006054,
+    "wof:name":"Cachipay Santa Rita",
+    "wof:parent_id":1108701551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    5.83333,
+    -72.18333,
+    5.83333
+],
+  "geometry": {"coordinates":[-72.18333,5.83333],"type":"Point"}
+}

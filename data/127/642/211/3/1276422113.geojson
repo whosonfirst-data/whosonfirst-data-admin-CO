@@ -1,0 +1,68 @@
+{
+  "id": 1276422113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25708,2.58533,-75.25708,2.58533",
+    "geom:latitude":2.58533,
+    "geom:longitude":-75.25708,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41020",
+    "gn:asciiname":"Los Marillos",
+    "gn:country_code":"CO",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345329,
+    "gn:latitude":2.58533,
+    "gn:longitude":-75.25708,
+    "gn:modification_date":"2015-06-21",
+    "gn:name":"Los Marillos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345329
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"839fe23cb3fb4f05e5056edf2671f223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700801,
+            "locality_id":1276422113,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1276422113,
+    "wof:lastmodified":1536659796,
+    "wof:name":"Los Marillos",
+    "wof:parent_id":1108700801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25708,
+    2.58533,
+    -75.25708,
+    2.58533
+],
+  "geometry": {"coordinates":[-75.25708,2.58533],"type":"Point"}
+}

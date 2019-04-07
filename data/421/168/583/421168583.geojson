@@ -1,0 +1,160 @@
+{
+  "id": 421168583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26417,6.13833,-75.26417,6.13833",
+    "geom:latitude":6.13833,
+    "geom:longitude":-75.26417,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santuario"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u6851\u5716\u963f\u91cc\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "El Santuario"
+    ],
+    "name:eng_x_preferred":[
+        "El Santuario"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0633\u0627\u0646\u062a\u0648\u0622\u0631\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Santuario"
+    ],
+    "name:fre_x_preferred":[
+        "El Santuario"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e1\u10d0\u10dc\u10e2\u10e3\u10d0\u10e0\u10d8\u10dd"
+    ],
+    "name:gla_x_preferred":[
+        "El Santuario"
+    ],
+    "name:ita_x_preferred":[
+        "El Santuario"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e1\u10d0\u10dc\u10e2\u10e3\u10d0\u10e0\u10d8\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "Santuario"
+    ],
+    "name:msa_x_preferred":[
+        "Santuario"
+    ],
+    "name:nan_x_preferred":[
+        "El Santuario"
+    ],
+    "name:nld_x_preferred":[
+        "El Santuario"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644 \u0633\u0627\u0646\u062a\u0648\u0622\u0631\u06cc\u0648"
+    ],
+    "name:por_x_preferred":[
+        "El Santuario"
+    ],
+    "name:rum_x_preferred":[
+        "El Santuario"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0421\u0430\u043d\u0442\u0443\u0430\u0440\u0438\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "El Santuario"
+    ],
+    "name:spa_x_preferred":[
+        "El Santuario"
+    ],
+    "name:swe_x_preferred":[
+        "Santuario"
+    ],
+    "name:vie_x_preferred":[
+        "Santuario"
+    ],
+    "name:war_x_preferred":[
+        "Santuario"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Santuario"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u6851\u5716\u963f\u91cc\u5967"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3668323,
+    "qs:gn_pop":17722,
+    "qs:name":"Santuario",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":98,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":98,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046190,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":366736,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668323,
+        "gp:id":366736,
+        "qs:id":1046190,
+        "wd:id":"Q1440830",
+        "wk:page":"El Santuario"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008770,
+    "wof:geomhash":"0017235a15e48595286835acc72eb10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700021,
+            "locality_id":421168583,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421168583,
+    "wof:lastmodified":1527716100,
+    "wof:name":"Santuario",
+    "wof:parent_id":1108700021,
+    "wof:placetype":"locality",
+    "wof:population":17722,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26417,
+    6.13833,
+    -75.26417,
+    6.13833
+],
+  "geometry": {"coordinates":[-75.26416999999999,6.13833],"type":"Point"}
+}

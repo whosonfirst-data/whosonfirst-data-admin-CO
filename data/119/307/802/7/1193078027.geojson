@@ -1,0 +1,71 @@
+{
+  "id": 1193078027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95776,4.44626,-73.95776,4.44626",
+    "geom:latitude":4.44626,
+    "geom:longitude":-73.95776,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25151.0",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"CO",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524720,
+    "gn:latitude":4.44626,
+    "gn:longitude":-73.95776,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Ana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Ana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421184951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524720
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3b06ed04807246b8a1944e1420d017c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184951,
+            "locality_id":1193078027,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193078027,
+    "wof:lastmodified":1537618719,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421184951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95776,
+    4.44626,
+    -73.95776,
+    4.44626
+],
+  "geometry": {"coordinates":[-73.95775999999999,4.44626],"type":"Point"}
+}

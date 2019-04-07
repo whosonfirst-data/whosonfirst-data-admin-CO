@@ -1,0 +1,74 @@
+{
+  "id": 1226595941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.09724,7.01566,-72.09724,7.01566",
+    "geom:latitude":7.01566,
+    "geom:longitude":-72.09724,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15223.0",
+    "gn:asciiname":"Villalira",
+    "gn:country_code":"CO",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756997,
+    "gn:latitude":7.01566,
+    "gn:longitude":-72.09724,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villalira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villalira"
+    ],
+    "name:spa_x_variant":[
+        "Villalita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756997
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"05526db8e7fb3e6207c2040f1faf5eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700229,
+            "locality_id":1226595941,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226595941,
+    "wof:lastmodified":1537618685,
+    "wof:name":"Villalira",
+    "wof:parent_id":1108700229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.09724,
+    7.01566,
+    -72.09724,
+    7.01566
+],
+  "geometry": {"coordinates":[-72.09724,7.01566],"type":"Point"}
+}

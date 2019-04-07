@@ -1,0 +1,72 @@
+{
+  "id": 1226393605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.75784,10.32754,-74.75784,10.32754",
+    "geom:latitude":10.32754,
+    "geom:longitude":-74.75784,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47258.0",
+    "gn:asciiname":"Vasquez",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666259,
+    "gn:latitude":10.32754,
+    "gn:longitude":-74.75784,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"V\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo V\u00e1squez",
+        "V\u00e1squez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666259
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f0a58d68073bf11ce2dd2b4ad10d5153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700885,
+            "locality_id":1226393605,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226393605,
+    "wof:lastmodified":1537618365,
+    "wof:name":"Vasquez",
+    "wof:parent_id":1108700885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.75784,
+    10.32754,
+    -74.75784,
+    10.32754
+],
+  "geometry": {"coordinates":[-74.75784,10.32754],"type":"Point"}
+}

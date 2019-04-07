@@ -1,0 +1,68 @@
+{
+  "id": 1226492713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.37306,3.66778,-76.37306,3.66778",
+    "geom:latitude":3.66778,
+    "geom:longitude":-76.37306,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76248.0",
+    "gn:asciiname":"El Oinde",
+    "gn:country_code":"CO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778683,
+    "gn:latitude":3.66778,
+    "gn:longitude":-76.37306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Oinde",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421170275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778683
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f5aee7e6376a32092dbf6c216db95c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170275,
+            "locality_id":1226492713,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1226492713,
+    "wof:lastmodified":1537071535,
+    "wof:name":"El Oinde",
+    "wof:parent_id":421170275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.37306,
+    3.66778,
+    -76.37306,
+    3.66778
+],
+  "geometry": {"coordinates":[-76.37306,3.66778],"type":"Point"}
+}

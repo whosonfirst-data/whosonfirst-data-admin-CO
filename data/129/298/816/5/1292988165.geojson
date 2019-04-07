@@ -1,0 +1,68 @@
+{
+  "id": 1292988165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.13424,5.75128,-76.13424,5.75128",
+    "geom:latitude":5.75128,
+    "geom:longitude":-76.13424,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27245.0",
+    "gn:asciiname":"Guaduas",
+    "gn:country_code":"CO",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681701,
+    "gn:latitude":5.75128,
+    "gn:longitude":-76.13424,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Guaduas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681701
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b438f1559c22c01b72f38a2c01c50ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700763,
+            "locality_id":1292988165,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1292988165,
+    "wof:lastmodified":1537009184,
+    "wof:name":"Guaduas",
+    "wof:parent_id":1108700763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.13424,
+    5.75128,
+    -76.13424,
+    5.75128
+],
+  "geometry": {"coordinates":[-76.13424000000001,5.75128],"type":"Point"}
+}

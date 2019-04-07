@@ -1,0 +1,68 @@
+{
+  "id": 1242863601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.04205,2.51925,-76.04205,2.51925",
+    "geom:latitude":2.51925,
+    "geom:longitude":-76.04205,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19355.0",
+    "gn:asciiname":"Fatima",
+    "gn:country_code":"CO",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8634867,
+    "gn:latitude":2.51925,
+    "gn:longitude":-76.04205,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Fatima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8634867
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4c28590d87287485f96c89081b44c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700463,
+            "locality_id":1242863601,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1242863601,
+    "wof:lastmodified":1536651552,
+    "wof:name":"Fatima",
+    "wof:parent_id":1108700463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.04205,
+    2.51925,
+    -76.04205,
+    2.51925
+],
+  "geometry": {"coordinates":[-76.04205,2.51925],"type":"Point"}
+}

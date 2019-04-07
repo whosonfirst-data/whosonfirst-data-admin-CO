@@ -1,0 +1,70 @@
+{
+  "id": 1276987121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.54076,6.24763,-70.54076,6.24763",
+    "geom:latitude":6.24763,
+    "geom:longitude":-70.54076,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"La Mapora",
+    "gn:country_code":"CO",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678484,
+    "gn:latitude":6.24763,
+    "gn:longitude":-70.54076,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Mapora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Mapora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678484
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f4e742a426698617f0423e0bea8e9d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1276987121,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276987121,
+    "wof:lastmodified":1537618513,
+    "wof:name":"La Mapora",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.54075999999998,
+    6.24763,
+    -70.54075999999998,
+    6.24763
+],
+  "geometry": {"coordinates":[-70.54075999999998,6.24763],"type":"Point"}
+}

@@ -1,0 +1,124 @@
+{
+  "id": 421180607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28347,6.90069,-73.28347,6.90069",
+    "geom:latitude":6.90069,
+    "geom:longitude":-73.28347,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8c9d\u5716\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Betulia"
+    ],
+    "name:eng_x_preferred":[
+        "Betulia"
+    ],
+    "name:fre_x_preferred":[
+        "Betulia"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10d4\u10e2\u10e3\u10da\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Betulia"
+    ],
+    "name:may_x_preferred":[
+        "Betulia"
+    ],
+    "name:nan_x_preferred":[
+        "Betulia"
+    ],
+    "name:sco_x_preferred":[
+        "Betulia"
+    ],
+    "name:spa_x_preferred":[
+        "Betulia"
+    ],
+    "name:swe_x_preferred":[
+        "Betulia"
+    ],
+    "name:tgl_x_preferred":[
+        "Betulia"
+    ],
+    "name:vie_x_preferred":[
+        "Betulia"
+    ],
+    "name:war_x_preferred":[
+        "Betulia"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3688839,
+    "qs:gn_pop":1716,
+    "qs:name":"Betulia",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1206528,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368466,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688839,
+        "gp:id":368466,
+        "qs:id":1206528,
+        "wd:id":"Q2430135",
+        "wk:page":"Betulia, Santander"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009264,
+    "wof:geomhash":"5fa5384c612685d2245b79ae593ef295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701197,
+            "locality_id":421180607,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421180607,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Betulia",
+    "wof:parent_id":1108701197,
+    "wof:placetype":"locality",
+    "wof:population":1716,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28347,
+    6.90069,
+    -73.28347,
+    6.90069
+],
+  "geometry": {"coordinates":[-73.28346999999999,6.90069],"type":"Point"}
+}

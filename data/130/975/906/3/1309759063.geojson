@@ -1,0 +1,73 @@
+{
+  "id": 1309759063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05,9.56667,-75.05,9.56667",
+    "geom:latitude":9.56667,
+    "geom:longitude":-75.05,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13244.0",
+    "gn:asciiname":"La Poesia",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678068,
+    "gn:latitude":9.56667,
+    "gn:longitude":-75.05,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Poes\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Poes\u00eda",
+        "La Poes\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678068
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b375531fa8fb150f3f1023a81022e4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700117,
+            "locality_id":1309759063,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1309759063,
+    "wof:lastmodified":1537618507,
+    "wof:name":"La Poesia",
+    "wof:parent_id":1108700117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05,
+    9.56667,
+    -75.05,
+    9.56667
+],
+  "geometry": {"coordinates":[-75.05,9.56667],"type":"Point"}
+}

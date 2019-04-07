@@ -1,0 +1,71 @@
+{
+  "id": 1310353913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72436,5.21919,-74.72436,5.21919",
+    "geom:latitude":5.21919,
+    "geom:longitude":-74.72436,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25320.0",
+    "gn:asciiname":"La Salada",
+    "gn:country_code":"CO",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523570,
+    "gn:latitude":5.21919,
+    "gn:longitude":-74.72436,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Salada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Salada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523570
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"803c5a61d2ba85e294abce3bc0aefaef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188659,
+            "locality_id":1310353913,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1310353913,
+    "wof:lastmodified":1537618715,
+    "wof:name":"La Salada",
+    "wof:parent_id":421188659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72436,
+    5.21919,
+    -74.72436,
+    5.21919
+],
+  "geometry": {"coordinates":[-74.72436,5.21919],"type":"Point"}
+}

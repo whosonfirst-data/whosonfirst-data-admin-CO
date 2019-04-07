@@ -1,0 +1,68 @@
+{
+  "id": 1259349403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.41667,11.59278,-72.41667,11.59278",
+    "geom:latitude":11.59278,
+    "geom:longitude":-72.41667,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Emimahana",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682673,
+    "gn:latitude":11.59278,
+    "gn:longitude":-72.41667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Emimahana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682673
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0cc5c06b6595219050b2a17feca4c4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1259349403,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1259349403,
+    "wof:lastmodified":1537049357,
+    "wof:name":"Emimahana",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.41667,
+    11.59278,
+    -72.41667,
+    11.59278
+],
+  "geometry": {"coordinates":[-72.41667,11.59278],"type":"Point"}
+}

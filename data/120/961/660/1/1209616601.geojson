@@ -1,0 +1,62 @@
+{
+  "id": 1209616601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.35449,6.68532,-70.35449,6.68532",
+    "geom:latitude":6.68532,
+    "geom:longitude":-70.35449,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"El Rosario",
+    "gn:country_code":"CO",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683142,
+    "gn:latitude":6.68532,
+    "gn:longitude":-70.35449,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683142
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8596edefeca32a72ec3e29a6806d9e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209616601
+        }
+    ],
+    "wof:id":1209616601,
+    "wof:lastmodified":1536281667,
+    "wof:name":"El Rosario",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.35449,
+    6.68532,
+    -70.35449,
+    6.68532
+],
+  "geometry": {"coordinates":[-70.35449,6.68532],"type":"Point"}
+}

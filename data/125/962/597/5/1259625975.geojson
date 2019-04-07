@@ -1,0 +1,72 @@
+{
+  "id": 1259625975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.26941,9.6441,-74.26941,9.6441",
+    "geom:latitude":9.6441,
+    "geom:longitude":-74.26941,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47460.0",
+    "gn:asciiname":"Guamito",
+    "gn:country_code":"CO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681570,
+    "gn:latitude":9.6441,
+    "gn:longitude":-74.26941,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guamito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Guamito",
+        "Guamito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681570
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"20c020cf2977fe90e2bb51ab08261d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700891,
+            "locality_id":1259625975,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1259625975,
+    "wof:lastmodified":1537618551,
+    "wof:name":"Guamito",
+    "wof:parent_id":1108700891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26941,
+    9.6441,
+    -74.26941,
+    9.6441
+],
+  "geometry": {"coordinates":[-74.26940999999999,9.6441],"type":"Point"}
+}

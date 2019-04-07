@@ -1,0 +1,68 @@
+{
+  "id": 1242624125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.442,3.55542,-76.442,3.55542",
+    "geom:latitude":3.55542,
+    "geom:longitude":-76.442,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76520.0",
+    "gn:asciiname":"Siberia",
+    "gn:country_code":"CO",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779203,
+    "gn:latitude":3.55542,
+    "gn:longitude":-76.442,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Siberia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421205105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779203
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"496ca321527b479b701adb1b6633636d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205105,
+            "locality_id":1242624125,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1242624125,
+    "wof:lastmodified":1536996018,
+    "wof:name":"Siberia",
+    "wof:parent_id":421205105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.442,
+    3.55542,
+    -76.442,
+    3.55542
+],
+  "geometry": {"coordinates":[-76.44199999999999,3.55542],"type":"Point"}
+}

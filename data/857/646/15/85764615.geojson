@@ -1,0 +1,107 @@
+{
+  "id": 85764615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":4343865.500416,
+    "geom:bbox":"-75.546166,10.428008,-75.546166,10.428008",
+    "geom:latitude":10.428008,
+    "geom:longitude":-75.546166,
+    "gn:latitude":10.43333,
+    "gn:longitude":-75.55,
+    "iso:country":"CO",
+    "lbl:latitude":10.428008,
+    "lbl:longitude":-75.546166,
+    "mps:latitude":10.437836,
+    "mps:longitude":-75.558636,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "El Cabrero"
+    ],
+    "name:unk_x_variant":[
+        "El Cabrero"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687238,
+    "qs:gn_nam_loc":"cartagena",
+    "qs:gn_namadm1":"35",
+    "qs:gn_name":"El Cabrero",
+    "qs:local_max":7512,
+    "qs:local_sum":20719,
+    "qs:localhoods":16,
+    "qs:name":"El Cabrero",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:name_adm2":"Cartagena",
+    "qs:name_local":"Cartagena",
+    "qs:photo_max":1000,
+    "qs:photo_sum":2965,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":30,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345051,
+    "qs:woe_adm2":26796755,
+    "qs:woe_lau":0,
+    "qs:woe_local":368153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700093,
+        85670209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684809,
+        "gp:id":353980,
+        "qs:id":240957
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"644156e87577c63c09ae9ef5199932c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":85764615,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":85764615,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858924,
+    "wof:name":"El Cabrero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546166,
+    10.428008,
+    -75.546166,
+    10.428008
+],
+  "geometry": {"coordinates":[-75.546166,10.428008],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226332673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66221,1.59312,-75.66221,1.59312",
+    "geom:latitude":1.59312,
+    "geom:longitude":-75.66221,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Villa Claudia",
+    "gn:country_code":"CO",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184437,
+    "gn:latitude":1.59312,
+    "gn:longitude":-75.66221,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Claudia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Claudia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184437
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f9c96277f98686645d1f46a142a1f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1226332673,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1226332673,
+    "wof:lastmodified":1537618762,
+    "wof:name":"Villa Claudia",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66221,
+    1.59312,
+    -75.66221,
+    1.59312
+],
+  "geometry": {"coordinates":[-75.66221,1.59312],"type":"Point"}
+}

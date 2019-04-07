@@ -1,0 +1,68 @@
+{
+  "id": 1192995155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25472,8.99417,-76.25472,8.99417",
+    "geom:latitude":8.99417,
+    "geom:longitude":-76.25472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23574.0",
+    "gn:asciiname":"Pasa Tiempo",
+    "gn:country_code":"CO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779630,
+    "gn:latitude":8.99417,
+    "gn:longitude":-76.25472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pasa Tiempo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421186429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779630
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4dfa14948904a2a51327a252b728567d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421186429,
+            "locality_id":1192995155,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1192995155,
+    "wof:lastmodified":1536376668,
+    "wof:name":"Pasa Tiempo",
+    "wof:parent_id":421186429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25471999999998,
+    8.99417,
+    -76.25471999999998,
+    8.99417
+],
+  "geometry": {"coordinates":[-76.25471999999998,8.99417],"type":"Point"}
+}

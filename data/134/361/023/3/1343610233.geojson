@@ -1,0 +1,68 @@
+{
+  "id": 1343610233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86474,4.9971,-73.86474,4.9971",
+    "geom:latitude":4.9971,
+    "geom:longitude":-73.86474,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25295.0",
+    "gn:asciiname":"Los Sauces",
+    "gn:country_code":"CO",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782118,
+    "gn:latitude":4.9971,
+    "gn:longitude":-73.86474,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Sauces",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782118
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0facb6b2f0c6027623eb1147eb421307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188661,
+            "locality_id":1343610233,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343610233,
+    "wof:lastmodified":1537026406,
+    "wof:name":"Los Sauces",
+    "wof:parent_id":421188661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86474,
+    4.9971,
+    -73.86474,
+    4.9971
+],
+  "geometry": {"coordinates":[-73.86474,4.9971],"type":"Point"}
+}

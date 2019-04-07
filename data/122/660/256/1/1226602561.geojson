@@ -1,0 +1,68 @@
+{
+  "id": 1226602561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.98083,4.99583,-75.98083,4.99583",
+    "geom:latitude":4.99583,
+    "geom:longitude":-75.98083,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66383.0",
+    "gn:asciiname":"Patio Bonito",
+    "gn:country_code":"CO",
+    "gn:dem":1595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811544,
+    "gn:latitude":4.99583,
+    "gn:longitude":-75.98083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Patio Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        1108701173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811544
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e65188c61763af9556f9161b97ccfd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701173,
+            "locality_id":1226602561,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1226602561,
+    "wof:lastmodified":1536920512,
+    "wof:name":"Patio Bonito",
+    "wof:parent_id":1108701173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.98083000000003,
+    4.99583,
+    -75.98083000000003,
+    4.99583
+],
+  "geometry": {"coordinates":[-75.98083000000003,4.99583],"type":"Point"}
+}

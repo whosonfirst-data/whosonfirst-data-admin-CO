@@ -1,0 +1,68 @@
+{
+  "id": 1260228109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78327,3.42194,-75.78327,3.42194",
+    "geom:latitude":3.42194,
+    "geom:longitude":-75.78327,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73616.0",
+    "gn:asciiname":"La Avanzada",
+    "gn:country_code":"CO",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737311,
+    "gn:latitude":3.42194,
+    "gn:longitude":-75.78327,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Avanzada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737311
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"34df3c5578ef2c26072a52ff2c85ceb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701457,
+            "locality_id":1260228109,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1260228109,
+    "wof:lastmodified":1536787615,
+    "wof:name":"La Avanzada",
+    "wof:parent_id":1108701457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78327,
+    3.42194,
+    -75.78327,
+    3.42194
+],
+  "geometry": {"coordinates":[-75.78327,3.42194],"type":"Point"}
+}

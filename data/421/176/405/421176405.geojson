@@ -1,0 +1,135 @@
+{
+  "id": 421176405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.78028,2.00628,-76.78028,2.00628",
+    "geom:latitude":2.00628,
+    "geom:longitude":-76.78028,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u62c9\u7dad\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "La Vega"
+    ],
+    "name:eng_x_preferred":[
+        "La Vega"
+    ],
+    "name:fre_x_preferred":[
+        "La Vega"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10d5\u10d4\u10d2\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Vega"
+    ],
+    "name:ita_x_preferred":[
+        "La Vega"
+    ],
+    "name:may_x_preferred":[
+        "La Vega"
+    ],
+    "name:nan_x_preferred":[
+        "La Vega"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0648\u06af\u0627"
+    ],
+    "name:por_x_preferred":[
+        "La Vega"
+    ],
+    "name:sco_x_preferred":[
+        "La Vega"
+    ],
+    "name:spa_x_preferred":[
+        "La Vega"
+    ],
+    "name:swe_x_preferred":[
+        "La Vega"
+    ],
+    "name:tgl_x_preferred":[
+        "La Vega"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0648\u06cc\u06af\u0627\u060c \u06a9\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Vega"
+    ],
+    "name:war_x_preferred":[
+        "La Vega"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3676868,
+    "qs:gn_pop":3469,
+    "qs:name":"La Vega",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":78,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1046283,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368520,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":190,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676868,
+        "gp:id":368520,
+        "qs:id":1046283,
+        "wd:id":"Q2309024"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009107,
+    "wof:geomhash":"cd0582787f0f8df41de62467cdb0df39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700471,
+            "locality_id":421176405,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421176405,
+    "wof:lastmodified":1553816366,
+    "wof:name":"La Vega",
+    "wof:parent_id":1108700471,
+    "wof:placetype":"locality",
+    "wof:population":3469,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.78028,
+    2.00628,
+    -76.78028,
+    2.00628
+],
+  "geometry": {"coordinates":[-76.78028,2.00628],"type":"Point"}
+}

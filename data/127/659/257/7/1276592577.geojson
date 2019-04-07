@@ -1,0 +1,71 @@
+{
+  "id": 1276592577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38514,6.42101,-72.38514,6.42101",
+    "geom:latitude":6.42101,
+    "geom:longitude":-72.38514,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15332.0",
+    "gn:asciiname":"Lagunas",
+    "gn:country_code":"CO",
+    "gn:dem":3817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10260213,
+    "gn:latitude":6.42101,
+    "gn:longitude":-72.38514,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Lagunas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Lagunas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421170587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10260213
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b766079b5a7db10c09db58783e5d201c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170587,
+            "locality_id":1276592577,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1276592577,
+    "wof:lastmodified":1537618815,
+    "wof:name":"Lagunas",
+    "wof:parent_id":421170587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38514,
+    6.42101,
+    -72.38514,
+    6.42101
+],
+  "geometry": {"coordinates":[-72.38514000000001,6.42101],"type":"Point"}
+}

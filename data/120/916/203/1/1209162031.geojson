@@ -1,0 +1,66 @@
+{
+  "id": 1209162031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07816,9.05161,-75.07816,9.05161",
+    "geom:latitude":9.05161,
+    "geom:longitude":-75.07816,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70233.0",
+    "gn:asciiname":"Callejon",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687894,
+    "gn:latitude":9.05161,
+    "gn:longitude":-75.07816,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Callej\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Callejon",
+        "Callej\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687894
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a3a1c7c3482c008b68c2f4241b201d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209162031
+        }
+    ],
+    "wof:id":1209162031,
+    "wof:lastmodified":1537618636,
+    "wof:name":"Callejon",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07816,
+    9.05161,
+    -75.07816,
+    9.05161
+],
+  "geometry": {"coordinates":[-75.07816,9.05161],"type":"Point"}
+}

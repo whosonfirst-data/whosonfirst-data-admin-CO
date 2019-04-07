@@ -1,0 +1,68 @@
+{
+  "id": 1259433115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80944,3.99611,-75.80944,3.99611",
+    "geom:latitude":3.99611,
+    "geom:longitude":-75.80944,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76736.0",
+    "gn:asciiname":"La Traviata",
+    "gn:country_code":"CO",
+    "gn:dem":3221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769325,
+    "gn:latitude":3.99611,
+    "gn:longitude":-75.80944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Traviata",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769325
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b9d9eb9652ce63409addcb49affb29b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188713,
+            "locality_id":1259433115,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1259433115,
+    "wof:lastmodified":1536932095,
+    "wof:name":"La Traviata",
+    "wof:parent_id":421188713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80944000000002,
+    3.99611,
+    -75.80944000000002,
+    3.99611
+],
+  "geometry": {"coordinates":[-75.80944000000002,3.99611],"type":"Point"}
+}

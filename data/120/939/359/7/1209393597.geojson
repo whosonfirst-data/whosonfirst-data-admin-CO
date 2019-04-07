@@ -1,0 +1,62 @@
+{
+  "id": 1209393597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.59682,9.74383,-73.59682,9.74383",
+    "geom:latitude":9.74383,
+    "geom:longitude":-73.59682,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"La Sirena",
+    "gn:country_code":"CO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638492,
+    "gn:latitude":9.74383,
+    "gn:longitude":-73.59682,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Sirena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638492
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c5a43a516f9721f0fc2e3b8eca0fbd78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209393597
+        }
+    ],
+    "wof:id":1209393597,
+    "wof:lastmodified":1536288377,
+    "wof:name":"La Sirena",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.59682,
+    9.74383,
+    -73.59682,
+    9.74383
+],
+  "geometry": {"coordinates":[-73.59681999999999,9.74383],"type":"Point"}
+}

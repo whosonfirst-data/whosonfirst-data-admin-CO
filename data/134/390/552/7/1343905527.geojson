@@ -1,0 +1,68 @@
+{
+  "id": 1343905527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3853,9.46491,-75.3853,9.46491",
+    "geom:latitude":9.46491,
+    "geom:longitude":-75.3853,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70204.0",
+    "gn:asciiname":"Las Cruces",
+    "gn:country_code":"CO",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677609,
+    "gn:latitude":9.46491,
+    "gn:longitude":-75.3853,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Cruces",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677609
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"44841d7e9b6ed210cd165495256c2ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701381,
+            "locality_id":1343905527,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343905527,
+    "wof:lastmodified":1537096094,
+    "wof:name":"Las Cruces",
+    "wof:parent_id":1108701381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3853,
+    9.46491,
+    -75.3853,
+    9.46491
+],
+  "geometry": {"coordinates":[-75.3853,9.46491],"type":"Point"}
+}

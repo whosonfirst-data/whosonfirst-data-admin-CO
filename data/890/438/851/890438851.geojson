@@ -1,0 +1,72 @@
+{
+  "id": 890438851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31363,9.21433,-74.31363,9.21433",
+    "geom:latitude":9.21433,
+    "geom:longitude":-74.31363,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":4339,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "San Zen\u00f3n"
+    ],
+    "qs:name":"Buenavista",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688396,
+        "gp:id":351753,
+        "qs:id":1046410,
+        "wd:id":"Q291885",
+        "wk:page":"Buenavista"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052211,
+    "wof:geomhash":"e4920d7015b8ddcf2bbd84ef0219212d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":890438851,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":890438851,
+    "wof:lastmodified":1527735421,
+    "wof:name":"Buenavista",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:population":4339,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31363,
+    9.21433,
+    -74.31363,
+    9.21433
+],
+  "geometry": {"coordinates":[-74.31363,9.21433],"type":"Point"}
+}

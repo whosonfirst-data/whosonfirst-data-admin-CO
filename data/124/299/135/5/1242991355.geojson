@@ -1,0 +1,72 @@
+{
+  "id": 1242991355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60968,2.78604,-76.60968,2.78604",
+    "geom:latitude":2.78604,
+    "geom:longitude":-76.60968,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19473.0",
+    "gn:asciiname":"Carpintero",
+    "gn:country_code":"CO",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687300,
+    "gn:latitude":2.78604,
+    "gn:longitude":-76.60968,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carpintero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro",
+        "Carpintero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687300
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c0e874bc16c0cac700c45cd715f5abad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700479,
+            "locality_id":1242991355,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1242991355,
+    "wof:lastmodified":1537618629,
+    "wof:name":"Carpintero",
+    "wof:parent_id":1108700479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60968000000003,
+    2.78604,
+    -76.60968000000003,
+    2.78604
+],
+  "geometry": {"coordinates":[-76.60968000000003,2.78604],"type":"Point"}
+}

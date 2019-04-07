@@ -1,0 +1,72 @@
+{
+  "id": 1310539839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33581,9.74393,-74.33581,9.74393",
+    "geom:latitude":9.74393,
+    "geom:longitude":-74.33581,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47460.0",
+    "gn:asciiname":"La Estacion",
+    "gn:country_code":"CO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679084,
+    "gn:latitude":9.74393,
+    "gn:longitude":-74.33581,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Estaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Estaci\u00f3n",
+        "La Estaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679084
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"50dad7922f90411f6a97037fafc2a72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700891,
+            "locality_id":1310539839,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1310539839,
+    "wof:lastmodified":1537618524,
+    "wof:name":"La Estacion",
+    "wof:parent_id":1108700891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33581,
+    9.74393,
+    -74.33581,
+    9.74393
+],
+  "geometry": {"coordinates":[-74.33581,9.74393],"type":"Point"}
+}

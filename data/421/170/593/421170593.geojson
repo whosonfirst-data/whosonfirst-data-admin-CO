@@ -1,0 +1,110 @@
+{
+  "id": 421170593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.33333,2.58333,-76.33333,2.58333",
+    "geom:latitude":2.58333,
+    "geom:longitude":-76.33333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:fra_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10e2\u10dd\u10e0\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Totoro"
+    ],
+    "name:nld_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:spa_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:swe_x_preferred":[
+        "Totor\u00f3"
+    ],
+    "name:tgl_x_preferred":[
+        "Totoro"
+    ],
+    "name:unk_x_variant":[
+        "Totor\u00f3"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3666835,
+    "qs:gn_pop":0,
+    "qs:name":"Totoro",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":89,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":89,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1194543,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796996,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":42,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666835,
+        "gp:id":26796996,
+        "qs:id":1194543,
+        "wd:id":"Q2405808",
+        "wk:page":"Totor\u00f3, Cauca"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008860,
+    "wof:geomhash":"bb856bf00d6acc0368f93a57a86cad6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170593,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421170593,
+    "wof:lastmodified":1527716457,
+    "wof:name":"Totoro",
+    "wof:parent_id":85670185,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33333,
+    2.58333,
+    -76.33333,
+    2.58333
+],
+  "geometry": {"coordinates":[-76.33333,2.58333],"type":"Point"}
+}

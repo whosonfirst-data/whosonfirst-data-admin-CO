@@ -1,0 +1,68 @@
+{
+  "id": 1276323213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.85142,2.65984,-77.85142,2.65984",
+    "geom:latitude":2.65984,
+    "geom:longitude":-77.85142,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19318.0",
+    "gn:asciiname":"La Fortuna",
+    "gn:country_code":"CO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829075,
+    "gn:latitude":2.65984,
+    "gn:longitude":-77.85142,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Fortuna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829075
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d077177cfa2c7d7696d0e8a090d9998d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700461,
+            "locality_id":1276323213,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1276323213,
+    "wof:lastmodified":1536792624,
+    "wof:name":"La Fortuna",
+    "wof:parent_id":1108700461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.85141999999998,
+    2.65984,
+    -77.85141999999998,
+    2.65984
+],
+  "geometry": {"coordinates":[-77.85141999999998,2.65984],"type":"Point"}
+}

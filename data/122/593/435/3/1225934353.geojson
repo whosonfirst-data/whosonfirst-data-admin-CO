@@ -1,0 +1,68 @@
+{
+  "id": 1225934353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0979,1.07257,-76.0979,1.07257",
+    "geom:latitude":1.07257,
+    "geom:longitude":-76.0979,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18205.0",
+    "gn:asciiname":"Novia Puerto Valdivia",
+    "gn:country_code":"CO",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546099,
+    "gn:latitude":1.07257,
+    "gn:longitude":-76.0979,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Novia Puerto Valdivia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546099
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"95ef79eeeff399fa9cc4b3b785bc7f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700407,
+            "locality_id":1225934353,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1225934353,
+    "wof:lastmodified":1536885402,
+    "wof:name":"Novia Puerto Valdivia",
+    "wof:parent_id":1108700407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0979,
+    1.07257,
+    -76.0979,
+    1.07257
+],
+  "geometry": {"coordinates":[-76.0979,1.07257],"type":"Point"}
+}

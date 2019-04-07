@@ -1,0 +1,68 @@
+{
+  "id": 1209876825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.61177,3.16668,-76.61177,3.16668",
+    "geom:latitude":3.16668,
+    "geom:longitude":-76.61177,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76364.0",
+    "gn:asciiname":"Las Canas",
+    "gn:country_code":"CO",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764056,
+    "gn:latitude":3.16668,
+    "gn:longitude":-76.61177,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421190209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764056
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58dd9dcd37e3a1bd02557d49a7ebbfab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190209,
+            "locality_id":1209876825,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1209876825,
+    "wof:lastmodified":1536396847,
+    "wof:name":"Las Canas",
+    "wof:parent_id":421190209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.61176999999998,
+    3.16668,
+    -76.61176999999998,
+    3.16668
+],
+  "geometry": {"coordinates":[-76.61176999999998,3.16668],"type":"Point"}
+}

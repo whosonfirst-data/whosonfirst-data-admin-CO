@@ -1,0 +1,68 @@
+{
+  "id": 1226792221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15,10.13333,-74.15,10.13333",
+    "geom:latitude":10.13333,
+    "geom:longitude":-74.15,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47660.0",
+    "gn:asciiname":"Petroleo",
+    "gn:country_code":"CO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672382,
+    "gn:latitude":10.13333,
+    "gn:longitude":-74.15,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Petr\u00f3leo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672382
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"70c2df3836658329734fba808b93a674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700905,
+            "locality_id":1226792221,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226792221,
+    "wof:lastmodified":1536648350,
+    "wof:name":"Petroleo",
+    "wof:parent_id":1108700905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15,
+    10.13333,
+    -74.15,
+    10.13333
+],
+  "geometry": {"coordinates":[-74.15000000000001,10.13333],"type":"Point"}
+}

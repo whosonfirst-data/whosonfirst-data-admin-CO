@@ -1,0 +1,72 @@
+{
+  "id": 1293850481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.72266,11.18544,-72.72266,11.18544",
+    "geom:latitude":11.18544,
+    "geom:longitude":-72.72266,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44001.0",
+    "gn:asciiname":"La Arena",
+    "gn:country_code":"CO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679872,
+    "gn:latitude":11.18544,
+    "gn:longitude":-72.72266,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Arena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arena",
+        "La Arena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421182357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679872
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"09f8b75fc759709641f0a7bb07ec9ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182357,
+            "locality_id":1293850481,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293850481,
+    "wof:lastmodified":1537618536,
+    "wof:name":"La Arena",
+    "wof:parent_id":421182357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.72266,
+    11.18544,
+    -72.72266,
+    11.18544
+],
+  "geometry": {"coordinates":[-72.72266,11.18544],"type":"Point"}
+}

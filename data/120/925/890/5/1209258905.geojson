@@ -1,0 +1,61 @@
+{
+  "id": 1209258905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.55,6.25,-74.55,6.25",
+    "geom:latitude":6.25,
+    "geom:longitude":-74.55,
+    "gn:admin1_code":"36",
+    "gn:asciiname":"Guamal",
+    "gn:country_code":"CO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681600,
+    "gn:latitude":6.25,
+    "gn:longitude":-74.55,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Guamal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681600
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0f55a663889c2a4d21047e252d8ff641",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209258905
+        }
+    ],
+    "wof:id":1209258905,
+    "wof:lastmodified":1536292760,
+    "wof:name":"Guamal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.55,
+    6.25,
+    -74.55,
+    6.25
+],
+  "geometry": {"coordinates":[-74.55,6.25],"type":"Point"}
+}

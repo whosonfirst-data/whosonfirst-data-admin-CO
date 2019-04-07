@@ -1,0 +1,72 @@
+{
+  "id": 1225785745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.92129,9.32343,-74.92129,9.32343",
+    "geom:latitude":9.32343,
+    "geom:longitude":-74.92129,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13430.0",
+    "gn:asciiname":"Juan Arias",
+    "gn:country_code":"CO",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680194,
+    "gn:latitude":9.32343,
+    "gn:longitude":-74.92129,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Juan Arias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Juanarias",
+        "Juan Arias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680194
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4f1c26ea41c258f8bd9ec213497afc8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184105,
+            "locality_id":1225785745,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1225785745,
+    "wof:lastmodified":1537618540,
+    "wof:name":"Juan Arias",
+    "wof:parent_id":421184105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.92129,
+    9.32343,
+    -74.92129,
+    9.32343
+],
+  "geometry": {"coordinates":[-74.92129,9.32343],"type":"Point"}
+}

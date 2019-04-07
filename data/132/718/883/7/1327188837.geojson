@@ -1,0 +1,68 @@
+{
+  "id": 1327188837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69363,6.73943,-73.69363,6.73943",
+    "geom:latitude":6.73943,
+    "geom:longitude":-73.69363,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68235.0",
+    "gn:asciiname":"El Santuario",
+    "gn:country_code":"CO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3830185,
+    "gn:latitude":6.73943,
+    "gn:longitude":-73.69363,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Santuario",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830185
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1c37c7b705e6a9d729fb41db795ec1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701237,
+            "locality_id":1327188837,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327188837,
+    "wof:lastmodified":1537031259,
+    "wof:name":"El Santuario",
+    "wof:parent_id":1108701237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69363,
+    6.73943,
+    -73.69363,
+    6.73943
+],
+  "geometry": {"coordinates":[-73.69363,6.73943],"type":"Point"}
+}

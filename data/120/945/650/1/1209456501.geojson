@@ -1,0 +1,65 @@
+{
+  "id": 1209456501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.66292,6.13522,-70.66292,6.13522",
+    "geom:latitude":6.13522,
+    "geom:longitude":-70.66292,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"Yopal",
+    "gn:country_code":"CO",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665687,
+    "gn:latitude":6.13522,
+    "gn:longitude":-70.66292,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Yopal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yopal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665687
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cf6b06bcf6260f4a69ccb41538f4ada4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209456501
+        }
+    ],
+    "wof:id":1209456501,
+    "wof:lastmodified":1537618359,
+    "wof:name":"Yopal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.66292,
+    6.13522,
+    -70.66292,
+    6.13522
+],
+  "geometry": {"coordinates":[-70.66292,6.13522],"type":"Point"}
+}

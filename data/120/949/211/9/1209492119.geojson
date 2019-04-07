@@ -1,0 +1,66 @@
+{
+  "id": 1209492119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.72725,8.82704,-75.72725,8.82704",
+    "geom:latitude":8.82704,
+    "geom:longitude":-75.72725,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23678.0",
+    "gn:asciiname":"Los Angeles",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3676339,
+    "gn:latitude":8.82704,
+    "gn:longitude":-75.72725,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los \u00c1ngeles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Angeles",
+        "Los \u00c1ngeles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676339
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"998aa81cd0a3c63b8bad5bc29d9769ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209492119
+        }
+    ],
+    "wof:id":1209492119,
+    "wof:lastmodified":1537618478,
+    "wof:name":"Los Angeles",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.72725,
+    8.82704,
+    -75.72725,
+    8.82704
+],
+  "geometry": {"coordinates":[-75.72725,8.82704],"type":"Point"}
+}

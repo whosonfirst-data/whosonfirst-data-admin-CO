@@ -1,0 +1,72 @@
+{
+  "id": 1293079679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93004,10.05997,-73.93004,10.05997",
+    "geom:latitude":10.05997,
+    "geom:longitude":-73.93004,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20238.0",
+    "gn:asciiname":"La Estancia Vieja",
+    "gn:country_code":"CO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679073,
+    "gn:latitude":10.05997,
+    "gn:longitude":-73.93004,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Estancia Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Estaci\u00f3n Vieja",
+        "La Estancia Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679073
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4a5d4ade2784a4885224f32fe8ce4de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700535,
+            "locality_id":1293079679,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293079679,
+    "wof:lastmodified":1537618523,
+    "wof:name":"La Estancia Vieja",
+    "wof:parent_id":1108700535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93004,
+    10.05997,
+    -73.93004,
+    10.05997
+],
+  "geometry": {"coordinates":[-73.93004000000001,10.05997],"type":"Point"}
+}

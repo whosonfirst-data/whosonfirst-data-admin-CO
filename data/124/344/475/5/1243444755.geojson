@@ -1,0 +1,71 @@
+{
+  "id": 1243444755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45783,1.2548,-75.45783,1.2548",
+    "geom:latitude":1.2548,
+    "geom:longitude":-75.45783,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18460.0",
+    "gn:asciiname":"Andalucia",
+    "gn:country_code":"CO",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305204,
+    "gn:latitude":1.2548,
+    "gn:longitude":-75.45783,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Andalucia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Andalucia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305204
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"48b9cbb71d39468fabc82451c587e187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700417,
+            "locality_id":1243444755,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1243444755,
+    "wof:lastmodified":1537618769,
+    "wof:name":"Andalucia",
+    "wof:parent_id":1108700417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45783,
+    1.2548,
+    -75.45783,
+    1.2548
+],
+  "geometry": {"coordinates":[-75.45783,1.2548],"type":"Point"}
+}

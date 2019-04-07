@@ -1,0 +1,136 @@
+{
+  "id": 85764781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":3179142.417928,
+    "geom:bbox":"-73.094788,7.076362,-73.094788,7.076362",
+    "geom:latitude":7.076362,
+    "geom:longitude":-73.094788,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":7.09889,
+    "gn:longitude":-73.10722,
+    "iso:country":"CO",
+    "lbl:latitude":7.076362,
+    "lbl:longitude":-73.094788,
+    "mps:latitude":7.074965,
+    "mps:longitude":-73.093527,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "San Miguel"
+    ],
+    "name:spa_x_variant":[
+        "S. Miguel",
+        "S Miguel"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688465,
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"San Miguel",
+    "qs:local_max":2559,
+    "qs:local_sum":3515,
+    "qs:localhoods":7,
+    "qs:name":"San Miguel",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:name_adm2":"Bucaramanga",
+    "qs:name_local":"Bucaramanga",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345071,
+    "qs:woe_adm2":26797407,
+    "qs:woe_lau":0,
+    "qs:woe_local":368152,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3669253,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Miguel",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Santander",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165288,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365829,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670141,
+        102191577,
+        85632519,
+        1108701253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669253,
+        "gp:id":365829,
+        "qs:id":1165288,
+        "qs_pg:id":1165288
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"53b27fdd05ef1cef8e79530df751d329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701253,
+            "locality_id":-1,
+            "neighbourhood_id":85764781,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":85764781,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379259,
+    "wof:name":"San Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126064353
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.094788,
+    7.076362,
+    -73.094788,
+    7.076362
+],
+  "geometry": {"coordinates":[-73.09478799999999,7.076362],"type":"Point"}
+}

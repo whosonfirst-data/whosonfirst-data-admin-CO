@@ -1,0 +1,71 @@
+{
+  "id": 1277142195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.5267,4.12172,-73.5267,4.12172",
+    "geom:latitude":4.12172,
+    "geom:longitude":-73.5267,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Argentina",
+    "gn:country_code":"CO",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526889,
+    "gn:latitude":4.12172,
+    "gn:longitude":-73.5267,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Argentina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421170631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526889
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"28145cdb3e219d68236394bd2e1c9352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170631,
+            "locality_id":1277142195,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1277142195,
+    "wof:lastmodified":1537618725,
+    "wof:name":"Argentina",
+    "wof:parent_id":421170631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.5267,
+    4.12172,
+    -73.5267,
+    4.12172
+],
+  "geometry": {"coordinates":[-73.52670000000001,4.12172],"type":"Point"}
+}

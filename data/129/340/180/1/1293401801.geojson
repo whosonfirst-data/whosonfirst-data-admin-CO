@@ -1,0 +1,71 @@
+{
+  "id": 1293401801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70038,6.38348,-75.70038,6.38348",
+    "geom:latitude":6.38348,
+    "geom:longitude":-75.70038,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5656.0",
+    "gn:asciiname":"Monte Verde",
+    "gn:country_code":"CO",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8265861,
+    "gn:latitude":6.38348,
+    "gn:longitude":-75.70038,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Monte Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Monte Verde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421203433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8265861
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"013367a5e5d12c6bb61ee2e700900e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203433,
+            "locality_id":1293401801,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293401801,
+    "wof:lastmodified":1537618767,
+    "wof:name":"Monte Verde",
+    "wof:parent_id":421203433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70038000000002,
+    6.38348,
+    -75.70038000000002,
+    6.38348
+],
+  "geometry": {"coordinates":[-75.70038000000002,6.38348],"type":"Point"}
+}

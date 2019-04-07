@@ -1,0 +1,68 @@
+{
+  "id": 1226486473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.73,5.7075,-73.73,5.7075",
+    "geom:latitude":5.7075,
+    "geom:longitude":-73.73,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15632.0",
+    "gn:asciiname":"Los Cerros",
+    "gn:country_code":"CO",
+    "gn:dem":2637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776879,
+    "gn:latitude":5.7075,
+    "gn:longitude":-73.73,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Cerros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421188641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776879
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce32f8aeeb08591df6c18857cb12a131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188641,
+            "locality_id":1226486473,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226486473,
+    "wof:lastmodified":1537080323,
+    "wof:name":"Los Cerros",
+    "wof:parent_id":421188641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73,
+    5.7075,
+    -73.73,
+    5.7075
+],
+  "geometry": {"coordinates":[-73.73,5.7075],"type":"Point"}
+}

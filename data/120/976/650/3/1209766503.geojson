@@ -1,0 +1,68 @@
+{
+  "id": 1209766503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57333,4.02583,-75.57333,4.02583",
+    "geom:latitude":4.02583,
+    "geom:longitude":-75.57333,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73622.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"CO",
+    "gn:dem":2415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769501,
+    "gn:latitude":4.02583,
+    "gn:longitude":-75.57333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Carlos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769501
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a99402309c83152e5093223d93beceaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701461,
+            "locality_id":1209766503,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1209766503,
+    "wof:lastmodified":1536386206,
+    "wof:name":"San Carlos",
+    "wof:parent_id":1108701461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57333,
+    4.02583,
+    -75.57333,
+    4.02583
+],
+  "geometry": {"coordinates":[-75.57333,4.02583],"type":"Point"}
+}

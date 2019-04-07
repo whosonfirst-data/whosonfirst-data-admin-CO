@@ -1,0 +1,76 @@
+{
+  "id": 421170859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.07278,4.31917,-76.07278,4.31917",
+    "geom:latitude":4.31917,
+    "geom:longitude":-76.07278,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678298,
+    "qs:gn_pop":0,
+    "qs:name":"La Paila",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267362,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359545,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421181795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678298,
+        "gp:id":359545,
+        "qs:id":267362
+    },
+    "wof:country":"CO",
+    "wof:created":1459008871,
+    "wof:geomhash":"76883cf449798ee9078d0fea14efabe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181795,
+            "locality_id":421170859,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":421170859,
+    "wof:lastmodified":1499969758,
+    "wof:name":"La Paila",
+    "wof:parent_id":421181795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.07278,
+    4.31917,
+    -76.07278,
+    4.31917
+],
+  "geometry": {"coordinates":[-76.07277999999999,4.31917],"type":"Point"}
+}

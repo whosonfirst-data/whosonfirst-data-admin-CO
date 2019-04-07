@@ -1,0 +1,62 @@
+{
+  "id": 1209024763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.46142,2.73448,-76.46142,2.73448",
+    "geom:latitude":2.73448,
+    "geom:longitude":-76.46142,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19743.0",
+    "gn:asciiname":"Loma El Carmen",
+    "gn:country_code":"CO",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8635030,
+    "gn:latitude":2.73448,
+    "gn:longitude":-76.46142,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Loma El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8635030
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c71a3894cb72262e89540841f1603e46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209024763
+        }
+    ],
+    "wof:id":1209024763,
+    "wof:lastmodified":1536300036,
+    "wof:name":"Loma El Carmen",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.46141999999998,
+    2.73448,
+    -76.46141999999998,
+    2.73448
+],
+  "geometry": {"coordinates":[-76.46141999999998,2.73448],"type":"Point"}
+}

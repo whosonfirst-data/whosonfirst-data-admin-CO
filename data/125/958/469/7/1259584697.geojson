@@ -1,0 +1,70 @@
+{
+  "id": 1259584697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87372,6.23239,-70.87372,6.23239",
+    "geom:latitude":6.23239,
+    "geom:longitude":-70.87372,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Caracaros",
+    "gn:country_code":"CO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11406026,
+    "gn:latitude":6.23239,
+    "gn:longitude":-70.87372,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Caracaros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caracaros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11406026
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"74f688e93bda00e8a616845cb33697c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1259584697,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1259584697,
+    "wof:lastmodified":1537618846,
+    "wof:name":"Caracaros",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87371999999998,
+    6.23239,
+    -70.87371999999998,
+    6.23239
+],
+  "geometry": {"coordinates":[-70.87371999999998,6.23239],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225908989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.67114,1.77893,-78.67114,1.77893",
+    "geom:latitude":1.77893,
+    "geom:longitude":-78.67114,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Trapiche",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666800,
+    "gn:latitude":1.77893,
+    "gn:longitude":-78.67114,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Trapiche",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Trapiche",
+        "Trapiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666800
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4b4f5015a1e25be8b2995c8fb0b7e810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1225908989,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1225908989,
+    "wof:lastmodified":1537618370,
+    "wof:name":"Trapiche",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.67114000000002,
+    1.77893,
+    -78.67114000000002,
+    1.77893
+],
+  "geometry": {"coordinates":[-78.67114000000002,1.77893],"type":"Point"}
+}

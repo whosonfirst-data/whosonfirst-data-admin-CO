@@ -1,0 +1,62 @@
+{
+  "id": 1209638959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0637,10.41058,-75.0637,10.41058",
+    "geom:latitude":10.41058,
+    "geom:longitude":-75.0637,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8436.0",
+    "gn:asciiname":"Incora",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830651,
+    "gn:latitude":10.41058,
+    "gn:longitude":-75.0637,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Incora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830651
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd30f98e8b9e41179ea0d76e894195d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209638959
+        }
+    ],
+    "wof:id":1209638959,
+    "wof:lastmodified":1536280946,
+    "wof:name":"Incora",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0637,
+    10.41058,
+    -75.0637,
+    10.41058
+],
+  "geometry": {"coordinates":[-75.0637,10.41058],"type":"Point"}
+}

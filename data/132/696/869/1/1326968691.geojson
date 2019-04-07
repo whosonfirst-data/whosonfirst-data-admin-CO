@@ -1,0 +1,75 @@
+{
+  "id": 1326968691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73003,10.10029,-74.73003,10.10029",
+    "geom:latitude":10.10029,
+    "geom:longitude":-74.73003,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47960.0",
+    "gn:asciiname":"Piedra de Moler",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672305,
+    "gn:latitude":10.10029,
+    "gn:longitude":-74.73003,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Piedra de Moler",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento de Piedra Moler",
+        "Moler",
+        "Piedras de Moler",
+        "Piedra Moler",
+        "Piedra de Moler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672305
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eaa4f7c16047c06981a43c9f50a33f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700921,
+            "locality_id":1326968691,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1326968691,
+    "wof:lastmodified":1537618434,
+    "wof:name":"Piedra de Moler",
+    "wof:parent_id":1108700921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73003,
+    10.10029,
+    -74.73003,
+    10.10029
+],
+  "geometry": {"coordinates":[-74.73003,10.10029],"type":"Point"}
+}

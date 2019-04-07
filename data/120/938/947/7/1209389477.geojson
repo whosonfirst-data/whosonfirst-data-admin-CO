@@ -1,0 +1,62 @@
+{
+  "id": 1209389477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.64294,4.17768,-73.64294,4.17768",
+    "geom:latitude":4.17768,
+    "geom:longitude":-73.64294,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Bavaria",
+    "gn:country_code":"CO",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689048,
+    "gn:latitude":4.17768,
+    "gn:longitude":-73.64294,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bavaria",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689048
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"40b5e947a009f382249af68c667e05b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209389477
+        }
+    ],
+    "wof:id":1209389477,
+    "wof:lastmodified":1536288510,
+    "wof:name":"Bavaria",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64294,
+    4.1776800000000005,
+    -73.64294,
+    4.1776800000000005
+],
+  "geometry": {"coordinates":[-73.64294,4.17768],"type":"Point"}
+}

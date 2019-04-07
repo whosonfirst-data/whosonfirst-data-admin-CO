@@ -1,0 +1,71 @@
+{
+  "id": 1243457137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52802,5.99078,-75.52802,5.99078",
+    "geom:latitude":5.99078,
+    "geom:longitude":-75.52802,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5607.0",
+    "gn:asciiname":"La Luz",
+    "gn:country_code":"CO",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780734,
+    "gn:latitude":5.99078,
+    "gn:longitude":-75.52802,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Luz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Luz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421200813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780734
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"74e0688018ab827853843b0ff755f35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200813,
+            "locality_id":1243457137,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1243457137,
+    "wof:lastmodified":1537618689,
+    "wof:name":"La Luz",
+    "wof:parent_id":421200813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52802,
+    5.99078,
+    -75.52802,
+    5.99078
+],
+  "geometry": {"coordinates":[-75.52802,5.99078],"type":"Point"}
+}

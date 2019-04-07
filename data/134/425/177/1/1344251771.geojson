@@ -1,0 +1,73 @@
+{
+  "id": 1344251771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45587,0.695,-75.45587,0.695",
+    "geom:latitude":0.695,
+    "geom:longitude":-75.45587,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mayoyoque",
+    "gn:country_code":"CO",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6978449,
+    "gn:latitude":0.695,
+    "gn:longitude":-75.45587,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mayoyoque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mayoyoque"
+    ],
+    "name:und_x_variant":[
+        "Caser\u00edo Mayoyoque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6978449
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c1859e5ce118c002df7bcbafa39ae590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701565,
+            "locality_id":1344251771,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1344251771,
+    "wof:lastmodified":1537618707,
+    "wof:name":"Mayoyoque",
+    "wof:parent_id":1108701565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45586999999998,
+    0.695,
+    -75.45586999999998,
+    0.695
+],
+  "geometry": {"coordinates":[-75.45586999999998,0.695],"type":"Point"}
+}

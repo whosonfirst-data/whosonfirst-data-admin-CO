@@ -1,0 +1,68 @@
+{
+  "id": 1344117415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.99528,4.05639,-75.99528,4.05639",
+    "geom:latitude":4.05639,
+    "geom:longitude":-75.99528,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76834.0",
+    "gn:asciiname":"Puerto Trazadas",
+    "gn:country_code":"CO",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768826,
+    "gn:latitude":4.05639,
+    "gn:longitude":-75.99528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Trazadas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768826
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0db9bcb3b9319c1b4b9f5fc1520ea607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701505,
+            "locality_id":1344117415,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1344117415,
+    "wof:lastmodified":1536793864,
+    "wof:name":"Puerto Trazadas",
+    "wof:parent_id":1108701505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.99528000000002,
+    4.05639,
+    -75.99528000000002,
+    4.05639
+],
+  "geometry": {"coordinates":[-75.99528000000002,4.05639],"type":"Point"}
+}

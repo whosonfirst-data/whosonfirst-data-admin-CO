@@ -1,0 +1,66 @@
+{
+  "id": 890449723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.390857,8.939764,-76.390857,8.939764",
+    "geom:latitude":8.939764,
+    "geom:longitude":-76.390857,
+    "gn:country":"CO",
+    "gp:adm0":23424787,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Los Cordobas",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cordoba",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26797030,
+        "qs:id":1121252,
+        "wd:id":"Q1525401",
+        "wk:page":"Los C\u00f3rdobas"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052705,
+    "wof:geomhash":"97e29b74a877b40ec61622fb3e2a2edc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "county_id":890449723
+        }
+    ],
+    "wof:id":890449723,
+    "wof:lastmodified":1527727156,
+    "wof:name":"Los Cordobas",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.390857,
+    8.939764,
+    -76.390857,
+    8.939764
+],
+  "geometry": {"coordinates":[-76.390857,8.939764],"type":"Point"}
+}

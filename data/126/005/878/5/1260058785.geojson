@@ -1,0 +1,68 @@
+{
+  "id": 1260058785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.43191,10.30087,-73.43191,10.30087",
+    "geom:latitude":10.30087,
+    "geom:longitude":-73.43191,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Hacienda El Cercado",
+    "gn:country_code":"CO",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559622,
+    "gn:latitude":10.30087,
+    "gn:longitude":-73.43191,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda El Cercado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559622
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8784bb09776c463ceee1858861b5da27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1260058785,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260058785,
+    "wof:lastmodified":1537022669,
+    "wof:name":"Hacienda El Cercado",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.43191,
+    10.30087,
+    -73.43191,
+    10.30087
+],
+  "geometry": {"coordinates":[-73.43191,10.30087],"type":"Point"}
+}

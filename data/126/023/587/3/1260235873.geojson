@@ -1,0 +1,71 @@
+{
+  "id": 1260235873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05809,7.06222,-73.05809,7.06222",
+    "geom:latitude":7.06222,
+    "geom:longitude":-73.05809,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68276.0",
+    "gn:asciiname":"Casiano",
+    "gn:country_code":"CO",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8183393,
+    "gn:latitude":7.06222,
+    "gn:longitude":-73.05809,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casiano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Casiano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183393
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ccea176762a36e8371a8ba64329742ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701253,
+            "locality_id":1260235873,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1260235873,
+    "wof:lastmodified":1537618758,
+    "wof:name":"Casiano",
+    "wof:parent_id":1108701253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05809,
+    7.06222,
+    -73.05809,
+    7.06222
+],
+  "geometry": {"coordinates":[-73.05809000000001,7.06222],"type":"Point"}
+}

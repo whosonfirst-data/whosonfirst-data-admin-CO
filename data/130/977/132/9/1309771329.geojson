@@ -1,0 +1,71 @@
+{
+  "id": 1309771329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23911,3.04915,-73.23911,3.04915",
+    "geom:latitude":3.04915,
+    "geom:longitude":-73.23911,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50577.0",
+    "gn:asciiname":"Puerto Tablon",
+    "gn:country_code":"CO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622103,
+    "gn:latitude":3.04915,
+    "gn:longitude":-73.23911,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Tabl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622103
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6301f3dfbeb683941715e115fd503f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700951,
+            "locality_id":1309771329,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1309771329,
+    "wof:lastmodified":1537618799,
+    "wof:name":"Puerto Tablon",
+    "wof:parent_id":1108700951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23911,
+    3.04915,
+    -73.23911,
+    3.04915
+],
+  "geometry": {"coordinates":[-73.23911,3.04915],"type":"Point"}
+}

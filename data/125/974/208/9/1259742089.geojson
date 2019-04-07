@@ -1,0 +1,68 @@
+{
+  "id": 1259742089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4,7.2,-72.4,7.2",
+    "geom:latitude":7.2,
+    "geom:longitude":-72.4,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54820.0",
+    "gn:asciiname":"Margua",
+    "gn:country_code":"CO",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675301,
+    "gn:latitude":7.2,
+    "gn:longitude":-72.4,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Margua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675301
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"298770669332015742ab1ee9fe9bcec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701157,
+            "locality_id":1259742089,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1259742089,
+    "wof:lastmodified":1536982162,
+    "wof:name":"Margua",
+    "wof:parent_id":1108701157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4,
+    7.2,
+    -72.4,
+    7.2
+],
+  "geometry": {"coordinates":[-72.40000000000001,7.2],"type":"Point"}
+}

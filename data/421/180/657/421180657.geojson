@@ -1,0 +1,148 @@
+{
+  "id": 421180657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.24344,3.71161,-73.24344,3.71161",
+    "geom:latitude":3.71161,
+    "geom:longitude":-73.24344,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af\u5fb7\u74dc\u9b6f"
+    ],
+    "name:dut_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:eng_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:fra_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:fre_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10d3\u10d4-\u10d2\u10e3\u10d0\u10e0\u10dd\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1-\u10d3\u10d4-\u10d2\u10e3\u10d0\u10e0\u10dd\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:msa_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:nan_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:nld_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:por_x_preferred":[
+        "San Carlos Guaroa"
+    ],
+    "name:spa_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:swe_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:tgl_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:unk_x_variant":[
+        "San Carlos de Guarda"
+    ],
+    "name:vie_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:war_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Carlos de Guaroa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af\u5fb7\u74dc\u9b6f"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669987,
+    "qs:gn_pop":1604,
+    "qs:name":"San Carlos de Guaroa",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1206668,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369374,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669987,
+        "gp:id":369374,
+        "qs:id":1206668,
+        "wd:id":"Q955327",
+        "wk:page":"San Carlos de Guaroa"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009266,
+    "wof:geomhash":"d5eca46a651753acffa2bf0a0ae8bc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700957,
+            "locality_id":421180657,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421180657,
+    "wof:lastmodified":1527716236,
+    "wof:name":"San Carlos de Guaroa",
+    "wof:parent_id":1108700957,
+    "wof:placetype":"locality",
+    "wof:population":1604,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24344,
+    3.71161,
+    -73.24344,
+    3.71161
+],
+  "geometry": {"coordinates":[-73.24344000000001,3.71161],"type":"Point"}
+}

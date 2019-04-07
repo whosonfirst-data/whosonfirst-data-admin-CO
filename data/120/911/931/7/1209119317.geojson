@@ -1,0 +1,62 @@
+{
+  "id": 1209119317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.99333,-4.14722,-69.99333,-4.14722",
+    "geom:latitude":-4.14722,
+    "geom:longitude":-69.99333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91001.0",
+    "gn:asciiname":"El Palmar",
+    "gn:country_code":"CO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827672,
+    "gn:latitude":-4.14722,
+    "gn:longitude":-69.99333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827672
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a685b288c8b62b3a4e08f3dba09f77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209119317
+        }
+    ],
+    "wof:id":1209119317,
+    "wof:lastmodified":1536297154,
+    "wof:name":"El Palmar",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.99333,
+    -4.14722,
+    -69.99333,
+    -4.14722
+],
+  "geometry": {"coordinates":[-69.99333,-4.14722],"type":"Point"}
+}

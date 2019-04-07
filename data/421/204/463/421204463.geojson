@@ -1,0 +1,144 @@
+{
+  "id": 421204463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24298,6.21829,-75.24298,6.21829",
+    "geom:latitude":6.21829,
+    "geom:longitude":-75.24298,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u4f69\u5c3c\u5967\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:eng_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:fre_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10de\u10d4\u10dc\u10d8\u10dd\u10da\u10d8"
+    ],
+    "name:hbs_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:ile_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:ita_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:may_x_preferred":[
+        "Pe\u00f1ol"
+    ],
+    "name:msa_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:nan_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:nld_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:por_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:rum_x_preferred":[
+        "Pe\u00f1ol"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041f\u0435\u043d\u044c\u043e\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:spa_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:swe_x_preferred":[
+        "Pe\u00f1ol"
+    ],
+    "name:tgl_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:unk_x_variant":[
+        "El Pe\u00f1ol"
+    ],
+    "name:vie_x_preferred":[
+        "Pe\u00f1ol"
+    ],
+    "name:war_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3672540,
+    "qs:gn_pop":0,
+    "qs:name":"Pe\u00f1ol",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":694,
+    "qs:photos_1k":141,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":694,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240949,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":363705,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672540,
+        "gp:id":363705,
+        "qs:id":240949,
+        "wd:id":"Q1525273"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010187,
+    "wof:geomhash":"82db5f84b2ffe8b74de8c00e5e2f7185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170569,
+            "locality_id":421204463,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421204463,
+    "wof:lastmodified":1527716180,
+    "wof:name":"Pe\u00f1ol",
+    "wof:parent_id":421170569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24298,
+    6.21829,
+    -75.24298,
+    6.21829
+],
+  "geometry": {"coordinates":[-75.24298,6.21829],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193097733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0125,3.59722,-76.0125,3.59722",
+    "geom:latitude":3.59722,
+    "geom:longitude":-76.0125,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76520.0",
+    "gn:asciiname":"Madura",
+    "gn:country_code":"CO",
+    "gn:dem":3307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779041,
+    "gn:latitude":3.59722,
+    "gn:longitude":-76.0125,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Madura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421205105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779041
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6744c6df7bcc4bc38e40d963115aabdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205105,
+            "locality_id":1193097733,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1193097733,
+    "wof:lastmodified":1536364822,
+    "wof:name":"Madura",
+    "wof:parent_id":421205105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0125,
+    3.59722,
+    -76.0125,
+    3.59722
+],
+  "geometry": {"coordinates":[-76.0125,3.59722],"type":"Point"}
+}

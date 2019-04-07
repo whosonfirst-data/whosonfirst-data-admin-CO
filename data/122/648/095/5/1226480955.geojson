@@ -1,0 +1,68 @@
+{
+  "id": 1226480955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47312,9.38122,-74.47312,9.38122",
+    "geom:latitude":9.38122,
+    "geom:longitude":-74.47312,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47545.0",
+    "gn:asciiname":"La Isabel",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678704,
+    "gn:latitude":9.38122,
+    "gn:longitude":-74.47312,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678704
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"167bb37bdb40a6dc821bd7feb33c7ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700895,
+            "locality_id":1226480955,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226480955,
+    "wof:lastmodified":1537088143,
+    "wof:name":"La Isabel",
+    "wof:parent_id":1108700895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47312,
+    9.38122,
+    -74.47312,
+    9.38122
+],
+  "geometry": {"coordinates":[-74.47311999999999,9.38122],"type":"Point"}
+}

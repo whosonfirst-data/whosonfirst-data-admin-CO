@@ -1,0 +1,67 @@
+{
+  "id": 1326691749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.59222,1.89556,-78.59222,1.89556",
+    "geom:latitude":1.89556,
+    "geom:longitude":-78.59222,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Soledad",
+    "gn:country_code":"CO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827989,
+    "gn:latitude":1.89556,
+    "gn:longitude":-78.59222,
+    "gn:modification_date":"2000-05-25",
+    "gn:name":"Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827989
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce5c5a9b1123f3b168f1c66a75bbda16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701049,
+            "locality_id":1326691749,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1326691749,
+    "wof:lastmodified":1536754246,
+    "wof:name":"Soledad",
+    "wof:parent_id":1108701049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.59222,
+    1.89556,
+    -78.59222,
+    1.89556
+],
+  "geometry": {"coordinates":[-78.59222,1.89556],"type":"Point"}
+}

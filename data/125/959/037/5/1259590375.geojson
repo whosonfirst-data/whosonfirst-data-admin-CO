@@ -1,0 +1,74 @@
+{
+  "id": 1259590375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.26872,6.9387,-70.26872,6.9387",
+    "geom:latitude":6.9387,
+    "geom:longitude":-70.26872,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"El Caracol",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687459,
+    "gn:latitude":6.9387,
+    "gn:longitude":-70.26872,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Caracol",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Villanueva",
+        "Inspecci\u00f3n de Policia El Caracol",
+        "Caracol",
+        "El Caracol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687459
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a57fe98dee21e92a963db3184a24a066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1259590375,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1259590375,
+    "wof:lastmodified":1537618631,
+    "wof:name":"El Caracol",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.26872,
+    6.9387,
+    -70.26872,
+    6.9387
+],
+  "geometry": {"coordinates":[-70.26872,6.9387],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343543533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.89405,3.42242,-69.89405,3.42242",
+    "geom:latitude":3.42242,
+    "geom:longitude":-69.89405,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"CO",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671660,
+    "gn:latitude":3.42242,
+    "gn:longitude":-69.89405,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblonuevo",
+        "Pueblo Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671660
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce9634fcce753c4d2aafaf4c415a71f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701607,
+            "locality_id":1343543533,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1343543533,
+    "wof:lastmodified":1537618426,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":1108701607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.89405,
+    3.42242,
+    -69.89405,
+    3.42242
+],
+  "geometry": {"coordinates":[-69.89404999999999,3.42242],"type":"Point"}
+}

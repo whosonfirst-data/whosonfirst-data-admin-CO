@@ -1,0 +1,68 @@
+{
+  "id": 1242628711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.99159,9.76555,-73.99159,9.76555",
+    "geom:latitude":9.76555,
+    "geom:longitude":-73.99159,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47058.0",
+    "gn:asciiname":"Tres Esquinas",
+    "gn:country_code":"CO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775837,
+    "gn:latitude":9.76555,
+    "gn:longitude":-73.99159,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tres Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775837
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"138b8d377916055cbb4475cd762e1a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700875,
+            "locality_id":1242628711,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1242628711,
+    "wof:lastmodified":1536989467,
+    "wof:name":"Tres Esquinas",
+    "wof:parent_id":1108700875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99159,
+    9.76555,
+    -73.99159,
+    9.76555
+],
+  "geometry": {"coordinates":[-73.99159,9.76555],"type":"Point"}
+}

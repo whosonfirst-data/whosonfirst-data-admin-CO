@@ -1,0 +1,72 @@
+{
+  "id": 1310112861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.51287,6.62917,-70.51287,6.62917",
+    "geom:latitude":6.62917,
+    "geom:longitude":-70.51287,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Laurel Gacho",
+    "gn:country_code":"CO",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759697,
+    "gn:latitude":6.62917,
+    "gn:longitude":-70.51287,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Laurel Gacho",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laurel Gecho",
+        "Laurel Gacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759697
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a9b2c70b27acf4f338afcf73906c56dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1310112861,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1310112861,
+    "wof:lastmodified":1537618686,
+    "wof:name":"Laurel Gacho",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.51286999999998,
+    6.62917,
+    -70.51286999999998,
+    6.62917
+],
+  "geometry": {"coordinates":[-70.51286999999998,6.62917],"type":"Point"}
+}

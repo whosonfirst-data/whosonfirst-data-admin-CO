@@ -1,0 +1,67 @@
+{
+  "id": 1259792947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.76081,-2.30786,-70.76081,-2.30786",
+    "geom:latitude":-2.30786,
+    "geom:longitude":-70.76081,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Puerto Pupuna",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671360,
+    "gn:latitude":-2.30786,
+    "gn:longitude":-70.76081,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Puerto Pupu\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671360
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4d194276dd7d9833ff3ce58158ab8f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701597,
+            "locality_id":1259792947,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1259792947,
+    "wof:lastmodified":1536909763,
+    "wof:name":"Puerto Pupuna",
+    "wof:parent_id":1108701597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.76080999999998,
+    -2.30786,
+    -70.76080999999998,
+    -2.30786
+],
+  "geometry": {"coordinates":[-70.76080999999998,-2.30786],"type":"Point"}
+}

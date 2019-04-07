@@ -1,0 +1,71 @@
+{
+  "id": 1193144251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.70636,6.53018,-70.70636,6.53018",
+    "geom:latitude":6.53018,
+    "geom:longitude":-70.70636,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"San Jose de Jobito",
+    "gn:country_code":"CO",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759705,
+    "gn:latitude":6.53018,
+    "gn:longitude":-70.70636,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"San Jos\u00e9 de Jobito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Jobito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759705
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"080474d47411717d492be5d603a8abd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1193144251,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1193144251,
+    "wof:lastmodified":1537618686,
+    "wof:name":"San Jose de Jobito",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.70636,
+    6.53018,
+    -70.70636,
+    6.53018
+],
+  "geometry": {"coordinates":[-70.70636,6.53018],"type":"Point"}
+}

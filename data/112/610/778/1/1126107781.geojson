@@ -1,0 +1,104 @@
+{
+  "id": 1126107781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.12439,4.58631,-74.12439,4.58631",
+    "geom:latitude":4.58631,
+    "geom:longitude":-74.12439,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.58631,
+    "gn:longitude":-74.12439,
+    "iso:country":"CO",
+    "lbl:latitude":4.58631,
+    "lbl:longitude":-74.12439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_colloquial":[
+        "Ingles"
+    ],
+    "name:spa_x_preferred":[
+        "Ingl\u00e9s"
+    ],
+    "name:unk_x_variant":[
+        "Ingl\u00e9s"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":7033363,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ingl\u00e9s",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":141,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":141,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":489467,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":357504,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033363,
+        "gp:id":357504,
+        "qs:id":489467,
+        "qs_pg:id":489467,
+        "wk:page":"Sitnica"
+    },
+    "wof:country":"CO",
+    "wof:created":1497317502,
+    "wof:geomhash":"e6f80425885a15ec229284eb35e779b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126107781,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126107781,
+    "wof:lastmodified":1534379262,
+    "wof:name":"Ingl\u00e9s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764665
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.12439,
+    4.58631,
+    -74.12439,
+    4.58631
+],
+  "geometry": {"coordinates":[-74.12439000000001,4.58631],"type":"Point"}
+}

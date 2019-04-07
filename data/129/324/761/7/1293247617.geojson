@@ -1,0 +1,68 @@
+{
+  "id": 1293247617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.71667,12.53333,-81.71667,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-81.71667,
+    "gn:admin1_code":"25",
+    "gn:admin2_code":"88001.0",
+    "gn:asciiname":"Cueva de Morgan",
+    "gn:country_code":"CO",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685505,
+    "gn:latitude":12.53333,
+    "gn:longitude":-81.71667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cueva de Morgan",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670151,
+        890452015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685505
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9503703adf3f5f3dd31f763ffb1a24c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":890452015,
+            "locality_id":1293247617,
+            "region_id":85670151
+        }
+    ],
+    "wof:id":1293247617,
+    "wof:lastmodified":1536634588,
+    "wof:name":"Cueva de Morgan",
+    "wof:parent_id":890452015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.71667,
+    12.53333,
+    -81.71667,
+    12.53333
+],
+  "geometry": {"coordinates":[-81.71666999999999,12.53333],"type":"Point"}
+}

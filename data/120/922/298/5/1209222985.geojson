@@ -1,0 +1,62 @@
+{
+  "id": 1209222985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91889,7.34528,-75.91889,7.34528",
+    "geom:latitude":7.34528,
+    "geom:longitude":-75.91889,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5361.0",
+    "gn:asciiname":"El Pedrero",
+    "gn:country_code":"CO",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731464,
+    "gn:latitude":7.34528,
+    "gn:longitude":-75.91889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Pedrero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731464
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4505a620aa680f6716b694b6a4a6d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209222985
+        }
+    ],
+    "wof:id":1209222985,
+    "wof:lastmodified":1536293896,
+    "wof:name":"El Pedrero",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91889,
+    7.345280000000002,
+    -75.91889,
+    7.345280000000002
+],
+  "geometry": {"coordinates":[-75.91889,7.34528],"type":"Point"}
+}

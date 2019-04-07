@@ -1,0 +1,68 @@
+{
+  "id": 1259372309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58496,1.43376,-76.58496,1.43376",
+    "geom:latitude":1.43376,
+    "geom:longitude":-76.58496,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19701.0",
+    "gn:asciiname":"Yanaconas",
+    "gn:country_code":"CO",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665775,
+    "gn:latitude":1.43376,
+    "gn:longitude":-76.58496,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Yanaconas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665775
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"068e515b70dc4d6f1642b8706ac307ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700503,
+            "locality_id":1259372309,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1259372309,
+    "wof:lastmodified":1537017646,
+    "wof:name":"Yanaconas",
+    "wof:parent_id":1108700503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58496,
+    1.43376,
+    -76.58496,
+    1.43376
+],
+  "geometry": {"coordinates":[-76.58496,1.43376],"type":"Point"}
+}

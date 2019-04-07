@@ -1,0 +1,67 @@
+{
+  "id": 1259538143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.4,6.51667,-74.4,6.51667",
+    "geom:latitude":6.51667,
+    "geom:longitude":-74.4,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Puerto Chepe",
+    "gn:country_code":"CO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671511,
+    "gn:latitude":6.51667,
+    "gn:longitude":-74.4,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Puerto Chepe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671511
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"879028d18f11072a8cd7c4ab76d47218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170571,
+            "locality_id":1259538143,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1259538143,
+    "wof:lastmodified":1536780810,
+    "wof:name":"Puerto Chepe",
+    "wof:parent_id":421170571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.4,
+    6.51667,
+    -74.4,
+    6.51667
+],
+  "geometry": {"coordinates":[-74.40000000000001,6.51667],"type":"Point"}
+}

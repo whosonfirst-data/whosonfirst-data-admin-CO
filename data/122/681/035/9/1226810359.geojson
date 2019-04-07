@@ -1,0 +1,68 @@
+{
+  "id": 1226810359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14417,3.92111,-75.14417,3.92111",
+    "geom:latitude":3.92111,
+    "geom:longitude":-75.14417,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73504.0",
+    "gn:asciiname":"Adelaide",
+    "gn:country_code":"CO",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782724,
+    "gn:latitude":3.92111,
+    "gn:longitude":-75.14417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Adelaide",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782724
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"afcb9626b7aba7782c0deb036975916f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701449,
+            "locality_id":1226810359,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1226810359,
+    "wof:lastmodified":1536620578,
+    "wof:name":"Adelaide",
+    "wof:parent_id":1108701449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14416999999997,
+    3.92111,
+    -75.14416999999997,
+    3.92111
+],
+  "geometry": {"coordinates":[-75.14416999999997,3.92111],"type":"Point"}
+}

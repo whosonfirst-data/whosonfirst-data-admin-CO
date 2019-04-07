@@ -1,0 +1,65 @@
+{
+  "id": 1209095611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.87686,2.02499,-76.87686,2.02499",
+    "geom:latitude":2.02499,
+    "geom:longitude":-76.87686,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19397.0",
+    "gn:asciiname":"El Diviso",
+    "gn:country_code":"CO",
+    "gn:dem":1841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684279,
+    "gn:latitude":2.02499,
+    "gn:longitude":-76.87686,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Diviso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Diviso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684279
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ea86f16e9fd13cd195088a6a4ccbd1b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209095611
+        }
+    ],
+    "wof:id":1209095611,
+    "wof:lastmodified":1537618592,
+    "wof:name":"El Diviso",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.87686,
+    2.02499,
+    -76.87686,
+    2.02499
+],
+  "geometry": {"coordinates":[-76.87685999999999,2.02499],"type":"Point"}
+}

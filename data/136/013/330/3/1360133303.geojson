@@ -1,0 +1,71 @@
+{
+  "id": 1360133303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.14167,4.74381,-74.14167,4.74381",
+    "geom:latitude":4.74381,
+    "geom:longitude":-74.14167,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25214.0",
+    "gn:asciiname":"Floralia",
+    "gn:country_code":"CO",
+    "gn:dem":2548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182110,
+    "gn:latitude":4.74381,
+    "gn:longitude":-74.14167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Floralia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Floralia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421172421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182110
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b27e53d500098ecf15a5ded55d99f806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172421,
+            "locality_id":1360133303,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1360133303,
+    "wof:lastmodified":1537618754,
+    "wof:name":"Floralia",
+    "wof:parent_id":421172421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.14166999999998,
+    4.74381,
+    -74.14166999999998,
+    4.74381
+],
+  "geometry": {"coordinates":[-74.14166999999998,4.74381],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326868729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.53333,9.91667,-74.53333,9.91667",
+    "geom:latitude":9.91667,
+    "geom:longitude":-74.53333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47555.0",
+    "gn:asciiname":"Hacienda Molinero",
+    "gn:country_code":"CO",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681083,
+    "gn:latitude":9.91667,
+    "gn:longitude":-74.53333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Molinero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681083
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ffdf96d99420562a61dd905eba3fcca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700899,
+            "locality_id":1326868729,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1326868729,
+    "wof:lastmodified":1536995405,
+    "wof:name":"Hacienda Molinero",
+    "wof:parent_id":1108700899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.53333,
+    9.91667,
+    -74.53333,
+    9.91667
+],
+  "geometry": {"coordinates":[-74.53333000000001,9.91667],"type":"Point"}
+}

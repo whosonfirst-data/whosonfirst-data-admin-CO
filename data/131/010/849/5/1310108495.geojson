@@ -1,0 +1,72 @@
+{
+  "id": 1310108495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34391,7.53993,-75.34391,7.53993",
+    "geom:latitude":7.53993,
+    "geom:longitude":-75.34391,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5790.0",
+    "gn:asciiname":"Puerto Antioquia",
+    "gn:country_code":"CO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671562,
+    "gn:latitude":7.53993,
+    "gn:longitude":-75.34391,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Antioquia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Ospina",
+        "Puerto Antioquia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671562
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"835351f6fe3a9462b2ece9946b25d3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700023,
+            "locality_id":1310108495,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310108495,
+    "wof:lastmodified":1537618424,
+    "wof:name":"Puerto Antioquia",
+    "wof:parent_id":1108700023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34391,
+    7.53993,
+    -75.34391,
+    7.53993
+],
+  "geometry": {"coordinates":[-75.34390999999999,7.53993],"type":"Point"}
+}

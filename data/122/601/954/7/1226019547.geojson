@@ -1,0 +1,68 @@
+{
+  "id": 1226019547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.99293,4.14022,-71.99293,4.14022",
+    "geom:latitude":4.14022,
+    "geom:longitude":-71.99293,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50568.0",
+    "gn:asciiname":"Napoles",
+    "gn:country_code":"CO",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674079,
+    "gn:latitude":4.14022,
+    "gn:longitude":-71.99293,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Napoles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674079
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6a5d1cdf0c08cedd7ccc5fbecdac7f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169181,
+            "locality_id":1226019547,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226019547,
+    "wof:lastmodified":1536763344,
+    "wof:name":"Napoles",
+    "wof:parent_id":421169181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.99293,
+    4.14022,
+    -71.99293,
+    4.14022
+],
+  "geometry": {"coordinates":[-71.99293,4.14022],"type":"Point"}
+}

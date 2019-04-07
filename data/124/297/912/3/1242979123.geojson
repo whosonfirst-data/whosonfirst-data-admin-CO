@@ -1,0 +1,73 @@
+{
+  "id": 1242979123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16667,6.43333,-76.16667,6.43333",
+    "geom:latitude":6.43333,
+    "geom:longitude":-76.16667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5847.0",
+    "gn:asciiname":"La Lunareja",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678524,
+    "gn:latitude":6.43333,
+    "gn:longitude":-76.16667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Lunareja",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunareja",
+        "La Lunareja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678524
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"43f4d9587ea72970c7a4cf7b58ee811a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700029,
+            "locality_id":1242979123,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1242979123,
+    "wof:lastmodified":1537618514,
+    "wof:name":"La Lunareja",
+    "wof:parent_id":1108700029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16667,
+    6.43333,
+    -76.16667,
+    6.43333
+],
+  "geometry": {"coordinates":[-76.16667,6.43333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243108901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08583,4.84306,-72.08583,4.84306",
+    "geom:latitude":4.84306,
+    "geom:longitude":-72.08583,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Matemonte del Burro",
+    "gn:country_code":"CO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769916,
+    "gn:latitude":4.84306,
+    "gn:longitude":-72.08583,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Matemonte del Burro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769916
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a6fad0b425118c0fab41cf5dc07f89cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":1243108901,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1243108901,
+    "wof:lastmodified":1536795289,
+    "wof:name":"Matemonte del Burro",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08583,
+    4.84306,
+    -72.08583,
+    4.84306
+],
+  "geometry": {"coordinates":[-72.08583,4.84306],"type":"Point"}
+}

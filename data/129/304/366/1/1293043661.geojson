@@ -1,0 +1,68 @@
+{
+  "id": 1293043661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15312,9.79076,-74.15312,9.79076",
+    "geom:latitude":9.79076,
+    "geom:longitude":-74.15312,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47058.0",
+    "gn:asciiname":"Bella Union",
+    "gn:country_code":"CO",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688972,
+    "gn:latitude":9.79076,
+    "gn:longitude":-74.15312,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bella Uni\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688972
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6afd49511b61fea35e86126900cc2d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700875,
+            "locality_id":1293043661,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1293043661,
+    "wof:lastmodified":1536930804,
+    "wof:name":"Bella Union",
+    "wof:parent_id":1108700875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15312,
+    9.79076,
+    -74.15312,
+    9.79076
+],
+  "geometry": {"coordinates":[-74.15312,9.79076],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293047643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.15444,3.52667,-76.15444,3.52667",
+    "geom:latitude":3.52667,
+    "geom:longitude":-76.15444,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76520.0",
+    "gn:asciiname":"Careperro",
+    "gn:country_code":"CO",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778541,
+    "gn:latitude":3.52667,
+    "gn:longitude":-76.15444,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Careperro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421205105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778541
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a45fa8bc829c66735c0e86a72ef4f967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205105,
+            "locality_id":1293047643,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1293047643,
+    "wof:lastmodified":1536925026,
+    "wof:name":"Careperro",
+    "wof:parent_id":421205105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15444000000002,
+    3.52667,
+    -76.15444000000002,
+    3.52667
+],
+  "geometry": {"coordinates":[-76.15444000000002,3.52667],"type":"Point"}
+}

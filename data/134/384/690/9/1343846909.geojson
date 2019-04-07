@@ -1,0 +1,73 @@
+{
+  "id": 1343846909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.80277,8.74187,-73.80277,8.74187",
+    "geom:latitude":8.74187,
+    "geom:longitude":-73.80277,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"CO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670118,
+    "gn:latitude":8.74187,
+    "gn:longitude":-73.80277,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento San Antonio",
+        "Los Mangos",
+        "Mangos",
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670118
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8f3cec3ae820d9bd414ae90b6d37a0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700141,
+            "locality_id":1343846909,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1343846909,
+    "wof:lastmodified":1537618405,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1108700141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.80277,
+    8.74187,
+    -73.80277,
+    8.74187
+],
+  "geometry": {"coordinates":[-73.80277,8.74187],"type":"Point"}
+}

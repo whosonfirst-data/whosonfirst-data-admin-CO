@@ -1,0 +1,63 @@
+{
+  "id": 1209560477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18484,4.35675,-74.18484,4.35675",
+    "geom:latitude":4.35675,
+    "geom:longitude":-74.18484,
+    "gn:admin1_code":"34",
+    "gn:admin2_code":"11001.0",
+    "gn:admin3_code":"5.0",
+    "gn:asciiname":"El Caliche",
+    "gn:country_code":"CO",
+    "gn:dem":3300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737604,
+    "gn:latitude":4.35675,
+    "gn:longitude":-74.18484,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"El Caliche",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737604
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d66caa04909db955e4b532c9d8f4c8ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209560477
+        }
+    ],
+    "wof:id":1209560477,
+    "wof:lastmodified":1536283407,
+    "wof:name":"El Caliche",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18484000000002,
+    4.35675,
+    -74.18484000000002,
+    4.35675
+],
+  "geometry": {"coordinates":[-74.18484000000002,4.35675],"type":"Point"}
+}

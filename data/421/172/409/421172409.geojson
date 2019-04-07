@@ -1,0 +1,91 @@
+{
+  "id": 421172409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.08333,2.66667,-76.08333,2.66667",
+    "geom:latitude":2.66667,
+    "geom:longitude":-76.08333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Inza"
+    ],
+    "name:nld_x_preferred":[
+        "Inza"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0437\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Inza"
+    ],
+    "name:spa_x_preferred":[
+        "Inza"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3680555,
+    "qs:gn_pop":0,
+    "qs:name":"Inza",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":599,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1310413,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796973,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680555,
+        "gp:id":26796973,
+        "qs:id":1310413,
+        "wd:id":"Q416719"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008940,
+    "wof:geomhash":"5d11789af471c38a8a9636104a4f264b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172409,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421172409,
+    "wof:lastmodified":1527716302,
+    "wof:name":"Inza",
+    "wof:parent_id":85670185,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08333,
+    2.66667,
+    -76.08333,
+    2.66667
+],
+  "geometry": {"coordinates":[-76.08333,2.66667],"type":"Point"}
+}

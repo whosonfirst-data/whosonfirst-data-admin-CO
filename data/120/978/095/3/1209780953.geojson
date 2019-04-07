@@ -1,0 +1,71 @@
+{
+  "id": 1209780953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.30814,3.78898,-73.30814,3.78898",
+    "geom:latitude":3.78898,
+    "geom:longitude":-73.30814,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50680.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"CO",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8596367,
+    "gn:latitude":3.78898,
+    "gn:longitude":-73.30814,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596367
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8e80893674fd7a363911038448623de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700957,
+            "locality_id":1209780953,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1209780953,
+    "wof:lastmodified":1537618792,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108700957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.30814000000002,
+    3.78898,
+    -73.30814000000002,
+    3.78898
+],
+  "geometry": {"coordinates":[-73.30814000000002,3.78898],"type":"Point"}
+}

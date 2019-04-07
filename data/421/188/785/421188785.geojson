@@ -1,0 +1,79 @@
+{
+  "id": 421188785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.364349,8.638049,-77.364349,8.638049",
+    "geom:latitude":8.638049,
+    "geom:longitude":-77.364349,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Puerto Obaldia",
+    "qs:name_adm0":"Panam\u00e1",
+    "qs:name_adm1":"Kuna Yala",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":410,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104023,
+    "qs:woe_adm0":23424924,
+    "qs:woe_id":26793584,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        421172119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26793584,
+        "qs:id":1104023,
+        "qs_pg:id":1104023
+    },
+    "wof:country":"CO",
+    "wof:created":1459009578,
+    "wof:geomhash":"584e4eb4d992dfc9d28fa4ebb1d074b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172119,
+            "localadmin_id":421188785,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":421188785,
+    "wof:lastmodified":1497043651,
+    "wof:name":"Puerto Obaldia",
+    "wof:parent_id":421172119,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.364349,
+    8.638049,
+    -77.364349,
+    8.638049
+],
+  "geometry": {"coordinates":[-77.364349,8.638049],"type":"Point"}
+}

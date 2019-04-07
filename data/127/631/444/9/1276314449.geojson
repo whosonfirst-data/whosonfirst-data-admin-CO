@@ -1,0 +1,68 @@
+{
+  "id": 1276314449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67667,2.25472,-75.67667,2.25472",
+    "geom:latitude":2.25472,
+    "geom:longitude":-75.67667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41013.0",
+    "gn:asciiname":"Tierra Grata",
+    "gn:country_code":"CO",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793126,
+    "gn:latitude":2.25472,
+    "gn:longitude":-75.67667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Grata",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793126
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3079fb02a5d15762a7483694cc7159c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700797,
+            "locality_id":1276314449,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1276314449,
+    "wof:lastmodified":1536803922,
+    "wof:name":"Tierra Grata",
+    "wof:parent_id":1108700797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67667,
+    2.25472,
+    -75.67667,
+    2.25472
+],
+  "geometry": {"coordinates":[-75.67667,2.25472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343645719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99194,1.95472,-76.99194,1.95472",
+    "geom:latitude":1.95472,
+    "geom:longitude":-76.99194,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19100.0",
+    "gn:asciiname":"Hacienda Salidito",
+    "gn:country_code":"CO",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736407,
+    "gn:latitude":1.95472,
+    "gn:longitude":-76.99194,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Salidito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Salidito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736407
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3377641500a46d6753bdb7cb1efa308f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700441,
+            "locality_id":1343645719,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1343645719,
+    "wof:lastmodified":1537618679,
+    "wof:name":"Hacienda Salidito",
+    "wof:parent_id":1108700441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99194,
+    1.95472,
+    -76.99194,
+    1.95472
+],
+  "geometry": {"coordinates":[-76.99194,1.95472],"type":"Point"}
+}

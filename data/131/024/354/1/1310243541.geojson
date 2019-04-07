@@ -1,0 +1,68 @@
+{
+  "id": 1310243541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7,9.75,-74.7,9.75",
+    "geom:latitude":9.75,
+    "geom:longitude":-74.7,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47555.0",
+    "gn:asciiname":"Platanal",
+    "gn:country_code":"CO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672055,
+    "gn:latitude":9.75,
+    "gn:longitude":-74.7,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Platanal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672055
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d7b151612268f82196cc0ae3f0bb239a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700899,
+            "locality_id":1310243541,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1310243541,
+    "wof:lastmodified":1536797431,
+    "wof:name":"Platanal",
+    "wof:parent_id":1108700899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7,
+    9.75,
+    -74.7,
+    9.75
+],
+  "geometry": {"coordinates":[-74.7,9.75],"type":"Point"}
+}

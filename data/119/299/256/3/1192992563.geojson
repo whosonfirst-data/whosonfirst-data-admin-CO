@@ -1,0 +1,64 @@
+{
+  "id": 1192992563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.00055,1.63644,-79.00055,1.63644",
+    "geom:latitude":1.63644,
+    "geom:longitude":-79.00055,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Cabo Manglares",
+    "gn:country_code":"CO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688176,
+    "gn:latitude":1.63644,
+    "gn:longitude":-79.00055,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cabo Manglares",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688176
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"74d946e6329b579ae90f949658e7c2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1192992563,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1192992563,
+    "wof:lastmodified":1536379290,
+    "wof:name":"Cabo Manglares",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.00055,
+    1.63644,
+    -79.00055,
+    1.63644
+],
+  "geometry": {"coordinates":[-79.00055,1.63644],"type":"Point"}
+}

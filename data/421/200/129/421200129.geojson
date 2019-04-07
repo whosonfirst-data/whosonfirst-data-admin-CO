@@ -1,0 +1,160 @@
+{
+  "id": 421200129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.60626,5.74867,-75.60626,5.74867",
+    "geom:latitude":5.74867,
+    "geom:longitude":-75.60626,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Pintada"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5e73\u5854\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "La Pintada"
+    ],
+    "name:eng_x_preferred":[
+        "La Pintada"
+    ],
+    "name:fra_x_preferred":[
+        "La Pintada"
+    ],
+    "name:fre_x_preferred":[
+        "La Pintada"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d8\u10dc\u10e2\u10d0\u10d3\u10d0"
+    ],
+    "name:ile_x_preferred":[
+        "La Pintada"
+    ],
+    "name:ita_x_preferred":[
+        "La Pintada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d8\u10dc\u10e2\u10d0\u10d3\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "La Pintada"
+    ],
+    "name:msa_x_preferred":[
+        "La Pintada"
+    ],
+    "name:nan_x_preferred":[
+        "La Pintada"
+    ],
+    "name:nld_x_preferred":[
+        "La Pintada"
+    ],
+    "name:por_x_preferred":[
+        "La Pintada"
+    ],
+    "name:ron_x_preferred":[
+        "La Pintada"
+    ],
+    "name:rum_x_preferred":[
+        "La Pintada"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u041f\u0438\u043d\u0442\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Pintada"
+    ],
+    "name:swe_x_preferred":[
+        "La Pintada"
+    ],
+    "name:tgl_x_preferred":[
+        "La Pintada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u06cc\u0646\u0679\u0627\u0688\u0627\u060c \u06a9\u0648\u0644\u0648\u0645\u0628\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Pintada"
+    ],
+    "name:war_x_preferred":[
+        "La Pintada"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "La Pintada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e73\u5854\u9054"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678118,
+    "qs:gn_pop":5342,
+    "qs:name":"La Pintada",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":234,
+    "qs:photos_1k":47,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":234,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1284769,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359714,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":94,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678118,
+        "gp:id":359714,
+        "qs:id":1284769,
+        "wd:id":"Q1576562",
+        "wk:page":"La Pintada, Colombia"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010012,
+    "wof:geomhash":"1970e5b83b43130c311da1bbb2749db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699971,
+            "locality_id":421200129,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421200129,
+    "wof:lastmodified":1527716424,
+    "wof:name":"La Pintada",
+    "wof:parent_id":1108699971,
+    "wof:placetype":"locality",
+    "wof:population":5342,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.60626,
+    5.74867,
+    -75.60626,
+    5.74867
+],
+  "geometry": {"coordinates":[-75.60626000000001,5.74867],"type":"Point"}
+}

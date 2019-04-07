@@ -1,0 +1,68 @@
+{
+  "id": 1293276379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.14994,2.65486,-77.14994,2.65486",
+    "geom:latitude":2.65486,
+    "geom:longitude":-77.14994,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19256.0",
+    "gn:asciiname":"Playa Rica",
+    "gn:country_code":"CO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630273,
+    "gn:latitude":2.65486,
+    "gn:longitude":-77.14994,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Playa Rica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630273
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2075a680827c4ecb27aac2a6ada61018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700455,
+            "locality_id":1293276379,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1293276379,
+    "wof:lastmodified":1537088208,
+    "wof:name":"Playa Rica",
+    "wof:parent_id":1108700455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.14994,
+    2.65486,
+    -77.14994,
+    2.65486
+],
+  "geometry": {"coordinates":[-77.14994,2.65486],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209147671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.50792,9.56613,-74.50792,9.56613",
+    "geom:latitude":9.56613,
+    "geom:longitude":-74.50792,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47707.0",
+    "gn:asciiname":"Monte Virgen",
+    "gn:country_code":"CO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674426,
+    "gn:latitude":9.56613,
+    "gn:longitude":-74.50792,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Monte Virgen",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Monte Virgen",
+        "Monte Virgen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674426
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad42c75f7e82072aa112458395910f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209147671
+        }
+    ],
+    "wof:id":1209147671,
+    "wof:lastmodified":1537618455,
+    "wof:name":"Monte Virgen",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.50792,
+    9.56613,
+    -74.50792,
+    9.56613
+],
+  "geometry": {"coordinates":[-74.50792,9.56613],"type":"Point"}
+}

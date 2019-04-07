@@ -1,0 +1,68 @@
+{
+  "id": 1360057467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62277,2.67434,-75.62277,2.67434",
+    "geom:latitude":2.67434,
+    "geom:longitude":-75.62277,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41357.0",
+    "gn:asciiname":"Jamaica",
+    "gn:country_code":"CO",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781100,
+    "gn:latitude":2.67434,
+    "gn:longitude":-75.62277,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Jamaica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781100
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"da41891915d1d2afd7e546d5283da4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700817,
+            "locality_id":1360057467,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1360057467,
+    "wof:lastmodified":1536984830,
+    "wof:name":"Jamaica",
+    "wof:parent_id":1108700817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62276999999997,
+    2.67434,
+    -75.62276999999997,
+    2.67434
+],
+  "geometry": {"coordinates":[-75.62276999999997,2.67434],"type":"Point"}
+}

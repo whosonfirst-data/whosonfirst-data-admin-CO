@@ -1,0 +1,70 @@
+{
+  "id": 1326899759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.87022,3.34494,-74.87022,3.34494",
+    "geom:latitude":3.34494,
+    "geom:longitude":-74.87022,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"La Mina",
+    "gn:country_code":"CO",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321552,
+    "gn:latitude":3.34494,
+    "gn:longitude":-74.87022,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"La Mina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Mina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321552
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"27642e4fa9d5ca72af1ca42aba17cf7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701425,
+            "locality_id":1326899759,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1326899759,
+    "wof:lastmodified":1537618823,
+    "wof:name":"La Mina",
+    "wof:parent_id":1108701425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.87021999999997,
+    3.34494,
+    -74.87021999999997,
+    3.34494
+],
+  "geometry": {"coordinates":[-74.87021999999997,3.34494],"type":"Point"}
+}

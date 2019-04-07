@@ -1,0 +1,75 @@
+{
+  "id": 421180783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.546455,6.293245,-75.546455,6.293245",
+    "geom:latitude":6.293245,
+    "geom:longitude":-75.546455,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Pi\u00f1uela",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":2608,
+    "qs:photos_1k":528,
+    "qs:photos_9k":12,
+    "qs:photos_9r":10,
+    "qs:photos_all":2608,
+    "qs:photos_sr":18,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":460914,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359715,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":359715,
+        "qs:id":460914
+    },
+    "wof:country":"CO",
+    "wof:created":1459009271,
+    "wof:geomhash":"de94ef0c57efca240c296c1e5fd92a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":421180783,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421180783,
+    "wof:lastmodified":1499968070,
+    "wof:name":"La Pi\u00f1uela",
+    "wof:parent_id":421205069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546455,
+    6.293245,
+    -75.546455,
+    6.293245
+],
+  "geometry": {"coordinates":[-75.54645499999999,6.293245],"type":"Point"}
+}

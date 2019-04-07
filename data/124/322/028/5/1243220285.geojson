@@ -1,0 +1,68 @@
+{
+  "id": 1243220285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.645,5.76389,-73.645,5.76389",
+    "geom:latitude":5.76389,
+    "geom:longitude":-73.645,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68572.0",
+    "gn:asciiname":"San Blas",
+    "gn:country_code":"CO",
+    "gn:dem":2664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777155,
+    "gn:latitude":5.76389,
+    "gn:longitude":-73.645,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Blas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777155
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2538830d51fd04c17ce3db1fc11ac87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701321,
+            "locality_id":1243220285,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1243220285,
+    "wof:lastmodified":1536633308,
+    "wof:name":"San Blas",
+    "wof:parent_id":1108701321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.645,
+    5.76389,
+    -73.645,
+    5.76389
+],
+  "geometry": {"coordinates":[-73.645,5.76389],"type":"Point"}
+}

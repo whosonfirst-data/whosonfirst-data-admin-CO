@@ -1,0 +1,69 @@
+{
+  "id": 1242722759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54783,10.36395,-75.54783,10.36395",
+    "geom:latitude":10.36395,
+    "geom:longitude":-75.54783,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Punta Arenas",
+    "gn:country_code":"CO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672016,
+    "gn:latitude":10.36395,
+    "gn:longitude":-75.54783,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Punta Arenas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playa de Punta Arenas",
+        "Playa Punta Arena",
+        "Punta Arenas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672016
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f339bfeee809629be9aaf48602155b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1242722759,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242722759,
+    "wof:lastmodified":1537618431,
+    "wof:name":"Punta Arenas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54783,
+    10.36395,
+    -75.54783,
+    10.36395
+],
+  "geometry": {"coordinates":[-75.54783,10.36395],"type":"Point"}
+}

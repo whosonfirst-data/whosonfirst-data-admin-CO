@@ -1,0 +1,74 @@
+{
+  "id": 1327295521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.77157,0.95659,-77.77157,0.95659",
+    "geom:latitude":0.95659,
+    "geom:longitude":-77.77157,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52317.0",
+    "gn:asciiname":"Muellamues",
+    "gn:country_code":"CO",
+    "gn:dem":3185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674252,
+    "gn:latitude":0.95659,
+    "gn:longitude":-77.77157,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Muellamu\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Diego de Muellamues",
+        "Muellam\u00e9s",
+        "Muellarmes",
+        "Muellamu\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674252
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ee04843cd8ae02718789df96494f110d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701007,
+            "locality_id":1327295521,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327295521,
+    "wof:lastmodified":1537618453,
+    "wof:name":"Muellamues",
+    "wof:parent_id":1108701007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.77157,
+    0.95659,
+    -77.77157,
+    0.95659
+],
+  "geometry": {"coordinates":[-77.77157,0.95659],"type":"Point"}
+}

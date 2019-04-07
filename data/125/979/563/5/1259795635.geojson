@@ -1,0 +1,68 @@
+{
+  "id": 1259795635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20288,7.23722,-75.20288,7.23722",
+    "geom:latitude":7.23722,
+    "geom:longitude":-75.20288,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5040.0",
+    "gn:asciiname":"Balconda",
+    "gn:country_code":"CO",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779732,
+    "gn:latitude":7.23722,
+    "gn:longitude":-75.20288,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Balconda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779732
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd0499510ddb4872d4299bebebfabbbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699909,
+            "locality_id":1259795635,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1259795635,
+    "wof:lastmodified":1536905853,
+    "wof:name":"Balconda",
+    "wof:parent_id":1108699909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20288000000002,
+    7.23722,
+    -75.20288000000002,
+    7.23722
+],
+  "geometry": {"coordinates":[-75.20288000000002,7.23722],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310460265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81167,4.11611,-75.81167,4.11611",
+    "geom:latitude":4.11611,
+    "geom:longitude":-75.81167,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"63302.0",
+    "gn:asciiname":"La Rivera",
+    "gn:country_code":"CO",
+    "gn:dem":2368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769316,
+    "gn:latitude":4.11611,
+    "gn:longitude":-75.81167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Rivera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670169,
+        1108701161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769316
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f6fd295fb98929a3e58990fb76360194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701161,
+            "locality_id":1310460265,
+            "region_id":85670169
+        }
+    ],
+    "wof:id":1310460265,
+    "wof:lastmodified":1536981628,
+    "wof:name":"La Rivera",
+    "wof:parent_id":1108701161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81166999999998,
+    4.11611,
+    -75.81166999999998,
+    4.11611
+],
+  "geometry": {"coordinates":[-75.81166999999998,4.11611],"type":"Point"}
+}

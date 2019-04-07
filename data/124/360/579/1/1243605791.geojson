@@ -1,0 +1,68 @@
+{
+  "id": 1243605791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50806,5.97396,-73.50806,5.97396",
+    "geom:latitude":5.97396,
+    "geom:longitude":-73.50806,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15816.0",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"CO",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776247,
+    "gn:latitude":5.97396,
+    "gn:longitude":-73.50806,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776247
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e8e99e8557a7739e5a9542b01d212f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700357,
+            "locality_id":1243605791,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1243605791,
+    "wof:lastmodified":1537069942,
+    "wof:name":"El Alto",
+    "wof:parent_id":1108700357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50806,
+    5.97396,
+    -73.50806,
+    5.97396
+],
+  "geometry": {"coordinates":[-73.50806,5.97396],"type":"Point"}
+}

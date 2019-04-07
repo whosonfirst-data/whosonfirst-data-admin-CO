@@ -1,0 +1,71 @@
+{
+  "id": 1293048505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45,9.9,-75.45,9.9",
+    "geom:latitude":9.9,
+    "geom:longitude":-75.45,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Sabanas de Angola",
+    "gn:country_code":"CO",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670495,
+    "gn:latitude":9.9,
+    "gn:longitude":-75.45,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sabanas de Angola",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Angola",
+        "Sabanas de Angola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670495
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a63a28ac8ed47872f521512a32ba0ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700131,
+            "locality_id":1293048505,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293048505,
+    "wof:lastmodified":1537618409,
+    "wof:name":"Sabanas de Angola",
+    "wof:parent_id":1108700131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45,
+    9.9,
+    -75.45,
+    9.9
+],
+  "geometry": {"coordinates":[-75.45,9.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259660611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95944,7.36361,-75.95944,7.36361",
+    "geom:latitude":7.36361,
+    "geom:longitude":-75.95944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Buenavista",
+    "gn:country_code":"CO",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731339,
+    "gn:latitude":7.36361,
+    "gn:longitude":-75.95944,
+    "gn:modification_date":"1994-03-16",
+    "gn:name":"Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731339
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2823333ac20c6e28288edd5ee7b51071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700593,
+            "locality_id":1259660611,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1259660611,
+    "wof:lastmodified":1536600356,
+    "wof:name":"Buenavista",
+    "wof:parent_id":1108700593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95944,
+    7.36361,
+    -75.95944,
+    7.36361
+],
+  "geometry": {"coordinates":[-75.95944,7.36361],"type":"Point"}
+}

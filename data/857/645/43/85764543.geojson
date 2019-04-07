@@ -1,0 +1,113 @@
+{
+  "id": 85764543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":7298192.371338,
+    "geom:bbox":"-75.555572,6.297865,-75.555572,6.297865",
+    "geom:latitude":6.297865,
+    "geom:longitude":-75.555572,
+    "gn:latitude":6.28149,
+    "gn:longitude":-75.56466,
+    "iso:country":"CO",
+    "lbl:latitude":6.297865,
+    "lbl:longitude":-75.555572,
+    "mps:latitude":6.303198,
+    "mps:longitude":-75.554937,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Bermejal"
+    ],
+    "name:spa_x_variant":[
+        "Bermejal Los Alamos"
+    ],
+    "name:unk_x_variant":[
+        "Bermejal"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3674962,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Bermejal",
+    "qs:local_max":5883,
+    "qs:local_sum":29357,
+    "qs:localhoods":18,
+    "qs:name":"Bermejal",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:name_adm2":"Medellin",
+    "qs:name_local":"Medell\u00edn",
+    "qs:photo_max":97,
+    "qs:photo_sum":211,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345048,
+    "qs:woe_adm2":26796607,
+    "qs:woe_lau":0,
+    "qs:woe_local":368150,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670129,
+        102191577,
+        85632519,
+        421205069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688884,
+        "gp:id":351431,
+        "qs:id":298499
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cdd970792f231c6f3bdd747e10ae5720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":85764543,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":85764543,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379261,
+    "wof:name":"Bermejal",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126086609
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.555572,
+    6.297865,
+    -75.555572,
+    6.297865
+],
+  "geometry": {"coordinates":[-75.555572,6.297865],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209078259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.55778,2.97972,-75.55778,2.97972",
+    "geom:latitude":2.97972,
+    "geom:longitude":-75.55778,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41676.0",
+    "gn:asciiname":"Porvenir",
+    "gn:country_code":"CO",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780958,
+    "gn:latitude":2.97972,
+    "gn:longitude":-75.55778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780958
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"37d1532dd23bf18cd7746a2031358ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209078259
+        }
+    ],
+    "wof:id":1209078259,
+    "wof:lastmodified":1536298424,
+    "wof:name":"Porvenir",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55778000000002,
+    2.97972,
+    -75.55778000000002,
+    2.97972
+],
+  "geometry": {"coordinates":[-75.55778000000002,2.97972],"type":"Point"}
+}

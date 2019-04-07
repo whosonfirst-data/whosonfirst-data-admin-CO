@@ -1,0 +1,68 @@
+{
+  "id": 1309953135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.79884,4.92848,-74.79884,4.92848",
+    "geom:latitude":4.92848,
+    "geom:longitude":-74.79884,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73030.0",
+    "gn:asciiname":"Santuario",
+    "gn:country_code":"CO",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668325,
+    "gn:latitude":4.92848,
+    "gn:longitude":-74.79884,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santuario",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421204843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668325
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"01cba15c0f06d9f1735b810d5f5d70d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204843,
+            "locality_id":1309953135,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1309953135,
+    "wof:lastmodified":1536719203,
+    "wof:name":"Santuario",
+    "wof:parent_id":421204843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.79884,
+    4.92848,
+    -74.79884,
+    4.92848
+],
+  "geometry": {"coordinates":[-74.79884,4.92848],"type":"Point"}
+}

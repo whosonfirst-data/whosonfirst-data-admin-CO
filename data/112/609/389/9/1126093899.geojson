@@ -1,0 +1,93 @@
+{
+  "id": 1126093899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.12222,7.13306,-73.12222,7.13306",
+    "geom:latitude":7.13306,
+    "geom:longitude":-73.12222,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":7.13306,
+    "lbl:longitude":-73.12222,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3670235,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Alonso",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Santander",
+    "qs_pg:photos":333,
+    "qs_pg:photos_1k":67,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":333,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1033458,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365115,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Santander",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670141,
+        102191577,
+        85632519,
+        1108701181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670235,
+        "gp:id":365115,
+        "qs_pg:id":1033458
+    },
+    "wof:country":"CO",
+    "wof:created":1497314727,
+    "wof:geomhash":"21e991859173fca0b0f4b18291051dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701181,
+            "locality_id":-1,
+            "neighbourhood_id":1126093899,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1126093899,
+    "wof:lastmodified":1534379259,
+    "wof:name":"San Alonso",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764763
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.12222,
+    7.13306,
+    -73.12222,
+    7.13306
+],
+  "geometry": {"coordinates":[-73.12222,7.13306],"type":"Point"}
+}

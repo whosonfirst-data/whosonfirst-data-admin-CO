@@ -1,0 +1,65 @@
+{
+  "id": 1209080777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88603,3.76059,-73.88603,3.76059",
+    "geom:latitude":3.76059,
+    "geom:longitude":-73.88603,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50223",
+    "gn:asciiname":"El Palco",
+    "gn:country_code":"CO",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331191,
+    "gn:latitude":3.76059,
+    "gn:longitude":-73.88603,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Palco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Palco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331191
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f65168fadd4f8826474f38f96d2ec0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209080777
+        }
+    ],
+    "wof:id":1209080777,
+    "wof:lastmodified":1537618831,
+    "wof:name":"El Palco",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88603,
+    3.76059,
+    -73.88603,
+    3.76059
+],
+  "geometry": {"coordinates":[-73.88603000000001,3.76059],"type":"Point"}
+}

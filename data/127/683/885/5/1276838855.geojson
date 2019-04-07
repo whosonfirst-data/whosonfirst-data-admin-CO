@@ -1,0 +1,68 @@
+{
+  "id": 1276838855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51667,7.66667,-72.51667,7.66667",
+    "geom:latitude":7.66667,
+    "geom:longitude":-72.51667,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"54874.0",
+    "gn:asciiname":"Palo Gordo",
+    "gn:country_code":"CO",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673119,
+    "gn:latitude":7.66667,
+    "gn:longitude":-72.51667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palo Gordo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421172473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673119
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4d41d698909a2a3ef2e215a8976976b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172473,
+            "locality_id":1276838855,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1276838855,
+    "wof:lastmodified":1537092884,
+    "wof:name":"Palo Gordo",
+    "wof:parent_id":421172473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51666999999998,
+    7.66667,
+    -72.51666999999998,
+    7.66667
+],
+  "geometry": {"coordinates":[-72.51666999999998,7.66667],"type":"Point"}
+}

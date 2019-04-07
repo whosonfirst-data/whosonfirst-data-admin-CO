@@ -1,0 +1,68 @@
+{
+  "id": 1343511653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.14167,3.50444,-76.14167,3.50444",
+    "geom:latitude":3.50444,
+    "geom:longitude":-76.14167,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76520.0",
+    "gn:asciiname":"El Diamante",
+    "gn:country_code":"CO",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778653,
+    "gn:latitude":3.50444,
+    "gn:longitude":-76.14167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Diamante",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421205105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778653
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b96b8addcef1cf0d729d0fe0812ce19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205105,
+            "locality_id":1343511653,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1343511653,
+    "wof:lastmodified":1536672422,
+    "wof:name":"El Diamante",
+    "wof:parent_id":421205105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.14166999999998,
+    3.50444,
+    -76.14166999999998,
+    3.50444
+],
+  "geometry": {"coordinates":[-76.14166999999998,3.50444],"type":"Point"}
+}

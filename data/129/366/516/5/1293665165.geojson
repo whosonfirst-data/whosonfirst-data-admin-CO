@@ -1,0 +1,68 @@
+{
+  "id": 1293665165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.61237,11.69898,-72.61237,11.69898",
+    "geom:latitude":11.69898,
+    "geom:longitude":-72.61237,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Taguaya",
+    "gn:country_code":"CO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667565,
+    "gn:latitude":11.69898,
+    "gn:longitude":-72.61237,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Taguaya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667565
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3186961b492a341139de982508ed3e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1293665165,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293665165,
+    "wof:lastmodified":1537027023,
+    "wof:name":"Taguaya",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.61237,
+    11.69898,
+    -72.61237,
+    11.69898
+],
+  "geometry": {"coordinates":[-72.61237,11.69898],"type":"Point"}
+}

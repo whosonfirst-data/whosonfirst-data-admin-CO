@@ -1,0 +1,74 @@
+{
+  "id": 1310067881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.24703,2.37361,-74.24703,2.37361",
+    "geom:latitude":2.37361,
+    "geom:longitude":-74.24703,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50350.0",
+    "gn:asciiname":"Caserio El Rubi",
+    "gn:country_code":"CO",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826849,
+    "gn:latitude":2.37361,
+    "gn:longitude":-74.24703,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo El Rub\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caser\u00edo El Rub\u00ed"
+    ],
+    "name:spa_x_variant":[
+        "El Rubi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826849
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"55d7fdbee9e2d707dbf9485714ff798b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169199,
+            "locality_id":1310067881,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1310067881,
+    "wof:lastmodified":1537618705,
+    "wof:name":"Caserio El Rubi",
+    "wof:parent_id":421169199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.24703000000002,
+    2.37361,
+    -74.24703000000002,
+    2.37361
+],
+  "geometry": {"coordinates":[-74.24703000000002,2.37361],"type":"Point"}
+}

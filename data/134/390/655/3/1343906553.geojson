@@ -1,0 +1,68 @@
+{
+  "id": 1343906553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90277,4.75126,-73.90277,4.75126",
+    "geom:latitude":4.75126,
+    "geom:longitude":-73.90277,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25377.0",
+    "gn:asciiname":"Boqueron",
+    "gn:country_code":"CO",
+    "gn:dem":3135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781634,
+    "gn:latitude":4.75126,
+    "gn:longitude":-73.90277,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Boquer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421203817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781634
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"42c9bc391f982c1743d793692d351191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203817,
+            "locality_id":1343906553,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343906553,
+    "wof:lastmodified":1537094710,
+    "wof:name":"Boqueron",
+    "wof:parent_id":421203817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90276999999998,
+    4.75126,
+    -73.90276999999998,
+    4.75126
+],
+  "geometry": {"coordinates":[-73.90276999999998,4.75126],"type":"Point"}
+}

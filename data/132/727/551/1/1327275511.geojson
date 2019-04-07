@@ -1,0 +1,72 @@
+{
+  "id": 1327275511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.94897,6.12836,-71.94897,6.12836",
+    "geom:latitude":6.12836,
+    "geom:longitude":-71.94897,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"Las Tapias",
+    "gn:country_code":"CO",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677101,
+    "gn:latitude":6.12836,
+    "gn:longitude":-71.94897,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Tapias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapias",
+        "Las Tapias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677101
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6374f1f70831a2e9239ab9cc7015cb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "locality_id":1327275511,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1327275511,
+    "wof:lastmodified":1537618490,
+    "wof:name":"Las Tapias",
+    "wof:parent_id":1108701525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.94896999999997,
+    6.12836,
+    -71.94896999999997,
+    6.12836
+],
+  "geometry": {"coordinates":[-71.94896999999997,6.12836],"type":"Point"}
+}

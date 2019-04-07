@@ -1,0 +1,73 @@
+{
+  "id": 1242739371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34076,9.67864,-75.34076,9.67864",
+    "geom:latitude":9.67864,
+    "geom:longitude":-75.34076,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Macayepo",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675775,
+    "gn:latitude":9.67864,
+    "gn:longitude":-75.34076,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Macayepo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Macayepo",
+        "Macayepos",
+        "Macayeco",
+        "Macayepo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675775
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fe25881c759e924e572a241c89a39aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700117,
+            "locality_id":1242739371,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1242739371,
+    "wof:lastmodified":1537618468,
+    "wof:name":"Macayepo",
+    "wof:parent_id":1108700117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34076,
+    9.67864,
+    -75.34076,
+    9.67864
+],
+  "geometry": {"coordinates":[-75.34076,9.67864],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209389475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94604,3.79529,-73.94604,3.79529",
+    "geom:latitude":3.79529,
+    "geom:longitude":-73.94604,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50223.0",
+    "gn:asciiname":"Palo Negro",
+    "gn:country_code":"CO",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323383,
+    "gn:latitude":3.79529,
+    "gn:longitude":-73.94604,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323383
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3e4ddf4e69bdf5f507d86764cde58a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209389475
+        }
+    ],
+    "wof:id":1209389475,
+    "wof:lastmodified":1537618824,
+    "wof:name":"Palo Negro",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94604,
+    3.79529,
+    -73.94604,
+    3.79529
+],
+  "geometry": {"coordinates":[-73.94604,3.79529],"type":"Point"}
+}

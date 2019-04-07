@@ -1,0 +1,71 @@
+{
+  "id": 1344122189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85843,2.20645,-73.85843,2.20645",
+    "geom:latitude":2.20645,
+    "geom:longitude":-73.85843,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50350.0",
+    "gn:asciiname":"Los Indios",
+    "gn:country_code":"CO",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8601183,
+    "gn:latitude":2.20645,
+    "gn:longitude":-73.85843,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Indios",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Indios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8601183
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"63d63c4d3128cf7eafe583b1d8d79d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169199,
+            "locality_id":1344122189,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1344122189,
+    "wof:lastmodified":1537618797,
+    "wof:name":"Los Indios",
+    "wof:parent_id":421169199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85843,
+    2.20645,
+    -73.85843,
+    2.20645
+],
+  "geometry": {"coordinates":[-73.85843,2.20645],"type":"Point"}
+}

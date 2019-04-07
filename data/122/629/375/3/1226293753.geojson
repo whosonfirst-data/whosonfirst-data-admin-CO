@@ -1,0 +1,68 @@
+{
+  "id": 1226293753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03,4.44917,-75.03,4.44917",
+    "geom:latitude":4.44917,
+    "geom:longitude":-75.03,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73547.0",
+    "gn:asciiname":"Waterloo",
+    "gn:country_code":"CO",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665822,
+    "gn:latitude":4.44917,
+    "gn:longitude":-75.03,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Waterloo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421177065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1812ee5b3609150bcddfd0644e48093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177065,
+            "locality_id":1226293753,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1226293753,
+    "wof:lastmodified":1536863239,
+    "wof:name":"Waterloo",
+    "wof:parent_id":421177065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03,
+    4.44917,
+    -75.03,
+    4.44917
+],
+  "geometry": {"coordinates":[-75.03,4.44917],"type":"Point"}
+}

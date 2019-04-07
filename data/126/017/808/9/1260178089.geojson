@@ -1,0 +1,68 @@
+{
+  "id": 1260178089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.79491,2.584,-74.79491,2.584",
+    "geom:latitude":2.584,
+    "geom:longitude":-74.79491,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"Perlitas",
+    "gn:country_code":"CO",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827935,
+    "gn:latitude":2.584,
+    "gn:longitude":-74.79491,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Perlitas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827935
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"621f1847852dcfdcacc8e0a4d0275692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "locality_id":1260178089,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1260178089,
+    "wof:lastmodified":1536854327,
+    "wof:name":"Perlitas",
+    "wof:parent_id":1108700423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.79491,
+    2.584,
+    -74.79491,
+    2.584
+],
+  "geometry": {"coordinates":[-74.79491,2.584],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1309869259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.41667,12.38333,-71.41667,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":-71.41667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Puerto Chimare",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671510,
+    "gn:latitude":12.38333,
+    "gn:longitude":-71.41667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Puerto Chimar\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671510
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7a0f8684c50df484727e93a8406e91af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1309869259,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309869259,
+    "wof:lastmodified":1536838744,
+    "wof:name":"Puerto Chimare",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41667,
+    12.38333,
+    -71.41667,
+    12.38333
+],
+  "geometry": {"coordinates":[-71.41667,12.38333],"type":"Point"}
+}

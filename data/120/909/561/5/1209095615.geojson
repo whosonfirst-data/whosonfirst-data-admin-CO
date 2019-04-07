@@ -1,0 +1,62 @@
+{
+  "id": 1209095615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.59026,2.7177,-76.59026,2.7177",
+    "geom:latitude":2.7177,
+    "geom:longitude":-76.59026,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19548.0",
+    "gn:asciiname":"Crucero Playa Rica",
+    "gn:country_code":"CO",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3771126,
+    "gn:latitude":2.7177,
+    "gn:longitude":-76.59026,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Crucero Playa Rica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771126
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4ea42e872aa7f149ce967f21e8b47241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209095615
+        }
+    ],
+    "wof:id":1209095615,
+    "wof:lastmodified":1536297897,
+    "wof:name":"Crucero Playa Rica",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.59026,
+    2.7177,
+    -76.59026,
+    2.7177
+],
+  "geometry": {"coordinates":[-76.59026,2.7177],"type":"Point"}
+}

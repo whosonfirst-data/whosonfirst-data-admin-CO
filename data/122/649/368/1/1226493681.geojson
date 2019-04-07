@@ -1,0 +1,68 @@
+{
+  "id": 1226493681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.20626,9.5175,-74.20626,9.5175",
+    "geom:latitude":9.5175,
+    "geom:longitude":-74.20626,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47545.0",
+    "gn:asciiname":"Nuevo Horizonte",
+    "gn:country_code":"CO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673725,
+    "gn:latitude":9.5175,
+    "gn:longitude":-74.20626,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nuevo Horizonte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673725
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4241faa4e0f6976b3d68eaa8ec99b787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700895,
+            "locality_id":1226493681,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226493681,
+    "wof:lastmodified":1537070167,
+    "wof:name":"Nuevo Horizonte",
+    "wof:parent_id":1108700895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.20626,
+    9.5175,
+    -74.20626,
+    9.5175
+],
+  "geometry": {"coordinates":[-74.20626,9.5175],"type":"Point"}
+}

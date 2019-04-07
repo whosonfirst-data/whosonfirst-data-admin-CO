@@ -1,0 +1,112 @@
+{
+  "id": 421199573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53694,4.74778,-72.53694,4.74778",
+    "geom:latitude":4.74778,
+    "geom:longitude":-72.53694,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10d1\u10d0\u10da\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:sco_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Ubal\u00e1"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3666526,
+    "qs:gn_pop":1886,
+    "qs:name":"Ubal\u00e1",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":194560,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":367565,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666526,
+        "gp:id":367565,
+        "qs:id":194560,
+        "wd:id":"Q1525790",
+        "wk:page":"Ubal\u00e1"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009994,
+    "wof:geomhash":"849a57d71ffd527a7539897c52776aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":421199573,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":421199573,
+    "wof:lastmodified":1527716414,
+    "wof:name":"Ubal\u00e1",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:population":1886,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53694,
+    4.74778,
+    -72.53694,
+    4.74778
+],
+  "geometry": {"coordinates":[-72.53694,4.74778],"type":"Point"}
+}

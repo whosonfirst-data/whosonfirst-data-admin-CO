@@ -1,0 +1,68 @@
+{
+  "id": 1225970903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29447,3.11698,-70.29447,3.11698",
+    "geom:latitude":3.11698,
+    "geom:longitude":-70.29447,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Iteviare",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680445,
+    "gn:latitude":3.11698,
+    "gn:longitude":-70.29447,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Iteviare",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680445
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"105ac40ded612e813aa88ef546e7b831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1225970903,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1225970903,
+    "wof:lastmodified":1536832139,
+    "wof:name":"Iteviare",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29446999999999,
+    3.11698,
+    -70.29446999999999,
+    3.11698
+],
+  "geometry": {"coordinates":[-70.29446999999999,3.11698],"type":"Point"}
+}

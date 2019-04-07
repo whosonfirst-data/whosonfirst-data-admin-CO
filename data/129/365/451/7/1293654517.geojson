@@ -1,0 +1,71 @@
+{
+  "id": 1293654517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.686,3.76729,-73.686,3.76729",
+    "geom:latitude":3.76729,
+    "geom:longitude":-73.686,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50689",
+    "gn:asciiname":"Villa Hermosa",
+    "gn:country_code":"CO",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332809,
+    "gn:latitude":3.76729,
+    "gn:longitude":-73.686,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Hermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Hermosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332809
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"428e7651dbb9452220ccea83cf882c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1293654517,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1293654517,
+    "wof:lastmodified":1537618835,
+    "wof:name":"Villa Hermosa",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.686,
+    3.76729,
+    -73.686,
+    3.76729
+],
+  "geometry": {"coordinates":[-73.68600000000001,3.76729],"type":"Point"}
+}

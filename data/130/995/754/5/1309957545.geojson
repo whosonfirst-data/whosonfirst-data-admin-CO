@@ -1,0 +1,68 @@
+{
+  "id": 1309957545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.01523,5.64265,-73.01523,5.64265",
+    "geom:latitude":5.64265,
+    "geom:longitude":-73.01523,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15272.0",
+    "gn:asciiname":"Alcaparral",
+    "gn:country_code":"CO",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690233,
+    "gn:latitude":5.64265,
+    "gn:longitude":-73.01523,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alcaparral",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690233
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cfc4887b818158c77715ff8b86cf586d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700237,
+            "locality_id":1309957545,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1309957545,
+    "wof:lastmodified":1536712874,
+    "wof:name":"Alcaparral",
+    "wof:parent_id":1108700237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.01523,
+    5.64265,
+    -73.01523,
+    5.64265
+],
+  "geometry": {"coordinates":[-73.01523,5.64265],"type":"Point"}
+}

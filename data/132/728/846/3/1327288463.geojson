@@ -1,0 +1,68 @@
+{
+  "id": 1327288463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4525,7.40083,-73.4525,7.40083",
+    "geom:latitude":7.40083,
+    "geom:longitude":-73.4525,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68655.0",
+    "gn:asciiname":"Veracruz",
+    "gn:country_code":"CO",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731860,
+    "gn:latitude":7.40083,
+    "gn:longitude":-73.4525,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Veracruz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731860
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4a401be6f256c7a46b1fdd6985b510d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701329,
+            "locality_id":1327288463,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327288463,
+    "wof:lastmodified":1536888402,
+    "wof:name":"Veracruz",
+    "wof:parent_id":1108701329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4525,
+    7.40083,
+    -73.4525,
+    7.40083
+],
+  "geometry": {"coordinates":[-73.4525,7.40083],"type":"Point"}
+}

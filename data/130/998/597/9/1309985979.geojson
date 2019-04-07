@@ -1,0 +1,72 @@
+{
+  "id": 1309985979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89015,9.29228,-75.89015,9.29228",
+    "geom:latitude":9.29228,
+    "geom:longitude":-75.89015,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23417.0",
+    "gn:asciiname":"La Doctrina",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679283,
+    "gn:latitude":9.29228,
+    "gn:longitude":-75.89015,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Doctrina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento La Doctrina",
+        "La Doctrina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679283
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2eea4be51bc8c47397d1325b71669d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":1309985979,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1309985979,
+    "wof:lastmodified":1537618527,
+    "wof:name":"La Doctrina",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89015,
+    9.29228,
+    -75.89015,
+    9.29228
+],
+  "geometry": {"coordinates":[-75.89015000000001,9.29228],"type":"Point"}
+}

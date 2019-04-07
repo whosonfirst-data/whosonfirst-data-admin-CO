@@ -1,0 +1,68 @@
+{
+  "id": 1260130181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23778,4.095,-76.23778,4.095",
+    "geom:latitude":4.095,
+    "geom:longitude":-76.23778,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76834.0",
+    "gn:asciiname":"Narino",
+    "gn:country_code":"CO",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674030,
+    "gn:latitude":4.095,
+    "gn:longitude":-76.23778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nari\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674030
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"43e8e649fbbc0e6efeb10f9c58882fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701505,
+            "locality_id":1260130181,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1260130181,
+    "wof:lastmodified":1536921684,
+    "wof:name":"Narino",
+    "wof:parent_id":1108701505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23778,
+    4.095,
+    -76.23778,
+    4.095
+],
+  "geometry": {"coordinates":[-76.23778,4.095],"type":"Point"}
+}

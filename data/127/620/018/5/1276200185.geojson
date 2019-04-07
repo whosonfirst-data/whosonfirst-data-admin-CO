@@ -1,0 +1,68 @@
+{
+  "id": 1276200185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17054,2.05514,-78.17054,2.05514",
+    "geom:latitude":2.05514,
+    "geom:longitude":-78.17054,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52427.0",
+    "gn:asciiname":"Matapalo",
+    "gn:country_code":"CO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8640628,
+    "gn:latitude":2.05514,
+    "gn:longitude":-78.17054,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Matapalo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8640628
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"18186d61bd4ce2d4b9c043e5b7b28800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701035,
+            "locality_id":1276200185,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276200185,
+    "wof:lastmodified":1536957481,
+    "wof:name":"Matapalo",
+    "wof:parent_id":1108701035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17054,
+    2.05514,
+    -78.17054,
+    2.05514
+],
+  "geometry": {"coordinates":[-78.17054,2.05514],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226588647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.29216,9.9529,-75.29216,9.9529",
+    "geom:latitude":9.9529,
+    "geom:longitude":-75.29216,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13442.0",
+    "gn:asciiname":"La Candelaria",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679635,
+    "gn:latitude":9.9529,
+    "gn:longitude":-75.29216,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Candelaria",
+        "La Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679635
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce7d73a070571ef804e5962461f9b5f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700131,
+            "locality_id":1226588647,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226588647,
+    "wof:lastmodified":1537618532,
+    "wof:name":"La Candelaria",
+    "wof:parent_id":1108700131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.29216,
+    9.9529,
+    -75.29216,
+    9.9529
+],
+  "geometry": {"coordinates":[-75.29216,9.9529],"type":"Point"}
+}

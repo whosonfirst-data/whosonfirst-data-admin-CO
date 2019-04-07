@@ -1,0 +1,110 @@
+{
+  "id": 85764631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2857007.618191,
+    "geom:bbox":"-75.564093,6.262581,-75.564093,6.262581",
+    "geom:latitude":6.262581,
+    "geom:longitude":-75.564093,
+    "gn:latitude":6.23972,
+    "gn:longitude":-74.60389,
+    "iso:country":"CO",
+    "lbl:latitude":6.262581,
+    "lbl:longitude":-75.564093,
+    "mps:latitude":6.261878,
+    "mps:longitude":-75.561838,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "El Prado"
+    ],
+    "name:spa_x_variant":[
+        "Prado"
+    ],
+    "name:unk_x_variant":[
+        "El Prado"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":3674962,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"El Prado",
+    "qs:local_max":5883,
+    "qs:local_sum":29357,
+    "qs:localhoods":18,
+    "qs:name":"El Prado",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:name_adm2":"Medellin",
+    "qs:name_local":"Medell\u00edn",
+    "qs:photo_max":779,
+    "qs:photo_sum":3298,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":40,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345048,
+    "qs:woe_adm2":26796607,
+    "qs:woe_lau":0,
+    "qs:woe_local":368150,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421205069,
+        85670129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770453,
+        "gp:id":355596,
+        "qs:id":1082698
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4c52692e82fe0302a17433aa9f546037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":85764631,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":85764631,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858927,
+    "wof:name":"El Prado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.564093,
+    6.262581,
+    -75.564093,
+    6.262581
+],
+  "geometry": {"coordinates":[-75.564093,6.262581],"type":"Point"}
+}

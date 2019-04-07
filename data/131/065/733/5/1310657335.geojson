@@ -1,0 +1,67 @@
+{
+  "id": 1310657335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.24495,5.84021,-73.24495,5.84021",
+    "geom:latitude":5.84021,
+    "geom:longitude":-73.24495,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Los Rafaeles",
+    "gn:country_code":"CO",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675924,
+    "gn:latitude":5.84021,
+    "gn:longitude":-73.24495,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Los Rafaeles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675924
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"35cd09c5bc21b9e04afeda6bb8b84b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701257,
+            "locality_id":1310657335,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1310657335,
+    "wof:lastmodified":1536698244,
+    "wof:name":"Los Rafaeles",
+    "wof:parent_id":1108701257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24495,
+    5.84021,
+    -73.24495,
+    5.84021
+],
+  "geometry": {"coordinates":[-73.24495,5.84021],"type":"Point"}
+}

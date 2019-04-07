@@ -1,0 +1,73 @@
+{
+  "id": 1225853259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.78333,7.91667,-74.78333,7.91667",
+    "geom:latitude":7.91667,
+    "geom:longitude":-74.78333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5250.0",
+    "gn:asciiname":"Cuturu",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685306,
+    "gn:latitude":7.91667,
+    "gn:longitude":-74.78333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cutur\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coturu",
+        "Cutur\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685306
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ed64eaaaa5977391280300a93bade052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699957,
+            "locality_id":1225853259,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1225853259,
+    "wof:lastmodified":1537618609,
+    "wof:name":"Cuturu",
+    "wof:parent_id":1108699957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.78333,
+    7.91667,
+    -74.78333,
+    7.91667
+],
+  "geometry": {"coordinates":[-74.78333000000001,7.91667],"type":"Point"}
+}

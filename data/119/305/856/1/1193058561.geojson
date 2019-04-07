@@ -1,0 +1,68 @@
+{
+  "id": 1193058561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54806,5.89667,-73.54806,5.89667",
+    "geom:latitude":5.89667,
+    "geom:longitude":-73.54806,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15469.0",
+    "gn:asciiname":"Tierra Castros",
+    "gn:country_code":"CO",
+    "gn:dem":1899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3777276,
+    "gn:latitude":5.89667,
+    "gn:longitude":-73.54806,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Castros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421197191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3777276
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8b42ed200fcb2b77dcc4382d99e26f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421197191,
+            "locality_id":1193058561,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1193058561,
+    "wof:lastmodified":1536380239,
+    "wof:name":"Tierra Castros",
+    "wof:parent_id":421197191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54805999999998,
+    5.89667,
+    -73.54805999999998,
+    5.89667
+],
+  "geometry": {"coordinates":[-73.54805999999998,5.89667],"type":"Point"}
+}

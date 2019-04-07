@@ -1,0 +1,62 @@
+{
+  "id": 1209389017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.70389,0.865,-77.70389,0.865",
+    "geom:latitude":0.865,
+    "geom:longitude":-77.70389,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52224.0",
+    "gn:asciiname":"Calixto",
+    "gn:country_code":"CO",
+    "gn:dem":2980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828666,
+    "gn:latitude":0.865,
+    "gn:longitude":-77.70389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Calixto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828666
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a9533d00dd7e14e6ea2f1f171ada840b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209389017
+        }
+    ],
+    "wof:id":1209389017,
+    "wof:lastmodified":1536288525,
+    "wof:name":"Calixto",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.70389,
+    0.865,
+    -77.70389,
+    0.865
+],
+  "geometry": {"coordinates":[-77.70389,0.865],"type":"Point"}
+}

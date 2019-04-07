@@ -1,0 +1,68 @@
+{
+  "id": 1309908721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6821,6.42513,-74.6821,6.42513",
+    "geom:latitude":6.42513,
+    "geom:longitude":-74.6821,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5579.0",
+    "gn:asciiname":"Portugal",
+    "gn:country_code":"CO",
+    "gn:dem":620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770519,
+    "gn:latitude":6.42513,
+    "gn:longitude":-74.6821,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Portugal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770519
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9af4915b2e90bfdece7439e24ee6692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170571,
+            "locality_id":1309908721,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1309908721,
+    "wof:lastmodified":1536783200,
+    "wof:name":"Portugal",
+    "wof:parent_id":421170571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6821,
+    6.42513,
+    -74.6821,
+    6.42513
+],
+  "geometry": {"coordinates":[-74.68210000000001,6.42513],"type":"Point"}
+}

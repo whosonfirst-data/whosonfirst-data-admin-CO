@@ -1,0 +1,71 @@
+{
+  "id": 1259791927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83471,8.53572,-76.83471,8.53572",
+    "geom:latitude":8.53572,
+    "geom:longitude":-76.83471,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5490.0",
+    "gn:asciiname":"Dios Te Libre",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742191,
+    "gn:latitude":8.53572,
+    "gn:longitude":-76.83471,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Dios Te Libre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Dios Te Libre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742191
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb9117726449f1a1968f1ca35301936b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188793,
+            "locality_id":1259791927,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1259791927,
+    "wof:lastmodified":1537618813,
+    "wof:name":"Dios Te Libre",
+    "wof:parent_id":421188793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83471,
+    8.53572,
+    -76.83471,
+    8.53572
+],
+  "geometry": {"coordinates":[-76.83471,8.53572],"type":"Point"}
+}

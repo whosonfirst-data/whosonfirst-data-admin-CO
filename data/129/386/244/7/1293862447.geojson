@@ -1,0 +1,74 @@
+{
+  "id": 1293862447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.68806,9.12278,-73.68806,9.12278",
+    "geom:latitude":9.12278,
+    "geom:longitude":-73.68806,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20175.0",
+    "gn:asciiname":"Mata de Guillin",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675158,
+    "gn:latitude":9.12278,
+    "gn:longitude":-73.68806,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mata de Guill\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Mata de Guillin",
+        "Mata de Dijim",
+        "Mata de Guill\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675158
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"78e61e5d0f9412a2ba2bee550e099525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700531,
+            "locality_id":1293862447,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293862447,
+    "wof:lastmodified":1537618462,
+    "wof:name":"Mata de Guillin",
+    "wof:parent_id":1108700531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.68806,
+    9.12278,
+    -73.68806,
+    9.12278
+],
+  "geometry": {"coordinates":[-73.68805999999999,9.12278],"type":"Point"}
+}

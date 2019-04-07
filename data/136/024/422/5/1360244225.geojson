@@ -1,0 +1,68 @@
+{
+  "id": 1360244225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.02439,4.68646,-73.02439,4.68646",
+    "geom:latitude":4.68646,
+    "geom:longitude":-73.02439,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85300.0",
+    "gn:asciiname":"La Arabia",
+    "gn:country_code":"CO",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679881,
+    "gn:latitude":4.68646,
+    "gn:longitude":-73.02439,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Arabia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679881
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"22951bd89bea70ea9d5b4a458b56abdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701543,
+            "locality_id":1360244225,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1360244225,
+    "wof:lastmodified":1536716541,
+    "wof:name":"La Arabia",
+    "wof:parent_id":1108701543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.02439,
+    4.68646,
+    -73.02439,
+    4.68646
+],
+  "geometry": {"coordinates":[-73.02439,4.68646],"type":"Point"}
+}

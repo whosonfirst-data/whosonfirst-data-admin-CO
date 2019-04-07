@@ -1,0 +1,71 @@
+{
+  "id": 1343870099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61761,6.19628,-75.61761,6.19628",
+    "geom:latitude":6.19628,
+    "geom:longitude":-75.61761,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5360.0",
+    "gn:asciiname":"Vereda Altavista",
+    "gn:country_code":"CO",
+    "gn:dem":1988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8336387,
+    "gn:latitude":6.19628,
+    "gn:longitude":-75.61761,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Altavista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Altavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336387
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f9644f69df68196d3a43765a8d3c8031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188619,
+            "locality_id":1343870099,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343870099,
+    "wof:lastmodified":1537618771,
+    "wof:name":"Vereda Altavista",
+    "wof:parent_id":421188619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61761,
+    6.19628,
+    -75.61761,
+    6.19628
+],
+  "geometry": {"coordinates":[-75.61761,6.19628],"type":"Point"}
+}

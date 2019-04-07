@@ -1,0 +1,68 @@
+{
+  "id": 1344036295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28647,10.03524,-73.28647,10.03524",
+    "geom:latitude":10.03524,
+    "geom:longitude":-73.28647,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"Santa Teresita",
+    "gn:country_code":"CO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560031,
+    "gn:latitude":10.03524,
+    "gn:longitude":-73.28647,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Teresita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560031
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6ce10bd700239398b1089d9c970c0889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700525,
+            "locality_id":1344036295,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1344036295,
+    "wof:lastmodified":1536910920,
+    "wof:name":"Santa Teresita",
+    "wof:parent_id":1108700525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28647,
+    10.03524,
+    -73.28647,
+    10.03524
+],
+  "geometry": {"coordinates":[-73.28646999999999,10.03524],"type":"Point"}
+}

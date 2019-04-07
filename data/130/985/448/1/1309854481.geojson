@@ -1,0 +1,70 @@
+{
+  "id": 1309854481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71143,5.33916,-74.71143,5.33916",
+    "geom:latitude":5.33916,
+    "geom:longitude":-74.71143,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"La Bocona",
+    "gn:country_code":"CO",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523559,
+    "gn:latitude":5.33916,
+    "gn:longitude":-74.71143,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Bocona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Bocona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421203437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523559
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aaf47ec8fb4da74f8666c3f54d3632c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203437,
+            "locality_id":1309854481,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1309854481,
+    "wof:lastmodified":1537618715,
+    "wof:name":"La Bocona",
+    "wof:parent_id":421203437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71143000000002,
+    5.33916,
+    -74.71143000000002,
+    5.33916
+],
+  "geometry": {"coordinates":[-74.71143000000002,5.33916],"type":"Point"}
+}

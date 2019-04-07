@@ -1,0 +1,68 @@
+{
+  "id": 1242830163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64,4.85278,-75.64,4.85278",
+    "geom:latitude":4.85278,
+    "geom:longitude":-75.64,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66170.0",
+    "gn:asciiname":"Renaciemiento",
+    "gn:country_code":"CO",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811726,
+    "gn:latitude":4.85278,
+    "gn:longitude":-75.64,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Renaciemiento",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421188819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811726
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"595df1ecef9b1c9c00b5cc841a54da1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188819,
+            "locality_id":1242830163,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1242830163,
+    "wof:lastmodified":1536700308,
+    "wof:name":"Renaciemiento",
+    "wof:parent_id":421188819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64,
+    4.85278,
+    -75.64,
+    4.85278
+],
+  "geometry": {"coordinates":[-75.64,4.85278],"type":"Point"}
+}

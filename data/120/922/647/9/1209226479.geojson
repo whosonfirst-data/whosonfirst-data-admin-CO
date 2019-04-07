@@ -1,0 +1,62 @@
+{
+  "id": 1209226479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.19472,7.10694,-75.19472,7.10694",
+    "geom:latitude":7.10694,
+    "geom:longitude":-75.19472,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5040.0",
+    "gn:asciiname":"La Mellizas",
+    "gn:country_code":"CO",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779979,
+    "gn:latitude":7.10694,
+    "gn:longitude":-75.19472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mellizas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779979
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"270ef09771e3f4953c981912f77a2b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209226479
+        }
+    ],
+    "wof:id":1209226479,
+    "wof:lastmodified":1536293783,
+    "wof:name":"La Mellizas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.19471999999998,
+    7.10694,
+    -75.19471999999998,
+    7.10694
+],
+  "geometry": {"coordinates":[-75.19471999999998,7.10694],"type":"Point"}
+}

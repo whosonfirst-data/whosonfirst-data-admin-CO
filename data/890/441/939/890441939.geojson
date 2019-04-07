@@ -1,0 +1,66 @@
+{
+  "id": 890441939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58544,9.31206,-74.58544,9.31206",
+    "geom:latitude":9.31206,
+    "geom:longitude":-74.58544,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":6217,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Talaigua Viejo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667547,
+        "gp:id":420026,
+        "qs:id":150005
+    },
+    "wof:country":"CO",
+    "wof:created":1469052343,
+    "wof:geomhash":"afa9f1b96b91662a38ce1f8e73a08fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700173,
+            "locality_id":890441939,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":890441939,
+    "wof:lastmodified":1505343585,
+    "wof:name":"Talaigua Viejo",
+    "wof:parent_id":1108700173,
+    "wof:placetype":"locality",
+    "wof:population":6217,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58544,
+    9.31206,
+    -74.58544,
+    9.31206
+],
+  "geometry": {"coordinates":[-74.58544000000001,9.31206],"type":"Point"}
+}

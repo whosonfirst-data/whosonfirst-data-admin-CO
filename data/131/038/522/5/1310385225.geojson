@@ -1,0 +1,72 @@
+{
+  "id": 1310385225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85771,8.82869,-75.85771,8.82869",
+    "geom:latitude":8.82869,
+    "geom:longitude":-75.85771,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"Boca de La Ceiba",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3688756,
+    "gn:latitude":8.82869,
+    "gn:longitude":-75.85771,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Boca de La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ceiba",
+        "Boca de La Ceiba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688756
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"926f6ee79bbd6fa6462e24d1a32a2f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1310385225,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1310385225,
+    "wof:lastmodified":1537618646,
+    "wof:name":"Boca de La Ceiba",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85771,
+    8.82869,
+    -75.85771,
+    8.82869
+],
+  "geometry": {"coordinates":[-75.85771,8.82869],"type":"Point"}
+}

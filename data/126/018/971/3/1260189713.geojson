@@ -1,0 +1,71 @@
+{
+  "id": 1260189713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.43806,6.58916,-70.43806,6.58916",
+    "geom:latitude":6.58916,
+    "geom:longitude":-70.43806,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81220.0",
+    "gn:asciiname":"Las Maticas",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677358,
+    "gn:latitude":6.58916,
+    "gn:longitude":-70.43806,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Las Maticas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Maticas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677358
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"593cba1d981fb91f72d4927183a33c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1260189713,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1260189713,
+    "wof:lastmodified":1537618494,
+    "wof:name":"Las Maticas",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.43806,
+    6.58916,
+    -70.43806,
+    6.58916
+],
+  "geometry": {"coordinates":[-70.43805999999999,6.58916],"type":"Point"}
+}

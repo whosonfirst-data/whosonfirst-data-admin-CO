@@ -1,0 +1,71 @@
+{
+  "id": 1310639603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99275,5.4779,-74.99275,5.4779",
+    "geom:latitude":5.4779,
+    "geom:longitude":-74.99275,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17662.0",
+    "gn:asciiname":"El Convenio",
+    "gn:country_code":"CO",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523067,
+    "gn:latitude":5.4779,
+    "gn:longitude":-74.99275,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Convenio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Convenio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421188653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523067
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e64d9a240a51b41a63a2ab5ab15b6c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188653,
+            "locality_id":1310639603,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1310639603,
+    "wof:lastmodified":1537618710,
+    "wof:name":"El Convenio",
+    "wof:parent_id":421188653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99275,
+    5.4779,
+    -74.99275,
+    5.4779
+],
+  "geometry": {"coordinates":[-74.99275,5.4779],"type":"Point"}
+}

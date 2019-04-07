@@ -1,0 +1,68 @@
+{
+  "id": 1243160471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.246,10.37184,-73.246,10.37184",
+    "geom:latitude":10.37184,
+    "geom:longitude":-73.246,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Hacienda Playa Piedra",
+    "gn:country_code":"CO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560351,
+    "gn:latitude":10.37184,
+    "gn:longitude":-73.246,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Playa Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560351
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b3099ad76dce6d1f3b3a2b53fbca509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1243160471,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1243160471,
+    "wof:lastmodified":1536721247,
+    "wof:name":"Hacienda Playa Piedra",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24600000000002,
+    10.37184,
+    -73.24600000000002,
+    10.37184
+],
+  "geometry": {"coordinates":[-73.24600000000002,10.37184],"type":"Point"}
+}

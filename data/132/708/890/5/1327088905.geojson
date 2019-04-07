@@ -1,0 +1,68 @@
+{
+  "id": 1327088905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9068,5.84991,-73.9068,5.84991",
+    "geom:latitude":5.84991,
+    "geom:longitude":-73.9068,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68377.0",
+    "gn:asciiname":"El Paraiso",
+    "gn:country_code":"CO",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776411,
+    "gn:latitude":5.84991,
+    "gn:longitude":-73.9068,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776411
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4d3d5450ce1371e30b3e6ca77d4053e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701275,
+            "locality_id":1327088905,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327088905,
+    "wof:lastmodified":1536679060,
+    "wof:name":"El Paraiso",
+    "wof:parent_id":1108701275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9068,
+    5.84991,
+    -73.9068,
+    5.84991
+],
+  "geometry": {"coordinates":[-73.9068,5.84991],"type":"Point"}
+}

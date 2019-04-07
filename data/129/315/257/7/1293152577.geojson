@@ -1,0 +1,71 @@
+{
+  "id": 1293152577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18703,6.70008,-72.18703,6.70008",
+    "geom:latitude":6.70008,
+    "geom:longitude":-72.18703,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15332.0",
+    "gn:asciiname":"Bachira",
+    "gn:country_code":"CO",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689344,
+    "gn:latitude":6.70008,
+    "gn:longitude":-72.18703,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"B\u00e1chira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "B\u00e1chira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421170587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689344
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"98681bc3186449bf56296f213130ef3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170587,
+            "locality_id":1293152577,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1293152577,
+    "wof:lastmodified":1537618653,
+    "wof:name":"Bachira",
+    "wof:parent_id":421170587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18703000000002,
+    6.70008,
+    -72.18703000000002,
+    6.70008
+],
+  "geometry": {"coordinates":[-72.18703000000002,6.70008],"type":"Point"}
+}

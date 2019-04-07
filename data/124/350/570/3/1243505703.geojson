@@ -1,0 +1,73 @@
+{
+  "id": 1243505703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63333,10.26667,-74.63333,10.26667",
+    "geom:latitude":10.26667,
+    "geom:longitude":-74.63333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47258.0",
+    "gn:asciiname":"Los Caballos",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676292,
+    "gn:latitude":10.26667,
+    "gn:longitude":-74.63333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Caballos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Los Caballos",
+        "Los Caballos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676292
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3a101b751ab727ce7667ae6ce63c21cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700885,
+            "locality_id":1243505703,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243505703,
+    "wof:lastmodified":1537618477,
+    "wof:name":"Los Caballos",
+    "wof:parent_id":1108700885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63333,
+    10.26667,
+    -74.63333,
+    10.26667
+],
+  "geometry": {"coordinates":[-74.63333,10.26667],"type":"Point"}
+}

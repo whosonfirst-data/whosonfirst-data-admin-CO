@@ -1,0 +1,68 @@
+{
+  "id": 1310450333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74833,4.99778,-73.74833,4.99778",
+    "geom:latitude":4.99778,
+    "geom:longitude":-73.74833,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25736.0",
+    "gn:asciiname":"Medio Rozo",
+    "gn:country_code":"CO",
+    "gn:dem":2818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782130,
+    "gn:latitude":4.99778,
+    "gn:longitude":-73.74833,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Medio Rozo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421204553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782130
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a9ea5ecd92964c6edbeebf848f511372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204553,
+            "locality_id":1310450333,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1310450333,
+    "wof:lastmodified":1536995847,
+    "wof:name":"Medio Rozo",
+    "wof:parent_id":421204553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74833000000002,
+    4.99778,
+    -73.74833000000002,
+    4.99778
+],
+  "geometry": {"coordinates":[-73.74833000000002,4.99778],"type":"Point"}
+}

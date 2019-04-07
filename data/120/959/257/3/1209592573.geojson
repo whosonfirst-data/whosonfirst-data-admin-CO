@@ -1,0 +1,62 @@
+{
+  "id": 1209592573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.74926,8.52031,-75.74926,8.52031",
+    "geom:latitude":8.52031,
+    "geom:longitude":-75.74926,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"Canchila",
+    "gn:country_code":"CO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783627,
+    "gn:latitude":8.52031,
+    "gn:longitude":-75.74926,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Canchila",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783627
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5b648bedd4f0be23bca5bbcf68f7423a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209592573
+        }
+    ],
+    "wof:id":1209592573,
+    "wof:lastmodified":1536282431,
+    "wof:name":"Canchila",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74925999999998,
+    8.52031,
+    -75.74925999999998,
+    8.52031
+],
+  "geometry": {"coordinates":[-75.74925999999998,8.52031],"type":"Point"}
+}

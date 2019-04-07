@@ -1,0 +1,73 @@
+{
+  "id": 1360290507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.01667,10.8,-75.01667,10.8",
+    "geom:latitude":10.8,
+    "geom:longitude":-75.01667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8372.0",
+    "gn:asciiname":"Chorrera",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686388,
+    "gn:latitude":10.8,
+    "gn:longitude":-75.01667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chorrera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Chorrera",
+        "Chorrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686388
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a2868892b7ccd0ba5a6374e648173a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700059,
+            "locality_id":1360290507,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1360290507,
+    "wof:lastmodified":1537618619,
+    "wof:name":"Chorrera",
+    "wof:parent_id":1108700059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.01666999999998,
+    10.8,
+    -75.01666999999998,
+    10.8
+],
+  "geometry": {"coordinates":[-75.01666999999998,10.8],"type":"Point"}
+}

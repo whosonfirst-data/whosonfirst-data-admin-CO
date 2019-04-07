@@ -1,0 +1,68 @@
+{
+  "id": 1260379277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2281,10.09089,-73.2281,10.09089",
+    "geom:latitude":10.09089,
+    "geom:longitude":-73.2281,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20621.0",
+    "gn:asciiname":"Vara Flor",
+    "gn:country_code":"CO",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560236,
+    "gn:latitude":10.09089,
+    "gn:longitude":-73.2281,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vara Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560236
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"221de68862036551ab20a36ca707511d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":1260379277,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260379277,
+    "wof:lastmodified":1537077555,
+    "wof:name":"Vara Flor",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2281,
+    10.09089,
+    -73.2281,
+    10.09089
+],
+  "geometry": {"coordinates":[-73.2281,10.09089],"type":"Point"}
+}

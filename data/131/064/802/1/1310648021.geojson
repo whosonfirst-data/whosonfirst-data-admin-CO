@@ -1,0 +1,71 @@
+{
+  "id": 1310648021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.15033,3.64938,-75.15033,3.64938",
+    "geom:latitude":3.64938,
+    "geom:longitude":-75.15033,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73483",
+    "gn:asciiname":"Montenegro",
+    "gn:country_code":"CO",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631206,
+    "gn:latitude":3.64938,
+    "gn:longitude":-75.15033,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Montenegro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Montenegro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631206
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"93905402987b0be88cd0624a070b4449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701447,
+            "locality_id":1310648021,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310648021,
+    "wof:lastmodified":1537618843,
+    "wof:name":"Montenegro",
+    "wof:parent_id":1108701447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.15033000000003,
+    3.64938,
+    -75.15033000000003,
+    3.64938
+],
+  "geometry": {"coordinates":[-75.15033000000003,3.64938],"type":"Point"}
+}

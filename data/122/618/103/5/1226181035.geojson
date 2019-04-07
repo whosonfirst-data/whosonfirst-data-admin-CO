@@ -1,0 +1,73 @@
+{
+  "id": 1226181035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63889,10.65181,-73.63889,10.65181",
+    "geom:latitude":10.65181,
+    "geom:longitude":-73.63889,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47053.0",
+    "gn:asciiname":"Duriameina",
+    "gn:country_code":"CO",
+    "gn:dem":3282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685065,
+    "gn:latitude":10.65181,
+    "gn:longitude":-73.63889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Duriameina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adurimeina",
+        "Aduriameina",
+        "Duriameina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685065
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4921d147a5a1b79bd9d7365fbd20bc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700873,
+            "locality_id":1226181035,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226181035,
+    "wof:lastmodified":1537618607,
+    "wof:name":"Duriameina",
+    "wof:parent_id":1108700873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63889,
+    10.65181,
+    -73.63889,
+    10.65181
+],
+  "geometry": {"coordinates":[-73.63889,10.65181],"type":"Point"}
+}

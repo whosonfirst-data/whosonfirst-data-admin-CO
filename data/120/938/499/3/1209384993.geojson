@@ -1,0 +1,67 @@
+{
+  "id": 1209384993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.21667,2.8,-69.21667,2.8",
+    "geom:latitude":2.8,
+    "geom:longitude":-69.21667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"Cabeza de Pava",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688189,
+    "gn:latitude":2.8,
+    "gn:longitude":-69.21667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cabeza de Pava",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Contour de Cabeza de Pava",
+        "Cabeza de Pava"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688189
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"69a9eff956b1171408b1125787e9d3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209384993
+        }
+    ],
+    "wof:id":1209384993,
+    "wof:lastmodified":1537618639,
+    "wof:name":"Cabeza de Pava",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.21667,
+    2.8,
+    -69.21667,
+    2.8
+],
+  "geometry": {"coordinates":[-69.21666999999999,2.8],"type":"Point"}
+}

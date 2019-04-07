@@ -1,0 +1,68 @@
+{
+  "id": 1225947027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.19222,6.78583,-76.19222,6.78583",
+    "geom:latitude":6.78583,
+    "geom:longitude":-76.19222,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5284.0",
+    "gn:asciiname":"Las Abejas",
+    "gn:country_code":"CO",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793501,
+    "gn:latitude":6.78583,
+    "gn:longitude":-76.19222,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Abejas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793501
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"66d3ee68cd0e883e0576795c6685ffab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699961,
+            "locality_id":1225947027,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1225947027,
+    "wof:lastmodified":1536866182,
+    "wof:name":"Las Abejas",
+    "wof:parent_id":1108699961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.19221999999998,
+    6.78583,
+    -76.19221999999998,
+    6.78583
+],
+  "geometry": {"coordinates":[-76.19221999999998,6.78583],"type":"Point"}
+}

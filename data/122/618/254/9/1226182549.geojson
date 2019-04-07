@@ -1,0 +1,68 @@
+{
+  "id": 1226182549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23633,4.89817,-73.23633,4.89817",
+    "geom:latitude":4.89817,
+    "geom:longitude":-73.23633,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15690.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"CO",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812637,
+    "gn:latitude":4.89817,
+    "gn:longitude":-73.23633,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812637
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d61219127b7ec80cb61e2390200258d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700323,
+            "locality_id":1226182549,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226182549,
+    "wof:lastmodified":1537023548,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108700323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23633000000002,
+    4.89817,
+    -73.23633000000002,
+    4.89817
+],
+  "geometry": {"coordinates":[-73.23633000000002,4.89817],"type":"Point"}
+}

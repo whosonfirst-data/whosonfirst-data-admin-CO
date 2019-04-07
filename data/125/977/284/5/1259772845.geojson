@@ -1,0 +1,71 @@
+{
+  "id": 1259772845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.28623,2.87718,-76.28623,2.87718",
+    "geom:latitude":2.87718,
+    "geom:longitude":-76.28623,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19821.0",
+    "gn:asciiname":"Hacienda Piedrahita",
+    "gn:country_code":"CO",
+    "gn:dem":2456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623173,
+    "gn:latitude":2.87718,
+    "gn:longitude":-76.28623,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Piedrahita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Piedrahita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623173
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8239321685653960cf99e0ad720274fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700519,
+            "locality_id":1259772845,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1259772845,
+    "wof:lastmodified":1537618807,
+    "wof:name":"Hacienda Piedrahita",
+    "wof:parent_id":1108700519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.28623,
+    2.87718,
+    -76.28623,
+    2.87718
+],
+  "geometry": {"coordinates":[-76.28623,2.87718],"type":"Point"}
+}

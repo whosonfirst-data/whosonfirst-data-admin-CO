@@ -1,0 +1,67 @@
+{
+  "id": 1192995157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91298,8.08191,-74.91298,8.08191",
+    "geom:latitude":8.08191,
+    "geom:longitude":-74.91298,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Polvillo",
+    "gn:country_code":"CO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683419,
+    "gn:latitude":8.08191,
+    "gn:longitude":-74.91298,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"El Polvillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683419
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"26f548ee9406801f9c309e7f00825631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699985,
+            "locality_id":1192995157,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1192995157,
+    "wof:lastmodified":1536376666,
+    "wof:name":"El Polvillo",
+    "wof:parent_id":1108699985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91298,
+    8.08191,
+    -74.91298,
+    8.08191
+],
+  "geometry": {"coordinates":[-74.91298,8.08191],"type":"Point"}
+}

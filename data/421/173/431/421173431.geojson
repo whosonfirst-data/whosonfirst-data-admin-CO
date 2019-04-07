@@ -1,0 +1,82 @@
+{
+  "id": 421173431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.95815,8.2411,-74.95815,8.2411",
+    "geom:latitude":8.2411,
+    "geom:longitude":-74.95815,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caserio Pueblonuevo"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3671655,
+    "qs:gn_pop":9075,
+    "qs:name":"Pueblo Nuevo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cordoba",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":288204,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":364237,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421203439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671655,
+        "gp:id":364237,
+        "qs:id":288204
+    },
+    "wof:country":"CO",
+    "wof:created":1459008982,
+    "wof:geomhash":"5a9e087643fd4d79bdfa13f6bc7eec2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203439,
+            "locality_id":421173431,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":421173431,
+    "wof:lastmodified":1505340617,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421203439,
+    "wof:placetype":"locality",
+    "wof:population":9075,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.95815,
+    8.2411,
+    -74.95815,
+    8.2411
+],
+  "geometry": {"coordinates":[-74.95815,8.2411],"type":"Point"}
+}

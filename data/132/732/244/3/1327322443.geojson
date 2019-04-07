@@ -1,0 +1,73 @@
+{
+  "id": 1327322443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81667,8.63333,-73.81667,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":-73.81667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20383.0",
+    "gn:asciiname":"Puerto Sagoc",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671333,
+    "gn:latitude":8.63333,
+    "gn:longitude":-73.81667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Sagoc",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sagoc",
+        "Puerto Sagoc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671333
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d923f1cd5e7af0d1becc5c5b48a52d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700545,
+            "locality_id":1327322443,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1327322443,
+    "wof:lastmodified":1537618418,
+    "wof:name":"Puerto Sagoc",
+    "wof:parent_id":1108700545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81667,
+    8.63333,
+    -73.81667,
+    8.63333
+],
+  "geometry": {"coordinates":[-73.81667,8.63333],"type":"Point"}
+}

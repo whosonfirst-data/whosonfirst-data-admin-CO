@@ -1,0 +1,146 @@
+{
+  "id": 421181093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56706,5.87458,-75.56706,5.87458",
+    "geom:latitude":5.87458,
+    "geom:longitude":-75.56706,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u82ad\u82ad\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:eng_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
+    ],
+    "name:fre_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d1\u10d0\u10e0\u10d1\u10d0\u10e0\u10d0"
+    ],
+    "name:ile_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:ita_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d1\u10d0\u10e0\u10d1\u10d0\u10e0\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:nan_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:rum_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:spa_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:swe_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:tgl_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:vie_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:war_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u82ad\u82ad\u62c9"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3668895,
+    "qs:gn_pop":12743,
+    "qs:name":"Santa B\u00e1rbara",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":56,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":475164,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368236,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421191861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668895,
+        "gp:id":368236,
+        "qs:id":475164,
+        "wd:id":"Q1441781"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009284,
+    "wof:geomhash":"a6ac21a7019e7b1aa2eb534ef0de189c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421191861,
+            "locality_id":421181093,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421181093,
+    "wof:lastmodified":1513943568,
+    "wof:name":"Santa B\u00e1rbara",
+    "wof:parent_id":421191861,
+    "wof:placetype":"locality",
+    "wof:population":12743,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56706,
+    5.87458,
+    -75.56706,
+    5.87458
+],
+  "geometry": {"coordinates":[-75.56706,5.87458],"type":"Point"}
+}

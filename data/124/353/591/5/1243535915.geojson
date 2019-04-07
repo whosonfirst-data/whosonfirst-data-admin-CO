@@ -1,0 +1,68 @@
+{
+  "id": 1243535915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.21365,2.61654,-75.21365,2.61654",
+    "geom:latitude":2.61654,
+    "geom:longitude":-75.21365,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41020",
+    "gn:asciiname":"Matanza",
+    "gn:country_code":"CO",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345335,
+    "gn:latitude":2.61654,
+    "gn:longitude":-75.21365,
+    "gn:modification_date":"2015-06-21",
+    "gn:name":"Matanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345335
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3afa596ae1328351980ae0c58eb6a0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700801,
+            "locality_id":1243535915,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1243535915,
+    "wof:lastmodified":1536676624,
+    "wof:name":"Matanza",
+    "wof:parent_id":1108700801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.21365,
+    2.61654,
+    -75.21365,
+    2.61654
+],
+  "geometry": {"coordinates":[-75.21365,2.61654],"type":"Point"}
+}

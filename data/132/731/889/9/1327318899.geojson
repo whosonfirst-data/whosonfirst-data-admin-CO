@@ -1,0 +1,68 @@
+{
+  "id": 1327318899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24229,0.13758,-72.24229,0.13758",
+    "geom:latitude":0.13758,
+    "geom:longitude":-72.24229,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Salado Hachuela",
+    "gn:country_code":"CO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819873,
+    "gn:latitude":0.13758,
+    "gn:longitude":-72.24229,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Salado Hachuela",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819873
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8dc6c6689b8163867daa15a30343deb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700425,
+            "locality_id":1327318899,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1327318899,
+    "wof:lastmodified":1536843726,
+    "wof:name":"Salado Hachuela",
+    "wof:parent_id":1108700425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24229,
+    0.13758,
+    -72.24229,
+    0.13758
+],
+  "geometry": {"coordinates":[-72.24229,0.13758],"type":"Point"}
+}

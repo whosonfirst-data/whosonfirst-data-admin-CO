@@ -1,0 +1,75 @@
+{
+  "id": 421185867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.067922,7.075851,-73.067922,7.075851",
+    "geom:latitude":7.075851,
+    "geom:longitude":-73.067922,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"La Laguna Hacienda",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":21,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":21,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1053985,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359207,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":359207,
+        "qs:id":1053985
+    },
+    "wof:country":"CO",
+    "wof:created":1459009457,
+    "wof:geomhash":"1de2156359a9fc3133a984d9411fd56b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701253,
+            "locality_id":421185867,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421185867,
+    "wof:lastmodified":1499968317,
+    "wof:name":"La Laguna Hacienda",
+    "wof:parent_id":1108701253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.067922,
+    7.075851,
+    -73.067922,
+    7.075851
+],
+  "geometry": {"coordinates":[-73.067922,7.075851],"type":"Point"}
+}

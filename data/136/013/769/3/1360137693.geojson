@@ -1,0 +1,68 @@
+{
+  "id": 1360137693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26694,10.20819,-75.26694,10.20819",
+    "geom:latitude":10.20819,
+    "geom:longitude":-75.26694,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"Angola",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830822,
+    "gn:latitude":10.20819,
+    "gn:longitude":-75.26694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Angola",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d0e5056a18992d9efd98cbcb2b85bdfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184103,
+            "locality_id":1360137693,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1360137693,
+    "wof:lastmodified":1536868748,
+    "wof:name":"Angola",
+    "wof:parent_id":421184103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26694,
+    10.20819,
+    -75.26694,
+    10.20819
+],
+  "geometry": {"coordinates":[-75.26694000000001,10.20819],"type":"Point"}
+}

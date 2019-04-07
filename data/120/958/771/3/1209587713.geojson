@@ -1,0 +1,62 @@
+{
+  "id": 1209587713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57667,2.41917,-75.57667,2.41917",
+    "geom:latitude":2.41917,
+    "geom:longitude":-75.57667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41306.0",
+    "gn:asciiname":"Tabaquito",
+    "gn:country_code":"CO",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793121,
+    "gn:latitude":2.41917,
+    "gn:longitude":-75.57667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tabaquito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793121
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bb194653b3e2dfe3935052107b2cf616",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209587713
+        }
+    ],
+    "wof:id":1209587713,
+    "wof:lastmodified":1536282579,
+    "wof:name":"Tabaquito",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57667,
+    2.4191700000000003,
+    -75.57667,
+    2.4191700000000003
+],
+  "geometry": {"coordinates":[-75.57666999999999,2.41917],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209470603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81306,4.90778,-75.81306,4.90778",
+    "geom:latitude":4.90778,
+    "geom:longitude":-75.81306,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66440.0",
+    "gn:asciiname":"Puerto Pereira",
+    "gn:country_code":"CO",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811723,
+    "gn:latitude":4.90778,
+    "gn:longitude":-75.81306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Pereira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811723
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8e655a2121cadab2e337bd2b98900c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209470603
+        }
+    ],
+    "wof:id":1209470603,
+    "wof:lastmodified":1536286092,
+    "wof:name":"Puerto Pereira",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81306,
+    4.907780000000002,
+    -75.81306,
+    4.907780000000002
+],
+  "geometry": {"coordinates":[-75.81305999999999,4.90778],"type":"Point"}
+}

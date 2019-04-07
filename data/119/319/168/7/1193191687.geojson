@@ -1,0 +1,70 @@
+{
+  "id": 1193191687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21924,4.617,-74.21924,4.617",
+    "geom:latitude":4.617,
+    "geom:longitude":-74.21924,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"La Isla",
+    "gn:country_code":"CO",
+    "gn:dem":2542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182181,
+    "gn:latitude":4.617,
+    "gn:longitude":-74.21924,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"La Isla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Isla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421170611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182181
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3eb8a84e8f8bb9431a22b552b47eb036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170611,
+            "locality_id":1193191687,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193191687,
+    "wof:lastmodified":1537618755,
+    "wof:name":"La Isla",
+    "wof:parent_id":421170611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21924,
+    4.617,
+    -74.21924,
+    4.617
+],
+  "geometry": {"coordinates":[-74.21924,4.617],"type":"Point"}
+}

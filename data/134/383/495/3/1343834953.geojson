@@ -1,0 +1,68 @@
+{
+  "id": 1343834953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89056,8.80944,-75.89056,8.80944",
+    "geom:latitude":8.80944,
+    "geom:longitude":-75.89056,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"La Graciela",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783422,
+    "gn:latitude":8.80944,
+    "gn:longitude":-75.89056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Graciela",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783422
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5c4a4d68efd8cfafcef97ffe91ff6ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1343834953,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343834953,
+    "wof:lastmodified":1536703740,
+    "wof:name":"La Graciela",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89056,
+    8.80944,
+    -75.89056,
+    8.80944
+],
+  "geometry": {"coordinates":[-75.89055999999999,8.80944],"type":"Point"}
+}

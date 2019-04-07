@@ -1,0 +1,68 @@
+{
+  "id": 1226738623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60215,9.98618,-73.60215,9.98618",
+    "geom:latitude":9.98618,
+    "geom:longitude":-73.60215,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Asi es La Vida",
+    "gn:country_code":"CO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775889,
+    "gn:latitude":9.98618,
+    "gn:longitude":-73.60215,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"As\u00ed es La Vida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775889
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d8e750c5f967def873fca50d2ed3f530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1226738623,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226738623,
+    "wof:lastmodified":1536726173,
+    "wof:name":"Asi es La Vida",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60215,
+    9.98618,
+    -73.60215,
+    9.98618
+],
+  "geometry": {"coordinates":[-73.60214999999999,9.98618],"type":"Point"}
+}

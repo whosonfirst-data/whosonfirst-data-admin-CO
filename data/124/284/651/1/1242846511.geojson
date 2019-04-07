@@ -1,0 +1,70 @@
+{
+  "id": 1242846511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.01202,3.49871,-75.01202,3.49871",
+    "geom:latitude":3.49871,
+    "geom:longitude":-75.01202,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Guamalito",
+    "gn:country_code":"CO",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10319245,
+    "gn:latitude":3.49871,
+    "gn:longitude":-75.01202,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Guamalito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guamalito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10319245
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ea6f463d2dfef2dfad58e2b4b2267145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701447,
+            "locality_id":1242846511,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1242846511,
+    "wof:lastmodified":1537618821,
+    "wof:name":"Guamalito",
+    "wof:parent_id":1108701447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.01201999999998,
+    3.49871,
+    -75.01201999999998,
+    3.49871
+],
+  "geometry": {"coordinates":[-75.01201999999998,3.49871],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276509133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66923,4.08056,-73.66923,4.08056",
+    "geom:latitude":4.08056,
+    "geom:longitude":-73.66923,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"La Porfia",
+    "gn:country_code":"CO",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526630,
+    "gn:latitude":4.08056,
+    "gn:longitude":-73.66923,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Porf\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Porf\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421170631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526630
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f8e0c62943b9828b9e804e2d22b120fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170631,
+            "locality_id":1276509133,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1276509133,
+    "wof:lastmodified":1537618722,
+    "wof:name":"La Porfia",
+    "wof:parent_id":421170631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66923,
+    4.08056,
+    -73.66923,
+    4.08056
+],
+  "geometry": {"coordinates":[-73.66923,4.08056],"type":"Point"}
+}

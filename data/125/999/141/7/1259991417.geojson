@@ -1,0 +1,68 @@
+{
+  "id": 1259991417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.75776,8.24133,-76.75776,8.24133",
+    "geom:latitude":8.24133,
+    "geom:longitude":-76.75776,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5837.0",
+    "gn:asciiname":"Tie",
+    "gn:country_code":"CO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667192,
+    "gn:latitude":8.24133,
+    "gn:longitude":-76.75776,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tie",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Ti\u00e9",
+        "Tie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667192
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"50f1414500eabdf83fdfd1bdbe9b5d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1259991417,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259991417,
+    "wof:lastmodified":1537618374,
+    "wof:name":"Tie",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.75776,
+    8.24133,
+    -76.75776,
+    8.24133
+],
+  "geometry": {"coordinates":[-76.75776,8.24133],"type":"Point"}
+}

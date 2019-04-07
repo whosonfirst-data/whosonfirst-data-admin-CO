@@ -1,0 +1,75 @@
+{
+  "id": 1225929065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0,0.2609,-73.0,0.2609",
+    "geom:latitude":0.2609,
+    "geom:longitude":-73.0,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Caserio Cucuta",
+    "gn:country_code":"CO",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792266,
+    "gn:latitude":0.2609,
+    "gn:longitude":-73.0,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo C\u00facuta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0442\u0430"
+    ],
+    "name:und_x_variant":[
+        "C\u00facuta",
+        "Caser\u00edo C\u00facuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792266
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9c3d43e49c991617c3e7fba8fa469e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700425,
+            "locality_id":1225929065,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1225929065,
+    "wof:lastmodified":1537618692,
+    "wof:name":"Caserio Cucuta",
+    "wof:parent_id":1108700425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0,
+    0.2609,
+    -73.0,
+    0.2609
+],
+  "geometry": {"coordinates":[-73.0,0.2609],"type":"Point"}
+}

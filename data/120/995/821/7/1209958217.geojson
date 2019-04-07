@@ -1,0 +1,73 @@
+{
+  "id": 1209958217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33841,6.13162,-72.33841,6.13162",
+    "geom:latitude":6.13162,
+    "geom:longitude":-72.33841,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85136.0",
+    "gn:asciiname":"La Salina",
+    "gn:country_code":"CO",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3677767,
+    "gn:latitude":6.13162,
+    "gn:longitude":-72.33841,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"La Salina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salina",
+        "La Salina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677767,
+        "wk:page":"La_Salina"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c633a389cf78932c6e6e8519b47e7ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701527,
+            "locality_id":1209958217,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1209958217,
+    "wof:lastmodified":1537618503,
+    "wof:name":"La Salina",
+    "wof:parent_id":1108701527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33841,
+    6.13162,
+    -72.33841,
+    6.13162
+],
+  "geometry": {"coordinates":[-72.33841,6.13162],"type":"Point"}
+}

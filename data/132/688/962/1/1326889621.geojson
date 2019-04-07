@@ -1,0 +1,71 @@
+{
+  "id": 1326889621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95948,6.10048,-70.95948,6.10048",
+    "geom:latitude":6.10048,
+    "geom:longitude":-70.95948,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"El Diluvio",
+    "gn:country_code":"CO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181733,
+    "gn:latitude":6.10048,
+    "gn:longitude":-70.95948,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Diluvio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Diluvio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181733
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"25316083db73654652894d38e4a5d8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "locality_id":1326889621,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1326889621,
+    "wof:lastmodified":1537618814,
+    "wof:name":"El Diluvio",
+    "wof:parent_id":1108701525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95948,
+    6.10048,
+    -70.95948,
+    6.10048
+],
+  "geometry": {"coordinates":[-70.95948,6.10048],"type":"Point"}
+}

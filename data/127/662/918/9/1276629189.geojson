@@ -1,0 +1,68 @@
+{
+  "id": 1276629189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1674,1.59635,-77.1674,1.59635",
+    "geom:latitude":1.59635,
+    "geom:longitude":-77.1674,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52399.0",
+    "gn:asciiname":"La Pradera",
+    "gn:country_code":"CO",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678032,
+    "gn:latitude":1.59635,
+    "gn:longitude":-77.1674,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Pradera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678032
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ff54dda01c8ea3a2578f9ea3f4eaf27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701025,
+            "locality_id":1276629189,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276629189,
+    "wof:lastmodified":1536878904,
+    "wof:name":"La Pradera",
+    "wof:parent_id":1108701025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1674,
+    1.59635,
+    -77.1674,
+    1.59635
+],
+  "geometry": {"coordinates":[-77.1674,1.59635],"type":"Point"}
+}

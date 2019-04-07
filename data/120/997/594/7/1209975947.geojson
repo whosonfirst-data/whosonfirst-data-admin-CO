@@ -1,0 +1,71 @@
+{
+  "id": 1209975947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.33321,6.06445,-70.33321,6.06445",
+    "geom:latitude":6.06445,
+    "geom:longitude":-70.33321,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85250.0",
+    "gn:asciiname":"Los Medanos",
+    "gn:country_code":"CO",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10161056,
+    "gn:latitude":6.06445,
+    "gn:longitude":-70.33321,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Medanos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Medanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10161056
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4d1f163ed66217b145f462c91a5a3667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701537,
+            "locality_id":1209975947,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1209975947,
+    "wof:lastmodified":1537618814,
+    "wof:name":"Los Medanos",
+    "wof:parent_id":1108701537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.33321,
+    6.06445,
+    -70.33321,
+    6.06445
+],
+  "geometry": {"coordinates":[-70.33320999999999,6.06445],"type":"Point"}
+}

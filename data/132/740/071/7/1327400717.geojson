@@ -1,0 +1,68 @@
+{
+  "id": 1327400717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9,7.08333,-73.9,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-73.9,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68081.0",
+    "gn:asciiname":"Barranquita",
+    "gn:country_code":"CO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689146,
+    "gn:latitude":7.08333,
+    "gn:longitude":-73.9,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barranquita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689146
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"409337fbbc6c953f9711a83440dfaa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700047,
+            "locality_id":1327400717,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327400717,
+    "wof:lastmodified":1536726997,
+    "wof:name":"Barranquita",
+    "wof:parent_id":1108700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9,
+    7.08333,
+    -73.9,
+    7.08333
+],
+  "geometry": {"coordinates":[-73.90000000000001,7.08333],"type":"Point"}
+}

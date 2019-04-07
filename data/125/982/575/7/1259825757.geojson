@@ -1,0 +1,68 @@
+{
+  "id": 1259825757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.3,0.65,-69.3,0.65",
+    "geom:latitude":0.65,
+    "geom:longitude":-69.3,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"97889.0",
+    "gn:asciiname":"Ucapinima",
+    "gn:country_code":"CO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666516,
+    "gn:latitude":0.65,
+    "gn:longitude":-69.3,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ucapinima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        1108701641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666516
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"82ce0434eb9313bc14494f10b0a40623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701641,
+            "locality_id":1259825757,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":1259825757,
+    "wof:lastmodified":1536860998,
+    "wof:name":"Ucapinima",
+    "wof:parent_id":1108701641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.3,
+    0.65,
+    -69.3,
+    0.65
+],
+  "geometry": {"coordinates":[-69.3,0.65],"type":"Point"}
+}

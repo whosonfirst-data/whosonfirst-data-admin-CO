@@ -1,0 +1,65 @@
+{
+  "id": 1209465939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.925,3.4225,-74.925,3.4225",
+    "geom:latitude":3.4225,
+    "geom:longitude":-74.925,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73024.0",
+    "gn:asciiname":"Montevideo",
+    "gn:country_code":"CO",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828268,
+    "gn:latitude":3.4225,
+    "gn:longitude":-74.925,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Montevideo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Montevideo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828268
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8d3cb4fb6d806afa5e3fb371f704d020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209465939
+        }
+    ],
+    "wof:id":1209465939,
+    "wof:lastmodified":1537618698,
+    "wof:name":"Montevideo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.925,
+    3.4225,
+    -74.925,
+    3.4225
+],
+  "geometry": {"coordinates":[-74.925,3.4225],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209154623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.21916,5.76376,-73.21916,5.76376",
+    "geom:latitude":5.76376,
+    "geom:longitude":-73.21916,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15763.0",
+    "gn:asciiname":"Ocusa",
+    "gn:country_code":"CO",
+    "gn:dem":2576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673642,
+    "gn:latitude":5.76376,
+    "gn:longitude":-73.21916,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ocus\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Ocusa",
+        "Ocus\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673642
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"22ced287845e3e39b1f4da7cb1d1294c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209154623
+        }
+    ],
+    "wof:id":1209154623,
+    "wof:lastmodified":1537618448,
+    "wof:name":"Ocusa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.21916,
+    5.76376,
+    -73.21916,
+    5.76376
+],
+  "geometry": {"coordinates":[-73.21916,5.76376],"type":"Point"}
+}

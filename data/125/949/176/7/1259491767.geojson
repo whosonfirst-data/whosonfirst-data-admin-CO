@@ -1,0 +1,68 @@
+{
+  "id": 1259491767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.20671,7.26945,-75.20671,7.26945",
+    "geom:latitude":7.26945,
+    "geom:longitude":-75.20671,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5790.0",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"CO",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779743,
+    "gn:latitude":7.26945,
+    "gn:longitude":-75.20671,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779743
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"105d52a6f4ccb9d5d9fd03f267269426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700023,
+            "locality_id":1259491767,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1259491767,
+    "wof:lastmodified":1536845725,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108700023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.20671,
+    7.26945,
+    -75.20671,
+    7.26945
+],
+  "geometry": {"coordinates":[-75.20671,7.26945],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193110719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2886,1.53906,-72.2886,1.53906",
+    "geom:latitude":1.53906,
+    "geom:longitude":-72.2886,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"95200.0",
+    "gn:asciiname":"Barranquillita",
+    "gn:country_code":"CO",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689151,
+    "gn:latitude":1.53906,
+    "gn:longitude":-72.2886,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barranquillita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trinidad",
+        "Barranquilla",
+        "Barranquillita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        1108701629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689151
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb4776222615766aa20d525f52c2f9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701629,
+            "locality_id":1193110719,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1193110719,
+    "wof:lastmodified":1537618650,
+    "wof:name":"Barranquillita",
+    "wof:parent_id":1108701629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2886,
+    1.53906,
+    -72.2886,
+    1.53906
+],
+  "geometry": {"coordinates":[-72.2886,1.53906],"type":"Point"}
+}

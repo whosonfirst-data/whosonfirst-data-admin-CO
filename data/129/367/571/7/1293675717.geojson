@@ -1,0 +1,68 @@
+{
+  "id": 1293675717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.15319,8.33347,-76.15319,8.33347",
+    "geom:latitude":8.33347,
+    "geom:longitude":-76.15319,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23855.0",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"CO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793835,
+    "gn:latitude":8.33347,
+    "gn:longitude":-76.15319,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793835
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e45449ba726cecb2c732f7105b0c80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700615,
+            "locality_id":1293675717,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1293675717,
+    "wof:lastmodified":1537012266,
+    "wof:name":"Las Flores",
+    "wof:parent_id":1108700615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.15319000000002,
+    8.33347,
+    -76.15319000000002,
+    8.33347
+],
+  "geometry": {"coordinates":[-76.15319000000002,8.33347],"type":"Point"}
+}

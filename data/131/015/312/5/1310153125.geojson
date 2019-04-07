@@ -1,0 +1,71 @@
+{
+  "id": 1310153125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8326,3.61035,-74.8326,3.61035",
+    "geom:latitude":3.61035,
+    "geom:longitude":-74.8326,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73236.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"CO",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3739411,
+    "gn:latitude":3.61035,
+    "gn:longitude":-74.8326,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739411
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"14bb940151ea4bb16f6c5357da364e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701437,
+            "locality_id":1310153125,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310153125,
+    "wof:lastmodified":1537618683,
+    "wof:name":"San Andres",
+    "wof:parent_id":1108701437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8326,
+    3.61035,
+    -74.8326,
+    3.61035
+],
+  "geometry": {"coordinates":[-74.8326,3.61035],"type":"Point"}
+}

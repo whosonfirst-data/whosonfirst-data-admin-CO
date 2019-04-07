@@ -1,0 +1,68 @@
+{
+  "id": 1259443603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27361,3.75917,-76.27361,3.75917",
+    "geom:latitude":3.75917,
+    "geom:longitude":-76.27361,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76306.0",
+    "gn:asciiname":"Venecia",
+    "gn:country_code":"CO",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779252,
+    "gn:latitude":3.75917,
+    "gn:longitude":-76.27361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Venecia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421204845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779252
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"099687111a1ea26edc44f9c476d7f12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204845,
+            "locality_id":1259443603,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1259443603,
+    "wof:lastmodified":1536916803,
+    "wof:name":"Venecia",
+    "wof:parent_id":421204845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27360999999998,
+    3.75917,
+    -76.27360999999998,
+    3.75917
+],
+  "geometry": {"coordinates":[-76.27360999999998,3.75917],"type":"Point"}
+}

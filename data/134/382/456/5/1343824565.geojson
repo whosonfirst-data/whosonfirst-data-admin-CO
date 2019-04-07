@@ -1,0 +1,68 @@
+{
+  "id": 1343824565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.65417,7.18778,-73.65417,7.18778",
+    "geom:latitude":7.18778,
+    "geom:longitude":-73.65417,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68081.0",
+    "gn:asciiname":"Lamos",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678350,
+    "gn:latitude":7.18778,
+    "gn:longitude":-73.65417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Lamos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678350
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9650eea69d7837613eca56cba937e8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701195,
+            "locality_id":1343824565,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1343824565,
+    "wof:lastmodified":1536718892,
+    "wof:name":"Lamos",
+    "wof:parent_id":1108701195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.65417,
+    7.18778,
+    -73.65417,
+    7.18778
+],
+  "geometry": {"coordinates":[-73.65416999999999,7.18778],"type":"Point"}
+}

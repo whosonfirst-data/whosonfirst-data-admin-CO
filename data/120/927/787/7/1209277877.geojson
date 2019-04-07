@@ -1,0 +1,62 @@
+{
+  "id": 1209277877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.50528,11.49216,-72.50528,11.49216",
+    "geom:latitude":11.49216,
+    "geom:longitude":-72.50528,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Botonchon",
+    "gn:country_code":"CO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756452,
+    "gn:latitude":11.49216,
+    "gn:longitude":-72.50528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Botonch\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756452
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"30fa288f874016cddfa2866bd06a6e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209277877
+        }
+    ],
+    "wof:id":1209277877,
+    "wof:lastmodified":1536292128,
+    "wof:name":"Botonchon",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.50528,
+    11.49216,
+    -72.50528,
+    11.49216
+],
+  "geometry": {"coordinates":[-72.50528,11.49216],"type":"Point"}
+}

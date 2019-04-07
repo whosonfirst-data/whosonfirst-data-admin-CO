@@ -1,0 +1,157 @@
+{
+  "id": 421201811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.66995,4.37648,-74.66995,4.37648",
+    "geom:latitude":4.37648,
+    "geom:longitude":-74.66995,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:ceb_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u74dc\u5fb7\u8fea\u5967\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:eng_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u062f\u0648 \u062f\u0627\u06cc\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:fre_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d2\u10e3\u10d0-\u10d3\u10d4-\u10d3\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Aqua de Dios"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10e3\u10d0-\u10d3\u10d4-\u10d3\u10d8\u10dd\u10e1\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:msa_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:nan_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:nld_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u062f\u0648 \u062f\u0627\u06cc\u0648\u0632"
+    ],
+    "name:por_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:spa_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:swe_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:tgl_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627 \u062f \u062f\u0627\u06cc\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:war_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Agua de Dios"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u5fb7\u8fea\u5967\u65af"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3690429,
+    "qs:gn_pop":10875,
+    "qs:name":"Agua de Dios",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":158,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":214692,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":350484,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690429,
+        "gp:id":350484,
+        "qs:id":214692,
+        "wd:id":"Q1525734",
+        "wk:page":"Agua de Dios"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010088,
+    "wof:geomhash":"0fc6b8d793ce95756e526cb3d52059f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700617,
+            "locality_id":421201811,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421201811,
+    "wof:lastmodified":1527716433,
+    "wof:name":"Agua de Dios",
+    "wof:parent_id":1108700617,
+    "wof:placetype":"locality",
+    "wof:population":10875,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.66995,
+    4.37648,
+    -74.66995,
+    4.37648
+],
+  "geometry": {"coordinates":[-74.66995,4.37648],"type":"Point"}
+}

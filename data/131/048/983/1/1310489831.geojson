@@ -1,0 +1,68 @@
+{
+  "id": 1310489831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.39568,9.96303,-73.39568,9.96303",
+    "geom:latitude":9.96303,
+    "geom:longitude":-73.39568,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"Vayan Viendo",
+    "gn:country_code":"CO",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759754,
+    "gn:latitude":9.96303,
+    "gn:longitude":-73.39568,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vayan Viendo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759754
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6464fcf5e9eacdbe066f92286852db4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700525,
+            "locality_id":1310489831,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1310489831,
+    "wof:lastmodified":1536940230,
+    "wof:name":"Vayan Viendo",
+    "wof:parent_id":1108700525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39568,
+    9.96303,
+    -73.39568,
+    9.96303
+],
+  "geometry": {"coordinates":[-73.39568,9.96303],"type":"Point"}
+}

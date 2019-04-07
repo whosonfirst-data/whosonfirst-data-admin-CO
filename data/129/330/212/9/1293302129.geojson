@@ -1,0 +1,68 @@
+{
+  "id": 1293302129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98349,-1.52773,-71.98349,-1.52773",
+    "geom:latitude":-1.52773,
+    "geom:longitude":-71.98349,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91669.0",
+    "gn:asciiname":"Tolima B",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666948,
+    "gn:latitude":-1.52773,
+    "gn:longitude":-71.98349,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tolima B",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666948
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2693a6437efb6d77544d15320f11bf74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701597,
+            "locality_id":1293302129,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1293302129,
+    "wof:lastmodified":1537051927,
+    "wof:name":"Tolima B",
+    "wof:parent_id":1108701597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98349,
+    -1.52773,
+    -71.98349,
+    -1.52773
+],
+  "geometry": {"coordinates":[-71.98349,-1.52773],"type":"Point"}
+}

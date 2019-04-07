@@ -1,0 +1,71 @@
+{
+  "id": 1276449019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8079,6.93081,-71.8079,6.93081",
+    "geom:latitude":6.93081,
+    "geom:longitude":-71.8079,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81736.0",
+    "gn:asciiname":"Paso Flor Amarillo",
+    "gn:country_code":"CO",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10309537,
+    "gn:latitude":6.93081,
+    "gn:longitude":-71.8079,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Paso Flor Amarillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paso Flor Amarillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10309537
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5d801ba6ec82d0b7e37c7b63c5b5ff68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701521,
+            "locality_id":1276449019,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276449019,
+    "wof:lastmodified":1537618817,
+    "wof:name":"Paso Flor Amarillo",
+    "wof:parent_id":1108701521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8079,
+    6.93081,
+    -71.8079,
+    6.93081
+],
+  "geometry": {"coordinates":[-71.8079,6.93081],"type":"Point"}
+}

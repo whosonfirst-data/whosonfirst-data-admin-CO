@@ -1,0 +1,66 @@
+{
+  "id": 1209051295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.51996,9.07081,-74.51996,9.07081",
+    "geom:latitude":9.07081,
+    "geom:longitude":-74.51996,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13468.0",
+    "gn:asciiname":"Candelaria",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687639,
+    "gn:latitude":9.07081,
+    "gn:longitude":-74.51996,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Candelaria",
+        "Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687639
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"21421ffc24b43b7e6574570e75093f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209051295
+        }
+    ],
+    "wof:id":1209051295,
+    "wof:lastmodified":1537618633,
+    "wof:name":"Candelaria",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.51996,
+    9.07081,
+    -74.51996,
+    9.07081
+],
+  "geometry": {"coordinates":[-74.51996,9.07081],"type":"Point"}
+}

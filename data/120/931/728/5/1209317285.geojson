@@ -1,0 +1,65 @@
+{
+  "id": 1209317285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68829,6.49437,-75.68829,6.49437",
+    "geom:latitude":6.49437,
+    "geom:longitude":-75.68829,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5656.0",
+    "gn:asciiname":"Rastrojo Negro",
+    "gn:country_code":"CO",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8270313,
+    "gn:latitude":6.49437,
+    "gn:longitude":-75.68829,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rastrojo Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rastrojo Negro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8270313
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b4e4f7969f634b6e908f8b391afb19c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209317285
+        }
+    ],
+    "wof:id":1209317285,
+    "wof:lastmodified":1537618768,
+    "wof:name":"Rastrojo Negro",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68829000000002,
+    6.49437,
+    -75.68829000000002,
+    6.49437
+],
+  "geometry": {"coordinates":[-75.68829000000002,6.49437],"type":"Point"}
+}

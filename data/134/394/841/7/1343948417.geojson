@@ -1,0 +1,72 @@
+{
+  "id": 1343948417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65293,0.06853,-74.65293,0.06853",
+    "geom:latitude":0.06853,
+    "geom:longitude":-74.65293,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Inspeccion de Policia Lamana",
+    "gn:country_code":"CO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678503,
+    "gn:latitude":0.06853,
+    "gn:longitude":-74.65293,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Inspecci\u00f3n de Polic\u00eda Laman\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Man\u00e1",
+        "Inspecci\u00f3n de Polic\u00eda Laman\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678503
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd5719eedbd32269d8dcb3da6359327c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700425,
+            "locality_id":1343948417,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1343948417,
+    "wof:lastmodified":1537618514,
+    "wof:name":"Inspeccion de Policia Lamana",
+    "wof:parent_id":1108700425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65293,
+    0.06853,
+    -74.65293,
+    0.06853
+],
+  "geometry": {"coordinates":[-74.65293,0.06853],"type":"Point"}
+}

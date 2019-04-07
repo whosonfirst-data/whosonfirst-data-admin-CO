@@ -1,0 +1,68 @@
+{
+  "id": 1292969891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28333,8.46667,-73.28333,8.46667",
+    "geom:latitude":8.46667,
+    "geom:longitude":-73.28333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54800.0",
+    "gn:asciiname":"Enllanada",
+    "gn:country_code":"CO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682646,
+    "gn:latitude":8.46667,
+    "gn:longitude":-73.28333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Enllanada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682646
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cc4bcfea5be31bac73f3a7c00f085537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701151,
+            "locality_id":1292969891,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1292969891,
+    "wof:lastmodified":1537034804,
+    "wof:name":"Enllanada",
+    "wof:parent_id":1108701151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28333,
+    8.46667,
+    -73.28333,
+    8.46667
+],
+  "geometry": {"coordinates":[-73.28333000000001,8.46667],"type":"Point"}
+}

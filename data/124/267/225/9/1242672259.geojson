@@ -1,0 +1,71 @@
+{
+  "id": 1242672259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36098,1.39691,-75.36098,1.39691",
+    "geom:latitude":1.39691,
+    "geom:longitude":-75.36098,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18410.0",
+    "gn:asciiname":"La Nutria",
+    "gn:country_code":"CO",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305245,
+    "gn:latitude":1.39691,
+    "gn:longitude":-75.36098,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Nutria",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Nutria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305245
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"64aa2e3846a07f7c84fad9c7ebb07001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700413,
+            "locality_id":1242672259,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1242672259,
+    "wof:lastmodified":1537618770,
+    "wof:name":"La Nutria",
+    "wof:parent_id":1108700413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36098,
+    1.39691,
+    -75.36098,
+    1.39691
+],
+  "geometry": {"coordinates":[-75.36098,1.39691],"type":"Point"}
+}

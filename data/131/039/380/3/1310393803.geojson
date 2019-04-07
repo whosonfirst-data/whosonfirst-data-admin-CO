@@ -1,0 +1,68 @@
+{
+  "id": 1310393803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58389,9.81609,-73.58389,9.81609",
+    "geom:latitude":9.81609,
+    "geom:longitude":-73.58389,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20621.0",
+    "gn:asciiname":"Casezinc",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775890,
+    "gn:latitude":9.81609,
+    "gn:longitude":-73.58389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casezinc",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775890
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cfb7fc34657e04b255b2a581d3a9b9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":1310393803,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1310393803,
+    "wof:lastmodified":1537075026,
+    "wof:name":"Casezinc",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58389,
+    9.81609,
+    -73.58389,
+    9.81609
+],
+  "geometry": {"coordinates":[-73.58389,9.81609],"type":"Point"}
+}

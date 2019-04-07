@@ -1,0 +1,68 @@
+{
+  "id": 1293877613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87486,2.56238,-75.87486,2.56238",
+    "geom:latitude":2.56238,
+    "geom:longitude":-75.87486,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19517.0",
+    "gn:asciiname":"El Pepito",
+    "gn:country_code":"CO",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780860,
+    "gn:latitude":2.56238,
+    "gn:longitude":-75.87486,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Pepito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780860
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"611202010748a3624fd155f06748e3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700483,
+            "locality_id":1293877613,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1293877613,
+    "wof:lastmodified":1536722190,
+    "wof:name":"El Pepito",
+    "wof:parent_id":1108700483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87486,
+    2.56238,
+    -75.87486,
+    2.56238
+],
+  "geometry": {"coordinates":[-75.87486,2.56238],"type":"Point"}
+}

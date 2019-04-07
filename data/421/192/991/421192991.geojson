@@ -1,0 +1,102 @@
+{
+  "id": 421192991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-74.260797,6.722233,-74.260797,6.722233",
+    "geom:latitude":6.722233,
+    "geom:longitude":-74.260797,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:ile_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10dc\u10d3\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:por_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Yond\u00f3"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Yondo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":110,
+    "qs:photos_1k":22,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":354061,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796729,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":365,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26796729,
+        "qs:id":354061,
+        "wd:id":"Q1526021"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009755,
+    "wof:geomhash":"bdef81955a71a7bbf8f39daa4227dd5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192991,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421192991,
+    "wof:lastmodified":1527716108,
+    "wof:name":"Yondo",
+    "wof:parent_id":85670129,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.260797,
+    6.722233,
+    -74.260797,
+    6.722233
+],
+  "geometry": {"coordinates":[-74.260797,6.722233],"type":"Point"}
+}

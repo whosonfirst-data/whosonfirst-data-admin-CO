@@ -1,0 +1,71 @@
+{
+  "id": 1226620807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.3575,3.57111,-74.3575,3.57111",
+    "geom:latitude":3.57111,
+    "geom:longitude":-74.3575,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50370.0",
+    "gn:asciiname":"La Hoya de Varela",
+    "gn:country_code":"CO",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732984,
+    "gn:latitude":3.57111,
+    "gn:longitude":-74.3575,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Hoya de Varela",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hoya de Varela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732984
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b744cf6d29e38453419ded948309dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700945,
+            "locality_id":1226620807,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226620807,
+    "wof:lastmodified":1537618670,
+    "wof:name":"La Hoya de Varela",
+    "wof:parent_id":1108700945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3575,
+    3.57111,
+    -74.3575,
+    3.57111
+],
+  "geometry": {"coordinates":[-74.3575,3.57111],"type":"Point"}
+}

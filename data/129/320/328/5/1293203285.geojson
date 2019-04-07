@@ -1,0 +1,71 @@
+{
+  "id": 1293203285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5084,6.37077,-75.5084,6.37077",
+    "geom:latitude":6.37077,
+    "geom:longitude":-75.5084,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5212.0",
+    "gn:asciiname":"Vereda Vallecito",
+    "gn:country_code":"CO",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8266541,
+    "gn:latitude":6.37077,
+    "gn:longitude":-75.5084,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Vallecito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Vallecito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266541
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"33f56354fac5f356939d3175239b6519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188617,
+            "locality_id":1293203285,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293203285,
+    "wof:lastmodified":1537618768,
+    "wof:name":"Vereda Vallecito",
+    "wof:parent_id":421188617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5084,
+    6.37077,
+    -75.5084,
+    6.37077
+],
+  "geometry": {"coordinates":[-75.50839999999999,6.37077],"type":"Point"}
+}

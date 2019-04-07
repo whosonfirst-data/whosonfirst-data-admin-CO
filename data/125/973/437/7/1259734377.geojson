@@ -1,0 +1,70 @@
+{
+  "id": 1259734377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.00934,3.27889,-75.00934,3.27889",
+    "geom:latitude":3.27889,
+    "geom:longitude":-75.00934,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"El Tigre",
+    "gn:country_code":"CO",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736095,
+    "gn:latitude":3.27889,
+    "gn:longitude":-75.00934,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"El Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tigre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736095
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"855fb5b16d889ff476eff8bc7dc8b009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700805,
+            "locality_id":1259734377,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1259734377,
+    "wof:lastmodified":1537618678,
+    "wof:name":"El Tigre",
+    "wof:parent_id":1108700805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.00934000000002,
+    3.27889,
+    -75.00934000000002,
+    3.27889
+],
+  "geometry": {"coordinates":[-75.00934000000002,3.27889],"type":"Point"}
+}

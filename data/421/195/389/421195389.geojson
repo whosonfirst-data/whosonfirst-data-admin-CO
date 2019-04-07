@@ -1,0 +1,79 @@
+{
+  "id": 421195389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26135,10.78921,-75.26135,10.78921",
+    "geom:latitude":10.78921,
+    "geom:longitude":-75.26135,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Cartagenita"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3682229,
+    "qs:gn_pop":0,
+    "qs:name":"Galerazamba",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:photos":132,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":132,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150118,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368945,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682229,
+        "gp:id":368945,
+        "qs:id":150118
+    },
+    "wof:country":"CO",
+    "wof:created":1459009842,
+    "wof:geomhash":"2f8d0adaf2b8789a707273d8c2ff1356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700161,
+            "locality_id":421195389,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":421195389,
+    "wof:lastmodified":1501268462,
+    "wof:name":"Galerazamba",
+    "wof:parent_id":1108700161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26135,
+    10.78921,
+    -75.26135,
+    10.78921
+],
+  "geometry": {"coordinates":[-75.26134999999999,10.78921],"type":"Point"}
+}

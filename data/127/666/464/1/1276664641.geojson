@@ -1,0 +1,74 @@
+{
+  "id": 1276664641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.61492,6.22881,-71.61492,6.22881",
+    "geom:latitude":6.22881,
+    "geom:longitude":-71.61492,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81794.0",
+    "gn:asciiname":"Caserio Puerto San Salvador",
+    "gn:country_code":"CO",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668996,
+    "gn:latitude":6.22881,
+    "gn:longitude":-71.61492,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Puerto San Salvador",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto de San Salvador",
+        "Casanare",
+        "Caser\u00edo San Salvador",
+        "Caser\u00edo Puerto San Salvador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421181799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668996
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"da7838c8b17d4d16f9de97627048a9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181799,
+            "locality_id":1276664641,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276664641,
+    "wof:lastmodified":1537618393,
+    "wof:name":"Caserio Puerto San Salvador",
+    "wof:parent_id":421181799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.61492,
+    6.22881,
+    -71.61492,
+    6.22881
+],
+  "geometry": {"coordinates":[-71.61492,6.22881],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209194259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39647,9.02717,-75.39647,9.02717",
+    "geom:latitude":9.02717,
+    "geom:longitude":-75.39647,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23182.0",
+    "gn:asciiname":"Santa Cecilia",
+    "gn:country_code":"CO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668852,
+    "gn:latitude":9.02717,
+    "gn:longitude":-75.39647,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668852
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5ae9ba4a9c9a93bf80024ed277618103",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209194259
+        }
+    ],
+    "wof:id":1209194259,
+    "wof:lastmodified":1536294827,
+    "wof:name":"Santa Cecilia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39647,
+    9.02717,
+    -75.39647,
+    9.02717
+],
+  "geometry": {"coordinates":[-75.39646999999999,9.02717],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276119269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92406,7.00354,-71.92406,7.00354",
+    "geom:latitude":7.00354,
+    "geom:longitude":-71.92406,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81736.0",
+    "gn:asciiname":"Campo Oscuro",
+    "gn:country_code":"CO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687743,
+    "gn:latitude":7.00354,
+    "gn:longitude":-71.92406,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campo Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campo Oscuro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687743
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e06700e4870849de71de73cb9523c9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701521,
+            "locality_id":1276119269,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276119269,
+    "wof:lastmodified":1537618634,
+    "wof:name":"Campo Oscuro",
+    "wof:parent_id":1108701521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92406,
+    7.00354,
+    -71.92406,
+    7.00354
+],
+  "geometry": {"coordinates":[-71.92406,7.00354],"type":"Point"}
+}

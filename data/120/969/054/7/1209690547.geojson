@@ -1,0 +1,62 @@
+{
+  "id": 1209690547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87565,3.27793,-72.87565,3.27793",
+    "geom:latitude":3.27793,
+    "geom:longitude":-72.87565,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Cachama",
+    "gn:country_code":"CO",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7017915,
+    "gn:latitude":3.27793,
+    "gn:longitude":-72.87565,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cachama",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7017915
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"639b4c8bb8b66c0be864b3d1dc5c5e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209690547
+        }
+    ],
+    "wof:id":1209690547,
+    "wof:lastmodified":1536279258,
+    "wof:name":"Cachama",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87565,
+    3.2779300000000005,
+    -72.87565,
+    3.2779300000000005
+],
+  "geometry": {"coordinates":[-72.87564999999999,3.27793],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243340399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13695,8.68393,-75.13695,8.68393",
+    "geom:latitude":8.68393,
+    "geom:longitude":-75.13695,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Loma Persiana",
+    "gn:country_code":"CO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676442,
+    "gn:latitude":8.68393,
+    "gn:longitude":-75.13695,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Loma Persiana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676442
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dbd27f28265a1e32d6c52c1a5f121922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701415,
+            "locality_id":1243340399,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1243340399,
+    "wof:lastmodified":1536958488,
+    "wof:name":"Loma Persiana",
+    "wof:parent_id":1108701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13695,
+    8.68393,
+    -75.13695,
+    8.68393
+],
+  "geometry": {"coordinates":[-75.13695,8.68393],"type":"Point"}
+}

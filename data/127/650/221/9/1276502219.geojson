@@ -1,0 +1,68 @@
+{
+  "id": 1276502219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87472,5.33278,-75.87472,5.33278",
+    "geom:latitude":5.33278,
+    "geom:longitude":-75.87472,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66456.0",
+    "gn:asciiname":"La Robada",
+    "gn:country_code":"CO",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785252,
+    "gn:latitude":5.33278,
+    "gn:longitude":-75.87472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Robada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        1108701175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785252
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"af9ddb4655a08cde7d811a98c2a6c9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701175,
+            "locality_id":1276502219,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1276502219,
+    "wof:lastmodified":1537047886,
+    "wof:name":"La Robada",
+    "wof:parent_id":1108701175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87472,
+    5.33278,
+    -75.87472,
+    5.33278
+],
+  "geometry": {"coordinates":[-75.87472,5.33278],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226008315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.45,12.3,-71.45,12.3",
+    "geom:latitude":12.3,
+    "geom:longitude":-71.45,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Parash",
+    "gn:country_code":"CO",
+    "gn:dem":-20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672881,
+    "gn:latitude":12.3,
+    "gn:longitude":-71.45,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Parash",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672881
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"95b8fe8b4aca95ba222ebdae4bc4df77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1226008315,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226008315,
+    "wof:lastmodified":1536779793,
+    "wof:name":"Parash",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.45,
+    12.3,
+    -71.45,
+    12.3
+],
+  "geometry": {"coordinates":[-71.45,12.3],"type":"Point"}
+}

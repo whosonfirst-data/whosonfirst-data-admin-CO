@@ -1,0 +1,72 @@
+{
+  "id": 1326996833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.02159,6.31091,-73.02159,6.31091",
+    "geom:latitude":6.31091,
+    "geom:longitude":-73.02159,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68217.0",
+    "gn:asciiname":"La Laguna",
+    "gn:country_code":"CO",
+    "gn:dem":1755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732676,
+    "gn:latitude":6.31091,
+    "gn:longitude":-73.02159,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Leguna",
+        "La Laguna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732676
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8f1840d6db13eacc32ff0a84a8f53a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701233,
+            "locality_id":1326996833,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1326996833,
+    "wof:lastmodified":1537618669,
+    "wof:name":"La Laguna",
+    "wof:parent_id":1108701233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.02159,
+    6.31091,
+    -73.02159,
+    6.31091
+],
+  "geometry": {"coordinates":[-73.02159,6.31091],"type":"Point"}
+}

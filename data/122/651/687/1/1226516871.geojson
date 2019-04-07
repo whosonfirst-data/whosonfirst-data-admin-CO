@@ -1,0 +1,73 @@
+{
+  "id": 1226516871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71667,4.61667,-71.71667,4.61667",
+    "geom:latitude":4.61667,
+    "geom:longitude":-71.71667,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"La Fria",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678943,
+    "gn:latitude":4.61667,
+    "gn:longitude":-71.71667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Fr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Fr\u00edo",
+        "Frio",
+        "La Fr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678943
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fc78470fbae72a800088658d2704743f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701535,
+            "locality_id":1226516871,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1226516871,
+    "wof:lastmodified":1537618521,
+    "wof:name":"La Fria",
+    "wof:parent_id":1108701535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71667,
+    4.61667,
+    -71.71667,
+    4.61667
+],
+  "geometry": {"coordinates":[-71.71666999999999,4.61667],"type":"Point"}
+}

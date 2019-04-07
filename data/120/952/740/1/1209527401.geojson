@@ -1,0 +1,65 @@
+{
+  "id": 1209527401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63628,6.11201,-75.63628,6.11201",
+    "geom:latitude":6.11201,
+    "geom:longitude":-75.63628,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5380.0",
+    "gn:asciiname":"Sitio La Raya",
+    "gn:country_code":"CO",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337423,
+    "gn:latitude":6.11201,
+    "gn:longitude":-75.63628,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sitio La Raya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sitio La Raya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337423
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be54170b1b6aafc00ffad279c2a6e9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209527401
+        }
+    ],
+    "wof:id":1209527401,
+    "wof:lastmodified":1537618776,
+    "wof:name":"Sitio La Raya",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63628,
+    6.11201,
+    -75.63628,
+    6.11201
+],
+  "geometry": {"coordinates":[-75.63628,6.11201],"type":"Point"}
+}

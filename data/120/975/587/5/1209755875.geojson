@@ -1,0 +1,68 @@
+{
+  "id": 1209755875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.16969,7.04657,-72.16969,7.04657",
+    "geom:latitude":7.04657,
+    "geom:longitude":-72.16969,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15223.0",
+    "gn:asciiname":"Cedeno",
+    "gn:country_code":"CO",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757011,
+    "gn:latitude":7.04657,
+    "gn:longitude":-72.16969,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cede\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757011
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b84c55524e827b2a82423bc7d416f247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700229,
+            "locality_id":1209755875,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1209755875,
+    "wof:lastmodified":1536390690,
+    "wof:name":"Cedeno",
+    "wof:parent_id":1108700229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.16969,
+    7.04657,
+    -72.16969,
+    7.04657
+],
+  "geometry": {"coordinates":[-72.16969,7.04657],"type":"Point"}
+}

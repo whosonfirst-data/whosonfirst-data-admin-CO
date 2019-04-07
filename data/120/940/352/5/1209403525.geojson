@@ -1,0 +1,67 @@
+{
+  "id": 1209403525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88306,9.35361,-73.88306,9.35361",
+    "geom:latitude":9.35361,
+    "geom:longitude":-73.88306,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20175.0",
+    "gn:asciiname":"Mandinguilla",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675475,
+    "gn:latitude":9.35361,
+    "gn:longitude":-73.88306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mandinguilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Mandinguilla",
+        "Mandinguilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675475
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"977867904826dd59b6074b62305599a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209403525
+        }
+    ],
+    "wof:id":1209403525,
+    "wof:lastmodified":1537618465,
+    "wof:name":"Mandinguilla",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88306,
+    9.35361,
+    -73.88306,
+    9.35361
+],
+  "geometry": {"coordinates":[-73.88306,9.35361],"type":"Point"}
+}

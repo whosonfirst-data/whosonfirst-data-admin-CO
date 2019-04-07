@@ -1,0 +1,128 @@
+{
+  "id": 421166411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88429,4.14924,-74.88429,4.14924",
+    "geom:latitude":4.14924,
+    "geom:longitude":-74.88429,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u65af\u76ae\u7d0d\u723e"
+    ],
+    "name:dut_x_preferred":[
+        "Espinal"
+    ],
+    "name:eng_x_preferred":[
+        "El Espinal"
+    ],
+    "name:fre_x_preferred":[
+        "Espinal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10e1\u10de\u10d8\u10dc\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "El Espinal"
+    ],
+    "name:ita_x_preferred":[
+        "El Espinal"
+    ],
+    "name:lit_x_preferred":[
+        "Espinalis"
+    ],
+    "name:may_x_preferred":[
+        "Espinal"
+    ],
+    "name:nan_x_preferred":[
+        "Espinal"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0633\u067e\u06cc\u0646\u0627\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043f\u0438\u043d\u0430\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "El Espinal"
+    ],
+    "name:unk_x_variant":[
+        "El Espinal"
+    ],
+    "name:vie_x_preferred":[
+        "El Espinal"
+    ],
+    "name:war_x_preferred":[
+        "Espinal"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3682573,
+    "qs:gn_pop":56213,
+    "qs:name":"Espinal",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Tolima",
+    "qs:photos":68,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":68,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":266497,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":356391,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421184137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682573,
+        "gp:id":356391,
+        "qs:id":266497,
+        "wd:id":"Q2298176"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008689,
+    "wof:geomhash":"0023a253e623337cca78ab4f0c159906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184137,
+            "locality_id":421166411,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":421166411,
+    "wof:lastmodified":1513942122,
+    "wof:name":"Espinal",
+    "wof:parent_id":421184137,
+    "wof:placetype":"locality",
+    "wof:population":56213,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88429,
+    4.14924,
+    -74.88429,
+    4.14924
+],
+  "geometry": {"coordinates":[-74.88428999999999,4.14924],"type":"Point"}
+}

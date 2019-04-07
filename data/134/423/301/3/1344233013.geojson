@@ -1,0 +1,72 @@
+{
+  "id": 1344233013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,12.11667,-72.1,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Casimeche",
+    "gn:country_code":"CO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687099,
+    "gn:latitude":12.11667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casimeche",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casimech",
+        "Casimeche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687099
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"75bbf5701d5f754f35216f8154283583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1344233013,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1344233013,
+    "wof:lastmodified":1537618626,
+    "wof:name":"Casimeche",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    12.11667,
+    -72.1,
+    12.11667
+],
+  "geometry": {"coordinates":[-72.09999999999999,12.11667],"type":"Point"}
+}

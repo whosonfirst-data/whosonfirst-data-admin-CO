@@ -1,0 +1,71 @@
+{
+  "id": 1242881259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63756,6.86145,-70.63756,6.86145",
+    "geom:latitude":6.86145,
+    "geom:longitude":-70.63756,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"El Avelinero",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684950,
+    "gn:latitude":6.86145,
+    "gn:longitude":-70.63756,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Avelinero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Avelinero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684950
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"43c67b86ae786120f0166a97cf2fc7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1242881259,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1242881259,
+    "wof:lastmodified":1537618604,
+    "wof:name":"El Avelinero",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63756,
+    6.86145,
+    -70.63756,
+    6.86145
+],
+  "geometry": {"coordinates":[-70.63755999999999,6.86145],"type":"Point"}
+}

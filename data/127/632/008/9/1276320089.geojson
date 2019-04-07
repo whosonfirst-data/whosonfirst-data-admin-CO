@@ -1,0 +1,68 @@
+{
+  "id": 1276320089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61407,8.30927,-75.61407,8.30927",
+    "geom:latitude":8.30927,
+    "geom:longitude":-75.61407,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23555.0",
+    "gn:asciiname":"Maranonal",
+    "gn:country_code":"CO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675333,
+    "gn:latitude":8.30927,
+    "gn:longitude":-75.61407,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mara\u00f1onal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675333
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7937deac7e07cc955b6800bbf65d47f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700589,
+            "locality_id":1276320089,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1276320089,
+    "wof:lastmodified":1536796735,
+    "wof:name":"Maranonal",
+    "wof:parent_id":1108700589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61407,
+    8.30927,
+    -75.61407,
+    8.30927
+],
+  "geometry": {"coordinates":[-75.61407,8.30927],"type":"Point"}
+}

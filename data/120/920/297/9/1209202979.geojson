@@ -1,0 +1,62 @@
+{
+  "id": 1209202979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35907,10.02809,-73.35907,10.02809",
+    "geom:latitude":10.02809,
+    "geom:longitude":-73.35907,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"Bachan",
+    "gn:country_code":"CO",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559684,
+    "gn:latitude":10.02809,
+    "gn:longitude":-73.35907,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bach\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559684
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd7c2d22e1694800821c15ca63ab7bd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209202979
+        }
+    ],
+    "wof:id":1209202979,
+    "wof:lastmodified":1536294547,
+    "wof:name":"Bachan",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35906999999997,
+    10.02809,
+    -73.35906999999997,
+    10.02809
+],
+  "geometry": {"coordinates":[-73.35906999999997,10.02809],"type":"Point"}
+}

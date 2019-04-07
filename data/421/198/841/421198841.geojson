@@ -1,0 +1,116 @@
+{
+  "id": 421198841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48008,3.91423,-75.48008,3.91423",
+    "geom:latitude":3.91423,
+    "geom:longitude":-75.48008,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio"
+    ],
+    "name:may_x_preferred":[
+        "San Antonio"
+    ],
+    "name:nan_x_preferred":[
+        "San Antonio"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio"
+    ],
+    "name:war_x_preferred":[
+        "San Antonio"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3670162,
+    "qs:gn_pop":5185,
+    "qs:name":"San Antonio",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Tolima",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1206496,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368386,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670162,
+        "gp:id":368386,
+        "qs:id":1206496,
+        "wd:id":"Q1526235"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009963,
+    "wof:geomhash":"7a4ce32599dcb33f21acf45e51cb0004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701467,
+            "locality_id":421198841,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":421198841,
+    "wof:lastmodified":1513943448,
+    "wof:name":"San Antonio",
+    "wof:parent_id":1108701467,
+    "wof:placetype":"locality",
+    "wof:population":5185,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48008,
+    3.91423,
+    -75.48008,
+    3.91423
+],
+  "geometry": {"coordinates":[-75.48008,3.91423],"type":"Point"}
+}

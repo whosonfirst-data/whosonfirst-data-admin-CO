@@ -1,0 +1,71 @@
+{
+  "id": 1259433751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88028,3.41861,-74.88028,3.41861",
+    "geom:latitude":3.41861,
+    "geom:longitude":-74.88028,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73024.0",
+    "gn:asciiname":"Santana",
+    "gn:country_code":"CO",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828334,
+    "gn:latitude":3.41861,
+    "gn:longitude":-74.88028,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828334
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d67e75f635d4cf7d836d775a457f94b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701425,
+            "locality_id":1259433751,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259433751,
+    "wof:lastmodified":1537618699,
+    "wof:name":"Santana",
+    "wof:parent_id":1108701425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88028,
+    3.41861,
+    -74.88028,
+    3.41861
+],
+  "geometry": {"coordinates":[-74.88028,3.41861],"type":"Point"}
+}

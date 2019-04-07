@@ -1,0 +1,68 @@
+{
+  "id": 1293280611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03468,10.38014,-73.03468,10.38014",
+    "geom:latitude":10.38014,
+    "geom:longitude":-73.03468,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20443.0",
+    "gn:asciiname":"La Nueva Estrella",
+    "gn:country_code":"CO",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560790,
+    "gn:latitude":10.38014,
+    "gn:longitude":-73.03468,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Nueva Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560790
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"16a003c9e065b98dbc0dbea42112f255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700547,
+            "locality_id":1293280611,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293280611,
+    "wof:lastmodified":1537082107,
+    "wof:name":"La Nueva Estrella",
+    "wof:parent_id":1108700547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03468000000002,
+    10.38014,
+    -73.03468000000002,
+    10.38014
+],
+  "geometry": {"coordinates":[-73.03468000000002,10.38014],"type":"Point"}
+}

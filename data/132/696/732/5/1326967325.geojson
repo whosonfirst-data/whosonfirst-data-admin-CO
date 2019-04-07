@@ -1,0 +1,68 @@
+{
+  "id": 1326967325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.33667,3.99306,-68.33667,3.99306",
+    "geom:latitude":3.99306,
+    "geom:longitude":-68.33667,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Cejal",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794794,
+    "gn:latitude":3.99306,
+    "gn:longitude":-68.33667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cejal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794794
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e858cc42c14bcc8d4d2133316c1f802a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1326967325,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1326967325,
+    "wof:lastmodified":1536853080,
+    "wof:name":"Cejal",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.33667,
+    3.99306,
+    -68.33667,
+    3.99306
+],
+  "geometry": {"coordinates":[-68.33667,3.99306],"type":"Point"}
+}

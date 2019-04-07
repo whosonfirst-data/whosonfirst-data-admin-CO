@@ -1,0 +1,68 @@
+{
+  "id": 1276644811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38331,10.18035,-73.38331,10.18035",
+    "geom:latitude":10.18035,
+    "geom:longitude":-73.38331,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Villa Maria",
+    "gn:country_code":"CO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559736,
+    "gn:latitude":10.18035,
+    "gn:longitude":-73.38331,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559736
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"696687a0f0ec82fd734dcda789041572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1276644811,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276644811,
+    "wof:lastmodified":1536857228,
+    "wof:name":"Villa Maria",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38331,
+    10.18035,
+    -73.38331,
+    10.18035
+],
+  "geometry": {"coordinates":[-73.38330999999999,10.18035],"type":"Point"}
+}

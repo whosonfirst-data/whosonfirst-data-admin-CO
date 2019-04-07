@@ -1,0 +1,68 @@
+{
+  "id": 1242862975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.24098,10.3344,-73.24098,10.3344",
+    "geom:latitude":10.3344,
+    "geom:longitude":-73.24098,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20750.0",
+    "gn:asciiname":"Las Pitillas",
+    "gn:country_code":"CO",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560389,
+    "gn:latitude":10.3344,
+    "gn:longitude":-73.24098,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Pitillas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560389
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5125919738e8414f1e0187a289a528e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700557,
+            "locality_id":1242862975,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1242862975,
+    "wof:lastmodified":1536652497,
+    "wof:name":"Las Pitillas",
+    "wof:parent_id":1108700557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24098000000002,
+    10.3344,
+    -73.24098000000002,
+    10.3344
+],
+  "geometry": {"coordinates":[-73.24098000000002,10.3344],"type":"Point"}
+}

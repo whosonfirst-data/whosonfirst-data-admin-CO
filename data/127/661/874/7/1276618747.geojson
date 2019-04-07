@@ -1,0 +1,68 @@
+{
+  "id": 1276618747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.25066,1.23143,-77.25066,1.23143",
+    "geom:latitude":1.23143,
+    "geom:longitude":-77.25066,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52001.0",
+    "gn:asciiname":"Cujacal",
+    "gn:country_code":"CO",
+    "gn:dem":2819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685477,
+    "gn:latitude":1.23143,
+    "gn:longitude":-77.25066,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cujacal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421179665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685477
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a22300a08b6ea224f860ccd29759bc42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421179665,
+            "locality_id":1276618747,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276618747,
+    "wof:lastmodified":1536893404,
+    "wof:name":"Cujacal",
+    "wof:parent_id":421179665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.25066,
+    1.23143,
+    -77.25066,
+    1.23143
+],
+  "geometry": {"coordinates":[-77.25066,1.23143],"type":"Point"}
+}

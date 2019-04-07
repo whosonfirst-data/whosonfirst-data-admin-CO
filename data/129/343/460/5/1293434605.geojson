@@ -1,0 +1,72 @@
+{
+  "id": 1293434605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.00276,9.57244,-75.00276,9.57244",
+    "geom:latitude":9.57244,
+    "geom:longitude":-75.00276,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13244.0",
+    "gn:asciiname":"Mancomajan",
+    "gn:country_code":"CO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675488,
+    "gn:latitude":9.57244,
+    "gn:longitude":-75.00276,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mancomaj\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mancomojan",
+        "Mancomaj\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675488
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"44de3352c3cec6cda0046c9f8ede5d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700117,
+            "locality_id":1293434605,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293434605,
+    "wof:lastmodified":1537618465,
+    "wof:name":"Mancomajan",
+    "wof:parent_id":1108700117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.00276,
+    9.57244,
+    -75.00276,
+    9.57244
+],
+  "geometry": {"coordinates":[-75.00275999999999,9.57244],"type":"Point"}
+}

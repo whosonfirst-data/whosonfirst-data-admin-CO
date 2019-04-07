@@ -1,0 +1,67 @@
+{
+  "id": 1242637967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31667,4.5,-77.31667,4.5",
+    "geom:latitude":4.5,
+    "geom:longitude":-77.31667,
+    "gn:admin1_code":"29.0",
+    "gn:asciiname":"La Muerte",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3831003,
+    "gn:latitude":4.5,
+    "gn:longitude":-77.31667,
+    "gn:modification_date":"2005-12-05",
+    "gn:name":"La Muerte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3831003
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5f7400cc068a948203fd017d61840146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700765,
+            "locality_id":1242637967,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1242637967,
+    "wof:lastmodified":1536976477,
+    "wof:name":"La Muerte",
+    "wof:parent_id":1108700765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31667,
+    4.5,
+    -77.31667,
+    4.5
+],
+  "geometry": {"coordinates":[-77.31667,4.5],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243332815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2575,3.01861,-75.2575,3.01861",
+    "geom:latitude":3.01861,
+    "geom:longitude":-75.2575,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001.0",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"CO",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736230,
+    "gn:latitude":3.01861,
+    "gn:longitude":-75.2575,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736230
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3280f46e0e26b04ea512b2fe34855eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1243332815,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1243332815,
+    "wof:lastmodified":1536969239,
+    "wof:name":"La Mata",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2575,
+    3.01861,
+    -75.2575,
+    3.01861
+],
+  "geometry": {"coordinates":[-75.25749999999999,3.01861],"type":"Point"}
+}

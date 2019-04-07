@@ -1,0 +1,68 @@
+{
+  "id": 1310157393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.14889,5.56722,-74.14889,5.56722",
+    "geom:latitude":5.56722,
+    "geom:longitude":-74.14889,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15480.0",
+    "gn:asciiname":"Portachuelo",
+    "gn:country_code":"CO",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775243,
+    "gn:latitude":5.56722,
+    "gn:longitude":-74.14889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Portachuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775243
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4ded1e1be6b265d3e6973f680a570fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700277,
+            "locality_id":1310157393,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1310157393,
+    "wof:lastmodified":1536922491,
+    "wof:name":"Portachuelo",
+    "wof:parent_id":1108700277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.14889000000002,
+    5.56722,
+    -74.14889000000002,
+    5.56722
+],
+  "geometry": {"coordinates":[-74.14889000000002,5.56722],"type":"Point"}
+}

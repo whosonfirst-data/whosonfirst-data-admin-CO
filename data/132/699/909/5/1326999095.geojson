@@ -1,0 +1,68 @@
+{
+  "id": 1326999095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.47556,7.97917,-72.47556,7.97917",
+    "geom:latitude":7.97917,
+    "geom:longitude":-72.47556,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54001.0",
+    "gn:asciiname":"Mina de Carbon",
+    "gn:country_code":"CO",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759471,
+    "gn:latitude":7.97917,
+    "gn:longitude":-72.47556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mina de Carb\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759471
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3e34e02444ed602412f7231b7b2cc7a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701087,
+            "locality_id":1326999095,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1326999095,
+    "wof:lastmodified":1536808319,
+    "wof:name":"Mina de Carbon",
+    "wof:parent_id":1108701087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.47556,
+    7.97917,
+    -72.47556,
+    7.97917
+],
+  "geometry": {"coordinates":[-72.47556,7.97917],"type":"Point"}
+}

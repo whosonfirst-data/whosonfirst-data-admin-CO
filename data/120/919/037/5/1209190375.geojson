@@ -1,0 +1,62 @@
+{
+  "id": 1209190375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75591,12.20759,-71.75591,12.20759",
+    "geom:latitude":12.20759,
+    "geom:longitude":-71.75591,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Karimajaya",
+    "gn:country_code":"CO",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680039,
+    "gn:latitude":12.20759,
+    "gn:longitude":-71.75591,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Kar\u00edmajaya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680039
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1ecfc5a3b8efa905d5020dc1cc853e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209190375
+        }
+    ],
+    "wof:id":1209190375,
+    "wof:lastmodified":1536294955,
+    "wof:name":"Karimajaya",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75591,
+    12.20759,
+    -71.75591,
+    12.20759
+],
+  "geometry": {"coordinates":[-71.75591,12.20759],"type":"Point"}
+}

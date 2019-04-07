@@ -1,0 +1,68 @@
+{
+  "id": 1343470729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82333,6.70861,-75.82333,6.70861",
+    "geom:latitude":6.70861,
+    "geom:longitude":-75.82333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5411.0",
+    "gn:asciiname":"Palo Hueco",
+    "gn:country_code":"CO",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787625,
+    "gn:latitude":6.70861,
+    "gn:longitude":-75.82333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palo Hueco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787625
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9d0ce0c93660c283828d578305da5419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699973,
+            "locality_id":1343470729,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343470729,
+    "wof:lastmodified":1536731539,
+    "wof:name":"Palo Hueco",
+    "wof:parent_id":1108699973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82333,
+    6.70861,
+    -75.82333,
+    6.70861
+],
+  "geometry": {"coordinates":[-75.82333,6.70861],"type":"Point"}
+}

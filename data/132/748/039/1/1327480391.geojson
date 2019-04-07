@@ -1,0 +1,73 @@
+{
+  "id": 1327480391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33333,4.06667,-76.33333,4.06667",
+    "geom:latitude":4.06667,
+    "geom:longitude":-76.33333,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76616.0",
+    "gn:asciiname":"Portugal de Piedras",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671871,
+    "gn:latitude":4.06667,
+    "gn:longitude":-76.33333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Portugal de Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piedras",
+        "Portugal de Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671871
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8aab31b881e4e4573ef82d8c1334982f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701499,
+            "locality_id":1327480391,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327480391,
+    "wof:lastmodified":1537618428,
+    "wof:name":"Portugal de Piedras",
+    "wof:parent_id":1108701499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33333,
+    4.06667,
+    -76.33333,
+    4.06667
+],
+  "geometry": {"coordinates":[-76.33333,4.06667],"type":"Point"}
+}

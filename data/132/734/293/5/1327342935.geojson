@@ -1,0 +1,68 @@
+{
+  "id": 1327342935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.34447,-3.79313,-70.34447,-3.79313",
+    "geom:latitude":-3.79313,
+    "geom:longitude":-70.34447,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"91540",
+    "gn:asciiname":"Caserio El Chorro",
+    "gn:country_code":"CO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10344568,
+    "gn:latitude":-3.79313,
+    "gn:longitude":-70.34447,
+    "gn:modification_date":"2015-06-17",
+    "gn:name":"Caserio El Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        421202279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10344568
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"202f97c5ff599adf42f1ceed5e07218e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202279,
+            "locality_id":1327342935,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1327342935,
+    "wof:lastmodified":1536809489,
+    "wof:name":"Caserio El Chorro",
+    "wof:parent_id":421202279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.34447,
+    -3.79313,
+    -70.34447,
+    -3.79313
+],
+  "geometry": {"coordinates":[-70.34447,-3.79313],"type":"Point"}
+}

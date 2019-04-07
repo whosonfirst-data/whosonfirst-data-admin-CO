@@ -1,0 +1,68 @@
+{
+  "id": 1259606885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03087,10.85151,-75.03087,10.85151",
+    "geom:latitude":10.85151,
+    "geom:longitude":-75.03087,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8372.0",
+    "gn:asciiname":"Cano Nieto",
+    "gn:country_code":"CO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811898,
+    "gn:latitude":10.85151,
+    "gn:longitude":-75.03087,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1o Nieto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811898
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b8463aa9f96989635ca73eb9a65f48a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700059,
+            "locality_id":1259606885,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1259606885,
+    "wof:lastmodified":1536681055,
+    "wof:name":"Cano Nieto",
+    "wof:parent_id":1108700059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03087,
+    10.85151,
+    -75.03087,
+    10.85151
+],
+  "geometry": {"coordinates":[-75.03086999999999,10.85151],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209080355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39316,1.34338,-77.39316,1.34338",
+    "geom:latitude":1.34338,
+    "geom:longitude":-77.39316,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52260.0",
+    "gn:asciiname":"El Zanjon",
+    "gn:country_code":"CO",
+    "gn:dem":2521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7513938,
+    "gn:latitude":1.34338,
+    "gn:longitude":-77.39316,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Zanj\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7513938
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d47e491b3e1971c072dd08f9fada0b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209080355
+        }
+    ],
+    "wof:id":1209080355,
+    "wof:lastmodified":1536298358,
+    "wof:name":"El Zanjon",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39316,
+    1.34338,
+    -77.39316,
+    1.34338
+],
+  "geometry": {"coordinates":[-77.39315999999999,1.34338],"type":"Point"}
+}

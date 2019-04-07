@@ -1,0 +1,68 @@
+{
+  "id": 1293825679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93333,5.63333,-71.93333,5.63333",
+    "geom:latitude":5.63333,
+    "geom:longitude":-71.93333,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85263.0",
+    "gn:asciiname":"Boquepore",
+    "gn:country_code":"CO",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688603,
+    "gn:latitude":5.63333,
+    "gn:longitude":-71.93333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Boquepore",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688603
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fedcf21eda3d936541b7a37ea362cbad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701539,
+            "locality_id":1293825679,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1293825679,
+    "wof:lastmodified":1536796812,
+    "wof:name":"Boquepore",
+    "wof:parent_id":1108701539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93333,
+    5.63333,
+    -71.93333,
+    5.63333
+],
+  "geometry": {"coordinates":[-71.93333,5.63333],"type":"Point"}
+}

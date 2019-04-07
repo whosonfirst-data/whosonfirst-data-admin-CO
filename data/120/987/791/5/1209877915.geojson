@@ -1,0 +1,68 @@
+{
+  "id": 1209877915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.25262,2.01712,-78.25262,2.01712",
+    "geom:latitude":2.01712,
+    "geom:longitude":-78.25262,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52427.0",
+    "gn:asciiname":"Santander",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638780,
+    "gn:latitude":2.01712,
+    "gn:longitude":-78.25262,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santander",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638780
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9332764fd51e25365ff92514b8e67b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701035,
+            "locality_id":1209877915,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1209877915,
+    "wof:lastmodified":1536396381,
+    "wof:name":"Santander",
+    "wof:parent_id":1108701035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.25262,
+    2.01712,
+    -78.25262,
+    2.01712
+],
+  "geometry": {"coordinates":[-78.25261999999999,2.01712],"type":"Point"}
+}

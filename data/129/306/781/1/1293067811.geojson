@@ -1,0 +1,68 @@
+{
+  "id": 1293067811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04627,6.20742,-73.04627,6.20742",
+    "geom:latitude":6.20742,
+    "geom:longitude":-73.04627,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68217.0",
+    "gn:asciiname":"La Carrena",
+    "gn:country_code":"CO",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732779,
+    "gn:latitude":6.20742,
+    "gn:longitude":-73.04627,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Carre\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732779
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a3393c65ee8ea084de300b9ba71d8357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701233,
+            "locality_id":1293067811,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293067811,
+    "wof:lastmodified":1536895046,
+    "wof:name":"La Carrena",
+    "wof:parent_id":1108701233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04626999999998,
+    6.20742,
+    -73.04626999999998,
+    6.20742
+],
+  "geometry": {"coordinates":[-73.04626999999998,6.20742],"type":"Point"}
+}

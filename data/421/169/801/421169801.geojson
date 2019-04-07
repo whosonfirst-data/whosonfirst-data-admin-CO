@@ -1,0 +1,148 @@
+{
+  "id": 421169801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16851,4.82052,-73.16851,4.82052",
+    "geom:latitude":4.82052,
+    "geom:longitude":-73.16851,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613\u65af\u5fb7\u52a0\u585e\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:fra_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1-\u10d3\u10d4-\u10d2\u10d0\u10e1\u10d4\u10dc\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1-\u10d3\u10d4-\u10d2\u10d0\u10e1\u10d4\u10dc\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:msa_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:nan_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:nld_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:por_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:swe_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:tgl_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:unk_x_variant":[
+        "Gaceno"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:war_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Luis de Gaceno"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8def\u6613\u65af\u5fb7\u52a0\u585e\u8afe"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669355,
+    "qs:gn_pop":2579,
+    "qs:name":"San Luis de Gaceno",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":251704,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365788,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669355,
+        "gp:id":365788,
+        "qs:id":251704,
+        "wd:id":"Q1577001",
+        "wk:page":"San Luis de Gaceno"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008825,
+    "wof:geomhash":"0aab5942f49c470a071c288b6098144f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700313,
+            "locality_id":421169801,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421169801,
+    "wof:lastmodified":1527716175,
+    "wof:name":"San Luis de Gaceno",
+    "wof:parent_id":1108700313,
+    "wof:placetype":"locality",
+    "wof:population":2579,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16851,
+    4.82052,
+    -73.16851,
+    4.82052
+],
+  "geometry": {"coordinates":[-73.16851,4.82052],"type":"Point"}
+}

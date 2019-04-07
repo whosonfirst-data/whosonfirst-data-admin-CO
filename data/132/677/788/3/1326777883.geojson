@@ -1,0 +1,71 @@
+{
+  "id": 1326777883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74925,3.59695,-74.74925,3.59695",
+    "geom:latitude":3.59695,
+    "geom:longitude":-74.74925,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73236.0",
+    "gn:asciiname":"San Agustin",
+    "gn:country_code":"CO",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670258,
+    "gn:latitude":3.59695,
+    "gn:longitude":-74.74925,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Agust\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670258
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2747a5c561d98263c2a355f0dafbc073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701437,
+            "locality_id":1326777883,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1326777883,
+    "wof:lastmodified":1537618407,
+    "wof:name":"San Agustin",
+    "wof:parent_id":1108701437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74925,
+    3.59695,
+    -74.74925,
+    3.59695
+],
+  "geometry": {"coordinates":[-74.74925,3.59695],"type":"Point"}
+}

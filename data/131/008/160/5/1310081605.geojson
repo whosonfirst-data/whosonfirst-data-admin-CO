@@ -1,0 +1,68 @@
+{
+  "id": 1310081605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01542,11.56739,-72.01542,11.56739",
+    "geom:latitude":11.56739,
+    "geom:longitude":-72.01542,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Kamuchipa",
+    "gn:country_code":"CO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680058,
+    "gn:latitude":11.56739,
+    "gn:longitude":-72.01542,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Kamuchipa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680058
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b4c54e55e3b87cc807ee4e875a734814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1310081605,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1310081605,
+    "wof:lastmodified":1537029751,
+    "wof:name":"Kamuchipa",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01541999999998,
+    11.56739,
+    -72.01541999999998,
+    11.56739
+],
+  "geometry": {"coordinates":[-72.01541999999998,11.56739],"type":"Point"}
+}

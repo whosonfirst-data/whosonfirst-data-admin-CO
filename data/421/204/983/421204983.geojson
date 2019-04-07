@@ -1,0 +1,125 @@
+{
+  "id": 421204983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.26234,4.86048,-73.26234,4.86048",
+    "geom:latitude":4.86048,
+    "geom:longitude":-73.26234,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u91cc\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10db\u10d0\u10e0\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:may_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:tgl_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:war_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3668631,
+    "qs:gn_pop":2238,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":43,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":251736,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368407,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668631,
+        "gp:id":368407,
+        "qs:id":251736,
+        "wd:id":"Q2434307"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010208,
+    "wof:geomhash":"d73d1a0475cbb23cd01deed1f7af9032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700323,
+            "locality_id":421204983,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421204983,
+    "wof:lastmodified":1553816390,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":1108700323,
+    "wof:placetype":"locality",
+    "wof:population":2238,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.26234,
+    4.86048,
+    -73.26234,
+    4.86048
+],
+  "geometry": {"coordinates":[-73.26233999999999,4.86048],"type":"Point"}
+}

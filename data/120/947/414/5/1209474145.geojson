@@ -1,0 +1,61 @@
+{
+  "id": 1209474145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.97301,5.16352,-72.97301,5.16352",
+    "geom:latitude":5.16352,
+    "geom:longitude":-72.97301,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Sarasi",
+    "gn:country_code":"CO",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668260,
+    "gn:latitude":5.16352,
+    "gn:longitude":-72.97301,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Sarasi",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668260
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"889b669fd6a667ebd0fa48838edf36ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209474145
+        }
+    ],
+    "wof:id":1209474145,
+    "wof:lastmodified":1536285989,
+    "wof:name":"Sarasi",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.97301,
+    5.16352,
+    -72.97301,
+    5.16352
+],
+  "geometry": {"coordinates":[-72.97301,5.16352],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209275597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.8334,3.67309,-74.8334,3.67309",
+    "geom:latitude":3.67309,
+    "geom:longitude":-74.8334,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73563.0",
+    "gn:asciiname":"El Recreo",
+    "gn:country_code":"CO",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8577707,
+    "gn:latitude":3.67309,
+    "gn:longitude":-74.8334,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Recreo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Recreo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577707
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a93c4a4be3e4c1ada3e8c730a24cb97f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209275597
+        }
+    ],
+    "wof:id":1209275597,
+    "wof:lastmodified":1537618789,
+    "wof:name":"El Recreo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.8334,
+    3.67309,
+    -74.8334,
+    3.67309
+],
+  "geometry": {"coordinates":[-74.8334,3.67309],"type":"Point"}
+}

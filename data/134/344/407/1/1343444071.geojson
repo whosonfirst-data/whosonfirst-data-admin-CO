@@ -1,0 +1,68 @@
+{
+  "id": 1343444071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63219,2.53311,-72.63219,2.53311",
+    "geom:latitude":2.53311,
+    "geom:longitude":-72.63219,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"95001.0",
+    "gn:asciiname":"La Tigrera",
+    "gn:country_code":"CO",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733495,
+    "gn:latitude":2.53311,
+    "gn:longitude":-72.63219,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Tigrera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        421203263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733495
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aad5d5c279f5c2cae5b51217be2cc40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203263,
+            "locality_id":1343444071,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1343444071,
+    "wof:lastmodified":1536770424,
+    "wof:name":"La Tigrera",
+    "wof:parent_id":421203263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63219000000002,
+    2.53311,
+    -72.63219000000002,
+    2.53311
+],
+  "geometry": {"coordinates":[-72.63219000000002,2.53311],"type":"Point"}
+}

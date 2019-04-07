@@ -1,0 +1,117 @@
+{
+  "id": 421172471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.75328,4.20741,-73.75328,4.20741",
+    "geom:latitude":4.20741,
+    "geom:longitude":-73.75328,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:fra_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:ita_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10d8\u10d0\u10d1\u10d4\u10e2\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:nld_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:sco_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:spa_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:swe_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:tgl_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:vie_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:war_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Guayabetal"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4e9e\u8c9d\u5854\u723e"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Guayabetal",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1311398,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797089,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26797089,
+        "qs:id":1311398,
+        "wd:id":"Q1656121"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008943,
+    "wof:geomhash":"94cd71fb812ff445717812c77af44392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172471,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421172471,
+    "wof:lastmodified":1527716300,
+    "wof:name":"Guayabetal",
+    "wof:parent_id":85670255,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75328,
+    4.20741,
+    -73.75328,
+    4.20741
+],
+  "geometry": {"coordinates":[-73.75328,4.20741],"type":"Point"}
+}

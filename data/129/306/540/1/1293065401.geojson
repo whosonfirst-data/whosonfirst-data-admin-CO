@@ -1,0 +1,68 @@
+{
+  "id": 1293065401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49278,8.23194,-72.49278,8.23194",
+    "geom:latitude":8.23194,
+    "geom:longitude":-72.49278,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54001.0",
+    "gn:asciiname":"Campo Zulia",
+    "gn:country_code":"CO",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738414,
+    "gn:latitude":8.23194,
+    "gn:longitude":-72.49278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campo Zulia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738414
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c8768060e0d8a64a9034b59d55f0956a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701087,
+            "locality_id":1293065401,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1293065401,
+    "wof:lastmodified":1536898728,
+    "wof:name":"Campo Zulia",
+    "wof:parent_id":1108701087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49278000000002,
+    8.23194,
+    -72.49278000000002,
+    8.23194
+],
+  "geometry": {"coordinates":[-72.49278000000002,8.23194],"type":"Point"}
+}

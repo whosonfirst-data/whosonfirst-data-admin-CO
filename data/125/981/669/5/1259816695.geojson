@@ -1,0 +1,68 @@
+{
+  "id": 1259816695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.58789,5.41753,-70.58789,5.41753",
+    "geom:latitude":5.41753,
+    "geom:longitude":-70.58789,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99524.0",
+    "gn:asciiname":"Puerto Mister",
+    "gn:country_code":"CO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671397,
+    "gn:latitude":5.41753,
+    "gn:longitude":-70.58789,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Mister",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671397
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0817bd255c4f684ddf5c78d4e9230b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701643,
+            "locality_id":1259816695,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1259816695,
+    "wof:lastmodified":1536874537,
+    "wof:name":"Puerto Mister",
+    "wof:parent_id":1108701643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.58789,
+    5.41753,
+    -70.58789,
+    5.41753
+],
+  "geometry": {"coordinates":[-70.58789,5.41753],"type":"Point"}
+}

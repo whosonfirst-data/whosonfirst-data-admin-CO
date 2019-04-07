@@ -1,0 +1,68 @@
+{
+  "id": 1344206319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24778,5.55537,-72.24778,5.55537",
+    "geom:latitude":5.55537,
+    "geom:longitude":-72.24778,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85225.0",
+    "gn:asciiname":"Paso La Ramada",
+    "gn:country_code":"CO",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672791,
+    "gn:latitude":5.55537,
+    "gn:longitude":-72.24778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Paso La Ramada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672791
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b5aad57985711768e2c59238ee938e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701533,
+            "locality_id":1344206319,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1344206319,
+    "wof:lastmodified":1536665275,
+    "wof:name":"Paso La Ramada",
+    "wof:parent_id":1108701533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24778,
+    5.55537,
+    -72.24778,
+    5.55537
+],
+  "geometry": {"coordinates":[-72.24778000000001,5.55537],"type":"Point"}
+}

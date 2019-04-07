@@ -1,0 +1,71 @@
+{
+  "id": 1343508531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1025,3.61,-75.1025,3.61",
+    "geom:latitude":3.61,
+    "geom:longitude":-75.1025,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73483.0",
+    "gn:asciiname":"Los Olivos",
+    "gn:country_code":"CO",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782827,
+    "gn:latitude":3.61,
+    "gn:longitude":-75.1025,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Olivos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Olivos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782827
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0b23109040d139fbb41a9c16cf0a0484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701447,
+            "locality_id":1343508531,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1343508531,
+    "wof:lastmodified":1537618691,
+    "wof:name":"Los Olivos",
+    "wof:parent_id":1108701447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1025,
+    3.61,
+    -75.1025,
+    3.61
+],
+  "geometry": {"coordinates":[-75.10250000000001,3.61],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193096297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.54229,5.44333,-71.54229,5.44333",
+    "geom:latitude":5.44333,
+    "geom:longitude":-71.54229,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85430.0",
+    "gn:asciiname":"Villa Blanca",
+    "gn:country_code":"CO",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666019,
+    "gn:latitude":5.44333,
+    "gn:longitude":-71.54229,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666019
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a2b5e3c3bd56df869547271c31f895bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701555,
+            "locality_id":1193096297,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1193096297,
+    "wof:lastmodified":1536365759,
+    "wof:name":"Villa Blanca",
+    "wof:parent_id":1108701555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.54229000000002,
+    5.44333,
+    -71.54229000000002,
+    5.44333
+],
+  "geometry": {"coordinates":[-71.54229000000002,5.44333],"type":"Point"}
+}

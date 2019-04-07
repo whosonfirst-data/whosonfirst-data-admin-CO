@@ -1,0 +1,70 @@
+{
+  "id": 1343465681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.6438,6.62666,-70.6438,6.62666",
+    "geom:latitude":6.62666,
+    "geom:longitude":-70.6438,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Negro Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11403640,
+    "gn:latitude":6.62666,
+    "gn:longitude":-70.6438,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Negro Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Negro Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11403640
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6e0afd8d4677d555771e1675510fd879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1343465681,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1343465681,
+    "wof:lastmodified":1537618846,
+    "wof:name":"Negro Viejo",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.6438,
+    6.62666,
+    -70.6438,
+    6.62666
+],
+  "geometry": {"coordinates":[-70.6438,6.62666],"type":"Point"}
+}

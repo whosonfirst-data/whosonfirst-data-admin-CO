@@ -1,0 +1,68 @@
+{
+  "id": 1277126913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93722,4.20639,-75.93722,4.20639",
+    "geom:latitude":4.20639,
+    "geom:longitude":-75.93722,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76736.0",
+    "gn:asciiname":"La Coqueta",
+    "gn:country_code":"CO",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3768944,
+    "gn:latitude":4.20639,
+    "gn:longitude":-75.93722,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Coqueta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3768944
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"21a4ff6b16717e1121b51a9a8082d568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188713,
+            "locality_id":1277126913,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1277126913,
+    "wof:lastmodified":1536704388,
+    "wof:name":"La Coqueta",
+    "wof:parent_id":421188713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93722,
+    4.20639,
+    -75.93722,
+    4.20639
+],
+  "geometry": {"coordinates":[-75.93722,4.20639],"type":"Point"}
+}

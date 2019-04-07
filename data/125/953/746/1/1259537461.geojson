@@ -1,0 +1,68 @@
+{
+  "id": 1259537461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.77037,5.24682,-73.77037,5.24682",
+    "geom:latitude":5.24682,
+    "geom:longitude":-73.77037,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25224.0",
+    "gn:asciiname":"El Salitre",
+    "gn:country_code":"CO",
+    "gn:dem":2551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683095,
+    "gn:latitude":5.24682,
+    "gn:longitude":-73.77037,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Salitre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421203441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683095
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ea24dcb5344b4fca8288213de42bdc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203441,
+            "locality_id":1259537461,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1259537461,
+    "wof:lastmodified":1536781764,
+    "wof:name":"El Salitre",
+    "wof:parent_id":421203441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.77037,
+    5.24682,
+    -73.77037,
+    5.24682
+],
+  "geometry": {"coordinates":[-73.77037,5.24682],"type":"Point"}
+}

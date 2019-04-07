@@ -1,0 +1,62 @@
+{
+  "id": 1209471461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15653,6.95216,-73.15653,6.95216",
+    "geom:latitude":6.95216,
+    "geom:longitude":-73.15653,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68307.0",
+    "gn:asciiname":"Chocoa",
+    "gn:country_code":"CO",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686428,
+    "gn:latitude":6.95216,
+    "gn:longitude":-73.15653,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chocoa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686428
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f1fa97c11eed8600c6f5ef3b9e858cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209471461
+        }
+    ],
+    "wof:id":1209471461,
+    "wof:lastmodified":1536286068,
+    "wof:name":"Chocoa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15653,
+    6.952160000000001,
+    -73.15653,
+    6.952160000000001
+],
+  "geometry": {"coordinates":[-73.15653,6.95216],"type":"Point"}
+}

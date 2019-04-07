@@ -1,0 +1,72 @@
+{
+  "id": 1360036619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.30257,10.10257,-74.30257,10.10257",
+    "geom:latitude":10.10257,
+    "geom:longitude":-74.30257,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47660.0",
+    "gn:asciiname":"Mateguineo",
+    "gn:country_code":"CO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675071,
+    "gn:latitude":10.10257,
+    "gn:longitude":-74.30257,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mateguineo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mataguineo",
+        "Mateguineo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675071
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"453689e282d987e5f25a1e143eebed2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700905,
+            "locality_id":1360036619,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1360036619,
+    "wof:lastmodified":1537618461,
+    "wof:name":"Mateguineo",
+    "wof:parent_id":1108700905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.30256999999997,
+    10.10257,
+    -74.30256999999997,
+    10.10257
+],
+  "geometry": {"coordinates":[-74.30256999999997,10.10257],"type":"Point"}
+}

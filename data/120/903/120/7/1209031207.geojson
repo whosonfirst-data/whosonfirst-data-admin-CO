@@ -1,0 +1,62 @@
+{
+  "id": 1209031207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85861,4.34111,-70.85861,4.34111",
+    "geom:latitude":4.34111,
+    "geom:longitude":-70.85861,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Guatena",
+    "gn:country_code":"CO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3829473,
+    "gn:latitude":4.34111,
+    "gn:longitude":-70.85861,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guatena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829473
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"15b3d0915d8860cc935e0afabba7614e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209031207
+        }
+    ],
+    "wof:id":1209031207,
+    "wof:lastmodified":1536299845,
+    "wof:name":"Guatena",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85861,
+    4.34111,
+    -70.85861,
+    4.34111
+],
+  "geometry": {"coordinates":[-70.85861,4.34111],"type":"Point"}
+}

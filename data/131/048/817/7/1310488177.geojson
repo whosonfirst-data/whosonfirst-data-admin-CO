@@ -1,0 +1,67 @@
+{
+  "id": 1310488177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27567,8.80293,-75.27567,8.80293",
+    "geom:latitude":8.80293,
+    "geom:longitude":-75.27567,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cayo Delgado",
+    "gn:country_code":"CO",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687007,
+    "gn:latitude":8.80293,
+    "gn:longitude":-75.27567,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Cayo Delgado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687007
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4f9f70438798626a730877069210b259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701397,
+            "locality_id":1310488177,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1310488177,
+    "wof:lastmodified":1536942502,
+    "wof:name":"Cayo Delgado",
+    "wof:parent_id":1108701397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27566999999998,
+    8.80293,
+    -75.27566999999998,
+    8.80293
+],
+  "geometry": {"coordinates":[-75.27566999999998,8.80293],"type":"Point"}
+}

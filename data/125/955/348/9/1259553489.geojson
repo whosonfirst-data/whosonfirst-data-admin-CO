@@ -1,0 +1,72 @@
+{
+  "id": 1259553489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.8632,3.92421,-67.8632,3.92421",
+    "geom:latitude":3.92421,
+    "geom:longitude":-67.8632,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"Guaviare",
+    "gn:country_code":"CO",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681345,
+    "gn:latitude":3.92421,
+    "gn:longitude":-67.8632,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guaviare",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u0432\u0438\u0430\u0440"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681345,
+        "wk:page":"Guaviare%2C_Guain%C3%ADa"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c7bef31b72fd46c2a78f0a513ae9865e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701605,
+            "locality_id":1259553489,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1259553489,
+    "wof:lastmodified":1537618549,
+    "wof:name":"Guaviare",
+    "wof:parent_id":1108701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.8632,
+    3.92421,
+    -67.8632,
+    3.92421
+],
+  "geometry": {"coordinates":[-67.86320000000001,3.92421],"type":"Point"}
+}

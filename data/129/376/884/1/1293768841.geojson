@@ -1,0 +1,71 @@
+{
+  "id": 1293768841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93003,1.07723,-75.93003,1.07723",
+    "geom:latitude":1.07723,
+    "geom:longitude":-75.93003,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18205.0",
+    "gn:asciiname":"Los Cambulos",
+    "gn:country_code":"CO",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541882,
+    "gn:latitude":1.07723,
+    "gn:longitude":-75.93003,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los C\u00e1mbulos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los C\u00e1mbulos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541882
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c15befb760cd6936df5aba70cfe5b5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700407,
+            "locality_id":1293768841,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1293768841,
+    "wof:lastmodified":1537618739,
+    "wof:name":"Los Cambulos",
+    "wof:parent_id":1108700407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93003,
+    1.07723,
+    -75.93003,
+    1.07723
+],
+  "geometry": {"coordinates":[-75.93003,1.07723],"type":"Point"}
+}

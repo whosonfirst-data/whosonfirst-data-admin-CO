@@ -1,0 +1,62 @@
+{
+  "id": 1209590141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56821,3.3809,-73.56821,3.3809",
+    "geom:latitude":3.3809,
+    "geom:longitude":-73.56821,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50287.0",
+    "gn:asciiname":"Puerto Boca de Irique",
+    "gn:country_code":"CO",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827739,
+    "gn:latitude":3.3809,
+    "gn:longitude":-73.56821,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Boca de Iriqu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827739
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"543c2c4fac533cedfe3ef15f4ecfe02a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209590141
+        }
+    ],
+    "wof:id":1209590141,
+    "wof:lastmodified":1536282507,
+    "wof:name":"Puerto Boca de Irique",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56821,
+    3.3809,
+    -73.56821,
+    3.3809
+],
+  "geometry": {"coordinates":[-73.56820999999999,3.3809],"type":"Point"}
+}

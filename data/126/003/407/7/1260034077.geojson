@@ -1,0 +1,68 @@
+{
+  "id": 1260034077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.22395,9.37561,-75.22395,9.37561",
+    "geom:latitude":9.37561,
+    "geom:longitude":-75.22395,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70418.0",
+    "gn:asciiname":"Los Chiqueros",
+    "gn:country_code":"CO",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676231,
+    "gn:latitude":9.37561,
+    "gn:longitude":-75.22395,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Chiqueros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676231
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d3c8517200444c8bdcbb726df5e5615a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701399,
+            "locality_id":1260034077,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1260034077,
+    "wof:lastmodified":1537056817,
+    "wof:name":"Los Chiqueros",
+    "wof:parent_id":1108701399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.22395,
+    9.37561,
+    -75.22395,
+    9.37561
+],
+  "geometry": {"coordinates":[-75.22395,9.37561],"type":"Point"}
+}

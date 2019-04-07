@@ -1,0 +1,71 @@
+{
+  "id": 1344159695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6075,6.35325,-75.6075,6.35325",
+    "geom:latitude":6.35325,
+    "geom:longitude":-75.6075,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5088.0",
+    "gn:asciiname":"Emilia",
+    "gn:country_code":"CO",
+    "gn:dem":2463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8266034,
+    "gn:latitude":6.35325,
+    "gn:longitude":-75.6075,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Emilia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Emilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8266034
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f1b4a9612b152d69629291f8e4fde7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205075,
+            "locality_id":1344159695,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1344159695,
+    "wof:lastmodified":1537618768,
+    "wof:name":"Emilia",
+    "wof:parent_id":421205075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6075,
+    6.35325,
+    -75.6075,
+    6.35325
+],
+  "geometry": {"coordinates":[-75.6075,6.35325],"type":"Point"}
+}

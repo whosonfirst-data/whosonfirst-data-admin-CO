@@ -1,0 +1,68 @@
+{
+  "id": 1242831047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23139,7.47222,-73.23139,7.47222",
+    "geom:latitude":7.47222,
+    "geom:longitude":-73.23139,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68255.0",
+    "gn:asciiname":"Tres Portones",
+    "gn:country_code":"CO",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732046,
+    "gn:latitude":7.47222,
+    "gn:longitude":-73.23139,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tres Portones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732046
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be42460845655a67d57cb854f2f9ba9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701245,
+            "locality_id":1242831047,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1242831047,
+    "wof:lastmodified":1536699049,
+    "wof:name":"Tres Portones",
+    "wof:parent_id":1108701245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23139,
+    7.47222,
+    -73.23139,
+    7.47222
+],
+  "geometry": {"coordinates":[-73.23139,7.47222],"type":"Point"}
+}

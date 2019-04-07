@@ -1,0 +1,73 @@
+{
+  "id": 1310156935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73333,9.51667,-74.73333,9.51667",
+    "geom:latitude":9.51667,
+    "geom:longitude":-74.73333,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47720.0",
+    "gn:asciiname":"Palmas de Vino",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673186,
+    "gn:latitude":9.51667,
+    "gn:longitude":-74.73333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmas de Vino",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Palmas de Vino",
+        "Palmas de Vino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673186
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"068171754fe8e14cf4574651b2fb5f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700913,
+            "locality_id":1310156935,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1310156935,
+    "wof:lastmodified":1537618443,
+    "wof:name":"Palmas de Vino",
+    "wof:parent_id":1108700913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73333000000002,
+    9.51667,
+    -74.73333000000002,
+    9.51667
+],
+  "geometry": {"coordinates":[-74.73333000000002,9.51667],"type":"Point"}
+}

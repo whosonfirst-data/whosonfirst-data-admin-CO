@@ -1,0 +1,62 @@
+{
+  "id": 1209477295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63771,2.92004,-73.63771,2.92004",
+    "geom:latitude":2.92004,
+    "geom:longitude":-73.63771,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50711.0",
+    "gn:asciiname":"Caserio Bajo Guani",
+    "gn:country_code":"CO",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7015726,
+    "gn:latitude":2.92004,
+    "gn:longitude":-73.63771,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Bajo Guani",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7015726
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e9638aea351dbb284f334c1dbf016c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209477295
+        }
+    ],
+    "wof:id":1209477295,
+    "wof:lastmodified":1536285895,
+    "wof:name":"Caserio Bajo Guani",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63771,
+    2.92004,
+    -73.63771,
+    2.92004
+],
+  "geometry": {"coordinates":[-73.63771,2.92004],"type":"Point"}
+}

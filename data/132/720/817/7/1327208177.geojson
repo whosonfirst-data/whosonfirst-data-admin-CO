@@ -1,0 +1,68 @@
+{
+  "id": 1327208177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.60117,1.1671,-77.60117,1.1671",
+    "geom:latitude":1.1671,
+    "geom:longitude":-77.60117,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52838.0",
+    "gn:asciiname":"Guanama Grande",
+    "gn:country_code":"CO",
+    "gn:dem":3109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626718,
+    "gn:latitude":1.1671,
+    "gn:longitude":-77.60117,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guanama Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421184335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626718
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f016ee6a7558b2f72ae2e7288e64405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184335,
+            "locality_id":1327208177,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327208177,
+    "wof:lastmodified":1537003920,
+    "wof:name":"Guanama Grande",
+    "wof:parent_id":421184335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.60117,
+    1.1671,
+    -77.60117,
+    1.1671
+],
+  "geometry": {"coordinates":[-77.60117,1.1671],"type":"Point"}
+}

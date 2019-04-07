@@ -1,0 +1,70 @@
+{
+  "id": 1343694857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.81537,5.05355,-67.81537,5.05355",
+    "geom:latitude":5.05355,
+    "geom:longitude":-67.81537,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Acapulco en Orinoco",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402853,
+    "gn:latitude":5.05355,
+    "gn:longitude":-67.81537,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Acapulco en Orinoco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Acapulco en Orinoco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402853
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"48ed8eb83b7e60191d2e9cc90a730a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1343694857,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1343694857,
+    "wof:lastmodified":1537618845,
+    "wof:name":"Acapulco en Orinoco",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.81537,
+    5.05355,
+    -67.81537,
+    5.05355
+],
+  "geometry": {"coordinates":[-67.81537,5.05355],"type":"Point"}
+}

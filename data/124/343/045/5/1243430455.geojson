@@ -1,0 +1,68 @@
+{
+  "id": 1243430455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43861,11.73917,-72.43861,11.73917",
+    "geom:latitude":11.73917,
+    "geom:longitude":-72.43861,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Mantirramahana",
+    "gn:country_code":"CO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675425,
+    "gn:latitude":11.73917,
+    "gn:longitude":-72.43861,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mantirramahana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675425
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"82c07249acfef8d04c74964d41192b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1243430455,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1243430455,
+    "wof:lastmodified":1536827630,
+    "wof:name":"Mantirramahana",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43861,
+    11.73917,
+    -72.43861,
+    11.73917
+],
+  "geometry": {"coordinates":[-72.43861,11.73917],"type":"Point"}
+}

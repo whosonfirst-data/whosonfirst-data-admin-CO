@@ -1,0 +1,72 @@
+{
+  "id": 1193076931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.67017,6.21368,-72.67017,6.21368",
+    "geom:latitude":6.21368,
+    "geom:longitude":-72.67017,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15774.0",
+    "gn:asciiname":"Hacienda Ventorrillo",
+    "gn:country_code":"CO",
+    "gn:dem":2811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681049,
+    "gn:latitude":6.21368,
+    "gn:longitude":-72.67017,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Ventorrillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Venturillo",
+        "Hacienda Ventorrillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681049
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7fd2de6282e09e43d9a91770f2837d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700345,
+            "locality_id":1193076931,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1193076931,
+    "wof:lastmodified":1537618547,
+    "wof:name":"Hacienda Ventorrillo",
+    "wof:parent_id":1108700345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.67017,
+    6.21368,
+    -72.67017,
+    6.21368
+],
+  "geometry": {"coordinates":[-72.67017,6.21368],"type":"Point"}
+}

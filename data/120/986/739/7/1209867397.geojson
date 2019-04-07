@@ -1,0 +1,72 @@
+{
+  "id": 1209867397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.50791,10.07695,-74.50791,10.07695",
+    "geom:latitude":10.07695,
+    "geom:longitude":-74.50791,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47170.0",
+    "gn:asciiname":"El Agasajo",
+    "gn:country_code":"CO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685035,
+    "gn:latitude":10.07695,
+    "gn:longitude":-74.50791,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Agasajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda El Agasajo",
+        "El Agasajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685035
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5217e9f9674ee13eaa61d97594f6211e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700879,
+            "locality_id":1209867397,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1209867397,
+    "wof:lastmodified":1537618606,
+    "wof:name":"El Agasajo",
+    "wof:parent_id":1108700879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.50791,
+    10.07695,
+    -74.50791,
+    10.07695
+],
+  "geometry": {"coordinates":[-74.50791,10.07695],"type":"Point"}
+}

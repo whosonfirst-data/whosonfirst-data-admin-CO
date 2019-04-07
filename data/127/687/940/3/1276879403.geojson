@@ -1,0 +1,67 @@
+{
+  "id": 1276879403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28736,7.02702,-71.28736,7.02702",
+    "geom:latitude":7.02702,
+    "geom:longitude":-71.28736,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rio Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670712,
+    "gn:latitude":7.02702,
+    "gn:longitude":-71.28736,
+    "gn:modification_date":"1997-04-16",
+    "gn:name":"R\u00edo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670712
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f9ecd074a7e942a390dd8e94a392475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1276879403,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1276879403,
+    "wof:lastmodified":1537040021,
+    "wof:name":"Rio Viejo",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28735999999998,
+    7.02702,
+    -71.28735999999998,
+    7.02702
+],
+  "geometry": {"coordinates":[-71.28735999999998,7.02702],"type":"Point"}
+}

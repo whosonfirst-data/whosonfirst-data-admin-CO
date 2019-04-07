@@ -1,0 +1,68 @@
+{
+  "id": 1344215971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,7.85,-72.78333,7.85",
+    "geom:latitude":7.85,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54313.0",
+    "gn:asciiname":"Carrizal",
+    "gn:country_code":"CO",
+    "gn:dem":803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687270,
+    "gn:latitude":7.85,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carrizal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687270
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"355acb92822bc01d079f0835f0ad632d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701115,
+            "locality_id":1344215971,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1344215971,
+    "wof:lastmodified":1536651167,
+    "wof:name":"Carrizal",
+    "wof:parent_id":1108701115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    7.85,
+    -72.78333,
+    7.85
+],
+  "geometry": {"coordinates":[-72.78333000000001,7.85],"type":"Point"}
+}

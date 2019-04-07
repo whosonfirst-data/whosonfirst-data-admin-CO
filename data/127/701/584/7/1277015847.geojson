@@ -1,0 +1,68 @@
+{
+  "id": 1277015847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11167,5.63556,-70.11167,5.63556",
+    "geom:latitude":5.63556,
+    "geom:longitude":-70.11167,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99524.0",
+    "gn:asciiname":"Puerto Infante",
+    "gn:country_code":"CO",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6196150,
+    "gn:latitude":5.63556,
+    "gn:longitude":-70.11167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Infante",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6196150
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1b13ff0ee3f8664fcd6ced0fdb780d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701643,
+            "locality_id":1277015847,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1277015847,
+    "wof:lastmodified":1536857653,
+    "wof:name":"Puerto Infante",
+    "wof:parent_id":1108701643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11166999999999,
+    5.63556,
+    -70.11166999999999,
+    5.63556
+],
+  "geometry": {"coordinates":[-70.11166999999999,5.63556],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276830791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.95,9.35,-74.95,9.35",
+    "geom:latitude":9.35,
+    "geom:longitude":-74.95,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70110.0",
+    "gn:asciiname":"Las Llanadas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677397,
+    "gn:latitude":9.35,
+    "gn:longitude":-74.95,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Llanadas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Llanadas",
+        "Las Llanadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677397
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a03e9255b57bd75c07a699a85278f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701377,
+            "locality_id":1276830791,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1276830791,
+    "wof:lastmodified":1537618495,
+    "wof:name":"Las Llanadas",
+    "wof:parent_id":1108701377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.95,
+    9.35,
+    -74.95,
+    9.35
+],
+  "geometry": {"coordinates":[-74.95,9.35],"type":"Point"}
+}

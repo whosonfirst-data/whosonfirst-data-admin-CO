@@ -1,0 +1,68 @@
+{
+  "id": 1343721217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81,4.72577,-72.81,4.72577",
+    "geom:latitude":4.72577,
+    "geom:longitude":-72.81,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85162.0",
+    "gn:asciiname":"La Trinchera",
+    "gn:country_code":"CO",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677078,
+    "gn:latitude":4.72577,
+    "gn:longitude":-72.81,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Trinchera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421181801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677078
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e94d1aa536e10c348c6679b4dc7ccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181801,
+            "locality_id":1343721217,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1343721217,
+    "wof:lastmodified":1536866345,
+    "wof:name":"La Trinchera",
+    "wof:parent_id":421181801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81,
+    4.72577,
+    -72.81,
+    4.72577
+],
+  "geometry": {"coordinates":[-72.81,4.72577],"type":"Point"}
+}

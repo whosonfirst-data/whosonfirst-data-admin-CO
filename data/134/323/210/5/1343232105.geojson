@@ -1,0 +1,73 @@
+{
+  "id": 1343232105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.06667,2.23333,-69.06667,2.23333",
+    "geom:latitude":2.23333,
+    "geom:longitude":-69.06667,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94887.0",
+    "gn:asciiname":"Guaguay",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681678,
+    "gn:latitude":2.23333,
+    "gn:longitude":-69.06667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guaguay",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guaguai",
+        "Guaguay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681678
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"af4c5ae5e700eb8e1e0ec2a17a118e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701619,
+            "locality_id":1343232105,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1343232105,
+    "wof:lastmodified":1537618553,
+    "wof:name":"Guaguay",
+    "wof:parent_id":1108701619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.06667,
+    2.23333,
+    -69.06667,
+    2.23333
+],
+  "geometry": {"coordinates":[-69.06667,2.23333],"type":"Point"}
+}

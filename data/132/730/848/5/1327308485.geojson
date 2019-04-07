@@ -1,0 +1,71 @@
+{
+  "id": 1327308485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.306,3.039,-73.306,3.039",
+    "geom:latitude":3.039,
+    "geom:longitude":-73.306,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50577.0",
+    "gn:asciiname":"La Soledad",
+    "gn:country_code":"CO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8561285,
+    "gn:latitude":3.039,
+    "gn:longitude":-73.306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561285
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fc4ff3f649bca4c60be3a784b55853a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700951,
+            "locality_id":1327308485,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1327308485,
+    "wof:lastmodified":1537618782,
+    "wof:name":"La Soledad",
+    "wof:parent_id":1108700951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.306,
+    3.039,
+    -73.306,
+    3.039
+],
+  "geometry": {"coordinates":[-73.306,3.039],"type":"Point"}
+}

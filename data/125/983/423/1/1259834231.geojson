@@ -1,0 +1,73 @@
+{
+  "id": 1259834231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,6.78333,-74.1,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68573.0",
+    "gn:asciiname":"Carare Viejo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687409,
+    "gn:latitude":6.78333,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carare Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carare",
+        "Carare Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687409
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bb61698791fb5fd42746869f1ce3268d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701323,
+            "locality_id":1259834231,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1259834231,
+    "wof:lastmodified":1537618630,
+    "wof:name":"Carare Viejo",
+    "wof:parent_id":1108701323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    6.78333,
+    -74.1,
+    6.78333
+],
+  "geometry": {"coordinates":[-74.09999999999999,6.78333],"type":"Point"}
+}

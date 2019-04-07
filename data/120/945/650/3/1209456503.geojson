@@ -1,0 +1,62 @@
+{
+  "id": 1209456503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.82119,5.0197,-72.82119,5.0197",
+    "geom:latitude":5.0197,
+    "geom:longitude":-72.82119,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"El Aguamaco",
+    "gn:country_code":"CO",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685029,
+    "gn:latitude":5.0197,
+    "gn:longitude":-72.82119,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Aguamaco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685029
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7f8c2be34879ea114eee97a6c1832e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209456503
+        }
+    ],
+    "wof:id":1209456503,
+    "wof:lastmodified":1536286514,
+    "wof:name":"El Aguamaco",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.82119,
+    5.0197,
+    -72.82119,
+    5.0197
+],
+  "geometry": {"coordinates":[-72.82119,5.0197],"type":"Point"}
+}

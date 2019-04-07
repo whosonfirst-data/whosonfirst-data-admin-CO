@@ -1,0 +1,73 @@
+{
+  "id": 1243032755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.83333,1.35,-77.83333,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":-77.83333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52699.0",
+    "gn:asciiname":"La Balvanera",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679796,
+    "gn:latitude":1.35,
+    "gn:longitude":-77.83333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Balvanera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balbanera",
+        "La Balvanera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679796
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1c2f13f41cbe799e9bfbab3cfdd9be3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701077,
+            "locality_id":1243032755,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1243032755,
+    "wof:lastmodified":1537618535,
+    "wof:name":"La Balvanera",
+    "wof:parent_id":1108701077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.83333,
+    1.35,
+    -77.83333,
+    1.35
+],
+  "geometry": {"coordinates":[-77.83333,1.35],"type":"Point"}
+}

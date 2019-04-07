@@ -1,0 +1,68 @@
+{
+  "id": 1209369409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.68333,6.05,-73.68333,6.05",
+    "geom:latitude":6.05,
+    "geom:longitude":-73.68333,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68179.0",
+    "gn:asciiname":"Tuvabita",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666538,
+    "gn:latitude":6.05,
+    "gn:longitude":-73.68333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tuvabita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tubabita",
+        "Tubavit\u00e1",
+        "Tuvabita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"76b8d60e24ea06d9fdcdd76234738eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209369409
+        }
+    ],
+    "wof:id":1209369409,
+    "wof:lastmodified":1537618367,
+    "wof:name":"Tuvabita",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.68333,
+    6.05,
+    -73.68333,
+    6.05
+],
+  "geometry": {"coordinates":[-73.68333,6.05],"type":"Point"}
+}

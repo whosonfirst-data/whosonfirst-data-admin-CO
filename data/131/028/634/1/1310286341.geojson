@@ -1,0 +1,71 @@
+{
+  "id": 1310286341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1517,3.04508,-75.1517,3.04508",
+    "geom:latitude":3.04508,
+    "geom:longitude":-75.1517,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41799",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"CO",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357128,
+    "gn:latitude":3.04508,
+    "gn:longitude":-75.1517,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357128
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a23a4de69455cccef228c2302354c856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700849,
+            "locality_id":1310286341,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1310286341,
+    "wof:lastmodified":1537618842,
+    "wof:name":"San Jose",
+    "wof:parent_id":1108700849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1517,
+    3.04508,
+    -75.1517,
+    3.04508
+],
+  "geometry": {"coordinates":[-75.15170000000001,3.04508],"type":"Point"}
+}

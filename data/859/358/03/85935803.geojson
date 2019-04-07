@@ -1,0 +1,138 @@
+{
+  "id": 85935803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":6761053.561655,
+    "geom:bbox":"-74.222107,11.217618,-74.222107,11.217618",
+    "geom:latitude":11.217618,
+    "geom:longitude":-74.222107,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":11.23333,
+    "gn:longitude":-74.21667,
+    "iso:country":"CO",
+    "lbl:latitude":11.217618,
+    "lbl:longitude":-74.222107,
+    "mps:latitude":11.197263,
+    "mps:longitude":-74.22637,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "El Prado"
+    ],
+    "name:spa_x_variant":[
+        "Barrio El Prado"
+    ],
+    "name:unk_x_variant":[
+        "El Prado",
+        "Barrio El Prado"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":8051263,
+    "qs:gn_nam_loc":"santa marta",
+    "qs:gn_namadm1":"38",
+    "qs:gn_name":"El Prado",
+    "qs:local_max":2404,
+    "qs:local_sum":4136,
+    "qs:localhoods":6,
+    "qs:name":"El Prado",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:name_adm2":"Santa Marta",
+    "qs:name_local":"Santa Marta",
+    "qs:photo_max":6,
+    "qs:photo_sum":9,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345063,
+    "qs:woe_adm2":26797230,
+    "qs:woe_lau":0,
+    "qs:woe_local":368170,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3683338,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Prado",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Magdalena",
+    "qs_pg:photos":16,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":16,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":53709,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":355594,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        85670223,
+        102191577,
+        85632519,
+        1108700871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683338,
+        "gp:id":355594,
+        "qs:id":53709,
+        "qs_pg:id":53709
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c6fab4617b1c30ecfaf04e0dff084000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700871,
+            "locality_id":-1,
+            "neighbourhood_id":85935803,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":85935803,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379263,
+    "wof:name":"El Prado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126106511
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.222107,
+    11.217618,
+    -74.222107,
+    11.217618
+],
+  "geometry": {"coordinates":[-74.22210699999999,11.217618],"type":"Point"}
+}

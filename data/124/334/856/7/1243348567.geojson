@@ -1,0 +1,71 @@
+{
+  "id": 1243348567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58732,1.1876,-75.58732,1.1876",
+    "geom:latitude":1.1876,
+    "geom:longitude":-75.58732,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18860.0",
+    "gn:asciiname":"Bembolita",
+    "gn:country_code":"CO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541384,
+    "gn:latitude":1.1876,
+    "gn:longitude":-75.58732,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bembolita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bembolita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541384
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0bf92a01c3ed21463449eac7d8552020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700429,
+            "locality_id":1243348567,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1243348567,
+    "wof:lastmodified":1537618736,
+    "wof:name":"Bembolita",
+    "wof:parent_id":1108700429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58731999999998,
+    1.1876,
+    -75.58731999999998,
+    1.1876
+],
+  "geometry": {"coordinates":[-75.58731999999998,1.1876],"type":"Point"}
+}

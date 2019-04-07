@@ -1,0 +1,68 @@
+{
+  "id": 1242836075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.49528,1.80556,-77.49528,1.80556",
+    "geom:latitude":1.80556,
+    "geom:longitude":-77.49528,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52540.0",
+    "gn:asciiname":"La Hoja",
+    "gn:country_code":"CO",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736021,
+    "gn:latitude":1.80556,
+    "gn:longitude":-77.49528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Hoja",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736021
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"de5e7de6416648623f4299904a199285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701051,
+            "locality_id":1242836075,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1242836075,
+    "wof:lastmodified":1536691648,
+    "wof:name":"La Hoja",
+    "wof:parent_id":1108701051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.49528000000002,
+    1.80556,
+    -77.49528000000002,
+    1.80556
+],
+  "geometry": {"coordinates":[-77.49528000000002,1.80556],"type":"Point"}
+}

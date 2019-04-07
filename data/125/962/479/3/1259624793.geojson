@@ -1,0 +1,72 @@
+{
+  "id": 1259624793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73785,5.43509,-71.73785,5.43509",
+    "geom:latitude":5.43509,
+    "geom:longitude":-71.73785,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85430.0",
+    "gn:asciiname":"Caiman",
+    "gn:country_code":"CO",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687125,
+    "gn:latitude":5.43509,
+    "gn:longitude":-71.73785,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caim\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Caim\u00e1n",
+        "Caim\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687125
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"30f1b973cd52217ce86b1e79df58243b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701555,
+            "locality_id":1259624793,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1259624793,
+    "wof:lastmodified":1537618627,
+    "wof:name":"Caiman",
+    "wof:parent_id":1108701555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73785,
+    5.43509,
+    -71.73785,
+    5.43509
+],
+  "geometry": {"coordinates":[-71.73784999999999,5.43509],"type":"Point"}
+}

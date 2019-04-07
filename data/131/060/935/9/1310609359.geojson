@@ -1,0 +1,71 @@
+{
+  "id": 1310609359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50878,6.13508,-75.50878,6.13508",
+    "geom:latitude":6.13508,
+    "geom:longitude":-75.50878,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5607.0",
+    "gn:asciiname":"Paulandia",
+    "gn:country_code":"CO",
+    "gn:dem":2310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337197,
+    "gn:latitude":6.13508,
+    "gn:longitude":-75.50878,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Paulandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Paulandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421200813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337197
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"35b79458d735b426d193dd865f8f4d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200813,
+            "locality_id":1310609359,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310609359,
+    "wof:lastmodified":1537618774,
+    "wof:name":"Paulandia",
+    "wof:parent_id":421200813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50878,
+    6.13508,
+    -75.50878,
+    6.13508
+],
+  "geometry": {"coordinates":[-75.50878,6.13508],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209072803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31667,12.35,-71.31667,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-71.31667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Carraipa",
+    "gn:country_code":"CO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687294,
+    "gn:latitude":12.35,
+    "gn:longitude":-71.31667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Carra\u00edpa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687294
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"abcdb4d5ed0c45e32b4f629006bf8b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209072803
+        }
+    ],
+    "wof:id":1209072803,
+    "wof:lastmodified":1536298592,
+    "wof:name":"Carraipa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31667,
+    12.35,
+    -71.31667,
+    12.35
+],
+  "geometry": {"coordinates":[-71.31667,12.35],"type":"Point"}
+}

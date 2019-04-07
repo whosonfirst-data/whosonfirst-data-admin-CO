@@ -1,0 +1,62 @@
+{
+  "id": 1209599471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.79943,2.72555,-76.79943,2.72555",
+    "geom:latitude":2.72555,
+    "geom:longitude":-76.79943,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19473.0",
+    "gn:asciiname":"Liberia",
+    "gn:country_code":"CO",
+    "gn:dem":1814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7630448,
+    "gn:latitude":2.72555,
+    "gn:longitude":-76.79943,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Liberia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7630448
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a8bf1a9183d2c6fb0261c02c0705757f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209599471
+        }
+    ],
+    "wof:id":1209599471,
+    "wof:lastmodified":1536282216,
+    "wof:name":"Liberia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.79943,
+    2.72555,
+    -76.79943,
+    2.72555
+],
+  "geometry": {"coordinates":[-76.79943,2.72555],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243010999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.17754,9.17236,-74.17754,9.17236",
+    "geom:latitude":9.17236,
+    "geom:longitude":-74.17754,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47318.0",
+    "gn:asciiname":"Salvadora",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670307,
+    "gn:latitude":9.17236,
+    "gn:longitude":-74.17754,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Salvadora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Salvadora",
+        "Salvador",
+        "Salvadora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421194071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670307
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9cfe26ad67d5e7d86e2efbb1f90408d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421194071,
+            "locality_id":1243010999,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243010999,
+    "wof:lastmodified":1537618407,
+    "wof:name":"Salvadora",
+    "wof:parent_id":421194071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.17754000000002,
+    9.17236,
+    -74.17754000000002,
+    9.17236
+],
+  "geometry": {"coordinates":[-74.17754000000002,9.17236],"type":"Point"}
+}

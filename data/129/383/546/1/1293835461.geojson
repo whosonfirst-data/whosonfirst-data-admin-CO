@@ -1,0 +1,68 @@
+{
+  "id": 1293835461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43515,5.94832,-72.43515,5.94832",
+    "geom:latitude":5.94832,
+    "geom:longitude":-72.43515,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15183.0",
+    "gn:asciiname":"Monserrate",
+    "gn:country_code":"CO",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674543,
+    "gn:latitude":5.94832,
+    "gn:longitude":-72.43515,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Monserrate",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674543
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d810e5ead749acb77fd2e34b6248e6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700213,
+            "locality_id":1293835461,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1293835461,
+    "wof:lastmodified":1536783190,
+    "wof:name":"Monserrate",
+    "wof:parent_id":1108700213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43515,
+    5.94832,
+    -72.43515,
+    5.94832
+],
+  "geometry": {"coordinates":[-72.43514999999999,5.94832],"type":"Point"}
+}

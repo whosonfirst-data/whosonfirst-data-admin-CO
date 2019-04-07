@@ -1,0 +1,68 @@
+{
+  "id": 1226475645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.95417,4.41722,-70.95417,4.41722",
+    "geom:latitude":4.41722,
+    "geom:longitude":-70.95417,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Dolibos",
+    "gn:country_code":"CO",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3829500,
+    "gn:latitude":4.41722,
+    "gn:longitude":-70.95417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Dolibos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829500
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f51afb7d895759dcf1595f6b2dd01b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1226475645,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1226475645,
+    "wof:lastmodified":1537095840,
+    "wof:name":"Dolibos",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.95416999999998,
+    4.41722,
+    -70.95416999999998,
+    4.41722
+],
+  "geometry": {"coordinates":[-70.95416999999998,4.41722],"type":"Point"}
+}

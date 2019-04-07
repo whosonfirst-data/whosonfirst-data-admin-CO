@@ -1,0 +1,68 @@
+{
+  "id": 1259734659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97778,9.24611,-73.97778,9.24611",
+    "geom:latitude":9.24611,
+    "geom:longitude":-73.97778,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47245.0",
+    "gn:asciiname":"Sabaneta",
+    "gn:country_code":"CO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731407,
+    "gn:latitude":9.24611,
+    "gn:longitude":-73.97778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sabaneta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731407
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"751077133120d640e840229170ffa487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "locality_id":1259734659,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1259734659,
+    "wof:lastmodified":1536992708,
+    "wof:name":"Sabaneta",
+    "wof:parent_id":421170439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97778000000002,
+    9.24611,
+    -73.97778000000002,
+    9.24611
+],
+  "geometry": {"coordinates":[-73.97778000000002,9.24611],"type":"Point"}
+}

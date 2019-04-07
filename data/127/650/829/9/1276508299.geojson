@@ -1,0 +1,72 @@
+{
+  "id": 1276508299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.71276,8.98118,-74.71276,8.98118",
+    "geom:latitude":8.98118,
+    "geom:longitude":-74.71276,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"Orejero",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673571,
+    "gn:latitude":8.98118,
+    "gn:longitude":-74.71276,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Orejero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Orejero",
+        "Orejero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421188689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673571
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6597fc67dcae2c55de33a754a01cd94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188689,
+            "locality_id":1276508299,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1276508299,
+    "wof:lastmodified":1537618447,
+    "wof:name":"Orejero",
+    "wof:parent_id":421188689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.71276,
+    8.98118,
+    -74.71276,
+    8.98118
+],
+  "geometry": {"coordinates":[-74.71276,8.98118],"type":"Point"}
+}

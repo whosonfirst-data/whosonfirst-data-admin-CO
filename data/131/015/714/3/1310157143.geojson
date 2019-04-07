@@ -1,0 +1,73 @@
+{
+  "id": 1310157143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.87062,5.34648,-74.87062,5.34648",
+    "geom:latitude":5.34648,
+    "geom:longitude":-74.87062,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17867.0",
+    "gn:asciiname":"Quamoco",
+    "gn:country_code":"CO",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681556,
+    "gn:latitude":5.34648,
+    "gn:longitude":-74.87062,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quamoc\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guamaco",
+        "Guamoc\u00f3",
+        "Quamoc\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        1108700401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681556
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fbf19bdbfd2a52fb3a4bceb435dc1682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700401,
+            "locality_id":1310157143,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1310157143,
+    "wof:lastmodified":1537618551,
+    "wof:name":"Quamoco",
+    "wof:parent_id":1108700401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.87062,
+    5.34648,
+    -74.87062,
+    5.34648
+],
+  "geometry": {"coordinates":[-74.87062,5.34648],"type":"Point"}
+}

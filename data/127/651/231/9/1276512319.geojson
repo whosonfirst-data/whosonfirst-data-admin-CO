@@ -1,0 +1,71 @@
+{
+  "id": 1276512319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.44031,3.80521,-73.44031,3.80521",
+    "geom:latitude":3.80521,
+    "geom:longitude":-73.44031,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50150.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"CO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8596361,
+    "gn:latitude":3.80521,
+    "gn:longitude":-73.44031,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Vicente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421184135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596361
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ffc243aefe376581cce1a8fd0ff04c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184135,
+            "locality_id":1276512319,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1276512319,
+    "wof:lastmodified":1537618792,
+    "wof:name":"San Vicente",
+    "wof:parent_id":421184135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.44031,
+    3.80521,
+    -73.44031,
+    3.80521
+],
+  "geometry": {"coordinates":[-73.44031,3.80521],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309914213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.79299,7.02608,-75.79299,7.02608",
+    "geom:latitude":7.02608,
+    "geom:longitude":-75.79299,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5628.0",
+    "gn:asciiname":"Orobajo",
+    "gn:country_code":"CO",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673542,
+    "gn:latitude":7.02608,
+    "gn:longitude":-75.79299,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Orobajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673542
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6c6635525d0c577d68ec274c50822d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699995,
+            "locality_id":1309914213,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1309914213,
+    "wof:lastmodified":1536775390,
+    "wof:name":"Orobajo",
+    "wof:parent_id":1108699995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.79299,
+    7.02608,
+    -75.79299,
+    7.02608
+],
+  "geometry": {"coordinates":[-75.79299,7.02608],"type":"Point"}
+}

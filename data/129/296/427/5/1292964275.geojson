@@ -1,0 +1,68 @@
+{
+  "id": 1292964275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31588,10.95501,-73.31588,10.95501",
+    "geom:latitude":10.95501,
+    "geom:longitude":-73.31588,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44001.0",
+    "gn:asciiname":"Mamarongo",
+    "gn:country_code":"CO",
+    "gn:dem":2238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675562,
+    "gn:latitude":10.95501,
+    "gn:longitude":-73.31588,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mamarongo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421182357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675562
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4e12c139ddcbd4185ec8527f5ea27323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182357,
+            "locality_id":1292964275,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1292964275,
+    "wof:lastmodified":1537042634,
+    "wof:name":"Mamarongo",
+    "wof:parent_id":421182357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31588,
+    10.95501,
+    -73.31588,
+    10.95501
+],
+  "geometry": {"coordinates":[-73.31588000000001,10.95501],"type":"Point"}
+}

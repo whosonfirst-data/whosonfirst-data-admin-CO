@@ -1,0 +1,72 @@
+{
+  "id": 1193247399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.36465,8.27767,-73.36465,8.27767",
+    "geom:latitude":8.27767,
+    "geom:longitude":-73.36465,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54498.0",
+    "gn:asciiname":"Libano",
+    "gn:country_code":"CO",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676601,
+    "gn:latitude":8.27767,
+    "gn:longitude":-73.36465,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"L\u00edbano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Libano",
+        "L\u00edbano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421188685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676601
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b0320db50c864d5049cc7c3c3b504474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188685,
+            "locality_id":1193247399,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1193247399,
+    "wof:lastmodified":1537618482,
+    "wof:name":"Libano",
+    "wof:parent_id":421188685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.36465,
+    8.27767,
+    -73.36465,
+    8.27767
+],
+  "geometry": {"coordinates":[-73.36465,8.27767],"type":"Point"}
+}

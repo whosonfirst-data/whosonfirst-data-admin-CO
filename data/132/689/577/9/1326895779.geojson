@@ -1,0 +1,71 @@
+{
+  "id": 1326895779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16907,3.75763,-73.16907,3.75763",
+    "geom:latitude":3.75763,
+    "geom:longitude":-73.16907,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50573.0",
+    "gn:asciiname":"Antonia Santos",
+    "gn:country_code":"CO",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8596393,
+    "gn:latitude":3.75763,
+    "gn:longitude":-73.16907,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Antonia Santos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Antonia Santos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421179663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596393
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e406d28f8096500e02e98b97102d3cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421179663,
+            "locality_id":1326895779,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1326895779,
+    "wof:lastmodified":1537618792,
+    "wof:name":"Antonia Santos",
+    "wof:parent_id":421179663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16906999999998,
+    3.75763,
+    -73.16906999999998,
+    3.75763
+],
+  "geometry": {"coordinates":[-73.16906999999998,3.75763],"type":"Point"}
+}

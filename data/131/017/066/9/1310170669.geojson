@@ -1,0 +1,68 @@
+{
+  "id": 1310170669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87938,4.23083,-72.87938,4.23083",
+    "geom:latitude":4.23083,
+    "geom:longitude":-72.87938,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50573.0",
+    "gn:asciiname":"La Mirana",
+    "gn:country_code":"CO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678380,
+    "gn:latitude":4.23083,
+    "gn:longitude":-72.87938,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mirana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421179663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678380
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e72cb566477b3a29b75d550d4cce189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421179663,
+            "locality_id":1310170669,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1310170669,
+    "wof:lastmodified":1536902841,
+    "wof:name":"La Mirana",
+    "wof:parent_id":421179663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87938,
+    4.23083,
+    -72.87938,
+    4.23083
+],
+  "geometry": {"coordinates":[-72.87938,4.23083],"type":"Point"}
+}

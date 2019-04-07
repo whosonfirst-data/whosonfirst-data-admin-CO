@@ -1,0 +1,68 @@
+{
+  "id": 1243119721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.4,9.33333,-75.4,9.33333",
+    "geom:latitude":9.33333,
+    "geom:longitude":-75.4,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70001.0",
+    "gn:asciiname":"La Variante",
+    "gn:country_code":"CO",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676873,
+    "gn:latitude":9.33333,
+    "gn:longitude":-75.4,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Variante",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421170639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676873
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f36206241964c4492a78279266b7e433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170639,
+            "locality_id":1243119721,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1243119721,
+    "wof:lastmodified":1536780159,
+    "wof:name":"La Variante",
+    "wof:parent_id":421170639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.4,
+    9.33333,
+    -75.4,
+    9.33333
+],
+  "geometry": {"coordinates":[-75.40000000000001,9.33333],"type":"Point"}
+}

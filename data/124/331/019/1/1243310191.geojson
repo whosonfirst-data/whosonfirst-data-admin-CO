@@ -1,0 +1,68 @@
+{
+  "id": 1243310191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.86611,4.07667,-75.86611,4.07667",
+    "geom:latitude":4.07667,
+    "geom:longitude":-75.86611,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76736.0",
+    "gn:asciiname":"Santa Fe",
+    "gn:country_code":"CO",
+    "gn:dem":2083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769163,
+    "gn:latitude":4.07667,
+    "gn:longitude":-75.86611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769163
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c58b049d847badf7eed771d55bc8c729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188713,
+            "locality_id":1243310191,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1243310191,
+    "wof:lastmodified":1537001298,
+    "wof:name":"Santa Fe",
+    "wof:parent_id":421188713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.86610999999998,
+    4.07667,
+    -75.86610999999998,
+    4.07667
+],
+  "geometry": {"coordinates":[-75.86610999999998,4.07667],"type":"Point"}
+}

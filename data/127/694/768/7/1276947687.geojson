@@ -1,0 +1,68 @@
+{
+  "id": 1276947687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.02124,1.75164,-67.02124,1.75164",
+    "geom:latitude":1.75164,
+    "geom:longitude":-67.02124,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"94883.0",
+    "gn:asciiname":"Tucutibapo",
+    "gn:country_code":"CO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666662,
+    "gn:latitude":1.75164,
+    "gn:longitude":-67.02124,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tucutibapo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666662
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e41ef6419c601a787c5c4fec1c3f0d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701611,
+            "locality_id":1276947687,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1276947687,
+    "wof:lastmodified":1536950755,
+    "wof:name":"Tucutibapo",
+    "wof:parent_id":1108701611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.02124,
+    1.75164,
+    -67.02124,
+    1.75164
+],
+  "geometry": {"coordinates":[-67.02124000000001,1.75164],"type":"Point"}
+}

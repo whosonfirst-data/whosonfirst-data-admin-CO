@@ -1,0 +1,68 @@
+{
+  "id": 1310346599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.04412,4.99341,-74.04412,4.99341",
+    "geom:latitude":4.99341,
+    "geom:longitude":-74.04412,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25899.0",
+    "gn:asciiname":"Barroblanco",
+    "gn:country_code":"CO",
+    "gn:dem":2841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689115,
+    "gn:latitude":4.99341,
+    "gn:longitude":-74.04412,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barroblanco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421170621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689115
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"043a8222b7b80f0eb3e7381e4014ba26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170621,
+            "locality_id":1310346599,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1310346599,
+    "wof:lastmodified":1536648342,
+    "wof:name":"Barroblanco",
+    "wof:parent_id":421170621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.04411999999998,
+    4.99341,
+    -74.04411999999998,
+    4.99341
+],
+  "geometry": {"coordinates":[-74.04411999999998,4.99341],"type":"Point"}
+}

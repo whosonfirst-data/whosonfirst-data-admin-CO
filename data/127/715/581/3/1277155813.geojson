@@ -1,0 +1,72 @@
+{
+  "id": 1277155813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66527,9.5351,-73.66527,9.5351",
+    "geom:latitude":9.5351,
+    "geom:longitude":-73.66527,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20250.0",
+    "gn:asciiname":"Potrerillo",
+    "gn:country_code":"CO",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671829,
+    "gn:latitude":9.5351,
+    "gn:longitude":-73.66527,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Potrerillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Potrerillo",
+        "Potrerillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671829
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a81d6502bd039306f4a10760e99391da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700537,
+            "locality_id":1277155813,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1277155813,
+    "wof:lastmodified":1537618428,
+    "wof:name":"Potrerillo",
+    "wof:parent_id":1108700537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66526999999998,
+    9.5351,
+    -73.66526999999998,
+    9.5351
+],
+  "geometry": {"coordinates":[-73.66526999999998,9.5351],"type":"Point"}
+}

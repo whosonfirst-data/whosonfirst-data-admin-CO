@@ -1,0 +1,72 @@
+{
+  "id": 1259545013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14259,9.14313,-75.14259,9.14313",
+    "geom:latitude":9.14313,
+    "geom:longitude":-75.14259,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70233.0",
+    "gn:asciiname":"Cayo de Palma",
+    "gn:country_code":"CO",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687006,
+    "gn:latitude":9.14313,
+    "gn:longitude":-75.14259,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cayo de Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Cayo de Palma",
+        "Cayo de Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687006
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce52fc7e31959b227876624cc529a3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701391,
+            "locality_id":1259545013,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1259545013,
+    "wof:lastmodified":1537618625,
+    "wof:name":"Cayo de Palma",
+    "wof:parent_id":1108701391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14259,
+    9.14313,
+    -75.14259,
+    9.14313
+],
+  "geometry": {"coordinates":[-75.14259,9.14313],"type":"Point"}
+}

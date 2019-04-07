@@ -1,0 +1,136 @@
+{
+  "id": 85764697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10878118.38023,
+    "geom:bbox":"-74.069949,4.587768,-74.069949,4.587768",
+    "geom:latitude":4.587768,
+    "geom:longitude":-74.069949,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.583,
+    "gn:longitude":-74.06667,
+    "iso:country":"CO",
+    "lbl:latitude":4.587768,
+    "lbl:longitude":-74.069949,
+    "mps:latitude":4.57563,
+    "mps:longitude":-74.058913,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "La Penya",
+        "La Pena"
+    ],
+    "name:spa_x_preferred":[
+        "La Pe\u00f1a"
+    ],
+    "name:unk_x_variant":[
+        "La Pe\u00f1a"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688689,
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"La Pe\u00f1a",
+    "qs:local_max":9363,
+    "qs:local_sum":49081,
+    "qs:localhoods":19,
+    "qs:name":"La Pe\u00f1a",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:name_adm2":"Santafe de Bogota D.c.",
+    "qs:name_local":"Bogot\u00e1",
+    "qs:photo_max":42,
+    "qs:photo_sum":197,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345079,
+    "qs:woe_adm2":26796754,
+    "qs:woe_lau":0,
+    "qs:woe_local":368148,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3678156,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Pe\u00f1a",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":145,
+    "qs_pg:photos_1k":29,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":145,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":887588,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":359674,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678156,
+        "gp:id":359674,
+        "qs:id":887588,
+        "qs_pg:id":887588
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"390703a0421ced3718a5e3807938810c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":85764697,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":85764697,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379259,
+    "wof:name":"La Pe\u00f1a",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126109793
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.069949,
+    4.587768,
+    -74.069949,
+    4.587768
+],
+  "geometry": {"coordinates":[-74.06994899999999,4.587768],"type":"Point"}
+}

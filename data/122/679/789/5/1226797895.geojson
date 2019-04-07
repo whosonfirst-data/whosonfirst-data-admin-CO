@@ -1,0 +1,68 @@
+{
+  "id": 1226797895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58333,4.96667,-74.58333,4.96667",
+    "geom:latitude":4.96667,
+    "geom:longitude":-74.58333,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25168.0",
+    "gn:asciiname":"Boca de Monte",
+    "gn:country_code":"CO",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688744,
+    "gn:latitude":4.96667,
+    "gn:longitude":-74.58333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Boca de Monte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688744
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b6177989afce7f017427872128f28fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700639,
+            "locality_id":1226797895,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226797895,
+    "wof:lastmodified":1536639609,
+    "wof:name":"Boca de Monte",
+    "wof:parent_id":1108700639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58333,
+    4.96667,
+    -74.58333,
+    4.96667
+],
+  "geometry": {"coordinates":[-74.58333,4.96667],"type":"Point"}
+}

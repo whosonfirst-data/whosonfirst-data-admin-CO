@@ -1,0 +1,65 @@
+{
+  "id": 1209398901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4236,3.18415,-76.4236,3.18415",
+    "geom:latitude":3.18415,
+    "geom:longitude":-76.4236,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19300.0",
+    "gn:asciiname":"Caponera",
+    "gn:country_code":"CO",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687486,
+    "gn:latitude":3.18415,
+    "gn:longitude":-76.4236,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caponera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caponera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687486
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b3ffdebc3a3a63ffa2755586d31432b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209398901
+        }
+    ],
+    "wof:id":1209398901,
+    "wof:lastmodified":1537618631,
+    "wof:name":"Caponera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4236,
+    3.18415,
+    -76.4236,
+    3.18415
+],
+  "geometry": {"coordinates":[-76.42359999999999,3.18415],"type":"Point"}
+}

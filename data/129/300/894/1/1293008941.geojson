@@ -1,0 +1,71 @@
+{
+  "id": 1293008941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73386,6.1516,-75.73386,6.1516",
+    "geom:latitude":6.1516,
+    "geom:longitude":-75.73386,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5036.0",
+    "gn:asciiname":"Los Palacios",
+    "gn:country_code":"CO",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8336690,
+    "gn:latitude":6.1516,
+    "gn:longitude":-75.73386,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Palacios",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Palacios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421184085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8336690
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7872e8d821cfc967a3bcbb891872b82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184085,
+            "locality_id":1293008941,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293008941,
+    "wof:lastmodified":1537618772,
+    "wof:name":"Los Palacios",
+    "wof:parent_id":421184085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73385999999998,
+    6.1516,
+    -75.73385999999998,
+    6.1516
+],
+  "geometry": {"coordinates":[-75.73385999999998,6.1516],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293755743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94956,1.93377,-75.94956,1.93377",
+    "geom:latitude":1.93377,
+    "geom:longitude":-75.94956,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41807.0",
+    "gn:asciiname":"Mateorico",
+    "gn:country_code":"CO",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7552312,
+    "gn:latitude":1.93377,
+    "gn:longitude":-75.94956,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mateorico",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mateorico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421185277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7552312
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"697edbe8d0079fb5e960009ef0a967ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185277,
+            "locality_id":1293755743,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1293755743,
+    "wof:lastmodified":1537618743,
+    "wof:name":"Mateorico",
+    "wof:parent_id":421185277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94955999999998,
+    1.93377,
+    -75.94955999999998,
+    1.93377
+],
+  "geometry": {"coordinates":[-75.94955999999998,1.93377],"type":"Point"}
+}

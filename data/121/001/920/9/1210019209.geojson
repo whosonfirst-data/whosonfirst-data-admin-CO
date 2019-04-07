@@ -1,0 +1,68 @@
+{
+  "id": 1210019209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58857,7.15667,-74.58857,7.15667",
+    "geom:latitude":7.15667,
+    "geom:longitude":-74.58857,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5604.0",
+    "gn:asciiname":"Lomalinda",
+    "gn:country_code":"CO",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676443,
+    "gn:latitude":7.15667,
+    "gn:longitude":-74.58857,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Lomalinda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676443
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3dfa52955d9dbd095bae4e01b7807688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699993,
+            "locality_id":1210019209,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1210019209,
+    "wof:lastmodified":1536393653,
+    "wof:name":"Lomalinda",
+    "wof:parent_id":1108699993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58856999999998,
+    7.15667,
+    -74.58856999999998,
+    7.15667
+],
+  "geometry": {"coordinates":[-74.58856999999998,7.15667],"type":"Point"}
+}

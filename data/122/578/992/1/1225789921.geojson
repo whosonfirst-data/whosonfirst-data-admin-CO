@@ -1,0 +1,72 @@
+{
+  "id": 1225789921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47689,8.85976,-74.47689,8.85976",
+    "geom:latitude":8.85976,
+    "geom:longitude":-74.47689,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13430.0",
+    "gn:asciiname":"Santa Paula",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668571,
+    "gn:latitude":8.85976,
+    "gn:longitude":-74.47689,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Paula",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Santa Paula",
+        "Santa Paula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668571
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b70463b1b1a64a5b2dabc2e5d430e3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184105,
+            "locality_id":1225789921,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1225789921,
+    "wof:lastmodified":1537618387,
+    "wof:name":"Santa Paula",
+    "wof:parent_id":421184105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47689,
+    8.85976,
+    -74.47689,
+    8.85976
+],
+  "geometry": {"coordinates":[-74.47689,8.85976],"type":"Point"}
+}

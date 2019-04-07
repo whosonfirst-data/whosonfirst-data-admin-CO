@@ -1,0 +1,73 @@
+{
+  "id": 1276859697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75,8.68333,-73.75,8.68333",
+    "geom:latitude":8.68333,
+    "geom:longitude":-73.75,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20550.0",
+    "gn:asciiname":"Puerto Las Palmas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671442,
+    "gn:latitude":8.68333,
+    "gn:longitude":-73.75,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Las Palmas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Palmas",
+        "Puerto Las Palmas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671442
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0a2f4d801b2f6f9a7c8dfbd30d8f1f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700549,
+            "locality_id":1276859697,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276859697,
+    "wof:lastmodified":1537618421,
+    "wof:name":"Puerto Las Palmas",
+    "wof:parent_id":1108700549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75,
+    8.68333,
+    -73.75,
+    8.68333
+],
+  "geometry": {"coordinates":[-73.75,8.68333],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209254839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93806,5.65667,-73.93806,5.65667",
+    "geom:latitude":5.65667,
+    "geom:longitude":-73.93806,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15106.0",
+    "gn:asciiname":"Moray Alla",
+    "gn:country_code":"CO",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776984,
+    "gn:latitude":5.65667,
+    "gn:longitude":-73.93806,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Moray Alla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776984
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ceb6907b930ef200e766635cd9b6ac54",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209254839
+        }
+    ],
+    "wof:id":1209254839,
+    "wof:lastmodified":1536292887,
+    "wof:name":"Moray Alla",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93806,
+    5.65667,
+    -73.93806,
+    5.65667
+],
+  "geometry": {"coordinates":[-73.93805999999999,5.65667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344207271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.45,0.73333,-69.45,0.73333",
+    "geom:latitude":0.73333,
+    "geom:longitude":-69.45,
+    "gn:admin1_code":"30.0",
+    "gn:admin2_code":"97889.0",
+    "gn:asciiname":"Teresita",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667262,
+    "gn:latitude":0.73333,
+    "gn:longitude":-69.45,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Teresita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terezinha",
+        "Teresinha",
+        "Teresita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        1108701641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667262
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f7865f082ffd0bd0bb73eef0ab16aa9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701641,
+            "locality_id":1344207271,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":1344207271,
+    "wof:lastmodified":1537618374,
+    "wof:name":"Teresita",
+    "wof:parent_id":1108701641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.45,
+    0.73333,
+    -69.45,
+    0.73333
+],
+  "geometry": {"coordinates":[-69.45,0.73333],"type":"Point"}
+}

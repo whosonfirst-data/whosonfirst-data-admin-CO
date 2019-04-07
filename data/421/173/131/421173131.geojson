@@ -1,0 +1,75 @@
+{
+  "id": 421173131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.881439,3.738532,-74.881439,3.738532",
+    "geom:latitude":3.738532,
+    "geom:longitude":-74.881439,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Camacorinto",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Tolima",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":282780,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":352126,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":352126,
+        "qs:id":282780
+    },
+    "wof:country":"CO",
+    "wof:created":1459008971,
+    "wof:geomhash":"0a922bf917c04d8993258d4ed1d26886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701455,
+            "locality_id":421173131,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":421173131,
+    "wof:lastmodified":1499968889,
+    "wof:name":"Camacorinto",
+    "wof:parent_id":1108701455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.881439,
+    3.738532,
+    -74.881439,
+    3.738532
+],
+  "geometry": {"coordinates":[-74.881439,3.738532],"type":"Point"}
+}

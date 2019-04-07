@@ -1,0 +1,67 @@
+{
+  "id": 1293368855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0267,9.90413,-74.0267,9.90413",
+    "geom:latitude":9.90413,
+    "geom:longitude":-74.0267,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Durapoco",
+    "gn:country_code":"CO",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638192,
+    "gn:latitude":9.90413,
+    "gn:longitude":-74.0267,
+    "gn:modification_date":"2013-11-14",
+    "gn:name":"Durapoco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638192
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b58760daf672673ac831245b4cd783a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700875,
+            "locality_id":1293368855,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1293368855,
+    "wof:lastmodified":1536958092,
+    "wof:name":"Durapoco",
+    "wof:parent_id":1108700875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0267,
+    9.90413,
+    -74.0267,
+    9.90413
+],
+  "geometry": {"coordinates":[-74.02670000000001,9.90413],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309966499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18572,3.42336,-76.18572,3.42336",
+    "geom:latitude":3.42336,
+    "geom:longitude":-76.18572,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76563.0",
+    "gn:asciiname":"Potrerito",
+    "gn:country_code":"CO",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671825,
+    "gn:latitude":3.42336,
+    "gn:longitude":-76.18572,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Potrerito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421184339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671825
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"248a6426246ca1e5e863b9a165084d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184339,
+            "locality_id":1309966499,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1309966499,
+    "wof:lastmodified":1536699942,
+    "wof:name":"Potrerito",
+    "wof:parent_id":421184339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18571999999998,
+    3.42336,
+    -76.18571999999998,
+    3.42336
+],
+  "geometry": {"coordinates":[-76.18571999999998,3.42336],"type":"Point"}
+}

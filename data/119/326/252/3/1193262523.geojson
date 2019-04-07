@@ -1,0 +1,71 @@
+{
+  "id": 1193262523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.44902,3.22847,-76.44902,3.22847",
+    "geom:latitude":3.22847,
+    "geom:longitude":-76.44902,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19845.0",
+    "gn:asciiname":"Chalo",
+    "gn:country_code":"CO",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622337,
+    "gn:latitude":3.22847,
+    "gn:longitude":-76.44902,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chalo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chalo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        421197009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622337
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"61b566a0b0c404bcb5b284b0e7c3a122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421197009,
+            "locality_id":1193262523,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1193262523,
+    "wof:lastmodified":1537618800,
+    "wof:name":"Chalo",
+    "wof:parent_id":421197009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.44901999999998,
+    3.22847,
+    -76.44901999999998,
+    3.22847
+],
+  "geometry": {"coordinates":[-76.44901999999998,3.22847],"type":"Point"}
+}

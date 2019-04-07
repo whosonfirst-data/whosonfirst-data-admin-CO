@@ -1,0 +1,72 @@
+{
+  "id": 1276395647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15719,7.02846,-73.15719,7.02846",
+    "geom:latitude":7.02846,
+    "geom:longitude":-73.15719,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68307.0",
+    "gn:asciiname":"Barbosa",
+    "gn:country_code":"CO",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8310018,
+    "gn:latitude":7.02846,
+    "gn:longitude":-73.15719,
+    "gn:modification_date":"2018-04-18",
+    "gn:name":"Barbosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barbosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8310018,
+        "wk:page":"Barbosa,_Santander"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bf2fe4618cdf288e50ce69fea3f5a0a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701259,
+            "locality_id":1276395647,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1276395647,
+    "wof:lastmodified":1537618770,
+    "wof:name":"Barbosa",
+    "wof:parent_id":1108701259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15719,
+    7.02846,
+    -73.15719,
+    7.02846
+],
+  "geometry": {"coordinates":[-73.15719,7.02846],"type":"Point"}
+}

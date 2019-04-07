@@ -1,0 +1,71 @@
+{
+  "id": 1343409967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.69392,4.43009,-74.69392,4.43009",
+    "geom:latitude":4.43009,
+    "geom:longitude":-74.69392,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25815.0",
+    "gn:asciiname":"Vila",
+    "gn:country_code":"CO",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8562500,
+    "gn:latitude":4.43009,
+    "gn:longitude":-74.69392,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vila",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8562500
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"60eacf8d901f5ec3993346dbacbb0876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188671,
+            "locality_id":1343409967,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343409967,
+    "wof:lastmodified":1537618782,
+    "wof:name":"Vila",
+    "wof:parent_id":421188671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.69391999999998,
+    4.43009,
+    -74.69391999999998,
+    4.43009
+],
+  "geometry": {"coordinates":[-74.69391999999998,4.43009],"type":"Point"}
+}

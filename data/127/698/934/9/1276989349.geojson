@@ -1,0 +1,71 @@
+{
+  "id": 1276989349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73955,8.50306,-76.73955,8.50306",
+    "geom:latitude":8.50306,
+    "geom:longitude":-76.73955,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5490.0",
+    "gn:asciiname":"Los Corazones",
+    "gn:country_code":"CO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10310586,
+    "gn:latitude":8.50306,
+    "gn:longitude":-76.73955,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Corazones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Corazones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10310586
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19d5b0cb57e673a9f964a025cf753c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188793,
+            "locality_id":1276989349,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1276989349,
+    "wof:lastmodified":1537618817,
+    "wof:name":"Los Corazones",
+    "wof:parent_id":421188793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73955,
+    8.50306,
+    -76.73955,
+    8.50306
+],
+  "geometry": {"coordinates":[-76.73954999999999,8.50306],"type":"Point"}
+}

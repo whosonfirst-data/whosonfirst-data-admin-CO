@@ -1,0 +1,71 @@
+{
+  "id": 1293825355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.59534,4.47396,-74.59534,4.47396",
+    "geom:latitude":4.47396,
+    "geom:longitude":-74.59534,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25599.0",
+    "gn:asciiname":"Vereda El Palmar",
+    "gn:country_code":"CO",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8572905,
+    "gn:latitude":4.47396,
+    "gn:longitude":-74.59534,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda El Palmar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda El Palmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421203443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572905
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"67cdea4115940958cff96c33e5f59e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203443,
+            "locality_id":1293825355,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293825355,
+    "wof:lastmodified":1537618786,
+    "wof:name":"Vereda El Palmar",
+    "wof:parent_id":421203443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.59534000000002,
+    4.47396,
+    -74.59534000000002,
+    4.47396
+],
+  "geometry": {"coordinates":[-74.59534000000002,4.47396],"type":"Point"}
+}

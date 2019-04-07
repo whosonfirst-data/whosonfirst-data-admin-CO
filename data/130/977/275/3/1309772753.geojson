@@ -1,0 +1,68 @@
+{
+  "id": 1309772753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60079,6.80295,-73.60079,6.80295",
+    "geom:latitude":6.80295,
+    "geom:longitude":-73.60079,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68235.0",
+    "gn:asciiname":"El Pajuil",
+    "gn:country_code":"CO",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3830153,
+    "gn:latitude":6.80295,
+    "gn:longitude":-73.60079,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Pajuil",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830153
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ef18f9ce65fd843cc9bb519493a22a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701237,
+            "locality_id":1309772753,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1309772753,
+    "wof:lastmodified":1536978266,
+    "wof:name":"El Pajuil",
+    "wof:parent_id":1108701237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60079,
+    6.80295,
+    -73.60079,
+    6.80295
+],
+  "geometry": {"coordinates":[-73.60079,6.80295],"type":"Point"}
+}

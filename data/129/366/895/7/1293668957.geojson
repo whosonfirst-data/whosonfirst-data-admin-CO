@@ -1,0 +1,71 @@
+{
+  "id": 1293668957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2825,9.08802,-75.2825,9.08802",
+    "geom:latitude":9.08802,
+    "geom:longitude":-75.2825,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"CO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681730,
+    "gn:latitude":9.08802,
+    "gn:longitude":-75.2825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Guadalupe",
+        "Guadalupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681730
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd122cd27d75aa70f37276072c6a34d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701409,
+            "locality_id":1293668957,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1293668957,
+    "wof:lastmodified":1537618553,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":1108701409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2825,
+    9.08802,
+    -75.2825,
+    9.08802
+],
+  "geometry": {"coordinates":[-75.2825,9.08802],"type":"Point"}
+}

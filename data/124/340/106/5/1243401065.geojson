@@ -1,0 +1,73 @@
+{
+  "id": 1243401065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4,4.1,-76.4,4.1",
+    "geom:latitude":4.1,
+    "geom:longitude":-76.4,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76616.0",
+    "gn:asciiname":"Puerto Fenicia",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671462,
+    "gn:latitude":4.1,
+    "gn:longitude":-76.4,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Fenicia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fenicia",
+        "Puerto Fenicia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671462
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"94d2cc6e949ca9885f4a2012a6834cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701499,
+            "locality_id":1243401065,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1243401065,
+    "wof:lastmodified":1537618421,
+    "wof:name":"Puerto Fenicia",
+    "wof:parent_id":1108701499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4,
+    4.1,
+    -76.4,
+    4.1
+],
+  "geometry": {"coordinates":[-76.40000000000001,4.1],"type":"Point"}
+}

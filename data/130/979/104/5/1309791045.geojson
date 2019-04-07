@@ -1,0 +1,68 @@
+{
+  "id": 1309791045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64956,1.78919,-75.64956,1.78919",
+    "geom:latitude":1.78919,
+    "geom:longitude":-75.64956,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Sucre",
+    "gn:country_code":"CO",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667733,
+    "gn:latitude":1.78919,
+    "gn:longitude":-75.64956,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sucre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667733
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d9a97361bcc67ed46be7392f9337e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1309791045,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1309791045,
+    "wof:lastmodified":1536952517,
+    "wof:name":"Sucre",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64956,
+    1.78919,
+    -75.64956,
+    1.78919
+],
+  "geometry": {"coordinates":[-75.64955999999999,1.78919],"type":"Point"}
+}

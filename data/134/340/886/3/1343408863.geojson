@@ -1,0 +1,68 @@
+{
+  "id": 1343408863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73446,8.53458,-74.73446,8.53458",
+    "geom:latitude":8.53458,
+    "geom:longitude":-74.73446,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70429.0",
+    "gn:asciiname":"Puerto La Guadua",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671445,
+    "gn:latitude":8.53458,
+    "gn:longitude":-74.73446,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto La Guadua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671445
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6a4c9c0fe1fad4feae56468470411d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701401,
+            "locality_id":1343408863,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343408863,
+    "wof:lastmodified":1536819871,
+    "wof:name":"Puerto La Guadua",
+    "wof:parent_id":1108701401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73446,
+    8.53458,
+    -74.73446,
+    8.53458
+],
+  "geometry": {"coordinates":[-74.73446,8.53458],"type":"Point"}
+}

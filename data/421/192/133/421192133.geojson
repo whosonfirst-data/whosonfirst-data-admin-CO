@@ -1,0 +1,89 @@
+{
+  "id": 421192133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.68804,6.07084,-75.68804,6.07084",
+    "geom:latitude":6.07084,
+    "geom:longitude":-75.68804,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:por_x_preferred":[
+        "La Clarita"
+    ],
+    "name:spa_x_preferred":[
+        "La Clarita"
+    ],
+    "name:unk_x_variant":[
+        "Clarita"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0644\u0627\u0631\u06cc\u062a\u0627"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3679480,
+    "qs:gn_pop":0,
+    "qs:name":"La Clarita",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":138,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":138,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1165275,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":358348,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679480,
+        "gp:id":358348,
+        "qs:id":1165275
+    },
+    "wof:country":"CO",
+    "wof:created":1459009726,
+    "wof:geomhash":"250173aeec34da726b7c400b353b367e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205071,
+            "locality_id":421192133,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421192133,
+    "wof:lastmodified":1527716108,
+    "wof:name":"La Clarita",
+    "wof:parent_id":421205071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.68804,
+    6.07084,
+    -75.68804,
+    6.07084
+],
+  "geometry": {"coordinates":[-75.68804,6.07084],"type":"Point"}
+}

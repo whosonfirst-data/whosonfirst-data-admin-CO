@@ -1,0 +1,68 @@
+{
+  "id": 1343619363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.98778,5.03581,-75.98778,5.03581",
+    "geom:latitude":5.03581,
+    "geom:longitude":-75.98778,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"66687.0",
+    "gn:asciiname":"La Argentina",
+    "gn:country_code":"CO",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781279,
+    "gn:latitude":5.03581,
+    "gn:longitude":-75.98778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        1108701179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781279
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7c3d4135329973aa73b9edafa2557c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701179,
+            "locality_id":1343619363,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1343619363,
+    "wof:lastmodified":1537013728,
+    "wof:name":"La Argentina",
+    "wof:parent_id":1108701179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.98778,
+    5.03581,
+    -75.98778,
+    5.03581
+],
+  "geometry": {"coordinates":[-75.98778,5.03581],"type":"Point"}
+}

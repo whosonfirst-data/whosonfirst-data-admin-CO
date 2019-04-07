@@ -1,0 +1,68 @@
+{
+  "id": 1293273535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.19778,3.12,-75.19778,3.12",
+    "geom:latitude":3.12,
+    "geom:longitude":-75.19778,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41799.0",
+    "gn:asciiname":"Mesa Redonda",
+    "gn:country_code":"CO",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674828,
+    "gn:latitude":3.12,
+    "gn:longitude":-75.19778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mesa Redonda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674828
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ec31351f560d4779f43a4758f946c6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700849,
+            "locality_id":1293273535,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1293273535,
+    "wof:lastmodified":1537092278,
+    "wof:name":"Mesa Redonda",
+    "wof:parent_id":1108700849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.19778000000002,
+    3.12,
+    -75.19778000000002,
+    3.12
+],
+  "geometry": {"coordinates":[-75.19778000000002,3.12],"type":"Point"}
+}

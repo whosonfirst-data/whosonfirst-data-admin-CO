@@ -1,0 +1,62 @@
+{
+  "id": 1209058193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.44376,6.0367,-73.44376,6.0367",
+    "geom:latitude":6.0367,
+    "geom:longitude":-73.44376,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15185.0",
+    "gn:asciiname":"Campo Hermoso",
+    "gn:country_code":"CO",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810339,
+    "gn:latitude":6.0367,
+    "gn:longitude":-73.44376,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campo Hermoso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810339
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a12a62aade6254599dda3050af6fa871",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209058193
+        }
+    ],
+    "wof:id":1209058193,
+    "wof:lastmodified":1536299043,
+    "wof:name":"Campo Hermoso",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.44376,
+    6.0367,
+    -73.44376,
+    6.0367
+],
+  "geometry": {"coordinates":[-73.44376,6.0367],"type":"Point"}
+}

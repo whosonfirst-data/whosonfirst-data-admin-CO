@@ -1,0 +1,70 @@
+{
+  "id": 1209569887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60694,7.36056,-73.60694,7.36056",
+    "geom:latitude":7.36056,
+    "geom:longitude":-73.60694,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68655.0",
+    "gn:asciiname":"Palmira",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673158,
+    "gn:latitude":7.36056,
+    "gn:longitude":-73.60694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Hacienda Palmira",
+        "Palmira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673158
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"311cb5bf82721435887defcfbb339fe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209569887
+        }
+    ],
+    "wof:id":1209569887,
+    "wof:lastmodified":1537618443,
+    "wof:name":"Palmira",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60694000000002,
+    7.36056,
+    -73.60694000000002,
+    7.36056
+],
+  "geometry": {"coordinates":[-73.60694000000002,7.36056],"type":"Point"}
+}

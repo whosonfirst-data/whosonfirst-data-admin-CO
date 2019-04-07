@@ -1,0 +1,122 @@
+{
+  "id": 421170079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75156,3.12428,-73.75156,3.12428",
+    "geom:latitude":3.12428,
+    "geom:longitude":-73.75156,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6bd4\u65af\u5854\u57c3\u723e\u83ab\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:eng_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:epo_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:fre_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10e1\u10e2\u10d0-\u10d4\u10e0\u10db\u10dd\u10e1\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:may_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:nan_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u06cc\u0633\u062a\u0627 \u0627\u0631\u0645\u0648\u0633\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:spa_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:tgl_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "name:war_x_preferred":[
+        "Vista Hermosa"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3665860,
+    "qs:gn_pop":4282,
+    "qs:name":"Vista Hermosa",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214770,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369530,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665860,
+        "gp:id":369530,
+        "qs:id":214770,
+        "wd:id":"Q1442495"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008836,
+    "wof:geomhash":"9529338e612731423149ef7b25637505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700963,
+            "locality_id":421170079,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421170079,
+    "wof:lastmodified":1513944196,
+    "wof:name":"Vista Hermosa",
+    "wof:parent_id":1108700963,
+    "wof:placetype":"locality",
+    "wof:population":4282,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75156,
+    3.12428,
+    -73.75156,
+    3.12428
+],
+  "geometry": {"coordinates":[-73.75156,3.12428],"type":"Point"}
+}

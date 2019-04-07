@@ -1,0 +1,71 @@
+{
+  "id": 1276946247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.83327,0.56235,-76.83327,0.56235",
+    "geom:latitude":0.56235,
+    "geom:longitude":-76.83327,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86320.0",
+    "gn:asciiname":"San Antonio del Guamues",
+    "gn:country_code":"CO",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670065,
+    "gn:latitude":0.56235,
+    "gn:longitude":-76.83327,
+    "gn:modification_date":"2015-06-21",
+    "gn:name":"San Antonio del Guamu\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San Antonio del Guamues"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670065
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"547db3db9b4affd8a4c9ea1726793858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701561,
+            "locality_id":1276946247,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1276946247,
+    "wof:lastmodified":1537618404,
+    "wof:name":"San Antonio del Guamues",
+    "wof:parent_id":1108701561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.83327,
+    0.56235,
+    -76.83327,
+    0.56235
+],
+  "geometry": {"coordinates":[-76.83327,0.56235],"type":"Point"}
+}

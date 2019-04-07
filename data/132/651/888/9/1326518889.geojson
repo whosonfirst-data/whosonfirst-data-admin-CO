@@ -1,0 +1,73 @@
+{
+  "id": 1326518889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56667,8.11667,-73.56667,8.11667",
+    "geom:latitude":8.11667,
+    "geom:longitude":-73.56667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20614.0",
+    "gn:asciiname":"Once Reses",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673593,
+    "gn:latitude":8.11667,
+    "gn:longitude":-73.56667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Once Reses",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Once Recetas",
+        "Once Reses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673593
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"147094aaa7201a68e7a878f9eb3ee63c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700551,
+            "locality_id":1326518889,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1326518889,
+    "wof:lastmodified":1537618447,
+    "wof:name":"Once Reses",
+    "wof:parent_id":1108700551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56667,
+    8.11667,
+    -73.56667,
+    8.11667
+],
+  "geometry": {"coordinates":[-73.56667,8.11667],"type":"Point"}
+}

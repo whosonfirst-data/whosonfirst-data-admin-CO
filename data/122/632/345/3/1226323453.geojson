@@ -1,0 +1,71 @@
+{
+  "id": 1226323453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20295,7.16929,-77.20295,7.16929",
+    "geom:latitude":7.16929,
+    "geom:longitude":-77.20295,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"27615.0",
+    "gn:asciiname":"La Nueva",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10314068,
+    "gn:latitude":7.16929,
+    "gn:longitude":-77.20295,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        421205091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10314068
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"200751eb254f205510dcbe01844a1bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205091,
+            "locality_id":1226323453,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1226323453,
+    "wof:lastmodified":1537618817,
+    "wof:name":"La Nueva",
+    "wof:parent_id":421205091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20295,
+    7.16929,
+    -77.20295,
+    7.16929
+],
+  "geometry": {"coordinates":[-77.20295,7.16929],"type":"Point"}
+}

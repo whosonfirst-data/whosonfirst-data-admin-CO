@@ -1,0 +1,62 @@
+{
+  "id": 1209438557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76667,10.81667,-74.76667,10.81667",
+    "geom:latitude":10.81667,
+    "geom:longitude":-74.76667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8634.0",
+    "gn:asciiname":"Valencia",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666323,
+    "gn:latitude":10.81667,
+    "gn:longitude":-74.76667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Valencia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666323
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d1dd03e6f8ee086b1995c2ecd5af26c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209438557
+        }
+    ],
+    "wof:id":1209438557,
+    "wof:lastmodified":1536287028,
+    "wof:name":"Valencia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76666999999998,
+    10.81667,
+    -74.76666999999998,
+    10.81667
+],
+  "geometry": {"coordinates":[-74.76666999999998,10.81667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327222529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.04391,10.33267,-73.04391,10.33267",
+    "geom:latitude":10.33267,
+    "geom:longitude":-73.04391,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20621.0",
+    "gn:asciiname":"Tierra Nueva",
+    "gn:country_code":"CO",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560744,
+    "gn:latitude":10.33267,
+    "gn:longitude":-73.04391,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560744
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9de81b9c74c6b05457a02d70ad0141c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":1327222529,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1327222529,
+    "wof:lastmodified":1536983144,
+    "wof:name":"Tierra Nueva",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.04391,
+    10.33267,
+    -73.04391,
+    10.33267
+],
+  "geometry": {"coordinates":[-73.04391,10.33267],"type":"Point"}
+}

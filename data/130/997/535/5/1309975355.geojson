@@ -1,0 +1,71 @@
+{
+  "id": 1309975355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.19326,2.06552,-76.19326,2.06552",
+    "geom:latitude":2.06552,
+    "geom:longitude":-76.19326,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41660.0",
+    "gn:asciiname":"Morelia",
+    "gn:country_code":"CO",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783971,
+    "gn:latitude":2.06552,
+    "gn:longitude":-76.19326,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Morelia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Morelia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783971
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bc54fcdd2bbea4764fa3edd926638cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700837,
+            "locality_id":1309975355,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1309975355,
+    "wof:lastmodified":1537618691,
+    "wof:name":"Morelia",
+    "wof:parent_id":1108700837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.19326,
+    2.06552,
+    -76.19326,
+    2.06552
+],
+  "geometry": {"coordinates":[-76.19326,2.06552],"type":"Point"}
+}

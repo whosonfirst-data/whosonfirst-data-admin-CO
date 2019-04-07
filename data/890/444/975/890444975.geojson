@@ -1,0 +1,114 @@
+{
+  "id": 890444975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78969,9.03886,-75.78969,9.03886",
+    "geom:latitude":9.03886,
+    "geom:longitude":-75.78969,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":4880,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u6258\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Cotorra"
+    ],
+    "name:eng_x_preferred":[
+        "Cotorra"
+    ],
+    "name:fre_x_preferred":[
+        "Cotorra"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10dd\u10e0\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Cotorra"
+    ],
+    "name:may_x_preferred":[
+        "Cotorra"
+    ],
+    "name:nan_x_preferred":[
+        "Cotorra"
+    ],
+    "name:por_x_preferred":[
+        "Cotorra"
+    ],
+    "name:spa_x_preferred":[
+        "Cotorra"
+    ],
+    "name:swe_x_preferred":[
+        "Cotorra"
+    ],
+    "name:tgl_x_preferred":[
+        "Cotorra"
+    ],
+    "name:unk_x_variant":[
+        "Corregimiento Cotorra"
+    ],
+    "name:vie_x_preferred":[
+        "Cotorra"
+    ],
+    "name:war_x_preferred":[
+        "Cotorra"
+    ],
+    "qs:name":"Cotorra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685724,
+        "gp:id":353407,
+        "qs:id":1046358,
+        "wd:id":"Q1526122",
+        "wk:page":"Cotorra"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052489,
+    "wof:geomhash":"91c68182b3cca516c3e9e32c333fd257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700575,
+            "locality_id":890444975,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":890444975,
+    "wof:lastmodified":1527787056,
+    "wof:name":"Cotorra",
+    "wof:parent_id":1108700575,
+    "wof:placetype":"locality",
+    "wof:population":4880,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78969,
+    9.03886,
+    -75.78969,
+    9.03886
+],
+  "geometry": {"coordinates":[-75.78968999999999,9.03886],"type":"Point"}
+}

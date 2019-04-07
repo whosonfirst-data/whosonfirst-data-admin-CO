@@ -1,0 +1,68 @@
+{
+  "id": 1260082873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.62667,7.96,-76.62667,7.96",
+    "geom:latitude":7.96,
+    "geom:longitude":-76.62667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5837.0",
+    "gn:asciiname":"El Semillero",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785350,
+    "gn:latitude":7.96,
+    "gn:longitude":-76.62667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Semillero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421190195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785350
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4bb04d8968face29489a2eb8d91723de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190195,
+            "locality_id":1260082873,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1260082873,
+    "wof:lastmodified":1536988062,
+    "wof:name":"El Semillero",
+    "wof:parent_id":421190195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.62666999999998,
+    7.96,
+    -76.62666999999998,
+    7.96
+],
+  "geometry": {"coordinates":[-76.62666999999998,7.96],"type":"Point"}
+}

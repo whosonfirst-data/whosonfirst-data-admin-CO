@@ -1,0 +1,73 @@
+{
+  "id": 1259449607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.28115,12.11196,-71.28115,12.11196",
+    "geom:latitude":12.11196,
+    "geom:longitude":-71.28115,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Rancheria Ichiwouru",
+    "gn:country_code":"CO",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680485,
+    "gn:latitude":12.11196,
+    "gn:longitude":-71.28115,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Rancher\u00eda Ichiwouru",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ichiwouru",
+        "Ish\u00e1ruohu",
+        "Rancher\u00eda Ichiwouru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680485
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"75835899a65611e437fd920221328c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1259449607,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1259449607,
+    "wof:lastmodified":1537618543,
+    "wof:name":"Rancheria Ichiwouru",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28115,
+    12.11196,
+    -71.28115,
+    12.11196
+],
+  "geometry": {"coordinates":[-71.28115,12.11196],"type":"Point"}
+}

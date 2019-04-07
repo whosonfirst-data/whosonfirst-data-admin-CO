@@ -1,0 +1,68 @@
+{
+  "id": 1276378305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94207,7.37088,-73.94207,7.37088",
+    "geom:latitude":7.37088,
+    "geom:longitude":-73.94207,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13160.0",
+    "gn:asciiname":"Puerto Nuevo-Shell",
+    "gn:country_code":"CO",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829580,
+    "gn:latitude":7.37088,
+    "gn:longitude":-73.94207,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Nuevo-Shell",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829580
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f533212e04f7935aad6501cf6f7e177f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700107,
+            "locality_id":1276378305,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1276378305,
+    "wof:lastmodified":1536718581,
+    "wof:name":"Puerto Nuevo-Shell",
+    "wof:parent_id":1108700107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94207,
+    7.37088,
+    -73.94207,
+    7.37088
+],
+  "geometry": {"coordinates":[-73.94207,7.37088],"type":"Point"}
+}

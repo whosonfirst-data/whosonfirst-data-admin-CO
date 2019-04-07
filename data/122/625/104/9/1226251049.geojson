@@ -1,0 +1,73 @@
+{
+  "id": 1226251049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70361,6.93833,-75.70361,6.93833",
+    "geom:latitude":6.93833,
+    "geom:longitude":-75.70361,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5819.0",
+    "gn:asciiname":"Buenavista",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688410,
+    "gn:latitude":6.93833,
+    "gn:longitude":-75.70361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Granero",
+        "Buenavista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688410
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"433752738b9b4f769852502ad6f50dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700025,
+            "locality_id":1226251049,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226251049,
+    "wof:lastmodified":1537618641,
+    "wof:name":"Buenavista",
+    "wof:parent_id":1108700025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70361,
+    6.93833,
+    -75.70361,
+    6.93833
+],
+  "geometry": {"coordinates":[-75.70361,6.93833],"type":"Point"}
+}

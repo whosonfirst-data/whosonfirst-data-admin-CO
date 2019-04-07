@@ -1,0 +1,68 @@
+{
+  "id": 1243359535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91674,2.72103,-74.91674,2.72103",
+    "geom:latitude":2.72103,
+    "geom:longitude":-74.91674,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"Inspeccion de Policia de Rovira",
+    "gn:country_code":"CO",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7014477,
+    "gn:latitude":2.72103,
+    "gn:longitude":-74.91674,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Inspecci\u00f3n de Polic\u00eda de Rovira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7014477
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"de966b70200c0e8e985f256044c0eccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "locality_id":1243359535,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1243359535,
+    "wof:lastmodified":1536931649,
+    "wof:name":"Inspeccion de Policia de Rovira",
+    "wof:parent_id":1108700423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91674,
+    2.72103,
+    -74.91674,
+    2.72103
+],
+  "geometry": {"coordinates":[-74.91674,2.72103],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276701637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87835,6.22681,-70.87835,6.22681",
+    "geom:latitude":6.22681,
+    "geom:longitude":-70.87835,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"Los Mangos",
+    "gn:country_code":"CO",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676086,
+    "gn:latitude":6.22681,
+    "gn:longitude":-70.87835,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Mangos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Mangos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676086
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"474515b4da362eed47b415846e32d99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "locality_id":1276701637,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1276701637,
+    "wof:lastmodified":1537618473,
+    "wof:name":"Los Mangos",
+    "wof:parent_id":1108701525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87835,
+    6.22681,
+    -70.87835,
+    6.22681
+],
+  "geometry": {"coordinates":[-70.87835,6.22681],"type":"Point"}
+}

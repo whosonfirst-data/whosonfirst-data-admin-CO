@@ -1,0 +1,62 @@
+{
+  "id": 1209117999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66393,6.5694,-75.66393,6.5694",
+    "geom:latitude":6.5694,
+    "geom:longitude":-75.66393,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5086.0",
+    "gn:asciiname":"El Cherillo",
+    "gn:country_code":"CO",
+    "gn:dem":2584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786873,
+    "gn:latitude":6.5694,
+    "gn:longitude":-75.66393,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cherillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786873
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d4dc1e1bef0705584fe38dd357149ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209117999
+        }
+    ],
+    "wof:id":1209117999,
+    "wof:lastmodified":1536297195,
+    "wof:name":"El Cherillo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66393000000002,
+    6.5694,
+    -75.66393000000002,
+    6.5694
+],
+  "geometry": {"coordinates":[-75.66393000000002,6.5694],"type":"Point"}
+}

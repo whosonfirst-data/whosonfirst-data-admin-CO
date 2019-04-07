@@ -1,0 +1,72 @@
+{
+  "id": 1226417171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47652,4.03053,-73.47652,4.03053",
+    "geom:latitude":4.03053,
+    "geom:longitude":-73.47652,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Santa Rosa de Rionegro",
+    "gn:country_code":"CO",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668500,
+    "gn:latitude":4.03053,
+    "gn:longitude":-73.47652,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Rosa de R\u00edonegro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Rosa de R\u00edonegro",
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421170631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668500
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"25c64e7d4c8e794d3df2d8043b559f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170631,
+            "locality_id":1226417171,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226417171,
+    "wof:lastmodified":1537618386,
+    "wof:name":"Santa Rosa de Rionegro",
+    "wof:parent_id":421170631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47652,
+    4.03053,
+    -73.47652,
+    4.03053
+],
+  "geometry": {"coordinates":[-73.47651999999999,4.03053],"type":"Point"}
+}

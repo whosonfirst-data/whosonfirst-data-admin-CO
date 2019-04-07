@@ -1,0 +1,62 @@
+{
+  "id": 1209147661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21667,10.0,-74.21667,10.0",
+    "geom:latitude":10.0,
+    "geom:longitude":-74.21667,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47660.0",
+    "gn:asciiname":"Grecia",
+    "gn:country_code":"CO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681848,
+    "gn:latitude":10.0,
+    "gn:longitude":-74.21667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Grecia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681848
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"797f23c1fda602a23b54718cd7cd8291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209147661
+        }
+    ],
+    "wof:id":1209147661,
+    "wof:lastmodified":1536296307,
+    "wof:name":"Grecia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21667,
+    10.0,
+    -74.21667,
+    10.0
+],
+  "geometry": {"coordinates":[-74.21666999999999,10.0],"type":"Point"}
+}

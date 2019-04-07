@@ -1,0 +1,71 @@
+{
+  "id": 1259368099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64083,1.18191,-75.64083,1.18191",
+    "geom:latitude":1.18191,
+    "geom:longitude":-75.64083,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18860.0",
+    "gn:asciiname":"El Caribe",
+    "gn:country_code":"CO",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541529,
+    "gn:latitude":1.18191,
+    "gn:longitude":-75.64083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Caribe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Caribe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541529
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9d21c4b565882c4c80fbc977511de74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700429,
+            "locality_id":1259368099,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1259368099,
+    "wof:lastmodified":1537618736,
+    "wof:name":"El Caribe",
+    "wof:parent_id":1108700429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64083000000002,
+    1.18191,
+    -75.64083000000002,
+    1.18191
+],
+  "geometry": {"coordinates":[-75.64083000000002,1.18191],"type":"Point"}
+}

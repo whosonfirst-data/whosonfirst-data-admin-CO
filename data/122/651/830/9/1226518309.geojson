@@ -1,0 +1,68 @@
+{
+  "id": 1226518309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78682,11.92652,-71.78682,11.92652",
+    "geom:latitude":11.92652,
+    "geom:longitude":-71.78682,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Kuliamana",
+    "gn:country_code":"CO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8459180,
+    "gn:latitude":11.92652,
+    "gn:longitude":-71.78682,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Kuliamana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8459180
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be7b8db7c533068a55027f7c23dff8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1226518309,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226518309,
+    "wof:lastmodified":1537036111,
+    "wof:name":"Kuliamana",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78681999999998,
+    11.92652,
+    -71.78681999999998,
+    11.92652
+],
+  "geometry": {"coordinates":[-71.78681999999998,11.92652],"type":"Point"}
+}

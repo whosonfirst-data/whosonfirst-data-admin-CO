@@ -1,0 +1,72 @@
+{
+  "id": 1310690057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83387,7.94632,-73.83387,7.94632",
+    "geom:latitude":7.94632,
+    "geom:longitude":-73.83387,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"El Guayabo",
+    "gn:country_code":"CO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684099,
+    "gn:latitude":7.94632,
+    "gn:longitude":-73.83387,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Guayabo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carpintero",
+        "Guayabo",
+        "El Guayabo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684099
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8eef7ab54dd5ab84040d980785a2da64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701325,
+            "locality_id":1310690057,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1310690057,
+    "wof:lastmodified":1537618589,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":1108701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83386999999998,
+    7.94632,
+    -73.83386999999998,
+    7.94632
+],
+  "geometry": {"coordinates":[-73.83386999999998,7.94632],"type":"Point"}
+}

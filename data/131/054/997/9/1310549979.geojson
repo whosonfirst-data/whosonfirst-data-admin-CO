@@ -1,0 +1,68 @@
+{
+  "id": 1310549979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.7909,5.34865,-73.7909,5.34865",
+    "geom:latitude":5.34865,
+    "geom:longitude":-73.7909,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25843.0",
+    "gn:asciiname":"Guatancuy",
+    "gn:country_code":"CO",
+    "gn:dem":2546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681370,
+    "gn:latitude":5.34865,
+    "gn:longitude":-73.7909,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guatancuy",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421170269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681370
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"46e99bc7e8162ef3a9ba672c7bac4579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170269,
+            "locality_id":1310549979,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1310549979,
+    "wof:lastmodified":1536851838,
+    "wof:name":"Guatancuy",
+    "wof:parent_id":421170269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.7909,
+    5.34865,
+    -73.7909,
+    5.34865
+],
+  "geometry": {"coordinates":[-73.79089999999999,5.34865],"type":"Point"}
+}

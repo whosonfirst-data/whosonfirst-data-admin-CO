@@ -1,0 +1,68 @@
+{
+  "id": 1260060855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34382,4.43436,-77.34382,4.43436",
+    "geom:latitude":4.43436,
+    "geom:longitude":-77.34382,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"27250.0",
+    "gn:asciiname":"Pichima",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672349,
+    "gn:latitude":4.43436,
+    "gn:longitude":-77.34382,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pichim\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672349
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2c0a9cfe0b72698c87e6b4ebc2b68994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700765,
+            "locality_id":1260060855,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1260060855,
+    "wof:lastmodified":1537019811,
+    "wof:name":"Pichima",
+    "wof:parent_id":1108700765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34382,
+    4.43436,
+    -77.34382,
+    4.43436
+],
+  "geometry": {"coordinates":[-77.34381999999999,4.43436],"type":"Point"}
+}

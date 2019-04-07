@@ -1,0 +1,71 @@
+{
+  "id": 1259928669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72966,5.04617,-74.72966,5.04617",
+    "geom:latitude":5.04617,
+    "geom:longitude":-74.72966,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25320.0",
+    "gn:asciiname":"Quebrada Vilaqual",
+    "gn:country_code":"CO",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523673,
+    "gn:latitude":5.04617,
+    "gn:longitude":-74.72966,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quebrada Vilaqual",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Vilaqual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523673
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db1fad9ad25d7595602ba8928dd08fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701427,
+            "locality_id":1259928669,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259928669,
+    "wof:lastmodified":1537618716,
+    "wof:name":"Quebrada Vilaqual",
+    "wof:parent_id":1108701427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72966,
+    5.04617,
+    -74.72966,
+    5.04617
+],
+  "geometry": {"coordinates":[-74.72966,5.04617],"type":"Point"}
+}

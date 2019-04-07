@@ -1,0 +1,72 @@
+{
+  "id": 1310477689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81312,10.87219,-72.81312,10.87219",
+    "geom:latitude":10.87219,
+    "geom:longitude":-72.81312,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44279.0",
+    "gn:asciiname":"Caimito",
+    "gn:country_code":"CO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758102,
+    "gn:latitude":10.87219,
+    "gn:longitude":-72.81312,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caimito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camito",
+        "Caimito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758102
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1010f44a4dff65e21ebe2264b2315080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700861,
+            "locality_id":1310477689,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1310477689,
+    "wof:lastmodified":1537618685,
+    "wof:name":"Caimito",
+    "wof:parent_id":1108700861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81312,
+    10.87219,
+    -72.81312,
+    10.87219
+],
+  "geometry": {"coordinates":[-72.81312,10.87219],"type":"Point"}
+}

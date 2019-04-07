@@ -1,0 +1,71 @@
+{
+  "id": 1276221775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75816,1.12151,-75.75816,1.12151",
+    "geom:latitude":1.12151,
+    "geom:longitude":-75.75816,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18860.0",
+    "gn:asciiname":"Santiago de La Selva",
+    "gn:country_code":"CO",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542156,
+    "gn:latitude":1.12151,
+    "gn:longitude":-75.75816,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santiago de La Selva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santiago de La Selva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542156
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f1b86f3cbce128ccfbc90568c52a4199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700429,
+            "locality_id":1276221775,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1276221775,
+    "wof:lastmodified":1537618740,
+    "wof:name":"Santiago de La Selva",
+    "wof:parent_id":1108700429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75816,
+    1.12151,
+    -75.75816,
+    1.12151
+],
+  "geometry": {"coordinates":[-75.75816,1.12151],"type":"Point"}
+}

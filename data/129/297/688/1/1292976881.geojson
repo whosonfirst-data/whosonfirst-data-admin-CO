@@ -1,0 +1,68 @@
+{
+  "id": 1292976881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.69867,11.49814,-72.69867,11.49814",
+    "geom:latitude":11.49814,
+    "geom:longitude":-72.69867,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Karapoipa",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756421,
+    "gn:latitude":11.49814,
+    "gn:longitude":-72.69867,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Karapoipa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756421
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"69e5da5734166aa7c02624a3fdc3478b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1292976881,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1292976881,
+    "wof:lastmodified":1537025068,
+    "wof:name":"Karapoipa",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.69866999999998,
+    11.49814,
+    -72.69866999999998,
+    11.49814
+],
+  "geometry": {"coordinates":[-72.69866999999998,11.49814],"type":"Point"}
+}

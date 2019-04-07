@@ -1,0 +1,72 @@
+{
+  "id": 1209770185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74618,6.20988,-73.74618,6.20988",
+    "geom:latitude":6.20988,
+    "geom:longitude":-73.74618,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68385.0",
+    "gn:asciiname":"Jordan Bajo",
+    "gn:country_code":"CO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680228,
+    "gn:latitude":6.20988,
+    "gn:longitude":-73.74618,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Jord\u00e1n Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajo Jordan",
+        "Jord\u00e1n Bajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680228
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a94a8a70e34953a27e8fde75b94b679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701283,
+            "locality_id":1209770185,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1209770185,
+    "wof:lastmodified":1537618540,
+    "wof:name":"Jordan Bajo",
+    "wof:parent_id":1108701283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74618000000002,
+    6.20988,
+    -73.74618000000002,
+    6.20988
+],
+  "geometry": {"coordinates":[-73.74618000000002,6.20988],"type":"Point"}
+}

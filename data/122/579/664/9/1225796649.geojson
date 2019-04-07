@@ -1,0 +1,68 @@
+{
+  "id": 1225796649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.35,5.35,-75.35,5.35",
+    "geom:latitude":5.35,
+    "geom:longitude":-75.35,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17653.0",
+    "gn:asciiname":"Aguadita",
+    "gn:country_code":"CO",
+    "gn:dem":3305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690426,
+    "gn:latitude":5.35,
+    "gn:longitude":-75.35,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguadita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421205079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690426
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2c9a24d2f1bf6b50afe02ae40ab0dae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205079,
+            "locality_id":1225796649,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1225796649,
+    "wof:lastmodified":1537081495,
+    "wof:name":"Aguadita",
+    "wof:parent_id":421205079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35,
+    5.35,
+    -75.35,
+    5.35
+],
+  "geometry": {"coordinates":[-75.34999999999999,5.35],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226393315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.75199,4.03064,-74.75199,4.03064",
+    "geom:latitude":4.03064,
+    "geom:longitude":-74.75199,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73226.0",
+    "gn:asciiname":"Vereda Paramo",
+    "gn:country_code":"CO",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8572262,
+    "gn:latitude":4.03064,
+    "gn:longitude":-74.75199,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Paramo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Paramo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572262
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"112c406f923dec2bf6b89400e9024831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701435,
+            "locality_id":1226393315,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1226393315,
+    "wof:lastmodified":1537618784,
+    "wof:name":"Vereda Paramo",
+    "wof:parent_id":1108701435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.75199,
+    4.03064,
+    -74.75199,
+    4.03064
+],
+  "geometry": {"coordinates":[-74.75199000000001,4.03064],"type":"Point"}
+}

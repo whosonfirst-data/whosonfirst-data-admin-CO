@@ -1,0 +1,72 @@
+{
+  "id": 1259744433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.10372,3.97,-75.10372,3.97",
+    "geom:latitude":3.97,
+    "geom:longitude":-75.10372,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73504.0",
+    "gn:asciiname":"Cucuana",
+    "gn:country_code":"CO",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671601,
+    "gn:latitude":3.97,
+    "gn:longitude":-75.10372,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cucuana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puente Cucuana",
+        "Cucuana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671601
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"623f17c4e636e1bcb886a8a122cfe3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701449,
+            "locality_id":1259744433,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259744433,
+    "wof:lastmodified":1537618424,
+    "wof:name":"Cucuana",
+    "wof:parent_id":1108701449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.10372,
+    3.97,
+    -75.10372,
+    3.97
+],
+  "geometry": {"coordinates":[-75.10372,3.97],"type":"Point"}
+}

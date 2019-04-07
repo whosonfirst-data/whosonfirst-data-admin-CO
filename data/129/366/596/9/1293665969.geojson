@@ -1,0 +1,72 @@
+{
+  "id": 1293665969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80737,9.07088,-75.80737,9.07088",
+    "geom:latitude":9.07088,
+    "geom:longitude":-75.80737,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23417.0",
+    "gn:asciiname":"Morales",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674411,
+    "gn:latitude":9.07088,
+    "gn:longitude":-75.80737,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Morales",
+        "Morales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674411
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e6e23d0f9a33cc7797372c031e9dee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":1293665969,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1293665969,
+    "wof:lastmodified":1537618454,
+    "wof:name":"Morales",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80736999999998,
+    9.07088,
+    -75.80736999999998,
+    9.07088
+],
+  "geometry": {"coordinates":[-75.80736999999998,9.07088],"type":"Point"}
+}

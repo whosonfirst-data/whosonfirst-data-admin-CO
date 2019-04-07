@@ -1,0 +1,68 @@
+{
+  "id": 1309857517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79785,5.77959,-72.79785,5.77959",
+    "geom:latitude":5.77959,
+    "geom:longitude":-72.79785,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15296.0",
+    "gn:asciiname":"Sotara",
+    "gn:country_code":"CO",
+    "gn:dem":2717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667794,
+    "gn:latitude":5.77959,
+    "gn:longitude":-72.79785,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sotar\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667794
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d4667fddeb349534474c38d05da12d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700241,
+            "locality_id":1309857517,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1309857517,
+    "wof:lastmodified":1536855506,
+    "wof:name":"Sotara",
+    "wof:parent_id":1108700241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79785,
+    5.77959,
+    -72.79785,
+    5.77959
+],
+  "geometry": {"coordinates":[-72.79785,5.77959],"type":"Point"}
+}

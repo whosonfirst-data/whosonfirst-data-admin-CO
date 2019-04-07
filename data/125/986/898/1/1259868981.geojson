@@ -1,0 +1,68 @@
+{
+  "id": 1259868981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.68717,2.50923,-77.68717,2.50923",
+    "geom:latitude":2.50923,
+    "geom:longitude":-77.68717,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19318.0",
+    "gn:asciiname":"Charcolargo",
+    "gn:country_code":"CO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829028,
+    "gn:latitude":2.50923,
+    "gn:longitude":-77.68717,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Charcolargo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829028
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"08a660a0b472461c2dd791f4891c5463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700461,
+            "locality_id":1259868981,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1259868981,
+    "wof:lastmodified":1536800155,
+    "wof:name":"Charcolargo",
+    "wof:parent_id":1108700461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.68717,
+    2.50923,
+    -77.68717,
+    2.50923
+],
+  "geometry": {"coordinates":[-77.68716999999999,2.50923],"type":"Point"}
+}

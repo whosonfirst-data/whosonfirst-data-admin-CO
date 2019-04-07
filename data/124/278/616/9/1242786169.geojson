@@ -1,0 +1,71 @@
+{
+  "id": 1242786169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50046,6.11718,-75.50046,6.11718",
+    "geom:latitude":6.11718,
+    "geom:longitude":-75.50046,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5607.0",
+    "gn:asciiname":"El Carajo",
+    "gn:country_code":"CO",
+    "gn:dem":2178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337199,
+    "gn:latitude":6.11718,
+    "gn:longitude":-75.50046,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Carajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Carajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421200813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337199
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3b7c1118a18a358170f2434fde5c8453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200813,
+            "locality_id":1242786169,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1242786169,
+    "wof:lastmodified":1537618774,
+    "wof:name":"El Carajo",
+    "wof:parent_id":421200813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50046,
+    6.11718,
+    -75.50046,
+    6.11718
+],
+  "geometry": {"coordinates":[-75.50046,6.11718],"type":"Point"}
+}

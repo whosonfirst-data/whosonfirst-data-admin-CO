@@ -1,0 +1,62 @@
+{
+  "id": 1209183343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36209,3.12672,-75.36209,3.12672",
+    "geom:latitude":3.12672,
+    "geom:longitude":-75.36209,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41016.0",
+    "gn:asciiname":"Mirador",
+    "gn:country_code":"CO",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736178,
+    "gn:latitude":3.12672,
+    "gn:longitude":-75.36209,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mirador",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736178
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d0530e04460b8d3b909e721f9de664d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209183343
+        }
+    ],
+    "wof:id":1209183343,
+    "wof:lastmodified":1536295184,
+    "wof:name":"Mirador",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36209000000002,
+    3.12672,
+    -75.36209000000002,
+    3.12672
+],
+  "geometry": {"coordinates":[-75.36209000000002,3.12672],"type":"Point"}
+}

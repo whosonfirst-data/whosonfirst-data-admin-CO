@@ -1,0 +1,68 @@
+{
+  "id": 1310371975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62163,5.99528,-73.62163,5.99528",
+    "geom:latitude":5.99528,
+    "geom:longitude":-73.62163,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68861.0",
+    "gn:asciiname":"Casa Blanca",
+    "gn:country_code":"CO",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776184,
+    "gn:latitude":5.99528,
+    "gn:longitude":-73.62163,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casa Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776184
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"32a494108e3c6352920ce7dc0f08e715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701367,
+            "locality_id":1310371975,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1310371975,
+    "wof:lastmodified":1536609541,
+    "wof:name":"Casa Blanca",
+    "wof:parent_id":1108701367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62163000000002,
+    5.99528,
+    -73.62163000000002,
+    5.99528
+],
+  "geometry": {"coordinates":[-73.62163000000002,5.99528],"type":"Point"}
+}

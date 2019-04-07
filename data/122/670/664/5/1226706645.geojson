@@ -1,0 +1,68 @@
+{
+  "id": 1226706645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.66663,6.65863,-72.66663,6.65863",
+    "geom:latitude":6.65863,
+    "geom:longitude":-72.66663,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68266.0",
+    "gn:asciiname":"Robles",
+    "gn:country_code":"CO",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670667,
+    "gn:latitude":6.65863,
+    "gn:longitude":-72.66663,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Robles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670667
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c52aca08cf8bd7377231f752a8db6ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701249,
+            "locality_id":1226706645,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1226706645,
+    "wof:lastmodified":1536772657,
+    "wof:name":"Robles",
+    "wof:parent_id":1108701249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66663,
+    6.65863,
+    -72.66663,
+    6.65863
+],
+  "geometry": {"coordinates":[-72.66663,6.65863],"type":"Point"}
+}

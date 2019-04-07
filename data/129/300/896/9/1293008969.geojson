@@ -1,0 +1,73 @@
+{
+  "id": 1293008969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03333,7.75,-75.03333,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":-75.03333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5154.0",
+    "gn:asciiname":"Caseri",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687129,
+    "gn:latitude":7.75,
+    "gn:longitude":-75.03333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacer\u00ed",
+        "Caser\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687129
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"18c75fb33f79df452014a58d1756c77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699935,
+            "locality_id":1293008969,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293008969,
+    "wof:lastmodified":1537618627,
+    "wof:name":"Caseri",
+    "wof:parent_id":1108699935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03333,
+    7.75,
+    -75.03333,
+    7.75
+],
+  "geometry": {"coordinates":[-75.03333000000001,7.75],"type":"Point"}
+}

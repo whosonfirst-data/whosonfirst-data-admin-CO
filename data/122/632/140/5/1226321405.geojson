@@ -1,0 +1,68 @@
+{
+  "id": 1226321405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47361,8.25167,-73.47361,8.25167",
+    "geom:latitude":8.25167,
+    "geom:longitude":-73.47361,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20614.0",
+    "gn:asciiname":"Diego Hernandez",
+    "gn:country_code":"CO",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737851,
+    "gn:latitude":8.25167,
+    "gn:longitude":-73.47361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Diego Hern\u00e1ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737851
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d333f57118f9bab70b51a6a5941a3591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700551,
+            "locality_id":1226321405,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226321405,
+    "wof:lastmodified":1536823736,
+    "wof:name":"Diego Hernandez",
+    "wof:parent_id":1108700551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47361,
+    8.25167,
+    -73.47361,
+    8.25167
+],
+  "geometry": {"coordinates":[-73.47360999999999,8.25167],"type":"Point"}
+}

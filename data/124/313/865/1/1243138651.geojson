@@ -1,0 +1,68 @@
+{
+  "id": 1243138651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36771,11.31279,-72.36771,11.31279",
+    "geom:latitude":11.31279,
+    "geom:longitude":-72.36771,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Atasure",
+    "gn:country_code":"CO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689442,
+    "gn:latitude":11.31279,
+    "gn:longitude":-72.36771,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Atasure",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689442
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a295b2a3c50a04a8e8ea608ea640384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1243138651,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1243138651,
+    "wof:lastmodified":1536752400,
+    "wof:name":"Atasure",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36771,
+    11.31279,
+    -72.36771,
+    11.31279
+],
+  "geometry": {"coordinates":[-72.36771,11.31279],"type":"Point"}
+}

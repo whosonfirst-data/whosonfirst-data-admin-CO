@@ -1,0 +1,72 @@
+{
+  "id": 1226495401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.85092,9.45866,-74.85092,9.45866",
+    "geom:latitude":9.45866,
+    "geom:longitude":-74.85092,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13212.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"CO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668658,
+    "gn:latitude":9.45866,
+    "gn:longitude":-74.85092,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Santa Lucia",
+        "Santa Luc\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668658
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8bff4df8e06b66cf01b19165ab9a012d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700113,
+            "locality_id":1226495401,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226495401,
+    "wof:lastmodified":1537618388,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":1108700113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.85092,
+    9.45866,
+    -74.85092,
+    9.45866
+],
+  "geometry": {"coordinates":[-74.85092,9.45866],"type":"Point"}
+}

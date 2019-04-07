@@ -1,0 +1,71 @@
+{
+  "id": 1292915273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70747,6.16833,-75.70747,6.16833",
+    "geom:latitude":6.16833,
+    "geom:longitude":-75.70747,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5347.0",
+    "gn:asciiname":"La Herradurita",
+    "gn:country_code":"CO",
+    "gn:dem":2089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337542,
+    "gn:latitude":6.16833,
+    "gn:longitude":-75.70747,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Herradurita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Herradurita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421184085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337542
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d131b3d4d4727d5425175e3bf682b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184085,
+            "locality_id":1292915273,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1292915273,
+    "wof:lastmodified":1537618777,
+    "wof:name":"La Herradurita",
+    "wof:parent_id":421184085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70747,
+    6.16833,
+    -75.70747,
+    6.16833
+],
+  "geometry": {"coordinates":[-75.70747,6.16833],"type":"Point"}
+}

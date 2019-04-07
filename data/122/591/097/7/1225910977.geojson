@@ -1,0 +1,68 @@
+{
+  "id": 1225910977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.49065,6.13269,-73.49065,6.13269",
+    "geom:latitude":6.13269,
+    "geom:longitude":-73.49065,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68673.0",
+    "gn:asciiname":"San Benito",
+    "gn:country_code":"CO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670042,
+    "gn:latitude":6.13269,
+    "gn:longitude":-73.49065,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Benito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670042
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"368bd520654ef94f48caecacf839c50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701335,
+            "locality_id":1225910977,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1225910977,
+    "wof:lastmodified":1536920409,
+    "wof:name":"San Benito",
+    "wof:parent_id":1108701335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.49065,
+    6.13269,
+    -73.49065,
+    6.13269
+],
+  "geometry": {"coordinates":[-73.49065,6.13269],"type":"Point"}
+}

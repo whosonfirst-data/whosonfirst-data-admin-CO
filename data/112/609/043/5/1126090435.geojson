@@ -1,0 +1,100 @@
+{
+  "id": 1126090435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53333,10.43333,-75.53333,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":-75.53333,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":10.43333,
+    "gn:longitude":-75.53333,
+    "iso:country":"CO",
+    "lbl:latitude":10.43333,
+    "lbl:longitude":-75.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Amador"
+    ],
+    "name:unk_x_variant":[
+        "Amador"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3690021,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Amador",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Bolivar",
+    "qs_pg:photos":786,
+    "qs_pg:photos_1k":159,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":786,
+    "qs_pg:photos_sr":9,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082689,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":350770,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Bolivar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670209,
+        102191577,
+        85632519,
+        1108700093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690021,
+        "gp:id":350770,
+        "qs:id":1082689,
+        "qs_pg:id":1082689
+    },
+    "wof:country":"CO",
+    "wof:created":1497313633,
+    "wof:geomhash":"dffd2dec1b483eb5144554e7e5abec03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":1126090435,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1126090435,
+    "wof:lastmodified":1534379262,
+    "wof:name":"Amador",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764513
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53333,
+    10.43333,
+    -75.53333,
+    10.43333
+],
+  "geometry": {"coordinates":[-75.53333000000001,10.43333],"type":"Point"}
+}

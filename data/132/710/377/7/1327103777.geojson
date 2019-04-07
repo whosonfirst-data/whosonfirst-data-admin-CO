@@ -1,0 +1,71 @@
+{
+  "id": 1327103777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07757,2.89266,-75.07757,2.89266",
+    "geom:latitude":2.89266,
+    "geom:longitude":-75.07757,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001",
+    "gn:asciiname":"San Roman",
+    "gn:country_code":"CO",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356843,
+    "gn:latitude":2.89266,
+    "gn:longitude":-75.07757,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Rom\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Rom\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356843
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4fa246ff7c304913bf4bf348245eb4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1327103777,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327103777,
+    "wof:lastmodified":1537618841,
+    "wof:name":"San Roman",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07757,
+    2.89266,
+    -75.07757,
+    2.89266
+],
+  "geometry": {"coordinates":[-75.07756999999999,2.89266],"type":"Point"}
+}

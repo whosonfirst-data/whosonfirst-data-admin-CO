@@ -1,0 +1,68 @@
+{
+  "id": 1209481751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3697,12.01772,-71.3697,12.01772",
+    "geom:latitude":12.01772,
+    "geom:longitude":-71.3697,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Rancheria Amace",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8462781,
+    "gn:latitude":12.01772,
+    "gn:longitude":-71.3697,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Rancher\u00eda Amace",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancher\u00eda Amace"
+    ],
+    "name:und_x_variant":[
+        "Amace"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462781
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6bae974e909af1c603ee658b29234899",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209481751
+        }
+    ],
+    "wof:id":1209481751,
+    "wof:lastmodified":1537618778,
+    "wof:name":"Rancheria Amace",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3697,
+    12.01772,
+    -71.3697,
+    12.01772
+],
+  "geometry": {"coordinates":[-71.36969999999999,12.01772],"type":"Point"}
+}

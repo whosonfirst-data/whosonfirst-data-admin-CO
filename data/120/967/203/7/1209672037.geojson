@@ -1,0 +1,62 @@
+{
+  "id": 1209672037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62833,5.84417,-73.62833,5.84417",
+    "geom:latitude":5.84417,
+    "geom:longitude":-73.62833,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68572.0",
+    "gn:asciiname":"Alto Cantano",
+    "gn:country_code":"CO",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776086,
+    "gn:latitude":5.84417,
+    "gn:longitude":-73.62833,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alto Cantano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776086
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3f9f3ba600fc44799b04952a1e64d708",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209672037
+        }
+    ],
+    "wof:id":1209672037,
+    "wof:lastmodified":1536279886,
+    "wof:name":"Alto Cantano",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62833,
+    5.84417,
+    -73.62833,
+    5.84417
+],
+  "geometry": {"coordinates":[-73.62833000000001,5.84417],"type":"Point"}
+}

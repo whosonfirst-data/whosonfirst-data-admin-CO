@@ -1,0 +1,72 @@
+{
+  "id": 1310092017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.98386,8.40351,-74.98386,8.40351",
+    "geom:latitude":8.40351,
+    "geom:longitude":-74.98386,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23068.0",
+    "gn:asciiname":"Barandilla",
+    "gn:country_code":"CO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689240,
+    "gn:latitude":8.40351,
+    "gn:longitude":-74.98386,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barandilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Barandilla",
+        "Barandilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421203439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689240
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ef8aa083e8002f78d7eaca8071928de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203439,
+            "locality_id":1310092017,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1310092017,
+    "wof:lastmodified":1537618652,
+    "wof:name":"Barandilla",
+    "wof:parent_id":421203439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.98385999999998,
+    8.40351,
+    -74.98385999999998,
+    8.40351
+],
+  "geometry": {"coordinates":[-74.98385999999998,8.40351],"type":"Point"}
+}

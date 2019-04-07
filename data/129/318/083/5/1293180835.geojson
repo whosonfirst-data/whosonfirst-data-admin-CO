@@ -1,0 +1,72 @@
+{
+  "id": 1293180835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05378,8.75203,-75.05378,8.75203",
+    "geom:latitude":8.75203,
+    "geom:longitude":-75.05378,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Mamon",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683868,
+    "gn:latitude":8.75203,
+    "gn:longitude":-75.05378,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Mam\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamon",
+        "Caser\u00edo el Mamon",
+        "El Mam\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683868
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f461324aa07f85327c38eeda58d541f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701379,
+            "locality_id":1293180835,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1293180835,
+    "wof:lastmodified":1537618583,
+    "wof:name":"El Mamon",
+    "wof:parent_id":1108701379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05378,
+    8.75203,
+    -75.05378,
+    8.75203
+],
+  "geometry": {"coordinates":[-75.05378,8.75203],"type":"Point"}
+}

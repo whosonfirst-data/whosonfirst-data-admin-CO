@@ -1,0 +1,65 @@
+{
+  "id": 1209605567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64105,1.66077,-75.64105,1.66077",
+    "geom:latitude":1.66077,
+    "geom:longitude":-75.64105,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"La Lomita",
+    "gn:country_code":"CO",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194162,
+    "gn:latitude":1.66077,
+    "gn:longitude":-75.64105,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Lomita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Lomita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194162
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f00778be3f77eade6d65ede699277477",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209605567
+        }
+    ],
+    "wof:id":1209605567,
+    "wof:lastmodified":1537618763,
+    "wof:name":"La Lomita",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64105,
+    1.66077,
+    -75.64105,
+    1.66077
+],
+  "geometry": {"coordinates":[-75.64105000000001,1.66077],"type":"Point"}
+}

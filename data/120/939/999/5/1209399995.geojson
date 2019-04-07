@@ -1,0 +1,74 @@
+{
+  "id": 1209399995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76614,2.12172,-74.76614,2.12172",
+    "geom:latitude":2.12172,
+    "geom:longitude":-74.76614,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"San Vicente del Caguan",
+    "gn:country_code":"CO",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3668290,
+    "gn:latitude":2.12172,
+    "gn:longitude":-74.76614,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"San Vicente del Cagu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0648\u06cc\u0633\u0646\u062a\u0647 \u062f\u0644 \u06a9\u0627\u06af\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "San Vicente",
+        "San Vicente de Cagu\u00e1n",
+        "San Vicente del Cagu\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7dad\u68ee\u7279\u5fb7\u723e\u5361\u53e4\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668290,
+        "wk:page":"San_Vicente_del_Cagu%C3%A1n"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ca228744eee3216ea2ed137688db86d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209399995
+        }
+    ],
+    "wof:id":1209399995,
+    "wof:lastmodified":1537618383,
+    "wof:name":"San Vicente del Caguan",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76614000000002,
+    2.12172,
+    -74.76614000000002,
+    2.12172
+],
+  "geometry": {"coordinates":[-74.76614000000002,2.12172],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 421181101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56807,11.25755,-73.56807,11.25755",
+    "geom:latitude":11.25755,
+    "geom:longitude":-73.56807,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Palomino"
+    ],
+    "name:dut_x_preferred":[
+        "Palomino"
+    ],
+    "name:eng_x_preferred":[
+        "Palomino"
+    ],
+    "name:ger_x_preferred":[
+        "Palomino"
+    ],
+    "name:spa_x_preferred":[
+        "Palomino"
+    ],
+    "name:unk_x_variant":[
+        "Caserio Palomino"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3673093,
+    "qs:gn_pop":0,
+    "qs:name":"Palomino",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"La Guajira",
+    "qs:photos":194,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":194,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475224,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369202,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2837,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421202543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673093,
+        "gp:id":369202,
+        "qs:id":475224,
+        "wd:id":"Q5248765",
+        "wk:page":"Palomino, Colombia"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009285,
+    "wof:geomhash":"5455ab72ed614d67969c49e5c93f1215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202543,
+            "locality_id":421181101,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":421181101,
+    "wof:lastmodified":1527716327,
+    "wof:name":"Palomino",
+    "wof:parent_id":421202543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56807,
+    11.25755,
+    -73.56807,
+    11.25755
+],
+  "geometry": {"coordinates":[-73.56807000000001,11.25755],"type":"Point"}
+}

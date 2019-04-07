@@ -1,0 +1,76 @@
+{
+  "id": 1326811691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39441,1.89618,-76.39441,1.89618",
+    "geom:latitude":1.89618,
+    "geom:longitude":-76.39441,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41668.0",
+    "gn:asciiname":"Villa Fatima",
+    "gn:country_code":"CO",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666005,
+    "gn:latitude":1.89618,
+    "gn:longitude":-76.39441,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa F\u00e1tima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa F\u00e1tima"
+    ],
+    "name:und_x_variant":[
+        "La Palma",
+        "Villa F\u00e1tima",
+        "Villa de F\u00e1tima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421187817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666005
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e93c956eaa73d8e9c405705c11b983dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187817,
+            "locality_id":1326811691,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1326811691,
+    "wof:lastmodified":1537618362,
+    "wof:name":"Villa Fatima",
+    "wof:parent_id":421187817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39441,
+    1.89618,
+    -76.39441,
+    1.89618
+],
+  "geometry": {"coordinates":[-76.39440999999999,1.89618],"type":"Point"}
+}

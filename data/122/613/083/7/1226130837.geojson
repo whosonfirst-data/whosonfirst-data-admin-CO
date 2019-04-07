@@ -1,0 +1,68 @@
+{
+  "id": 1226130837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62448,8.39479,-73.62448,8.39479",
+    "geom:latitude":8.39479,
+    "geom:longitude":-73.62448,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20295.0",
+    "gn:asciiname":"Socorro",
+    "gn:country_code":"CO",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016023,
+    "gn:latitude":8.39479,
+    "gn:longitude":-73.62448,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016023
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"75ef978d87853089eb2b3d223a688a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700539,
+            "locality_id":1226130837,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226130837,
+    "wof:lastmodified":1537095981,
+    "wof:name":"Socorro",
+    "wof:parent_id":1108700539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62448,
+    8.39479,
+    -73.62448,
+    8.39479
+],
+  "geometry": {"coordinates":[-73.62448000000001,8.39479],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293356881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.96108,10.4975,-72.96108,10.4975",
+    "geom:latitude":10.4975,
+    "geom:longitude":-72.96108,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44855.0",
+    "gn:asciiname":"La Dudita",
+    "gn:country_code":"CO",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757975,
+    "gn:latitude":10.4975,
+    "gn:longitude":-72.96108,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Dudita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757975
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3175b0fcdac101bc9b3efb221cfb20ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700867,
+            "locality_id":1293356881,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293356881,
+    "wof:lastmodified":1536974942,
+    "wof:name":"La Dudita",
+    "wof:parent_id":1108700867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.96108000000002,
+    10.4975,
+    -72.96108000000002,
+    10.4975
+],
+  "geometry": {"coordinates":[-72.96108000000002,10.4975],"type":"Point"}
+}

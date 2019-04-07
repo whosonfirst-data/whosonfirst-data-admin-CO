@@ -1,0 +1,68 @@
+{
+  "id": 1293368857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94878,9.41395,-73.94878,9.41395",
+    "geom:latitude":9.41395,
+    "geom:longitude":-73.94878,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20032.0",
+    "gn:asciiname":"Polo Norte",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731324,
+    "gn:latitude":9.41395,
+    "gn:longitude":-73.94878,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Polo Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731324
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5ea1621d0a5affa12a65d648ed55632e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700527,
+            "locality_id":1293368857,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293368857,
+    "wof:lastmodified":1536958089,
+    "wof:name":"Polo Norte",
+    "wof:parent_id":1108700527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94878,
+    9.41395,
+    -73.94878,
+    9.41395
+],
+  "geometry": {"coordinates":[-73.94878,9.41395],"type":"Point"}
+}

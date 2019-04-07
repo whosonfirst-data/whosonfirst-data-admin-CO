@@ -1,0 +1,100 @@
+{
+  "id": 1126102965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2,11.26667,-74.2,11.26667",
+    "geom:latitude":11.26667,
+    "geom:longitude":-74.2,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":11.26667,
+    "gn:longitude":-74.2,
+    "iso:country":"CO",
+    "lbl:latitude":11.26667,
+    "lbl:longitude":-74.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Pescadito"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Pescadito"
+    ],
+    "name:unk_x_variant":[
+        "Pescadito",
+        "Barrio Pescadito"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3672423,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Pescadito",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Magdalena",
+    "qs_pg:photos":2380,
+    "qs_pg:photos_1k":482,
+    "qs_pg:photos_9k":11,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2380,
+    "qs_pg:photos_sr":17,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":298902,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":363761,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Magdalena",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672423,
+        "gp:id":363761,
+        "qs:id":298902,
+        "qs_pg:id":298902
+    },
+    "wof:country":"CO",
+    "wof:created":1497316390,
+    "wof:geomhash":"c17266d11df100ec7de62d19e838d63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126102965,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126102965,
+    "wof:lastmodified":1534379261,
+    "wof:name":"Pescadito",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85794113
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2,
+    11.26667,
+    -74.2,
+    11.26667
+],
+  "geometry": {"coordinates":[-74.2,11.26667],"type":"Point"}
+}

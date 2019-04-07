@@ -1,0 +1,68 @@
+{
+  "id": 1309860415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11972,7.28111,-73.11972,7.28111",
+    "geom:latitude":7.28111,
+    "geom:longitude":-73.11972,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"La Victoria",
+    "gn:country_code":"CO",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732281,
+    "gn:latitude":7.28111,
+    "gn:longitude":-73.11972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732281
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9c46b0a326db0785e6b3cd3bb6e99e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701327,
+            "locality_id":1309860415,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1309860415,
+    "wof:lastmodified":1536851434,
+    "wof:name":"La Victoria",
+    "wof:parent_id":1108701327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11972,
+    7.28111,
+    -73.11972,
+    7.28111
+],
+  "geometry": {"coordinates":[-73.11972,7.28111],"type":"Point"}
+}

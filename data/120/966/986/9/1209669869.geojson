@@ -1,0 +1,66 @@
+{
+  "id": 1209669869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4883,6.21557,-73.4883,6.21557",
+    "geom:latitude":6.21557,
+    "geom:longitude":-73.4883,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68245.0",
+    "gn:asciiname":"La Pinuelita",
+    "gn:country_code":"CO",
+    "gn:dem":2021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732904,
+    "gn:latitude":6.21557,
+    "gn:longitude":-73.4883,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Pi\u00f1uelita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Ri\u00f1elita",
+        "La Pi\u00f1uelita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732904
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ed883a50428b5962372591ee0c07f685",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209669869
+        }
+    ],
+    "wof:id":1209669869,
+    "wof:lastmodified":1537618669,
+    "wof:name":"La Pinuelita",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4883,
+    6.21557,
+    -73.4883,
+    6.21557
+],
+  "geometry": {"coordinates":[-73.4883,6.21557],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259444471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25,9.26667,-75.25,9.26667",
+    "geom:latitude":9.26667,
+    "geom:longitude":-75.25,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70702.0",
+    "gn:asciiname":"Las Marias",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677363,
+    "gn:latitude":9.26667,
+    "gn:longitude":-75.25,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Mar\u00eda",
+        "Las Mar\u00edas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677363
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ef2240684dd72a6a1cd7e6670f401d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701413,
+            "locality_id":1259444471,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1259444471,
+    "wof:lastmodified":1537618495,
+    "wof:name":"Las Marias",
+    "wof:parent_id":1108701413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25,
+    9.26667,
+    -75.25,
+    9.26667
+],
+  "geometry": {"coordinates":[-75.25,9.26667],"type":"Point"}
+}

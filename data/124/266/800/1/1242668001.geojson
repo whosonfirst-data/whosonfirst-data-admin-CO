@@ -1,0 +1,71 @@
+{
+  "id": 1242668001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63474,1.57075,-75.63474,1.57075",
+    "geom:latitude":1.57075,
+    "geom:longitude":-75.63474,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Esteban",
+    "gn:country_code":"CO",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184303,
+    "gn:latitude":1.57075,
+    "gn:longitude":-75.63474,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Esteban",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esteban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184303
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b018dc0cf117d348d888e4bc92a3325f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1242668001,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1242668001,
+    "wof:lastmodified":1537618761,
+    "wof:name":"Esteban",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63474000000002,
+    1.57075,
+    -75.63474000000002,
+    1.57075
+],
+  "geometry": {"coordinates":[-75.63474000000002,1.57075],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293845425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.09954,8.88144,-75.09954,8.88144",
+    "geom:latitude":8.88144,
+    "geom:longitude":-75.09954,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70678.0",
+    "gn:asciiname":"Cipataca",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686235,
+    "gn:latitude":8.88144,
+    "gn:longitude":-75.09954,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cipataca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cipatoca",
+        "Cipataca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686235
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"140ed045713b6d7a6f5ecbf1287e90ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701411,
+            "locality_id":1293845425,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1293845425,
+    "wof:lastmodified":1537618618,
+    "wof:name":"Cipataca",
+    "wof:parent_id":1108701411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.09954,
+    8.88144,
+    -75.09954,
+    8.88144
+],
+  "geometry": {"coordinates":[-75.09954,8.88144],"type":"Point"}
+}

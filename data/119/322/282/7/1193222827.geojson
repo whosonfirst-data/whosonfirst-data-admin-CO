@@ -1,0 +1,72 @@
+{
+  "id": 1193222827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.29158,10.59589,-75.29158,10.59589",
+    "geom:latitude":10.59589,
+    "geom:longitude":-75.29158,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13673.0",
+    "gn:asciiname":"Balzac",
+    "gn:country_code":"CO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689257,
+    "gn:latitude":10.59589,
+    "gn:longitude":-75.29158,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Balzac",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Balzac",
+        "Balzac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689257
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"97b0c55eb49a72fe943afd20d28d492d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700161,
+            "locality_id":1193222827,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1193222827,
+    "wof:lastmodified":1537618652,
+    "wof:name":"Balzac",
+    "wof:parent_id":1108700161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.29158000000002,
+    10.59589,
+    -75.29158000000002,
+    10.59589
+],
+  "geometry": {"coordinates":[-75.29158000000002,10.59589],"type":"Point"}
+}

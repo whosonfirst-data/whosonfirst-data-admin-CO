@@ -1,0 +1,68 @@
+{
+  "id": 1260246587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.31667,2.35,-78.31667,2.35",
+    "geom:latitude":2.35,
+    "geom:longitude":-78.31667,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52490.0",
+    "gn:asciiname":"Esperanza",
+    "gn:country_code":"CO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682579,
+    "gn:latitude":2.35,
+    "gn:longitude":-78.31667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682579
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d1495e2a8cc9afa501abb1eafe3c12eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701043,
+            "locality_id":1260246587,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1260246587,
+    "wof:lastmodified":1536762245,
+    "wof:name":"Esperanza",
+    "wof:parent_id":1108701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.31667,
+    2.35,
+    -78.31667,
+    2.35
+],
+  "geometry": {"coordinates":[-78.31667,2.35],"type":"Point"}
+}

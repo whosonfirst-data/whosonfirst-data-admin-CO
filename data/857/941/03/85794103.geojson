@@ -1,0 +1,135 @@
+{
+  "id": 85794103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":1522025.502451,
+    "geom:bbox":"-74.189309,11.249777,-74.189309,11.249777",
+    "geom:latitude":11.249777,
+    "geom:longitude":-74.189309,
+    "gn:latitude":11.25,
+    "gn:longitude":-74.2,
+    "iso:country":"CO",
+    "lbl:latitude":11.249777,
+    "lbl:longitude":-74.189309,
+    "mps:latitude":11.245857,
+    "mps:longitude":-74.18823,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0632\u0627\u0645\u064a\u0644\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Kasa Mila"
+    ],
+    "name:cat_x_preferred":[
+        "Casa Mil\u00e0"
+    ],
+    "name:ces_x_preferred":[
+        "Casa Mil\u00e0"
+    ],
+    "name:deu_x_preferred":[
+        "Casa Mil\u00e0"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b6\u03b1 \u039c\u03b9\u03bb\u03ac"
+    ],
+    "name:epo_x_preferred":[
+        "Casa Mil\u00e0"
+    ],
+    "name:eus_x_preferred":[
+        "Mil\u00e0 Etxea"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0632\u0627 \u0645\u06cc\u0644\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "La Pedrera",
+        "Casa Mil\u00e0"
+    ],
+    "name:unk_x_variant":[
+        "La Pedrera"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":8051263,
+    "qs:gn_nam_loc":"santa marta",
+    "qs:gn_namadm1":"38",
+    "qs:gn_name":"La Pedrera",
+    "qs:local_max":2404,
+    "qs:local_sum":4136,
+    "qs:localhoods":6,
+    "qs:name":"La Pedrera",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:name_adm2":"Santa Marta",
+    "qs:name_local":"Santa Marta",
+    "qs:photo_max":424,
+    "qs:photo_sum":426,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345063,
+    "qs:woe_adm2":26797230,
+    "qs:woe_lau":0,
+    "qs:woe_local":368170,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700871,
+        85670223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678175,
+        "gp:id":359668,
+        "qs:id":982699
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d23ed9e9f9870418539f55e5f9b1617c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700871,
+            "locality_id":-1,
+            "neighbourhood_id":85794103,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":85794103,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531861462,
+    "wof:name":"La Pedrera",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.189309,
+    11.249777,
+    -74.189309,
+    11.249777
+],
+  "geometry": {"coordinates":[-74.18930899999999,11.249777],"type":"Point"}
+}

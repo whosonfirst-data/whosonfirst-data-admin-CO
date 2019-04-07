@@ -1,0 +1,68 @@
+{
+  "id": 1259442759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.02998,0.92376,-71.02998,0.92376",
+    "geom:latitude":0.92376,
+    "geom:longitude":-71.02998,
+    "gn:admin1_code":"30",
+    "gn:admin2_code":"97161.0",
+    "gn:asciiname":"Tio Barbas",
+    "gn:country_code":"CO",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756330,
+    "gn:latitude":0.92376,
+    "gn:longitude":-71.02998,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"T\u00edo Barbas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        1108701631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756330
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"821eb3022fe45aba9e45af85fed84824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701631,
+            "locality_id":1259442759,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":1259442759,
+    "wof:lastmodified":1536918049,
+    "wof:name":"Tio Barbas",
+    "wof:parent_id":1108701631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.02998000000002,
+    0.92376,
+    -71.02998000000002,
+    0.92376
+],
+  "geometry": {"coordinates":[-71.02998000000002,0.92376],"type":"Point"}
+}

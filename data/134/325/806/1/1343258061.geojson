@@ -1,0 +1,67 @@
+{
+  "id": 1343258061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20968,1.96298,-77.20968,1.96298",
+    "geom:latitude":1.96298,
+    "geom:longitude":-77.20968,
+    "gn:admin1_code":"9",
+    "gn:asciiname":"Loma Alta",
+    "gn:country_code":"CO",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735667,
+    "gn:latitude":1.96298,
+    "gn:longitude":-77.20968,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Loma Alta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735667
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"790534644602558950b073699951eb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701029,
+            "locality_id":1343258061,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343258061,
+    "wof:lastmodified":1537036792,
+    "wof:name":"Loma Alta",
+    "wof:parent_id":1108701029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20968,
+    1.96298,
+    -77.20968,
+    1.96298
+],
+  "geometry": {"coordinates":[-77.20968000000001,1.96298],"type":"Point"}
+}

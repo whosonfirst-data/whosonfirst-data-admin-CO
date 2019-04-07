@@ -1,0 +1,71 @@
+{
+  "id": 1259452313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99194,3.16222,-74.99194,3.16222",
+    "geom:latitude":3.16222,
+    "geom:longitude":-74.99194,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41078.0",
+    "gn:asciiname":"Los Guacharacos",
+    "gn:country_code":"CO",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828153,
+    "gn:latitude":3.16222,
+    "gn:longitude":-74.99194,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Guacharacos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Guacharacos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828153
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4f26a566b81674656b4f22b675f9ea5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700805,
+            "locality_id":1259452313,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1259452313,
+    "wof:lastmodified":1537618695,
+    "wof:name":"Los Guacharacos",
+    "wof:parent_id":1108700805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99194,
+    3.16222,
+    -74.99194,
+    3.16222
+],
+  "geometry": {"coordinates":[-74.99194,3.16222],"type":"Point"}
+}

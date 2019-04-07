@@ -1,0 +1,68 @@
+{
+  "id": 1310046923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.26206,4.95892,-74.26206,4.95892",
+    "geom:latitude":4.95892,
+    "geom:longitude":-74.26206,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25658.0",
+    "gn:asciiname":"Vereda Pueblo Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9256282,
+    "gn:latitude":4.95892,
+    "gn:longitude":-74.26206,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421205087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256282
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1ed29df873ca58f879402e94a629ee85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205087,
+            "locality_id":1310046923,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1310046923,
+    "wof:lastmodified":1537077804,
+    "wof:name":"Vereda Pueblo Viejo",
+    "wof:parent_id":421205087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26205999999998,
+    4.95892,
+    -74.26205999999998,
+    4.95892
+],
+  "geometry": {"coordinates":[-74.26205999999998,4.95892],"type":"Point"}
+}

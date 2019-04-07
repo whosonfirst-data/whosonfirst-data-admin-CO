@@ -1,0 +1,72 @@
+{
+  "id": 1327234259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56667,6.01667,-74.56667,6.01667",
+    "geom:latitude":6.01667,
+    "geom:longitude":-74.56667,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"La Mochila",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678375,
+    "gn:latitude":6.01667,
+    "gn:longitude":-74.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Mochila",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mochila",
+        "La Mochila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421202227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678375
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ae4364630d8707bb6c54745f52571cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202227,
+            "locality_id":1327234259,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327234259,
+    "wof:lastmodified":1537618512,
+    "wof:name":"La Mochila",
+    "wof:parent_id":421202227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56667,
+    6.01667,
+    -74.56667,
+    6.01667
+],
+  "geometry": {"coordinates":[-74.56667,6.01667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260374689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20767,1.82156,-77.20767,1.82156",
+    "geom:latitude":1.82156,
+    "geom:longitude":-77.20767,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19450.0",
+    "gn:asciiname":"El Carbonero",
+    "gn:country_code":"CO",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735643,
+    "gn:latitude":1.82156,
+    "gn:longitude":-77.20767,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Carbonero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carbonera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735643
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0a1fe26200f1c173281d3ddd86f3b72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700475,
+            "locality_id":1260374689,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1260374689,
+    "wof:lastmodified":1537618674,
+    "wof:name":"El Carbonero",
+    "wof:parent_id":1108700475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20767,
+    1.82156,
+    -77.20767,
+    1.82156
+],
+  "geometry": {"coordinates":[-77.20766999999999,1.82156],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259755293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.82662,3.42746,-74.82662,3.42746",
+    "geom:latitude":3.42746,
+    "geom:longitude":-74.82662,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Borrachero",
+    "gn:country_code":"CO",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316339,
+    "gn:latitude":3.42746,
+    "gn:longitude":-74.82662,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Borrachero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Borrachero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316339
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7635c6c55e51665092943f949faf1241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701425,
+            "locality_id":1259755293,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259755293,
+    "wof:lastmodified":1537618819,
+    "wof:name":"Borrachero",
+    "wof:parent_id":1108701425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.82661999999998,
+    3.42746,
+    -74.82661999999998,
+    3.42746
+],
+  "geometry": {"coordinates":[-74.82661999999998,3.42746],"type":"Point"}
+}

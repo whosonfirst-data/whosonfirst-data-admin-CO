@@ -1,0 +1,114 @@
+{
+  "id": 890433145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.73139,5.33889,-76.73139,5.33889",
+    "geom:latitude":5.33889,
+    "geom:longitude":-76.73139,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":3271,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u574e\u901a\u5fb7\u8056\u5df4\u52c3\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "El Cant\u00f3n del San Pablo"
+    ],
+    "name:eng_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:fre_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10d0\u10dc\u10e2\u10dd\u10dc-\u10d3\u10d4-\u10e1\u10d0\u10dc-\u10de\u10d0\u10d1\u10da\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:may_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:nan_x_preferred":[
+        "El Cant\u00f3n del San Pablo"
+    ],
+    "name:por_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:sco_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:spa_x_preferred":[
+        "Cant\u00f3n de San Pablo"
+    ],
+    "name:swe_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:tgl_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "name:vie_x_preferred":[
+        "El Cant\u00f3n del San Pablo"
+    ],
+    "name:war_x_preferred":[
+        "El Cant\u00f3n de San Pablo"
+    ],
+    "qs:name":"El Cant\u00f3n de San Pablo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792386,
+        "gp:id":369111,
+        "qs:id":96581,
+        "wd:id":"Q1576215",
+        "wk:page":"El Cant\u00f3n de San Pablo"
+    },
+    "wof:country":"CO",
+    "wof:created":1469051969,
+    "wof:geomhash":"c7384b34aa21ff5b84cf8e7d08128d0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700753,
+            "locality_id":890433145,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":890433145,
+    "wof:lastmodified":1527792953,
+    "wof:name":"El Cant\u00f3n de San Pablo",
+    "wof:parent_id":1108700753,
+    "wof:placetype":"locality",
+    "wof:population":3271,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.73139,
+    5.33889,
+    -76.73139,
+    5.33889
+],
+  "geometry": {"coordinates":[-76.73139,5.33889],"type":"Point"}
+}

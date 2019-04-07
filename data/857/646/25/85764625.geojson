@@ -1,0 +1,111 @@
+{
+  "id": 85764625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":6933065.918117,
+    "geom:bbox":"-74.80243,11.000358,-74.80243,11.000358",
+    "geom:latitude":11.000358,
+    "geom:longitude":-74.80243,
+    "gn:latitude":11.0,
+    "gn:longitude":-74.8,
+    "iso:country":"CO",
+    "lbl:latitude":11.000358,
+    "lbl:longitude":-74.80243,
+    "mps:latitude":11.00516,
+    "mps:longitude":-74.799358,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "El Prado"
+    ],
+    "name:unk_x_variant":[
+        "El Prado"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3689147,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"El Prado",
+    "qs:local_max":816,
+    "qs:local_sum":2548,
+    "qs:localhoods":9,
+    "qs:name":"El Prado",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:name_adm2":"Barranquilla",
+    "qs:name_local":"Barranquilla",
+    "qs:photo_max":55,
+    "qs:photo_sum":311,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345050,
+    "qs:woe_adm2":26796731,
+    "qs:woe_lau":0,
+    "qs:woe_local":368151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":72,
+    "wof:belongsto":[
+        85670207,
+        102191577,
+        85632519,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683339,
+        "gp:id":355595,
+        "qs:id":228632
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0c71b63a6e73088d135a9bcb09d34761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":-1,
+            "neighbourhood_id":85764625,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":85764625,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"El Prado",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126094857
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.80243,
+    11.000358,
+    -74.80243,
+    11.000358
+],
+  "geometry": {"coordinates":[-74.80243,11.000358],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243034719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28088,6.14282,-73.28088,6.14282",
+    "geom:latitude":6.14282,
+    "geom:longitude":-73.28088,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68770.0",
+    "gn:asciiname":"Corbaraque",
+    "gn:country_code":"CO",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810297,
+    "gn:latitude":6.14282,
+    "gn:longitude":-73.28088,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Corbaraque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810297
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2b61d9b75d7a41a055913ce1606a7d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701357,
+            "locality_id":1243034719,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1243034719,
+    "wof:lastmodified":1536902252,
+    "wof:name":"Corbaraque",
+    "wof:parent_id":1108701357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28088000000002,
+    6.14282,
+    -73.28088000000002,
+    6.14282
+],
+  "geometry": {"coordinates":[-73.28088000000002,6.14282],"type":"Point"}
+}

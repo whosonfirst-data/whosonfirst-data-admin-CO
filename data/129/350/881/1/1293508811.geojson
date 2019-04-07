@@ -1,0 +1,70 @@
+{
+  "id": 1293508811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26442,0.71354,-75.26442,0.71354",
+    "geom:latitude":0.71354,
+    "geom:longitude":-75.26442,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bombon",
+    "gn:country_code":"CO",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546286,
+    "gn:latitude":0.71354,
+    "gn:longitude":-75.26442,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bomb\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bomb\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546286
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6fc93d016fd01cf9a5728d32cc6b2340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701569,
+            "locality_id":1293508811,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1293508811,
+    "wof:lastmodified":1537618742,
+    "wof:name":"Bombon",
+    "wof:parent_id":1108701569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26442,
+    0.71354,
+    -75.26442,
+    0.71354
+],
+  "geometry": {"coordinates":[-75.26442,0.71354],"type":"Point"}
+}

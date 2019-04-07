@@ -1,0 +1,121 @@
+{
+  "id": 85764819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":4684323.276469,
+    "geom:bbox":"-75.537839,10.435306,-75.537839,10.435306",
+    "geom:latitude":10.435306,
+    "geom:longitude":-75.537839,
+    "gn:latitude":10.43333,
+    "gn:longitude":-75.53333,
+    "iso:country":"CO",
+    "lbl:latitude":10.435306,
+    "lbl:longitude":-75.537839,
+    "mps:latitude":10.440914,
+    "mps:longitude":-75.54009,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":3,
+    "name:fra_x_preferred":[
+        "Manuel Rodr\u00edguez Torices"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434\u0440\u0438\u0433\u0435\u0441 \u0422\u043e\u0440\u0438\u0441\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Torices",
+        "Manuel Rodr\u00edguez Torices"
+    ],
+    "name:unk_x_variant":[
+        "Torices"
+    ],
+    "name:yor_x_preferred":[
+        "Manuel Rodr\u00edguez Torices"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687238,
+    "qs:gn_nam_loc":"cartagena",
+    "qs:gn_namadm1":"35",
+    "qs:gn_name":"Torices",
+    "qs:local_max":7512,
+    "qs:local_sum":20719,
+    "qs:localhoods":16,
+    "qs:name":"Torices",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:name_adm2":"Cartagena",
+    "qs:name_local":"Cartagena",
+    "qs:photo_max":236,
+    "qs:photo_sum":749,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":18,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345051,
+    "qs:woe_adm2":26796755,
+    "qs:woe_lau":0,
+    "qs:woe_local":368153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670209,
+        102191577,
+        85632519,
+        1108700093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666884,
+        "gp:id":367383,
+        "qs:id":1082718
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1f97738b5cb573c1bf838a80daee36af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":85764819,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":85764819,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"Torices",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126073229
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.537839,
+    10.435306,
+    -75.537839,
+    10.435306
+],
+  "geometry": {"coordinates":[-75.53783900000001,10.435306],"type":"Point"}
+}

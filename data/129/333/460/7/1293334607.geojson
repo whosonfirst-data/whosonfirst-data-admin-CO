@@ -1,0 +1,68 @@
+{
+  "id": 1293334607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54972,5.68444,-73.54972,5.68444",
+    "geom:latitude":5.68444,
+    "geom:longitude":-73.54972,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15293.0",
+    "gn:asciiname":"Alto Gachantiva",
+    "gn:country_code":"CO",
+    "gn:dem":2186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776090,
+    "gn:latitude":5.68444,
+    "gn:longitude":-73.54972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alto Gachantiva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421170325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776090
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"150bf584bc7a167bc0c2ad515294c465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170325,
+            "locality_id":1293334607,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1293334607,
+    "wof:lastmodified":1537006751,
+    "wof:name":"Alto Gachantiva",
+    "wof:parent_id":421170325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54972,
+    5.68444,
+    -73.54972,
+    5.68444
+],
+  "geometry": {"coordinates":[-73.54971999999999,5.68444],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310713687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.40222,7.07361,-75.40222,7.07361",
+    "geom:latitude":7.07361,
+    "geom:longitude":-75.40222,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5887.0",
+    "gn:asciiname":"La Guitarra",
+    "gn:country_code":"CO",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779963,
+    "gn:latitude":7.07361,
+    "gn:longitude":-75.40222,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Guitarra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779963
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d2a0ae2cf6bb920965a0bf6834dd0c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700043,
+            "locality_id":1310713687,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310713687,
+    "wof:lastmodified":1536614170,
+    "wof:name":"La Guitarra",
+    "wof:parent_id":1108700043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.40222,
+    7.07361,
+    -75.40222,
+    7.07361
+],
+  "geometry": {"coordinates":[-75.40222,7.07361],"type":"Point"}
+}

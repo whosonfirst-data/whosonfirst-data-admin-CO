@@ -1,0 +1,71 @@
+{
+  "id": 1276436767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88202,2.66039,-74.88202,2.66039",
+    "geom:latitude":2.66039,
+    "geom:longitude":-74.88202,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"Palacio",
+    "gn:country_code":"CO",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8564143,
+    "gn:latitude":2.66039,
+    "gn:longitude":-74.88202,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palacio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8564143
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"345c8878bd9261f1a370837e8e2c1735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "locality_id":1276436767,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1276436767,
+    "wof:lastmodified":1537618783,
+    "wof:name":"Palacio",
+    "wof:parent_id":1108700423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88202,
+    2.66039,
+    -74.88202,
+    2.66039
+],
+  "geometry": {"coordinates":[-74.88202,2.66039],"type":"Point"}
+}

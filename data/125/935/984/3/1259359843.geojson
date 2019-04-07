@@ -1,0 +1,72 @@
+{
+  "id": 1259359843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.03847,8.23092,-76.03847,8.23092",
+    "geom:latitude":8.23092,
+    "geom:longitude":-76.03847,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23807.0",
+    "gn:asciiname":"Los Morales",
+    "gn:country_code":"CO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676037,
+    "gn:latitude":8.23092,
+    "gn:longitude":-76.03847,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Morales",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morales",
+        "Los Morales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676037
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b26e27fe5616d92215e83b98794866f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700609,
+            "locality_id":1259359843,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1259359843,
+    "wof:lastmodified":1537618472,
+    "wof:name":"Los Morales",
+    "wof:parent_id":1108700609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.03846999999998,
+    8.23092,
+    -76.03846999999998,
+    8.23092
+],
+  "geometry": {"coordinates":[-76.03846999999998,8.23092],"type":"Point"}
+}

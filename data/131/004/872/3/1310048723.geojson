@@ -1,0 +1,67 @@
+{
+  "id": 1310048723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.74083,4.98417,-75.74083,4.98417",
+    "geom:latitude":4.98417,
+    "geom:longitude":-75.74083,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"El Rajui",
+    "gn:country_code":"CO",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781462,
+    "gn:latitude":4.98417,
+    "gn:longitude":-75.74083,
+    "gn:modification_date":"2002-03-28",
+    "gn:name":"El Rajui",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421180981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781462
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6b741eb227c6a76c4a5c77b7609538a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421180981,
+            "locality_id":1310048723,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1310048723,
+    "wof:lastmodified":1537075317,
+    "wof:name":"El Rajui",
+    "wof:parent_id":421180981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74083,
+    4.98417,
+    -75.74083,
+    4.98417
+],
+  "geometry": {"coordinates":[-75.74083,4.98417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344038925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83004,2.14811,-75.83004,2.14811",
+    "geom:latitude":2.14811,
+    "geom:longitude":-75.83004,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41791.0",
+    "gn:asciiname":"La Muralla",
+    "gn:country_code":"CO",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792840,
+    "gn:latitude":2.14811,
+    "gn:longitude":-75.83004,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Muralla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792840
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bce642f8152bfedb0d732d9bc92a5a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700843,
+            "locality_id":1344038925,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1344038925,
+    "wof:lastmodified":1536907003,
+    "wof:name":"La Muralla",
+    "wof:parent_id":1108700843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83004,
+    2.14811,
+    -75.83004,
+    2.14811
+],
+  "geometry": {"coordinates":[-75.83004,2.14811],"type":"Point"}
+}

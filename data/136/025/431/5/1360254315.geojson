@@ -1,0 +1,73 @@
+{
+  "id": 1360254315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26667,3.1,-75.26667,3.1",
+    "geom:latitude":3.1,
+    "geom:longitude":-75.26667,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41001.0",
+    "gn:asciiname":"Platanales",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672045,
+    "gn:latitude":3.1,
+    "gn:longitude":-75.26667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Platanales",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Platanares",
+        "Platanales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672045
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8c45171be765dcdb27967d59a25c4c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1360254315,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1360254315,
+    "wof:lastmodified":1537618431,
+    "wof:name":"Platanales",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26666999999998,
+    3.1,
+    -75.26666999999998,
+    3.1
+],
+  "geometry": {"coordinates":[-75.26666999999998,3.1],"type":"Point"}
+}

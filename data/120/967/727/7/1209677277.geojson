@@ -1,0 +1,62 @@
+{
+  "id": 1209677277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.43067,2.00857,-78.43067,2.00857",
+    "geom:latitude":2.00857,
+    "geom:longitude":-78.43067,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52621.0",
+    "gn:asciiname":"Pumalde",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8640178,
+    "gn:latitude":2.00857,
+    "gn:longitude":-78.43067,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pumalde",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8640178
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8abb988a80010c756c4ac122134115d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209677277
+        }
+    ],
+    "wof:id":1209677277,
+    "wof:lastmodified":1536279705,
+    "wof:name":"Pumalde",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.43066999999998,
+    2.00857,
+    -78.43066999999998,
+    2.00857
+],
+  "geometry": {"coordinates":[-78.43066999999998,2.00857],"type":"Point"}
+}

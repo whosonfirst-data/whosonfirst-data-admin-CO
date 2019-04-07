@@ -1,0 +1,72 @@
+{
+  "id": 1293936485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2314,10.09414,-75.2314,10.09414",
+    "geom:latitude":10.09414,
+    "geom:longitude":-75.2314,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13433.0",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"CO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672918,
+    "gn:latitude":10.09414,
+    "gn:longitude":-75.2314,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Para\u00edso",
+        "Para\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672918
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fb66948b970b4b00b1f1aae79ff8d61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700125,
+            "locality_id":1293936485,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293936485,
+    "wof:lastmodified":1537618439,
+    "wof:name":"Paraiso",
+    "wof:parent_id":1108700125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2314,
+    10.09414,
+    -75.2314,
+    10.09414
+],
+  "geometry": {"coordinates":[-75.23139999999999,10.09414],"type":"Point"}
+}

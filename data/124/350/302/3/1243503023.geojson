@@ -1,0 +1,68 @@
+{
+  "id": 1243503023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33333,4.53333,-74.33333,4.53333",
+    "geom:latitude":4.53333,
+    "geom:longitude":-74.33333,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25312.0",
+    "gn:asciiname":"Los Amarillos",
+    "gn:country_code":"CO",
+    "gn:dem":2526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676360,
+    "gn:latitude":4.53333,
+    "gn:longitude":-74.33333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Amarillos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676360
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"af53d06df5791c3944e4fea2aa01d9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700651,
+            "locality_id":1243503023,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1243503023,
+    "wof:lastmodified":1536724468,
+    "wof:name":"Los Amarillos",
+    "wof:parent_id":1108700651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33333,
+    4.53333,
+    -74.33333,
+    4.53333
+],
+  "geometry": {"coordinates":[-74.33333,4.53333],"type":"Point"}
+}

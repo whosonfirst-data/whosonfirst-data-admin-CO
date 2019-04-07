@@ -1,0 +1,68 @@
+{
+  "id": 1309954695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.83806,5.01749,-72.83806,5.01749",
+    "geom:latitude":5.01749,
+    "geom:longitude":-72.83806,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"La Libertad",
+    "gn:country_code":"CO",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678594,
+    "gn:latitude":5.01749,
+    "gn:longitude":-72.83806,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Libertad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678594
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58119561f6f2a5e2df0079a711d8ca15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701553,
+            "locality_id":1309954695,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1309954695,
+    "wof:lastmodified":1536717023,
+    "wof:name":"La Libertad",
+    "wof:parent_id":1108701553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.83806,
+    5.01749,
+    -72.83806,
+    5.01749
+],
+  "geometry": {"coordinates":[-72.83806,5.01749],"type":"Point"}
+}

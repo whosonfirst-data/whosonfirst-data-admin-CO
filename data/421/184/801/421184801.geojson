@@ -1,0 +1,76 @@
+{
+  "id": 421184801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.76667,7.0,-72.76667,7.0",
+    "geom:latitude":7.0,
+    "geom:longitude":-72.76667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3681833,
+    "qs:gn_pop":0,
+    "qs:name":"Guaca",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401559,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797442,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681833,
+        "gp:id":26797442,
+        "qs:id":401559,
+        "wd:id":"Q20998973"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009422,
+    "wof:geomhash":"3bc16e39651d02099d70cbd11b764451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184801,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421184801,
+    "wof:lastmodified":1527716454,
+    "wof:name":"Guaca",
+    "wof:parent_id":85670141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.76667,
+    7.0,
+    -72.76667,
+    7.0
+],
+  "geometry": {"coordinates":[-72.76667,7.0],"type":"Point"}
+}

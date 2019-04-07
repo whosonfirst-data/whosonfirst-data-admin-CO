@@ -1,0 +1,71 @@
+{
+  "id": 1242958431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30419,1.93287,-75.30419,1.93287",
+    "geom:latitude":1.93287,
+    "geom:longitude":-75.30419,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18256.0",
+    "gn:asciiname":"El Oso",
+    "gn:country_code":"CO",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554812,
+    "gn:latitude":1.93287,
+    "gn:longitude":-75.30419,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Oso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Oso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554812
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"459d045c522f0e8f213abee55a6b7d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700409,
+            "locality_id":1242958431,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1242958431,
+    "wof:lastmodified":1537618746,
+    "wof:name":"El Oso",
+    "wof:parent_id":1108700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30419,
+    1.93287,
+    -75.30419,
+    1.93287
+],
+  "geometry": {"coordinates":[-75.30419000000001,1.93287],"type":"Point"}
+}

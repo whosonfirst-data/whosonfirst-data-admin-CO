@@ -1,0 +1,68 @@
+{
+  "id": 1293931037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9925,9.23361,-74.9925,9.23361",
+    "geom:latitude":9.23361,
+    "geom:longitude":-74.9925,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70742.0",
+    "gn:asciiname":"Arboledas",
+    "gn:country_code":"CO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775896,
+    "gn:latitude":9.23361,
+    "gn:longitude":-74.9925,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arboledas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775896
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"564554ef8262fac780a1d58c82a76676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701419,
+            "locality_id":1293931037,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1293931037,
+    "wof:lastmodified":1536644251,
+    "wof:name":"Arboledas",
+    "wof:parent_id":1108701419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9925,
+    9.23361,
+    -74.9925,
+    9.23361
+],
+  "geometry": {"coordinates":[-74.99250000000001,9.23361],"type":"Point"}
+}

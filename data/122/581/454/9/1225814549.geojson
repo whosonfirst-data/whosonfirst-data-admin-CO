@@ -1,0 +1,70 @@
+{
+  "id": 1225814549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24007,2.30206,-76.24007,2.30206",
+    "geom:latitude":2.30206,
+    "geom:longitude":-76.24007,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tijeras",
+    "gn:country_code":"CO",
+    "gn:dem":2733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667094,
+    "gn:latitude":2.30206,
+    "gn:longitude":-76.24007,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tijeras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tijeras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667094
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3499b0d276374d8011168e963bf17ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700495,
+            "locality_id":1225814549,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1225814549,
+    "wof:lastmodified":1537618372,
+    "wof:name":"Tijeras",
+    "wof:parent_id":1108700495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24006999999997,
+    2.30206,
+    -76.24006999999997,
+    2.30206
+],
+  "geometry": {"coordinates":[-76.24006999999997,2.30206],"type":"Point"}
+}

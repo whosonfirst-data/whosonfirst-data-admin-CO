@@ -1,0 +1,73 @@
+{
+  "id": 1343638345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23293,8.31602,-75.23293,8.31602",
+    "geom:latitude":8.31602,
+    "geom:longitude":-75.23293,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23068.0",
+    "gn:asciiname":"Marralu",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675227,
+    "gn:latitude":8.31602,
+    "gn:longitude":-75.23293,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Marral\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morral\u00fa",
+        "Maral\u00fa",
+        "Marral\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421203439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675227
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a801523be53ac10bfe70bf9fde5c1776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203439,
+            "locality_id":1343638345,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343638345,
+    "wof:lastmodified":1537618463,
+    "wof:name":"Marralu",
+    "wof:parent_id":421203439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23293000000002,
+    8.31602,
+    -75.23293000000002,
+    8.31602
+],
+  "geometry": {"coordinates":[-75.23293000000002,8.31602],"type":"Point"}
+}

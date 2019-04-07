@@ -1,0 +1,73 @@
+{
+  "id": 1343316277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1,9.5,-75.1,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":-75.1,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70508.0",
+    "gn:asciiname":"Palmarito",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673206,
+    "gn:latitude":9.5,
+    "gn:longitude":-75.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmarito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Palmarito",
+        "Palmarito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421204839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673206
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"323420c6e063b95424091c87c582838d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204839,
+            "locality_id":1343316277,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343316277,
+    "wof:lastmodified":1537618444,
+    "wof:name":"Palmarito",
+    "wof:parent_id":421204839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1,
+    9.5,
+    -75.1,
+    9.5
+],
+  "geometry": {"coordinates":[-75.09999999999999,9.5],"type":"Point"}
+}

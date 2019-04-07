@@ -1,0 +1,103 @@
+{
+  "id": 421169189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-74.09729,4.651711,-74.09729,4.651711",
+    "geom:latitude":4.651711,
+    "geom:longitude":-74.09729,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ace_x_preferred":[
+        "Bogota"
+    ],
+    "name:ady_x_preferred":[
+        "\u0411\u043e\u0433\u043e\u0442\u0430"
+    ],
+    "name:afr_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:als_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:amh_x_preferred":[
+        "\u1266\u130e\u1273"
+    ],
+    "name:ang_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u063a\u0648\u062a\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062c\u0648\u062a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bogot\u00e1"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santafe de Bogota D.c.",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:photos":1950,
+    "qs:photos_1k":395,
+    "qs:photos_9k":245,
+    "qs:photos_9r":25,
+    "qs:photos_all":55306,
+    "qs:photos_sr":15,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1199033,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796754,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26796754,
+        "qs:id":1199033
+    },
+    "wof:country":"CO",
+    "wof:created":1459008798,
+    "wof:geomhash":"78c9f6a214de89f7d373437e6ca5643e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169189,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":421169189,
+    "wof:lastmodified":1474656686,
+    "wof:name":"Santafe de Bogota D.c.",
+    "wof:parent_id":85670165,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.09729,
+    4.651711,
+    -74.09729,
+    4.651711
+],
+  "geometry": {"coordinates":[-74.09729,4.651711],"type":"Point"}
+}

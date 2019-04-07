@@ -1,0 +1,85 @@
+{
+  "id": 1125371827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.452602,7.824184,-72.452602,7.824184",
+    "geom:latitude":7.824184,
+    "geom:longitude":-72.452602,
+    "gn:gn_country":null,
+    "iso:country":"CO",
+    "lbl:latitude":7.824184,
+    "lbl:longitude":-72.452602,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":null,
+    "qs_pg:name":"Capital Bolivar",
+    "qs_pg:name_adm0":"Venezuela",
+    "qs_pg:name_adm1":"Tachira",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":286127,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424982,
+    "qs_pg:woe_id":26805004,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424982,
+    "woe:name_adm0":"Venezuela",
+    "woe:name_adm1":"Tachira",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421172473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26805004,
+        "qs:id":286127,
+        "qs_pg:id":286127
+    },
+    "wof:country":"CO",
+    "wof:created":1497047454,
+    "wof:geomhash":"0b8ec3e3df87a91ec2179c26f7f51819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172473,
+            "localadmin_id":1125371827,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1125371827,
+    "wof:lastmodified":1534379258,
+    "wof:name":"Capital Bolivar",
+    "wof:parent_id":421172473,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421193011
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.452602,
+    7.824184,
+    -72.452602,
+    7.824184
+],
+  "geometry": {"coordinates":[-72.452602,7.824184],"type":"Point"}
+}

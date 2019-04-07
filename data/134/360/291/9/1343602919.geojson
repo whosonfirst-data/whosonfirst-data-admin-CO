@@ -1,0 +1,68 @@
+{
+  "id": 1343602919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.74326,4.72821,-72.74326,4.72821",
+    "geom:latitude":4.72821,
+    "geom:longitude":-72.74326,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85162.0",
+    "gn:asciiname":"Calamar",
+    "gn:country_code":"CO",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687974,
+    "gn:latitude":4.72821,
+    "gn:longitude":-72.74326,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Calamar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421181801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687974
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"96708269d01390d9c7ad7a46f24b52a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181801,
+            "locality_id":1343602919,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1343602919,
+    "wof:lastmodified":1537036454,
+    "wof:name":"Calamar",
+    "wof:parent_id":421181801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.74325999999998,
+    4.72821,
+    -72.74325999999998,
+    4.72821
+],
+  "geometry": {"coordinates":[-72.74325999999998,4.72821],"type":"Point"}
+}

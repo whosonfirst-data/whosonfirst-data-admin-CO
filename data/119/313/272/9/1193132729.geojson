@@ -1,0 +1,72 @@
+{
+  "id": 1193132729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.70472,2.47544,-76.70472,2.47544",
+    "geom:latitude":2.47544,
+    "geom:longitude":-76.70472,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19001.0",
+    "gn:asciiname":"El Charco",
+    "gn:country_code":"CO",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684580,
+    "gn:latitude":2.47544,
+    "gn:longitude":-76.70472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Charco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charco",
+        "El Charco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684580
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6a534229e9b67cf0f1482f2d362e8d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700431,
+            "locality_id":1193132729,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1193132729,
+    "wof:lastmodified":1537618598,
+    "wof:name":"El Charco",
+    "wof:parent_id":1108700431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.70472,
+    2.47544,
+    -76.70472,
+    2.47544
+],
+  "geometry": {"coordinates":[-76.70471999999999,2.47544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242963853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43137,1.674,-75.43137,1.674",
+    "geom:latitude":1.674,
+    "geom:longitude":-75.43137,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18410.0",
+    "gn:asciiname":"La Gaitana",
+    "gn:country_code":"CO",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554667,
+    "gn:latitude":1.674,
+    "gn:longitude":-75.43137,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Gaitana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gaitana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554667
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2ffb0b90b76d650342c2460b9aa2de18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700413,
+            "locality_id":1242963853,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1242963853,
+    "wof:lastmodified":1537618746,
+    "wof:name":"La Gaitana",
+    "wof:parent_id":1108700413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43137,
+    1.674,
+    -75.43137,
+    1.674
+],
+  "geometry": {"coordinates":[-75.43137,1.674],"type":"Point"}
+}

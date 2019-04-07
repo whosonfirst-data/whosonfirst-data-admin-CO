@@ -1,0 +1,68 @@
+{
+  "id": 1259983401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.99639,-4.13972,-69.99639,-4.13972",
+    "geom:latitude":-4.13972,
+    "geom:longitude":-69.99639,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91001.0",
+    "gn:asciiname":"Ronda",
+    "gn:country_code":"CO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827674,
+    "gn:latitude":-4.13972,
+    "gn:longitude":-69.99639,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ronda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        421202275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827674
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"47c35c57dd8a7b809e73659ab8478e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202275,
+            "locality_id":1259983401,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1259983401,
+    "wof:lastmodified":1536633885,
+    "wof:name":"Ronda",
+    "wof:parent_id":421202275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.99639,
+    -4.13972,
+    -69.99639,
+    -4.13972
+],
+  "geometry": {"coordinates":[-69.99639000000001,-4.13972],"type":"Point"}
+}

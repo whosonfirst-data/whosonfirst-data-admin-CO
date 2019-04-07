@@ -1,0 +1,68 @@
+{
+  "id": 1293862451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16332,10.06105,-73.16332,10.06105",
+    "geom:latitude":10.06105,
+    "geom:longitude":-73.16332,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20013.0",
+    "gn:asciiname":"Hacienda El Socorro",
+    "gn:country_code":"CO",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560676,
+    "gn:latitude":10.06105,
+    "gn:longitude":-73.16332,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda El Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560676
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"88ee0d9b234d5cf7a24deee1496b0d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700525,
+            "locality_id":1293862451,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293862451,
+    "wof:lastmodified":1536743418,
+    "wof:name":"Hacienda El Socorro",
+    "wof:parent_id":1108700525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16332,
+    10.06105,
+    -73.16332,
+    10.06105
+],
+  "geometry": {"coordinates":[-73.16332,10.06105],"type":"Point"}
+}

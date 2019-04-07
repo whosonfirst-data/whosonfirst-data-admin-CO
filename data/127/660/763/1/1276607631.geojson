@@ -1,0 +1,73 @@
+{
+  "id": 1276607631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26259,9.38052,-75.26259,9.38052",
+    "geom:latitude":9.38052,
+    "geom:longitude":-75.26259,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70418.0",
+    "gn:asciiname":"Chingale",
+    "gn:country_code":"CO",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686556,
+    "gn:latitude":9.38052,
+    "gn:longitude":-75.26259,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chingale",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chingate",
+        "Caser\u00edo Chingate",
+        "Chingale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686556
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"264ed2d9df581df431390357048565ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701399,
+            "locality_id":1276607631,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1276607631,
+    "wof:lastmodified":1537618620,
+    "wof:name":"Chingale",
+    "wof:parent_id":1108701399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26259,
+    9.38052,
+    -75.26259,
+    9.38052
+],
+  "geometry": {"coordinates":[-75.26259,9.38052],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209257339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0,9.01667,-74.0,9.01667",
+    "geom:latitude":9.01667,
+    "geom:longitude":-74.0,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"La Esperanza",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679122,
+    "gn:latitude":9.01667,
+    "gn:longitude":-74.0,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Esperanza",
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679122
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ba8719f75fed9ad6e6b140763b6bc9d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209257339
+        }
+    ],
+    "wof:id":1209257339,
+    "wof:lastmodified":1537618524,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0,
+    9.01667,
+    -74.0,
+    9.01667
+],
+  "geometry": {"coordinates":[-74.0,9.01667],"type":"Point"}
+}

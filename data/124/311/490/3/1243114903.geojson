@@ -1,0 +1,73 @@
+{
+  "id": 1243114903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.16667,10.76667,-74.16667,10.76667",
+    "geom:latitude":10.76667,
+    "geom:longitude":-74.16667,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47980.0",
+    "gn:asciiname":"Abarca",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690598,
+    "gn:latitude":10.76667,
+    "gn:longitude":-74.16667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Abarca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento Abarca",
+        "Abarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690598
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fbd361749a08176e6a6c92cb32d827b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700923,
+            "locality_id":1243114903,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243114903,
+    "wof:lastmodified":1537618666,
+    "wof:name":"Abarca",
+    "wof:parent_id":1108700923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.16667,
+    10.76667,
+    -74.16667,
+    10.76667
+],
+  "geometry": {"coordinates":[-74.16667,10.76667],"type":"Point"}
+}

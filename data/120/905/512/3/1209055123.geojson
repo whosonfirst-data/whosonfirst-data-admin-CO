@@ -1,0 +1,65 @@
+{
+  "id": 1209055123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.79828,4.23532,-73.79828,4.23532",
+    "geom:latitude":4.23532,
+    "geom:longitude":-73.79828,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25335.0",
+    "gn:asciiname":"Vanguardia",
+    "gn:country_code":"CO",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7527142,
+    "gn:latitude":4.23532,
+    "gn:longitude":-73.79828,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vanguardia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vanguardia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7527142
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5fcbadf900ddad653f38b27079b817a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209055123
+        }
+    ],
+    "wof:id":1209055123,
+    "wof:lastmodified":1537618728,
+    "wof:name":"Vanguardia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.79828,
+    4.23532,
+    -73.79828,
+    4.23532
+],
+  "geometry": {"coordinates":[-73.79828000000001,4.23532],"type":"Point"}
+}

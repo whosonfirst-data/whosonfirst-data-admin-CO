@@ -1,0 +1,62 @@
+{
+  "id": 1209167297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.84601,8.106,-73.84601,8.106",
+    "geom:latitude":8.106,
+    "geom:longitude":-73.84601,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13473.0",
+    "gn:asciiname":"Caimital",
+    "gn:country_code":"CO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015932,
+    "gn:latitude":8.106,
+    "gn:longitude":-73.84601,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caim\u00edtal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015932
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b48cc0ed82b509cfd30b572d1e2ec635",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209167297
+        }
+    ],
+    "wof:id":1209167297,
+    "wof:lastmodified":1536295701,
+    "wof:name":"Caimital",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.84600999999998,
+    8.106,
+    -73.84600999999998,
+    8.106
+],
+  "geometry": {"coordinates":[-73.84600999999998,8.106],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293932167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.3,4.78333,-74.3,4.78333",
+    "geom:latitude":4.78333,
+    "geom:longitude":-74.3,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25430.0",
+    "gn:asciiname":"Zelandia",
+    "gn:country_code":"CO",
+    "gn:dem":2562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665550,
+    "gn:latitude":4.78333,
+    "gn:longitude":-74.3,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Zelandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421190823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665550
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cbc3f689ce5e1e9f8bad998a1412ed43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190823,
+            "locality_id":1293932167,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293932167,
+    "wof:lastmodified":1536642555,
+    "wof:name":"Zelandia",
+    "wof:parent_id":421190823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3,
+    4.78333,
+    -74.3,
+    4.78333
+],
+  "geometry": {"coordinates":[-74.3,4.78333],"type":"Point"}
+}

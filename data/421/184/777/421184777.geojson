@@ -1,0 +1,148 @@
+{
+  "id": 421184777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72238,5.51847,-73.72238,5.51847",
+    "geom:latitude":5.51847,
+    "geom:longitude":-73.72238,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u5fb7\u585e\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:fra_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d8\u10d2\u10d4\u10da-\u10d3\u10d4-\u10e1\u10d4\u10db\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d8\u10d2\u10d4\u10da-\u10d3\u10d4-\u10e1\u10d4\u10db\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:msa_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:nan_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:nld_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:por_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:tgl_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:unk_x_variant":[
+        "San Miguel Sema"
+    ],
+    "name:vie_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:war_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Miguel de Sema"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7c73\u683c\u723e\u5fb7\u585e\u99ac"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669238,
+    "qs:gn_pop":647,
+    "qs:name":"San Miguel de Sema",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1010008,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365880,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":404,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669238,
+        "gp:id":365880,
+        "qs:id":1010008,
+        "wd:id":"Q1656150",
+        "wk:page":"San Miguel de Sema"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009422,
+    "wof:geomhash":"7a00a4ca04fbffcbbaf07f7db1bfe822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700317,
+            "locality_id":421184777,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421184777,
+    "wof:lastmodified":1527716449,
+    "wof:name":"San Miguel de Sema",
+    "wof:parent_id":1108700317,
+    "wof:placetype":"locality",
+    "wof:population":647,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72238,
+    5.51847,
+    -73.72238,
+    5.51847
+],
+  "geometry": {"coordinates":[-73.72238,5.51847],"type":"Point"}
+}

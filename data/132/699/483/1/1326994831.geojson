@@ -1,0 +1,72 @@
+{
+  "id": 1326994831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34655,1.57859,-77.34655,1.57859",
+    "geom:latitude":1.57859,
+    "geom:longitude":-77.34655,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52786.0",
+    "gn:asciiname":"Granada",
+    "gn:country_code":"CO",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685902,
+    "gn:latitude":1.57859,
+    "gn:longitude":-77.34655,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Granada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00f3rdoba",
+        "Granada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421205097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685902
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a6f0862e0500da2f0f0a4691f0490552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205097,
+            "locality_id":1326994831,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1326994831,
+    "wof:lastmodified":1537618615,
+    "wof:name":"Granada",
+    "wof:parent_id":421205097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34655,
+    1.57859,
+    -77.34655,
+    1.57859
+],
+  "geometry": {"coordinates":[-77.34654999999999,1.57859],"type":"Point"}
+}

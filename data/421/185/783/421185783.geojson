@@ -1,0 +1,125 @@
+{
+  "id": 421185783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.9701,4.03078,-74.9701,4.03078",
+    "geom:latitude":4.03078,
+    "geom:longitude":-74.9701,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Guamo"
+    ],
+    "name:chi_x_preferred":[
+        "\u74dc\u83ab"
+    ],
+    "name:dut_x_preferred":[
+        "Guamo"
+    ],
+    "name:eng_x_preferred":[
+        "Guamo"
+    ],
+    "name:fre_x_preferred":[
+        "El Guamo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10db\u10dd"
+    ],
+    "name:glg_x_preferred":[
+        "Guamo"
+    ],
+    "name:ita_x_preferred":[
+        "El Guamo"
+    ],
+    "name:may_x_preferred":[
+        "Guamo"
+    ],
+    "name:nan_x_preferred":[
+        "Guamo"
+    ],
+    "name:per_x_preferred":[
+        "\u06af\u0648\u0622\u0645\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Guamo"
+    ],
+    "name:swe_x_preferred":[
+        "Guamo"
+    ],
+    "name:vie_x_preferred":[
+        "Guamo"
+    ],
+    "name:war_x_preferred":[
+        "Guamo"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3681563,
+    "qs:gn_pop":14881,
+    "qs:name":"Guamo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Tolima",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":36,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046319,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368210,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421177063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681563,
+        "gp:id":368210,
+        "qs:id":1046319,
+        "wd:id":"Q664349"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009454,
+    "wof:geomhash":"cab36dcaa3a5bb4fe404aa5ebc4d4179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177063,
+            "locality_id":421185783,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":421185783,
+    "wof:lastmodified":1553816375,
+    "wof:name":"Guamo",
+    "wof:parent_id":421177063,
+    "wof:placetype":"locality",
+    "wof:population":14881,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.9701,
+    4.03078,
+    -74.9701,
+    4.03078
+],
+  "geometry": {"coordinates":[-74.9701,4.03078],"type":"Point"}
+}

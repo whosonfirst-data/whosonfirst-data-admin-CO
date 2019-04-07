@@ -1,0 +1,62 @@
+{
+  "id": 1209421389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4284,6.81976,-71.4284,6.81976",
+    "geom:latitude":6.81976,
+    "geom:longitude":-71.4284,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81065.0",
+    "gn:asciiname":"Caserio Brisas del Caranal",
+    "gn:country_code":"CO",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6195354,
+    "gn:latitude":6.81976,
+    "gn:longitude":-71.4284,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Brisas del Caranal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6195354
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ab204e9a35a77b85428a2ba23ebccc01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209421389
+        }
+    ],
+    "wof:id":1209421389,
+    "wof:lastmodified":1536287519,
+    "wof:name":"Caserio Brisas del Caranal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4284,
+    6.8197600000000005,
+    -71.4284,
+    6.8197600000000005
+],
+  "geometry": {"coordinates":[-71.4284,6.81976],"type":"Point"}
+}

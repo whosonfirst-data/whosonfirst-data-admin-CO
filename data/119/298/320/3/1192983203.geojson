@@ -1,0 +1,68 @@
+{
+  "id": 1192983203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.2169,2.147,-78.2169,2.147",
+    "geom:latitude":2.147,
+    "geom:longitude":-78.2169,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52490.0",
+    "gn:asciiname":"Guasco",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638874,
+    "gn:latitude":2.147,
+    "gn:longitude":-78.2169,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guasco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638874
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7948fe5f3746d8dc6e9a7d161b239825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701043,
+            "locality_id":1192983203,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1192983203,
+    "wof:lastmodified":1536366181,
+    "wof:name":"Guasco",
+    "wof:parent_id":1108701043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.2169,
+    2.147,
+    -78.2169,
+    2.147
+],
+  "geometry": {"coordinates":[-78.2169,2.147],"type":"Point"}
+}

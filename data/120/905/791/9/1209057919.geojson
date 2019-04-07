@@ -1,0 +1,62 @@
+{
+  "id": 1209057919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85139,5.40389,-75.85139,5.40389",
+    "geom:latitude":5.40389,
+    "geom:longitude":-75.85139,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17614.0",
+    "gn:asciiname":"Idarraga",
+    "gn:country_code":"CO",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785156,
+    "gn:latitude":5.40389,
+    "gn:longitude":-75.85139,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Id\u00e1rraga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785156
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8f1a58964766352fe935b457e1d36edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209057919
+        }
+    ],
+    "wof:id":1209057919,
+    "wof:lastmodified":1536299051,
+    "wof:name":"Idarraga",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85139000000002,
+    5.4038900000000005,
+    -75.85139000000002,
+    5.4038900000000005
+],
+  "geometry": {"coordinates":[-75.85139000000002,5.40389],"type":"Point"}
+}

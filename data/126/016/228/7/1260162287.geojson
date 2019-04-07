@@ -1,0 +1,71 @@
+{
+  "id": 1260162287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07453,2.79783,-75.07453,2.79783",
+    "geom:latitude":2.79783,
+    "geom:longitude":-75.07453,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001",
+    "gn:asciiname":"Las Letras",
+    "gn:country_code":"CO",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356930,
+    "gn:latitude":2.79783,
+    "gn:longitude":-75.07453,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Letras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Letras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356930
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aa9785aae0656353c8c47d4cbfafbab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1260162287,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1260162287,
+    "wof:lastmodified":1537618841,
+    "wof:name":"Las Letras",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07453000000002,
+    2.79783,
+    -75.07453000000002,
+    2.79783
+],
+  "geometry": {"coordinates":[-75.07453000000002,2.79783],"type":"Point"}
+}

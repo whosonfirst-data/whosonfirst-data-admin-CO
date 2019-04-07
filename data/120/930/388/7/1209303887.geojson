@@ -1,0 +1,62 @@
+{
+  "id": 1209303887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.56722,2.50449,-76.56722,2.50449",
+    "geom:latitude":2.50449,
+    "geom:longitude":-76.56722,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19001.0",
+    "gn:asciiname":"El Medio",
+    "gn:country_code":"CO",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3771231,
+    "gn:latitude":2.50449,
+    "gn:longitude":-76.56722,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Medio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771231
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1385404d15b2af983b93e8d897e9ca16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209303887
+        }
+    ],
+    "wof:id":1209303887,
+    "wof:lastmodified":1536291262,
+    "wof:name":"El Medio",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.56721999999998,
+    2.50449,
+    -76.56721999999998,
+    2.50449
+],
+  "geometry": {"coordinates":[-76.56721999999998,2.50449],"type":"Point"}
+}

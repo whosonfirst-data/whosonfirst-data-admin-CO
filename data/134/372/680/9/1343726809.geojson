@@ -1,0 +1,73 @@
+{
+  "id": 1343726809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.41667,2.21667,-78.41667,2.21667",
+    "geom:latitude":2.21667,
+    "geom:longitude":-78.41667,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52473.0",
+    "gn:asciiname":"Trinidad",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666720,
+    "gn:latitude":2.21667,
+    "gn:longitude":-78.41667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Mercedes",
+        "Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666720
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0db5b1950177eaccb97ebc587b11530e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701039,
+            "locality_id":1343726809,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343726809,
+    "wof:lastmodified":1537618369,
+    "wof:name":"Trinidad",
+    "wof:parent_id":1108701039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.41667,
+    2.21667,
+    -78.41667,
+    2.21667
+],
+  "geometry": {"coordinates":[-78.41667,2.21667],"type":"Point"}
+}

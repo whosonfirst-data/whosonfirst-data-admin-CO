@@ -1,0 +1,68 @@
+{
+  "id": 1327280681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.24658,3.97934,-76.24658,3.97934",
+    "geom:latitude":3.97934,
+    "geom:longitude":-76.24658,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76670.0",
+    "gn:asciiname":"El Cruero",
+    "gn:country_code":"CO",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778650,
+    "gn:latitude":3.97934,
+    "gn:longitude":-76.24658,
+    "gn:modification_date":"2015-06-24",
+    "gn:name":"El Cruero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421184143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778650
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6c66396b52bb3f3c79826d6b2643cd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184143,
+            "locality_id":1327280681,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327280681,
+    "wof:lastmodified":1536900003,
+    "wof:name":"El Cruero",
+    "wof:parent_id":421184143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.24658000000002,
+    3.97934,
+    -76.24658000000002,
+    3.97934
+],
+  "geometry": {"coordinates":[-76.24658000000002,3.97934],"type":"Point"}
+}

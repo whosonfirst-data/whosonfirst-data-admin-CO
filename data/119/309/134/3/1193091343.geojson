@@ -1,0 +1,72 @@
+{
+  "id": 1193091343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.55426,9.51529,-75.55426,9.51529",
+    "geom:latitude":9.51529,
+    "geom:longitude":-75.55426,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70820.0",
+    "gn:asciiname":"Villa Sol",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665903,
+    "gn:latitude":9.51529,
+    "gn:longitude":-75.55426,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Sol",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Villa Sol",
+        "Villa Sol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421168313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665903
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5478ad5a46fdc037b96e84626536051d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421168313,
+            "locality_id":1193091343,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1193091343,
+    "wof:lastmodified":1537618360,
+    "wof:name":"Villa Sol",
+    "wof:parent_id":421168313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55426,
+    9.51529,
+    -75.55426,
+    9.51529
+],
+  "geometry": {"coordinates":[-75.55426,9.51529],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360243817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.06509,8.98697,-73.06509,8.98697",
+    "geom:latitude":8.98697,
+    "geom:longitude":-73.06509,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54800.0",
+    "gn:asciiname":"Irokdogbaykayra",
+    "gn:country_code":"CO",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738279,
+    "gn:latitude":8.98697,
+    "gn:longitude":-73.06509,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Irokdogbaykayra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738279
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8507848807d4aa1d4df172580989a1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701151,
+            "locality_id":1360243817,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1360243817,
+    "wof:lastmodified":1536717126,
+    "wof:name":"Irokdogbaykayra",
+    "wof:parent_id":1108701151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.06509,
+    8.98697,
+    -73.06509,
+    8.98697
+],
+  "geometry": {"coordinates":[-73.06509,8.98697],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260049109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7675,2.285,-75.7675,2.285",
+    "geom:latitude":2.285,
+    "geom:longitude":-75.7675,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41013.0",
+    "gn:asciiname":"Providencia",
+    "gn:country_code":"CO",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793027,
+    "gn:latitude":2.285,
+    "gn:longitude":-75.7675,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793027
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ba8423be8392e7ce6b82d0df6af31986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700797,
+            "locality_id":1260049109,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1260049109,
+    "wof:lastmodified":1537036128,
+    "wof:name":"Providencia",
+    "wof:parent_id":1108700797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7675,
+    2.285,
+    -75.7675,
+    2.285
+],
+  "geometry": {"coordinates":[-75.7675,2.285],"type":"Point"}
+}

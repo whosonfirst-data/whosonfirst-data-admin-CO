@@ -1,0 +1,66 @@
+{
+  "id": 1209294379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99068,8.29718,-74.99068,8.29718",
+    "geom:latitude":8.29718,
+    "geom:longitude":-74.99068,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23068.0",
+    "gn:asciiname":"Narino",
+    "gn:country_code":"CO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674024,
+    "gn:latitude":8.29718,
+    "gn:longitude":-74.99068,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nari\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playablanca",
+        "Nari\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674024
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5214e08b9861434bf18eaf9e95f03217",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209294379
+        }
+    ],
+    "wof:id":1209294379,
+    "wof:lastmodified":1537618451,
+    "wof:name":"Narino",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99068,
+    8.29718,
+    -74.99068,
+    8.29718
+],
+  "geometry": {"coordinates":[-74.99068,8.29718],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327160661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.48705,5.98021,-67.48705,5.98021",
+    "geom:latitude":5.98021,
+    "geom:longitude":-67.48705,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99001.0",
+    "gn:asciiname":"La Guaripa",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8137754,
+    "gn:latitude":5.98021,
+    "gn:longitude":-67.48705,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Guaripa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Guaripa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        421201569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8137754
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2553ac152eb7a90ca921b4a092c002ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421201569,
+            "locality_id":1327160661,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1327160661,
+    "wof:lastmodified":1537618752,
+    "wof:name":"La Guaripa",
+    "wof:parent_id":421201569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.48705,
+    5.98021,
+    -67.48705,
+    5.98021
+],
+  "geometry": {"coordinates":[-67.48705,5.98021],"type":"Point"}
+}

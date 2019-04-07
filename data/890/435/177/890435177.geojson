@@ -1,0 +1,106 @@
+{
+  "id": 890435177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.3605,1.29546,-77.3605,1.29546",
+    "geom:latitude":1.29546,
+    "geom:longitude":-77.3605,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":2933,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7d0d\u91cc\u5c3c\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:eng_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:fre_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:geo_x_preferred":[
+        "\u10dc\u10d0\u10e0\u10d8\u10dc\u10d8\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:may_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:nan_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:sco_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:spa_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:swe_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:tgl_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:war_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "qs:name":"Nari\u00f1o",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674031,
+        "gp:id":368516,
+        "qs:id":150084,
+        "wd:id":"Q2433055"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052057,
+    "wof:geomhash":"2045ee3ba5772b67b36a1fed47a108b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701041,
+            "locality_id":890435177,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":890435177,
+    "wof:lastmodified":1553816396,
+    "wof:name":"Nari\u00f1o",
+    "wof:parent_id":1108701041,
+    "wof:placetype":"locality",
+    "wof:population":2933,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.3605,
+    1.29546,
+    -77.3605,
+    1.29546
+],
+  "geometry": {"coordinates":[-77.3605,1.29546],"type":"Point"}
+}

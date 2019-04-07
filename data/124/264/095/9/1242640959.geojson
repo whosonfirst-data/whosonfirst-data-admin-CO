@@ -1,0 +1,68 @@
+{
+  "id": 1242640959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92214,11.91792,-71.92214,11.91792",
+    "geom:latitude":11.91792,
+    "geom:longitude":-71.92214,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Kuilain",
+    "gn:country_code":"CO",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8462083,
+    "gn:latitude":11.91792,
+    "gn:longitude":-71.92214,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Kuilain",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462083
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3dd63a0aa0affd989f834e975898320a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1242640959,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1242640959,
+    "wof:lastmodified":1536972296,
+    "wof:name":"Kuilain",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92214,
+    11.91792,
+    -71.92214,
+    11.91792
+],
+  "geometry": {"coordinates":[-71.92214,11.91792],"type":"Point"}
+}

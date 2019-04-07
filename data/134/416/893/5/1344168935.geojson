@@ -1,0 +1,71 @@
+{
+  "id": 1344168935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57288,6.15315,-75.57288,6.15315",
+    "geom:latitude":6.15315,
+    "geom:longitude":-75.57288,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5266.0",
+    "gn:asciiname":"Vereda Chingui",
+    "gn:country_code":"CO",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8337485,
+    "gn:latitude":6.15315,
+    "gn:longitude":-75.57288,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Chingui",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Chingui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337485
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"676512171f95436bf7a5f6052785f299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170557,
+            "locality_id":1344168935,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1344168935,
+    "wof:lastmodified":1537618776,
+    "wof:name":"Vereda Chingui",
+    "wof:parent_id":421170557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57288,
+    6.15315,
+    -75.57288,
+    6.15315
+],
+  "geometry": {"coordinates":[-75.57288,6.15315],"type":"Point"}
+}

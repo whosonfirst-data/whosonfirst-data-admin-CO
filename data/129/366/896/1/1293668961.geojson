@@ -1,0 +1,67 @@
+{
+  "id": 1293668961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95773,7.87533,-73.95773,7.87533",
+    "geom:latitude":7.87533,
+    "geom:longitude":-73.95773,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Boque",
+    "gn:country_code":"CO",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688606,
+    "gn:latitude":7.87533,
+    "gn:longitude":-73.95773,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Boque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688606
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"abbc95ec8de34a65e20cb559ce29e096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700169,
+            "locality_id":1293668961,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293668961,
+    "wof:lastmodified":1537021743,
+    "wof:name":"Boque",
+    "wof:parent_id":1108700169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95773,
+    7.87533,
+    -73.95773,
+    7.87533
+],
+  "geometry": {"coordinates":[-73.95773,7.87533],"type":"Point"}
+}

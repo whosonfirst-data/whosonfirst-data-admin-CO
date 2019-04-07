@@ -1,0 +1,147 @@
+{
+  "id": 421201249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.66311,5.44783,-74.66311,5.44783",
+    "geom:latitude":5.44783,
+    "geom:longitude":-74.66311,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Dorada"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u591a\u62c9\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "La Dorada"
+    ],
+    "name:eng_x_preferred":[
+        "La Dorada"
+    ],
+    "name:fre_x_preferred":[
+        "La Dorada"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10d3\u10dd\u10e0\u10d0\u10d3\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Dorada"
+    ],
+    "name:glg_x_preferred":[
+        "La Dorada"
+    ],
+    "name:ita_x_preferred":[
+        "La Dorada"
+    ],
+    "name:may_x_preferred":[
+        "La Dorada"
+    ],
+    "name:nan_x_preferred":[
+        "La Dorada"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u062f\u0648\u0631\u0627\u062f\u0627"
+    ],
+    "name:por_x_preferred":[
+        "La Dorada"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0414\u043e\u0440\u0430\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Dorada"
+    ],
+    "name:swe_x_preferred":[
+        "La Dorada"
+    ],
+    "name:tgl_x_preferred":[
+        "La Dorada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0414\u043e\u0440\u0430\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Dorada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u062f\u0648\u0631\u0627\u0688\u0627\u060c \u06a9\u0627\u0644\u0688\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "La Dorada"
+    ],
+    "name:war_x_preferred":[
+        "La Dorada"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3679277,
+    "qs:gn_pop":81950,
+    "qs:name":"La Dorada",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Caldas",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1341977,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368323,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421203437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679277,
+        "gp:id":368323,
+        "qs:id":1341977,
+        "wd:id":"Q2279516"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010066,
+    "wof:geomhash":"b6dfd0d80dbaa2ddcf0be578a2e4a2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203437,
+            "locality_id":421201249,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":421201249,
+    "wof:lastmodified":1553816387,
+    "wof:name":"La Dorada",
+    "wof:parent_id":421203437,
+    "wof:placetype":"locality",
+    "wof:population":81950,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.66311,
+    5.44783,
+    -74.66311,
+    5.44783
+],
+  "geometry": {"coordinates":[-74.66311,5.44783],"type":"Point"}
+}

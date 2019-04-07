@@ -1,0 +1,68 @@
+{
+  "id": 1310382335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16093,8.33107,-75.16093,8.33107",
+    "geom:latitude":8.33107,
+    "geom:longitude":-75.16093,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23068.0",
+    "gn:asciiname":"Los Monos",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676047,
+    "gn:latitude":8.33107,
+    "gn:longitude":-75.16093,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Monos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421203439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676047
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e332d4c561cefdb27b4052b66b5924a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203439,
+            "locality_id":1310382335,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1310382335,
+    "wof:lastmodified":1537091462,
+    "wof:name":"Los Monos",
+    "wof:parent_id":421203439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16093000000002,
+    8.33107,
+    -75.16093000000002,
+    8.33107
+],
+  "geometry": {"coordinates":[-75.16093000000002,8.33107],"type":"Point"}
+}

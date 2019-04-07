@@ -1,0 +1,68 @@
+{
+  "id": 1309685053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.89605,3.46368,-67.89605,3.46368",
+    "geom:latitude":3.46368,
+    "geom:longitude":-67.89605,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"Huesito",
+    "gn:country_code":"CO",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680698,
+    "gn:latitude":3.46368,
+    "gn:longitude":-67.89605,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Huesito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680698
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"42abb80cabda4371629c57312d092d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701605,
+            "locality_id":1309685053,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1309685053,
+    "wof:lastmodified":1536605341,
+    "wof:name":"Huesito",
+    "wof:parent_id":1108701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.89605,
+    3.46368,
+    -67.89605,
+    3.46368
+],
+  "geometry": {"coordinates":[-67.89605,3.46368],"type":"Point"}
+}

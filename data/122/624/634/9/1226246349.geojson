@@ -1,0 +1,68 @@
+{
+  "id": 1226246349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.15,-3.93333,-70.15,-3.93333",
+    "geom:latitude":-3.93333,
+    "geom:longitude":-70.15,
+    "gn:admin1_code":"1",
+    "gn:admin2_code":"91001.0",
+    "gn:asciiname":"Internado Santa Sofia",
+    "gn:country_code":"CO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680558,
+    "gn:latitude":-3.93333,
+    "gn:longitude":-70.15,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Internado Santa Sofia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        421202275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680558
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"158ddb19a1b9bab021d33307c25d1969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202275,
+            "locality_id":1226246349,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1226246349,
+    "wof:lastmodified":1536933475,
+    "wof:name":"Internado Santa Sofia",
+    "wof:parent_id":421202275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.15,
+    -3.93333,
+    -70.15,
+    -3.93333
+],
+  "geometry": {"coordinates":[-70.15000000000001,-3.93333],"type":"Point"}
+}

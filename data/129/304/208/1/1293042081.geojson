@@ -1,0 +1,68 @@
+{
+  "id": 1293042081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31536,5.5694,-74.31536,5.5694",
+    "geom:latitude":5.5694,
+    "geom:longitude":-74.31536,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25885.0",
+    "gn:asciiname":"Sardina",
+    "gn:country_code":"CO",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775318,
+    "gn:latitude":5.5694,
+    "gn:longitude":-74.31536,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sardina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775318
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"64fd71e82c61f3b0695712a0eefe227d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700737,
+            "locality_id":1293042081,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293042081,
+    "wof:lastmodified":1536932990,
+    "wof:name":"Sardina",
+    "wof:parent_id":1108700737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31536,
+    5.5694,
+    -74.31536,
+    5.5694
+],
+  "geometry": {"coordinates":[-74.31536,5.5694],"type":"Point"}
+}

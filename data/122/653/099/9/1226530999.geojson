@@ -1,0 +1,67 @@
+{
+  "id": 1226530999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.49608,8.53847,-73.49608,8.53847",
+    "geom:latitude":8.53847,
+    "geom:longitude":-73.49608,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Astilleros",
+    "gn:country_code":"CO",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689464,
+    "gn:latitude":8.53847,
+    "gn:longitude":-73.49608,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Astilleros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689464
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ac040bd3c8516665e25388c59e20e98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701109,
+            "locality_id":1226530999,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1226530999,
+    "wof:lastmodified":1537018520,
+    "wof:name":"Astilleros",
+    "wof:parent_id":1108701109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.49608,
+    8.53847,
+    -73.49608,
+    8.53847
+],
+  "geometry": {"coordinates":[-73.49608000000001,8.53847],"type":"Point"}
+}

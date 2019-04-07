@@ -1,0 +1,68 @@
+{
+  "id": 1310364593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.55294,4.69162,-72.55294,4.69162",
+    "geom:latitude":4.69162,
+    "geom:longitude":-72.55294,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"Guafillal",
+    "gn:country_code":"CO",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769740,
+    "gn:latitude":4.69162,
+    "gn:longitude":-72.55294,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guafillal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769740
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2c0fa996e868b78b3be9ad43b47cb831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701553,
+            "locality_id":1310364593,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1310364593,
+    "wof:lastmodified":1536620838,
+    "wof:name":"Guafillal",
+    "wof:parent_id":1108701553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55294,
+    4.69162,
+    -72.55294,
+    4.69162
+],
+  "geometry": {"coordinates":[-72.55294000000001,4.69162],"type":"Point"}
+}

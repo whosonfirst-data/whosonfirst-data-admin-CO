@@ -1,0 +1,157 @@
+{
+  "id": 421193577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08333,10.51667,-73.08333,10.51667",
+    "geom:latitude":10.51667,
+    "geom:longitude":-73.08333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u54c8\u74dc\u5fb7\u723e\u76ae\u62c9\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:dut_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:eng_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:fra_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:fre_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10ee\u10d0\u10d2\u10e3\u10d0-\u10d3\u10d4\u10da-\u10de\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:ita_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10ee\u10d0\u10d2\u10e3\u10d0-\u10d3\u10d4\u10da-\u10de\u10d8\u10da\u10d0\u10e0\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:msa_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:nan_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:nld_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:por_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0425\u0430\u0433\u0443\u0430-\u0434\u0435\u043b\u044c-\u041f\u0438\u043b\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:swe_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:tgl_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:unk_x_variant":[
+        "La Jagua"
+    ],
+    "name:vie_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:war_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "La Jagua del Pilar"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u74dc\u5fb7\u723e\u76ae\u62c9\u723e"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678672,
+    "qs:gn_pop":894,
+    "qs:name":"La Jagua del Pilar",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"La Guajira",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":924738,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359158,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":530,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678672,
+        "gp:id":359158,
+        "qs:id":924738,
+        "wd:id":"Q1656023",
+        "wk:page":"La Jagua del Pilar"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009775,
+    "wof:geomhash":"2a799f00fdb9b4ad2bc8feffe619d69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700863,
+            "locality_id":421193577,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":421193577,
+    "wof:lastmodified":1527716152,
+    "wof:name":"La Jagua del Pilar",
+    "wof:parent_id":1108700863,
+    "wof:placetype":"locality",
+    "wof:population":894,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08333,
+    10.51667,
+    -73.08333,
+    10.51667
+],
+  "geometry": {"coordinates":[-73.08333,10.51667],"type":"Point"}
+}

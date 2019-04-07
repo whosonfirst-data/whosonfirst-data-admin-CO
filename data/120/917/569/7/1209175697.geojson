@@ -1,0 +1,62 @@
+{
+  "id": 1209175697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.34528,9.33951,-75.34528,9.33951",
+    "geom:latitude":9.33951,
+    "geom:longitude":-75.34528,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70473.0",
+    "gn:asciiname":"Mohan",
+    "gn:country_code":"CO",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674636,
+    "gn:latitude":9.33951,
+    "gn:longitude":-75.34528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Moh\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674636
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"370116fee243368841e9f742be0ba10e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209175697
+        }
+    ],
+    "wof:id":1209175697,
+    "wof:lastmodified":1536295430,
+    "wof:name":"Mohan",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.34528,
+    9.33951,
+    -75.34528,
+    9.33951
+],
+  "geometry": {"coordinates":[-75.34528,9.33951],"type":"Point"}
+}

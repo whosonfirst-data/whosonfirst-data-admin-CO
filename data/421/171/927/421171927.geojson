@@ -1,0 +1,80 @@
+{
+  "id": 421171927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.86361,11.03194,-74.86361,11.03194",
+    "geom:latitude":11.03194,
+    "geom:longitude":-74.86361,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Playa"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678079,
+    "qs:gn_pop":0,
+    "qs:name":"La Playa",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:photos":432,
+    "qs:photos_1k":88,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":432,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1284777,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359736,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":92,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678079,
+        "gp:id":359736,
+        "qs:id":1284777
+    },
+    "wof:country":"CO",
+    "wof:created":1459008912,
+    "wof:geomhash":"af434c31cda7fea62f980cf44fb74b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":421171927,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":421171927,
+    "wof:lastmodified":1527726498,
+    "wof:name":"La Playa",
+    "wof:parent_id":1108700049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.86361,
+    11.03194,
+    -74.86361,
+    11.03194
+],
+  "geometry": {"coordinates":[-74.86360999999999,11.03194],"type":"Point"}
+}

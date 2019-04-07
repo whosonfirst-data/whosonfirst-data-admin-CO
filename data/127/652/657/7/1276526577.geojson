@@ -1,0 +1,74 @@
+{
+  "id": 1276526577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66366,9.19197,-73.66366,9.19197",
+    "geom:latitude":9.19197,
+    "geom:longitude":-73.66366,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20228.0",
+    "gn:asciiname":"Hoja Ancha",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680852,
+    "gn:latitude":9.19197,
+    "gn:longitude":-73.66366,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hoja Ancha",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ojo Ancho",
+        "Hojancha",
+        "Caser\u00edo Hoja-ancha",
+        "Hoja Ancha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680852
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"60cc2ddf165af6ed03c7703ae458c76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188175,
+            "locality_id":1276526577,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276526577,
+    "wof:lastmodified":1537618546,
+    "wof:name":"Hoja Ancha",
+    "wof:parent_id":421188175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66366,
+    9.19197,
+    -73.66366,
+    9.19197
+],
+  "geometry": {"coordinates":[-73.66365999999999,9.19197],"type":"Point"}
+}

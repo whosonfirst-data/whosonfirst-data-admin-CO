@@ -1,0 +1,101 @@
+{
+  "id": 85764639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":14612830.664506,
+    "geom:bbox":"-75.568186,6.234249,-75.568186,6.234249",
+    "geom:latitude":6.234249,
+    "geom:longitude":-75.568186,
+    "iso:country":"CO",
+    "lbl:latitude":6.234249,
+    "lbl:longitude":-75.568186,
+    "mps:latitude":6.22809,
+    "mps:longitude":-75.55994,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "El Salvador"
+    ],
+    "name:unk_x_variant":[
+        "El Salvador"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_id":0,
+    "qs:gn_local":3674962,
+    "qs:id":0,
+    "qs:local_max":5883,
+    "qs:local_sum":29357,
+    "qs:localhoods":18,
+    "qs:name":"El Salvador",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:name_adm2":"Medellin",
+    "qs:name_local":"Medell\u00edn",
+    "qs:photo_max":559,
+    "qs:photo_sum":4402,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":82,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345048,
+    "qs:woe_adm2":26796607,
+    "qs:woe_lau":0,
+    "qs:woe_local":368150,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421205069,
+        85670129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":355903
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c066687530d08b6d8b1211a8eac5db44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":85764639,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":85764639,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858928,
+    "wof:name":"El Salvador",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.568186,
+    6.234249,
+    -75.568186,
+    6.234249
+],
+  "geometry": {"coordinates":[-75.568186,6.234249],"type":"Point"}
+}

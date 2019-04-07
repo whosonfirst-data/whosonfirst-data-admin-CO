@@ -1,0 +1,62 @@
+{
+  "id": 1209066933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82333,3.93583,-75.82333,3.93583",
+    "geom:latitude":3.93583,
+    "geom:longitude":-75.82333,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76834.0",
+    "gn:asciiname":"Pekin",
+    "gn:country_code":"CO",
+    "gn:dem":3420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769288,
+    "gn:latitude":3.93583,
+    "gn:longitude":-75.82333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pek\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769288
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"22209b1ac6dca0db72d116354c18fc06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209066933
+        }
+    ],
+    "wof:id":1209066933,
+    "wof:lastmodified":1536298773,
+    "wof:name":"Pekin",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82333,
+    3.93583,
+    -75.82333,
+    3.93583
+],
+  "geometry": {"coordinates":[-75.82333,3.93583],"type":"Point"}
+}

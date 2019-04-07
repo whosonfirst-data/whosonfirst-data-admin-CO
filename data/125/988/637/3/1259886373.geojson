@@ -1,0 +1,70 @@
+{
+  "id": 1259886373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.57591,6.97835,-70.57591,6.97835",
+    "geom:latitude":6.97835,
+    "geom:longitude":-70.57591,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"La Curva",
+    "gn:country_code":"CO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11403520,
+    "gn:latitude":6.97835,
+    "gn:longitude":-70.57591,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"La Curva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Curva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11403520
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fcbdbf503498a868f30a0eb551aa541b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1259886373,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1259886373,
+    "wof:lastmodified":1537618846,
+    "wof:name":"La Curva",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.57591,
+    6.97835,
+    -70.57591,
+    6.97835
+],
+  "geometry": {"coordinates":[-70.57590999999999,6.97835],"type":"Point"}
+}

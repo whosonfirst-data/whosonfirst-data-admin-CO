@@ -1,0 +1,74 @@
+{
+  "id": 1326600635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53333,2.46667,-72.53333,2.46667",
+    "geom:latitude":2.46667,
+    "geom:longitude":-72.53333,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"95001.0",
+    "gn:asciiname":"La Juga",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678660,
+    "gn:latitude":2.46667,
+    "gn:longitude":-72.53333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Juga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Juga",
+        "La Jagua",
+        "La Juga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        421203263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678660
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e4ac953341f8f9afe044b95370a1c9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203263,
+            "locality_id":1326600635,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1326600635,
+    "wof:lastmodified":1537618516,
+    "wof:name":"La Juga",
+    "wof:parent_id":421203263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53333,
+    2.46667,
+    -72.53333,
+    2.46667
+],
+  "geometry": {"coordinates":[-72.53333000000001,2.46667],"type":"Point"}
+}

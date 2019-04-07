@@ -1,0 +1,71 @@
+{
+  "id": 1193241865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.70104,12.03341,-71.70104,12.03341",
+    "geom:latitude":12.03341,
+    "geom:longitude":-71.70104,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Calonka",
+    "gn:country_code":"CO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3680035,
+    "gn:latitude":12.03341,
+    "gn:longitude":-71.70104,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Calonka",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karonka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680035
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a1f6361aba57d89ef8a50eab6bc878e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1193241865,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1193241865,
+    "wof:lastmodified":1537618538,
+    "wof:name":"Calonka",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70104,
+    12.03341,
+    -71.70104,
+    12.03341
+],
+  "geometry": {"coordinates":[-71.70104000000001,12.03341],"type":"Point"}
+}

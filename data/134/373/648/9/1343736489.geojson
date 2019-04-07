@@ -1,0 +1,73 @@
+{
+  "id": 1343736489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.49833,2.28444,-78.49833,2.28444",
+    "geom:latitude":2.28444,
+    "geom:longitude":-78.49833,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52473.0",
+    "gn:asciiname":"San Andres",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827844,
+    "gn:latitude":2.28444,
+    "gn:longitude":-78.49833,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Guandipa",
+        "San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827844
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"021100fdf7f51baff640a4e5d8917b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701039,
+            "locality_id":1343736489,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343736489,
+    "wof:lastmodified":1537618694,
+    "wof:name":"San Andres",
+    "wof:parent_id":1108701039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.49833000000002,
+    2.28444,
+    -78.49833000000002,
+    2.28444
+],
+  "geometry": {"coordinates":[-78.49833000000002,2.28444],"type":"Point"}
+}

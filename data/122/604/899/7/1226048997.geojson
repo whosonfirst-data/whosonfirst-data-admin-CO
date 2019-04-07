@@ -1,0 +1,73 @@
+{
+  "id": 1226048997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87,6.93472,-70.87,6.93472",
+    "geom:latitude":6.93472,
+    "geom:longitude":-70.87,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Rosario",
+    "gn:country_code":"CO",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683141,
+    "gn:latitude":6.93472,
+    "gn:longitude":-70.87,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Rosario",
+        "El Rosario",
+        "Rosario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683141
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"28d422aface980b21ca4be3b29ad7cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1226048997,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1226048997,
+    "wof:lastmodified":1537618571,
+    "wof:name":"Rosario",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87,
+    6.93472,
+    -70.87,
+    6.93472
+],
+  "geometry": {"coordinates":[-70.87,6.93472],"type":"Point"}
+}

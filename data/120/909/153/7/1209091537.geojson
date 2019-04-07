@@ -1,0 +1,65 @@
+{
+  "id": 1209091537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63737,1.60791,-75.63737,1.60791",
+    "geom:latitude":1.60791,
+    "geom:longitude":-75.63737,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Cicolac",
+    "gn:country_code":"CO",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184300,
+    "gn:latitude":1.60791,
+    "gn:longitude":-75.63737,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cicolac",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cicolac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184300
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1491f12edb2455cd7ceb3ad2ef504a66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209091537
+        }
+    ],
+    "wof:id":1209091537,
+    "wof:lastmodified":1537618761,
+    "wof:name":"Cicolac",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63736999999998,
+    1.60791,
+    -75.63736999999998,
+    1.60791
+],
+  "geometry": {"coordinates":[-75.63736999999998,1.60791],"type":"Point"}
+}

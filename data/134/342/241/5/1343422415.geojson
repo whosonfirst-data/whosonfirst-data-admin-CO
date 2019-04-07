@@ -1,0 +1,72 @@
+{
+  "id": 1343422415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43954,9.5066,-75.43954,9.5066",
+    "geom:latitude":9.5066,
+    "geom:longitude":-75.43954,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70823.0",
+    "gn:asciiname":"Cal",
+    "gn:country_code":"CO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687995,
+    "gn:latitude":9.5066,
+    "gn:longitude":-75.43954,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Cal",
+        "Cal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687995
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e34de9deaef2f31cd5a807e6a43e3ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701421,
+            "locality_id":1343422415,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343422415,
+    "wof:lastmodified":1537618637,
+    "wof:name":"Cal",
+    "wof:parent_id":1108701421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43954000000002,
+    9.5066,
+    -75.43954000000002,
+    9.5066
+],
+  "geometry": {"coordinates":[-75.43954000000002,9.5066],"type":"Point"}
+}

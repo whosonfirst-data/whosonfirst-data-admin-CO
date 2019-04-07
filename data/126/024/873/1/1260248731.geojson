@@ -1,0 +1,68 @@
+{
+  "id": 1260248731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54694,7.26111,-73.54694,7.26111",
+    "geom:latitude":7.26111,
+    "geom:longitude":-73.54694,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68655.0",
+    "gn:asciiname":"Cayumba",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829662,
+    "gn:latitude":7.26111,
+    "gn:longitude":-73.54694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cayumba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829662
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8405823b48bfec474b147eeee8017b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701329,
+            "locality_id":1260248731,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1260248731,
+    "wof:lastmodified":1536759204,
+    "wof:name":"Cayumba",
+    "wof:parent_id":1108701329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54694,
+    7.26111,
+    -73.54694,
+    7.26111
+],
+  "geometry": {"coordinates":[-73.54694000000001,7.26111],"type":"Point"}
+}

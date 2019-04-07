@@ -1,0 +1,62 @@
+{
+  "id": 1209257603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5379,5.60375,-75.5379,5.60375",
+    "geom:latitude":5.60375,
+    "geom:longitude":-75.5379,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17013.0",
+    "gn:asciiname":"La Sonadora",
+    "gn:country_code":"CO",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780731,
+    "gn:latitude":5.60375,
+    "gn:longitude":-75.5379,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La So\u00f1adora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780731
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0561383dedd1e36ec71a451e37a3c05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209257603
+        }
+    ],
+    "wof:id":1209257603,
+    "wof:lastmodified":1536292801,
+    "wof:name":"La Sonadora",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5379,
+    5.60375,
+    -75.5379,
+    5.60375
+],
+  "geometry": {"coordinates":[-75.53789999999999,5.60375],"type":"Point"}
+}

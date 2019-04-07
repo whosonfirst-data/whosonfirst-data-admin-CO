@@ -1,0 +1,62 @@
+{
+  "id": 1209047887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,4.81667,-74.1,4.81667",
+    "geom:latitude":4.81667,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25214.0",
+    "gn:asciiname":"Villa Rosa",
+    "gn:country_code":"CO",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665918,
+    "gn:latitude":4.81667,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665918
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"23cc4d024a6b3e39ff2a19c0a11ce1e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209047887
+        }
+    ],
+    "wof:id":1209047887,
+    "wof:lastmodified":1536299338,
+    "wof:name":"Villa Rosa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    4.8166699999999985,
+    -74.1,
+    4.8166699999999985
+],
+  "geometry": {"coordinates":[-74.09999999999999,4.81667],"type":"Point"}
+}

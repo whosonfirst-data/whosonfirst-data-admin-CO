@@ -1,0 +1,68 @@
+{
+  "id": 1293645845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50667,7.28472,-73.50667,7.28472",
+    "geom:latitude":7.28472,
+    "geom:longitude":-73.50667,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68655.0",
+    "gn:asciiname":"Mateplatano",
+    "gn:country_code":"CO",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829661,
+    "gn:latitude":7.28472,
+    "gn:longitude":-73.50667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Matepl\u00e1tano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829661
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd013b989702956f1315d5685df3bb7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701329,
+            "locality_id":1293645845,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293645845,
+    "wof:lastmodified":1537053814,
+    "wof:name":"Mateplatano",
+    "wof:parent_id":1108701329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50667,
+    7.28472,
+    -73.50667,
+    7.28472
+],
+  "geometry": {"coordinates":[-73.50667,7.28472],"type":"Point"}
+}

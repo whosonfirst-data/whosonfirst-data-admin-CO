@@ -1,0 +1,77 @@
+{
+  "id": 421204173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.52036,3.44902,-76.52036,3.44902",
+    "geom:latitude":3.44902,
+    "geom:longitude":-76.52036,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3673671,
+    "qs:gn_pop":0,
+    "qs:name":"Obrero",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:photos":602,
+    "qs:photos_1k":122,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":602,
+    "qs:photos_sr":8,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238584,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":363060,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421170643,
+        85670203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673671,
+        "gp:id":363060,
+        "qs:id":238584
+    },
+    "wof:country":"CO",
+    "wof:created":1459010176,
+    "wof:geomhash":"9a4a2e8758cd3360d2fbf7a72af1e231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":-1,
+            "neighbourhood_id":421204173,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":421204173,
+    "wof:lastmodified":1531858838,
+    "wof:name":"Obrero",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.52036,
+    3.44902,
+    -76.52036,
+    3.44902
+],
+  "geometry": {"coordinates":[-76.52036,3.44902],"type":"Point"}
+}

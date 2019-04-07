@@ -1,0 +1,68 @@
+{
+  "id": 1259349571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2781,6.12013,-73.2781,6.12013",
+    "geom:latitude":6.12013,
+    "geom:longitude":-73.2781,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68770.0",
+    "gn:asciiname":"No Te Veo",
+    "gn:country_code":"CO",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810054,
+    "gn:latitude":6.12013,
+    "gn:longitude":-73.2781,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"No Te Veo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810054
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"699c928b83672af3b449f96ae7f97733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701357,
+            "locality_id":1259349571,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1259349571,
+    "wof:lastmodified":1537049114,
+    "wof:name":"No Te Veo",
+    "wof:parent_id":1108701357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2781,
+    6.12013,
+    -73.2781,
+    6.12013
+],
+  "geometry": {"coordinates":[-73.27809999999999,6.12013],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343361765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58333,6.21667,-74.58333,6.21667",
+    "geom:latitude":6.21667,
+    "geom:longitude":-74.58333,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5585.0",
+    "gn:asciiname":"Imarco",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680610,
+    "gn:latitude":6.21667,
+    "gn:longitude":-74.58333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Imarco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Inmarco",
+        "Imarco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680610
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1d230365bc68e460a82b4fab6c523422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699991,
+            "locality_id":1343361765,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343361765,
+    "wof:lastmodified":1537618544,
+    "wof:name":"Imarco",
+    "wof:parent_id":1108699991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58333,
+    6.21667,
+    -74.58333,
+    6.21667
+],
+  "geometry": {"coordinates":[-74.58333,6.21667],"type":"Point"}
+}

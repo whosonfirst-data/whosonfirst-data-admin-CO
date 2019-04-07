@@ -1,0 +1,72 @@
+{
+  "id": 1276391717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89303,8.90501,-73.89303,8.90501",
+    "geom:latitude":8.90501,
+    "geom:longitude":-73.89303,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13268.0",
+    "gn:asciiname":"La Humareda",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678728,
+    "gn:latitude":8.90501,
+    "gn:longitude":-73.89303,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Humareda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Humareda",
+        "La Humareda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678728
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1601ffc2c89038d6fae3315f9c5c49f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700121,
+            "locality_id":1276391717,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1276391717,
+    "wof:lastmodified":1537618518,
+    "wof:name":"La Humareda",
+    "wof:parent_id":1108700121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89303000000002,
+    8.90501,
+    -73.89303000000002,
+    8.90501
+],
+  "geometry": {"coordinates":[-73.89303000000002,8.90501],"type":"Point"}
+}

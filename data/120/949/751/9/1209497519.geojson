@@ -1,0 +1,62 @@
+{
+  "id": 1209497519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.90779,2.7779,-67.90779,2.7779",
+    "geom:latitude":2.7779,
+    "geom:longitude":-67.90779,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94884.0",
+    "gn:asciiname":"Macanal",
+    "gn:country_code":"CO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675792,
+    "gn:latitude":2.7779,
+    "gn:longitude":-67.90779,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Macanal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675792
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"930be258df57babcbf8729d7830a5ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209497519
+        }
+    ],
+    "wof:id":1209497519,
+    "wof:lastmodified":1536285289,
+    "wof:name":"Macanal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.90779,
+    2.7779,
+    -67.90779,
+    2.7779
+],
+  "geometry": {"coordinates":[-67.90779000000001,2.7779],"type":"Point"}
+}

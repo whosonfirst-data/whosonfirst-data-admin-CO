@@ -1,0 +1,68 @@
+{
+  "id": 1327399257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80349,2.88915,-72.80349,2.88915",
+    "geom:latitude":2.88915,
+    "geom:longitude":-72.80349,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50450.0",
+    "gn:asciiname":"Mereyes",
+    "gn:country_code":"CO",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308387,
+    "gn:latitude":2.88915,
+    "gn:longitude":-72.80349,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mereyes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308387
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0f7f29db17190f4cb52f7ed199e8eedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700949,
+            "locality_id":1327399257,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1327399257,
+    "wof:lastmodified":1536729126,
+    "wof:name":"Mereyes",
+    "wof:parent_id":1108700949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80349,
+    2.88915,
+    -72.80349,
+    2.88915
+],
+  "geometry": {"coordinates":[-72.80349,2.88915],"type":"Point"}
+}

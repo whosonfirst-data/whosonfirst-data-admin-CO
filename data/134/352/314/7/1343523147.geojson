@@ -1,0 +1,72 @@
+{
+  "id": 1343523147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39064,1.76302,-77.39064,1.76302",
+    "geom:latitude":1.76302,
+    "geom:longitude":-77.39064,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52256.0",
+    "gn:asciiname":"El Rincon",
+    "gn:country_code":"CO",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683205,
+    "gn:latitude":1.76302,
+    "gn:longitude":-77.39064,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Rinc\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rincon",
+        "El Rinc\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683205
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a22f4e5e18af4410e7ba422b409f554a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700999,
+            "locality_id":1343523147,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343523147,
+    "wof:lastmodified":1537618572,
+    "wof:name":"El Rincon",
+    "wof:parent_id":1108700999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39064,
+    1.76302,
+    -77.39064,
+    1.76302
+],
+  "geometry": {"coordinates":[-77.39064,1.76302],"type":"Point"}
+}

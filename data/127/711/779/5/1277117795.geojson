@@ -1,0 +1,71 @@
+{
+  "id": 1277117795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97817,4.24655,-73.97817,4.24655",
+    "geom:latitude":4.24655,
+    "geom:longitude":-73.97817,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25339.0",
+    "gn:asciiname":"El Carmen Arriba",
+    "gn:country_code":"CO",
+    "gn:dem":2250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526495,
+    "gn:latitude":4.24655,
+    "gn:longitude":-73.97817,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Carmen Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Carmen Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526495
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3dd54e86642a8c45433bd84f061cd452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700661,
+            "locality_id":1277117795,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1277117795,
+    "wof:lastmodified":1537618720,
+    "wof:name":"El Carmen Arriba",
+    "wof:parent_id":1108700661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97816999999998,
+    4.24655,
+    -73.97816999999998,
+    4.24655
+],
+  "geometry": {"coordinates":[-73.97816999999998,4.24655],"type":"Point"}
+}

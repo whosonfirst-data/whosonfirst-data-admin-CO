@@ -1,0 +1,68 @@
+{
+  "id": 1243604959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25,4.93333,-75.25,4.93333",
+    "geom:latitude":4.93333,
+    "geom:longitude":-75.25,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73870.0",
+    "gn:asciiname":"Quebradanegra",
+    "gn:country_code":"CO",
+    "gn:dem":3545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671162,
+    "gn:latitude":4.93333,
+    "gn:longitude":-75.25,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quebradanegra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671162
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8ca1800366b3cfa7f7f0647543bc9bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701479,
+            "locality_id":1243604959,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1243604959,
+    "wof:lastmodified":1537071100,
+    "wof:name":"Quebradanegra",
+    "wof:parent_id":1108701479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25,
+    4.93333,
+    -75.25,
+    4.93333
+],
+  "geometry": {"coordinates":[-75.25,4.93333],"type":"Point"}
+}

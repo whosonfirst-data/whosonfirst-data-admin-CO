@@ -1,0 +1,68 @@
+{
+  "id": 1193125589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.73333,8.36667,-73.73333,8.36667",
+    "geom:latitude":8.36667,
+    "geom:longitude":-73.73333,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20295.0",
+    "gn:asciiname":"Concordia",
+    "gn:country_code":"CO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686012,
+    "gn:latitude":8.36667,
+    "gn:longitude":-73.73333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Concordia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686012
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1353435c6e1335ffc2af5308e9b8a4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700539,
+            "locality_id":1193125589,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1193125589,
+    "wof:lastmodified":1536381294,
+    "wof:name":"Concordia",
+    "wof:parent_id":1108700539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73333000000002,
+    8.36667,
+    -73.73333000000002,
+    8.36667
+],
+  "geometry": {"coordinates":[-73.73333000000002,8.36667],"type":"Point"}
+}

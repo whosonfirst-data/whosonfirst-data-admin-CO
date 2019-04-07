@@ -1,0 +1,65 @@
+{
+  "id": 1209357791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84402,5.46672,-74.84402,5.46672",
+    "geom:latitude":5.46672,
+    "geom:longitude":-74.84402,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17867.0",
+    "gn:asciiname":"Cimitarra",
+    "gn:country_code":"CO",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523143,
+    "gn:latitude":5.46672,
+    "gn:longitude":-74.84402,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cimitarra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cimitarra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523143
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"75151a87fe218f0abe740316260db83f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209357791
+        }
+    ],
+    "wof:id":1209357791,
+    "wof:lastmodified":1537618711,
+    "wof:name":"Cimitarra",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84402,
+    5.46672,
+    -74.84402,
+    5.46672
+],
+  "geometry": {"coordinates":[-74.84402,5.46672],"type":"Point"}
+}

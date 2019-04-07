@@ -1,0 +1,73 @@
+{
+  "id": 1259924177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37349,5.00317,-73.37349,5.00317",
+    "geom:latitude":5.00317,
+    "geom:longitude":-73.37349,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15022.0",
+    "gn:asciiname":"Tibaita",
+    "gn:country_code":"CO",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667220,
+    "gn:latitude":5.00317,
+    "gn:longitude":-73.37349,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tibaita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabavita",
+        "Tibaitat\u00e1",
+        "Tibaita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667220
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6b6fadec1e73b698362debbd05936657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700185,
+            "locality_id":1259924177,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1259924177,
+    "wof:lastmodified":1537618374,
+    "wof:name":"Tibaita",
+    "wof:parent_id":1108700185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37349,
+    5.00317,
+    -73.37349,
+    5.00317
+],
+  "geometry": {"coordinates":[-73.37349,5.00317],"type":"Point"}
+}

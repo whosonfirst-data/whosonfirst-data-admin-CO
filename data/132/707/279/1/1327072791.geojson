@@ -1,0 +1,72 @@
+{
+  "id": 1327072791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25181,9.25004,-74.25181,9.25004",
+    "geom:latitude":9.25004,
+    "geom:longitude":-74.25181,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47692.0",
+    "gn:asciiname":"Venero",
+    "gn:country_code":"CO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666180,
+    "gn:latitude":9.25004,
+    "gn:longitude":-74.25181,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Venero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Venero",
+        "Venero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666180
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"73ff2644342049823c5d34646a58f0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":1327072791,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1327072791,
+    "wof:lastmodified":1537618364,
+    "wof:name":"Venero",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25180999999998,
+    9.25004,
+    -74.25180999999998,
+    9.25004
+],
+  "geometry": {"coordinates":[-74.25180999999998,9.25004],"type":"Point"}
+}

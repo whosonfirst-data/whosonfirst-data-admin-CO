@@ -1,0 +1,71 @@
+{
+  "id": 1343763545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.18812,6.95089,-71.18812,6.95089",
+    "geom:latitude":6.95089,
+    "geom:longitude":-71.18812,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81065.0",
+    "gn:asciiname":"La Reinera",
+    "gn:country_code":"CO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677854,
+    "gn:latitude":6.95089,
+    "gn:longitude":-71.18812,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Reinera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reinera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677854
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a22a0dee4d3a4d1df8a4c47cc9d2a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701511,
+            "locality_id":1343763545,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1343763545,
+    "wof:lastmodified":1537618504,
+    "wof:name":"La Reinera",
+    "wof:parent_id":1108701511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.18812,
+    6.95089,
+    -71.18812,
+    6.95089
+],
+  "geometry": {"coordinates":[-71.18812,6.95089],"type":"Point"}
+}

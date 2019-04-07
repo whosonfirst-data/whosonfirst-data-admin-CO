@@ -1,0 +1,74 @@
+{
+  "id": 1226093307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.20897,11.22192,-74.20897,11.22192",
+    "geom:latitude":11.22192,
+    "geom:longitude":-74.20897,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47001.0",
+    "gn:asciiname":"Quinta de San Pedro Alejandrino",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671082,
+    "gn:latitude":11.22192,
+    "gn:longitude":-74.20897,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quinta de San Pedro Alejandrino",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Pedro",
+        "Quinta San Pedro Alejandr\u00eda",
+        "Quinta de San Pedro Alejandrino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671082,
+        "wk:page":"Quinta_de_San_Pedro_Alejandrino"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5dd038a7355adcc30516b283977d1838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700871,
+            "locality_id":1226093307,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226093307,
+    "wof:lastmodified":1537618415,
+    "wof:name":"Quinta de San Pedro Alejandrino",
+    "wof:parent_id":1108700871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.20897,
+    11.22192,
+    -74.20897,
+    11.22192
+],
+  "geometry": {"coordinates":[-74.20896999999999,11.22192],"type":"Point"}
+}

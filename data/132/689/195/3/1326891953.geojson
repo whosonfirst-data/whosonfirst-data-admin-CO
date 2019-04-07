@@ -1,0 +1,72 @@
+{
+  "id": 1326891953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1627,9.25121,-75.1627,9.25121",
+    "geom:latitude":9.25121,
+    "geom:longitude":-75.1627,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70742.0",
+    "gn:asciiname":"Palermo",
+    "gn:country_code":"CO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673282,
+    "gn:latitude":9.25121,
+    "gn:longitude":-75.1627,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palermo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Palermo",
+        "Palermo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673282
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5bd00f4fc19e96594373f871cfb32c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701419,
+            "locality_id":1326891953,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1326891953,
+    "wof:lastmodified":1537618445,
+    "wof:name":"Palermo",
+    "wof:parent_id":1108701419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1627,
+    9.25121,
+    -75.1627,
+    9.25121
+],
+  "geometry": {"coordinates":[-75.1627,9.25121],"type":"Point"}
+}

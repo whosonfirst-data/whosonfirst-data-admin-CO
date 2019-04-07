@@ -1,0 +1,68 @@
+{
+  "id": 1360138879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.41667,9.8,-75.41667,9.8",
+    "geom:latitude":9.8,
+    "geom:longitude":-75.41667,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70713.0",
+    "gn:asciiname":"Poza Blanca",
+    "gn:country_code":"CO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671799,
+    "gn:latitude":9.8,
+    "gn:longitude":-75.41667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Poza Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421170641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671799
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb9c88d1d72a474676d1d539be0e530d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170641,
+            "locality_id":1360138879,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1360138879,
+    "wof:lastmodified":1536866922,
+    "wof:name":"Poza Blanca",
+    "wof:parent_id":421170641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.41667,
+    9.8,
+    -75.41667,
+    9.8
+],
+  "geometry": {"coordinates":[-75.41667,9.8],"type":"Point"}
+}

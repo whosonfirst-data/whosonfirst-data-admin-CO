@@ -1,0 +1,69 @@
+{
+  "id": 890437055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76372,6.15676,-71.76372,6.15676",
+    "geom:latitude":6.15676,
+    "geom:longitude":-71.76372,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":2640,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hato del Corozal"
+    ],
+    "qs:name":"Municipio Hato Corozal",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681008,
+        "gp:id":368976,
+        "qs:id":1046312
+    },
+    "wof:country":"CO",
+    "wof:created":1469052136,
+    "wof:geomhash":"5ee19ad39fe3945676e8a5d31c0d2baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "locality_id":890437055,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":890437055,
+    "wof:lastmodified":1505343557,
+    "wof:name":"Municipio Hato Corozal",
+    "wof:parent_id":1108701525,
+    "wof:placetype":"locality",
+    "wof:population":2640,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76372,
+    6.15676,
+    -71.76372,
+    6.15676
+],
+  "geometry": {"coordinates":[-71.76372000000001,6.15676],"type":"Point"}
+}

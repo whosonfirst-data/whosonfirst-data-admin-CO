@@ -1,0 +1,68 @@
+{
+  "id": 1259765555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.0544,3.63595,-69.0544,3.63595",
+    "geom:latitude":3.63595,
+    "geom:longitude":-69.0544,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94343.0",
+    "gn:asciiname":"Arabia",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689769,
+    "gn:latitude":3.63595,
+    "gn:longitude":-69.0544,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arabia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689769
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"61945c46af6f1ebfdfbafaba2ee84764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701607,
+            "locality_id":1259765555,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1259765555,
+    "wof:lastmodified":1536949317,
+    "wof:name":"Arabia",
+    "wof:parent_id":1108701607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.0544,
+    3.63595,
+    -69.0544,
+    3.63595
+],
+  "geometry": {"coordinates":[-69.0544,3.63595],"type":"Point"}
+}

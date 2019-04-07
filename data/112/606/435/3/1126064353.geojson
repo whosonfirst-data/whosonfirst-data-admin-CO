@@ -1,0 +1,93 @@
+{
+  "id": 1126064353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.10722,7.09889,-73.10722,7.09889",
+    "geom:latitude":7.09889,
+    "geom:longitude":-73.10722,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":7.09889,
+    "lbl:longitude":-73.10722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3669253,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Miguel",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Santander",
+    "qs_pg:photos":34,
+    "qs_pg:photos_1k":7,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":34,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1165288,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365829,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Santander",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670141,
+        102191577,
+        85632519,
+        1108701181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669253,
+        "gp:id":365829,
+        "qs_pg:id":1165288
+    },
+    "wof:country":"CO",
+    "wof:created":1497308622,
+    "wof:geomhash":"e1af25e134a592ef8676002c06a63053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701181,
+            "locality_id":-1,
+            "neighbourhood_id":1126064353,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1126064353,
+    "wof:lastmodified":1534379259,
+    "wof:name":"San Miguel",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764781
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.10722,
+    7.09889,
+    -73.10722,
+    7.09889
+],
+  "geometry": {"coordinates":[-73.10722,7.09889],"type":"Point"}
+}

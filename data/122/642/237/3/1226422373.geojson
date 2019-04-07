@@ -1,0 +1,68 @@
+{
+  "id": 1226422373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24501,8.91526,-75.24501,8.91526",
+    "geom:latitude":8.91526,
+    "geom:longitude":-75.24501,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23182.0",
+    "gn:asciiname":"Florencia",
+    "gn:country_code":"CO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682416,
+    "gn:latitude":8.91526,
+    "gn:longitude":-75.24501,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Florencia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682416
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dcddb85319871c376352a8ffdf5406df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700571,
+            "locality_id":1226422373,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1226422373,
+    "wof:lastmodified":1536679185,
+    "wof:name":"Florencia",
+    "wof:parent_id":1108700571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24501,
+    8.91526,
+    -75.24501,
+    8.91526
+],
+  "geometry": {"coordinates":[-75.24500999999999,8.91526],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1344204929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72084,8.81136,-74.72084,8.81136",
+    "geom:latitude":8.81136,
+    "geom:longitude":-74.72084,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"Sucre",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667728,
+    "gn:latitude":8.81136,
+    "gn:longitude":-74.72084,
+    "gn:modification_date":"2018-04-22",
+    "gn:name":"Sucre",
+    "gn:population":23210,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043a\u0440\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Sucre"
+    ],
+    "name:und_x_variant":[
+        "Boca de Granada"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421188689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667728,
+        "wk:page":"Sucre,_Cauca"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6385976cb7c93134fdc84cc970ea2126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188689,
+            "locality_id":1344204929,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1344204929,
+    "wof:lastmodified":1537618378,
+    "wof:name":"Sucre",
+    "wof:parent_id":421188689,
+    "wof:placetype":"locality",
+    "wof:population":23210,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72084,
+    8.81136,
+    -74.72084,
+    8.81136
+],
+  "geometry": {"coordinates":[-74.72084,8.81136],"type":"Point"}
+}

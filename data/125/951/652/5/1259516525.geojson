@@ -1,0 +1,68 @@
+{
+  "id": 1259516525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.04472,3.81889,-69.04472,3.81889",
+    "geom:latitude":3.81889,
+    "geom:longitude":-69.04472,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Giro",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682021,
+    "gn:latitude":3.81889,
+    "gn:longitude":-69.04472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Giro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682021
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8c58252ad0b6e678b991b0d4d445fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1259516525,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1259516525,
+    "wof:lastmodified":1536810891,
+    "wof:name":"Giro",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.04472,
+    3.81889,
+    -69.04472,
+    3.81889
+],
+  "geometry": {"coordinates":[-69.04472,3.81889],"type":"Point"}
+}

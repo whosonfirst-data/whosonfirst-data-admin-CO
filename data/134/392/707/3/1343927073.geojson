@@ -1,0 +1,71 @@
+{
+  "id": 1343927073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05,3.2,-75.05,3.2",
+    "geom:latitude":3.2,
+    "geom:longitude":-75.05,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41872.0",
+    "gn:asciiname":"Reyes",
+    "gn:country_code":"CO",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670834,
+    "gn:latitude":3.2,
+    "gn:longitude":-75.05,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421182355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670834
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6d4adab8ec8844d01860617370cfe8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182355,
+            "locality_id":1343927073,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1343927073,
+    "wof:lastmodified":1537618413,
+    "wof:name":"Reyes",
+    "wof:parent_id":421182355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05,
+    3.2,
+    -75.05,
+    3.2
+],
+  "geometry": {"coordinates":[-75.05,3.2],"type":"Point"}
+}

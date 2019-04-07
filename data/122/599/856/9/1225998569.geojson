@@ -1,0 +1,71 @@
+{
+  "id": 1225998569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23364,4.69868,-74.23364,4.69868",
+    "geom:latitude":4.69868,
+    "geom:longitude":-74.23364,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25473.0",
+    "gn:asciiname":"La Holanda",
+    "gn:country_code":"CO",
+    "gn:dem":2540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182150,
+    "gn:latitude":4.69868,
+    "gn:longitude":-74.23364,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Holanda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Holanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421205083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182150
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f4baab189b92f9d43ada58011e9013dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205083,
+            "locality_id":1225998569,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1225998569,
+    "wof:lastmodified":1537618755,
+    "wof:name":"La Holanda",
+    "wof:parent_id":421205083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23364000000002,
+    4.69868,
+    -74.23364000000002,
+    4.69868
+],
+  "geometry": {"coordinates":[-74.23364000000002,4.69868],"type":"Point"}
+}

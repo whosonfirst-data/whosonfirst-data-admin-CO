@@ -1,0 +1,68 @@
+{
+  "id": 1309914217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.11723,7.10895,-75.11723,7.10895",
+    "geom:latitude":7.10895,
+    "geom:longitude":-75.11723,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5040.0",
+    "gn:asciiname":"El Campamento",
+    "gn:country_code":"CO",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779819,
+    "gn:latitude":7.10895,
+    "gn:longitude":-75.11723,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Campamento",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779819
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"266f28070f1e7c9b8f83eb0e17001b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699909,
+            "locality_id":1309914217,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1309914217,
+    "wof:lastmodified":1536775383,
+    "wof:name":"El Campamento",
+    "wof:parent_id":1108699909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.11723,
+    7.10895,
+    -75.11723,
+    7.10895
+],
+  "geometry": {"coordinates":[-75.11723000000001,7.10895],"type":"Point"}
+}

@@ -1,0 +1,156 @@
+{
+  "id": 421176491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45624,5.61161,-75.45624,5.61161",
+    "geom:latitude":5.61161,
+    "geom:longitude":-75.45624,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Aguadas"
+    ],
+    "name:ceb_x_preferred":[
+        "Aguadas"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u74dc\u9054\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Aguadas"
+    ],
+    "name:eng_x_preferred":[
+        "Aguadas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u062f\u0627\u0633\u060c \u06a9\u0627\u0644\u062f\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Aguadas"
+    ],
+    "name:fre_x_preferred":[
+        "Aguadas"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10d2\u10e3\u10d0\u10d3\u10d0\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Aguadas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10e3\u10d0\u10d3\u10d0\u10e1\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Aguadas"
+    ],
+    "name:msa_x_preferred":[
+        "Aguadas"
+    ],
+    "name:nan_x_preferred":[
+        "Aguadas"
+    ],
+    "name:nld_x_preferred":[
+        "Aguadas"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u062f\u0627\u0633\u060c \u06a9\u0627\u0644\u062f\u0627\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Aguadas"
+    ],
+    "name:spa_x_preferred":[
+        "Aguadas"
+    ],
+    "name:swe_x_preferred":[
+        "Aguadas"
+    ],
+    "name:tgl_x_preferred":[
+        "Aguadas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u0648\u0627\u062f\u0627\u0633\u060c \u06a9\u0627\u0644\u062f\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Aguadas"
+    ],
+    "name:war_x_preferred":[
+        "Aguadas"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Aguadas"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u74dc\u9054\u65af"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3690431,
+    "qs:gn_pop":19727,
+    "qs:name":"Aguadas",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Caldas",
+    "qs:photos":236,
+    "qs:photos_1k":48,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":236,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1046440,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368176,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421188637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690431,
+        "gp:id":368176,
+        "qs:id":1046440,
+        "wd:id":"Q1442012",
+        "wk:page":"Aguadas, Caldas"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009110,
+    "wof:geomhash":"bee3880484236f5d53012e962ed9ad27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188637,
+            "locality_id":421176491,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":421176491,
+    "wof:lastmodified":1513941205,
+    "wof:name":"Aguadas",
+    "wof:parent_id":421188637,
+    "wof:placetype":"locality",
+    "wof:population":19727,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45624,
+    5.61161,
+    -75.45624,
+    5.61161
+],
+  "geometry": {"coordinates":[-75.45623999999999,5.61161],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343523005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.3421,9.24741,-75.3421,9.24741",
+    "geom:latitude":9.24741,
+    "geom:longitude":-75.3421,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70001.0",
+    "gn:asciiname":"Chocho",
+    "gn:country_code":"CO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686435,
+    "gn:latitude":9.24741,
+    "gn:longitude":-75.3421,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chocho",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choc\u00f3",
+        "Chocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421170639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686435
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b5b0ba68539ea7d9b5c1a18847f7b87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170639,
+            "locality_id":1343523005,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1343523005,
+    "wof:lastmodified":1537618620,
+    "wof:name":"Chocho",
+    "wof:parent_id":421170639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.3421,
+    9.24741,
+    -75.3421,
+    9.24741
+],
+  "geometry": {"coordinates":[-75.3421,9.24741],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 1126102549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53333,10.38333,-75.53333,10.38333",
+    "geom:latitude":10.38333,
+    "geom:longitude":-75.53333,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":10.38333,
+    "gn:longitude":-75.53333,
+    "iso:country":"CO",
+    "lbl:latitude":10.38333,
+    "lbl:longitude":-75.53333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "El Bosque"
+    ],
+    "name:spa_x_variant":[
+        "El Basque",
+        "Barrio El Bosque"
+    ],
+    "name:unk_x_variant":[
+        "Barrio El Bosque",
+        "El Bosque"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3684850,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Bosque",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Bolivar",
+    "qs_pg:photos":1646,
+    "qs_pg:photos_1k":334,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1646,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":240956,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":353939,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Bolivar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684850,
+        "gp:id":353939,
+        "qs:id":240956,
+        "qs_pg:id":240956
+    },
+    "wof:country":"CO",
+    "wof:created":1497316335,
+    "wof:geomhash":"2bb81af590b2626cc5ab77032925432e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1126102549,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1126102549,
+    "wof:lastmodified":1534379262,
+    "wof:name":"El Bosque",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764611
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53333,
+    10.38333,
+    -75.53333,
+    10.38333
+],
+  "geometry": {"coordinates":[-75.53333000000001,10.38333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310652439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1304,5.74758,-73.1304,5.74758",
+    "geom:latitude":5.74758,
+    "geom:longitude":-73.1304,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15516.0",
+    "gn:asciiname":"Salitre",
+    "gn:country_code":"CO",
+    "gn:dem":2520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670328,
+    "gn:latitude":5.74758,
+    "gn:longitude":-73.1304,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Salitre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421200897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670328
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19cf312bbfaed19ef50f3d05851609a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200897,
+            "locality_id":1310652439,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1310652439,
+    "wof:lastmodified":1536705336,
+    "wof:name":"Salitre",
+    "wof:parent_id":421200897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1304,
+    5.74758,
+    -73.1304,
+    5.74758
+],
+  "geometry": {"coordinates":[-73.13039999999999,5.74758],"type":"Point"}
+}

@@ -1,0 +1,135 @@
+{
+  "id": 421173449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50444,1.51469,-77.50444,1.51469",
+    "geom:latitude":1.51469,
+    "geom:longitude":-77.50444,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sotomayor"
+    ],
+    "name:chi_x_preferred":[
+        "\u6d1b\u65af\u5b89\u7b2c\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Los Andes"
+    ],
+    "name:eng_x_preferred":[
+        "Los Andes"
+    ],
+    "name:fra_x_preferred":[
+        "Los Andes Sotomayor"
+    ],
+    "name:fre_x_preferred":[
+        "Los Andes Sotomayor"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d3\u10d4\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "Los Andes"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d3\u10d4\u10e1\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Los Andes"
+    ],
+    "name:msa_x_preferred":[
+        "Los Andes"
+    ],
+    "name:por_x_preferred":[
+        "Los Andes"
+    ],
+    "name:sco_x_preferred":[
+        "Los Andes"
+    ],
+    "name:spa_x_preferred":[
+        "Los Andes"
+    ],
+    "name:swe_x_preferred":[
+        "Sotomayor"
+    ],
+    "name:tgl_x_preferred":[
+        "Los Andes"
+    ],
+    "name:unk_x_variant":[
+        "Los Andes"
+    ],
+    "name:war_x_preferred":[
+        "Los Andes"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3667791,
+    "qs:gn_pop":4839,
+    "qs:name":"Sotomayor",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Narino",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":288257,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":366977,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667791,
+        "gp:id":366977,
+        "qs:id":288257,
+        "wd:id":"Q1526257",
+        "wk:page":"Los Andes, Nari\u00f1o"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008982,
+    "wof:geomhash":"4f0f920a7e0c737a68936163dc506629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701033,
+            "locality_id":421173449,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":421173449,
+    "wof:lastmodified":1513943710,
+    "wof:name":"Sotomayor",
+    "wof:parent_id":1108701033,
+    "wof:placetype":"locality",
+    "wof:population":4839,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50444,
+    1.51469,
+    -77.50444,
+    1.51469
+],
+  "geometry": {"coordinates":[-77.50444,1.51469],"type":"Point"}
+}

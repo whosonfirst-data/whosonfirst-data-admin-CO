@@ -1,0 +1,122 @@
+{
+  "id": 421172461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2,6.53333,-73.2,6.53333",
+    "geom:latitude":6.53333,
+    "geom:longitude":-73.2,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Socorro"
+    ],
+    "name:deu_x_preferred":[
+        "Socorro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0631\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Socorro"
+    ],
+    "name:gla_x_preferred":[
+        "Socorro"
+    ],
+    "name:ita_x_preferred":[
+        "Socorro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d9\u10dd\u10e0\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Socorro"
+    ],
+    "name:nld_x_preferred":[
+        "Socorro"
+    ],
+    "name:spa_x_preferred":[
+        "El Socorro"
+    ],
+    "name:swe_x_preferred":[
+        "Socorro"
+    ],
+    "name:tgl_x_preferred":[
+        "Socorro"
+    ],
+    "name:war_x_preferred":[
+        "Socorro"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Socorro"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u79d1\u7f85"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3667888,
+    "qs:gn_pop":0,
+    "qs:name":"Socorro",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":349,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1311356,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797483,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":1112,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667888,
+        "gp:id":26797483,
+        "qs:id":1311356,
+        "wd:id":"Q979980",
+        "wk:page":"Socorro, Santander"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008943,
+    "wof:geomhash":"8c7582bc16abddbf263ff8b81831f9c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172461,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421172461,
+    "wof:lastmodified":1527716308,
+    "wof:name":"Socorro",
+    "wof:parent_id":85670141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2,
+    6.53333,
+    -73.2,
+    6.53333
+],
+  "geometry": {"coordinates":[-73.2,6.53333],"type":"Point"}
+}

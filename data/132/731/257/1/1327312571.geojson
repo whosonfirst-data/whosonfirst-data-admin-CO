@@ -1,0 +1,68 @@
+{
+  "id": 1327312571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.26397,10.09481,-73.26397,10.09481",
+    "geom:latitude":10.09481,
+    "geom:longitude":-73.26397,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20621.0",
+    "gn:asciiname":"Hacienda Berlin",
+    "gn:country_code":"CO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560048,
+    "gn:latitude":10.09481,
+    "gn:longitude":-73.26397,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Berl\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560048
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"43462f90349958644a121d9078c4e59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700553,
+            "locality_id":1327312571,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1327312571,
+    "wof:lastmodified":1536852820,
+    "wof:name":"Hacienda Berlin",
+    "wof:parent_id":1108700553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.26397,
+    10.09481,
+    -73.26397,
+    10.09481
+],
+  "geometry": {"coordinates":[-73.26397,10.09481],"type":"Point"}
+}

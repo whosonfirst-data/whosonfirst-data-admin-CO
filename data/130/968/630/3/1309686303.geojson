@@ -1,0 +1,68 @@
+{
+  "id": 1309686303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.59614,1.67882,-78.59614,1.67882",
+    "geom:latitude":1.67882,
+    "geom:longitude":-78.59614,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Gualajo",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681632,
+    "gn:latitude":1.67882,
+    "gn:longitude":-78.59614,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Gualajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681632
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"afeecb29bd5dd01cb7436b20624be9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1309686303,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1309686303,
+    "wof:lastmodified":1536603409,
+    "wof:name":"Gualajo",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.59614,
+    1.67882,
+    -78.59614,
+    1.67882
+],
+  "geometry": {"coordinates":[-78.59614000000001,1.67882],"type":"Point"}
+}

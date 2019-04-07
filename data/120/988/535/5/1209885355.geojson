@@ -1,0 +1,68 @@
+{
+  "id": 1209885355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76802,2.07413,-75.76802,2.07413",
+    "geom:latitude":2.07413,
+    "geom:longitude":-75.76802,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41026.0",
+    "gn:asciiname":"Campero",
+    "gn:country_code":"CO",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792477,
+    "gn:latitude":2.07413,
+    "gn:longitude":-75.76802,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792477
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6b70d6c58cfb14a445a9857fc2ade2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700803,
+            "locality_id":1209885355,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1209885355,
+    "wof:lastmodified":1536393181,
+    "wof:name":"Campero",
+    "wof:parent_id":1108700803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76801999999998,
+    2.07413,
+    -75.76801999999998,
+    2.07413
+],
+  "geometry": {"coordinates":[-75.76801999999998,2.07413],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343238943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6056,9.01284,-75.6056,9.01284",
+    "geom:latitude":9.01284,
+    "geom:longitude":-75.6056,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23189.0",
+    "gn:asciiname":"Puerto de La Cruz",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671485,
+    "gn:latitude":9.01284,
+    "gn:longitude":-75.6056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto de La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Puerto de la Cruz",
+        "Punto de la Cruz",
+        "Puerto de La Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671485
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c8c067ac9ac90cd4664f12e17b8075bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700573,
+            "locality_id":1343238943,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343238943,
+    "wof:lastmodified":1537618422,
+    "wof:name":"Puerto de La Cruz",
+    "wof:parent_id":1108700573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6056,
+    9.01284,
+    -75.6056,
+    9.01284
+],
+  "geometry": {"coordinates":[-75.6056,9.01284],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209476677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45858,1.66183,-77.45858,1.66183",
+    "geom:latitude":1.66183,
+    "geom:longitude":-77.45858,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52540.0",
+    "gn:asciiname":"Castigo",
+    "gn:country_code":"CO",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736038,
+    "gn:latitude":1.66183,
+    "gn:longitude":-77.45858,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Castigo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736038
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c3ff34a00e63afab88bd2ad9aa070460",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209476677
+        }
+    ],
+    "wof:id":1209476677,
+    "wof:lastmodified":1536285914,
+    "wof:name":"Castigo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45858,
+    1.66183,
+    -77.45858,
+    1.66183
+],
+  "geometry": {"coordinates":[-77.45858,1.66183],"type":"Point"}
+}

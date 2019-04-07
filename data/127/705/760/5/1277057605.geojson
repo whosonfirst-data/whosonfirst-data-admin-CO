@@ -1,0 +1,68 @@
+{
+  "id": 1277057605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.90389,2.235,-75.90389,2.235",
+    "geom:latitude":2.235,
+    "geom:longitude":-75.90389,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41548.0",
+    "gn:asciiname":"Villa Mercedes",
+    "gn:country_code":"CO",
+    "gn:dem":2437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793221,
+    "gn:latitude":2.235,
+    "gn:longitude":-75.90389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793221
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d459c77ba56dc408a6247da9af7ca19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700835,
+            "locality_id":1277057605,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1277057605,
+    "wof:lastmodified":1536802739,
+    "wof:name":"Villa Mercedes",
+    "wof:parent_id":1108700835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.90389,
+    2.235,
+    -75.90389,
+    2.235
+],
+  "geometry": {"coordinates":[-75.90389,2.235],"type":"Point"}
+}

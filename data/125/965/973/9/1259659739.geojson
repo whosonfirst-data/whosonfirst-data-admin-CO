@@ -1,0 +1,68 @@
+{
+  "id": 1259659739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.76778,11.62722,-72.76778,11.62722",
+    "geom:latitude":11.62722,
+    "geom:longitude":-72.76778,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Juskare",
+    "gn:country_code":"CO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680073,
+    "gn:latitude":11.62722,
+    "gn:longitude":-72.76778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Juskare",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680073
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9aeda6979353cf709f1a9fd60740799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1259659739,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1259659739,
+    "wof:lastmodified":1536601695,
+    "wof:name":"Juskare",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.76778,
+    11.62722,
+    -72.76778,
+    11.62722
+],
+  "geometry": {"coordinates":[-72.76778,11.62722],"type":"Point"}
+}

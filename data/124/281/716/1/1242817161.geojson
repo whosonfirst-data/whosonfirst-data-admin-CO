@@ -1,0 +1,72 @@
+{
+  "id": 1242817161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13666,9.48743,-74.13666,9.48743",
+    "geom:latitude":9.48743,
+    "geom:longitude":-74.13666,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47692.0",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"CO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677326,
+    "gn:latitude":9.48743,
+    "gn:longitude":-74.13666,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Las Mercedes",
+        "Las Mercedes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677326
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7eb7c9d4a2fe97eae043ace280dcc349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":1242817161,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1242817161,
+    "wof:lastmodified":1537618494,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13665999999998,
+    9.48743,
+    -74.13665999999998,
+    9.48743
+],
+  "geometry": {"coordinates":[-74.13665999999998,9.48743],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242639057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.7985,0.93164,-77.7985,0.93164",
+    "geom:latitude":0.93164,
+    "geom:longitude":-77.7985,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52227.0",
+    "gn:asciiname":"Puenquelan",
+    "gn:country_code":"CO",
+    "gn:dem":3239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828597,
+    "gn:latitude":0.93164,
+    "gn:longitude":-77.7985,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puenquel\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421180457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828597
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd1d9e804fd0b77d5c36e12fde615609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421180457,
+            "locality_id":1242639057,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1242639057,
+    "wof:lastmodified":1536974944,
+    "wof:name":"Puenquelan",
+    "wof:parent_id":421180457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.7985,
+    0.93164,
+    -77.7985,
+    0.93164
+],
+  "geometry": {"coordinates":[-77.7985,0.93164],"type":"Point"}
+}

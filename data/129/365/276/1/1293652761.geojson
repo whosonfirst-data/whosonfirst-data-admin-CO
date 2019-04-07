@@ -1,0 +1,68 @@
+{
+  "id": 1293652761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.60495,12.37942,-71.60495,12.37942",
+    "geom:latitude":12.37942,
+    "geom:longitude":-71.60495,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Ishoshpana",
+    "gn:country_code":"CO",
+    "gn:dem":-37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680477,
+    "gn:latitude":12.37942,
+    "gn:longitude":-71.60495,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ishoshpana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680477
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"254d517b8aa3754c72c04f5c65c072c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1293652761,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293652761,
+    "wof:lastmodified":1537044301,
+    "wof:name":"Ishoshpana",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.60495,
+    12.37942,
+    -71.60495,
+    12.37942
+],
+  "geometry": {"coordinates":[-71.60495,12.37942],"type":"Point"}
+}

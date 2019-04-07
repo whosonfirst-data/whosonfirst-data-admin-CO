@@ -1,0 +1,68 @@
+{
+  "id": 1193069401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.02291,4.82042,-73.02291,4.82042",
+    "geom:latitude":4.82042,
+    "geom:longitude":-73.02291,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85300.0",
+    "gn:asciiname":"San Joaquin",
+    "gn:country_code":"CO",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669700,
+    "gn:latitude":4.82042,
+    "gn:longitude":-73.02291,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Joaqu\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669700
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fcd846fa899f362603f0b9fb27594c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701543,
+            "locality_id":1193069401,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1193069401,
+    "wof:lastmodified":1536369325,
+    "wof:name":"San Joaquin",
+    "wof:parent_id":1108701543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.02291,
+    4.82042,
+    -73.02291,
+    4.82042
+],
+  "geometry": {"coordinates":[-73.02291,4.82042],"type":"Point"}
+}

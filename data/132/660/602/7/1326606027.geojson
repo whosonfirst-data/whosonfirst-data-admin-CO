@@ -1,0 +1,68 @@
+{
+  "id": 1326606027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95853,10.62068,-72.95853,10.62068",
+    "geom:latitude":10.62068,
+    "geom:longitude":-72.95853,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44874.0",
+    "gn:asciiname":"La Tranca",
+    "gn:country_code":"CO",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757942,
+    "gn:latitude":10.62068,
+    "gn:longitude":-72.95853,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Tranca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757942
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d8096fab42e26ff47a5a3606de5cccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700869,
+            "locality_id":1326606027,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1326606027,
+    "wof:lastmodified":1536876872,
+    "wof:name":"La Tranca",
+    "wof:parent_id":1108700869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95853000000002,
+    10.62068,
+    -72.95853000000002,
+    10.62068
+],
+  "geometry": {"coordinates":[-72.95853000000002,10.62068],"type":"Point"}
+}

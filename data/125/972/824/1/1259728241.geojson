@@ -1,0 +1,73 @@
+{
+  "id": 1259728241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45786,9.09646,-74.45786,9.09646",
+    "geom:latitude":9.09646,
+    "geom:longitude":-74.45786,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13468.0",
+    "gn:asciiname":"Los Pinones",
+    "gn:country_code":"CO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675951,
+    "gn:latitude":9.09646,
+    "gn:longitude":-74.45786,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Pi\u00f1ones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Los Pi\u00f1ones",
+        "Pi\u00f1ones",
+        "Los Pi\u00f1ones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421166849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675951
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"55a2d7accb0d2410a76139f716fa8ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421166849,
+            "locality_id":1259728241,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1259728241,
+    "wof:lastmodified":1537618471,
+    "wof:name":"Los Pinones",
+    "wof:parent_id":421166849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45786,
+    9.09646,
+    -74.45786,
+    9.09646
+],
+  "geometry": {"coordinates":[-74.45786,9.09646],"type":"Point"}
+}

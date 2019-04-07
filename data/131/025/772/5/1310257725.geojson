@@ -1,0 +1,68 @@
+{
+  "id": 1310257725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46623,10.12654,-75.46623,10.12654",
+    "geom:latitude":10.12654,
+    "geom:longitude":-75.46623,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"La Rosa",
+    "gn:country_code":"CO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830771,
+    "gn:latitude":10.12654,
+    "gn:longitude":-75.46623,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830771
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b92f9db158b1ffdf19c7825848499028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184103,
+            "locality_id":1310257725,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1310257725,
+    "wof:lastmodified":1536777503,
+    "wof:name":"La Rosa",
+    "wof:parent_id":421184103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46623000000002,
+    10.12654,
+    -75.46623000000002,
+    10.12654
+],
+  "geometry": {"coordinates":[-75.46623000000002,10.12654],"type":"Point"}
+}

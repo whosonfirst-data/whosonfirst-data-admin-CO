@@ -1,0 +1,62 @@
+{
+  "id": 1209527403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10968,7.09119,-74.10968,7.09119",
+    "geom:latitude":7.09119,
+    "geom:longitude":-74.10968,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5893.0",
+    "gn:asciiname":"Maquencal",
+    "gn:country_code":"CO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675360,
+    "gn:latitude":7.09119,
+    "gn:longitude":-74.10968,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Maquencal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675360
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9bdd60715683af83c129a4f01577161b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209527403
+        }
+    ],
+    "wof:id":1209527403,
+    "wof:lastmodified":1536284391,
+    "wof:name":"Maquencal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10968000000003,
+    7.091189999999999,
+    -74.10968000000003,
+    7.091189999999999
+],
+  "geometry": {"coordinates":[-74.10968000000003,7.09119],"type":"Point"}
+}

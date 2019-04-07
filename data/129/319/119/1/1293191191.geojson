@@ -1,0 +1,71 @@
+{
+  "id": 1293191191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80745,1.28422,-75.80745,1.28422",
+    "geom:latitude":1.28422,
+    "geom:longitude":-75.80745,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18094.0",
+    "gn:asciiname":"San Esteban",
+    "gn:country_code":"CO",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539808,
+    "gn:latitude":1.28422,
+    "gn:longitude":-75.80745,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Esteban",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Esteban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539808
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8160e1c0ec551103950f6a2387cf2fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700405,
+            "locality_id":1293191191,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1293191191,
+    "wof:lastmodified":1537618733,
+    "wof:name":"San Esteban",
+    "wof:parent_id":1108700405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80745,
+    1.28422,
+    -75.80745,
+    1.28422
+],
+  "geometry": {"coordinates":[-75.80745,1.28422],"type":"Point"}
+}

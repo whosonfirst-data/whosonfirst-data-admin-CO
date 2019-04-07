@@ -1,0 +1,68 @@
+{
+  "id": 1276570205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12474,1.68451,-75.12474,1.68451",
+    "geom:latitude":1.68451,
+    "geom:longitude":-75.12474,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18247.0",
+    "gn:asciiname":"Puerto Belgica",
+    "gn:country_code":"CO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979212,
+    "gn:latitude":1.68451,
+    "gn:longitude":-75.12474,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto B\u00e9lgica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979212
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"29a9710e2a1e73e13b99022178987189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700409,
+            "locality_id":1276570205,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1276570205,
+    "wof:lastmodified":1536958812,
+    "wof:name":"Puerto Belgica",
+    "wof:parent_id":1108700409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12474,
+    1.68451,
+    -75.12474,
+    1.68451
+],
+  "geometry": {"coordinates":[-75.12474,1.68451],"type":"Point"}
+}

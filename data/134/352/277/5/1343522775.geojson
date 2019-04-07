@@ -1,0 +1,72 @@
+{
+  "id": 1343522775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.90556,4.96637,-74.90556,4.96637",
+    "geom:latitude":4.96637,
+    "geom:longitude":-74.90556,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73055.0",
+    "gn:asciiname":"Armero Ruins",
+    "gn:country_code":"CO",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":9179916,
+    "gn:latitude":4.96637,
+    "gn:longitude":-74.90556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Armero Ruins",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:por_x_preferred":[
+        "Armero Runias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179916,
+        "wk:page":"Armero_tragedy"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"420f0a12eaaaa09f5204a712cf7779f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701427,
+            "locality_id":1343522775,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1343522775,
+    "wof:lastmodified":1537618813,
+    "wof:name":"Armero Ruins",
+    "wof:parent_id":1108701427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.90556,
+    4.96637,
+    -74.90556,
+    4.96637
+],
+  "geometry": {"coordinates":[-74.90555999999999,4.96637],"type":"Point"}
+}

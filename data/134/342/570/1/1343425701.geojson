@@ -1,0 +1,68 @@
+{
+  "id": 1343425701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.59133,0.79144,-77.59133,0.79144",
+    "geom:latitude":0.79144,
+    "geom:longitude":-77.59133,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52560.0",
+    "gn:asciiname":"Caserio Cuatro Esquinas",
+    "gn:country_code":"CO",
+    "gn:dem":2877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828736,
+    "gn:latitude":0.79144,
+    "gn:longitude":-77.59133,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Cuatro Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421203449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828736
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"34abc74872af1e296c1f09863692dabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203449,
+            "locality_id":1343425701,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343425701,
+    "wof:lastmodified":1536796749,
+    "wof:name":"Caserio Cuatro Esquinas",
+    "wof:parent_id":421203449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.59133,
+    0.79144,
+    -77.59133,
+    0.79144
+],
+  "geometry": {"coordinates":[-77.59133,0.79144],"type":"Point"}
+}

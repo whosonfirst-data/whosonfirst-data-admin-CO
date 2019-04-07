@@ -1,0 +1,71 @@
+{
+  "id": 1344131453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4227,3.59816,-73.4227,3.59816",
+    "geom:latitude":3.59816,
+    "geom:longitude":-73.4227,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Tres Rios",
+    "gn:country_code":"CO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8596945,
+    "gn:latitude":3.59816,
+    "gn:longitude":-73.4227,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tres R\u00edos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tres R\u00edos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596945
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4df9251b0811673303e1534d915d24e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1344131453,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1344131453,
+    "wof:lastmodified":1537618795,
+    "wof:name":"Tres Rios",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4227,
+    3.59816,
+    -73.4227,
+    3.59816
+],
+  "geometry": {"coordinates":[-73.42270000000001,3.59816],"type":"Point"}
+}

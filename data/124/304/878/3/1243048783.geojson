@@ -1,0 +1,61 @@
+{
+  "id": 1243048783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.38333,6.3,-77.38333,6.3",
+    "geom:latitude":6.3,
+    "geom:longitude":-77.38333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mecana",
+    "gn:country_code":"CO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674974,
+    "gn:latitude":6.3,
+    "gn:longitude":-77.38333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Mecana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674974
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d000d3439bb30ff3cc04fd4b8f06572f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243048783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243048783,
+    "wof:lastmodified":1536881124,
+    "wof:name":"Mecana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.38333,
+    6.3,
+    -77.38333,
+    6.3
+],
+  "geometry": {"coordinates":[-77.38333,6.3],"type":"Point"}
+}

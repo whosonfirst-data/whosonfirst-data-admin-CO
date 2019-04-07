@@ -1,0 +1,62 @@
+{
+  "id": 1209518099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.47249,7.03432,-75.47249,7.03432",
+    "geom:latitude":7.03432,
+    "geom:longitude":-75.47249,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5887.0",
+    "gn:asciiname":"Los Martires",
+    "gn:country_code":"CO",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780052,
+    "gn:latitude":7.03432,
+    "gn:longitude":-75.47249,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Martires",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780052
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1bfc1c2bc61116ad439ae8383ae5436f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209518099
+        }
+    ],
+    "wof:id":1209518099,
+    "wof:lastmodified":1536284667,
+    "wof:name":"Los Martires",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.47249000000002,
+    7.03432,
+    -75.47249000000002,
+    7.03432
+],
+  "geometry": {"coordinates":[-75.47249000000002,7.03432],"type":"Point"}
+}

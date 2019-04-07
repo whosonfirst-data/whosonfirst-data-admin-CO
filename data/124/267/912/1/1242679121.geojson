@@ -1,0 +1,68 @@
+{
+  "id": 1242679121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.8564,7.04764,-70.8564,7.04764",
+    "geom:latitude":7.04764,
+    "geom:longitude":-70.8564,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"La Payara",
+    "gn:country_code":"CO",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756837,
+    "gn:latitude":7.04764,
+    "gn:longitude":-70.8564,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Payara",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756837
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1258202e292fa99df7847a11a2f2347a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1242679121,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1242679121,
+    "wof:lastmodified":1536918121,
+    "wof:name":"La Payara",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.8564,
+    7.04764,
+    -70.8564,
+    7.04764
+],
+  "geometry": {"coordinates":[-70.85639999999999,7.04764],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1243036997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.60022,8.36642,-72.60022,8.36642",
+    "geom:latitude":8.36642,
+    "geom:longitude":-72.60022,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54810.0",
+    "gn:asciiname":"La Llana",
+    "gn:country_code":"CO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738418,
+    "gn:latitude":8.36642,
+    "gn:longitude":-72.60022,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Llana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738418
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e26869082ab0dbd572a5dbe11fa1147c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701155,
+            "locality_id":1243036997,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1243036997,
+    "wof:lastmodified":1536898858,
+    "wof:name":"La Llana",
+    "wof:parent_id":1108701155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.60022,
+    8.36642,
+    -72.60022,
+    8.36642
+],
+  "geometry": {"coordinates":[-72.60021999999999,8.36642],"type":"Point"}
+}

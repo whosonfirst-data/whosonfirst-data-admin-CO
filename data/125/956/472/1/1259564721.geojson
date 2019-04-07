@@ -1,0 +1,71 @@
+{
+  "id": 1259564721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03971,3.42543,-75.03971,3.42543",
+    "geom:latitude":3.42543,
+    "geom:longitude":-75.03971,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41872.0",
+    "gn:asciiname":"Patio Barrido",
+    "gn:country_code":"CO",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10319212,
+    "gn:latitude":3.42543,
+    "gn:longitude":-75.03971,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Patio Barrido",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Patio Barrido"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421182355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10319212
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f26b156e80bc2dfb66f2636d5808765e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182355,
+            "locality_id":1259564721,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1259564721,
+    "wof:lastmodified":1537618821,
+    "wof:name":"Patio Barrido",
+    "wof:parent_id":421182355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03971,
+    3.42543,
+    -75.03971,
+    3.42543
+],
+  "geometry": {"coordinates":[-75.03971,3.42543],"type":"Point"}
+}

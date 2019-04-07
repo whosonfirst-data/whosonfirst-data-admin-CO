@@ -1,0 +1,71 @@
+{
+  "id": 1344164109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.68952,6.53622,-70.68952,6.53622",
+    "geom:latitude":6.53622,
+    "geom:longitude":-70.68952,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"El Paeno",
+    "gn:country_code":"CO",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683668,
+    "gn:latitude":6.53622,
+    "gn:longitude":-70.68952,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"El Pae\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Pae\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683668
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2b8104f433c29e4b6af7546d4bd7ce5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1344164109,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1344164109,
+    "wof:lastmodified":1537618580,
+    "wof:name":"El Paeno",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.68952,
+    6.53622,
+    -70.68952,
+    6.53622
+],
+  "geometry": {"coordinates":[-70.68952,6.53622],"type":"Point"}
+}

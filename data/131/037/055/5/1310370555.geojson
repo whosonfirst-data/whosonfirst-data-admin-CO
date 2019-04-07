@@ -1,0 +1,71 @@
+{
+  "id": 1310370555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6838,3.83935,-73.6838,3.83935",
+    "geom:latitude":3.83935,
+    "geom:longitude":-73.6838,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50150",
+    "gn:asciiname":"La Cecilia",
+    "gn:country_code":"CO",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332841,
+    "gn:latitude":3.83935,
+    "gn:longitude":-73.6838,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cecilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421184135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332841
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e47aa57bb23faf294ffc4469f2d09446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184135,
+            "locality_id":1310370555,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1310370555,
+    "wof:lastmodified":1537618835,
+    "wof:name":"La Cecilia",
+    "wof:parent_id":421184135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6838,
+    3.83935,
+    -73.6838,
+    3.83935
+],
+  "geometry": {"coordinates":[-73.68380000000001,3.83935],"type":"Point"}
+}

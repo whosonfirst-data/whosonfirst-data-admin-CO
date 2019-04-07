@@ -1,0 +1,65 @@
+{
+  "id": 1209094979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60668,8.27796,-73.60668,8.27796",
+    "geom:latitude":8.27796,
+    "geom:longitude":-73.60668,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20011.0",
+    "gn:asciiname":"Buturama",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016175,
+    "gn:latitude":8.27796,
+    "gn:longitude":-73.60668,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Buturama",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Buturama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016175
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e690c8ce19d0a9711b1948a2e490e786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209094979
+        }
+    ],
+    "wof:id":1209094979,
+    "wof:lastmodified":1537618749,
+    "wof:name":"Buturama",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60668000000003,
+    8.27796,
+    -73.60668000000003,
+    8.27796
+],
+  "geometry": {"coordinates":[-73.60668000000003,8.27796],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293650759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36019,9.65028,-75.36019,9.65028",
+    "geom:latitude":9.65028,
+    "geom:longitude":-75.36019,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Berruguita",
+    "gn:country_code":"CO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688873,
+    "gn:latitude":9.65028,
+    "gn:longitude":-75.36019,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Berruguita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1o Verruguita",
+        "Berruguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688873
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"47a8f2fd305eca1edf8e0b82d1b2c067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700117,
+            "locality_id":1293650759,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293650759,
+    "wof:lastmodified":1537618647,
+    "wof:name":"Berruguita",
+    "wof:parent_id":1108700117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36019,
+    9.65028,
+    -75.36019,
+    9.65028
+],
+  "geometry": {"coordinates":[-75.36019,9.65028],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209393591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55,10.41667,-73.55,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-73.55,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20570.0",
+    "gn:asciiname":"La Esperanza",
+    "gn:country_code":"CO",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679105,
+    "gn:latitude":10.41667,
+    "gn:longitude":-73.55,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda La Esperanza",
+        "La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679105
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0d1d3968e35b1d70e51c5ecebd54d599",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209393591
+        }
+    ],
+    "wof:id":1209393591,
+    "wof:lastmodified":1537618524,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55,
+    10.41667,
+    -73.55,
+    10.41667
+],
+  "geometry": {"coordinates":[-73.55,10.41667],"type":"Point"}
+}

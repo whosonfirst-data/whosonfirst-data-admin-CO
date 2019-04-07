@@ -1,0 +1,68 @@
+{
+  "id": 1327185275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58389,4.16222,-75.58389,4.16222",
+    "geom:latitude":4.16222,
+    "geom:longitude":-75.58389,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73622.0",
+    "gn:asciiname":"Ceilan",
+    "gn:country_code":"CO",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769469,
+    "gn:latitude":4.16222,
+    "gn:longitude":-75.58389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ceil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769469
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fcc7a9f8ee1e772974885c9ad83f0258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701461,
+            "locality_id":1327185275,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1327185275,
+    "wof:lastmodified":1537036201,
+    "wof:name":"Ceilan",
+    "wof:parent_id":1108701461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58389,
+    4.16222,
+    -75.58389,
+    4.16222
+],
+  "geometry": {"coordinates":[-75.58389,4.16222],"type":"Point"}
+}

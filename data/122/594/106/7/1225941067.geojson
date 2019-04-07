@@ -1,0 +1,71 @@
+{
+  "id": 1225941067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89217,1.21541,-75.89217,1.21541",
+    "geom:latitude":1.21541,
+    "geom:longitude":-75.89217,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18029.0",
+    "gn:asciiname":"La Suiza",
+    "gn:country_code":"CO",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539862,
+    "gn:latitude":1.21541,
+    "gn:longitude":-75.89217,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Suiza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Suiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539862
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2e98c527a1b6d8382c5b5a50dfb1dd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700403,
+            "locality_id":1225941067,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1225941067,
+    "wof:lastmodified":1537618734,
+    "wof:name":"La Suiza",
+    "wof:parent_id":1108700403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89217,
+    1.21541,
+    -75.89217,
+    1.21541
+],
+  "geometry": {"coordinates":[-75.89216999999999,1.21541],"type":"Point"}
+}

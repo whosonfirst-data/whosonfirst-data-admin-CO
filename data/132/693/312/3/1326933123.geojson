@@ -1,0 +1,68 @@
+{
+  "id": 1326933123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.30694,6.66722,-76.30694,6.66722",
+    "geom:latitude":6.66722,
+    "geom:longitude":-76.30694,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5284.0",
+    "gn:asciiname":"Carauta",
+    "gn:country_code":"CO",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687405,
+    "gn:latitude":6.66722,
+    "gn:longitude":-76.30694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carauta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687405
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"597c9cea20496e8e8197c75ad0d311a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699961,
+            "locality_id":1326933123,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1326933123,
+    "wof:lastmodified":1536903613,
+    "wof:name":"Carauta",
+    "wof:parent_id":1108699961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.30694,
+    6.66722,
+    -76.30694,
+    6.66722
+],
+  "geometry": {"coordinates":[-76.30694,6.66722],"type":"Point"}
+}

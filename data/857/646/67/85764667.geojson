@@ -1,0 +1,168 @@
+{
+  "id": 85764667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10322561.338072,
+    "geom:bbox":"-76.51464,3.465998,-76.51464,3.465998",
+    "geom:latitude":3.465998,
+    "geom:longitude":-76.51464,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":3.46687,
+    "gn:longitude":-76.51611,
+    "iso:country":"CO",
+    "lbl:latitude":3.465998,
+    "lbl:longitude":-76.51464,
+    "mps:latitude":3.486245,
+    "mps:longitude":-76.516824,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03c1\u03c7\u03b5 \u0399\u03c3\u03b1\u03ac\u03ba\u03c2"
+    ],
+    "name:epo_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:fra_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:gla_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:kor_x_preferred":[
+        "\ud638\ub974\ud5e4 \uc774\uc0ad\uc2a4"
+    ],
+    "name:lad_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:por_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:que_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:ron_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0441\u0430\u0430\u043a\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Jorge Isaacs"
+    ],
+    "name:unk_x_variant":[
+        "Jorge Isaacs"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687925,
+    "qs:gn_nam_loc":"Cali",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"Jorge Isaacs",
+    "qs:local_max":2212,
+    "qs:local_sum":6849,
+    "qs:localhoods":8,
+    "qs:name":"Jorge Isaacs",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:name_adm2":"Cali",
+    "qs:name_local":"Cali",
+    "qs:photo_max":644,
+    "qs:photo_sum":1023,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":26,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345074,
+    "qs:woe_adm2":26797564,
+    "qs:woe_lau":0,
+    "qs:woe_local":368149,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3680226,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Jorge Isaacs",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Valle del Cauca",
+    "qs_pg:photos":385,
+    "qs_pg:photos_1k":78,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":385,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082707,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":357689,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1108,
+    "wof:belongsto":[
+        85670203,
+        102191577,
+        85632519,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680226,
+        "gp:id":357689,
+        "qs:id":1082707,
+        "qs_pg:id":1082707,
+        "wd:id":"Q1703852"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36b480116cf1a3e1d71e94801524858c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":-1,
+            "neighbourhood_id":85764667,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":85764667,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379260,
+    "wof:name":"Jorge Isaacs",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126090471
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.51464,
+    3.465998,
+    -76.51464,
+    3.465998
+],
+  "geometry": {"coordinates":[-76.51464,3.465998],"type":"Point"}
+}

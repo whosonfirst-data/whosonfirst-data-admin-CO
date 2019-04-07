@@ -1,0 +1,68 @@
+{
+  "id": 1310167211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.72915,0.92495,-77.72915,0.92495",
+    "geom:latitude":0.92495,
+    "geom:longitude":-77.72915,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52317.0",
+    "gn:asciiname":"El Partidero",
+    "gn:country_code":"CO",
+    "gn:dem":3244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828608,
+    "gn:latitude":0.92495,
+    "gn:longitude":-77.72915,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Partidero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828608
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"16463f03966b2bc1c8b499fd4502c7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701007,
+            "locality_id":1310167211,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1310167211,
+    "wof:lastmodified":1536907967,
+    "wof:name":"El Partidero",
+    "wof:parent_id":1108701007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.72915,
+    0.92495,
+    -77.72915,
+    0.92495
+],
+  "geometry": {"coordinates":[-77.72915,0.92495],"type":"Point"}
+}

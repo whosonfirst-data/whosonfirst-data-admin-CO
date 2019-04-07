@@ -1,0 +1,68 @@
+{
+  "id": 1343788315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.63306,2.85083,-70.63306,2.85083",
+    "geom:latitude":2.85083,
+    "geom:longitude":-70.63306,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Siare Guajibos",
+    "gn:country_code":"CO",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828529,
+    "gn:latitude":2.85083,
+    "gn:longitude":-70.63306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Siare Guajibos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828529
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4e0aabe8512277d1f16613a5f6d85794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1343788315,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1343788315,
+    "wof:lastmodified":1536771451,
+    "wof:name":"Siare Guajibos",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.63306,
+    2.85083,
+    -70.63306,
+    2.85083
+],
+  "geometry": {"coordinates":[-70.63306,2.85083],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327195651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.58333,1.55,-78.58333,1.55",
+    "geom:latitude":1.55,
+    "geom:longitude":-78.58333,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"El Consuelo",
+    "gn:country_code":"CO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684478,
+    "gn:latitude":1.55,
+    "gn:longitude":-78.58333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Consuelo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684478
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9d3935b4266b471142d4ba3b052c7a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1327195651,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327195651,
+    "wof:lastmodified":1537021823,
+    "wof:name":"El Consuelo",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.58333,
+    1.55,
+    -78.58333,
+    1.55
+],
+  "geometry": {"coordinates":[-78.58333,1.55],"type":"Point"}
+}

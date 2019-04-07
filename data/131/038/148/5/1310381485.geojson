@@ -1,0 +1,68 @@
+{
+  "id": 1310381485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25351,11.24592,-72.25351,11.24592",
+    "geom:latitude":11.24592,
+    "geom:longitude":-72.25351,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Anuariachom",
+    "gn:country_code":"CO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689808,
+    "gn:latitude":11.24592,
+    "gn:longitude":-72.25351,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Anuariach\u00f3m",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689808
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5250de604a4a4fc405e4e62bb186a4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1310381485,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1310381485,
+    "wof:lastmodified":1537092671,
+    "wof:name":"Anuariachom",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25350999999998,
+    11.24592,
+    -72.25350999999998,
+    11.24592
+],
+  "geometry": {"coordinates":[-72.25350999999998,11.24592],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327114353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.77041,8.95499,-75.77041,8.95499",
+    "geom:latitude":8.95499,
+    "geom:longitude":-75.77041,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23686.0",
+    "gn:asciiname":"El Tapon",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783592,
+    "gn:latitude":8.95499,
+    "gn:longitude":-75.77041,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Tap\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783592
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ac05cb2e73740dbc69b7a7b0330ac765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700607,
+            "locality_id":1327114353,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1327114353,
+    "wof:lastmodified":1536641387,
+    "wof:name":"El Tapon",
+    "wof:parent_id":1108700607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.77041,
+    8.95499,
+    -75.77041,
+    8.95499
+],
+  "geometry": {"coordinates":[-75.77041,8.95499],"type":"Point"}
+}

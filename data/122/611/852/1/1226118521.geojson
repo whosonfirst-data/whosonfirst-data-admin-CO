@@ -1,0 +1,68 @@
+{
+  "id": 1226118521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36659,11.20281,-72.36659,11.20281",
+    "geom:latitude":11.20281,
+    "geom:longitude":-72.36659,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Los Paraujanos",
+    "gn:country_code":"CO",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675977,
+    "gn:latitude":11.20281,
+    "gn:longitude":-72.36659,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Paraujanos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675977
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dfeaff520e70f6accd726896fa869e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1226118521,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226118521,
+    "wof:lastmodified":1536617949,
+    "wof:name":"Los Paraujanos",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36659,
+    11.20281,
+    -72.36659,
+    11.20281
+],
+  "geometry": {"coordinates":[-72.36659,11.20281],"type":"Point"}
+}

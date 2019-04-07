@@ -1,0 +1,73 @@
+{
+  "id": 1226503747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.86844,4.02649,-74.86844,4.02649",
+    "geom:latitude":4.02649,
+    "geom:longitude":-74.86844,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73319.0",
+    "gn:asciiname":"La Chamba",
+    "gn:country_code":"CO",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679536,
+    "gn:latitude":4.02649,
+    "gn:longitude":-74.86844,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Chamba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chamba",
+        "Puerto de Chamba",
+        "La Chamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421177063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679536
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"012355a9d691c9881012237bec84eff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177063,
+            "locality_id":1226503747,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1226503747,
+    "wof:lastmodified":1537618531,
+    "wof:name":"La Chamba",
+    "wof:parent_id":421177063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.86844,
+    4.02649,
+    -74.86844,
+    4.02649
+],
+  "geometry": {"coordinates":[-74.86844000000001,4.02649],"type":"Point"}
+}

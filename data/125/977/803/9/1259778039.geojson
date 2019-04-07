@@ -1,0 +1,71 @@
+{
+  "id": 1259778039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88974,1.09284,-75.88974,1.09284",
+    "geom:latitude":1.09284,
+    "geom:longitude":-75.88974,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"18205.0",
+    "gn:asciiname":"Santa Marta",
+    "gn:country_code":"CO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733882,
+    "gn:latitude":1.09284,
+    "gn:longitude":-75.88974,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Marta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Marta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733882
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dede7279567f44dd0fea0ec40e396b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700407,
+            "locality_id":1259778039,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1259778039,
+    "wof:lastmodified":1537618671,
+    "wof:name":"Santa Marta",
+    "wof:parent_id":1108700407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88974,
+    1.09284,
+    -75.88974,
+    1.09284
+],
+  "geometry": {"coordinates":[-75.88974,1.09284],"type":"Point"}
+}

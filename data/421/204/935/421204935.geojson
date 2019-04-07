@@ -1,0 +1,122 @@
+{
+  "id": 421204935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71147,4.35342,-73.71147,4.35342",
+    "geom:latitude":4.35342,
+    "geom:longitude":-73.71147,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5361\u723e\u74e6\u91cc\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "El Calvario"
+    ],
+    "name:eng_x_preferred":[
+        "El Calvario"
+    ],
+    "name:fre_x_preferred":[
+        "El Calvario"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10d0\u10da\u10d5\u10d0\u10e0\u10d8\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Calvario"
+    ],
+    "name:may_x_preferred":[
+        "El Calvario"
+    ],
+    "name:nan_x_preferred":[
+        "El Calvario"
+    ],
+    "name:por_x_preferred":[
+        "El Calvario"
+    ],
+    "name:spa_x_preferred":[
+        "El Calvario"
+    ],
+    "name:swe_x_preferred":[
+        "El Calvario"
+    ],
+    "name:tgl_x_preferred":[
+        "El Calvario"
+    ],
+    "name:vie_x_preferred":[
+        "El Calvario"
+    ],
+    "name:war_x_preferred":[
+        "El Calvario"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3684770,
+    "qs:gn_pop":557,
+    "qs:name":"El Calvario",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251684,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":354034,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421177933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684770,
+        "gp:id":354034,
+        "qs:id":251684,
+        "wd:id":"Q1655089"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010204,
+    "wof:geomhash":"47e8c0d5df40f71007dfe07ffd7643f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177933,
+            "locality_id":421204935,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421204935,
+    "wof:lastmodified":1513942058,
+    "wof:name":"El Calvario",
+    "wof:parent_id":421177933,
+    "wof:placetype":"locality",
+    "wof:population":557,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71147,
+    4.35342,
+    -73.71147,
+    4.35342
+],
+  "geometry": {"coordinates":[-73.71147000000001,4.35342],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209049373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25815,9.64802,-74.25815,9.64802",
+    "geom:latitude":9.64802,
+    "geom:longitude":-74.25815,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47460.0",
+    "gn:asciiname":"La Sonora",
+    "gn:country_code":"CO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677241,
+    "gn:latitude":9.64802,
+    "gn:longitude":-74.25815,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Sonora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677241
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"77cbf0165ab555e42ca50179c74556bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209049373
+        }
+    ],
+    "wof:id":1209049373,
+    "wof:lastmodified":1536299300,
+    "wof:name":"La Sonora",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25815,
+    9.64802,
+    -74.25815,
+    9.64802
+],
+  "geometry": {"coordinates":[-74.25815,9.64802],"type":"Point"}
+}

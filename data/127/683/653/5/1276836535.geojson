@@ -1,0 +1,68 @@
+{
+  "id": 1276836535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90141,6.77173,-73.90141,6.77173",
+    "geom:latitude":6.77173,
+    "geom:longitude":-73.90141,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68745.0",
+    "gn:asciiname":"La Ilusion",
+    "gn:country_code":"CO",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3829857,
+    "gn:latitude":6.77173,
+    "gn:longitude":-73.90141,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ilusi\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829857
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"038369dbb5350c1195332589ec097124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701353,
+            "locality_id":1276836535,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1276836535,
+    "wof:lastmodified":1537095957,
+    "wof:name":"La Ilusion",
+    "wof:parent_id":1108701353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90141,
+    6.77173,
+    -73.90141,
+    6.77173
+],
+  "geometry": {"coordinates":[-73.90141,6.77173],"type":"Point"}
+}

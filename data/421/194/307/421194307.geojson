@@ -1,0 +1,148 @@
+{
+  "id": 421194307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88944,3.34639,-73.88944,3.34639",
+    "geom:latitude":3.34639,
+    "geom:longitude":-73.88944,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u963f\u62c9\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d3\u10d4-\u10d0\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d3\u10d4-\u10d0\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:msa_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:nan_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:por_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:tgl_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:unk_x_variant":[
+        "Municipio Juan de Arama"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:war_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Juan de Arama"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u963f\u62c9\u99ac"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669482,
+    "qs:gn_pop":2636,
+    "qs:name":"San Juan de Arama",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1046198,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369399,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669482,
+        "gp:id":369399,
+        "qs:id":1046198,
+        "wd:id":"Q1575316",
+        "wk:page":"San Juan de Arama"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009801,
+    "wof:geomhash":"c735730fb0e68e1cbf852ce166313658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700959,
+            "locality_id":421194307,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421194307,
+    "wof:lastmodified":1527716126,
+    "wof:name":"San Juan de Arama",
+    "wof:parent_id":1108700959,
+    "wof:placetype":"locality",
+    "wof:population":2636,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88944,
+    3.34639,
+    -73.88944,
+    3.34639
+],
+  "geometry": {"coordinates":[-73.88943999999999,3.34639],"type":"Point"}
+}

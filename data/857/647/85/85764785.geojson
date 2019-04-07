@@ -1,0 +1,116 @@
+{
+  "id": 85764785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":2296022.087831,
+    "geom:bbox":"-76.526018,3.443773,-76.526018,3.443773",
+    "geom:latitude":3.443773,
+    "geom:longitude":-76.526018,
+    "gn:latitude":3.45586,
+    "gn:longitude":-76.5224,
+    "iso:country":"CO",
+    "lbl:latitude":3.443773,
+    "lbl:longitude":-76.526018,
+    "mps:latitude":3.443,
+    "mps:longitude":-76.53063,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_colloquial":[
+        "S Nicolas",
+        "S. Nicolas",
+        "San Nicolas"
+    ],
+    "name:spa_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:spa_x_variant":[
+        "S Nicol\u00e1s",
+        "S. Nicol\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "San Nicol\u00e1s"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687925,
+    "qs:gn_nam_loc":"Cali",
+    "qs:gn_namadm1":"29",
+    "qs:gn_name":"San Nicol\u00e1s",
+    "qs:local_max":2212,
+    "qs:local_sum":6849,
+    "qs:localhoods":8,
+    "qs:name":"San Nicol\u00e1s",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:name_adm2":"Cali",
+    "qs:name_local":"Cali",
+    "qs:photo_max":390,
+    "qs:photo_sum":515,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":15,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345074,
+    "qs:woe_adm2":26797564,
+    "qs:woe_lau":0,
+    "qs:woe_local":368149,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421170643,
+        85670203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669224,
+        "gp:id":365883,
+        "qs:id":1174623
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f4716aa3284f10c51c30dec3d04a76aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":-1,
+            "neighbourhood_id":85764785,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":85764785,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858953,
+    "wof:name":"San Nicol\u00e1s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.526018,
+    3.443773,
+    -76.526018,
+    3.443773
+],
+  "geometry": {"coordinates":[-76.52601799999999,3.443773],"type":"Point"}
+}

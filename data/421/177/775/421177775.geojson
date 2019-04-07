@@ -1,0 +1,144 @@
+{
+  "id": 421177775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.04004,4.91345,-76.04004,4.91345",
+    "geom:latitude":4.91345,
+    "geom:longitude":-76.04004,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u963f\u5409\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:eng_x_preferred":[
+        "El Aguila"
+    ],
+    "name:fra_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:fre_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10d2\u10d8\u10da\u10d0"
+    ],
+    "name:hun_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:ita_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d0\u10d2\u10d8\u10da\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "El Aguila"
+    ],
+    "name:msa_x_preferred":[
+        "El Aguila"
+    ],
+    "name:nan_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:nld_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:sco_x_preferred":[
+        "El Aguila"
+    ],
+    "name:spa_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:swe_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:vie_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:war_x_preferred":[
+        "El Aguila"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El \u00c1guila"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u5409\u62c9"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3685027,
+    "qs:gn_pop":2725,
+    "qs:name":"El \u00c1guila",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1206207,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":353752,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685027,
+        "gp:id":353752,
+        "qs:id":1206207,
+        "wd:id":"Q1578199"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009160,
+    "wof:geomhash":"10683106cd759800aa7672c518f010f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701489,
+            "locality_id":421177775,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":421177775,
+    "wof:lastmodified":1527716485,
+    "wof:name":"El \u00c1guila",
+    "wof:parent_id":1108701489,
+    "wof:placetype":"locality",
+    "wof:population":2725,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.04004,
+    4.91345,
+    -76.04004,
+    4.91345
+],
+  "geometry": {"coordinates":[-76.04004,4.91345],"type":"Point"}
+}

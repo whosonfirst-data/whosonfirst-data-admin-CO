@@ -1,0 +1,71 @@
+{
+  "id": 1343236669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.7119,3.52003,-73.7119,3.52003",
+    "geom:latitude":3.52003,
+    "geom:longitude":-73.7119,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50313",
+    "gn:asciiname":"Puerto Chorizo",
+    "gn:country_code":"CO",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332440,
+    "gn:latitude":3.52003,
+    "gn:longitude":-73.7119,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Chorizo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Chorizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332440
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce9e82addf2fc3ea2ca517b1d6b3c02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700939,
+            "locality_id":1343236669,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1343236669,
+    "wof:lastmodified":1537618834,
+    "wof:name":"Puerto Chorizo",
+    "wof:parent_id":1108700939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.7119,
+    3.52003,
+    -73.7119,
+    3.52003
+],
+  "geometry": {"coordinates":[-73.7119,3.52003],"type":"Point"}
+}

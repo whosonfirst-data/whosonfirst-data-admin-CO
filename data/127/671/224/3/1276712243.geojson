@@ -1,0 +1,73 @@
+{
+  "id": 1276712243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,9.23333,-74.1,9.23333",
+    "geom:latitude":9.23333,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47318.0",
+    "gn:asciiname":"Castano",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687090,
+    "gn:latitude":9.23333,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casta\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Casta\u00f1o",
+        "Casta\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421194071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687090
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5de1ce4ba8c5d6f8f926b699a69a94fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421194071,
+            "locality_id":1276712243,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1276712243,
+    "wof:lastmodified":1537618626,
+    "wof:name":"Castano",
+    "wof:parent_id":421194071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    9.23333,
+    -74.1,
+    9.23333
+],
+  "geometry": {"coordinates":[-74.09999999999999,9.23333],"type":"Point"}
+}

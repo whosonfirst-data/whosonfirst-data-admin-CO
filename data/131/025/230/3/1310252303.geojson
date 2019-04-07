@@ -1,0 +1,72 @@
+{
+  "id": 1310252303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03264,9.34829,-75.03264,9.34829",
+    "geom:latitude":9.34829,
+    "geom:longitude":-75.03264,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70717.0",
+    "gn:asciiname":"San Mateo",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669307,
+    "gn:latitude":9.34829,
+    "gn:longitude":-75.03264,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Mateo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento San Mateo",
+        "San Mateo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669307
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b447eff8fc2373b34632b5f4a37105b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701417,
+            "locality_id":1310252303,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1310252303,
+    "wof:lastmodified":1537618396,
+    "wof:name":"San Mateo",
+    "wof:parent_id":1108701417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03264,
+    9.34829,
+    -75.03264,
+    9.34829
+],
+  "geometry": {"coordinates":[-75.03264,9.34829],"type":"Point"}
+}

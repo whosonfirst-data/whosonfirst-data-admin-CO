@@ -1,0 +1,71 @@
+{
+  "id": 1326998795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94881,0.99564,-75.94881,0.99564",
+    "geom:latitude":0.99564,
+    "geom:longitude":-75.94881,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86571.0",
+    "gn:asciiname":"Agua Negra",
+    "gn:country_code":"CO",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542152,
+    "gn:latitude":0.99564,
+    "gn:longitude":-75.94881,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Agua Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agua Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542152
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"26e053b7d6ceb77f1a350735e9e7f6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701565,
+            "locality_id":1326998795,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1326998795,
+    "wof:lastmodified":1537618739,
+    "wof:name":"Agua Negra",
+    "wof:parent_id":1108701565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94881,
+    0.99564,
+    -75.94881,
+    0.99564
+],
+  "geometry": {"coordinates":[-75.94880999999999,0.99564],"type":"Point"}
+}

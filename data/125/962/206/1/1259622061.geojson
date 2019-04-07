@@ -1,0 +1,71 @@
+{
+  "id": 1259622061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.14263,9.06759,-74.14263,9.06759",
+    "geom:latitude":9.06759,
+    "geom:longitude":-74.14263,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"San Roque",
+    "gn:country_code":"CO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669006,
+    "gn:latitude":9.06759,
+    "gn:longitude":-74.14263,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"San Roque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento San Roque",
+        "San Roque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669006
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24e6045981c232f5d2f78987e725f0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "locality_id":1259622061,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1259622061,
+    "wof:lastmodified":1537618393,
+    "wof:name":"San Roque",
+    "wof:parent_id":421170439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.14263000000003,
+    9.06759,
+    -74.14263000000003,
+    9.06759
+],
+  "geometry": {"coordinates":[-74.14263000000003,9.06759],"type":"Point"}
+}

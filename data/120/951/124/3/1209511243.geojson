@@ -1,0 +1,65 @@
+{
+  "id": 1209511243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89796,0.99056,-75.89796,0.99056",
+    "geom:latitude":0.99056,
+    "geom:longitude":-75.89796,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18205.0",
+    "gn:asciiname":"La Primavera",
+    "gn:country_code":"CO",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542146,
+    "gn:latitude":0.99056,
+    "gn:longitude":-75.89796,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Primavera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542146
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9f0b53662b7fb5283b258d07ecf8b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209511243
+        }
+    ],
+    "wof:id":1209511243,
+    "wof:lastmodified":1537618739,
+    "wof:name":"La Primavera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89796,
+    0.99056,
+    -75.89796,
+    0.99056
+],
+  "geometry": {"coordinates":[-75.89796,0.99056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259430035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74307,3.7844,-74.74307,3.7844",
+    "geom:latitude":3.7844,
+    "geom:longitude":-74.74307,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73585",
+    "gn:asciiname":"Normandia",
+    "gn:country_code":"CO",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630574,
+    "gn:latitude":3.7844,
+    "gn:longitude":-74.74307,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Normandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Normandia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421181785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630574
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3519fe05a4b244458854d50d7fb719f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181785,
+            "locality_id":1259430035,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259430035,
+    "wof:lastmodified":1537618842,
+    "wof:name":"Normandia",
+    "wof:parent_id":421181785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74306999999997,
+    3.7844,
+    -74.74306999999997,
+    3.7844
+],
+  "geometry": {"coordinates":[-74.74306999999997,3.7844],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226511529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.69191,3.60552,-74.69191,3.60552",
+    "geom:latitude":3.60552,
+    "geom:longitude":-74.69191,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41206.0",
+    "gn:asciiname":"Juntas",
+    "gn:country_code":"CO",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8577089,
+    "gn:latitude":3.60552,
+    "gn:longitude":-74.69191,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Juntas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Juntas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8577089
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db54942fac8794c0b8df3534910c1d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700809,
+            "locality_id":1226511529,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1226511529,
+    "wof:lastmodified":1537618788,
+    "wof:name":"Juntas",
+    "wof:parent_id":1108700809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.69191,
+    3.60552,
+    -74.69191,
+    3.60552
+],
+  "geometry": {"coordinates":[-74.69190999999999,3.60552],"type":"Point"}
+}

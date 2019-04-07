@@ -1,0 +1,62 @@
+{
+  "id": 1209568301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.45,10.41667,-75.45,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-75.45,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Pradera",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671771,
+    "gn:latitude":10.41667,
+    "gn:longitude":-75.45,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pradera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671771
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"242fe3dc9e5c121f771f0e8efd98adb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209568301
+        }
+    ],
+    "wof:id":1209568301,
+    "wof:lastmodified":1536283167,
+    "wof:name":"Pradera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.45,
+    10.41667,
+    -75.45,
+    10.41667
+],
+  "geometry": {"coordinates":[-75.45,10.41667],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1126093901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.07976,4.6726,-74.07976,4.6726",
+    "geom:latitude":4.6726,
+    "geom:longitude":-74.07976,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":4.6726,
+    "lbl:longitude":-74.07976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3669889,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Fernando",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":6278,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":28,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6278,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1033484,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365352,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669889,
+        "gp:id":365352,
+        "qs_pg:id":1033484
+    },
+    "wof:country":"CO",
+    "wof:created":1497314728,
+    "wof:geomhash":"88fd1909f867573537313f6f8f306f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126093901,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126093901,
+    "wof:lastmodified":1534379259,
+    "wof:name":"San Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764777
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.07976,
+    4.6726,
+    -74.07976,
+    4.6726
+],
+  "geometry": {"coordinates":[-74.07975999999999,4.6726],"type":"Point"}
+}

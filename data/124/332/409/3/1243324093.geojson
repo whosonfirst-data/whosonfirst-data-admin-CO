@@ -1,0 +1,68 @@
+{
+  "id": 1243324093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96667,4.26667,-75.96667,4.26667",
+    "geom:latitude":4.26667,
+    "geom:longitude":-75.96667,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76736.0",
+    "gn:asciiname":"Purnio",
+    "gn:country_code":"CO",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671198,
+    "gn:latitude":4.26667,
+    "gn:longitude":-75.96667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Purnio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671198
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24a6694661b47f73ca2f1109f05c88be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188713,
+            "locality_id":1243324093,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1243324093,
+    "wof:lastmodified":1536981449,
+    "wof:name":"Purnio",
+    "wof:parent_id":421188713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96667,
+    4.26667,
+    -75.96667,
+    4.26667
+],
+  "geometry": {"coordinates":[-75.96666999999999,4.26667],"type":"Point"}
+}

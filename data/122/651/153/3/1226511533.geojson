@@ -1,0 +1,68 @@
+{
+  "id": 1226511533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.74556,2.09833,-75.74556,2.09833",
+    "geom:latitude":2.09833,
+    "geom:longitude":-75.74556,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41026.0",
+    "gn:asciiname":"Garanon",
+    "gn:country_code":"CO",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792696,
+    "gn:latitude":2.09833,
+    "gn:longitude":-75.74556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Gara\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792696
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"50e33780e42980d7eff6630cf7b3ad6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700803,
+            "locality_id":1226511533,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1226511533,
+    "wof:lastmodified":1537045589,
+    "wof:name":"Garanon",
+    "wof:parent_id":1108700803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74556,
+    2.09833,
+    -75.74556,
+    2.09833
+],
+  "geometry": {"coordinates":[-75.74556,2.09833],"type":"Point"}
+}

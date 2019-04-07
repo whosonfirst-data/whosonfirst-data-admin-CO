@@ -1,0 +1,103 @@
+{
+  "id": 1126101641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.09961,4.5834,-74.09961,4.5834",
+    "geom:latitude":4.5834,
+    "geom:longitude":-74.09961,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.5834,
+    "gn:longitude":-74.09961,
+    "iso:country":"CO",
+    "lbl:latitude":4.5834,
+    "lbl:longitude":-74.09961,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_colloquial":[
+        "Ciudad Jardin"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Jard\u00edn"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad Jard\u00edn"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3686221,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ciudad Jard\u00edn",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":417,
+    "qs_pg:photos_1k":84,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":417,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":238582,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":353141,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686221,
+        "gp:id":353141,
+        "qs:id":238582,
+        "qs_pg:id":238582
+    },
+    "wof:country":"CO",
+    "wof:created":1497316189,
+    "wof:geomhash":"0bc44751c9d317e3ea079146efe99d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126101641,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126101641,
+    "wof:lastmodified":1534379262,
+    "wof:name":"Ciudad Jard\u00edn",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764597
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.09961,
+    4.5834,
+    -74.09961,
+    4.5834
+],
+  "geometry": {"coordinates":[-74.09961,4.5834],"type":"Point"}
+}

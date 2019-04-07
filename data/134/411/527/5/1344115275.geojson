@@ -1,0 +1,68 @@
+{
+  "id": 1344115275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.49036,0.54065,-76.49036,0.54065",
+    "geom:latitude":0.54065,
+    "geom:longitude":-76.49036,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86568.0",
+    "gn:asciiname":"Concaya",
+    "gn:country_code":"CO",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7543214,
+    "gn:latitude":0.54065,
+    "gn:longitude":-76.49036,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Concaya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        421185871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543214
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6452777cb86c5777836f84987b9fcc43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185871,
+            "locality_id":1344115275,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1344115275,
+    "wof:lastmodified":1536796866,
+    "wof:name":"Concaya",
+    "wof:parent_id":421185871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.49036,
+    0.54065,
+    -76.49036,
+    0.54065
+],
+  "geometry": {"coordinates":[-76.49036,0.54065],"type":"Point"}
+}

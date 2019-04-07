@@ -1,0 +1,74 @@
+{
+  "id": 1293111815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.92194,-1.23639,-69.92194,-1.23639",
+    "geom:latitude":-1.23639,
+    "geom:longitude":-69.92194,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91407.0",
+    "gn:asciiname":"Miriti Parana",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674693,
+    "gn:latitude":-1.23639,
+    "gn:longitude":-69.92194,
+    "gn:modification_date":"2018-04-19",
+    "gn:name":"Mirit\u00ed Paran\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campoamor",
+        "Mirit\u00ed Paran\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674693,
+        "wk:page":"Mirit%C3%AD-Paran%C3%A1"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"512ab9b43bfcf809f7615f732e597789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701589,
+            "locality_id":1293111815,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1293111815,
+    "wof:lastmodified":1537618457,
+    "wof:name":"Miriti Parana",
+    "wof:parent_id":1108701589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.92194,
+    -1.23639,
+    -69.92194,
+    -1.23639
+],
+  "geometry": {"coordinates":[-69.92194000000001,-1.23639],"type":"Point"}
+}

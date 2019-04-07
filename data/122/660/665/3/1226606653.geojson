@@ -1,0 +1,68 @@
+{
+  "id": 1226606653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.17856,1.97247,-78.17856,1.97247",
+    "geom:latitude":1.97247,
+    "geom:longitude":-78.17856,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52427.0",
+    "gn:asciiname":"La Mica",
+    "gn:country_code":"CO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8640407,
+    "gn:latitude":1.97247,
+    "gn:longitude":-78.17856,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8640407
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"91dd69a60a46bb9e01866ee247b86b73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701035,
+            "locality_id":1226606653,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226606653,
+    "wof:lastmodified":1536914859,
+    "wof:name":"La Mica",
+    "wof:parent_id":1108701035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.17856,
+    1.97247,
+    -78.17856,
+    1.97247
+],
+  "geometry": {"coordinates":[-78.17856,1.97247],"type":"Point"}
+}

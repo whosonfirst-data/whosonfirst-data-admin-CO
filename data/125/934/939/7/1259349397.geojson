@@ -1,0 +1,71 @@
+{
+  "id": 1259349397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.82,11.58917,-72.82,11.58917",
+    "geom:latitude":11.58917,
+    "geom:longitude":-72.82,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44560.0",
+    "gn:asciiname":"Pitpir",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672154,
+    "gn:latitude":11.58917,
+    "gn:longitude":-72.82,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pitpir",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirpir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421195937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672154
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f64e5751d2c3d70fe9a710ba6021649b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421195937,
+            "locality_id":1259349397,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1259349397,
+    "wof:lastmodified":1537618432,
+    "wof:name":"Pitpir",
+    "wof:parent_id":421195937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.82,
+    11.58917,
+    -72.82,
+    11.58917
+],
+  "geometry": {"coordinates":[-72.81999999999999,11.58917],"type":"Point"}
+}

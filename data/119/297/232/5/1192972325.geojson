@@ -1,0 +1,73 @@
+{
+  "id": 1192972325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.51667,4.66667,-74.51667,4.66667",
+    "geom:latitude":4.66667,
+    "geom:longitude":-74.51667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25386.0",
+    "gn:asciiname":"Baltimore",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689259,
+    "gn:latitude":4.66667,
+    "gn:longitude":-74.51667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Baltimore",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baltimores",
+        "Baltimore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689259
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a5c7cc47f71442899c310edc1a76792d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700669,
+            "locality_id":1192972325,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1192972325,
+    "wof:lastmodified":1537618652,
+    "wof:name":"Baltimore",
+    "wof:parent_id":1108700669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.51666999999998,
+    4.66667,
+    -74.51666999999998,
+    4.66667
+],
+  "geometry": {"coordinates":[-74.51666999999998,4.66667],"type":"Point"}
+}

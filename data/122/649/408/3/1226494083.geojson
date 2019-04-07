@@ -1,0 +1,68 @@
+{
+  "id": 1226494083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.77056,5.55528,-73.77056,5.55528",
+    "geom:latitude":5.55528,
+    "geom:longitude":-73.77056,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15676.0",
+    "gn:asciiname":"Miramar",
+    "gn:country_code":"CO",
+    "gn:dem":2540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776956,
+    "gn:latitude":5.55528,
+    "gn:longitude":-73.77056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Miramar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776956
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd7762d5caefce65828db1ffde979618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700317,
+            "locality_id":1226494083,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226494083,
+    "wof:lastmodified":1537069605,
+    "wof:name":"Miramar",
+    "wof:parent_id":1108700317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.77056,
+    5.55528,
+    -73.77056,
+    5.55528
+],
+  "geometry": {"coordinates":[-73.77056,5.55528],"type":"Point"}
+}

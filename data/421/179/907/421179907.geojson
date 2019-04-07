@@ -1,0 +1,131 @@
+{
+  "id": 421179907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56667,5.645,-73.56667,5.645",
+    "geom:latitude":5.645,
+    "geom:longitude":-73.56667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u840a\u74e6\u93ae"
+    ],
+    "name:dut_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:eng_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:fre_x_preferred":[
+        "villa de Leyva"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d3\u10d4-\u10da\u10d4\u10d8\u10d5\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:ita_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:lit_x_preferred":[
+        "Vilja de Lejva"
+    ],
+    "name:may_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:por_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f \u0434\u0435 \u041b\u0435\u0439\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:swe_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:tgl_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:unk_x_variant":[
+        "Leiva"
+    ],
+    "name:vie_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:war_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3666003,
+    "qs:gn_pop":5103,
+    "qs:name":"Villa de Leyva",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":3370,
+    "qs:photos_1k":683,
+    "qs:photos_9k":15,
+    "qs:photos_9r":11,
+    "qs:photos_all":3370,
+    "qs:photos_sr":20,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":240963,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":367926,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421170589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666003,
+        "gp:id":367926,
+        "qs:id":240963,
+        "wd:id":"Q1409503"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009237,
+    "wof:geomhash":"83ff50a9984c198752c0693fc689a08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170589,
+            "locality_id":421179907,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421179907,
+    "wof:lastmodified":1513944171,
+    "wof:name":"Villa de Leyva",
+    "wof:parent_id":421170589,
+    "wof:placetype":"locality",
+    "wof:population":5103,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56667,
+    5.645,
+    -73.56667,
+    5.645
+],
+  "geometry": {"coordinates":[-73.56667,5.645],"type":"Point"}
+}

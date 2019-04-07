@@ -1,0 +1,72 @@
+{
+  "id": 1276547099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.83719,10.85697,-74.83719,10.85697",
+    "geom:latitude":10.85697,
+    "geom:longitude":-74.83719,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8433.0",
+    "gn:asciiname":"San Jose Caracoli",
+    "gn:country_code":"CO",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687445,
+    "gn:latitude":10.85697,
+    "gn:longitude":-74.83719,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Jos\u00e9 Caracoli",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caracol\u00ed",
+        "San Jos\u00e9 Caracoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687445
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9bab0eba4f142105d1d053cb88ef103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700061,
+            "locality_id":1276547099,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1276547099,
+    "wof:lastmodified":1537618630,
+    "wof:name":"San Jose Caracoli",
+    "wof:parent_id":1108700061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.83719,
+    10.85697,
+    -74.83719,
+    10.85697
+],
+  "geometry": {"coordinates":[-74.83719000000001,10.85697],"type":"Point"}
+}

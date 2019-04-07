@@ -1,0 +1,156 @@
+{
+  "id": 421181371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.4315,6.03082,-75.4315,6.03082",
+    "geom:latitude":6.03082,
+    "geom:longitude":-75.4315,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0633\u064a\u062e\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "La Ceja"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u585e\u54c8"
+    ],
+    "name:dut_x_preferred":[
+        "La Ceja"
+    ],
+    "name:eng_x_preferred":[
+        "La Ceja del Tambo"
+    ],
+    "name:fre_x_preferred":[
+        "La Ceja"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10e1\u10d4\u10ee\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Ceja"
+    ],
+    "name:gla_x_preferred":[
+        "La Ceja"
+    ],
+    "name:hbs_x_preferred":[
+        "La Ceja"
+    ],
+    "name:ile_x_preferred":[
+        "La Ceja"
+    ],
+    "name:ita_x_preferred":[
+        "La Ceja"
+    ],
+    "name:may_x_preferred":[
+        "La Ceja"
+    ],
+    "name:nan_x_preferred":[
+        "La Ceja"
+    ],
+    "name:nob_x_preferred":[
+        "La Ceja del Tambo"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0633\u062e\u0627"
+    ],
+    "name:por_x_preferred":[
+        "La Ceja"
+    ],
+    "name:rum_x_preferred":[
+        "La Ceja"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0421\u0435\u0445\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "La Ceja"
+    ],
+    "name:swe_x_preferred":[
+        "La Ceja"
+    ],
+    "name:tgl_x_preferred":[
+        "La Ceja"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u06cc\u062d\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Ceja"
+    ],
+    "name:war_x_preferred":[
+        "La Ceja"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3679554,
+    "qs:gn_pop":36584,
+    "qs:name":"La Ceja",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":1568,
+    "qs:photos_1k":318,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1568,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":489534,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368322,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679554,
+        "gp:id":368322,
+        "qs:id":489534,
+        "wd:id":"Q1946679"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009294,
+    "wof:geomhash":"9cbee5f7cbe7f969dd29be005dccb250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170565,
+            "locality_id":421181371,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421181371,
+    "wof:lastmodified":1527716325,
+    "wof:name":"La Ceja",
+    "wof:parent_id":421170565,
+    "wof:placetype":"locality",
+    "wof:population":36584,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.4315,
+    6.03082,
+    -75.4315,
+    6.03082
+],
+  "geometry": {"coordinates":[-75.4315,6.03082],"type":"Point"}
+}

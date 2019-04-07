@@ -1,0 +1,68 @@
+{
+  "id": 1343324147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.97939,4.47437,-72.97939,4.47437",
+    "geom:latitude":4.47437,
+    "geom:longitude":-72.97939,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50110.0",
+    "gn:asciiname":"Guarataro",
+    "gn:country_code":"CO",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681462,
+    "gn:latitude":4.47437,
+    "gn:longitude":-72.97939,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guarataro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681462
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fba3632490251e4470b9bbb0a3d7b0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700925,
+            "locality_id":1343324147,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1343324147,
+    "wof:lastmodified":1536943655,
+    "wof:name":"Guarataro",
+    "wof:parent_id":1108700925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.97939000000002,
+    4.47437,
+    -72.97939000000002,
+    4.47437
+],
+  "geometry": {"coordinates":[-72.97939000000002,4.47437],"type":"Point"}
+}

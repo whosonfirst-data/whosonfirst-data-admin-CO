@@ -1,0 +1,68 @@
+{
+  "id": 1343501299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.09917,5.76639,-74.09917,5.76639",
+    "geom:latitude":5.76639,
+    "geom:longitude":-74.09917,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15507.0",
+    "gn:asciiname":"Tierra Amarilla",
+    "gn:country_code":"CO",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775354,
+    "gn:latitude":5.76639,
+    "gn:longitude":-74.09917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Amarilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775354
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8d17f7bc848334f39a217fffdf1d63d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700283,
+            "locality_id":1343501299,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1343501299,
+    "wof:lastmodified":1536687246,
+    "wof:name":"Tierra Amarilla",
+    "wof:parent_id":1108700283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.09917,
+    5.76639,
+    -74.09917,
+    5.76639
+],
+  "geometry": {"coordinates":[-74.09917,5.76639],"type":"Point"}
+}

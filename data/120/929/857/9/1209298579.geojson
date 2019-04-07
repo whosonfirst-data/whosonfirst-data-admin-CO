@@ -1,0 +1,62 @@
+{
+  "id": 1209298579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8516,2.63859,-77.8516,2.63859",
+    "geom:latitude":2.63859,
+    "geom:longitude":-77.8516,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19318.0",
+    "gn:asciiname":"Estero Hondo",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829067,
+    "gn:latitude":2.63859,
+    "gn:longitude":-77.8516,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Estero Hondo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829067
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e53672f8aa3724341756eb84e0372e3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209298579
+        }
+    ],
+    "wof:id":1209298579,
+    "wof:lastmodified":1536291437,
+    "wof:name":"Estero Hondo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8516,
+    2.63859,
+    -77.8516,
+    2.63859
+],
+  "geometry": {"coordinates":[-77.8516,2.63859],"type":"Point"}
+}

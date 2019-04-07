@@ -1,0 +1,68 @@
+{
+  "id": 1293750191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.90362,10.81394,-72.90362,10.81394",
+    "geom:latitude":10.81394,
+    "geom:longitude":-72.90362,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44098.0",
+    "gn:asciiname":"Zumbador",
+    "gn:country_code":"CO",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758137,
+    "gn:latitude":10.81394,
+    "gn:longitude":-72.90362,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Zumbador",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        1108700857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758137
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a348f80abb7ced25c6b9a2c4c93f6184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700857,
+            "locality_id":1293750191,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293750191,
+    "wof:lastmodified":1536905806,
+    "wof:name":"Zumbador",
+    "wof:parent_id":1108700857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.90361999999998,
+    10.81394,
+    -72.90361999999998,
+    10.81394
+],
+  "geometry": {"coordinates":[-72.90361999999998,10.81394],"type":"Point"}
+}

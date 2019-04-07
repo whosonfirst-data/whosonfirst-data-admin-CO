@@ -1,0 +1,76 @@
+{
+  "id": 1276632183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50877,9.14475,-75.50877,9.14475",
+    "geom:latitude":9.14475,
+    "geom:longitude":-75.50877,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23670.0",
+    "gn:asciiname":"San Andres de Sotavento",
+    "gn:country_code":"CO",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3670207,
+    "gn:latitude":9.14475,
+    "gn:longitude":-75.50877,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"San Andr\u00e9s de Sotavento",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s de Sotavento"
+    ],
+    "name:und_x_variant":[
+        "San Andr\u00e9s",
+        "San Andres de Sotavento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670207,
+        "wk:page":"San_Andr%C3%A9s_de_Sotavento"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2ba9b54731102a0bcff5620dc9e7069f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700601,
+            "locality_id":1276632183,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1276632183,
+    "wof:lastmodified":1537618406,
+    "wof:name":"San Andres de Sotavento",
+    "wof:parent_id":1108700601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50877,
+    9.14475,
+    -75.50877,
+    9.14475
+],
+  "geometry": {"coordinates":[-75.50877,9.14475],"type":"Point"}
+}

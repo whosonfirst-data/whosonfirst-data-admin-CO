@@ -1,0 +1,68 @@
+{
+  "id": 1343505995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5,10.23333,-75.5,10.23333",
+    "geom:latitude":10.23333,
+    "geom:longitude":-75.5,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13838.0",
+    "gn:asciiname":"Poza Verde",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671793,
+    "gn:latitude":10.23333,
+    "gn:longitude":-75.5,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Poza Verde",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671793
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d5d42189c3c0fb3602863b912962e8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700177,
+            "locality_id":1343505995,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1343505995,
+    "wof:lastmodified":1536680509,
+    "wof:name":"Poza Verde",
+    "wof:parent_id":1108700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5,
+    10.23333,
+    -75.5,
+    10.23333
+],
+  "geometry": {"coordinates":[-75.5,10.23333],"type":"Point"}
+}

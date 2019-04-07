@@ -1,0 +1,68 @@
+{
+  "id": 1209905619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.35,2.28333,-77.35,2.28333",
+    "geom:latitude":2.28333,
+    "geom:longitude":-77.35,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19050.0",
+    "gn:asciiname":"El Encanto",
+    "gn:country_code":"CO",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684239,
+    "gn:latitude":2.28333,
+    "gn:longitude":-77.35,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Encanto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684239
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3dd315514bc8565ba516b8aba2ed3e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700437,
+            "locality_id":1209905619,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1209905619,
+    "wof:lastmodified":1536384214,
+    "wof:name":"El Encanto",
+    "wof:parent_id":1108700437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.35,
+    2.28333,
+    -77.35,
+    2.28333
+],
+  "geometry": {"coordinates":[-77.34999999999999,2.28333],"type":"Point"}
+}

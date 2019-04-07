@@ -1,0 +1,67 @@
+{
+  "id": 1226093809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.56667,6.0,-74.56667,6.0",
+    "geom:latitude":6.0,
+    "geom:longitude":-74.56667,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Saca Mujer",
+    "gn:country_code":"CO",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670440,
+    "gn:latitude":6.0,
+    "gn:longitude":-74.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Saca Mujer",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421202227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670440
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"66823a8c7febce7acd47ed54bbf052b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202227,
+            "locality_id":1226093809,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226093809,
+    "wof:lastmodified":1536655958,
+    "wof:name":"Saca Mujer",
+    "wof:parent_id":421202227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.56667,
+    6.0,
+    -74.56667,
+    6.0
+],
+  "geometry": {"coordinates":[-74.56667,6.0],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326832843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.61389,6.96333,-75.61389,6.96333",
+    "geom:latitude":6.96333,
+    "geom:longitude":-75.61389,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5647.0",
+    "gn:asciiname":"Las Alegrias",
+    "gn:country_code":"CO",
+    "gn:dem":2455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787459,
+    "gn:latitude":6.96333,
+    "gn:longitude":-75.61389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Alegrias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787459
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"793663560c9c8beebf806839a25ae137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700003,
+            "locality_id":1326832843,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1326832843,
+    "wof:lastmodified":1537045964,
+    "wof:name":"Las Alegrias",
+    "wof:parent_id":1108700003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.61389,
+    6.96333,
+    -75.61389,
+    6.96333
+],
+  "geometry": {"coordinates":[-75.61389,6.96333],"type":"Point"}
+}

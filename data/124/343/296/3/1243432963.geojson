@@ -1,0 +1,72 @@
+{
+  "id": 1243432963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.92072,10.05333,-73.92072,10.05333",
+    "geom:latitude":10.05333,
+    "geom:longitude":-73.92072,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20060.0",
+    "gn:asciiname":"La Estacion",
+    "gn:country_code":"CO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679083,
+    "gn:latitude":10.05333,
+    "gn:longitude":-73.92072,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Estaci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitio La Estaci\u00f3n",
+        "La Estaci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679083
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7b5a1b5494075069e6d24151bf7e3ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188173,
+            "locality_id":1243432963,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1243432963,
+    "wof:lastmodified":1537618524,
+    "wof:name":"La Estacion",
+    "wof:parent_id":421188173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92071999999997,
+    10.05333,
+    -73.92071999999997,
+    10.05333
+],
+  "geometry": {"coordinates":[-73.92071999999997,10.05333],"type":"Point"}
+}

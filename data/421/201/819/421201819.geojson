@@ -1,0 +1,132 @@
+{
+  "id": 421201819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.1176,1.56305,-77.1176,1.56305",
+    "geom:latitude":1.56305,
+    "geom:longitude":-77.1176,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u5361\u5854\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10de\u10d4\u10d3\u10e0\u10dd-\u10d3\u10d4-\u10d9\u10d0\u10e0\u10e2\u10d0\u10ee\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:may_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:nan_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0433\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:swe_x_preferred":[
+        "Cartago"
+    ],
+    "name:tgl_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro de Cartago"
+    ],
+    "name:vie_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "name:war_x_preferred":[
+        "San Pedro de Cartago"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3687231,
+    "qs:gn_pop":1524,
+    "qs:name":"Cartago",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Narino",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":214699,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":352580,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687231,
+        "gp:id":352580,
+        "qs:id":214699,
+        "wd:id":"Q974273",
+        "wk:page":"San Pedro de Cartago"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010088,
+    "wof:geomhash":"ac694bd48f557b76e8e484dc494dd658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701073,
+            "locality_id":421201819,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":421201819,
+    "wof:lastmodified":1553816388,
+    "wof:name":"Cartago",
+    "wof:parent_id":1108701073,
+    "wof:placetype":"locality",
+    "wof:population":1524,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.1176,
+    1.56305,
+    -77.1176,
+    1.56305
+],
+  "geometry": {"coordinates":[-77.1176,1.56305],"type":"Point"}
+}

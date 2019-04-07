@@ -1,0 +1,72 @@
+{
+  "id": 1243010989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.3046,10.63347,-74.3046,10.63347",
+    "geom:latitude":10.63347,
+    "geom:longitude":-74.3046,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47268.0",
+    "gn:asciiname":"Camito",
+    "gn:country_code":"CO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687846,
+    "gn:latitude":10.63347,
+    "gn:longitude":-74.3046,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Camito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Camito",
+        "Camito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687846
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d8f2f3e72cbc42c436b8482f7582ef27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700887,
+            "locality_id":1243010989,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243010989,
+    "wof:lastmodified":1537618636,
+    "wof:name":"Camito",
+    "wof:parent_id":1108700887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3046,
+    10.63347,
+    -74.3046,
+    10.63347
+],
+  "geometry": {"coordinates":[-74.30459999999999,10.63347],"type":"Point"}
+}

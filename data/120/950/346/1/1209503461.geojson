@@ -1,0 +1,66 @@
+{
+  "id": 1209503461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.68514,8.71386,-73.68514,8.71386",
+    "geom:latitude":8.71386,
+    "geom:longitude":-73.68514,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20550.0",
+    "gn:asciiname":"Protocolo",
+    "gn:country_code":"CO",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671720,
+    "gn:latitude":8.71386,
+    "gn:longitude":-73.68514,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Protocolo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Protocolo",
+        "Protocolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671720
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f743f7a0bfdc9560c17e4bed531d7a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209503461
+        }
+    ],
+    "wof:id":1209503461,
+    "wof:lastmodified":1537618427,
+    "wof:name":"Protocolo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.68514,
+    8.71386,
+    -73.68514,
+    8.71386
+],
+  "geometry": {"coordinates":[-73.68514,8.71386],"type":"Point"}
+}

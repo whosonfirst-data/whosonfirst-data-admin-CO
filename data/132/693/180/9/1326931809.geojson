@@ -1,0 +1,72 @@
+{
+  "id": 1326931809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.11647,6.25905,-70.11647,6.25905",
+    "geom:latitude":6.25905,
+    "geom:longitude":-70.11647,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81220.0",
+    "gn:asciiname":"El Cacho",
+    "gn:country_code":"CO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684804,
+    "gn:latitude":6.25905,
+    "gn:longitude":-70.11647,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cacho",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacho",
+        "El Cacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684804
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"931bffb0acc42ba13ce30ab5df5376af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1326931809,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1326931809,
+    "wof:lastmodified":1537618602,
+    "wof:name":"El Cacho",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.11646999999999,
+    6.25905,
+    -70.11646999999999,
+    6.25905
+],
+  "geometry": {"coordinates":[-70.11646999999999,6.25905],"type":"Point"}
+}

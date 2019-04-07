@@ -1,0 +1,62 @@
+{
+  "id": 1209368749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93705,4.85353,-73.93705,4.85353",
+    "geom:latitude":4.85353,
+    "geom:longitude":-73.93705,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25758.0",
+    "gn:asciiname":"Domingo Savia Meusa",
+    "gn:country_code":"CO",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781739,
+    "gn:latitude":4.85353,
+    "gn:longitude":-73.93705,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Domingo Savia Meusa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781739
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db0de54b1ee91be2441a734586240048",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209368749
+        }
+    ],
+    "wof:id":1209368749,
+    "wof:lastmodified":1536289180,
+    "wof:name":"Domingo Savia Meusa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93705,
+    4.85353,
+    -73.93705,
+    4.85353
+],
+  "geometry": {"coordinates":[-73.93705,4.85353],"type":"Point"}
+}

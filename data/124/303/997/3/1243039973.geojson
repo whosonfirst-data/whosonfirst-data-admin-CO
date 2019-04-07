@@ -1,0 +1,74 @@
+{
+  "id": 1243039973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85944,1.89966,-75.85944,1.89966",
+    "geom:latitude":1.89966,
+    "geom:longitude":-75.85944,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41770.0",
+    "gn:asciiname":"Picunita",
+    "gn:country_code":"CO",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7552988,
+    "gn:latitude":1.89966,
+    "gn:longitude":-75.85944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Picunita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Picunita"
+    ],
+    "name:und_x_variant":[
+        "Picumita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7552988
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bc550f0283236dd5b2a4754cab82df52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700841,
+            "locality_id":1243039973,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1243039973,
+    "wof:lastmodified":1537618745,
+    "wof:name":"Picunita",
+    "wof:parent_id":1108700841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85944,
+    1.89966,
+    -75.85944,
+    1.89966
+],
+  "geometry": {"coordinates":[-75.85944000000001,1.89966],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226034341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.29198,3.23121,-76.29198,3.23121",
+    "geom:latitude":3.23121,
+    "geom:longitude":-76.29198,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19455.0",
+    "gn:asciiname":"Tierradura",
+    "gn:country_code":"CO",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3667176,
+    "gn:latitude":3.23121,
+    "gn:longitude":-76.29198,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierradura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tierradura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667176
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"57e7d25b477c0bb4b292af77dccf953f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700477,
+            "locality_id":1226034341,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1226034341,
+    "wof:lastmodified":1537618373,
+    "wof:name":"Tierradura",
+    "wof:parent_id":1108700477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.29198000000002,
+    3.23121,
+    -76.29198000000002,
+    3.23121
+],
+  "geometry": {"coordinates":[-76.29198000000002,3.23121],"type":"Point"}
+}

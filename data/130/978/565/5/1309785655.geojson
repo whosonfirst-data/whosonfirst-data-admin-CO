@@ -1,0 +1,68 @@
+{
+  "id": 1309785655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27914,9.0723,-75.27914,9.0723",
+    "geom:latitude":9.0723,
+    "geom:longitude":-75.27914,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23182.0",
+    "gn:asciiname":"Ceja Grande",
+    "gn:country_code":"CO",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686951,
+    "gn:latitude":9.0723,
+    "gn:longitude":-75.27914,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ceja Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686951
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"46217d189f62ff4dd7200ca3d0b21b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700571,
+            "locality_id":1309785655,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1309785655,
+    "wof:lastmodified":1536960104,
+    "wof:name":"Ceja Grande",
+    "wof:parent_id":1108700571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27914,
+    9.0723,
+    -75.27914,
+    9.0723
+],
+  "geometry": {"coordinates":[-75.27914,9.0723],"type":"Point"}
+}

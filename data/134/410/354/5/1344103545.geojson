@@ -1,0 +1,68 @@
+{
+  "id": 1344103545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.6293,3.46883,-76.6293,3.46883",
+    "geom:latitude":3.46883,
+    "geom:longitude":-76.6293,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76001.0",
+    "gn:asciiname":"Felidia",
+    "gn:country_code":"CO",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682497,
+    "gn:latitude":3.46883,
+    "gn:longitude":-76.6293,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Felidia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682497
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3504afc4370fd8ad2f515440f4d3f254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":1344103545,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1344103545,
+    "wof:lastmodified":1536812861,
+    "wof:name":"Felidia",
+    "wof:parent_id":421170643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.6293,
+    3.46883,
+    -76.6293,
+    3.46883
+],
+  "geometry": {"coordinates":[-76.6293,3.46883],"type":"Point"}
+}

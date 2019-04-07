@@ -1,0 +1,68 @@
+{
+  "id": 1260245383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9771,12.0477,-71.9771,12.0477",
+    "geom:latitude":12.0477,
+    "geom:longitude":-71.9771,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Ipachira",
+    "gn:country_code":"CO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8462068,
+    "gn:latitude":12.0477,
+    "gn:longitude":-71.9771,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ipachira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462068
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e3558d7b28adfe01fa6f08427ec8f28c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1260245383,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1260245383,
+    "wof:lastmodified":1536763961,
+    "wof:name":"Ipachira",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9771,
+    12.0477,
+    -71.9771,
+    12.0477
+],
+  "geometry": {"coordinates":[-71.97709999999999,12.0477],"type":"Point"}
+}

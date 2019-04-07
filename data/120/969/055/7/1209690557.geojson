@@ -1,0 +1,65 @@
+{
+  "id": 1209690557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.57554,3.48536,-73.57554,3.48536",
+    "geom:latitude":3.48536,
+    "geom:longitude":-73.57554,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"CO",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8601384,
+    "gn:latitude":3.48536,
+    "gn:longitude":-73.57554,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8601384
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d8edf019b56e9b1ca4616ef0778317cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209690557
+        }
+    ],
+    "wof:id":1209690557,
+    "wof:lastmodified":1537618798,
+    "wof:name":"La Palma",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.57554,
+    3.48536,
+    -73.57554,
+    3.48536
+],
+  "geometry": {"coordinates":[-73.57554,3.48536],"type":"Point"}
+}

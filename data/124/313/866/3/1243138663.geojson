@@ -1,0 +1,68 @@
+{
+  "id": 1243138663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.4,12.36667,-71.4,12.36667",
+    "geom:latitude":12.36667,
+    "geom:longitude":-71.4,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Poporumahana",
+    "gn:country_code":"CO",
+    "gn:dem":-54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671912,
+    "gn:latitude":12.36667,
+    "gn:longitude":-71.4,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Poporumahana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671912
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"96cdb1211342e990c4d6c39c815aeb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1243138663,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1243138663,
+    "wof:lastmodified":1536752384,
+    "wof:name":"Poporumahana",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4,
+    12.36667,
+    -71.4,
+    12.36667
+],
+  "geometry": {"coordinates":[-71.40000000000001,12.36667],"type":"Point"}
+}

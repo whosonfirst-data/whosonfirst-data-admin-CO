@@ -1,0 +1,68 @@
+{
+  "id": 1276753353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.01989,1.99561,-77.01989,1.99561",
+    "geom:latitude":1.99561,
+    "geom:longitude":-77.01989,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19100.0",
+    "gn:asciiname":"Corral Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7546681,
+    "gn:latitude":1.99561,
+    "gn:longitude":-77.01989,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Corral Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7546681
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d01aa2b2d2815f5f48123ca00f215962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700441,
+            "locality_id":1276753353,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1276753353,
+    "wof:lastmodified":1536713411,
+    "wof:name":"Corral Viejo",
+    "wof:parent_id":1108700441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.01989,
+    1.99561,
+    -77.01989,
+    1.99561
+],
+  "geometry": {"coordinates":[-77.01989,1.99561],"type":"Point"}
+}

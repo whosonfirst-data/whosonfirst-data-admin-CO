@@ -1,0 +1,162 @@
+{
+  "id": 421194317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38485,8.2919,-73.38485,8.2919",
+    "geom:latitude":8.2919,
+    "geom:longitude":-73.38485,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u0630\u0647\u0628"
+    ],
+    "name:arm_x_preferred":[
+        "\u054c\u056b\u0578 \u0564\u0565 \u0555\u0580\u0578"
+    ],
+    "name:cat_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:ces_x_preferred":[
+        "Rio de Oro"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u5fb7\u5967\u7f85"
+    ],
+    "name:dan_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:deu_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:epo_x_preferred":[
+        "Orrivero"
+    ],
+    "name:eus_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u062f\u06cc \u0627\u0644\u0630\u0647\u0628"
+    ],
+    "name:fin_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10d8\u10dd-\u10d3\u10d4-\u10dd\u10e0\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30aa\u30fb\u30c7\u30fb\u30aa\u30ed"
+    ],
+    "name:may_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:nan_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u06cc\u0648 \u062f \u0627\u0631\u0648"
+    ],
+    "name:por_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e-\u0434\u0435-\u041e\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:tgl_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:vie_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "name:war_x_preferred":[
+        "R\u00edo de Oro"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3670756,
+    "qs:gn_pop":6122,
+    "qs:name":"R\u00edo de Oro",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cesar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1046210,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368373,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":456,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670756,
+        "gp:id":368373,
+        "qs:id":1046210,
+        "wd:id":"Q1526621"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009801,
+    "wof:geomhash":"0918b086b024bf9f2e8601260a1bfd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700551,
+            "locality_id":421194317,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":421194317,
+    "wof:lastmodified":1553816382,
+    "wof:name":"R\u00edo de Oro",
+    "wof:parent_id":1108700551,
+    "wof:placetype":"locality",
+    "wof:population":6122,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38485,
+    8.2919,
+    -73.38485,
+    8.2919
+],
+  "geometry": {"coordinates":[-73.38485,8.2919],"type":"Point"}
+}

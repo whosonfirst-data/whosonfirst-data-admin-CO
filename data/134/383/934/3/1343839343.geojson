@@ -1,0 +1,71 @@
+{
+  "id": 1343839343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8743,1.82786,-75.8743,1.82786",
+    "geom:latitude":1.82786,
+    "geom:longitude":-75.8743,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41006.0",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7552989,
+    "gn:latitude":1.82786,
+    "gn:longitude":-75.8743,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7552989
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"173a2f45682c84c385c6f46faf5497df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700795,
+            "locality_id":1343839343,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1343839343,
+    "wof:lastmodified":1537618745,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":1108700795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8743,
+    1.82786,
+    -75.8743,
+    1.82786
+],
+  "geometry": {"coordinates":[-75.87430000000001,1.82786],"type":"Point"}
+}

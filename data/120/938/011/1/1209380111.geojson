@@ -1,0 +1,62 @@
+{
+  "id": 1209380111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.99056,4.3411,-71.99056,4.3411",
+    "geom:latitude":4.3411,
+    "geom:longitude":-71.99056,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50568.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"CO",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668718,
+    "gn:latitude":4.3411,
+    "gn:longitude":-71.99056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668718
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"165df09a41fd9fa44c30b9028ca7a6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209380111
+        }
+    ],
+    "wof:id":1209380111,
+    "wof:lastmodified":1536288813,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.99056,
+    4.3411,
+    -71.99056,
+    4.3411
+],
+  "geometry": {"coordinates":[-71.99056,4.3411],"type":"Point"}
+}

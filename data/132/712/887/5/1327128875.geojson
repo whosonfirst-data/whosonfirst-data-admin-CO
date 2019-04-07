@@ -1,0 +1,72 @@
+{
+  "id": 1327128875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37824,1.0675,-73.37824,1.0675",
+    "geom:latitude":1.0675,
+    "geom:longitude":-73.37824,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"Ucayali",
+    "gn:country_code":"CO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666514,
+    "gn:latitude":1.0675,
+    "gn:longitude":-73.37824,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ucayali",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acayali",
+        "Ucayali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666514
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4d3b86a50af44d928622b56ad038618c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "locality_id":1327128875,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1327128875,
+    "wof:lastmodified":1537618367,
+    "wof:name":"Ucayali",
+    "wof:parent_id":1108700423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37824,
+    1.0675,
+    -73.37824,
+    1.0675
+],
+  "geometry": {"coordinates":[-73.37824000000001,1.0675],"type":"Point"}
+}

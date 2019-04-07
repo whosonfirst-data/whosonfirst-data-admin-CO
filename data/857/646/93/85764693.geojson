@@ -1,0 +1,115 @@
+{
+  "id": 85764693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":14662056.980349,
+    "geom:bbox":"-74.823958,11.000754,-74.823958,11.000754",
+    "geom:latitude":11.000754,
+    "geom:longitude":-74.823958,
+    "gn:latitude":11.0,
+    "gn:longitude":-74.83333,
+    "iso:country":"CO",
+    "lbl:latitude":11.000754,
+    "lbl:longitude":-74.823958,
+    "mps:latitude":10.994928,
+    "mps:longitude":-74.829262,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:ita_x_preferred":[
+        "La Mina"
+    ],
+    "name:spa_x_preferred":[
+        "La Mina"
+    ],
+    "name:unk_x_variant":[
+        "La Mina"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3689147,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"La Mina",
+    "qs:local_max":816,
+    "qs:local_sum":2548,
+    "qs:localhoods":9,
+    "qs:name":"La Mina",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:name_adm2":"Barranquilla",
+    "qs:name_local":"Barranquilla",
+    "qs:photo_max":29,
+    "qs:photo_sum":174,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345050,
+    "qs:woe_adm2":26796731,
+    "qs:woe_lau":0,
+    "qs:woe_local":368151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        85670207,
+        102191577,
+        85632519,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678382,
+        "gp:id":359462,
+        "qs:id":982698,
+        "wd:id":"Q3820986"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9c76305285519a4a42b42a9fcf8587af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":-1,
+            "neighbourhood_id":85764693,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":85764693,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"La Mina",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126067997
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.823958,
+    11.000754,
+    -74.823958,
+    11.000754
+],
+  "geometry": {"coordinates":[-74.823958,11.000754],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343501309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89082,5.7191,-72.89082,5.7191",
+    "geom:latitude":5.7191,
+    "geom:longitude":-72.89082,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15759.0",
+    "gn:asciiname":"Morca",
+    "gn:country_code":"CO",
+    "gn:dem":2806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674397,
+    "gn:latitude":5.7191,
+    "gn:longitude":-72.89082,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Morc\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421188647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674397
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cd844118934e038692a0680bdea1cdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188647,
+            "locality_id":1343501309,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1343501309,
+    "wof:lastmodified":1536687234,
+    "wof:name":"Morca",
+    "wof:parent_id":421188647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89081999999998,
+    5.7191,
+    -72.89081999999998,
+    5.7191
+],
+  "geometry": {"coordinates":[-72.89081999999998,5.7191],"type":"Point"}
+}

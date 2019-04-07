@@ -1,0 +1,71 @@
+{
+  "id": 1292951811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7053,3.85974,-74.7053,3.85974",
+    "geom:latitude":3.85974,
+    "geom:longitude":-74.7053,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73226",
+    "gn:asciiname":"Colinas",
+    "gn:country_code":"CO",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10630538,
+    "gn:latitude":3.85974,
+    "gn:longitude":-74.7053,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Colinas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Colinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10630538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1eaa9bf82d7de217d94ec48367e419ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701435,
+            "locality_id":1292951811,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1292951811,
+    "wof:lastmodified":1537618842,
+    "wof:name":"Colinas",
+    "wof:parent_id":1108701435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7053,
+    3.85974,
+    -74.7053,
+    3.85974
+],
+  "geometry": {"coordinates":[-74.70529999999999,3.85974],"type":"Point"}
+}

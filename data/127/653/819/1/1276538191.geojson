@@ -1,0 +1,68 @@
+{
+  "id": 1276538191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.60332,2.90121,-77.60332,2.90121",
+    "geom:latitude":2.90121,
+    "geom:longitude":-77.60332,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19809.0",
+    "gn:asciiname":"El Cantil",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829160,
+    "gn:latitude":2.90121,
+    "gn:longitude":-77.60332,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cantil",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829160
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"313043a4e8dccdd3478116127b6fbb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700517,
+            "locality_id":1276538191,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1276538191,
+    "wof:lastmodified":1537000704,
+    "wof:name":"El Cantil",
+    "wof:parent_id":1108700517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.60332,
+    2.90121,
+    -77.60332,
+    2.90121
+],
+  "geometry": {"coordinates":[-77.60332,2.90121],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226810605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36182,9.43954,-75.36182,9.43954",
+    "geom:latitude":9.43954,
+    "geom:longitude":-75.36182,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70473.0",
+    "gn:asciiname":"Las Piedras",
+    "gn:country_code":"CO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677149,
+    "gn:latitude":9.43954,
+    "gn:longitude":-75.36182,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Piedras",
+        "Piedros",
+        "Las Piedras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677149
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7f35bb9c210de8a5d8cf97feaf922c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701403,
+            "locality_id":1226810605,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1226810605,
+    "wof:lastmodified":1537618490,
+    "wof:name":"Las Piedras",
+    "wof:parent_id":1108701403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36182,
+    9.43954,
+    -75.36182,
+    9.43954
+],
+  "geometry": {"coordinates":[-75.36181999999999,9.43954],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209067989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.50656,0.9648,-77.50656,0.9648",
+    "geom:latitude":0.9648,
+    "geom:longitude":-77.50656,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52352.0",
+    "gn:asciiname":"Alto del Rey",
+    "gn:country_code":"CO",
+    "gn:dem":2876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7493208,
+    "gn:latitude":0.9648,
+    "gn:longitude":-77.50656,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alto del Rey",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto El Rey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7493208
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2404a54f8afca1936d16f7383c3b3bb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209067989
+        }
+    ],
+    "wof:id":1209067989,
+    "wof:lastmodified":1537618707,
+    "wof:name":"Alto del Rey",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.50656,
+    0.9648,
+    -77.50656,
+    0.9648
+],
+  "geometry": {"coordinates":[-77.50655999999999,0.9648],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1360259767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.64065,3.49072,-72.64065,3.49072",
+    "geom:latitude":3.49072,
+    "geom:longitude":-72.64065,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Chinchorro",
+    "gn:country_code":"CO",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7017937,
+    "gn:latitude":3.49072,
+    "gn:longitude":-72.64065,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chinchorro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7017937
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"168ede0ea63cd8626920c187056dad4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1360259767,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1360259767,
+    "wof:lastmodified":1536693932,
+    "wof:name":"Chinchorro",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.64065,
+    3.49072,
+    -72.64065,
+    3.49072
+],
+  "geometry": {"coordinates":[-72.64064999999999,3.49072],"type":"Point"}
+}

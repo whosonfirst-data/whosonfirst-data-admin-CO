@@ -1,0 +1,64 @@
+{
+  "id": 1242657371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.0681,9.34094,-76.0681,9.34094",
+    "geom:latitude":9.34094,
+    "geom:longitude":-76.0681,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23675.0",
+    "gn:asciiname":"Pueblo Coco",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3745843,
+    "gn:latitude":9.34094,
+    "gn:longitude":-76.0681,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pueblo Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3745843
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58880644c1636d32f41ed1786eae2e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1242657371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242657371,
+    "wof:lastmodified":1536949268,
+    "wof:name":"Pueblo Coco",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.0681,
+    9.34094,
+    -76.0681,
+    9.34094
+],
+  "geometry": {"coordinates":[-76.0681,9.34094],"type":"Point"}
+}

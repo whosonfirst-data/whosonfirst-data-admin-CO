@@ -1,0 +1,68 @@
+{
+  "id": 1344014749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15656,6.37519,-73.15656,6.37519",
+    "geom:latitude":6.37519,
+    "geom:longitude":-73.15656,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68498.0",
+    "gn:asciiname":"Las Florez",
+    "gn:country_code":"CO",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810110,
+    "gn:latitude":6.37519,
+    "gn:longitude":-73.15656,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Fl\u00f3rez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810110
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f377bfb06be447d14c1c3e056216b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701303,
+            "locality_id":1344014749,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1344014749,
+    "wof:lastmodified":1536942345,
+    "wof:name":"Las Florez",
+    "wof:parent_id":1108701303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15656,
+    6.37519,
+    -73.15656,
+    6.37519
+],
+  "geometry": {"coordinates":[-73.15656,6.37519],"type":"Point"}
+}

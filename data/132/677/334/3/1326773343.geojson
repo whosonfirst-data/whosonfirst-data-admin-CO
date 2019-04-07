@@ -1,0 +1,72 @@
+{
+  "id": 1326773343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.08199,10.3559,-74.08199,10.3559",
+    "geom:latitude":10.3559,
+    "geom:longitude":-74.08199,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47030.0",
+    "gn:asciiname":"Tamarindo",
+    "gn:country_code":"CO",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667510,
+    "gn:latitude":10.3559,
+    "gn:longitude":-74.08199,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tamarindo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Tamarindo",
+        "Tamarindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421203427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667510
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"61d7fe0fd29e5aa4da3ab27a9dd1fa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203427,
+            "locality_id":1326773343,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1326773343,
+    "wof:lastmodified":1537618376,
+    "wof:name":"Tamarindo",
+    "wof:parent_id":421203427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.08199,
+    10.3559,
+    -74.08199,
+    10.3559
+],
+  "geometry": {"coordinates":[-74.08199,10.3559],"type":"Point"}
+}

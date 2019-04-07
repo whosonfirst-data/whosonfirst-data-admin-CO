@@ -1,0 +1,160 @@
+{
+  "id": 421198811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0196,6.48511,-75.0196,6.48511",
+    "geom:latitude":6.48511,
+    "geom:longitude":-75.0196,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Roque"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u514b"
+    ],
+    "name:dut_x_preferred":[
+        "San Roque"
+    ],
+    "name:eng_x_preferred":[
+        "San Roque"
+    ],
+    "name:fra_x_preferred":[
+        "San Roque"
+    ],
+    "name:fre_x_preferred":[
+        "San Roque"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e0\u10dd\u10d9\u10d4"
+    ],
+    "name:glg_x_preferred":[
+        "San Roque"
+    ],
+    "name:ile_x_preferred":[
+        "San Roque"
+    ],
+    "name:ita_x_preferred":[
+        "San Roque"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30ed\u30b1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e0\u10dd\u10d9\u10d4"
+    ],
+    "name:may_x_preferred":[
+        "San Roque"
+    ],
+    "name:msa_x_preferred":[
+        "San Roque"
+    ],
+    "name:nan_x_preferred":[
+        "San Roque"
+    ],
+    "name:nld_x_preferred":[
+        "San Roque"
+    ],
+    "name:por_x_preferred":[
+        "San Roque"
+    ],
+    "name:rum_x_preferred":[
+        "San Roque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0420\u043e\u043a\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "San Roque"
+    ],
+    "name:swe_x_preferred":[
+        "San Roque"
+    ],
+    "name:tgl_x_preferred":[
+        "San Roque"
+    ],
+    "name:vie_x_preferred":[
+        "San Roque"
+    ],
+    "name:war_x_preferred":[
+        "San Roque"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Roque"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u514b"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669011,
+    "qs:gn_pop":5576,
+    "qs:name":"San Roque",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1206338,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":366076,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669011,
+        "gp:id":366076,
+        "qs:id":1206338,
+        "wd:id":"Q1525767",
+        "wk:page":"San Roque, Antioquia"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009961,
+    "wof:geomhash":"6e704c686c13b007f46568195e4dce00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700015,
+            "locality_id":421198811,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421198811,
+    "wof:lastmodified":1553816386,
+    "wof:name":"San Roque",
+    "wof:parent_id":1108700015,
+    "wof:placetype":"locality",
+    "wof:population":5576,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0196,
+    6.48511,
+    -75.0196,
+    6.48511
+],
+  "geometry": {"coordinates":[-75.0196,6.48511],"type":"Point"}
+}

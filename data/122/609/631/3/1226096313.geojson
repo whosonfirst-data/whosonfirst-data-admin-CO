@@ -1,0 +1,73 @@
+{
+  "id": 1226096313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1,9.4,-75.1,9.4",
+    "geom:latitude":9.4,
+    "geom:longitude":-75.1,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70717.0",
+    "gn:asciiname":"Calabozo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687984,
+    "gn:latitude":9.4,
+    "gn:longitude":-75.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Calabozo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Calabozo",
+        "Calabozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687984
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ac83c28477f17c66d1d2f2dc3e5b7ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701417,
+            "locality_id":1226096313,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1226096313,
+    "wof:lastmodified":1537618637,
+    "wof:name":"Calabozo",
+    "wof:parent_id":1108701417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1,
+    9.4,
+    -75.1,
+    9.4
+],
+  "geometry": {"coordinates":[-75.09999999999999,9.4],"type":"Point"}
+}

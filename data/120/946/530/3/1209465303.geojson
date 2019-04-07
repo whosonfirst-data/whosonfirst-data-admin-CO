@@ -1,0 +1,68 @@
+{
+  "id": 1209465303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18993,3.29345,-76.18993,3.29345",
+    "geom:latitude":3.29345,
+    "geom:longitude":-76.18993,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76275.0",
+    "gn:asciiname":"El Libano",
+    "gn:country_code":"CO",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676605,
+    "gn:latitude":3.29345,
+    "gn:longitude":-76.18993,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El L\u00edbano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "L\u00edbano"
+    ],
+    "name:und_x_variant":[
+        "El L\u00edbano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676605
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a10cd3ae51f6c3b462e42f93c77903d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209465303
+        }
+    ],
+    "wof:id":1209465303,
+    "wof:lastmodified":1537618482,
+    "wof:name":"El Libano",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18993,
+    3.29345,
+    -76.18993,
+    3.29345
+],
+  "geometry": {"coordinates":[-76.18993,3.29345],"type":"Point"}
+}

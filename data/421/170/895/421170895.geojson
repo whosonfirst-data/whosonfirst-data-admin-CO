@@ -1,0 +1,139 @@
+{
+  "id": 421170895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.77189,1.83861,-76.77189,1.83861",
+    "geom:latitude":1.83861,
+    "geom:longitude":-76.77189,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89"
+    ],
+    "name:dut_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "San Sebastian"
+    ],
+    "name:fra_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e1\u10d4\u10d1\u10d0\u10e1\u10e2\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e1\u10d4\u10d1\u10d0\u10e1\u10e2\u10d8\u10d0\u10dc\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "San Sebastian"
+    ],
+    "name:msa_x_preferred":[
+        "San Sebastian"
+    ],
+    "name:nan_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:tgl_x_preferred":[
+        "San Sebastian"
+    ],
+    "name:war_x_preferred":[
+        "San Sebastian"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3668990,
+    "qs:gn_pop":931,
+    "qs:name":"San Sebasti\u00e1n",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":269795,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":366100,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668990,
+        "gp:id":366100,
+        "qs:id":269795,
+        "wd:id":"Q2434304",
+        "wk:page":"San Sebasti\u00e1n, Cauca"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008872,
+    "wof:geomhash":"e56fe537cd07dbb632e998078e8de76b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700499,
+            "locality_id":421170895,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421170895,
+    "wof:lastmodified":1527716460,
+    "wof:name":"San Sebasti\u00e1n",
+    "wof:parent_id":1108700499,
+    "wof:placetype":"locality",
+    "wof:population":931,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.77189,
+    1.83861,
+    -76.77189,
+    1.83861
+],
+  "geometry": {"coordinates":[-76.77189,1.83861],"type":"Point"}
+}

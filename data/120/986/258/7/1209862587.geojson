@@ -1,0 +1,73 @@
+{
+  "id": 1209862587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.26667,3.31667,-76.26667,3.31667",
+    "geom:latitude":3.31667,
+    "geom:longitude":-76.26667,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76275.0",
+    "gn:asciiname":"Canas Abajo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687681,
+    "gn:latitude":3.31667,
+    "gn:longitude":-76.26667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1as Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Ca\u00f1as",
+        "Ca\u00f1as Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687681
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bdf724f48e86ec0ee3bf447a647abfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188707,
+            "locality_id":1209862587,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1209862587,
+    "wof:lastmodified":1537618634,
+    "wof:name":"Canas Abajo",
+    "wof:parent_id":421188707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.26666999999998,
+    3.31667,
+    -76.26666999999998,
+    3.31667
+],
+  "geometry": {"coordinates":[-76.26666999999998,3.31667],"type":"Point"}
+}

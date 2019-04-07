@@ -1,0 +1,68 @@
+{
+  "id": 1360211029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.61556,3.76444,-69.61556,3.76444",
+    "geom:latitude":3.76444,
+    "geom:longitude":-69.61556,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Mision Santa Terisita",
+    "gn:country_code":"CO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794064,
+    "gn:latitude":3.76444,
+    "gn:longitude":-69.61556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Misi\u00f3n Santa Terisita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794064
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cfae1ca68ca050c1ed395519e9c22ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1360211029,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1360211029,
+    "wof:lastmodified":1536764447,
+    "wof:name":"Mision Santa Terisita",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.61556,
+    3.76444,
+    -69.61556,
+    3.76444
+],
+  "geometry": {"coordinates":[-69.61556,3.76444],"type":"Point"}
+}

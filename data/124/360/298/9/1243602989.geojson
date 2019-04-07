@@ -1,0 +1,68 @@
+{
+  "id": 1243602989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54458,5.0091,-72.54458,5.0091",
+    "geom:latitude":5.0091,
+    "geom:longitude":-72.54458,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85010.0",
+    "gn:asciiname":"Cachipay",
+    "gn:country_code":"CO",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688113,
+    "gn:latitude":5.0091,
+    "gn:longitude":-72.54458,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Cachipay",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421184337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688113
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3138315c188c30eee8eb387862a0b6a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184337,
+            "locality_id":1243602989,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1243602989,
+    "wof:lastmodified":1537073927,
+    "wof:name":"Cachipay",
+    "wof:parent_id":421184337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54458000000002,
+    5.0091,
+    -72.54458000000002,
+    5.0091
+],
+  "geometry": {"coordinates":[-72.54458000000002,5.0091],"type":"Point"}
+}

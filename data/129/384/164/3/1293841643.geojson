@@ -1,0 +1,68 @@
+{
+  "id": 1293841643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87484,5.25703,-75.87484,5.25703",
+    "geom:latitude":5.25703,
+    "geom:longitude":-75.87484,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"66088.0",
+    "gn:asciiname":"Penas Blancas",
+    "gn:country_code":"CO",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781367,
+    "gn:latitude":5.25703,
+    "gn:longitude":-75.87484,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pe\u00f1as Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        1108701169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781367
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8c47adea704b371edb2a7f734ece2acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701169,
+            "locality_id":1293841643,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1293841643,
+    "wof:lastmodified":1536774428,
+    "wof:name":"Penas Blancas",
+    "wof:parent_id":1108701169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87484,
+    5.25703,
+    -75.87484,
+    5.25703
+],
+  "geometry": {"coordinates":[-75.87484000000001,5.25703],"type":"Point"}
+}

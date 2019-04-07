@@ -1,0 +1,71 @@
+{
+  "id": 1226131933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23981,3.09417,-76.23981,3.09417",
+    "geom:latitude":3.09417,
+    "geom:longitude":-76.23981,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19212.0",
+    "gn:asciiname":"Vereda La Estrella",
+    "gn:country_code":"CO",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8622736,
+    "gn:latitude":3.09417,
+    "gn:longitude":-76.23981,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda La Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda La Estrella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622736
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4dea2dd51cbc23a26638c6dd63b665ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700453,
+            "locality_id":1226131933,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1226131933,
+    "wof:lastmodified":1537618804,
+    "wof:name":"Vereda La Estrella",
+    "wof:parent_id":1108700453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23980999999998,
+    3.09417,
+    -76.23980999999998,
+    3.09417
+],
+  "geometry": {"coordinates":[-76.23980999999998,3.09417],"type":"Point"}
+}

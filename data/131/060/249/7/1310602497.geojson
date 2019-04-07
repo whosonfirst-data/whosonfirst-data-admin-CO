@@ -1,0 +1,71 @@
+{
+  "id": 1310602497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.98812,6.72241,-70.98812,6.72241",
+    "geom:latitude":6.72241,
+    "geom:longitude":-70.98812,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"La Dalia",
+    "gn:country_code":"CO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679310,
+    "gn:latitude":6.72241,
+    "gn:longitude":-70.98812,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Dalia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Dalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679310
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2ee82793a1bb3d4d17a34458b319ed83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1310602497,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1310602497,
+    "wof:lastmodified":1537618528,
+    "wof:name":"La Dalia",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.98812,
+    6.72241,
+    -70.98812,
+    6.72241
+],
+  "geometry": {"coordinates":[-70.98812,6.72241],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1326680313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.42657,3.34952,-76.42657,3.34952",
+    "geom:latitude":3.34952,
+    "geom:longitude":-76.42657,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76130.0",
+    "gn:asciiname":"El Tiple",
+    "gn:country_code":"CO",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682891,
+    "gn:latitude":3.34952,
+    "gn:longitude":-76.42657,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Tiple",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiple",
+        "El Tiple"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421181791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682891
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7b80b14e7e48d030ba452be9548a1d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181791,
+            "locality_id":1326680313,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1326680313,
+    "wof:lastmodified":1537618566,
+    "wof:name":"El Tiple",
+    "wof:parent_id":421181791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.42657,
+    3.34952,
+    -76.42657,
+    3.34952
+],
+  "geometry": {"coordinates":[-76.42657,3.34952],"type":"Point"}
+}

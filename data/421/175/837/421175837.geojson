@@ -1,0 +1,79 @@
+{
+  "id": 421175837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35257,4.6151,-74.35257,4.6151",
+    "geom:latitude":4.6151,
+    "geom:longitude":-74.35257,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "San Antonio"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3670058,
+    "qs:gn_pop":0,
+    "qs:name":"San Antonio de Tena",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":557,
+    "qs:photos_1k":113,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":557,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1033459,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365237,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421187901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670058,
+        "gp:id":365237,
+        "qs:id":1033459
+    },
+    "wof:country":"CO",
+    "wof:created":1459009081,
+    "wof:geomhash":"249df0185349ea4188b4c8cee6b2356c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187901,
+            "locality_id":421175837,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421175837,
+    "wof:lastmodified":1501268445,
+    "wof:name":"San Antonio de Tena",
+    "wof:parent_id":421187901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35257,
+    4.6151,
+    -74.35257,
+    4.6151
+],
+  "geometry": {"coordinates":[-74.35257,4.6151],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277028085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93333,5.05,-73.93333,5.05",
+    "geom:latitude":5.05,
+    "geom:longitude":-73.93333,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25200.0",
+    "gn:asciiname":"Aguas Claras",
+    "gn:country_code":"CO",
+    "gn:dem":2567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690363,
+    "gn:latitude":5.05,
+    "gn:longitude":-73.93333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguas Claras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421172419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690363
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b88747d32af11202bc868f1bd5556fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172419,
+            "locality_id":1277028085,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1277028085,
+    "wof:lastmodified":1536841434,
+    "wof:name":"Aguas Claras",
+    "wof:parent_id":421172419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93333,
+    5.05,
+    -73.93333,
+    5.05
+],
+  "geometry": {"coordinates":[-73.93333,5.05],"type":"Point"}
+}

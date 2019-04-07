@@ -1,0 +1,65 @@
+{
+  "id": 1209373235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93116,1.01693,-75.93116,1.01693",
+    "geom:latitude":1.01693,
+    "geom:longitude":-75.93116,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86571.0",
+    "gn:asciiname":"Puerto Playa",
+    "gn:country_code":"CO",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7542155,
+    "gn:latitude":1.01693,
+    "gn:longitude":-75.93116,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Playa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Playa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7542155
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58088d65afbebd8924a3be6909d242a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209373235
+        }
+    ],
+    "wof:id":1209373235,
+    "wof:lastmodified":1537618740,
+    "wof:name":"Puerto Playa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93115999999998,
+    1.01693,
+    -75.93115999999998,
+    1.01693
+],
+  "geometry": {"coordinates":[-75.93115999999998,1.01693],"type":"Point"}
+}

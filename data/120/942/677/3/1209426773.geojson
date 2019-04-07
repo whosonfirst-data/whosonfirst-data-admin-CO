@@ -1,0 +1,62 @@
+{
+  "id": 1209426773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.96667,6.75,-75.96667,6.75",
+    "geom:latitude":6.75,
+    "geom:longitude":-75.96667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5113.0",
+    "gn:asciiname":"Mesas",
+    "gn:country_code":"CO",
+    "gn:dem":2541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674827,
+    "gn:latitude":6.75,
+    "gn:longitude":-75.96667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mesas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674827
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"536cf0b7a9f11d23c594ec55a9238f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209426773
+        }
+    ],
+    "wof:id":1209426773,
+    "wof:lastmodified":1536287358,
+    "wof:name":"Mesas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.96667,
+    6.75,
+    -75.96667,
+    6.75
+],
+  "geometry": {"coordinates":[-75.96666999999999,6.75],"type":"Point"}
+}

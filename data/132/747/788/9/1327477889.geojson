@@ -1,0 +1,68 @@
+{
+  "id": 1327477889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,5.77194,-74.1,5.77194",
+    "geom:latitude":5.77194,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15507.0",
+    "gn:asciiname":"Cayo Canueche",
+    "gn:country_code":"CO",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3774617,
+    "gn:latitude":5.77194,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cayo Canueche",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774617
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"63f5cdcbb54fa52df4fcd7389220fd60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700283,
+            "locality_id":1327477889,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1327477889,
+    "wof:lastmodified":1536612600,
+    "wof:name":"Cayo Canueche",
+    "wof:parent_id":1108700283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    5.77194,
+    -74.1,
+    5.77194
+],
+  "geometry": {"coordinates":[-74.09999999999999,5.77194],"type":"Point"}
+}

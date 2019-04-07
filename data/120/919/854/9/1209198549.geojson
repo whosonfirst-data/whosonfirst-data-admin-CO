@@ -1,0 +1,66 @@
+{
+  "id": 1209198549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.85214,2.48172,-76.85214,2.48172",
+    "geom:latitude":2.48172,
+    "geom:longitude":-76.85214,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19256.0",
+    "gn:asciiname":"Las Botas",
+    "gn:country_code":"CO",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677726,
+    "gn:latitude":2.48172,
+    "gn:longitude":-76.85214,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Botas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Botas",
+        "Las Botas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677726
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dcc93773a3d46052addc8dc99d772781",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209198549
+        }
+    ],
+    "wof:id":1209198549,
+    "wof:lastmodified":1537618502,
+    "wof:name":"Las Botas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.85214,
+    2.48172,
+    -76.85214,
+    2.48172
+],
+  "geometry": {"coordinates":[-76.85214000000001,2.48172],"type":"Point"}
+}

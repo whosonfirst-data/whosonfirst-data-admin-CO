@@ -1,0 +1,68 @@
+{
+  "id": 1327215211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78808,2.07253,-75.78808,2.07253",
+    "geom:latitude":2.07253,
+    "geom:longitude":-75.78808,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41026.0",
+    "gn:asciiname":"Corinto",
+    "gn:country_code":"CO",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792506,
+    "gn:latitude":2.07253,
+    "gn:longitude":-75.78808,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Corinto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792506
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c9dc095df2304b33032bf51e3c6ddcda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700803,
+            "locality_id":1327215211,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327215211,
+    "wof:lastmodified":1536993644,
+    "wof:name":"Corinto",
+    "wof:parent_id":1108700803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78808000000002,
+    2.07253,
+    -75.78808000000002,
+    2.07253
+],
+  "geometry": {"coordinates":[-75.78808000000002,2.07253],"type":"Point"}
+}

@@ -1,0 +1,224 @@
+{
+  "id": 421202909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69958,3.69637,-73.69958,3.69637",
+    "geom:latitude":3.69637,
+    "geom:longitude":-73.69958,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u99ac\u4e01"
+    ],
+    "name:dut_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:eng_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:fre_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10db\u10d0\u10e0\u10e2\u10d8\u10dc\u10d8"
+    ],
+    "name:hrv_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:ita_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:may_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:nan_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u062a\u06cc\u0646"
+    ],
+    "name:por_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:tgl_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:vie_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "name:war_x_preferred":[
+        "San Mart\u00edn"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Colombia",
+    "ne:ADM0_A3":"COL",
+    "ne:ADM1NAME":"Meta",
+    "ne:ADMIN1_COD":19,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3669332,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Martin",
+    "ne:GN_POP":16273,
+    "ne:GTOPO30":426.0,
+    "ne:ISO_A2":"CO",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":3.690407,
+    "ne:LONGITUDE":-73.689983,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Martin2",
+    "ne:MAX_AREAKM":6.0,
+    "ne:MAX_AREAMI":2.0,
+    "ne:MAX_BBXMAX":-73.683333,
+    "ne:MAX_BBXMIN":-73.708333,
+    "ne:MAX_BBYMAX":3.716667,
+    "ne:MAX_BBYMIN":3.683333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":13.0,
+    "ne:MAX_PERMI":8.0,
+    "ne:MAX_POP10":8335,
+    "ne:MAX_POP20":8335,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-73.695833,
+    "ne:MEAN_BBYC":3.700595,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":6.0,
+    "ne:MIN_AREAMI":2.0,
+    "ne:MIN_BBXMAX":-73.683333,
+    "ne:MIN_BBXMIN":-73.708333,
+    "ne:MIN_BBYMAX":3.716667,
+    "ne:MIN_BBYMIN":3.683333,
+    "ne:MIN_PERKM":13.0,
+    "ne:MIN_PERMI":8.0,
+    "ne:NAME":"San Martin",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Martin",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":16273,
+    "ne:POP_MIN":8335,
+    "ne:POP_OTHER":93819,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Colombia",
+    "ne:SOV_A3":"COL",
+    "ne:TIMEZONE":"America/Bogota",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669332,
+    "qs:gn_pop":16273,
+    "qs:name":"San Mart\u00edn",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Meta",
+    "qs:photos":145,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":145,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":228649,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368399,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669332,
+        "gp:id":368399,
+        "qs:id":228649,
+        "wd:id":"Q1441359"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010134,
+    "wof:geomhash":"6738731cbde8412432918447dc3446b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":421202909,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":421202909,
+    "wof:lastmodified":1513943535,
+    "wof:name":"San Mart\u00edn",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:population":16273,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69958,
+    3.69637,
+    -73.69958,
+    3.69637
+],
+  "geometry": {"coordinates":[-73.69958,3.69637],"type":"Point"}
+}

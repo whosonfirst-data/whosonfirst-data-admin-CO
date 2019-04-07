@@ -1,0 +1,77 @@
+{
+  "id": 421183671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10253,4.60228,-74.10253,4.60228",
+    "geom:latitude":4.60228,
+    "geom:longitude":-74.10253,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3678945,
+    "qs:gn_pop":0,
+    "qs:name":"La Frag\u00fcita",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:photos":55,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":55,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":982697,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":358920,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700089,
+        85670165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678945,
+        "gp:id":358920,
+        "qs:id":982697
+    },
+    "wof:country":"CO",
+    "wof:created":1459009378,
+    "wof:geomhash":"4e5f6615935586de943201b0eef7d6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":421183671,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":421183671,
+    "wof:lastmodified":1531858504,
+    "wof:name":"La Frag\u00fcita",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10253,
+    4.60228,
+    -74.10253,
+    4.60228
+],
+  "geometry": {"coordinates":[-74.10253,4.60228],"type":"Point"}
+}

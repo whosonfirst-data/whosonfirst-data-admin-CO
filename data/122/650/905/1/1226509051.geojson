@@ -1,0 +1,68 @@
+{
+  "id": 1226509051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6097,6.96584,-73.6097,6.96584",
+    "geom:latitude":6.96584,
+    "geom:longitude":-73.6097,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68689.0",
+    "gn:asciiname":"El Once",
+    "gn:country_code":"CO",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3830285,
+    "gn:latitude":6.96584,
+    "gn:longitude":-73.6097,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Once",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830285
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1cbd0e3c711567915406ce408c851a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701345,
+            "locality_id":1226509051,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1226509051,
+    "wof:lastmodified":1537048977,
+    "wof:name":"El Once",
+    "wof:parent_id":1108701345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6097,
+    6.96584,
+    -73.6097,
+    6.96584
+],
+  "geometry": {"coordinates":[-73.6097,6.96584],"type":"Point"}
+}

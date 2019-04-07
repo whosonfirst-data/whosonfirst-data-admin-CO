@@ -1,0 +1,71 @@
+{
+  "id": 1344126207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.11083,2.85283,-75.11083,2.85283",
+    "geom:latitude":2.85283,
+    "geom:longitude":-75.11083,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001",
+    "gn:asciiname":"Santa Helena",
+    "gn:country_code":"CO",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356898,
+    "gn:latitude":2.85283,
+    "gn:longitude":-75.11083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Helena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Helena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356898
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ff88455b8d2e683c86e9dc4b8b882aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1344126207,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1344126207,
+    "wof:lastmodified":1537618841,
+    "wof:name":"Santa Helena",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.11083,
+    2.85283,
+    -75.11083,
+    2.85283
+],
+  "geometry": {"coordinates":[-75.11083000000001,2.85283],"type":"Point"}
+}

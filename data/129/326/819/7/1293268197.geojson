@@ -1,0 +1,68 @@
+{
+  "id": 1293268197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25366,11.6702,-72.25366,11.6702",
+    "geom:latitude":11.6702,
+    "geom:longitude":-72.25366,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Rafael de la Calle",
+    "gn:country_code":"CO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671022,
+    "gn:latitude":11.6702,
+    "gn:longitude":-72.25366,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rafael de la Calle",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671022
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"57e2f21804ceb9d8d51d820f65af98a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1293268197,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293268197,
+    "wof:lastmodified":1536603140,
+    "wof:name":"Rafael de la Calle",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25366,
+    11.6702,
+    -72.25366,
+    11.6702
+],
+  "geometry": {"coordinates":[-72.25366,11.6702],"type":"Point"}
+}

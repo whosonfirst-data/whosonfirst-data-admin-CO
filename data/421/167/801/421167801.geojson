@@ -1,0 +1,131 @@
+{
+  "id": 421167801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99278,6.04167,-74.99278,6.04167",
+    "geom:latitude":6.04167,
+    "geom:longitude":-74.99278,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10da\u10e3\u10d8\u10e1\u10d8"
+    ],
+    "name:gla_x_preferred":[
+        "San Luis"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis"
+    ],
+    "name:may_x_preferred":[
+        "San Luis"
+    ],
+    "name:nan_x_preferred":[
+        "San Luis"
+    ],
+    "name:por_x_preferred":[
+        "San Luis"
+    ],
+    "name:rum_x_preferred":[
+        "San Luis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "name:tgl_x_preferred":[
+        "San Luis"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis"
+    ],
+    "name:war_x_preferred":[
+        "San Luis"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3770066,
+    "qs:gn_pop":6448,
+    "qs:name":"San Luis",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150306,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368396,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770066,
+        "gp:id":368396,
+        "qs:id":150306,
+        "wd:id":"Q2057762"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008744,
+    "wof:geomhash":"e40371114b8b69f2a459a4f1b8b75579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170573,
+            "locality_id":421167801,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421167801,
+    "wof:lastmodified":1553816355,
+    "wof:name":"San Luis",
+    "wof:parent_id":421170573,
+    "wof:placetype":"locality",
+    "wof:population":6448,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99278,
+    6.04167,
+    -74.99278,
+    6.04167
+],
+  "geometry": {"coordinates":[-74.99278,6.04167],"type":"Point"}
+}

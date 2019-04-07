@@ -1,0 +1,65 @@
+{
+  "id": 1209480461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37539,3.24712,-73.37539,3.24712",
+    "geom:latitude":3.24712,
+    "geom:longitude":-73.37539,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50577.0",
+    "gn:asciiname":"Puerto Guamo",
+    "gn:country_code":"CO",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8597355,
+    "gn:latitude":3.24712,
+    "gn:longitude":-73.37539,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Guamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8597355
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c5e7eaac704f34b7a350caae23a9874e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209480461
+        }
+    ],
+    "wof:id":1209480461,
+    "wof:lastmodified":1537618795,
+    "wof:name":"Puerto Guamo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37539,
+    3.24712,
+    -73.37539,
+    3.24712
+],
+  "geometry": {"coordinates":[-73.37539,3.24712],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310343927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.19638,9.36474,-74.19638,9.36474",
+    "geom:latitude":9.36474,
+    "geom:longitude":-74.19638,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47692.0",
+    "gn:asciiname":"Oriente",
+    "gn:country_code":"CO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673563,
+    "gn:latitude":9.36474,
+    "gn:longitude":-74.19638,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Oriente",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673563
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"333ef2c71f4a6837e23ae1a1aaf89eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":1310343927,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1310343927,
+    "wof:lastmodified":1536652405,
+    "wof:name":"Oriente",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.19638,
+    9.36474,
+    -74.19638,
+    9.36474
+],
+  "geometry": {"coordinates":[-74.19638,9.36474],"type":"Point"}
+}

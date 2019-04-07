@@ -1,0 +1,73 @@
+{
+  "id": 1243499047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91244,9.55533,-74.91244,9.55533",
+    "geom:latitude":9.55533,
+    "geom:longitude":-74.91244,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13212.0",
+    "gn:asciiname":"Covado",
+    "gn:country_code":"CO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685719,
+    "gn:latitude":9.55533,
+    "gn:longitude":-74.91244,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Covado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Covado",
+        "Cobado",
+        "Covado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685719
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"069627dc31d653812547a17b23f27e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700113,
+            "locality_id":1243499047,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1243499047,
+    "wof:lastmodified":1537618612,
+    "wof:name":"Covado",
+    "wof:parent_id":1108700113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91244,
+    9.55533,
+    -74.91244,
+    9.55533
+],
+  "geometry": {"coordinates":[-74.91244,9.55533],"type":"Point"}
+}

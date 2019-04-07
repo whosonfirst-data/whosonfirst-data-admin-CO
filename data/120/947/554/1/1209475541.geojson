@@ -1,0 +1,62 @@
+{
+  "id": 1209475541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.60417,3.9075,-76.60417,3.9075",
+    "geom:latitude":3.9075,
+    "geom:longitude":-76.60417,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76126.0",
+    "gn:asciiname":"Riobravo",
+    "gn:country_code":"CO",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670761,
+    "gn:latitude":3.9075,
+    "gn:longitude":-76.60417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"R\u00edobravo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670761
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7df8aa4538a797a2511a109b814a3065",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209475541
+        }
+    ],
+    "wof:id":1209475541,
+    "wof:lastmodified":1536285949,
+    "wof:name":"Riobravo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.60417,
+    3.9075,
+    -76.60417,
+    3.9075
+],
+  "geometry": {"coordinates":[-76.60417,3.9075],"type":"Point"}
+}

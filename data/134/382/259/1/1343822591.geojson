@@ -1,0 +1,68 @@
+{
+  "id": 1343822591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.48333,2.26667,-78.48333,2.26667",
+    "geom:latitude":2.26667,
+    "geom:longitude":-78.48333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52520.0",
+    "gn:asciiname":"Palizada",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673253,
+    "gn:latitude":2.26667,
+    "gn:longitude":-78.48333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palizada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673253
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"672f81a1df99e9dde8a301394b7f8a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701049,
+            "locality_id":1343822591,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343822591,
+    "wof:lastmodified":1536721774,
+    "wof:name":"Palizada",
+    "wof:parent_id":1108701049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.48333000000002,
+    2.26667,
+    -78.48333000000002,
+    2.26667
+],
+  "geometry": {"coordinates":[-78.48333000000002,2.26667],"type":"Point"}
+}

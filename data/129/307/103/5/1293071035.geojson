@@ -1,0 +1,68 @@
+{
+  "id": 1293071035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.36667,3.35,-68.36667,3.35",
+    "geom:latitude":3.35,
+    "geom:longitude":-68.36667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"San Anselmo",
+    "gn:country_code":"CO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670202,
+    "gn:latitude":3.35,
+    "gn:longitude":-68.36667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Anselmo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670202
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6fcf3d086fa9bf2c09f61b3a102c758d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701605,
+            "locality_id":1293071035,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1293071035,
+    "wof:lastmodified":1536890223,
+    "wof:name":"San Anselmo",
+    "wof:parent_id":1108701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.36667,
+    3.35,
+    -68.36667,
+    3.35
+],
+  "geometry": {"coordinates":[-68.36667,3.35],"type":"Point"}
+}

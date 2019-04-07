@@ -1,0 +1,68 @@
+{
+  "id": 1343706005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.22078,5.66236,-73.22078,5.66236",
+    "geom:latitude":5.66236,
+    "geom:longitude":-73.22078,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15837.0",
+    "gn:asciiname":"Los Azulejos",
+    "gn:country_code":"CO",
+    "gn:dem":2613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676315,
+    "gn:latitude":5.66236,
+    "gn:longitude":-73.22078,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Azulejos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421198179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676315
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d6d83dc97795436672d473a2ba220e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421198179,
+            "locality_id":1343706005,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1343706005,
+    "wof:lastmodified":1536889028,
+    "wof:name":"Los Azulejos",
+    "wof:parent_id":421198179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.22078,
+    5.66236,
+    -73.22078,
+    5.66236
+],
+  "geometry": {"coordinates":[-73.22078,5.66236],"type":"Point"}
+}

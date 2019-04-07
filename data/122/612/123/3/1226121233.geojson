@@ -1,0 +1,73 @@
+{
+  "id": 1226121233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86667,8.9,-73.86667,8.9",
+    "geom:latitude":8.9,
+    "geom:longitude":-73.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20787.0",
+    "gn:asciiname":"Montecaro",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674506,
+    "gn:latitude":8.9,
+    "gn:longitude":-73.86667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Montecaro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montecristo",
+        "Montecaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674506
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"14e1172b9afdf45e5574368e668de2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700563,
+            "locality_id":1226121233,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226121233,
+    "wof:lastmodified":1537618456,
+    "wof:name":"Montecaro",
+    "wof:parent_id":1108700563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86667,
+    8.9,
+    -73.86667,
+    8.9
+],
+  "geometry": {"coordinates":[-73.86667,8.9],"type":"Point"}
+}

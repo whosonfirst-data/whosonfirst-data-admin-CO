@@ -1,0 +1,75 @@
+{
+  "id": 1293526569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.49115,6.16653,-68.49115,6.16653",
+    "geom:latitude":6.16653,
+    "geom:longitude":-68.49115,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99001.0",
+    "gn:asciiname":"Inspeccion de Policia Puerto Murillo",
+    "gn:country_code":"CO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671392,
+    "gn:latitude":6.16653,
+    "gn:longitude":-68.49115,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Inspecci\u00f3n de Polic\u00eda Puerto Murillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Inspecci\u00f3n de Polic\u00eda Puerto Murillo"
+    ],
+    "name:und_x_variant":[
+        "Puerto Murillo",
+        "Murillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        421201569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671392
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a7e91f5b8ef631394b0a135dda5e08cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421201569,
+            "locality_id":1293526569,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1293526569,
+    "wof:lastmodified":1537618419,
+    "wof:name":"Inspeccion de Policia Puerto Murillo",
+    "wof:parent_id":421201569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.49115,
+    6.16653,
+    -68.49115,
+    6.16653
+],
+  "geometry": {"coordinates":[-68.49115,6.16653],"type":"Point"}
+}

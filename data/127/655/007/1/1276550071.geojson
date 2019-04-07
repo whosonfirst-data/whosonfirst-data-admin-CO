@@ -1,0 +1,68 @@
+{
+  "id": 1276550071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.725,7.255,-75.725,7.255",
+    "geom:latitude":7.255,
+    "geom:longitude":-75.725,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5361.0",
+    "gn:asciiname":"Zancudilo",
+    "gn:country_code":"CO",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731819,
+    "gn:latitude":7.255,
+    "gn:longitude":-75.725,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Zancudilo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731819
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e636f8622d834b02a97f174f6cad396d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699969,
+            "locality_id":1276550071,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1276550071,
+    "wof:lastmodified":1536984756,
+    "wof:name":"Zancudilo",
+    "wof:parent_id":1108699969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.725,
+    7.255,
+    -75.725,
+    7.255
+],
+  "geometry": {"coordinates":[-75.72499999999999,7.255],"type":"Point"}
+}

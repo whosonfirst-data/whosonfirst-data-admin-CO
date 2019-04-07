@@ -1,0 +1,142 @@
+{
+  "id": 421184775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.54704,6.01746,-73.54704,6.01746",
+    "geom:latitude":6.01746,
+    "geom:longitude":-73.54704,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u5e15\u96f7"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10de\u10d0\u10e0\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4-\u10d3\u10d4-\u10de\u10d0\u10e0\u10d4"
+    ],
+    "name:may_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:msa_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:por_x_preferred":[
+        "San Jose de Pare"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:tgl_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:unk_x_variant":[
+        "Pare"
+    ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9 de Pare"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669541,
+    "qs:gn_pop":941,
+    "qs:name":"San Jos\u00e9 de Pare",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1010006,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365654,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669541,
+        "gp:id":365654,
+        "qs:id":1010006,
+        "wd:id":"Q1576405",
+        "wk:page":"San Jos\u00e9 de Pare"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009422,
+    "wof:geomhash":"f2fdc714a99ea6c143ed9656cba18f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700311,
+            "locality_id":421184775,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421184775,
+    "wof:lastmodified":1527716455,
+    "wof:name":"San Jos\u00e9 de Pare",
+    "wof:parent_id":1108700311,
+    "wof:placetype":"locality",
+    "wof:population":941,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.54704,
+    6.01746,
+    -73.54704,
+    6.01746
+],
+  "geometry": {"coordinates":[-73.54704,6.01746],"type":"Point"}
+}

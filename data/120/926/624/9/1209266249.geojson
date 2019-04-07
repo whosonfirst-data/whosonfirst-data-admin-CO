@@ -1,0 +1,62 @@
+{
+  "id": 1209266249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,5.58722,-74.1,5.58722",
+    "geom:latitude":5.58722,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15480.0",
+    "gn:asciiname":"Niusa",
+    "gn:country_code":"CO",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775190,
+    "gn:latitude":5.58722,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Niusa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775190
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d4d8f5dd23724d3353ce91830ef0d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209266249
+        }
+    ],
+    "wof:id":1209266249,
+    "wof:lastmodified":1536292521,
+    "wof:name":"Niusa",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    5.5872199999999985,
+    -74.1,
+    5.5872199999999985
+],
+  "geometry": {"coordinates":[-74.09999999999999,5.58722],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 85764563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":9314987.180859,
+    "geom:bbox":"-74.793379,10.960484,-74.793379,10.960484",
+    "geom:latitude":10.960484,
+    "geom:longitude":-74.793379,
+    "gn:latitude":10.96667,
+    "gn:longitude":-74.8,
+    "iso:country":"CO",
+    "lbl:latitude":10.960484,
+    "lbl:longitude":-74.793379,
+    "mps:latitude":10.957759,
+    "mps:longitude":-74.795258,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:deu_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:fra_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:nld_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:spa_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "Buena Esperanza"
+    ],
+    "name:unk_x_variant":[
+        "Buena Esperanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u57c3\u7d0d\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3689147,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Buena Esperanza",
+    "qs:local_max":816,
+    "qs:local_sum":2548,
+    "qs:localhoods":9,
+    "qs:name":"Buena Esperanza",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:name_adm2":"Barranquilla",
+    "qs:name_local":"Barranquilla",
+    "qs:photo_max":324,
+    "qs:photo_sum":539,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":16,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345050,
+    "qs:woe_adm2":26796731,
+    "qs:woe_lau":0,
+    "qs:woe_local":368151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        85670207,
+        102191577,
+        85632519,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688456,
+        "gp:id":351713,
+        "qs:id":1082692
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"05adaec57953bc6962f7f048a6d40018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":-1,
+            "neighbourhood_id":85764563,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":85764563,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"Buena Esperanza",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126090443
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.793379,
+    10.960484,
+    -74.793379,
+    10.960484
+],
+  "geometry": {"coordinates":[-74.793379,10.960484],"type":"Point"}
+}

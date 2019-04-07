@@ -1,0 +1,68 @@
+{
+  "id": 1226033263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6677,10.00122,-73.6677,10.00122",
+    "geom:latitude":10.00122,
+    "geom:longitude":-73.6677,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"La Canada",
+    "gn:country_code":"CO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638428,
+    "gn:latitude":10.00122,
+    "gn:longitude":-73.6677,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638428
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad905454e25cdf0073c48fc3a7124a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1226033263,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226033263,
+    "wof:lastmodified":1536742920,
+    "wof:name":"La Canada",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6677,
+    10.00122,
+    -73.6677,
+    10.00122
+],
+  "geometry": {"coordinates":[-73.6677,10.00122],"type":"Point"}
+}

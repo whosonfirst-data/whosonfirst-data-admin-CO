@@ -1,0 +1,68 @@
+{
+  "id": 1360034159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70105,5.20349,-72.70105,5.20349",
+    "geom:latitude":5.20349,
+    "geom:longitude":-72.70105,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85010.0",
+    "gn:asciiname":"Paraiso",
+    "gn:country_code":"CO",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672923,
+    "gn:latitude":5.20349,
+    "gn:longitude":-72.70105,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421184337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672923
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1e93058853eb7352fb939c3f553d17bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184337,
+            "locality_id":1360034159,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1360034159,
+    "wof:lastmodified":1537018478,
+    "wof:name":"Paraiso",
+    "wof:parent_id":421184337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70105,
+    5.20349,
+    -72.70105,
+    5.20349
+],
+  "geometry": {"coordinates":[-72.70105,5.20349],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1309912963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.85688,6.52797,-70.85688,6.52797",
+    "geom:latitude":6.52797,
+    "geom:longitude":-70.85688,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"CO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684691,
+    "gn:latitude":6.52797,
+    "gn:longitude":-70.85688,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo El Carmen",
+        "El Carmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684691
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e0528e424e40646210794c3227912e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1309912963,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1309912963,
+    "wof:lastmodified":1537618600,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.85688,
+    6.52797,
+    -70.85688,
+    6.52797
+],
+  "geometry": {"coordinates":[-70.85688,6.52797],"type":"Point"}
+}

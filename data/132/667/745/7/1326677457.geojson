@@ -1,0 +1,72 @@
+{
+  "id": 1326677457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.65593,9.3762,-75.65593,9.3762",
+    "geom:latitude":9.3762,
+    "geom:longitude":-75.65593,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70221.0",
+    "gn:asciiname":"Torrente",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666855,
+    "gn:latitude":9.3762,
+    "gn:longitude":-75.65593,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Torrente",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Torrente",
+        "Torrente"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666855
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0bb56c0a946fb5eeb828a152723b5820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701385,
+            "locality_id":1326677457,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1326677457,
+    "wof:lastmodified":1537618370,
+    "wof:name":"Torrente",
+    "wof:parent_id":1108701385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.65593,
+    9.3762,
+    -75.65593,
+    9.3762
+],
+  "geometry": {"coordinates":[-75.65593,9.3762],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209045491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73162,5.44093,-75.73162,5.44093",
+    "geom:latitude":5.44093,
+    "geom:longitude":-75.73162,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17614.0",
+    "gn:asciiname":"Santa Ines",
+    "gn:country_code":"CO",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785184,
+    "gn:latitude":5.44093,
+    "gn:longitude":-75.73162,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa In\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785184
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f625c5318f6052f432761b42fc67a694",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209045491
+        }
+    ],
+    "wof:id":1209045491,
+    "wof:lastmodified":1536299413,
+    "wof:name":"Santa Ines",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73161999999998,
+    5.440930000000002,
+    -75.73161999999998,
+    5.440930000000002
+],
+  "geometry": {"coordinates":[-75.73161999999998,5.44093],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1309754991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7203,5.82012,-71.7203,5.82012",
+    "geom:latitude":5.82012,
+    "geom:longitude":-71.7203,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85250.0",
+    "gn:asciiname":"Las Gaviotas",
+    "gn:country_code":"CO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677487,
+    "gn:latitude":5.82012,
+    "gn:longitude":-71.7203,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Gaviotas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gaviotas"
+    ],
+    "name:und_x_variant":[
+        "Caser\u00edo las Gaviotas",
+        "Las Gaviotas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677487
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b8539c1a27afa19f2055adb67a41e868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701537,
+            "locality_id":1309754991,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1309754991,
+    "wof:lastmodified":1537618497,
+    "wof:name":"Las Gaviotas",
+    "wof:parent_id":1108701537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7203,
+    5.82012,
+    -71.7203,
+    5.82012
+],
+  "geometry": {"coordinates":[-71.72029999999999,5.82012],"type":"Point"}
+}

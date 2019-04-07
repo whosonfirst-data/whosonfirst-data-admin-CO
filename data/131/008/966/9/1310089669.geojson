@@ -1,0 +1,67 @@
+{
+  "id": 1310089669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.31085,2.19527,-77.31085,2.19527",
+    "geom:latitude":2.19527,
+    "geom:longitude":-77.31085,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cuchilla Paramillo La Belleza",
+    "gn:country_code":"CO",
+    "gn:dem":2926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7577334,
+    "gn:latitude":2.19527,
+    "gn:longitude":-77.31085,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Cuchilla Paramillo La Belleza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7577334
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5346c8f87ec46ef6418cde28bcb816f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700995,
+            "locality_id":1310089669,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1310089669,
+    "wof:lastmodified":1537018574,
+    "wof:name":"Cuchilla Paramillo La Belleza",
+    "wof:parent_id":1108700995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.31085,
+    2.19527,
+    -77.31085,
+    2.19527
+],
+  "geometry": {"coordinates":[-77.31085,2.19527],"type":"Point"}
+}

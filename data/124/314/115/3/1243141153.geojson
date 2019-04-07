@@ -1,0 +1,68 @@
+{
+  "id": 1243141153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4,7.4,-72.4,7.4",
+    "geom:latitude":7.4,
+    "geom:longitude":-72.4,
+    "gn:admin1_code":"21.0",
+    "gn:admin2_code":"54820.0",
+    "gn:asciiname":"Tama",
+    "gn:country_code":"CO",
+    "gn:dem":3175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667537,
+    "gn:latitude":7.4,
+    "gn:longitude":-72.4,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tama",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680465,
+        421190785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667537
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7f87eb1703e32ddf9df41ea7fe8c14ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421190785,
+            "locality_id":1243141153,
+            "region_id":85680465
+        }
+    ],
+    "wof:id":1243141153,
+    "wof:lastmodified":1536748696,
+    "wof:name":"Tama",
+    "wof:parent_id":421190785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4,
+    7.4,
+    -72.4,
+    7.4
+],
+  "geometry": {"coordinates":[-72.40000000000001,7.4],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209496543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.2247,1.92137,-76.2247,1.92137",
+    "geom:latitude":1.92137,
+    "geom:longitude":-76.2247,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41359.0",
+    "gn:asciiname":"Idolos",
+    "gn:country_code":"CO",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304996,
+    "gn:latitude":1.92137,
+    "gn:longitude":-76.2247,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"\u00cddolos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304996
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b58fafe0d52dee55653eb7a247ab24a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209496543
+        }
+    ],
+    "wof:id":1209496543,
+    "wof:lastmodified":1536285318,
+    "wof:name":"Idolos",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.2247,
+    1.92137,
+    -76.2247,
+    1.92137
+],
+  "geometry": {"coordinates":[-76.2247,1.92137],"type":"Point"}
+}

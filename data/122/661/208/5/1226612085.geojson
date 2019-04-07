@@ -1,0 +1,68 @@
+{
+  "id": 1226612085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86727,12.03249,-71.86727,12.03249",
+    "geom:latitude":12.03249,
+    "geom:longitude":-71.86727,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Atajapo",
+    "gn:country_code":"CO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689449,
+    "gn:latitude":12.03249,
+    "gn:longitude":-71.86727,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"At\u00e1japo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689449
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6a872134ab83d13c4033dde79f93d579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1226612085,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226612085,
+    "wof:lastmodified":1536907483,
+    "wof:name":"Atajapo",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86726999999998,
+    12.03249,
+    -71.86726999999998,
+    12.03249
+],
+  "geometry": {"coordinates":[-71.86726999999998,12.03249],"type":"Point"}
+}

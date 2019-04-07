@@ -1,0 +1,71 @@
+{
+  "id": 1343402377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58436,5.00212,-74.58436,5.00212",
+    "geom:latitude":5.00212,
+    "geom:longitude":-74.58436,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25320.0",
+    "gn:asciiname":"Balooncito",
+    "gn:country_code":"CO",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523731,
+    "gn:latitude":5.00212,
+    "gn:longitude":-74.58436,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Balooncito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Balooncito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523731
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"49c8e17f4bab023aaeab0b3955fd735e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188659,
+            "locality_id":1343402377,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343402377,
+    "wof:lastmodified":1537618716,
+    "wof:name":"Balooncito",
+    "wof:parent_id":421188659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58436,
+    5.00212,
+    -74.58436,
+    5.00212
+],
+  "geometry": {"coordinates":[-74.58436,5.00212],"type":"Point"}
+}

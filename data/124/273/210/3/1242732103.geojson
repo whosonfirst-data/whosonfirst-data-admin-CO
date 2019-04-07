@@ -1,0 +1,72 @@
+{
+  "id": 1242732103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30785,9.16668,-75.30785,9.16668",
+    "geom:latitude":9.16668,
+    "geom:longitude":-75.30785,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70670.0",
+    "gn:asciiname":"Palito",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673255,
+    "gn:latitude":9.16668,
+    "gn:longitude":-75.30785,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pallito",
+        "Palito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673255
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a6461793ea7d51bd246932fc61bc0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701409,
+            "locality_id":1242732103,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1242732103,
+    "wof:lastmodified":1537618444,
+    "wof:name":"Palito",
+    "wof:parent_id":1108701409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30785,
+    9.16668,
+    -75.30785,
+    9.16668
+],
+  "geometry": {"coordinates":[-75.30785,9.16668],"type":"Point"}
+}

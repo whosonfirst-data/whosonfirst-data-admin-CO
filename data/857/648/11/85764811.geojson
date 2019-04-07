@@ -1,0 +1,115 @@
+{
+  "id": 85764811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":1407681.103308,
+    "geom:bbox":"-75.506287,10.42569,-75.506287,10.42569",
+    "geom:latitude":10.42569,
+    "geom:longitude":-75.506287,
+    "gn:latitude":10.41667,
+    "gn:longitude":-75.51667,
+    "iso:country":"CO",
+    "lbl:latitude":10.42569,
+    "lbl:longitude":-75.506287,
+    "mps:latitude":10.426862,
+    "mps:longitude":-75.504069,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Tesca"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Tesca"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Tesca",
+        "Tesca"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3687238,
+    "qs:gn_nam_loc":"cartagena",
+    "qs:gn_namadm1":"35",
+    "qs:gn_name":"Tesca",
+    "qs:local_max":7512,
+    "qs:local_sum":20719,
+    "qs:localhoods":16,
+    "qs:name":"Tesca",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:name_adm2":"Cartagena",
+    "qs:name_local":"Cartagena",
+    "qs:photo_max":1,
+    "qs:photo_sum":1,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345051,
+    "qs:woe_adm2":26796755,
+    "qs:woe_lau":0,
+    "qs:woe_local":368153,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670209,
+        102191577,
+        85632519,
+        1108700093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667243,
+        "gp:id":367212,
+        "qs:id":299071
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aadc55a9617faf5cafc1cce7e2d497ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":85764811,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":85764811,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"Tesca",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126086625
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.506287,
+    10.42569,
+    -75.506287,
+    10.42569
+],
+  "geometry": {"coordinates":[-75.506287,10.42569],"type":"Point"}
+}

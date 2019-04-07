@@ -1,0 +1,68 @@
+{
+  "id": 1310117813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.79972,6.45056,-74.79972,6.45056",
+    "geom:latitude":6.45056,
+    "geom:longitude":-74.79972,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5142.0",
+    "gn:asciiname":"Las Margaritas",
+    "gn:country_code":"CO",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770235,
+    "gn:latitude":6.45056,
+    "gn:longitude":-74.79972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Margaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421191273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770235
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9e2a976a2c5d07c17b4033a130e1cc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421191273,
+            "locality_id":1310117813,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310117813,
+    "wof:lastmodified":1536978094,
+    "wof:name":"Las Margaritas",
+    "wof:parent_id":421191273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.79972,
+    6.45056,
+    -74.79972,
+    6.45056
+],
+  "geometry": {"coordinates":[-74.79971999999999,6.45056],"type":"Point"}
+}

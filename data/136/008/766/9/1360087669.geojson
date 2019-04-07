@@ -1,0 +1,63 @@
+{
+  "id": 1360087669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.82962,8.62982,-76.82962,8.62982",
+    "geom:latitude":8.62982,
+    "geom:longitude":-76.82962,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Cabana",
+    "gn:country_code":"CO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742151,
+    "gn:latitude":8.62982,
+    "gn:longitude":-76.82962,
+    "gn:modification_date":"2014-04-07",
+    "gn:name":"La Caba\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742151
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad75b51006eefefbb004657f8ef2ddaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1360087669,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360087669,
+    "wof:lastmodified":1536942486,
+    "wof:name":"La Cabana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.82961999999998,
+    8.62982,
+    -76.82961999999998,
+    8.62982
+],
+  "geometry": {"coordinates":[-76.82961999999998,8.62982],"type":"Point"}
+}

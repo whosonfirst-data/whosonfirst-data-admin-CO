@@ -1,0 +1,68 @@
+{
+  "id": 1226309653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95086,5.85977,-73.95086,5.85977",
+    "geom:latitude":5.85977,
+    "geom:longitude":-73.95086,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68377.0",
+    "gn:asciiname":"La Fionda",
+    "gn:country_code":"CO",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776667,
+    "gn:latitude":5.85977,
+    "gn:longitude":-73.95086,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Fionda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776667
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5542919136f85713b982a2eb87ec7e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701281,
+            "locality_id":1226309653,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1226309653,
+    "wof:lastmodified":1536840623,
+    "wof:name":"La Fionda",
+    "wof:parent_id":1108701281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95085999999998,
+    5.85977,
+    -73.95085999999998,
+    5.85977
+],
+  "geometry": {"coordinates":[-73.95085999999998,5.85977],"type":"Point"}
+}

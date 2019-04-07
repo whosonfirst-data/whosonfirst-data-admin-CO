@@ -1,0 +1,79 @@
+{
+  "id": 421176791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11712,11.14165,-74.11712,11.14165",
+    "geom:latitude":11.14165,
+    "geom:longitude":-74.11712,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caser\u00edo Minca"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3674768,
+    "qs:gn_pop":0,
+    "qs:name":"Minca",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:photos":642,
+    "qs:photos_1k":130,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":642,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082714,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":362466,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674768,
+        "gp:id":362466,
+        "qs:id":1082714
+    },
+    "wof:country":"CO",
+    "wof:created":1459009119,
+    "wof:geomhash":"5f151fc6b2af66fa8b9ecc6b71c3704c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700871,
+            "locality_id":421176791,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":421176791,
+    "wof:lastmodified":1501268454,
+    "wof:name":"Minca",
+    "wof:parent_id":1108700871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11712,
+    11.14165,
+    -74.11712,
+    11.14165
+],
+  "geometry": {"coordinates":[-74.11712,11.14165],"type":"Point"}
+}

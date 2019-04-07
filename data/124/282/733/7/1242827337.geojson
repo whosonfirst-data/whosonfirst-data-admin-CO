@@ -1,0 +1,68 @@
+{
+  "id": 1242827337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2511,10.34598,-75.2511,10.34598",
+    "geom:latitude":10.34598,
+    "geom:longitude":-75.2511,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13647.0",
+    "gn:asciiname":"El Contento",
+    "gn:country_code":"CO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684457,
+    "gn:latitude":10.34598,
+    "gn:longitude":-75.2511,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Contento",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684457
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dc616980dec77d996d2904b9aabfde5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700149,
+            "locality_id":1242827337,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1242827337,
+    "wof:lastmodified":1536704377,
+    "wof:name":"El Contento",
+    "wof:parent_id":1108700149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2511,
+    10.34598,
+    -75.2511,
+    10.34598
+],
+  "geometry": {"coordinates":[-75.25109999999999,10.34598],"type":"Point"}
+}

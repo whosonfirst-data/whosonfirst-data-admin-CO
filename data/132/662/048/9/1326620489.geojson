@@ -1,0 +1,72 @@
+{
+  "id": 1326620489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.78816,2.36698,-74.78816,2.36698",
+    "geom:latitude":2.36698,
+    "geom:longitude":-74.78816,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"18753.0",
+    "gn:asciiname":"Inspeccion de Policia Gibraltar",
+    "gn:country_code":"CO",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731670,
+    "gn:latitude":2.36698,
+    "gn:longitude":-74.78816,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Inspecci\u00f3n de Polic\u00eda Gibraltar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gibraltar",
+        "Inspecci\u00f3n de Polic\u00eda Gibraltar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731670
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9fbb2591e78c4ef122177dd659070cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700423,
+            "locality_id":1326620489,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1326620489,
+    "wof:lastmodified":1537618667,
+    "wof:name":"Inspeccion de Policia Gibraltar",
+    "wof:parent_id":1108700423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.78815999999998,
+    2.36698,
+    -74.78815999999998,
+    2.36698
+],
+  "geometry": {"coordinates":[-74.78815999999998,2.36698],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327345521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50241,6.47108,-75.50241,6.47108",
+    "geom:latitude":6.47108,
+    "geom:longitude":-75.50241,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5664.0",
+    "gn:asciiname":"La Tolda",
+    "gn:country_code":"CO",
+    "gn:dem":2352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8313511,
+    "gn:latitude":6.47108,
+    "gn:longitude":-75.50241,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Tolda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Tolda"
+    ],
+    "name:spa_x_variant":[
+        "Finca La Tolda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8313511
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a571e14edc657c8a383c32b1a8c6a581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170577,
+            "locality_id":1327345521,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327345521,
+    "wof:lastmodified":1537618771,
+    "wof:name":"La Tolda",
+    "wof:parent_id":421170577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50241,
+    6.47108,
+    -75.50241,
+    6.47108
+],
+  "geometry": {"coordinates":[-75.50241,6.47108],"type":"Point"}
+}

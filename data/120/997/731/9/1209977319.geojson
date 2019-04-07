@@ -1,0 +1,72 @@
+{
+  "id": 1209977319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.37779,3.20399,-77.37779,3.20399",
+    "geom:latitude":3.20399,
+    "geom:longitude":-77.37779,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76109.0",
+    "gn:asciiname":"El Pastico",
+    "gn:country_code":"CO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683534,
+    "gn:latitude":3.20399,
+    "gn:longitude":-77.37779,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Pastico",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Patico",
+        "El Pastico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421190219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683534
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"68ed78ac95c44e8e0e7a372435ac875c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190219,
+            "locality_id":1209977319,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1209977319,
+    "wof:lastmodified":1537618578,
+    "wof:name":"El Pastico",
+    "wof:parent_id":421190219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.37779,
+    3.20399,
+    -77.37779,
+    3.20399
+],
+  "geometry": {"coordinates":[-77.37779,3.20399],"type":"Point"}
+}

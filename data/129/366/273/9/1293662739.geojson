@@ -1,0 +1,68 @@
+{
+  "id": 1293662739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.76146,2.32898,-72.76146,2.32898",
+    "geom:latitude":2.32898,
+    "geom:longitude":-72.76146,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"95025.0",
+    "gn:asciiname":"Cerritos",
+    "gn:country_code":"CO",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830406,
+    "gn:latitude":2.32898,
+    "gn:longitude":-72.76146,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        1108701627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830406
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f8ffe2444a2aaf55cbbd65f6d08a8590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701627,
+            "locality_id":1293662739,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1293662739,
+    "wof:lastmodified":1537030411,
+    "wof:name":"Cerritos",
+    "wof:parent_id":1108701627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.76146,
+    2.32898,
+    -72.76146,
+    2.32898
+],
+  "geometry": {"coordinates":[-72.76146,2.32898],"type":"Point"}
+}

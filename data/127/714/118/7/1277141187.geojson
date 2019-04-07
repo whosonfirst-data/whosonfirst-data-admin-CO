@@ -1,0 +1,68 @@
+{
+  "id": 1277141187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.17833,8.37444,-73.17833,8.37444",
+    "geom:latitude":8.37444,
+    "geom:longitude":-73.17833,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54344.0",
+    "gn:asciiname":"Martinez",
+    "gn:country_code":"CO",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738462,
+    "gn:latitude":8.37444,
+    "gn:longitude":-73.17833,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mart\u00ednez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738462
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0d838b85bf95d8b1f2310aca6e52c2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701119,
+            "locality_id":1277141187,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1277141187,
+    "wof:lastmodified":1536683446,
+    "wof:name":"Martinez",
+    "wof:parent_id":1108701119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17833,
+    8.37444,
+    -73.17833,
+    8.37444
+],
+  "geometry": {"coordinates":[-73.17833,8.37444],"type":"Point"}
+}

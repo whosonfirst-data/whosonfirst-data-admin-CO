@@ -1,0 +1,73 @@
+{
+  "id": 1242934669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.35,9.83333,-75.35,9.83333",
+    "geom:latitude":9.83333,
+    "geom:longitude":-75.35,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70713.0",
+    "gn:asciiname":"Galilea",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682219,
+    "gn:latitude":9.83333,
+    "gn:longitude":-75.35,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Galilea",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Galilea",
+        "Galilea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421170641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682219
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"df58e8e4c12a5cc0196212488622b00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170641,
+            "locality_id":1242934669,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1242934669,
+    "wof:lastmodified":1537618558,
+    "wof:name":"Galilea",
+    "wof:parent_id":421170641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.35,
+    9.83333,
+    -75.35,
+    9.83333
+],
+  "geometry": {"coordinates":[-75.34999999999999,9.83333],"type":"Point"}
+}

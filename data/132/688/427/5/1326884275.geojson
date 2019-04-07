@@ -1,0 +1,67 @@
+{
+  "id": 1326884275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12861,4.45472,-75.12861,4.45472",
+    "geom:latitude":4.45472,
+    "geom:longitude":-75.12861,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Calubaima",
+    "gn:country_code":"CO",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734653,
+    "gn:latitude":4.45472,
+    "gn:longitude":-75.12861,
+    "gn:modification_date":"1994-05-24",
+    "gn:name":"Calubaima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421190207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734653
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f721e8dade7bed56e82cf56c492c7344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190207,
+            "locality_id":1326884275,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1326884275,
+    "wof:lastmodified":1536973549,
+    "wof:name":"Calubaima",
+    "wof:parent_id":421190207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12861,
+    4.45472,
+    -75.12861,
+    4.45472
+],
+  "geometry": {"coordinates":[-75.12860999999999,4.45472],"type":"Point"}
+}

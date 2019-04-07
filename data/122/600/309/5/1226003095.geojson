@@ -1,0 +1,71 @@
+{
+  "id": 1226003095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63931,1.19618,-76.63931,1.19618",
+    "geom:latitude":1.19618,
+    "geom:longitude":-76.63931,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86001.0",
+    "gn:asciiname":"Nueva Esperanza",
+    "gn:country_code":"CO",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544519,
+    "gn:latitude":1.19618,
+    "gn:longitude":-76.63931,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nueva Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Nueva Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        421170259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544519
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8714cd0671b95ec2e8f8abe7cfd5ca6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170259,
+            "locality_id":1226003095,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1226003095,
+    "wof:lastmodified":1537618742,
+    "wof:name":"Nueva Esperanza",
+    "wof:parent_id":421170259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63931,
+    1.19618,
+    -76.63931,
+    1.19618
+],
+  "geometry": {"coordinates":[-76.63930999999999,1.19618],"type":"Point"}
+}

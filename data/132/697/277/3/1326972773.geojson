@@ -1,0 +1,68 @@
+{
+  "id": 1326972773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.41405,9.52396,-74.41405,9.52396",
+    "geom:latitude":9.52396,
+    "geom:longitude":-74.41405,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47707.0",
+    "gn:asciiname":"Acordeon",
+    "gn:country_code":"CO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690539,
+    "gn:latitude":9.52396,
+    "gn:longitude":-74.41405,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Acorde\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690539
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"44d4724bb9d3b5933c88bd52bcedb46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700911,
+            "locality_id":1326972773,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1326972773,
+    "wof:lastmodified":1536845415,
+    "wof:name":"Acordeon",
+    "wof:parent_id":1108700911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.41405,
+    9.52396,
+    -74.41405,
+    9.52396
+],
+  "geometry": {"coordinates":[-74.41405,9.52396],"type":"Point"}
+}

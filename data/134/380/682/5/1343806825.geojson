@@ -1,0 +1,68 @@
+{
+  "id": 1343806825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,5.71667,-72.1,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85263.0",
+    "gn:asciiname":"Tablon Alto",
+    "gn:country_code":"CO",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667619,
+    "gn:latitude":5.71667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tabl\u00f3n Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667619
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d1b1f5259a0e9baae66ef82369a48e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701539,
+            "locality_id":1343806825,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1343806825,
+    "wof:lastmodified":1536743872,
+    "wof:name":"Tablon Alto",
+    "wof:parent_id":1108701539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    5.71667,
+    -72.1,
+    5.71667
+],
+  "geometry": {"coordinates":[-72.09999999999999,5.71667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309715819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.55361,-0.71028,-72.55361,-0.71028",
+    "geom:latitude":-0.71028,
+    "geom:longitude":-72.55361,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91669.0",
+    "gn:asciiname":"San Isidro Monochoa",
+    "gn:country_code":"CO",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830767,
+    "gn:latitude":-0.71028,
+    "gn:longitude":-72.55361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Isidro Monochoa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830767
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"20e8c87192dcab76f691670e6abd139b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701599,
+            "locality_id":1309715819,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1309715819,
+    "wof:lastmodified":1537058259,
+    "wof:name":"San Isidro Monochoa",
+    "wof:parent_id":1108701599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55360999999998,
+    -0.71028,
+    -72.55360999999998,
+    -0.71028
+],
+  "geometry": {"coordinates":[-72.55360999999998,-0.71028],"type":"Point"}
+}

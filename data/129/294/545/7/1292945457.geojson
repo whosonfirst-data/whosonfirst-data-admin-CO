@@ -1,0 +1,72 @@
+{
+  "id": 1292945457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58932,8.06577,-74.58932,8.06577",
+    "geom:latitude":8.06577,
+    "geom:longitude":-74.58932,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13458.0",
+    "gn:asciiname":"Villa Uribe",
+    "gn:country_code":"CO",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665902,
+    "gn:latitude":8.06577,
+    "gn:longitude":-74.58932,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Uribe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Villa Uribe",
+        "Villa Uribe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665902
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"100a588132d3401135bff6c5904fef6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700133,
+            "locality_id":1292945457,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1292945457,
+    "wof:lastmodified":1537618360,
+    "wof:name":"Villa Uribe",
+    "wof:parent_id":1108700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58932,
+    8.06577,
+    -74.58932,
+    8.06577
+],
+  "geometry": {"coordinates":[-74.58932,8.06577],"type":"Point"}
+}

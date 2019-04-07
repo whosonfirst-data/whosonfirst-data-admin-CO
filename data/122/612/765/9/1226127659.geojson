@@ -1,0 +1,71 @@
+{
+  "id": 1226127659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58786,1.53934,-75.58786,1.53934",
+    "geom:latitude":1.53934,
+    "geom:longitude":-75.58786,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"San Juan",
+    "gn:country_code":"CO",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184227,
+    "gn:latitude":1.53934,
+    "gn:longitude":-75.58786,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184227
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c9234aef1e882142523b91ba8acb37c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1226127659,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1226127659,
+    "wof:lastmodified":1537618761,
+    "wof:name":"San Juan",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58785999999998,
+    1.53934,
+    -75.58785999999998,
+    1.53934
+],
+  "geometry": {"coordinates":[-75.58785999999998,1.53934],"type":"Point"}
+}

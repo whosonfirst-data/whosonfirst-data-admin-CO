@@ -1,0 +1,68 @@
+{
+  "id": 1309694695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-67.46861,2.60167,-67.46861,2.60167",
+    "geom:latitude":2.60167,
+    "geom:longitude":-67.46861,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"94884.0",
+    "gn:asciiname":"Danaco",
+    "gn:country_code":"CO",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685281,
+    "gn:latitude":2.60167,
+    "gn:longitude":-67.46861,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"D\u00e1naco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685281
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a95d2a02be6283197ce0310700d3648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701613,
+            "locality_id":1309694695,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1309694695,
+    "wof:lastmodified":1537088142,
+    "wof:name":"Danaco",
+    "wof:parent_id":1108701613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.46861,
+    2.60167,
+    -67.46861,
+    2.60167
+],
+  "geometry": {"coordinates":[-67.46861,2.60167],"type":"Point"}
+}

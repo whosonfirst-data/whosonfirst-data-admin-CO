@@ -1,0 +1,68 @@
+{
+  "id": 1276419245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.79978,9.90275,-73.79978,9.90275",
+    "geom:latitude":9.90275,
+    "geom:longitude":-73.79978,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20060.0",
+    "gn:asciiname":"La Luna",
+    "gn:country_code":"CO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678526,
+    "gn:latitude":9.90275,
+    "gn:longitude":-73.79978,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Luna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678526
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aec534c167dbc6ae5aa5e6f324e34a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188173,
+            "locality_id":1276419245,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276419245,
+    "wof:lastmodified":1536663604,
+    "wof:name":"La Luna",
+    "wof:parent_id":421188173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.79978,
+    9.90275,
+    -73.79978,
+    9.90275
+],
+  "geometry": {"coordinates":[-73.79978,9.90275],"type":"Point"}
+}

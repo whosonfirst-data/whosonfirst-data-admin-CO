@@ -1,0 +1,72 @@
+{
+  "id": 1226737147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.67139,6.94778,-77.67139,6.94778",
+    "geom:latitude":6.94778,
+    "geom:longitude":-77.67139,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27372.0",
+    "gn:asciiname":"Coredo",
+    "gn:country_code":"CO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685875,
+    "gn:latitude":6.94778,
+    "gn:longitude":-77.67139,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cored\u00f3",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cured\u00f3",
+        "Cored\u00f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685875
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"388fd74bade89d7cf1085206030f2d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700769,
+            "locality_id":1226737147,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1226737147,
+    "wof:lastmodified":1537618615,
+    "wof:name":"Coredo",
+    "wof:parent_id":1108700769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.67139,
+    6.94778,
+    -77.67139,
+    6.94778
+],
+  "geometry": {"coordinates":[-77.67139,6.94778],"type":"Point"}
+}

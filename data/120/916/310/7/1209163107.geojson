@@ -1,0 +1,65 @@
+{
+  "id": 1209163107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.58456,5.08839,-74.58456,5.08839",
+    "geom:latitude":5.08839,
+    "geom:longitude":-74.58456,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25320.0",
+    "gn:asciiname":"El Otono Lithia",
+    "gn:country_code":"CO",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523690,
+    "gn:latitude":5.08839,
+    "gn:longitude":-74.58456,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Otono Lithia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Otono Lithia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523690
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e5e3a4a7413984a9cc49418a2b650c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209163107
+        }
+    ],
+    "wof:id":1209163107,
+    "wof:lastmodified":1537618716,
+    "wof:name":"El Otono Lithia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.58456,
+    5.08839,
+    -74.58456,
+    5.08839
+],
+  "geometry": {"coordinates":[-74.58456,5.08839],"type":"Point"}
+}

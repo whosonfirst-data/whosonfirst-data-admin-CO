@@ -1,0 +1,68 @@
+{
+  "id": 1327303243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.7852,2.3702,-75.7852,2.3702",
+    "geom:latitude":2.3702,
+    "geom:longitude":-75.7852,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41518.0",
+    "gn:asciiname":"Celicondor",
+    "gn:country_code":"CO",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792488,
+    "gn:latitude":2.3702,
+    "gn:longitude":-75.7852,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Celic\u00f3ndor",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792488
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"703dca2e25b458536c3ff6b7c7a0862c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700831,
+            "locality_id":1327303243,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327303243,
+    "wof:lastmodified":1536866126,
+    "wof:name":"Celicondor",
+    "wof:parent_id":1108700831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7852,
+    2.3702,
+    -75.7852,
+    2.3702
+],
+  "geometry": {"coordinates":[-75.7852,2.3702],"type":"Point"}
+}

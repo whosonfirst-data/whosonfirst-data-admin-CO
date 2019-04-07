@@ -1,0 +1,74 @@
+{
+  "id": 1259837723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66056,4.5675,-75.66056,4.5675",
+    "geom:latitude":4.5675,
+    "geom:longitude":-75.66056,
+    "gn:admin1_code":"23",
+    "gn:admin2_code":"63190.0",
+    "gn:asciiname":"Hojas Anchas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680849,
+    "gn:latitude":4.5675,
+    "gn:longitude":-75.66056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hojas Anchas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naranjal",
+        "El Naranjal",
+        "Hojas Anchas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670169,
+        421202353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680849
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b504606b96d225426e0ce49088df252e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202353,
+            "locality_id":1259837723,
+            "region_id":85670169
+        }
+    ],
+    "wof:id":1259837723,
+    "wof:lastmodified":1537618546,
+    "wof:name":"Hojas Anchas",
+    "wof:parent_id":421202353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66056,
+    4.5675,
+    -75.66056,
+    4.5675
+],
+  "geometry": {"coordinates":[-75.66056,4.5675],"type":"Point"}
+}

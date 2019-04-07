@@ -1,0 +1,71 @@
+{
+  "id": 1343401201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.19049,6.65339,-72.19049,6.65339",
+    "geom:latitude":6.65339,
+    "geom:longitude":-72.19049,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15332.0",
+    "gn:asciiname":"La Quinta",
+    "gn:country_code":"CO",
+    "gn:dem":2527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10257546,
+    "gn:latitude":6.65339,
+    "gn:longitude":-72.19049,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Quinta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Quinta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421170587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10257546
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"20b9ad597f72a940ad521da647467d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170587,
+            "locality_id":1343401201,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1343401201,
+    "wof:lastmodified":1537618815,
+    "wof:name":"La Quinta",
+    "wof:parent_id":421170587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.19049,
+    6.65339,
+    -72.19049,
+    6.65339
+],
+  "geometry": {"coordinates":[-72.19049,6.65339],"type":"Point"}
+}

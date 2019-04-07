@@ -1,0 +1,74 @@
+{
+  "id": 1226230563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58722,9.45611,-73.58722,9.45611",
+    "geom:latitude":9.45611,
+    "geom:longitude":-73.58722,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20178.0",
+    "gn:asciiname":"Aguafria",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690412,
+    "gn:latitude":9.45611,
+    "gn:longitude":-73.58722,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguafr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Aguafria",
+        "Aguas Frias",
+        "Aguafr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690412
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"46315c2ebcac4ae47632f564b82232a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700533,
+            "locality_id":1226230563,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226230563,
+    "wof:lastmodified":1537618665,
+    "wof:name":"Aguafria",
+    "wof:parent_id":1108700533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58722,
+    9.45611,
+    -73.58722,
+    9.45611
+],
+  "geometry": {"coordinates":[-73.58722,9.45611],"type":"Point"}
+}

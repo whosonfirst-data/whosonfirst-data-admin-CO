@@ -1,0 +1,68 @@
+{
+  "id": 1226383131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28306,10.31611,-75.28306,10.31611",
+    "geom:latitude":10.31611,
+    "geom:longitude":-75.28306,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"Balsamo",
+    "gn:country_code":"CO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830867,
+    "gn:latitude":10.31611,
+    "gn:longitude":-75.28306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"B\u00e1lsamo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830867
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e3b37a62693c0c1c353115c815cf2948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184103,
+            "locality_id":1226383131,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226383131,
+    "wof:lastmodified":1536735744,
+    "wof:name":"Balsamo",
+    "wof:parent_id":421184103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28305999999998,
+    10.31611,
+    -75.28305999999998,
+    10.31611
+],
+  "geometry": {"coordinates":[-75.28305999999998,10.31611],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226699003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.74386,4.33509,-72.74386,4.33509",
+    "geom:latitude":4.33509,
+    "geom:longitude":-72.74386,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85440.0",
+    "gn:asciiname":"Santa Elena de Upia",
+    "gn:country_code":"CO",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668771,
+    "gn:latitude":4.33509,
+    "gn:longitude":-72.74386,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Elena de Upia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Helene de Upia",
+        "Santa Helena de Upia",
+        "Santa Helena",
+        "Santa Elena de Upia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668771
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"130c9e26bd39895b881f50a5442d62d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701557,
+            "locality_id":1226699003,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1226699003,
+    "wof:lastmodified":1537618390,
+    "wof:name":"Santa Elena de Upia",
+    "wof:parent_id":1108701557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.74386,
+    4.33509,
+    -72.74386,
+    4.33509
+],
+  "geometry": {"coordinates":[-72.74386,4.33509],"type":"Point"}
+}

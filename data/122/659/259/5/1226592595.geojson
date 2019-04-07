@@ -1,0 +1,68 @@
+{
+  "id": 1226592595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46281,4.65424,-74.46281,4.65424",
+    "geom:latitude":4.65424,
+    "geom:longitude":-74.46281,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25386.0",
+    "gn:asciiname":"San Javier",
+    "gn:country_code":"CO",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669725,
+    "gn:latitude":4.65424,
+    "gn:longitude":-74.46281,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Javier",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669725
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4b93643cccd86de26a80af3be33f6bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700669,
+            "locality_id":1226592595,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226592595,
+    "wof:lastmodified":1536934040,
+    "wof:name":"San Javier",
+    "wof:parent_id":1108700669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46281,
+    4.65424,
+    -74.46281,
+    4.65424
+],
+  "geometry": {"coordinates":[-74.46281,4.65424],"type":"Point"}
+}

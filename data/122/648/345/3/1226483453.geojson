@@ -1,0 +1,68 @@
+{
+  "id": 1226483453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65,5.71667,-74.65,5.71667",
+    "geom:latitude":5.71667,
+    "geom:longitude":-74.65,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25572.0",
+    "gn:asciiname":"La Fe",
+    "gn:country_code":"CO",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679046,
+    "gn:latitude":5.71667,
+    "gn:longitude":-74.65,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421203437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679046
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f0d6dcd2bedb84a00d03c659fc18546a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203437,
+            "locality_id":1226483453,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1226483453,
+    "wof:lastmodified":1537084555,
+    "wof:name":"La Fe",
+    "wof:parent_id":421203437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65,
+    5.71667,
+    -74.65,
+    5.71667
+],
+  "geometry": {"coordinates":[-74.65000000000001,5.71667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343866611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.50708,6.30539,-75.50708,6.30539",
+    "geom:latitude":6.30539,
+    "geom:longitude":-75.50708,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5212.0",
+    "gn:asciiname":"Guarani",
+    "gn:country_code":"CO",
+    "gn:dem":2247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8264142,
+    "gn:latitude":6.30539,
+    "gn:longitude":-75.50708,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guarani",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Guarani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8264142
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"054ace5ca17b51a2aa260ee38b4b8d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188617,
+            "locality_id":1343866611,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343866611,
+    "wof:lastmodified":1537618765,
+    "wof:name":"Guarani",
+    "wof:parent_id":421188617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50708,
+    6.30539,
+    -75.50708,
+    6.30539
+],
+  "geometry": {"coordinates":[-75.50708,6.30539],"type":"Point"}
+}

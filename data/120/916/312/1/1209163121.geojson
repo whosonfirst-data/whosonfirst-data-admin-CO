@@ -1,0 +1,62 @@
+{
+  "id": 1209163121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.44244,4.4826,-73.44244,4.4826",
+    "geom:latitude":4.4826,
+    "geom:longitude":-73.44244,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25438.0",
+    "gn:asciiname":"El Meson",
+    "gn:country_code":"CO",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683822,
+    "gn:latitude":4.4826,
+    "gn:longitude":-73.44244,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Meson",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"27a517d9b0d0ba8db20f6fcef7dcdff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209163121
+        }
+    ],
+    "wof:id":1209163121,
+    "wof:lastmodified":1536295836,
+    "wof:name":"El Meson",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.44244,
+    4.4826,
+    -73.44244,
+    4.4826
+],
+  "geometry": {"coordinates":[-73.44244,4.4826],"type":"Point"}
+}

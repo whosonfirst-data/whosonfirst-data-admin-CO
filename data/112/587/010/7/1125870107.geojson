@@ -1,0 +1,124 @@
+{
+  "id": 1125870107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0325,10.39278,-73.0325,10.39278",
+    "geom:latitude":10.39278,
+    "geom:longitude":-73.0325,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7953,
+    "gn:population":7953,
+    "iso:country":"CO",
+    "lbl:latitude":10.39278,
+    "lbl:longitude":-73.0325,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u99ac\u7459\u96f7"
+    ],
+    "name:dut_x_preferred":[
+        "Manaure"
+    ],
+    "name:eng_x_preferred":[
+        "Manaure"
+    ],
+    "name:fre_x_preferred":[
+        "Manaure Balc\u00f3n del Cesar"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d0\u10e3\u10e0\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "Manaure Balc\u00f3n del Cesar"
+    ],
+    "name:may_x_preferred":[
+        "Manaure"
+    ],
+    "name:nan_x_preferred":[
+        "Manaure"
+    ],
+    "name:por_x_preferred":[
+        "Manaure Balcon Cesar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0443\u0440\u0435-\u0411\u0430\u043b\u044c\u043a\u043e\u043d-\u0434\u0435\u043b\u044c-\u0421\u0435\u0441\u0430\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Manaure Balc\u00f3n del Cesar"
+    ],
+    "name:swe_x_preferred":[
+        "Manaure Balc\u00f3n del Cesar"
+    ],
+    "name:tgl_x_preferred":[
+        "Manaure"
+    ],
+    "name:vie_x_preferred":[
+        "Manaure"
+    ],
+    "name:war_x_preferred":[
+        "Manaure"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3792384,
+    "qs_pg:gn_pop":7953,
+    "qs_pg:name":"Manaure Balc\u00f3n del Cesar",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":96579,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792384,
+        "qs_pg:id":96579,
+        "wd:id":"Q936283"
+    },
+    "wof:country":"CO",
+    "wof:created":1497294244,
+    "wof:geomhash":"ec4289d130fbf564abf0ae903830156e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700547,
+            "locality_id":1125870107,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1125870107,
+    "wof:lastmodified":1553816587,
+    "wof:name":"Manaure Balc\u00f3n del Cesar",
+    "wof:parent_id":1108700547,
+    "wof:placetype":"locality",
+    "wof:population":7953,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0325,
+    10.39278,
+    -73.0325,
+    10.39278
+],
+  "geometry": {"coordinates":[-73.0325,10.39278],"type":"Point"}
+}

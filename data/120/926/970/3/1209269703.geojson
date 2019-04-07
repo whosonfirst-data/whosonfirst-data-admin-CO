@@ -1,0 +1,66 @@
+{
+  "id": 1209269703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-81.7,12.56667,-81.7,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":-81.7,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"La Loma",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678552,
+    "gn:latitude":12.56667,
+    "gn:longitude":-81.7,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "The Hill",
+        "La Loma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678552
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ed495f70c7540df9cba53e98fc3d402f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209269703
+        }
+    ],
+    "wof:id":1209269703,
+    "wof:lastmodified":1537618515,
+    "wof:name":"La Loma",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -81.7,
+    12.56667,
+    -81.7,
+    12.56667
+],
+  "geometry": {"coordinates":[-81.7,12.56667],"type":"Point"}
+}

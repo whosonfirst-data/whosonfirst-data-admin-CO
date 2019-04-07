@@ -1,0 +1,62 @@
+{
+  "id": 1209368761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88085,4.28477,-74.88085,4.28477",
+    "geom:latitude":4.28477,
+    "geom:longitude":-74.88085,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25307.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"CO",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669434,
+    "gn:latitude":4.28477,
+    "gn:longitude":-74.88085,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669434
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f11772c01da3421118973203aaf5de56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209368761
+        }
+    ],
+    "wof:id":1209368761,
+    "wof:lastmodified":1536289179,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88085,
+    4.28477,
+    -74.88085,
+    4.28477
+],
+  "geometry": {"coordinates":[-74.88085,4.28477],"type":"Point"}
+}

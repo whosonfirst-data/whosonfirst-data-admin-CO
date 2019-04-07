@@ -1,0 +1,62 @@
+{
+  "id": 1209475545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.44667,3.66778,-76.44667,3.66778",
+    "geom:latitude":3.66778,
+    "geom:longitude":-76.44667,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76892.0",
+    "gn:asciiname":"La Clenaga",
+    "gn:country_code":"CO",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778826,
+    "gn:latitude":3.66778,
+    "gn:longitude":-76.44667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Clenaga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778826
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"601ca8cfc0400ea1348083a3da6ebbec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209475545
+        }
+    ],
+    "wof:id":1209475545,
+    "wof:lastmodified":1536285948,
+    "wof:name":"La Clenaga",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.44667,
+    3.667780000000001,
+    -76.44667,
+    3.667780000000001
+],
+  "geometry": {"coordinates":[-76.44667,3.66778],"type":"Point"}
+}

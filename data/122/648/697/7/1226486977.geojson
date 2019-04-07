@@ -1,0 +1,71 @@
+{
+  "id": 1226486977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.39481,9.21822,-74.39481,9.21822",
+    "geom:latitude":9.21822,
+    "geom:longitude":-74.39481,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Troncoso",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666695,
+    "gn:latitude":9.21822,
+    "gn:longitude":-74.39481,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Troncoso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Troncoso",
+        "Troncoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666695
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"312896e4a6858587d0f8495722d93324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":1226486977,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226486977,
+    "wof:lastmodified":1537618368,
+    "wof:name":"Troncoso",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.39480999999998,
+    9.21822,
+    -74.39480999999998,
+    9.21822
+],
+  "geometry": {"coordinates":[-74.39480999999998,9.21822],"type":"Point"}
+}

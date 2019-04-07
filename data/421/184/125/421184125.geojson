@@ -1,0 +1,107 @@
+{
+  "id": 421184125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.83333,5.58333,-73.83333,5.58333",
+    "geom:latitude":5.58333,
+    "geom:longitude":-73.83333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Simijaca"
+    ],
+    "name:fra_x_preferred":[
+        "Simijaca"
+    ],
+    "name:ita_x_preferred":[
+        "Simijaca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10db\u10d8\u10ee\u10d0\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Simijac\u00e1"
+    ],
+    "name:nld_x_preferred":[
+        "Simijaca"
+    ],
+    "name:sco_x_preferred":[
+        "Simijac\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Simijaca"
+    ],
+    "name:swe_x_preferred":[
+        "Simijaca"
+    ],
+    "name:tgl_x_preferred":[
+        "Simijac\u00e1"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3668018,
+    "qs:gn_pop":0,
+    "qs:name":"Simijaca",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":989513,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797131,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":120,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668018,
+        "gp:id":26797131,
+        "qs:id":989513,
+        "wd:id":"Q1576943",
+        "wk:page":"Simijac\u00e1"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009401,
+    "wof:geomhash":"90d74e663308b0635de9ed1dd7913441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184125,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421184125,
+    "wof:lastmodified":1527716456,
+    "wof:name":"Simijaca",
+    "wof:parent_id":85670133,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83333,
+    5.58333,
+    -73.83333,
+    5.58333
+],
+  "geometry": {"coordinates":[-73.83333,5.58333],"type":"Point"}
+}

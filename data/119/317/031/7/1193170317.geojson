@@ -1,0 +1,68 @@
+{
+  "id": 1193170317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88917,4.445,-70.88917,4.445",
+    "geom:latitude":4.445,
+    "geom:longitude":-70.88917,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Tinajas",
+    "gn:country_code":"CO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829504,
+    "gn:latitude":4.445,
+    "gn:longitude":-70.88917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tinajas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829504
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9c13974321c1b618c47b54912bd72408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1193170317,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1193170317,
+    "wof:lastmodified":1536381216,
+    "wof:name":"Tinajas",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88917,
+    4.445,
+    -70.88917,
+    4.445
+],
+  "geometry": {"coordinates":[-70.88916999999999,4.445],"type":"Point"}
+}

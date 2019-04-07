@@ -1,0 +1,62 @@
+{
+  "id": 1209076149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.57528,2.40667,-68.57528,2.40667",
+    "geom:latitude":2.40667,
+    "geom:longitude":-68.57528,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"94884.0",
+    "gn:asciiname":"Manacacias",
+    "gn:country_code":"CO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3794814,
+    "gn:latitude":2.40667,
+    "gn:longitude":-68.57528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Manacac\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3794814
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fdadb0bd03b896865d5681f8c4e0701e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209076149
+        }
+    ],
+    "wof:id":1209076149,
+    "wof:lastmodified":1536298487,
+    "wof:name":"Manacacias",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.57528,
+    2.40667,
+    -68.57528,
+    2.40667
+],
+  "geometry": {"coordinates":[-68.57528000000001,2.40667],"type":"Point"}
+}

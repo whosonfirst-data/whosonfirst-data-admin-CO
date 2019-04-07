@@ -1,0 +1,68 @@
+{
+  "id": 1209718311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80387,5.6358,-75.80387,5.6358",
+    "geom:latitude":5.6358,
+    "geom:longitude":-75.80387,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5364.0",
+    "gn:asciiname":"Palestina",
+    "gn:country_code":"CO",
+    "gn:dem":2391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780476,
+    "gn:latitude":5.6358,
+    "gn:longitude":-75.80387,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palestina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421190191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780476
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f8c0d3a3498fcb0ce03fa51a710da5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190191,
+            "locality_id":1209718311,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1209718311,
+    "wof:lastmodified":1536387542,
+    "wof:name":"Palestina",
+    "wof:parent_id":421190191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80386999999997,
+    5.6358,
+    -75.80386999999997,
+    5.6358
+],
+  "geometry": {"coordinates":[-75.80386999999997,5.6358],"type":"Point"}
+}

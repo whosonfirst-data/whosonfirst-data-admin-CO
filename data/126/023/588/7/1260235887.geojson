@@ -1,0 +1,67 @@
+{
+  "id": 1260235887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.36667,6.63333,-74.36667,6.63333",
+    "geom:latitude":6.63333,
+    "geom:longitude":-74.36667,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Masagu",
+    "gn:country_code":"CO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675187,
+    "gn:latitude":6.63333,
+    "gn:longitude":-74.36667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Masag\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675187
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"169ebed7128588c4c0a22d50cfe1d1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700047,
+            "locality_id":1260235887,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1260235887,
+    "wof:lastmodified":1536777141,
+    "wof:name":"Masagu",
+    "wof:parent_id":1108700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.36667,
+    6.63333,
+    -74.36667,
+    6.63333
+],
+  "geometry": {"coordinates":[-74.36667,6.63333],"type":"Point"}
+}

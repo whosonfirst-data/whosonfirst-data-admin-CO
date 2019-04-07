@@ -1,0 +1,68 @@
+{
+  "id": 1310010839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.86667,10.85,-74.86667,10.85",
+    "geom:latitude":10.85,
+    "geom:longitude":-74.86667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8433.0",
+    "gn:asciiname":"La Cuchilla",
+    "gn:country_code":"CO",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679338,
+    "gn:latitude":10.85,
+    "gn:longitude":-74.86667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cuchilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679338
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"528bc08aa3ac002ed259a5f87b3323f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700061,
+            "locality_id":1310010839,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1310010839,
+    "wof:lastmodified":1536634257,
+    "wof:name":"La Cuchilla",
+    "wof:parent_id":1108700061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.86667,
+    10.85,
+    -74.86667,
+    10.85
+],
+  "geometry": {"coordinates":[-74.86667,10.85],"type":"Point"}
+}

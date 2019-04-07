@@ -1,0 +1,115 @@
+{
+  "id": 890438217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.36516,4.25875,-77.36516,4.25875",
+    "geom:latitude":4.25875,
+    "geom:longitude":-77.36516,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":1448,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ff1\u6d77\u8056\u80e1\u5b89"
+    ],
+    "name:dut_x_preferred":[
+        "Litoral de San Juan"
+    ],
+    "name:eng_x_preferred":[
+        "Litoral del San Juan"
+    ],
+    "name:fre_x_preferred":[
+        "Litoral del San Juan"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d8\u10e2\u10dd\u10e0\u10d0\u10da-\u10d3\u10d4\u10da-\u10e1\u10d0\u10dc\u10ee\u10e3\u10d0\u10dc\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "El Litoral del San Juan"
+    ],
+    "name:may_x_preferred":[
+        "Litoral del Sanju\u00e1n"
+    ],
+    "name:nan_x_preferred":[
+        "Litoral del San Juan"
+    ],
+    "name:por_x_preferred":[
+        "Litoral del Sanju\u00e1n"
+    ],
+    "name:sco_x_preferred":[
+        "Litoral del Sanju\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Litoral de San Juan"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Genoveva de Docorod\u00f3"
+    ],
+    "name:tgl_x_preferred":[
+        "Litoral del Sanju\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Litoral del San Juan"
+    ],
+    "name:vie_x_preferred":[
+        "El Litoral del San Juan"
+    ],
+    "name:war_x_preferred":[
+        "Litoral del Sanju\u00e1n"
+    ],
+    "qs:name":"Santa Genoveva de Docorod\u00f3",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792408,
+        "gp:id":56125903,
+        "qs:id":150325,
+        "wd:id":"Q931811"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052185,
+    "wof:geomhash":"a059a9d209b92db75a6b80cae9b16994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700765,
+            "locality_id":890438217,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":890438217,
+    "wof:lastmodified":1513943574,
+    "wof:name":"Santa Genoveva de Docorod\u00f3",
+    "wof:parent_id":1108700765,
+    "wof:placetype":"locality",
+    "wof:population":1448,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.36516,
+    4.25875,
+    -77.36516,
+    4.25875
+],
+  "geometry": {"coordinates":[-77.36516,4.25875],"type":"Point"}
+}

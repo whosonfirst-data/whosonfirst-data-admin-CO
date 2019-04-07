@@ -1,0 +1,62 @@
+{
+  "id": 1209491345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.55352,12.32192,-71.55352,12.32192",
+    "geom:latitude":12.32192,
+    "geom:longitude":-71.55352,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Mahu",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675663,
+    "gn:latitude":12.32192,
+    "gn:longitude":-71.55352,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mah\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675663
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"34895130a45f6a6772c6a94a80ff3213",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209491345
+        }
+    ],
+    "wof:id":1209491345,
+    "wof:lastmodified":1536285475,
+    "wof:name":"Mahu",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.55351999999998,
+    12.32192,
+    -71.55351999999998,
+    12.32192
+],
+  "geometry": {"coordinates":[-71.55351999999998,12.32192],"type":"Point"}
+}

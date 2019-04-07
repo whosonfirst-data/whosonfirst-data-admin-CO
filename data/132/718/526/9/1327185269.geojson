@@ -1,0 +1,68 @@
+{
+  "id": 1327185269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46944,3.71194,-75.46944,3.71194",
+    "geom:latitude":3.71194,
+    "geom:longitude":-75.46944,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73168.0",
+    "gn:asciiname":"Castanal",
+    "gn:country_code":"CO",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687093,
+    "gn:latitude":3.71194,
+    "gn:longitude":-75.46944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Castanal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421185185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687093
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9d1478f6ae595c7a3ad6eb2cc83d3dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185185,
+            "locality_id":1327185269,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1327185269,
+    "wof:lastmodified":1537036211,
+    "wof:name":"Castanal",
+    "wof:parent_id":421185185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46944,
+    3.71194,
+    -75.46944,
+    3.71194
+],
+  "geometry": {"coordinates":[-75.46944000000001,3.71194],"type":"Point"}
+}

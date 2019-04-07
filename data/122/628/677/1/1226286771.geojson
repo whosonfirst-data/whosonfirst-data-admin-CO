@@ -1,0 +1,68 @@
+{
+  "id": 1226286771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.42345,5.62492,-72.42345,5.62492",
+    "geom:latitude":5.62492,
+    "geom:longitude":-72.42345,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15533.0",
+    "gn:asciiname":"Municipio de Paya",
+    "gn:country_code":"CO",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6196066,
+    "gn:latitude":5.62492,
+    "gn:longitude":-72.42345,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Municipio de Pay\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6196066
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"515d5b2f2c2f3528479ca44f9b98659e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700295,
+            "locality_id":1226286771,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226286771,
+    "wof:lastmodified":1536873590,
+    "wof:name":"Municipio de Paya",
+    "wof:parent_id":1108700295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42345,
+    5.62492,
+    -72.42345,
+    5.62492
+],
+  "geometry": {"coordinates":[-72.42345,5.62492],"type":"Point"}
+}

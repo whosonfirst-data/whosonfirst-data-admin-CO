@@ -1,0 +1,72 @@
+{
+  "id": 1344038923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39646,2.74902,-75.39646,2.74902",
+    "geom:latitude":2.74902,
+    "geom:longitude":-75.39646,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41524.0",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"CO",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678676,
+    "gn:latitude":2.74902,
+    "gn:longitude":-75.39646,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Betania",
+        "La Jagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421170437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678676
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e3b5c225c7a278bb35120ffe1c4a0da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170437,
+            "locality_id":1344038923,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1344038923,
+    "wof:lastmodified":1537618517,
+    "wof:name":"La Jagua",
+    "wof:parent_id":421170437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39646,
+    2.74902,
+    -75.39646,
+    2.74902
+],
+  "geometry": {"coordinates":[-75.39646,2.74902],"type":"Point"}
+}

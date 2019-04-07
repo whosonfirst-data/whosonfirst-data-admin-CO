@@ -1,0 +1,73 @@
+{
+  "id": 1310266013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58556,3.75,-75.58556,3.75",
+    "geom:latitude":3.75,
+    "geom:longitude":-75.58556,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73168.0",
+    "gn:asciiname":"Loganilla",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678812,
+    "gn:latitude":3.75,
+    "gn:longitude":-75.58556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Loganilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lagunilla",
+        "Loganilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421185185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678812
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2ef82d43da643d4ad16e79ba2bff88b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185185,
+            "locality_id":1310266013,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310266013,
+    "wof:lastmodified":1537618519,
+    "wof:name":"Loganilla",
+    "wof:parent_id":421185185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58556,
+    3.75,
+    -75.58556,
+    3.75
+],
+  "geometry": {"coordinates":[-75.58556,3.75],"type":"Point"}
+}

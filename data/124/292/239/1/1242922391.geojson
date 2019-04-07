@@ -1,0 +1,72 @@
+{
+  "id": 1242922391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.3654,5.50416,-71.3654,5.50416",
+    "geom:latitude":5.50416,
+    "geom:longitude":-71.3654,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85250.0",
+    "gn:asciiname":"Las Guamas",
+    "gn:country_code":"CO",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677473,
+    "gn:latitude":5.50416,
+    "gn:longitude":-71.3654,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Guamas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato las Guamas",
+        "Las Guamas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677473
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f0a2e8321bf6d1e4dd5953e894387ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701537,
+            "locality_id":1242922391,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1242922391,
+    "wof:lastmodified":1537618497,
+    "wof:name":"Las Guamas",
+    "wof:parent_id":1108701537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.3654,
+    5.50416,
+    -71.3654,
+    5.50416
+],
+  "geometry": {"coordinates":[-71.36539999999999,5.50416],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293862445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.48333,10.73333,-73.48333,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-73.48333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Sogrome",
+    "gn:country_code":"CO",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667870,
+    "gn:latitude":10.73333,
+    "gn:longitude":-73.48333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sogrome",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667870
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ae771e68ce12b9c29be349c46c0ed8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1293862445,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293862445,
+    "wof:lastmodified":1536743430,
+    "wof:name":"Sogrome",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.48333000000002,
+    10.73333,
+    -73.48333000000002,
+    10.73333
+],
+  "geometry": {"coordinates":[-73.48333000000002,10.73333],"type":"Point"}
+}

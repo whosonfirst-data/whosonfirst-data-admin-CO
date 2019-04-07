@@ -1,0 +1,71 @@
+{
+  "id": 1293379345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.93411,1.97811,-76.93411,1.97811",
+    "geom:latitude":1.97811,
+    "geom:longitude":-76.93411,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19100.0",
+    "gn:asciiname":"Villa Nueva",
+    "gn:country_code":"CO",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7543377,
+    "gn:latitude":1.97811,
+    "gn:longitude":-76.93411,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543377
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0a5009802042e06fb05140201e251550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700441,
+            "locality_id":1293379345,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1293379345,
+    "wof:lastmodified":1537618740,
+    "wof:name":"Villa Nueva",
+    "wof:parent_id":1108700441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.93411,
+    1.97811,
+    -76.93411,
+    1.97811
+],
+  "geometry": {"coordinates":[-76.93411,1.97811],"type":"Point"}
+}

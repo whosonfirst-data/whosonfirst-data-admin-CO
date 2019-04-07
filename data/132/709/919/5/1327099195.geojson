@@ -1,0 +1,68 @@
+{
+  "id": 1327099195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.83362,1.45123,-78.83362,1.45123",
+    "geom:latitude":1.45123,
+    "geom:longitude":-78.83362,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52835.0",
+    "gn:asciiname":"Casas Viejas",
+    "gn:country_code":"CO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687167,
+    "gn:latitude":1.45123,
+    "gn:longitude":-78.83362,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casas Viejas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687167
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd711f6492338d6d750964a231fb8118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701083,
+            "locality_id":1327099195,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327099195,
+    "wof:lastmodified":1536664230,
+    "wof:name":"Casas Viejas",
+    "wof:parent_id":1108701083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.83362,
+    1.45123,
+    -78.83362,
+    1.45123
+],
+  "geometry": {"coordinates":[-78.83362,1.45123],"type":"Point"}
+}

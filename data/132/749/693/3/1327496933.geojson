@@ -1,0 +1,69 @@
+{
+  "id": 1327496933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.26667,12.33333,-71.26667,12.33333",
+    "geom:latitude":12.33333,
+    "geom:longitude":-71.26667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Paraquimana",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672886,
+    "gn:latitude":12.33333,
+    "gn:longitude":-71.26667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Paraquimana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janipa",
+        "Panaguimana",
+        "Paraquimana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672886
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d3013e934491177419adbeee5001b790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "locality_id":1327496933,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327496933,
+    "wof:lastmodified":1537618439,
+    "wof:name":"Paraquimana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.26666999999998,
+    12.33333,
+    -71.26666999999998,
+    12.33333
+],
+  "geometry": {"coordinates":[-71.26666999999998,12.33333],"type":"Point"}
+}

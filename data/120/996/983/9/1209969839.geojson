@@ -1,0 +1,67 @@
+{
+  "id": 1209969839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48333,10.03333,-75.48333,10.03333",
+    "geom:latitude":10.03333,
+    "geom:longitude":-75.48333,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Las Balsas",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677738,
+    "gn:latitude":10.03333,
+    "gn:longitude":-75.48333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Las Balsas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677738
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0f88f5328899880414709c977ae138db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700131,
+            "locality_id":1209969839,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1209969839,
+    "wof:lastmodified":1536395539,
+    "wof:name":"Las Balsas",
+    "wof:parent_id":1108700131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48333000000002,
+    10.03333,
+    -75.48333000000002,
+    10.03333
+],
+  "geometry": {"coordinates":[-75.48333000000002,10.03333],"type":"Point"}
+}

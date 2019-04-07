@@ -1,0 +1,68 @@
+{
+  "id": 1276912345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.67729,5.34927,-70.67729,5.34927",
+    "geom:latitude":5.34927,
+    "geom:longitude":-70.67729,
+    "gn:admin1_code":"31",
+    "gn:admin2_code":"99624.0",
+    "gn:asciiname":"Burrunay",
+    "gn:country_code":"CO",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688218,
+    "gn:latitude":5.34927,
+    "gn:longitude":-70.67729,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Burrunay",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688218
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3243b7d1109d16d63d60658df5e00ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701645,
+            "locality_id":1276912345,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1276912345,
+    "wof:lastmodified":1536996777,
+    "wof:name":"Burrunay",
+    "wof:parent_id":1108701645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.67729,
+    5.34927,
+    -70.67729,
+    5.34927
+],
+  "geometry": {"coordinates":[-70.67729,5.34927],"type":"Point"}
+}

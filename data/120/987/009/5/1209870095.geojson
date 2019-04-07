@@ -1,0 +1,71 @@
+{
+  "id": 1209870095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.62497,5.48053,-74.62497,5.48053",
+    "geom:latitude":5.48053,
+    "geom:longitude":-74.62497,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25572.0",
+    "gn:asciiname":"Yuma",
+    "gn:country_code":"CO",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523519,
+    "gn:latitude":5.48053,
+    "gn:longitude":-74.62497,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Yuma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523519
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"018d2f378f1517ea8bd153ab279d1204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700697,
+            "locality_id":1209870095,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1209870095,
+    "wof:lastmodified":1537618715,
+    "wof:name":"Yuma",
+    "wof:parent_id":1108700697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.62496999999998,
+    5.48053,
+    -74.62496999999998,
+    5.48053
+],
+  "geometry": {"coordinates":[-74.62496999999998,5.48053],"type":"Point"}
+}

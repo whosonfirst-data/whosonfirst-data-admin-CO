@@ -1,0 +1,71 @@
+{
+  "id": 1209920587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.29735,6.2884,-70.29735,6.2884",
+    "geom:latitude":6.2884,
+    "geom:longitude":-70.29735,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81220.0",
+    "gn:asciiname":"Managua",
+    "gn:country_code":"CO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675534,
+    "gn:latitude":6.2884,
+    "gn:longitude":-70.29735,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Managua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Managua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675534
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db24ee203f738b9d6734befac8cf6e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1209920587,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1209920587,
+    "wof:lastmodified":1537618465,
+    "wof:name":"Managua",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.29735,
+    6.2884,
+    -70.29735,
+    6.2884
+],
+  "geometry": {"coordinates":[-70.29734999999999,6.2884],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209659561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53451,6.59483,-72.53451,6.59483",
+    "geom:latitude":6.59483,
+    "geom:longitude":-72.53451,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Azucaral",
+    "gn:country_code":"CO",
+    "gn:dem":3321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262960,
+    "gn:latitude":6.59483,
+    "gn:longitude":-72.53451,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Azucaral",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Azucaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262960
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24719dbd8c70e54d292b34cf044a5022",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209659561
+        }
+    ],
+    "wof:id":1209659561,
+    "wof:lastmodified":1537618816,
+    "wof:name":"Azucaral",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53451,
+    6.59483,
+    -72.53451,
+    6.59483
+],
+  "geometry": {"coordinates":[-72.53451,6.59483],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327306129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14188,2.92063,-75.14188,2.92063",
+    "geom:latitude":2.92063,
+    "geom:longitude":-75.14188,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001",
+    "gn:asciiname":"Sector Hato Bermejo",
+    "gn:country_code":"CO",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10357018,
+    "gn:latitude":2.92063,
+    "gn:longitude":-75.14188,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sector Hato Bermejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sector Hato Bermejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10357018
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ed58efe1f6cecfc9b94c2dac17f5efc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1327306129,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327306129,
+    "wof:lastmodified":1537618841,
+    "wof:name":"Sector Hato Bermejo",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14188,
+    2.92063,
+    -75.14188,
+    2.92063
+],
+  "geometry": {"coordinates":[-75.14188,2.92063],"type":"Point"}
+}

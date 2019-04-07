@@ -1,0 +1,68 @@
+{
+  "id": 1326984087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97403,4.74322,-73.97403,4.74322",
+    "geom:latitude":4.74322,
+    "geom:longitude":-73.97403,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25377.0",
+    "gn:asciiname":"San Gabriel",
+    "gn:country_code":"CO",
+    "gn:dem":2835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782262,
+    "gn:latitude":4.74322,
+    "gn:longitude":-73.97403,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Gabriel",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421203817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782262
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cc9da5cc4b3bd1c3017ff0c43009da7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203817,
+            "locality_id":1326984087,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1326984087,
+    "wof:lastmodified":1536829305,
+    "wof:name":"San Gabriel",
+    "wof:parent_id":421203817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97403,
+    4.74322,
+    -73.97403,
+    4.74322
+],
+  "geometry": {"coordinates":[-73.97403,4.74322],"type":"Point"}
+}

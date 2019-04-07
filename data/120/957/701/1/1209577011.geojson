@@ -1,0 +1,62 @@
+{
+  "id": 1209577011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.55179,9.46763,-75.55179,9.46763",
+    "geom:latitude":9.46763,
+    "geom:longitude":-75.55179,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70820.0",
+    "gn:asciiname":"Villa Sol",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665904,
+    "gn:latitude":9.46763,
+    "gn:longitude":-75.55179,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Sol",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665904
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f5fd8cb36d364a50c4cdfab57c5c246f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209577011
+        }
+    ],
+    "wof:id":1209577011,
+    "wof:lastmodified":1536282905,
+    "wof:name":"Villa Sol",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55179,
+    9.46763,
+    -75.55179,
+    9.46763
+],
+  "geometry": {"coordinates":[-75.55179,9.46763],"type":"Point"}
+}

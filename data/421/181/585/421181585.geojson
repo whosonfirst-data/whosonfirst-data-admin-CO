@@ -1,0 +1,81 @@
+{
+  "id": 421181585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80371,9.10426,-75.80371,9.10426",
+    "geom:latitude":9.10426,
+    "geom:longitude":-75.80371,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Caser\u00edo Tierralta"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3667157,
+    "qs:gn_pop":0,
+    "qs:name":"Tierralta",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cordoba",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":495241,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":367280,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667157,
+        "gp:id":367280,
+        "qs:id":495241,
+        "wd:id":"Q2434756"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009301,
+    "wof:geomhash":"b3f1679d540d3955c0acb20a54f9f1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":421181585,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":421181585,
+    "wof:lastmodified":1527716333,
+    "wof:name":"Tierralta",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80371,
+    9.10426,
+    -75.80371,
+    9.10426
+],
+  "geometry": {"coordinates":[-75.80371,9.10426],"type":"Point"}
+}

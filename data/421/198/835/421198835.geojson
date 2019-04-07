@@ -1,0 +1,151 @@
+{
+  "id": 421198835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20737,8.4021,-73.20737,8.4021",
+    "geom:latitude":8.4021,
+    "geom:longitude":-73.20737,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Calixto"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u5229\u514b\u65af\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "San Calixto"
+    ],
+    "name:eng_x_preferred":[
+        "San Calixto"
+    ],
+    "name:epo_x_preferred":[
+        "San Calixto"
+    ],
+    "name:fra_x_preferred":[
+        "San Calixto"
+    ],
+    "name:fre_x_preferred":[
+        "San Calixto"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10da\u10d8\u10e5\u10e1\u10e2\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Calixto"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10da\u10d8\u10e5\u10e1\u10e2\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "San Calixto"
+    ],
+    "name:msa_x_preferred":[
+        "San Calixto"
+    ],
+    "name:nan_x_preferred":[
+        "San Calixto"
+    ],
+    "name:nld_x_preferred":[
+        "San Calixto"
+    ],
+    "name:por_x_preferred":[
+        "San Calixto"
+    ],
+    "name:sco_x_preferred":[
+        "San Calixto"
+    ],
+    "name:spa_x_preferred":[
+        "San Calixto"
+    ],
+    "name:swe_x_preferred":[
+        "San Calixto"
+    ],
+    "name:tgl_x_preferred":[
+        "San Calixto"
+    ],
+    "name:vie_x_preferred":[
+        "San Calixto"
+    ],
+    "name:war_x_preferred":[
+        "San Calixto"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Calixto"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u5229\u514b\u65af\u6258"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3670011,
+    "qs:gn_pop":2080,
+    "qs:name":"San Calixto",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Norte de Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1206494,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368389,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670011,
+        "gp:id":368389,
+        "qs:id":1206494,
+        "wd:id":"Q2348501",
+        "wk:page":"San Calixto"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009963,
+    "wof:geomhash":"69d30bafe1360eacc93fd6cd430ecdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701141,
+            "locality_id":421198835,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":421198835,
+    "wof:lastmodified":1527716351,
+    "wof:name":"San Calixto",
+    "wof:parent_id":1108701141,
+    "wof:placetype":"locality",
+    "wof:population":2080,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20737,
+    8.4021,
+    -73.20737,
+    8.4021
+],
+  "geometry": {"coordinates":[-73.20737,8.4021],"type":"Point"}
+}

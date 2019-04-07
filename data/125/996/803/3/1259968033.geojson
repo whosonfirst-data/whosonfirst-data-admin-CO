@@ -1,0 +1,68 @@
+{
+  "id": 1259968033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.01667,10.02337,-74.01667,10.02337",
+    "geom:latitude":10.02337,
+    "geom:longitude":-74.01667,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20060.0",
+    "gn:asciiname":"Cuatro Bocas",
+    "gn:country_code":"CO",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685603,
+    "gn:latitude":10.02337,
+    "gn:longitude":-74.01667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cuatro Bocas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685603
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"42c4b0b0ff4c839603e970d1e8d15753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188173,
+            "locality_id":1259968033,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1259968033,
+    "wof:lastmodified":1536657542,
+    "wof:name":"Cuatro Bocas",
+    "wof:parent_id":421188173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01666999999998,
+    10.02337,
+    -74.01666999999998,
+    10.02337
+],
+  "geometry": {"coordinates":[-74.01666999999998,10.02337],"type":"Point"}
+}

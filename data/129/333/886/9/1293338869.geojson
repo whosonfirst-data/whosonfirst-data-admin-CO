@@ -1,0 +1,68 @@
+{
+  "id": 1293338869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.68136,4.85946,-73.68136,4.85946",
+    "geom:latitude":4.85946,
+    "geom:longitude":-73.68136,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25297.0",
+    "gn:asciiname":"El Desierto",
+    "gn:country_code":"CO",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781778,
+    "gn:latitude":4.85946,
+    "gn:longitude":-73.68136,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Desierto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421190821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781778
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f79ee44b305996232290cd140da516fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190821,
+            "locality_id":1293338869,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1293338869,
+    "wof:lastmodified":1537000670,
+    "wof:name":"El Desierto",
+    "wof:parent_id":421190821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.68136,
+    4.85946,
+    -73.68136,
+    4.85946
+],
+  "geometry": {"coordinates":[-73.68136,4.85946],"type":"Point"}
+}

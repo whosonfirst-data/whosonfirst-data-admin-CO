@@ -1,0 +1,71 @@
+{
+  "id": 1260133849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.63552,5.63521,-74.63552,5.63521",
+    "geom:latitude":5.63521,
+    "geom:longitude":-74.63552,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"La Idalia",
+    "gn:country_code":"CO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678725,
+    "gn:latitude":5.63521,
+    "gn:longitude":-74.63552,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Idalia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hidalta",
+        "La Idalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421203437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678725
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f441e3ef3bde9878384710b9edc9fb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203437,
+            "locality_id":1260133849,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1260133849,
+    "wof:lastmodified":1537618518,
+    "wof:name":"La Idalia",
+    "wof:parent_id":421203437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.63552,
+    5.63521,
+    -74.63552,
+    5.63521
+],
+  "geometry": {"coordinates":[-74.63552,5.63521],"type":"Point"}
+}

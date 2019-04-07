@@ -1,0 +1,73 @@
+{
+  "id": 1293763483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.83962,9.13545,-75.83962,9.13545",
+    "geom:latitude":9.13545,
+    "geom:longitude":-75.83962,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23417.0",
+    "gn:asciiname":"Cotoca Arriba",
+    "gn:country_code":"CO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685729,
+    "gn:latitude":9.13545,
+    "gn:longitude":-75.83962,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cotoca Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Cotoca Arriba",
+        "Cotorra",
+        "Cotoca Arriba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685729
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b9cba2dc9fbb146db4ca7fd2b8ddd089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":1293763483,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1293763483,
+    "wof:lastmodified":1537618612,
+    "wof:name":"Cotoca Arriba",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.83962,
+    9.13545,
+    -75.83962,
+    9.13545
+],
+  "geometry": {"coordinates":[-75.83962,9.13545],"type":"Point"}
+}

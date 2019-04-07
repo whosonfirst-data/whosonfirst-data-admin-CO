@@ -1,0 +1,65 @@
+{
+  "id": 1209298575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25043,3.06644,-76.25043,3.06644",
+    "geom:latitude":3.06644,
+    "geom:longitude":-76.25043,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19821.0",
+    "gn:asciiname":"Vereda Culebrero",
+    "gn:country_code":"CO",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8622738,
+    "gn:latitude":3.06644,
+    "gn:longitude":-76.25043,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Culebrero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Culebrero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622738
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f3c839826b01422d045c546a9ab72922",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209298575
+        }
+    ],
+    "wof:id":1209298575,
+    "wof:lastmodified":1537618804,
+    "wof:name":"Vereda Culebrero",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25043000000002,
+    3.06644,
+    -76.25043000000002,
+    3.06644
+],
+  "geometry": {"coordinates":[-76.25043000000002,3.06644],"type":"Point"}
+}

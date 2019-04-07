@@ -1,0 +1,71 @@
+{
+  "id": 1343526769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.64344,3.66549,-73.64344,3.66549",
+    "geom:latitude":3.66549,
+    "geom:longitude":-73.64344,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50689",
+    "gn:asciiname":"Hacienda San Francisco",
+    "gn:country_code":"CO",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323571,
+    "gn:latitude":3.66549,
+    "gn:longitude":-73.64344,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda San Francisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323571
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"26522034866dadcaa3fa889938e72423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1343526769,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1343526769,
+    "wof:lastmodified":1537618828,
+    "wof:name":"Hacienda San Francisco",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64344,
+    3.66549,
+    -73.64344,
+    3.66549
+],
+  "geometry": {"coordinates":[-73.64344,3.66549],"type":"Point"}
+}

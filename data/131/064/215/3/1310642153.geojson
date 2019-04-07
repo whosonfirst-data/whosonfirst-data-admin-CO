@@ -1,0 +1,67 @@
+{
+  "id": 1310642153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.99303,4.99878,-72.99303,4.99878",
+    "geom:latitude":4.99878,
+    "geom:longitude":-72.99303,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"El Arenal",
+    "gn:country_code":"CO",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769646,
+    "gn:latitude":4.99878,
+    "gn:longitude":-72.99303,
+    "gn:modification_date":"2011-10-13",
+    "gn:name":"El Arenal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769646
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4b2639d226cb8caa327a3c095534fd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700287,
+            "locality_id":1310642153,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1310642153,
+    "wof:lastmodified":1536720101,
+    "wof:name":"El Arenal",
+    "wof:parent_id":1108700287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99303,
+    4.99878,
+    -72.99303,
+    4.99878
+],
+  "geometry": {"coordinates":[-72.99303,4.99878],"type":"Point"}
+}

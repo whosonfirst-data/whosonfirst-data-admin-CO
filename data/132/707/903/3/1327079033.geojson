@@ -1,0 +1,74 @@
+{
+  "id": 1327079033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25,10.16667,-75.25,10.16667",
+    "geom:latitude":10.16667,
+    "geom:longitude":-75.25,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13433.0",
+    "gn:asciiname":"Alibizu",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690149,
+    "gn:latitude":10.16667,
+    "gn:longitude":-75.25,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alibiz\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Alibiz\u00fa",
+        "Alibis\u00fa",
+        "Alibiz\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690149
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d034721457c3a290e0ad31102921030c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700125,
+            "locality_id":1327079033,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1327079033,
+    "wof:lastmodified":1537618662,
+    "wof:name":"Alibizu",
+    "wof:parent_id":1108700125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25,
+    10.16667,
+    -75.25,
+    10.16667
+],
+  "geometry": {"coordinates":[-75.25,10.16667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193069405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10464,5.73652,-72.10464,5.73652",
+    "geom:latitude":5.73652,
+    "geom:longitude":-72.10464,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85400.0",
+    "gn:asciiname":"El Tablon",
+    "gn:country_code":"CO",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6196378,
+    "gn:latitude":5.73652,
+    "gn:longitude":-72.10464,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Tabl\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Tabl\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6196378
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a9d6074b3613b00f47fdf82342c4d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701551,
+            "locality_id":1193069405,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1193069405,
+    "wof:lastmodified":1537618704,
+    "wof:name":"El Tablon",
+    "wof:parent_id":1108701551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10464,
+    5.73652,
+    -72.10464,
+    5.73652
+],
+  "geometry": {"coordinates":[-72.10464,5.73652],"type":"Point"}
+}

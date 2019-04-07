@@ -1,0 +1,68 @@
+{
+  "id": 1293155407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86232,7.21194,-73.86232,7.21194",
+    "geom:latitude":7.21194,
+    "geom:longitude":-73.86232,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68575.0",
+    "gn:asciiname":"El Caballo",
+    "gn:country_code":"CO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829819,
+    "gn:latitude":7.21194,
+    "gn:longitude":-73.86232,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Caballo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829819
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fd2539c9db38d65f545ebdbd08e417e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701325,
+            "locality_id":1293155407,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293155407,
+    "wof:lastmodified":1536769490,
+    "wof:name":"El Caballo",
+    "wof:parent_id":1108701325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86232,
+    7.21194,
+    -73.86232,
+    7.21194
+],
+  "geometry": {"coordinates":[-73.86232,7.21194],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343736487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.20457,1.58879,-77.20457,1.58879",
+    "geom:latitude":1.58879,
+    "geom:longitude":-77.20457,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52687.0",
+    "gn:asciiname":"Valparaiso",
+    "gn:country_code":"CO",
+    "gn:dem":1825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735574,
+    "gn:latitude":1.58879,
+    "gn:longitude":-77.20457,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Valpara\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735574
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"203964e7a317e8536aff1d47b3fa4c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701071,
+            "locality_id":1343736487,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343736487,
+    "wof:lastmodified":1536844442,
+    "wof:name":"Valparaiso",
+    "wof:parent_id":1108701071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.20456999999998,
+    1.58879,
+    -77.20456999999998,
+    1.58879
+],
+  "geometry": {"coordinates":[-77.20456999999998,1.58879],"type":"Point"}
+}

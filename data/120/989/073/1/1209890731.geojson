@@ -1,0 +1,71 @@
+{
+  "id": 1209890731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37851,3.44592,-73.37851,3.44592",
+    "geom:latitude":3.44592,
+    "geom:longitude":-73.37851,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50577.0",
+    "gn:asciiname":"Los Aceites",
+    "gn:country_code":"CO",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8599354,
+    "gn:latitude":3.44592,
+    "gn:longitude":-73.37851,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Aceites",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Aceites"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8599354
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d47305c31b6b09004d9a72ad31e18385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700951,
+            "locality_id":1209890731,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1209890731,
+    "wof:lastmodified":1537618797,
+    "wof:name":"Los Aceites",
+    "wof:parent_id":1108700951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37850999999998,
+    3.44592,
+    -73.37850999999998,
+    3.44592
+],
+  "geometry": {"coordinates":[-73.37850999999998,3.44592],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225796653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78816,5.41532,-75.78816,5.41532",
+    "geom:latitude":5.41532,
+    "geom:longitude":-75.78816,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17614.0",
+    "gn:asciiname":"Roble Bonito",
+    "gn:country_code":"CO",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785158,
+    "gn:latitude":5.41532,
+    "gn:longitude":-75.78816,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Roble Bonito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421202519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785158
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"62c2dfb5fbcfcdf8f54f02d987d63f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202519,
+            "locality_id":1225796653,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1225796653,
+    "wof:lastmodified":1537081488,
+    "wof:name":"Roble Bonito",
+    "wof:parent_id":421202519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78815999999998,
+    5.41532,
+    -75.78815999999998,
+    5.41532
+],
+  "geometry": {"coordinates":[-75.78815999999998,5.41532],"type":"Point"}
+}

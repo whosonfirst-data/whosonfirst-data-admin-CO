@@ -1,0 +1,62 @@
+{
+  "id": 1209251963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.88222,4.02333,-70.88222,4.02333",
+    "geom:latitude":4.02333,
+    "geom:longitude":-70.88222,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Limacaos",
+    "gn:country_code":"CO",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3829400,
+    "gn:latitude":4.02333,
+    "gn:longitude":-70.88222,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Limacaos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829400
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e5e376f81e1a7a917d823dbcc730cc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209251963
+        }
+    ],
+    "wof:id":1209251963,
+    "wof:lastmodified":1536292976,
+    "wof:name":"Limacaos",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.88221999999998,
+    4.0233300000000005,
+    -70.88221999999998,
+    4.0233300000000005
+],
+  "geometry": {"coordinates":[-70.88221999999998,4.02333],"type":"Point"}
+}

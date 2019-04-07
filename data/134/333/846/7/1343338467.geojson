@@ -1,0 +1,68 @@
+{
+  "id": 1343338467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.42152,8.95031,-75.42152,8.95031",
+    "geom:latitude":8.95031,
+    "geom:longitude":-75.42152,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23660.0",
+    "gn:asciiname":"Peralonso",
+    "gn:country_code":"CO",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672502,
+    "gn:latitude":8.95031,
+    "gn:longitude":-75.42152,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Peralonso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672502
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b68bc3820acba4fb33c1869e8dcac8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700599,
+            "locality_id":1343338467,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343338467,
+    "wof:lastmodified":1536923091,
+    "wof:name":"Peralonso",
+    "wof:parent_id":1108700599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.42152,
+    8.95031,
+    -75.42152,
+    8.95031
+],
+  "geometry": {"coordinates":[-75.42152,8.95031],"type":"Point"}
+}

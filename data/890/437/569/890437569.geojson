@@ -1,0 +1,108 @@
+{
+  "id": 890437569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.87707,5.12694,-70.87707,5.12694",
+    "geom:latitude":5.12694,
+    "geom:longitude":-70.87707,
+    "gn:country":"CO",
+    "gn:fcode":"FRM",
+    "gn:pop":1363,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u85a9\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rosalia"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30ed\u30b5\u30ea\u30a2"
+    ],
+    "name:may_x_preferred":[
+        "Santa Rosalia"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:tgl_x_preferred":[
+        "Santa Rosal\u00eda"
+    ],
+    "name:war_x_preferred":[
+        "Santa Rosalia"
+    ],
+    "qs:name":"Santa Rosalia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":629,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668446,
+        "gp:id":12523707,
+        "qs:id":96285,
+        "wd:id":"Q1655146",
+        "wk:page":"Saint Rosalia"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052157,
+    "wof:geomhash":"04d7416c20f9091f7fc2ca1b74b6890b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701645,
+            "locality_id":890437569,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":890437569,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Santa Rosalia",
+    "wof:parent_id":1108701645,
+    "wof:placetype":"locality",
+    "wof:population":1363,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.87707,
+    5.12694,
+    -70.87707,
+    5.12694
+],
+  "geometry": {"coordinates":[-70.87707,5.12694],"type":"Point"}
+}

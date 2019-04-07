@@ -1,0 +1,76 @@
+{
+  "id": 1327074827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.26667,10.1,-75.26667,10.1",
+    "geom:latitude":10.1,
+    "geom:longitude":-75.26667,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13052.0",
+    "gn:asciiname":"Medellin",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674957,
+    "gn:latitude":10.1,
+    "gn:longitude":-75.26667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Medell\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Hacienda Medell\u00edn",
+        "Medell\u00edn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421184103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674957
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a1673d1dd653e7d231f0eb0f6c4bf4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184103,
+            "locality_id":1327074827,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1327074827,
+    "wof:lastmodified":1537618460,
+    "wof:name":"Medellin",
+    "wof:parent_id":421184103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.26666999999998,
+    10.1,
+    -75.26666999999998,
+    10.1
+],
+  "geometry": {"coordinates":[-75.26666999999998,10.1],"type":"Point"}
+}

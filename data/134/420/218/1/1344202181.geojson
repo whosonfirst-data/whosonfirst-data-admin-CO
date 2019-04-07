@@ -1,0 +1,75 @@
+{
+  "id": 1344202181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.52367,8.44616,-74.52367,8.44616",
+    "geom:latitude":8.44616,
+    "geom:longitude":-74.52367,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13006.0",
+    "gn:asciiname":"Boyaca",
+    "gn:country_code":"CO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688538,
+    "gn:latitude":8.44616,
+    "gn:longitude":-74.52367,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Boyac\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Corregimiento Boyaca",
+        "Boyac\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"35462979dafd43577ee944d41135bea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700095,
+            "locality_id":1344202181,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1344202181,
+    "wof:lastmodified":1537618642,
+    "wof:name":"Boyaca",
+    "wof:parent_id":1108700095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.52367,
+    8.44616,
+    -74.52367,
+    8.44616
+],
+  "geometry": {"coordinates":[-74.52367,8.44616],"type":"Point"}
+}

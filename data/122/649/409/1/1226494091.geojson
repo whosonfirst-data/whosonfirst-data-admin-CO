@@ -1,0 +1,68 @@
+{
+  "id": 1226494091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.12889,5.75278,-74.12889,5.75278",
+    "geom:latitude":5.75278,
+    "geom:longitude":-74.12889,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15507.0",
+    "gn:asciiname":"Palmarito",
+    "gn:country_code":"CO",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775207,
+    "gn:latitude":5.75278,
+    "gn:longitude":-74.12889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmarito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775207
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"850503a6eac0c74a4b375b7a5d135585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700283,
+            "locality_id":1226494091,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226494091,
+    "wof:lastmodified":1537069594,
+    "wof:name":"Palmarito",
+    "wof:parent_id":1108700283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.12889,
+    5.75278,
+    -74.12889,
+    5.75278
+],
+  "geometry": {"coordinates":[-74.12889,5.75278],"type":"Point"}
+}

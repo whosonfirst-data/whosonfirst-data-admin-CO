@@ -1,0 +1,73 @@
+{
+  "id": 1226442505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.96667,10.36667,-74.96667,10.36667",
+    "geom:latitude":10.36667,
+    "geom:longitude":-74.96667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8675.0",
+    "gn:asciiname":"Rabon",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671034,
+    "gn:latitude":10.36667,
+    "gn:longitude":-74.96667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rab\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Finca Rab\u00f3n",
+        "Rab\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671034
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7858eb94b03067e11356069f0aebcb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700081,
+            "locality_id":1226442505,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1226442505,
+    "wof:lastmodified":1537618415,
+    "wof:name":"Rabon",
+    "wof:parent_id":1108700081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.96667,
+    10.36667,
+    -74.96667,
+    10.36667
+],
+  "geometry": {"coordinates":[-74.96666999999999,10.36667],"type":"Point"}
+}

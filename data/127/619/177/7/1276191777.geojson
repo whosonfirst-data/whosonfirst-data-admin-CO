@@ -1,0 +1,74 @@
+{
+  "id": 1276191777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.50301,12.18074,-71.50301,12.18074",
+    "geom:latitude":12.18074,
+    "geom:longitude":-71.50301,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Rancheria Itana",
+    "gn:country_code":"CO",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8463355,
+    "gn:latitude":12.18074,
+    "gn:longitude":-71.50301,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Rancher\u00eda Ita\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rancher\u00eda Ita\u00f1a"
+    ],
+    "name:und_x_variant":[
+        "Ita\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463355
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6d397f93361a21730cfc9a3eb30d421b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1276191777,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1276191777,
+    "wof:lastmodified":1537618779,
+    "wof:name":"Rancheria Itana",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.50301,
+    12.18074,
+    -71.50301,
+    12.18074
+],
+  "geometry": {"coordinates":[-71.50301,12.18074],"type":"Point"}
+}

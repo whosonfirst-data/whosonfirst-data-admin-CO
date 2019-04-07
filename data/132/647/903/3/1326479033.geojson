@@ -1,0 +1,71 @@
+{
+  "id": 1326479033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73913,4.26697,-74.73913,4.26697",
+    "geom:latitude":4.26697,
+    "geom:longitude":-74.73913,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25612.0",
+    "gn:asciiname":"Los Naranjos",
+    "gn:country_code":"CO",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8563520,
+    "gn:latitude":4.26697,
+    "gn:longitude":-74.73913,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Naranjos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Naranjos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8563520
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e27489ed4fcee7b5c8538f57a53e82d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188803,
+            "locality_id":1326479033,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1326479033,
+    "wof:lastmodified":1537618783,
+    "wof:name":"Los Naranjos",
+    "wof:parent_id":421188803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73913,
+    4.26697,
+    -74.73913,
+    4.26697
+],
+  "geometry": {"coordinates":[-74.73913,4.26697],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421181591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89012,7.02806,-73.89012,7.02806",
+    "geom:latitude":7.02806,
+    "geom:longitude":-73.89012,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Puerto Casabe"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3687215,
+    "qs:gn_pop":0,
+    "qs:name":"Casabe",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":495325,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368760,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687215,
+        "gp:id":368760,
+        "qs:id":495325
+    },
+    "wof:country":"CO",
+    "wof:created":1459009301,
+    "wof:geomhash":"4cae3bba228c629080c71eae40bb8ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700047,
+            "locality_id":421181591,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421181591,
+    "wof:lastmodified":1501268577,
+    "wof:name":"Casabe",
+    "wof:parent_id":1108700047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89012,
+    7.02806,
+    -73.89012,
+    7.02806
+],
+  "geometry": {"coordinates":[-73.89012,7.02806],"type":"Point"}
+}

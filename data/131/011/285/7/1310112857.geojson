@@ -1,0 +1,71 @@
+{
+  "id": 1310112857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71281,6.4726,-71.71281,6.4726",
+    "geom:latitude":6.4726,
+    "geom:longitude":-71.71281,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81794.0",
+    "gn:asciiname":"Acapulco",
+    "gn:country_code":"CO",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690567,
+    "gn:latitude":6.4726,
+    "gn:longitude":-71.71281,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Acapulco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Acapulco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421181799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690567
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"feaf2e532016dae18fe36a87908ebd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181799,
+            "locality_id":1310112857,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1310112857,
+    "wof:lastmodified":1537618666,
+    "wof:name":"Acapulco",
+    "wof:parent_id":421181799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71281,
+    6.4726,
+    -71.71281,
+    6.4726
+],
+  "geometry": {"coordinates":[-71.71281,6.4726],"type":"Point"}
+}

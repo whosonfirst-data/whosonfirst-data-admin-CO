@@ -1,0 +1,71 @@
+{
+  "id": 1327423245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.37282,3.23705,-76.37282,3.23705",
+    "geom:latitude":3.23705,
+    "geom:longitude":-76.37282,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19573.0",
+    "gn:asciiname":"Hacienda Canada",
+    "gn:country_code":"CO",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622350,
+    "gn:latitude":3.23705,
+    "gn:longitude":-76.37282,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Canad\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Canad\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622350
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8d14d6ce4b31fb50fe0e4d5c01c5c7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700481,
+            "locality_id":1327423245,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1327423245,
+    "wof:lastmodified":1537618801,
+    "wof:name":"Hacienda Canada",
+    "wof:parent_id":1108700481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.37281999999998,
+    3.23705,
+    -76.37281999999998,
+    3.23705
+],
+  "geometry": {"coordinates":[-76.37281999999998,3.23705],"type":"Point"}
+}

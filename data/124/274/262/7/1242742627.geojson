@@ -1,0 +1,72 @@
+{
+  "id": 1242742627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.68056,1.30667,-78.68056,1.30667",
+    "geom:latitude":1.30667,
+    "geom:longitude":-78.68056,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"La Cabeza",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679686,
+    "gn:latitude":1.30667,
+    "gn:longitude":-78.68056,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"La Cabeza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Cabeza del Salto",
+        "La Cabeza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632261,
+        85670963,
+        421171763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679686
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"497d09bc33de524825b53796d19fdb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632261,
+            "county_id":421171763,
+            "locality_id":1242742627,
+            "region_id":85670963
+        }
+    ],
+    "wof:id":1242742627,
+    "wof:lastmodified":1537618533,
+    "wof:name":"La Cabeza",
+    "wof:parent_id":421171763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.68056,
+    1.30667,
+    -78.68056,
+    1.30667
+],
+  "geometry": {"coordinates":[-78.68056,1.30667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276597543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.43318,10.23888,-75.43318,10.23888",
+    "geom:latitude":10.23888,
+    "geom:longitude":-75.43318,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13838.0",
+    "gn:asciiname":"Evangelista",
+    "gn:country_code":"CO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830777,
+    "gn:latitude":10.23888,
+    "gn:longitude":-75.43318,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Evangelista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830777
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"277db4d49332d30f3f3aeb00c3061476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700177,
+            "locality_id":1276597543,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1276597543,
+    "wof:lastmodified":1536922893,
+    "wof:name":"Evangelista",
+    "wof:parent_id":1108700177,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43318000000002,
+    10.23888,
+    -75.43318000000002,
+    10.23888
+],
+  "geometry": {"coordinates":[-75.43318000000002,10.23888],"type":"Point"}
+}

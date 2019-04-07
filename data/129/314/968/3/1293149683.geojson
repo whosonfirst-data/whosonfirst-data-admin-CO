@@ -1,0 +1,68 @@
+{
+  "id": 1293149683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.30694,5.03224,-72.30694,5.03224",
+    "geom:latitude":5.03224,
+    "geom:longitude":-72.30694,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Palma Triste",
+    "gn:country_code":"CO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673181,
+    "gn:latitude":5.03224,
+    "gn:longitude":-72.30694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palma Triste",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673181
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"35e7ab96d35bea985c3af5ff9410b4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":1293149683,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1293149683,
+    "wof:lastmodified":1536777787,
+    "wof:name":"Palma Triste",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.30694,
+    5.03224,
+    -72.30694,
+    5.03224
+],
+  "geometry": {"coordinates":[-72.30694,5.03224],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 85764679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5753091.683876,
+    "geom:bbox":"-74.759216,10.952877,-74.759216,10.952877",
+    "geom:latitude":10.952877,
+    "geom:longitude":-74.759216,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":10.96667,
+    "gn:longitude":-74.76667,
+    "iso:country":"CO",
+    "lbl:latitude":10.952877,
+    "lbl:longitude":-74.759216,
+    "mps:latitude":10.953532,
+    "mps:longitude":-74.75941,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "La Luz"
+    ],
+    "name:unk_x_variant":[
+        "La Luz"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3689147,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"La Luz",
+    "qs:local_max":816,
+    "qs:local_sum":2548,
+    "qs:localhoods":9,
+    "qs:name":"La Luz",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:name_adm2":"Barranquilla",
+    "qs:name_local":"Barranquilla",
+    "qs:photo_max":2,
+    "qs:photo_sum":3,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345050,
+    "qs:woe_adm2":26796731,
+    "qs:woe_lau":0,
+    "qs:woe_local":368151,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3678522,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Luz",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Atlantico",
+    "qs_pg:photos":6,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":6,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":267361,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":359332,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670207,
+        102191577,
+        85632519,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678522,
+        "gp:id":359332,
+        "qs:id":267361,
+        "qs_pg:id":267361
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b99cb705964bc3eb0e7b00e6d7a1685b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":-1,
+            "neighbourhood_id":85764679,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":85764679,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379260,
+    "wof:name":"La Luz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126068235
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.759216,
+    10.952877,
+    -74.759216,
+    10.952877
+],
+  "geometry": {"coordinates":[-74.759216,10.952877],"type":"Point"}
+}

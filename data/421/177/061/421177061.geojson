@@ -1,0 +1,111 @@
+{
+  "id": 421177061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.66667,6.78333,-72.66667,6.78333",
+    "geom:latitude":6.78333,
+    "geom:longitude":-72.66667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:ita_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10d2\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:nld_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:tgl_x_preferred":[
+        "M\u00e1laga"
+    ],
+    "name:unk_x_variant":[
+        "M\u00e1laga"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3675606,
+    "qs:gn_pop":0,
+    "qs:name":"Malaga",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401571,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797456,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675606,
+        "gp:id":26797456,
+        "loc:id":"n2009078381",
+        "qs:id":401571,
+        "wd:id":"Q950892",
+        "wk:page":"M\u00e1laga, Santander"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009131,
+    "wof:geomhash":"3fe3924a963a1daa99ab7d1343d20231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177061,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421177061,
+    "wof:lastmodified":1527716484,
+    "wof:name":"Malaga",
+    "wof:parent_id":85670141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66667,
+    6.78333,
+    -72.66667,
+    6.78333
+],
+  "geometry": {"coordinates":[-72.66667,6.78333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327294469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.02346,3.81192,-77.02346,3.81192",
+    "geom:latitude":3.81192,
+    "geom:longitude":-77.02346,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76109.0",
+    "gn:asciiname":"La Brigida",
+    "gn:country_code":"CO",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8139941,
+    "gn:latitude":3.81192,
+    "gn:longitude":-77.02346,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Br\u00edgida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Br\u00edgida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421190219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8139941
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d3644a80c01a3cb9449548d384f12828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190219,
+            "locality_id":1327294469,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327294469,
+    "wof:lastmodified":1537618753,
+    "wof:name":"La Brigida",
+    "wof:parent_id":421190219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.02346,
+    3.81192,
+    -77.02346,
+    3.81192
+],
+  "geometry": {"coordinates":[-77.02346,3.81192],"type":"Point"}
+}

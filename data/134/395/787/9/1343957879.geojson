@@ -1,0 +1,72 @@
+{
+  "id": 1343957879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.94919,10.3489,-74.94919,10.3489",
+    "geom:latitude":10.3489,
+    "geom:longitude":-74.94919,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8675.0",
+    "gn:asciiname":"Algodonal",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690157,
+    "gn:latitude":10.3489,
+    "gn:longitude":-74.94919,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Algodonal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Algodonal",
+        "Algodonal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690157
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f54d0cecbab7e390729d79765abf3552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700081,
+            "locality_id":1343957879,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1343957879,
+    "wof:lastmodified":1537618662,
+    "wof:name":"Algodonal",
+    "wof:parent_id":1108700081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.94919,
+    10.3489,
+    -74.94919,
+    10.3489
+],
+  "geometry": {"coordinates":[-74.94919,10.3489],"type":"Point"}
+}

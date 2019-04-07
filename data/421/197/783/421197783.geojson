@@ -1,0 +1,119 @@
+{
+  "id": 421197783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.16641,4.17061,-76.16641,4.17061",
+    "geom:latitude":4.17061,
+    "geom:longitude":-76.16641,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5b89\u9054\u76e7\u897f\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10d0\u10da\u10e3\u10e1\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:may_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:nan_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0646\u062f\u0627\u0644\u0648\u0633\u06cc\u0627\u060c \u0648\u0627\u0644 \u062f\u0648 \u06a9\u0627\u0626\u0648\u06a9\u0627"
+    ],
+    "name:sco_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "name:war_x_preferred":[
+        "Andaluc\u00eda"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3689905,
+    "qs:gn_pop":17432,
+    "qs:name":"Andaluc\u00eda",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Valle del Cauca",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":150161,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368255,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689905,
+        "gp:id":368255,
+        "qs:id":150161,
+        "wd:id":"Q1526216"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009925,
+    "wof:geomhash":"8750e544d75783fdea13d8c8a57078b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188703,
+            "locality_id":421197783,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":421197783,
+    "wof:lastmodified":1513941258,
+    "wof:name":"Andaluc\u00eda",
+    "wof:parent_id":421188703,
+    "wof:placetype":"locality",
+    "wof:population":17432,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.16641,
+    4.17061,
+    -76.16641,
+    4.17061
+],
+  "geometry": {"coordinates":[-76.16641,4.17061],"type":"Point"}
+}

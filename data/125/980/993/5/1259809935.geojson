@@ -1,0 +1,73 @@
+{
+  "id": 1259809935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.55,4.32556,-70.55,4.32556",
+    "geom:latitude":4.32556,
+    "geom:longitude":-70.55,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Chananane",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3829421,
+    "gn:latitude":4.32556,
+    "gn:longitude":-70.55,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chananan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chananau\u00e9",
+        "Chananan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829421
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9c33abdf529dbbcd7642a2035f3931aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1259809935,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1259809935,
+    "wof:lastmodified":1537618703,
+    "wof:name":"Chananane",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.55,
+    4.32556,
+    -70.55,
+    4.32556
+],
+  "geometry": {"coordinates":[-70.55,4.32556],"type":"Point"}
+}

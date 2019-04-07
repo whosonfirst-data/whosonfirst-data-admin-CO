@@ -1,0 +1,62 @@
+{
+  "id": 1209623581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58889,6.90583,-75.58889,6.90583",
+    "geom:latitude":6.90583,
+    "geom:longitude":-75.58889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5647.0",
+    "gn:asciiname":"Sabanas",
+    "gn:country_code":"CO",
+    "gn:dem":2895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787721,
+    "gn:latitude":6.90583,
+    "gn:longitude":-75.58889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sabanas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787721
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5383ad7674313ba31f9d9ce140f11c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209623581
+        }
+    ],
+    "wof:id":1209623581,
+    "wof:lastmodified":1536281431,
+    "wof:name":"Sabanas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58889,
+    6.90583,
+    -75.58889,
+    6.90583
+],
+  "geometry": {"coordinates":[-75.58889000000001,6.90583],"type":"Point"}
+}

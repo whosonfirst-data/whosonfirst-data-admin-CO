@@ -1,0 +1,72 @@
+{
+  "id": 1293762345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75424,8.56071,-73.75424,8.56071",
+    "geom:latitude":8.56071,
+    "geom:longitude":-73.75424,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20383.0",
+    "gn:asciiname":"Molina",
+    "gn:country_code":"CO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674616,
+    "gn:latitude":8.56071,
+    "gn:longitude":-73.75424,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Molina",
+        "Molina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674616
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"02b33ada776dbe9271b199b97a7c2661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700545,
+            "locality_id":1293762345,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293762345,
+    "wof:lastmodified":1537618457,
+    "wof:name":"Molina",
+    "wof:parent_id":1108700545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75424,
+    8.56071,
+    -73.75424,
+    8.56071
+],
+  "geometry": {"coordinates":[-73.75424,8.56071],"type":"Point"}
+}

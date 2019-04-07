@@ -1,0 +1,72 @@
+{
+  "id": 1226194051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51172,5.4905,-72.51172,5.4905",
+    "geom:latitude":5.4905,
+    "geom:longitude":-72.51172,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15377.0",
+    "gn:asciiname":"Los Yopos",
+    "gn:country_code":"CO",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675862,
+    "gn:latitude":5.4905,
+    "gn:longitude":-72.51172,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Yopos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yopos",
+        "Los Yopos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675862
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f5438634be5da1525fcdf13c0f97e585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700257,
+            "locality_id":1226194051,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226194051,
+    "wof:lastmodified":1537618469,
+    "wof:name":"Los Yopos",
+    "wof:parent_id":1108700257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51172,
+    5.4905,
+    -72.51172,
+    5.4905
+],
+  "geometry": {"coordinates":[-72.51172,5.4905],"type":"Point"}
+}

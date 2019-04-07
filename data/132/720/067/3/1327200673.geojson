@@ -1,0 +1,68 @@
+{
+  "id": 1327200673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.18283,6.20866,-73.18283,6.20866",
+    "geom:latitude":6.20866,
+    "geom:longitude":-73.18283,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68167.0",
+    "gn:asciiname":"La Vega",
+    "gn:country_code":"CO",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810129,
+    "gn:latitude":6.20866,
+    "gn:longitude":-73.18283,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810129
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9bc47b812cbff00ce7b87f5ba2541104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701215,
+            "locality_id":1327200673,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327200673,
+    "wof:lastmodified":1537014790,
+    "wof:name":"La Vega",
+    "wof:parent_id":1108701215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.18283000000002,
+    6.20866,
+    -73.18283000000002,
+    6.20866
+],
+  "geometry": {"coordinates":[-73.18283000000002,6.20866],"type":"Point"}
+}

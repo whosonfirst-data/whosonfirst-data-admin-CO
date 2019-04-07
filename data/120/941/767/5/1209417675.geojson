@@ -1,0 +1,62 @@
+{
+  "id": 1209417675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57123,7.23435,-75.57123,7.23435",
+    "geom:latitude":7.23435,
+    "geom:longitude":-75.57123,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5361.0",
+    "gn:asciiname":"El Torrente",
+    "gn:country_code":"CO",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731829,
+    "gn:latitude":7.23435,
+    "gn:longitude":-75.57123,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Torrente",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731829
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"128dbf5609ab24f90b426b5204b21ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209417675
+        }
+    ],
+    "wof:id":1209417675,
+    "wof:lastmodified":1536287633,
+    "wof:name":"El Torrente",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57123,
+    7.23435,
+    -75.57123,
+    7.23435
+],
+  "geometry": {"coordinates":[-75.57123,7.23435],"type":"Point"}
+}

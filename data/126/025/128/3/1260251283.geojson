@@ -1,0 +1,68 @@
+{
+  "id": 1260251283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.7875,8.58472,-72.7875,8.58472",
+    "geom:latitude":8.58472,
+    "geom:longitude":-72.7875,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54810.0",
+    "gn:asciiname":"Guachiman",
+    "gn:country_code":"CO",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738290,
+    "gn:latitude":8.58472,
+    "gn:longitude":-72.7875,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guachiman",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738290
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0193bb7f33daba704d3d4e2589b3947a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701155,
+            "locality_id":1260251283,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1260251283,
+    "wof:lastmodified":1536755648,
+    "wof:name":"Guachiman",
+    "wof:parent_id":1108701155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.7875,
+    8.58472,
+    -72.7875,
+    8.58472
+],
+  "geometry": {"coordinates":[-72.78749999999999,8.58472],"type":"Point"}
+}

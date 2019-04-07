@@ -1,0 +1,72 @@
+{
+  "id": 1210029553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03333,-1.03333,-74.03333,-1.03333",
+    "geom:latitude":-1.03333,
+    "geom:longitude":-74.03333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91530.0",
+    "gn:asciiname":"Puerto Alegria",
+    "gn:country_code":"CO",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671565,
+    "gn:latitude":-1.03333,
+    "gn:longitude":-74.03333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Alegr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Alegr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632521,
+        85675899,
+        421182241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671565,
+        "wk:page":"Puerto_Alegr%C3%ADa"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"280da2e4e0cc1593df51e2da86d5acb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632521,
+            "county_id":421182241,
+            "locality_id":1210029553,
+            "region_id":85675899
+        }
+    ],
+    "wof:id":1210029553,
+    "wof:lastmodified":1537618424,
+    "wof:name":"Puerto Alegria",
+    "wof:parent_id":421182241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03333,
+    -1.03333,
+    -74.03333,
+    -1.03333
+],
+  "geometry": {"coordinates":[-74.03333000000001,-1.03333],"type":"Point"}
+}

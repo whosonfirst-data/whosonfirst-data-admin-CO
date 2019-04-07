@@ -1,0 +1,68 @@
+{
+  "id": 1193227005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5925,4.70806,-72.5925,4.70806",
+    "geom:latitude":4.70806,
+    "geom:longitude":-72.5925,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"Paratebueno",
+    "gn:country_code":"CO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672873,
+    "gn:latitude":4.70806,
+    "gn:longitude":-72.5925,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Paratebueno",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672873
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36904f4cf4af1e674b38918d4f14ae1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701553,
+            "locality_id":1193227005,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1193227005,
+    "wof:lastmodified":1536369399,
+    "wof:name":"Paratebueno",
+    "wof:parent_id":1108701553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5925,
+    4.70806,
+    -72.5925,
+    4.70806
+],
+  "geometry": {"coordinates":[-72.5925,4.70806],"type":"Point"}
+}

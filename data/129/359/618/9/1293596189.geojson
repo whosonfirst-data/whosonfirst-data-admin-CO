@@ -1,0 +1,68 @@
+{
+  "id": 1293596189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.71667,6.58333,-71.71667,6.58333",
+    "geom:latitude":6.58333,
+    "geom:longitude":-71.71667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81794.0",
+    "gn:asciiname":"Morochito",
+    "gn:country_code":"CO",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674358,
+    "gn:latitude":6.58333,
+    "gn:longitude":-71.71667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Morochito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421181799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674358
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b5c35296b301cbf1b931f8991aa6972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181799,
+            "locality_id":1293596189,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1293596189,
+    "wof:lastmodified":1536628630,
+    "wof:name":"Morochito",
+    "wof:parent_id":421181799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.71667,
+    6.58333,
+    -71.71667,
+    6.58333
+],
+  "geometry": {"coordinates":[-71.71666999999999,6.58333],"type":"Point"}
+}

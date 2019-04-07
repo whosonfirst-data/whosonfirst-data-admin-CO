@@ -1,0 +1,68 @@
+{
+  "id": 1310356329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78035,3.03301,-75.78035,3.03301",
+    "geom:latitude":3.03301,
+    "geom:longitude":-75.78035,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73555.0",
+    "gn:asciiname":"Palmabrava",
+    "gn:country_code":"CO",
+    "gn:dem":2156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737280,
+    "gn:latitude":3.03301,
+    "gn:longitude":-75.78035,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmabrava",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737280
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6e85ac1fd5a0fca95f942e9ea6403c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701453,
+            "locality_id":1310356329,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310356329,
+    "wof:lastmodified":1536633434,
+    "wof:name":"Palmabrava",
+    "wof:parent_id":1108701453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78035,
+    3.03301,
+    -75.78035,
+    3.03301
+],
+  "geometry": {"coordinates":[-75.78035,3.03301],"type":"Point"}
+}

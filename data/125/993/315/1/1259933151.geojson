@@ -1,0 +1,65 @@
+{
+  "id": 1259933151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58333,10.3,-75.58333,10.3",
+    "geom:latitude":10.3,
+    "geom:longitude":-75.58333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13001.0",
+    "gn:asciiname":"Polonia",
+    "gn:country_code":"CO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671954,
+    "gn:latitude":10.3,
+    "gn:longitude":-75.58333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Polonia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671954
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8aa1c459b1f698ad1f154733b1fc9c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "locality_id":1259933151,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259933151,
+    "wof:lastmodified":1536708098,
+    "wof:name":"Polonia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58333,
+    10.3,
+    -75.58333,
+    10.3
+],
+  "geometry": {"coordinates":[-75.58333,10.3],"type":"Point"}
+}

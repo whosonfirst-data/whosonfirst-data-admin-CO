@@ -1,0 +1,68 @@
+{
+  "id": 1259462863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44827,8.9904,-75.44827,8.9904",
+    "geom:latitude":8.9904,
+    "geom:longitude":-75.44827,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23660.0",
+    "gn:asciiname":"La Burra",
+    "gn:country_code":"CO",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679709,
+    "gn:latitude":8.9904,
+    "gn:longitude":-75.44827,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Burra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679709
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"67b05460479a87eedfe48cb093a9f82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700599,
+            "locality_id":1259462863,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1259462863,
+    "wof:lastmodified":1536888050,
+    "wof:name":"La Burra",
+    "wof:parent_id":1108700599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44827,
+    8.9904,
+    -75.44827,
+    8.9904
+],
+  "geometry": {"coordinates":[-75.44826999999999,8.9904],"type":"Point"}
+}

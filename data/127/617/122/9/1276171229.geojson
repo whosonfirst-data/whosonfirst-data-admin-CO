@@ -1,0 +1,74 @@
+{
+  "id": 1276171229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73333,5.2,-74.73333,5.2",
+    "geom:latitude":5.2,
+    "geom:longitude":-74.73333,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73349.0",
+    "gn:asciiname":"Arrancaplumas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689542,
+    "gn:latitude":5.2,
+    "gn:longitude":-74.73333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arrancaplumas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puerto Arracaplumas",
+        "Puerto Arranca Plumas",
+        "Arrancaplumas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421188697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689542
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e778feab0139f4528b4239c40fe06cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188697,
+            "locality_id":1276171229,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1276171229,
+    "wof:lastmodified":1537618655,
+    "wof:name":"Arrancaplumas",
+    "wof:parent_id":421188697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73333000000002,
+    5.2,
+    -74.73333000000002,
+    5.2
+],
+  "geometry": {"coordinates":[-74.73333000000002,5.2],"type":"Point"}
+}

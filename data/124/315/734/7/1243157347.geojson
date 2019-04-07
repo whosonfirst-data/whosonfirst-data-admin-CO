@@ -1,0 +1,71 @@
+{
+  "id": 1243157347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.69767,1.58863,-75.69767,1.58863",
+    "geom:latitude":1.58863,
+    "geom:longitude":-75.69767,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"La Cristalina",
+    "gn:country_code":"CO",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184310,
+    "gn:latitude":1.58863,
+    "gn:longitude":-75.69767,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cristalina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cristalina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184310
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"38963f2f39a87b4c51f678984944aa82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1243157347,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1243157347,
+    "wof:lastmodified":1537618761,
+    "wof:name":"La Cristalina",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.69767,
+    1.58863,
+    -75.69767,
+    1.58863
+],
+  "geometry": {"coordinates":[-75.69767,1.58863],"type":"Point"}
+}

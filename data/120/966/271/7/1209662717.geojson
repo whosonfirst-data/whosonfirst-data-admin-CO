@@ -1,0 +1,65 @@
+{
+  "id": 1209662717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99565,3.71048,-74.99565,3.71048",
+    "geom:latitude":3.71048,
+    "geom:longitude":-74.99565,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73217",
+    "gn:asciiname":"Puerto Cachimbo",
+    "gn:country_code":"CO",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631326,
+    "gn:latitude":3.71048,
+    "gn:longitude":-74.99565,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Cachimbo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Cachimbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631326
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be142f74d5295671b7512770f7d21250",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209662717
+        }
+    ],
+    "wof:id":1209662717,
+    "wof:lastmodified":1537618844,
+    "wof:name":"Puerto Cachimbo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99565,
+    3.71048,
+    -74.99565,
+    3.71048
+],
+  "geometry": {"coordinates":[-74.99565,3.71048],"type":"Point"}
+}

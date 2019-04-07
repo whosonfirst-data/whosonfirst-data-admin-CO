@@ -1,0 +1,68 @@
+{
+  "id": 1343927075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.62375,2.22807,-75.62375,2.22807",
+    "geom:latitude":2.22807,
+    "geom:longitude":-75.62375,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41298.0",
+    "gn:asciiname":"Milan",
+    "gn:country_code":"CO",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792972,
+    "gn:latitude":2.22807,
+    "gn:longitude":-75.62375,
+    "gn:modification_date":"2015-06-21",
+    "gn:name":"Mil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421186431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792972
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"40ee259df7988e391f0b4c3453548007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421186431,
+            "locality_id":1343927075,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1343927075,
+    "wof:lastmodified":1537065393,
+    "wof:name":"Milan",
+    "wof:parent_id":421186431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62375,
+    2.22807,
+    -75.62375,
+    2.22807
+],
+  "geometry": {"coordinates":[-75.62375,2.22807],"type":"Point"}
+}

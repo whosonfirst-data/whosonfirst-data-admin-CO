@@ -1,0 +1,62 @@
+{
+  "id": 1209293141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37807,10.31289,-73.37807,10.31289",
+    "geom:latitude":10.31289,
+    "geom:longitude":-73.37807,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Colina Los Corazones",
+    "gn:country_code":"CO",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559753,
+    "gn:latitude":10.31289,
+    "gn:longitude":-73.37807,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Colina Los Corazones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559753
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1a80600e305c2f20f90d7eaee3c3de2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209293141
+        }
+    ],
+    "wof:id":1209293141,
+    "wof:lastmodified":1536291624,
+    "wof:name":"Colina Los Corazones",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37807,
+    10.31289,
+    -73.37807,
+    10.31289
+],
+  "geometry": {"coordinates":[-73.37806999999999,10.31289],"type":"Point"}
+}

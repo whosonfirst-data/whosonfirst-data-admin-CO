@@ -1,0 +1,73 @@
+{
+  "id": 1293012493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82667,6.75917,-75.82667,6.75917",
+    "geom:latitude":6.75917,
+    "geom:longitude":-75.82667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5411.0",
+    "gn:asciiname":"Rodas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670656,
+    "gn:latitude":6.75917,
+    "gn:longitude":-75.82667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rodas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodadas",
+        "Rodas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670656
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4225dfc4dfdf99c8e181e61aa53ae4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699973,
+            "locality_id":1293012493,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293012493,
+    "wof:lastmodified":1537618411,
+    "wof:name":"Rodas",
+    "wof:parent_id":1108699973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82667,
+    6.75917,
+    -75.82667,
+    6.75917
+],
+  "geometry": {"coordinates":[-75.82666999999999,6.75917],"type":"Point"}
+}

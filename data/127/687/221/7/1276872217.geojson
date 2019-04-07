@@ -1,0 +1,73 @@
+{
+  "id": 1276872217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0062,10.52037,-75.0062,10.52037",
+    "geom:latitude":10.52037,
+    "geom:longitude":-75.0062,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8638.0",
+    "gn:asciiname":"Aguada de Pablo",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690433,
+    "gn:latitude":10.52037,
+    "gn:longitude":-75.0062,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguada de Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Aguada de Pablo",
+        "Agua de Pablo",
+        "Aguada de Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690433
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"980530991d68bc8f547be377050fc41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700079,
+            "locality_id":1276872217,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1276872217,
+    "wof:lastmodified":1537618665,
+    "wof:name":"Aguada de Pablo",
+    "wof:parent_id":1108700079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0062,
+    10.52037,
+    -75.0062,
+    10.52037
+],
+  "geometry": {"coordinates":[-75.00620000000001,10.52037],"type":"Point"}
+}

@@ -1,0 +1,147 @@
+{
+  "id": 421180649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28878,6.63781,-73.28878,6.63781",
+    "geom:latitude":6.63781,
+    "geom:longitude":-73.28878,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bos_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Cerro Gal\u00e1n"
+    ],
+    "name:chi_x_preferred":[
+        "\u52a0\u862d"
+    ],
+    "name:dut_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:fra_x_preferred":[
+        "Cerro Gal\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:ita_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Galan"
+    ],
+    "name:nan_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:oss_x_preferred":[
+        "\u0413\u0430\u043b\u0430\u043d"
+    ],
+    "name:pol_x_preferred":[
+        "Galan"
+    ],
+    "name:por_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u043e-\u0413\u0430\u043b\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Cerro Gal\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:tgl_x_preferred":[
+        "Galan"
+    ],
+    "name:vie_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:war_x_preferred":[
+        "Galan"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3682243,
+    "qs:gn_pop":1122,
+    "qs:name":"Gal\u00e1n",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1206607,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368943,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":152,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682243,
+        "gp:id":368943,
+        "qs:id":1206607,
+        "wd:id":"Q1492832"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009266,
+    "wof:geomhash":"61dba5028166f5920ef0250235c7922a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701255,
+            "locality_id":421180649,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421180649,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Gal\u00e1n",
+    "wof:parent_id":1108701255,
+    "wof:placetype":"locality",
+    "wof:population":1122,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28878,
+    6.63781,
+    -73.28878,
+    6.63781
+],
+  "geometry": {"coordinates":[-73.28878,6.63781],"type":"Point"}
+}

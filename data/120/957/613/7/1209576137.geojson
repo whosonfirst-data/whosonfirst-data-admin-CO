@@ -1,0 +1,62 @@
+{
+  "id": 1209576137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.3324,3.84606,-76.3324,3.84606",
+    "geom:latitude":3.84606,
+    "geom:longitude":-76.3324,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76111.0",
+    "gn:asciiname":"Guayabitos",
+    "gn:country_code":"CO",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778780,
+    "gn:latitude":3.84606,
+    "gn:longitude":-76.3324,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guayabitos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778780
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"999fddd4192ae5dd1d923998af1b2780",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209576137
+        }
+    ],
+    "wof:id":1209576137,
+    "wof:lastmodified":1536282933,
+    "wof:name":"Guayabitos",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.3324,
+    3.84606,
+    -76.3324,
+    3.84606
+],
+  "geometry": {"coordinates":[-76.33240000000001,3.84606],"type":"Point"}
+}

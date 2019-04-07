@@ -1,0 +1,68 @@
+{
+  "id": 1226420283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.63171,4.82662,-76.63171,4.82662",
+    "geom:latitude":4.82662,
+    "geom:longitude":-76.63171,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"27491.0",
+    "gn:asciiname":"Torra",
+    "gn:country_code":"CO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783910,
+    "gn:latitude":4.82662,
+    "gn:longitude":-76.63171,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Torr\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783910
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f0fedee551a01a55e703bf068c12ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700781,
+            "locality_id":1226420283,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1226420283,
+    "wof:lastmodified":1536682161,
+    "wof:name":"Torra",
+    "wof:parent_id":1108700781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.63171,
+    4.82662,
+    -76.63171,
+    4.82662
+],
+  "geometry": {"coordinates":[-76.63171,4.82662],"type":"Point"}
+}

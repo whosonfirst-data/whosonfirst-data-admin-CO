@@ -1,0 +1,66 @@
+{
+  "id": 1209662153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.08022,4.84848,-76.08022,4.84848",
+    "geom:latitude":4.84848,
+    "geom:longitude":-76.08022,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76243.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"CO",
+    "gn:dem":1695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669208,
+    "gn:latitude":4.84848,
+    "gn:longitude":-76.08022,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quiebra de San Pablo",
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669208
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0723f8a50c1cdca058c6cc65b5069be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209662153
+        }
+    ],
+    "wof:id":1209662153,
+    "wof:lastmodified":1537618395,
+    "wof:name":"San Pablo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.08022,
+    4.84848,
+    -76.08022,
+    4.84848
+],
+  "geometry": {"coordinates":[-76.08022,4.84848],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276844817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.14524,4.14048,-73.14524,4.14048",
+    "geom:latitude":4.14048,
+    "geom:longitude":-73.14524,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50573.0",
+    "gn:asciiname":"Floralta",
+    "gn:country_code":"CO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682448,
+    "gn:latitude":4.14048,
+    "gn:longitude":-73.14524,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Floralta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421179663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682448
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3a0bcd9bafefeb86d4feeebc8479b4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421179663,
+            "locality_id":1276844817,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1276844817,
+    "wof:lastmodified":1537084945,
+    "wof:name":"Floralta",
+    "wof:parent_id":421179663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14524,
+    4.14048,
+    -73.14524,
+    4.14048
+],
+  "geometry": {"coordinates":[-73.14524,4.14048],"type":"Point"}
+}

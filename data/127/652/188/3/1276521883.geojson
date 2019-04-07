@@ -1,0 +1,72 @@
+{
+  "id": 1276521883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.39254,1.12763,-77.39254,1.12763",
+    "geom:latitude":1.12763,
+    "geom:longitude":-77.39254,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52885.0",
+    "gn:asciiname":"La Mejia",
+    "gn:country_code":"CO",
+    "gn:dem":2774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674905,
+    "gn:latitude":1.12763,
+    "gn:longitude":-77.39254,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mej\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Mej\u00eda",
+        "Mej\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674905
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bfef62d190863f14aa2e67dda33459cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701085,
+            "locality_id":1276521883,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276521883,
+    "wof:lastmodified":1537618459,
+    "wof:name":"La Mejia",
+    "wof:parent_id":1108701085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.39254,
+    1.12763,
+    -77.39254,
+    1.12763
+],
+  "geometry": {"coordinates":[-77.39254,1.12763],"type":"Point"}
+}

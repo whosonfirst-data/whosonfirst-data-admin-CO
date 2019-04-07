@@ -1,0 +1,74 @@
+{
+  "id": 1193078035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73475,4.28992,-74.73475,4.28992",
+    "geom:latitude":4.28992,
+    "geom:longitude":-74.73475,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25612.0",
+    "gn:asciiname":"Llano de Pozo",
+    "gn:country_code":"CO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676503,
+    "gn:latitude":4.28992,
+    "gn:longitude":-74.73475,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Llano de Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Llano de Pozo"
+    ],
+    "name:und_x_variant":[
+        "Llano del Pozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676503
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3037219d01f6b11bb00d0eb91457f913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188803,
+            "locality_id":1193078035,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193078035,
+    "wof:lastmodified":1537618481,
+    "wof:name":"Llano de Pozo",
+    "wof:parent_id":421188803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73475,
+    4.28992,
+    -74.73475,
+    4.28992
+],
+  "geometry": {"coordinates":[-74.73475000000001,4.28992],"type":"Point"}
+}

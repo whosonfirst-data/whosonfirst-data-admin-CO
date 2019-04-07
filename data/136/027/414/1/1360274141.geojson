@@ -1,0 +1,68 @@
+{
+  "id": 1360274141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63531,9.84311,-73.63531,9.84311",
+    "geom:latitude":9.84311,
+    "geom:longitude":-73.63531,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"La Selva",
+    "gn:country_code":"CO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638496,
+    "gn:latitude":9.84311,
+    "gn:longitude":-73.63531,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Selva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638496
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"42a45c792bb88ed9c8b8cf48b4772b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1360274141,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1360274141,
+    "wof:lastmodified":1536672875,
+    "wof:name":"La Selva",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63531,
+    9.84311,
+    -73.63531,
+    9.84311
+],
+  "geometry": {"coordinates":[-73.63531,9.84311],"type":"Point"}
+}

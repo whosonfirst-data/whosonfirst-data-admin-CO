@@ -1,0 +1,68 @@
+{
+  "id": 1226396947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38212,6.37463,-73.38212,6.37463",
+    "geom:latitude":6.37463,
+    "geom:longitude":-73.38212,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68176.0",
+    "gn:asciiname":"Girardot",
+    "gn:country_code":"CO",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732479,
+    "gn:latitude":6.37463,
+    "gn:longitude":-73.38212,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Girardot",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732479
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19267546cfc84995b49c8b1ed8fdedae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701219,
+            "locality_id":1226396947,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1226396947,
+    "wof:lastmodified":1536716243,
+    "wof:name":"Girardot",
+    "wof:parent_id":1108701219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38212,
+    6.37463,
+    -73.38212,
+    6.37463
+],
+  "geometry": {"coordinates":[-73.38212,6.37463],"type":"Point"}
+}

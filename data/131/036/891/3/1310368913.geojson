@@ -1,0 +1,68 @@
+{
+  "id": 1310368913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08443,11.45497,-72.08443,11.45497",
+    "geom:latitude":11.45497,
+    "geom:longitude":-72.08443,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Manaramahana",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675517,
+    "gn:latitude":11.45497,
+    "gn:longitude":-72.08443,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ma\u00f1aramahana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675517
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f2fe3d2eeea180f857d364d29ef53a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1310368913,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1310368913,
+    "wof:lastmodified":1536614292,
+    "wof:name":"Manaramahana",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08443,
+    11.45497,
+    -72.08443,
+    11.45497
+],
+  "geometry": {"coordinates":[-72.08443,11.45497],"type":"Point"}
+}

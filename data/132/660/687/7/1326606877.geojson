@@ -1,0 +1,72 @@
+{
+  "id": 1326606877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.81721,9.1906,-75.81721,9.1906",
+    "geom:latitude":9.1906,
+    "geom:longitude":-75.81721,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23417.0",
+    "gn:asciiname":"La Palma",
+    "gn:country_code":"CO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678267,
+    "gn:latitude":9.1906,
+    "gn:longitude":-75.81721,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Palma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Palma",
+        "La Palma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678267
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e64636e8522f8713a895e96a757fe97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":1326606877,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1326606877,
+    "wof:lastmodified":1537618510,
+    "wof:name":"La Palma",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.81721,
+    9.1906,
+    -75.81721,
+    9.1906
+],
+  "geometry": {"coordinates":[-75.81721,9.1906],"type":"Point"}
+}

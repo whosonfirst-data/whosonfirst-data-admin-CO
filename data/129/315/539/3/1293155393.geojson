@@ -1,0 +1,68 @@
+{
+  "id": 1293155393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.25759,6.06766,-73.25759,6.06766",
+    "geom:latitude":6.06766,
+    "geom:longitude":-73.25759,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68770.0",
+    "gn:asciiname":"Playarrica",
+    "gn:country_code":"CO",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810024,
+    "gn:latitude":6.06766,
+    "gn:longitude":-73.25759,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Playarrica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810024
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"42add1164c725c3bae758cd5a2ac45d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701357,
+            "locality_id":1293155393,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293155393,
+    "wof:lastmodified":1536769510,
+    "wof:name":"Playarrica",
+    "wof:parent_id":1108701357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25759000000002,
+    6.06766,
+    -73.25759000000002,
+    6.06766
+],
+  "geometry": {"coordinates":[-73.25759000000002,6.06766],"type":"Point"}
+}

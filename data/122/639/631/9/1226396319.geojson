@@ -1,0 +1,68 @@
+{
+  "id": 1226396319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.36667,4.6,-74.36667,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":-74.36667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25645.0",
+    "gn:asciiname":"La Rambla",
+    "gn:country_code":"CO",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677912,
+    "gn:latitude":4.6,
+    "gn:longitude":-74.36667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Rambla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421187901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677912
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"363af75a0490eeb0cdc5b0e990588feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187901,
+            "locality_id":1226396319,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226396319,
+    "wof:lastmodified":1536717153,
+    "wof:name":"La Rambla",
+    "wof:parent_id":421187901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.36667,
+    4.6,
+    -74.36667,
+    4.6
+],
+  "geometry": {"coordinates":[-74.36667,4.6],"type":"Point"}
+}

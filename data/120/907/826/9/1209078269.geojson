@@ -1,0 +1,65 @@
+{
+  "id": 1209078269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91411,3.07416,-74.91411,3.07416",
+    "geom:latitude":3.07416,
+    "geom:longitude":-74.91411,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41078",
+    "gn:asciiname":"Yarumal",
+    "gn:country_code":"CO",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354485,
+    "gn:latitude":3.07416,
+    "gn:longitude":-74.91411,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Yarumal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Yarumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354485
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"01843b653d4480a879a92e99585f30f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209078269
+        }
+    ],
+    "wof:id":1209078269,
+    "wof:lastmodified":1537618837,
+    "wof:name":"Yarumal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91411,
+    3.07416,
+    -74.91411,
+    3.07416
+],
+  "geometry": {"coordinates":[-74.91410999999999,3.07416],"type":"Point"}
+}

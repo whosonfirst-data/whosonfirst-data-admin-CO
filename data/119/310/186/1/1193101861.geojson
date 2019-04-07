@@ -1,0 +1,73 @@
+{
+  "id": 1193101861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.38523,2.18745,-78.38523,2.18745",
+    "geom:latitude":2.18745,
+    "geom:longitude":-78.38523,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52621.0",
+    "gn:asciiname":"Gomez Jurado",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681999,
+    "gn:latitude":2.18745,
+    "gn:longitude":-78.38523,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"G\u00f3mez Jurado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jurad\u00f3",
+        "G\u00f3mez",
+        "G\u00f3mez Jurado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681999
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4989bb72e4e3ca1fbb320a5b90a63664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701061,
+            "locality_id":1193101861,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1193101861,
+    "wof:lastmodified":1537618555,
+    "wof:name":"Gomez Jurado",
+    "wof:parent_id":1108701061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.38523,
+    2.18745,
+    -78.38523,
+    2.18745
+],
+  "geometry": {"coordinates":[-78.38523000000001,2.18745],"type":"Point"}
+}

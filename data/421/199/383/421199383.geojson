@@ -1,0 +1,79 @@
+{
+  "id": 421199383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.28168,6.72439,-75.28168,6.72439",
+    "geom:latitude":6.72439,
+    "geom:longitude":-75.28168,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3687310,
+    "qs:gn_pop":3160,
+    "qs:name":"Carolina",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":475233,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368475,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421204773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687310,
+        "gp:id":368475,
+        "qs:id":475233
+    },
+    "wof:country":"CO",
+    "wof:created":1459009987,
+    "wof:geomhash":"007ed61c5007e31c09de74785c38ec72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204773,
+            "locality_id":421199383,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421199383,
+    "wof:lastmodified":1505340762,
+    "wof:name":"Carolina",
+    "wof:parent_id":421204773,
+    "wof:placetype":"locality",
+    "wof:population":3160,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28168,
+    6.72439,
+    -75.28168,
+    6.72439
+],
+  "geometry": {"coordinates":[-75.28167999999999,6.72439],"type":"Point"}
+}

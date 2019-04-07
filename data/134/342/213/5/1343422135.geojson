@@ -1,0 +1,68 @@
+{
+  "id": 1343422135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08778,4.46472,-75.08778,4.46472",
+    "geom:latitude":4.46472,
+    "geom:longitude":-75.08778,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73001.0",
+    "gn:asciiname":"Caserio de Santa Lucia",
+    "gn:country_code":"CO",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734650,
+    "gn:latitude":4.46472,
+    "gn:longitude":-75.08778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo de Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421190207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734650
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f0075e4bf58084c8651ffd2bd3216c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190207,
+            "locality_id":1343422135,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1343422135,
+    "wof:lastmodified":1536801724,
+    "wof:name":"Caserio de Santa Lucia",
+    "wof:parent_id":421190207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08778000000002,
+    4.46472,
+    -75.08778000000002,
+    4.46472
+],
+  "geometry": {"coordinates":[-75.08778000000002,4.46472],"type":"Point"}
+}

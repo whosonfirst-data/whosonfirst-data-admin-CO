@@ -1,0 +1,68 @@
+{
+  "id": 1193093735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72951,6.88945,-73.72951,6.88945",
+    "geom:latitude":6.88945,
+    "geom:longitude":-73.72951,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68689.0",
+    "gn:asciiname":"Belgica",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3830232,
+    "gn:latitude":6.88945,
+    "gn:longitude":-73.72951,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Belgica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830232
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2733b4aca9b9486c91c205edf80694b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701345,
+            "locality_id":1193093735,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1193093735,
+    "wof:lastmodified":1536367579,
+    "wof:name":"Belgica",
+    "wof:parent_id":1108701345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72951,
+    6.88945,
+    -73.72951,
+    6.88945
+],
+  "geometry": {"coordinates":[-73.72951,6.88945],"type":"Point"}
+}

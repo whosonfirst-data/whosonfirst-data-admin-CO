@@ -1,0 +1,79 @@
+{
+  "id": 421197771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14585,12.19215,-72.14585,12.19215",
+    "geom:latitude":12.19215,
+    "geom:longitude":-72.14585,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Saraina"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3684811,
+    "qs:gn_pop":0,
+    "qs:name":"El Cabo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"La Guajira",
+    "qs:photos":720,
+    "qs:photos_1k":146,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":720,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":150132,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368849,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684811,
+        "gp:id":368849,
+        "qs:id":150132
+    },
+    "wof:country":"CO",
+    "wof:created":1459009924,
+    "wof:geomhash":"44da52f75f46d60e588a762ee393a5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":421197771,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":421197771,
+    "wof:lastmodified":1501268463,
+    "wof:name":"El Cabo",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14585,
+    12.19215,
+    -72.14585,
+    12.19215
+],
+  "geometry": {"coordinates":[-72.14585,12.19215],"type":"Point"}
+}

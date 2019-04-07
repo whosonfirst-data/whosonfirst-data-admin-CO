@@ -1,0 +1,114 @@
+{
+  "id": 85764665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":20423702.07526,
+    "geom:bbox":"-74.139861,4.601365,-74.139861,4.601365",
+    "geom:latitude":4.601365,
+    "geom:longitude":-74.139861,
+    "gn:latitude":4.58631,
+    "gn:longitude":-74.12439,
+    "iso:country":"CO",
+    "lbl:latitude":4.601365,
+    "lbl:longitude":-74.139861,
+    "mps:latitude":4.613093,
+    "mps:longitude":-74.139503,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_colloquial":[
+        "Ingles"
+    ],
+    "name:spa_x_preferred":[
+        "Ingl\u00e9s"
+    ],
+    "name:unk_x_variant":[
+        "Ingl\u00e9s"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688689,
+    "qs:gn_namadm1":"33",
+    "qs:gn_name":"Ingl\u00e9s",
+    "qs:local_max":9363,
+    "qs:local_sum":49081,
+    "qs:localhoods":19,
+    "qs:name":"Ingl\u00e9s",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:name_adm2":"Santafe de Bogota D.c.",
+    "qs:name_local":"Bogot\u00e1",
+    "qs:photo_max":51,
+    "qs:photo_sum":208,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345079,
+    "qs:woe_adm2":26796754,
+    "qs:woe_lau":0,
+    "qs:woe_local":368148,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7033363,
+        "gp:id":357504,
+        "qs:id":489467,
+        "wk:page":"Sitnica"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bfdad4c689f65486d0993fc608271367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":85764665,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":85764665,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379262,
+    "wof:name":"Ingl\u00e9s",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126107781
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.139861,
+    4.601365,
+    -74.139861,
+    4.601365
+],
+  "geometry": {"coordinates":[-74.139861,4.601365],"type":"Point"}
+}

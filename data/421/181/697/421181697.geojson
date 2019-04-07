@@ -1,0 +1,104 @@
+{
+  "id": 421181697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.81667,10.96667,-74.81667,10.96667",
+    "geom:latitude":10.96667,
+    "geom:longitude":-74.81667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Valle"
+    ],
+    "name:ceb_x_preferred":[
+        "El Valle"
+    ],
+    "name:deu_x_preferred":[
+        "El Valle"
+    ],
+    "name:fra_x_preferred":[
+        "El Valle"
+    ],
+    "name:hbs_x_preferred":[
+        "El Valle"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30d0\u30b8\u30a7"
+    ],
+    "name:nld_x_preferred":[
+        "El Valle"
+    ],
+    "name:spa_x_preferred":[
+        "El Valle"
+    ],
+    "name:swe_x_preferred":[
+        "El Valle"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3682787,
+    "qs:gn_pop":0,
+    "qs:name":"El Valle",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Atlantico",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":501175,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":356229,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        1108700049,
+        85670207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682787,
+        "gp:id":356229,
+        "qs:id":501175
+    },
+    "wof:country":"CO",
+    "wof:created":1459009304,
+    "wof:geomhash":"acdcde31311f17dab93d6ca916b09421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":-1,
+            "neighbourhood_id":421181697,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":421181697,
+    "wof:lastmodified":1531858475,
+    "wof:name":"El Valle",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.81667,
+    10.96667,
+    -74.81667,
+    10.96667
+],
+  "geometry": {"coordinates":[-74.81667,10.96667],"type":"Point"}
+}

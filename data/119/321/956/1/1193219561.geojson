@@ -1,0 +1,68 @@
+{
+  "id": 1193219561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.99596,5.07301,-71.99596,5.07301",
+    "geom:latitude":5.07301,
+    "geom:longitude":-71.99596,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85001.0",
+    "gn:asciiname":"Chaparrito",
+    "gn:country_code":"CO",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686772,
+    "gn:latitude":5.07301,
+    "gn:longitude":-71.99596,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chaparrito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421190211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686772
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"75995542b68a7acc3cf6255a45cbb089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190211,
+            "locality_id":1193219561,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1193219561,
+    "wof:lastmodified":1536376910,
+    "wof:name":"Chaparrito",
+    "wof:parent_id":421190211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.99596,
+    5.07301,
+    -71.99596,
+    5.07301
+],
+  "geometry": {"coordinates":[-71.99596,5.07301],"type":"Point"}
+}

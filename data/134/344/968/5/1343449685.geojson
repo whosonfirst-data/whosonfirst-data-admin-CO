@@ -1,0 +1,68 @@
+{
+  "id": 1343449685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.39167,8.10972,-73.39167,8.10972",
+    "geom:latitude":8.10972,
+    "geom:longitude":-73.39167,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20770.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"CO",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738492,
+    "gn:latitude":8.10972,
+    "gn:longitude":-73.39167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738492
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9b96a0de40744b5fd42ccfefcb88102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700561,
+            "locality_id":1343449685,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1343449685,
+    "wof:lastmodified":1536762066,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108700561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39166999999998,
+    8.10972,
+    -73.39166999999998,
+    8.10972
+],
+  "geometry": {"coordinates":[-73.39166999999998,8.10972],"type":"Point"}
+}

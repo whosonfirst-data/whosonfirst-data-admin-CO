@@ -1,0 +1,71 @@
+{
+  "id": 1259641907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.89361,0.37083,-76.89361,0.37083",
+    "geom:latitude":0.37083,
+    "geom:longitude":-76.89361,
+    "gn:admin1_code":"22",
+    "gn:admin2_code":"86865.0",
+    "gn:asciiname":"La Hormiga",
+    "gn:country_code":"CO",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3763531,
+    "gn:latitude":0.37083,
+    "gn:longitude":-76.89361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Hormiga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Hormiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3763531
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"02507309b36d5b9472aea5d425769111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701579,
+            "locality_id":1259641907,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1259641907,
+    "wof:lastmodified":1537618688,
+    "wof:name":"La Hormiga",
+    "wof:parent_id":1108701579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.89361,
+    0.37083,
+    -76.89361,
+    0.37083
+],
+  "geometry": {"coordinates":[-76.89361,0.37083],"type":"Point"}
+}

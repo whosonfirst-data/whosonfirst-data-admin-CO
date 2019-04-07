@@ -1,0 +1,70 @@
+{
+  "id": 1209784945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.98273,3.43492,-74.98273,3.43492",
+    "geom:latitude":3.43492,
+    "geom:longitude":-74.98273,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Madronal",
+    "gn:country_code":"CO",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321037,
+    "gn:latitude":3.43492,
+    "gn:longitude":-74.98273,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Madro\u00f1al",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Madro\u00f1al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321037
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f31824648648fb3fbc3e75bc2375e4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701425,
+            "locality_id":1209784945,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1209784945,
+    "wof:lastmodified":1537618821,
+    "wof:name":"Madronal",
+    "wof:parent_id":1108701425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.98273,
+    3.43492,
+    -74.98273,
+    3.43492
+],
+  "geometry": {"coordinates":[-74.98273,3.43492],"type":"Point"}
+}

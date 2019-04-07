@@ -1,0 +1,71 @@
+{
+  "id": 1276279249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.5124,5.13405,-74.5124,5.13405",
+    "geom:latitude":5.13405,
+    "geom:longitude":-74.5124,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25851.0",
+    "gn:asciiname":"Hacienda La Papaya",
+    "gn:country_code":"CO",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524247,
+    "gn:latitude":5.13405,
+    "gn:longitude":-74.5124,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda La Papaya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda La Papaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524247
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dc78b08d2f63d2b074f24e829847944b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700725,
+            "locality_id":1276279249,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1276279249,
+    "wof:lastmodified":1537618718,
+    "wof:name":"Hacienda La Papaya",
+    "wof:parent_id":1108700725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.5124,
+    5.13405,
+    -74.5124,
+    5.13405
+],
+  "geometry": {"coordinates":[-74.5124,5.13405],"type":"Point"}
+}

@@ -1,0 +1,128 @@
+{
+  "id": 421173483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36972,10.44472,-75.36972,10.44472",
+    "geom:latitude":10.44472,
+    "geom:longitude":-75.36972,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u838e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:may_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:por_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:tgl_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:unk_x_variant":[
+        "El Uvero"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Rosa"
+    ],
+    "name:war_x_preferred":[
+        "Santa Rosa"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3668472,
+    "qs:gn_pop":10604,
+    "qs:name":"Santa Rosa",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":288528,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":369568,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668472,
+        "gp:id":369568,
+        "qs:id":288528,
+        "wd:id":"Q1526264"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008983,
+    "wof:geomhash":"b9475089851234fd5ec48cd7345f4601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700165,
+            "locality_id":421173483,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":421173483,
+    "wof:lastmodified":1513943598,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":1108700165,
+    "wof:placetype":"locality",
+    "wof:population":10604,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36972,
+    10.44472,
+    -75.36972,
+    10.44472
+],
+  "geometry": {"coordinates":[-75.36972,10.44472],"type":"Point"}
+}

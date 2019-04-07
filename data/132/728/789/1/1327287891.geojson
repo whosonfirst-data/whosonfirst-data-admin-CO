@@ -1,0 +1,68 @@
+{
+  "id": 1327287891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.51667,4.6,-74.51667,4.6",
+    "geom:latitude":4.6,
+    "geom:longitude":-74.51667,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25035.0",
+    "gn:asciiname":"Colombia",
+    "gn:country_code":"CO",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686118,
+    "gn:latitude":4.6,
+    "gn:longitude":-74.51667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Colombia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686118
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bd11d34f3a4ad67419c7bd1f0d658ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700619,
+            "locality_id":1327287891,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1327287891,
+    "wof:lastmodified":1536889236,
+    "wof:name":"Colombia",
+    "wof:parent_id":1108700619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.51666999999998,
+    4.6,
+    -74.51666999999998,
+    4.6
+],
+  "geometry": {"coordinates":[-74.51666999999998,4.6],"type":"Point"}
+}

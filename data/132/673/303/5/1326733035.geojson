@@ -1,0 +1,68 @@
+{
+  "id": 1326733035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56361,5.93153,-75.56361,5.93153",
+    "geom:latitude":5.93153,
+    "geom:longitude":-75.56361,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5679.0",
+    "gn:asciiname":"Pombal",
+    "gn:country_code":"CO",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780694,
+    "gn:latitude":5.93153,
+    "gn:longitude":-75.56361,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pombal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421191861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780694
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"14e31be54951ecb1bb29080107dd8552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421191861,
+            "locality_id":1326733035,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1326733035,
+    "wof:lastmodified":1536694777,
+    "wof:name":"Pombal",
+    "wof:parent_id":421191861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56361,
+    5.93153,
+    -75.56361,
+    5.93153
+],
+  "geometry": {"coordinates":[-75.56361,5.93153],"type":"Point"}
+}

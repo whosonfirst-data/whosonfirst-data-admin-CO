@@ -1,0 +1,68 @@
+{
+  "id": 1226551789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.92083,6.985,-75.92083,6.985",
+    "geom:latitude":6.985,
+    "geom:longitude":-75.92083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5543.0",
+    "gn:asciiname":"Santa Agueda",
+    "gn:country_code":"CO",
+    "gn:dem":1940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668969,
+    "gn:latitude":6.985,
+    "gn:longitude":-75.92083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Agueda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668969
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3ad290b189edfda0ff3f352453714c49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699987,
+            "locality_id":1226551789,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226551789,
+    "wof:lastmodified":1536988472,
+    "wof:name":"Santa Agueda",
+    "wof:parent_id":1108699987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.92083000000002,
+    6.985,
+    -75.92083000000002,
+    6.985
+],
+  "geometry": {"coordinates":[-75.92083000000002,6.985],"type":"Point"}
+}

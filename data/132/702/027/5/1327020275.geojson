@@ -1,0 +1,71 @@
+{
+  "id": 1327020275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.95308,1.3021,-75.95308,1.3021",
+    "geom:latitude":1.3021,
+    "geom:longitude":-75.95308,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18029.0",
+    "gn:asciiname":"La Cumbre",
+    "gn:country_code":"CO",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539578,
+    "gn:latitude":1.3021,
+    "gn:longitude":-75.95308,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cumbre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cumbre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539578
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1be767ae99332fce6c97db6ff77c218b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700403,
+            "locality_id":1327020275,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1327020275,
+    "wof:lastmodified":1537618729,
+    "wof:name":"La Cumbre",
+    "wof:parent_id":1108700403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.95308,
+    1.3021,
+    -75.95308,
+    1.3021
+],
+  "geometry": {"coordinates":[-75.95308,1.3021],"type":"Point"}
+}

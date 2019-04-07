@@ -1,0 +1,67 @@
+{
+  "id": 1310549983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76361,5.51778,-73.76361,5.51778",
+    "geom:latitude":5.51778,
+    "geom:longitude":-73.76361,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"El Jardin",
+    "gn:country_code":"CO",
+    "gn:dem":2569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776355,
+    "gn:latitude":5.51778,
+    "gn:longitude":-73.76361,
+    "gn:modification_date":"2009-02-26",
+    "gn:name":"El Jard\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776355
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"08a54c84faf6c390a1e2a95119fddee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700317,
+            "locality_id":1310549983,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1310549983,
+    "wof:lastmodified":1536851832,
+    "wof:name":"El Jardin",
+    "wof:parent_id":1108700317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76361,
+    5.51778,
+    -73.76361,
+    5.51778
+],
+  "geometry": {"coordinates":[-73.76361,5.51778],"type":"Point"}
+}

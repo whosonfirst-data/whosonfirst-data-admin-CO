@@ -1,0 +1,68 @@
+{
+  "id": 1260194785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.615,6.10528,-74.615,6.10528",
+    "geom:latitude":6.10528,
+    "geom:longitude":-74.615,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5585.0",
+    "gn:asciiname":"Puerto Antares Mula",
+    "gn:country_code":"CO",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770412,
+    "gn:latitude":6.10528,
+    "gn:longitude":-74.615,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Antares Mula",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770412
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fe8fbda47693a96dc214b44eab956ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699991,
+            "locality_id":1260194785,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1260194785,
+    "wof:lastmodified":1536831353,
+    "wof:name":"Puerto Antares Mula",
+    "wof:parent_id":1108699991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.615,
+    6.10528,
+    -74.615,
+    6.10528
+],
+  "geometry": {"coordinates":[-74.61499999999999,6.10528],"type":"Point"}
+}

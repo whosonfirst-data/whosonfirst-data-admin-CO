@@ -1,0 +1,68 @@
+{
+  "id": 1259442065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3562,5.37976,-72.3562,5.37976",
+    "geom:latitude":5.37976,
+    "geom:longitude":-72.3562,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85001.0",
+    "gn:asciiname":"Guayaque",
+    "gn:country_code":"CO",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681261,
+    "gn:latitude":5.37976,
+    "gn:longitude":-72.3562,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guayaque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421190211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681261
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cb750edba2b54836f0331fe4b5f48114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190211,
+            "locality_id":1259442065,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1259442065,
+    "wof:lastmodified":1536919092,
+    "wof:name":"Guayaque",
+    "wof:parent_id":421190211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3562,
+    5.37976,
+    -72.3562,
+    5.37976
+],
+  "geometry": {"coordinates":[-72.3562,5.37976],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310359699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.31589,9.24977,-75.31589,9.24977",
+    "geom:latitude":9.24977,
+    "geom:longitude":-75.31589,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70215.0",
+    "gn:asciiname":"Cantagallo",
+    "gn:country_code":"CO",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687540,
+    "gn:latitude":9.24977,
+    "gn:longitude":-75.31589,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cantagallo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cantagalla",
+        "Cantagallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687540
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c0b9fc5b80074120ac318343f2ddaf2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701383,
+            "locality_id":1310359699,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1310359699,
+    "wof:lastmodified":1537618632,
+    "wof:name":"Cantagallo",
+    "wof:parent_id":1108701383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.31589,
+    9.24977,
+    -75.31589,
+    9.24977
+],
+  "geometry": {"coordinates":[-75.31589,9.24977],"type":"Point"}
+}

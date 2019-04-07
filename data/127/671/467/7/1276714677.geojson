@@ -1,0 +1,72 @@
+{
+  "id": 1276714677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02002,4.60778,-74.02002,4.60778",
+    "geom:latitude":4.60778,
+    "geom:longitude":-74.02002,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"11001.0",
+    "gn:admin3_code":"3.0",
+    "gn:asciiname":"Quebrada Honda",
+    "gn:country_code":"CO",
+    "gn:dem":3070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182020,
+    "gn:latitude":4.60778,
+    "gn:longitude":-74.02002,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"Quebrada Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada Honda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670165,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182020
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"45a0075ca9284f3cf86324ead3d17c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":1276714677,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1276714677,
+    "wof:lastmodified":1537618753,
+    "wof:name":"Quebrada Honda",
+    "wof:parent_id":1108700089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02002,
+    4.60778,
+    -74.02002,
+    4.60778
+],
+  "geometry": {"coordinates":[-74.02002,4.60778],"type":"Point"}
+}

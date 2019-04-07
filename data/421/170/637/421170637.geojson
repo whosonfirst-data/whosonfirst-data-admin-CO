@@ -1,0 +1,76 @@
+{
+  "id": 421170637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08333,6.58333,-73.08333,6.58333",
+    "geom:latitude":6.58333,
+    "geom:longitude":-73.08333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3669809,
+    "qs:gn_pop":0,
+    "qs:name":"San Gil",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":953,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1194881,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797475,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":817,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669809,
+        "gp:id":26797475,
+        "qs:id":1194881,
+        "wd:id":"Q1294128"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008861,
+    "wof:geomhash":"7d1b980041bb26cdb7d46ae502b9ccb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170637,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421170637,
+    "wof:lastmodified":1527716472,
+    "wof:name":"San Gil",
+    "wof:parent_id":85670141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08333,
+    6.58333,
+    -73.08333,
+    6.58333
+],
+  "geometry": {"coordinates":[-73.08333,6.58333],"type":"Point"}
+}

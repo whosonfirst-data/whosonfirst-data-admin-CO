@@ -1,0 +1,68 @@
+{
+  "id": 1343635953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35167,4.12905,-73.35167,4.12905",
+    "geom:latitude":4.12905,
+    "geom:longitude":-73.35167,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Gutierrez",
+    "gn:country_code":"CO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681176,
+    "gn:latitude":4.12905,
+    "gn:longitude":-73.35167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guti\u00e9rrez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421188675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681176
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a2cd84da9f7efa1b2ce2da1905a5e42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188675,
+            "locality_id":1343635953,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1343635953,
+    "wof:lastmodified":1536989640,
+    "wof:name":"Gutierrez",
+    "wof:parent_id":421188675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35167,
+    4.12905,
+    -73.35167,
+    4.12905
+],
+  "geometry": {"coordinates":[-73.35167,4.12905],"type":"Point"}
+}

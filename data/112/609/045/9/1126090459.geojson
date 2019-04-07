@@ -1,0 +1,104 @@
+{
+  "id": 1126090459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.07566,4.59214,-74.07566,4.59214",
+    "geom:latitude":4.59214,
+    "geom:longitude":-74.07566,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.59214,
+    "gn:longitude":-74.07567,
+    "iso:country":"CO",
+    "lbl:latitude":4.59214,
+    "lbl:longitude":-74.07566,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "Los Laches",
+        "El Guavio"
+    ],
+    "name:unk_x_variant":[
+        "El Guavio"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0686\u06cc\u0633"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3684107,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"El Guavio",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":3406,
+    "qs_pg:photos_1k":690,
+    "qs_pg:photos_9k":15,
+    "qs_pg:photos_9r":11,
+    "qs_pg:photos_all":3406,
+    "qs_pg:photos_sr":20,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082697,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":354743,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684107,
+        "gp:id":354743,
+        "qs:id":1082697,
+        "qs_pg:id":1082697
+    },
+    "wof:country":"CO",
+    "wof:created":1497313637,
+    "wof:geomhash":"5e42c1616225c47ae2c21ab9aa23b2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126090459,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126090459,
+    "wof:lastmodified":1534379261,
+    "wof:name":"El Guavio",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764623
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.07566,
+    4.59214,
+    -74.07566,
+    4.59214
+],
+  "geometry": {"coordinates":[-74.07566,4.59214],"type":"Point"}
+}

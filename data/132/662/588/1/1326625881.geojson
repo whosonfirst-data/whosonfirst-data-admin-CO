@@ -1,0 +1,71 @@
+{
+  "id": 1326625881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.4606,2.62162,-76.4606,2.62162",
+    "geom:latitude":2.62162,
+    "geom:longitude":-76.4606,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19743.0",
+    "gn:asciiname":"La Floresta",
+    "gn:country_code":"CO",
+    "gn:dem":2448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623927,
+    "gn:latitude":2.62162,
+    "gn:longitude":-76.4606,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Floresta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Floresta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623927
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6d328d5c60316f4c6adc9c666ad72ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700507,
+            "locality_id":1326625881,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1326625881,
+    "wof:lastmodified":1537618810,
+    "wof:name":"La Floresta",
+    "wof:parent_id":1108700507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.4606,
+    2.62162,
+    -76.4606,
+    2.62162
+],
+  "geometry": {"coordinates":[-76.4606,2.62162],"type":"Point"}
+}

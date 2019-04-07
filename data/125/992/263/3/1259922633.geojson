@@ -1,0 +1,72 @@
+{
+  "id": 1259922633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.04542,10.34955,-74.04542,10.34955",
+    "geom:latitude":10.34955,
+    "geom:longitude":-74.04542,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47288.0",
+    "gn:asciiname":"Beatriz Elena",
+    "gn:country_code":"CO",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3689035,
+    "gn:latitude":10.34955,
+    "gn:longitude":-74.04542,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Beatriz Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beatriz",
+        "Beatriz Elena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689035
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24c8c30cc92b5820c6bf86ef3a3dfe64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700889,
+            "locality_id":1259922633,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1259922633,
+    "wof:lastmodified":1537618649,
+    "wof:name":"Beatriz Elena",
+    "wof:parent_id":1108700889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.04542,
+    10.34955,
+    -74.04542,
+    10.34955
+],
+  "geometry": {"coordinates":[-74.04541999999999,10.34955],"type":"Point"}
+}

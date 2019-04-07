@@ -1,0 +1,72 @@
+{
+  "id": 1243317693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.32547,9.41901,-75.32547,9.41901",
+    "geom:latitude":9.41901,
+    "geom:longitude":-75.32547,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70473.0",
+    "gn:asciiname":"Escobar",
+    "gn:country_code":"CO",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682615,
+    "gn:latitude":9.41901,
+    "gn:longitude":-75.32547,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Escobar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Escobar",
+        "Escobar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682615
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19e7cc839db79c989b1a3a06ea275288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701403,
+            "locality_id":1243317693,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1243317693,
+    "wof:lastmodified":1537618561,
+    "wof:name":"Escobar",
+    "wof:parent_id":1108701403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.32547,
+    9.41901,
+    -75.32547,
+    9.41901
+],
+  "geometry": {"coordinates":[-75.32547,9.41901],"type":"Point"}
+}

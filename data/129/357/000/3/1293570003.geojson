@@ -1,0 +1,68 @@
+{
+  "id": 1293570003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76888,4.8214,-76.76888,4.8214",
+    "geom:latitude":4.8214,
+    "geom:longitude":-76.76888,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"27491.0",
+    "gn:asciiname":"Calle Honda",
+    "gn:country_code":"CO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783886,
+    "gn:latitude":4.8214,
+    "gn:longitude":-76.76888,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Calle Honda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783886
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be0479c7792cd1ffa2528c93cf13eebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700781,
+            "locality_id":1293570003,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1293570003,
+    "wof:lastmodified":1536668194,
+    "wof:name":"Calle Honda",
+    "wof:parent_id":1108700781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76888000000002,
+    4.8214,
+    -76.76888000000002,
+    4.8214
+],
+  "geometry": {"coordinates":[-76.76888000000002,4.8214],"type":"Point"}
+}

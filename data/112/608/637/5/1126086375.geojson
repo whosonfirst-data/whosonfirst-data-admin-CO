@@ -1,0 +1,131 @@
+{
+  "id": 1126086375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.12047,4.58594,-74.12047,4.58594",
+    "geom:latitude":4.58594,
+    "geom:longitude":-74.12047,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.58594,
+    "gn:longitude":-74.12047,
+    "iso:country":"CO",
+    "lbl:latitude":4.58594,
+    "lbl:longitude":-74.12047,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Bitva u Boyac\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Schlacht von Boyac\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03c7\u03b7 \u03c4\u03b7\u03c2 \u039c\u03c0\u03bf\u03b3\u03b9\u03b1\u03ba\u03ac"
+    ],
+    "name:epo_x_preferred":[
+        "Batalo de Bojakao"
+    ],
+    "name:fra_x_preferred":[
+        "Bataille de Boyac\u00e1"
+    ],
+    "name:gla_x_preferred":[
+        "Bl\u00e0r Boyac\u00e1"
+    ],
+    "name:gle_x_preferred":[
+        "Cath Boyac\u00e1"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30e4\u30ab\u306e\u6226\u3044"
+    ],
+    "name:kor_x_preferred":[
+        "\ubcf4\uc57c\uce74 \uc804\ud22c"
+    ],
+    "name:spa_x_colloquial":[
+        "Bravo Paez"
+    ],
+    "name:spa_x_preferred":[
+        "Batalla de Boyac\u00e1",
+        "Bravo P\u00e1ez"
+    ],
+    "name:unk_x_variant":[
+        "Bravo P\u00e1ez"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3688515,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Bravo P\u00e1ez",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":17,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":17,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1321645,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":351674,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688515,
+        "gp:id":351674,
+        "qs:id":1321645,
+        "qs_pg:id":1321645
+    },
+    "wof:country":"CO",
+    "wof:created":1497312868,
+    "wof:geomhash":"bab388f7e0fcad1b81bdf2d99819ceb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126086375,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126086375,
+    "wof:lastmodified":1534379261,
+    "wof:name":"Bravo P\u00e1ez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764559
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.12047,
+    4.58594,
+    -74.12047,
+    4.58594
+],
+  "geometry": {"coordinates":[-74.12047,4.58594],"type":"Point"}
+}

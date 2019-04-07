@@ -1,0 +1,68 @@
+{
+  "id": 1343547717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91729,9.30603,-75.91729,9.30603",
+    "geom:latitude":9.30603,
+    "geom:longitude":-75.91729,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23417.0",
+    "gn:asciiname":"Vuelta de San Juan",
+    "gn:country_code":"CO",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665828,
+    "gn:latitude":9.30603,
+    "gn:longitude":-75.91729,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vuelta de San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421192871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665828
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a64f5fa954bda81025622c610f6882c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192871,
+            "locality_id":1343547717,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343547717,
+    "wof:lastmodified":1536618177,
+    "wof:name":"Vuelta de San Juan",
+    "wof:parent_id":421192871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91729000000002,
+    9.30603,
+    -75.91729000000002,
+    9.30603
+],
+  "geometry": {"coordinates":[-75.91729000000002,9.30603],"type":"Point"}
+}

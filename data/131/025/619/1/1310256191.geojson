@@ -1,0 +1,68 @@
+{
+  "id": 1310256191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39638,5.64881,-75.39638,5.64881",
+    "geom:latitude":5.64881,
+    "geom:longitude":-75.39638,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17013.0",
+    "gn:asciiname":"Rio Arriba",
+    "gn:country_code":"CO",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670769,
+    "gn:latitude":5.64881,
+    "gn:longitude":-75.39638,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"R\u00edo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421188637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670769
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e8b92ae8ec81e37b683e831fbd88988c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188637,
+            "locality_id":1310256191,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1310256191,
+    "wof:lastmodified":1536779688,
+    "wof:name":"Rio Arriba",
+    "wof:parent_id":421188637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39638000000002,
+    5.64881,
+    -75.39638000000002,
+    5.64881
+],
+  "geometry": {"coordinates":[-75.39638000000002,5.64881],"type":"Point"}
+}

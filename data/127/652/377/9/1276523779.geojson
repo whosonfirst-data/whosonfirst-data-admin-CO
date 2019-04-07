@@ -1,0 +1,72 @@
+{
+  "id": 1276523779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05714,10.82101,-73.05714,10.82101",
+    "geom:latitude":10.82101,
+    "geom:longitude":-73.05714,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44650.0",
+    "gn:asciiname":"Corral de Piedra",
+    "gn:country_code":"CO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685800,
+    "gn:latitude":10.82101,
+    "gn:longitude":-73.05714,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Corral de Piedra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Piedras",
+        "Corral de Piedra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421176067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685800
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8f4c4904113d1c7eb13044188b7eb768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421176067,
+            "locality_id":1276523779,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1276523779,
+    "wof:lastmodified":1537618614,
+    "wof:name":"Corral de Piedra",
+    "wof:parent_id":421176067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05714,
+    10.82101,
+    -73.05714,
+    10.82101
+],
+  "geometry": {"coordinates":[-73.05714,10.82101],"type":"Point"}
+}

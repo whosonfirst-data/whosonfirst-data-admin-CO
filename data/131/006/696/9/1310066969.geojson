@@ -1,0 +1,73 @@
+{
+  "id": 1310066969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63333,3.85,-75.63333,3.85",
+    "geom:latitude":3.85,
+    "geom:longitude":-75.63333,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73168.0",
+    "gn:asciiname":"Vega de Moya",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666250,
+    "gn:latitude":3.85,
+    "gn:longitude":-75.63333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vega de Moya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vega de Amoy\u00e1",
+        "Vega de Moya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421185185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666250
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a9973a3231618367ed9b2df422e488c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185185,
+            "locality_id":1310066969,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310066969,
+    "wof:lastmodified":1537618365,
+    "wof:name":"Vega de Moya",
+    "wof:parent_id":421185185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63333,
+    3.85,
+    -75.63333,
+    3.85
+],
+  "geometry": {"coordinates":[-75.63333,3.85],"type":"Point"}
+}

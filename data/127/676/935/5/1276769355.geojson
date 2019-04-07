@@ -1,0 +1,75 @@
+{
+  "id": 1276769355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.16128,6.50845,-71.16128,6.50845",
+    "geom:latitude":6.50845,
+    "geom:longitude":-71.16128,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"La Vilena",
+    "gn:country_code":"CO",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676735,
+    "gn:latitude":6.50845,
+    "gn:longitude":-71.16128,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Vile\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Vilena"
+    ],
+    "name:und_x_variant":[
+        "Fundo La Vile\u00f1a",
+        "La Vile\u00f1a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676735
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7688b9946aee58f375d6ef52ee227e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1276769355,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276769355,
+    "wof:lastmodified":1537618484,
+    "wof:name":"La Vilena",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.16128,
+    6.50845,
+    -71.16128,
+    6.50845
+],
+  "geometry": {"coordinates":[-71.16128,6.50845],"type":"Point"}
+}

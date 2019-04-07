@@ -1,0 +1,68 @@
+{
+  "id": 1259655791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.59996,2.5528,-75.59996,2.5528",
+    "geom:latitude":2.5528,
+    "geom:longitude":-75.59996,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41357.0",
+    "gn:asciiname":"La Ensillada",
+    "gn:country_code":"CO",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781245,
+    "gn:latitude":2.5528,
+    "gn:longitude":-75.59996,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ensillada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781245
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"03b218cfe1787627353701979beaf3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700817,
+            "locality_id":1259655791,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1259655791,
+    "wof:lastmodified":1536607825,
+    "wof:name":"La Ensillada",
+    "wof:parent_id":1108700817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59996,
+    2.5528,
+    -75.59996,
+    2.5528
+],
+  "geometry": {"coordinates":[-75.59996,2.5528],"type":"Point"}
+}

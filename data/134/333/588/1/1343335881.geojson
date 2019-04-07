@@ -1,0 +1,68 @@
+{
+  "id": 1343335881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.75603,0.98758,-77.75603,0.98758",
+    "geom:latitude":0.98758,
+    "geom:longitude":-77.75603,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52317.0",
+    "gn:asciiname":"Chapud",
+    "gn:country_code":"CO",
+    "gn:dem":3186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828578,
+    "gn:latitude":0.98758,
+    "gn:longitude":-77.75603,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chapud",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828578
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"359ec5b5aa38528f1305d4c94722abc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701007,
+            "locality_id":1343335881,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343335881,
+    "wof:lastmodified":1536926864,
+    "wof:name":"Chapud",
+    "wof:parent_id":1108701007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.75603000000002,
+    0.98758,
+    -77.75603000000002,
+    0.98758
+],
+  "geometry": {"coordinates":[-77.75603000000002,0.98758],"type":"Point"}
+}

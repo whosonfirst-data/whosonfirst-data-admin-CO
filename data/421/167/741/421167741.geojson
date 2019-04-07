@@ -1,0 +1,124 @@
+{
+  "id": 421167741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08333,7.21667,-73.08333,7.21667",
+    "geom:latitude":7.21667,
+    "geom:longitude":-73.08333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0627\u0631\u0627\u0645\u0627\u0646\u063a\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u043a\u0430\u0440\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0440\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0631\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ab\u30e9\u30de\u30f3\u30ac"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10d9\u10d0\u10e0\u10d0\u10db\u10d0\u10dc\u10d2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uce74\ub77c\ub9dd\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Bukaramanga"
+    ],
+    "name:lit_x_preferred":[
+        "Bukaramanga"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0631\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0440\u0430\u043c\u0430\u043d\u0433\u0430"
+    ],
+    "name:sgs_x_preferred":[
+        "Bukaramanga"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e39\u0e01\u0e32\u0e23\u0e32\u0e21\u0e31\u0e07\u0e01\u0e32"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0440\u0430\u043c\u0430\u043d\u0491\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0631\u0627\u0645\u0627\u0646\u06af\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5361\u62c9\u66fc\u52a0"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3688467,
+    "qs:gn_pop":0,
+    "qs:name":"Bucaramanga",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":137,
+    "qs:photos_1k":28,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4932,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":353582,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797407,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":3690,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688467,
+        "gp:id":26797407,
+        "qs:id":353582,
+        "wd:id":"Q243766"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008741,
+    "wof:geomhash":"34ac12653d6476c54f54457f7e2cf682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167741,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421167741,
+    "wof:lastmodified":1527716157,
+    "wof:name":"Bucaramanga",
+    "wof:parent_id":85670141,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08333,
+    7.21667,
+    -73.08333,
+    7.21667
+],
+  "geometry": {"coordinates":[-73.08333,7.21667],"type":"Point"}
+}

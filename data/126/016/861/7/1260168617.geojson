@@ -1,0 +1,74 @@
+{
+  "id": 1260168617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.18333,4.9,-76.18333,4.9",
+    "geom:latitude":4.9,
+    "geom:longitude":-76.18333,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27660.0",
+    "gn:asciiname":"El Pie",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683476,
+    "gn:latitude":4.9,
+    "gn:longitude":-76.18333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Pie",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boquer\u00f3n",
+        "Gal\u00e1pagos",
+        "El Pie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683476
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4266a970879bbd4c6feef9bafa89b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700787,
+            "locality_id":1260168617,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1260168617,
+    "wof:lastmodified":1537618577,
+    "wof:name":"El Pie",
+    "wof:parent_id":1108700787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.18333,
+    4.9,
+    -76.18333,
+    4.9
+],
+  "geometry": {"coordinates":[-76.18333,4.9],"type":"Point"}
+}

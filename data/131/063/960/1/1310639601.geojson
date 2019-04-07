@@ -1,0 +1,71 @@
+{
+  "id": 1310639601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.75685,5.35719,-74.75685,5.35719",
+    "geom:latitude":5.35719,
+    "geom:longitude":-74.75685,
+    "gn:admin1_code":"37.0",
+    "gn:admin2_code":"17380.0",
+    "gn:asciiname":"La Referroa",
+    "gn:country_code":"CO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523272,
+    "gn:latitude":5.35719,
+    "gn:longitude":-74.75685,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Referroa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Referroa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421203437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523272
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5ab952a04bc97bddf20280df20e56e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203437,
+            "locality_id":1310639601,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1310639601,
+    "wof:lastmodified":1537618713,
+    "wof:name":"La Referroa",
+    "wof:parent_id":421203437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.75685,
+    5.35719,
+    -74.75685,
+    5.35719
+],
+  "geometry": {"coordinates":[-74.75685,5.35719],"type":"Point"}
+}

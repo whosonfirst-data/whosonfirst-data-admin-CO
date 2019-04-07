@@ -1,0 +1,93 @@
+{
+  "id": 1126099785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51667,10.41667,-75.51667,10.41667",
+    "geom:latitude":10.41667,
+    "geom:longitude":-75.51667,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":10.41667,
+    "lbl:longitude":-75.51667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3682577,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Esperanza",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Bolivar",
+    "qs_pg:photos":263,
+    "qs_pg:photos_1k":53,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":263,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":235287,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":356383,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Bolivar",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670209,
+        102191577,
+        85632519,
+        1108700093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682577,
+        "gp:id":356383,
+        "qs_pg:id":235287
+    },
+    "wof:country":"CO",
+    "wof:created":1497315853,
+    "wof:geomhash":"9848f800c89c81c4e8dafb3d2258dbea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700093,
+            "locality_id":-1,
+            "neighbourhood_id":1126099785,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1126099785,
+    "wof:lastmodified":1534379259,
+    "wof:name":"Esperanza",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764643
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51667,
+    10.41667,
+    -75.51667,
+    10.41667
+],
+  "geometry": {"coordinates":[-75.51667,10.41667],"type":"Point"}
+}

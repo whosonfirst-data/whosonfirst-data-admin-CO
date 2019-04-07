@@ -1,0 +1,68 @@
+{
+  "id": 1327275267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61356,4.45592,-74.61356,4.45592",
+    "geom:latitude":4.45592,
+    "geom:longitude":-74.61356,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25815.0",
+    "gn:asciiname":"Puente Portillo",
+    "gn:country_code":"CO",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671587,
+    "gn:latitude":4.45592,
+    "gn:longitude":-74.61356,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puente Portillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671587
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0276115e92f1c316c0d3bfadc55fa972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188671,
+            "locality_id":1327275267,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1327275267,
+    "wof:lastmodified":1536907989,
+    "wof:name":"Puente Portillo",
+    "wof:parent_id":421188671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61355999999998,
+    4.45592,
+    -74.61355999999998,
+    4.45592
+],
+  "geometry": {"coordinates":[-74.61355999999998,4.45592],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1276278141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6,9.5,-75.6,9.5",
+    "geom:latitude":9.5,
+    "geom:longitude":-75.6,
+    "gn:admin1_code":"27.0",
+    "gn:asciiname":"Versalles",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666095,
+    "gn:latitude":9.5,
+    "gn:longitude":-75.6,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Versalles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Versalles",
+        "Versalles"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666095
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"94f208dbd8c50ed6fc558db7eb85d324",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276278141,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276278141,
+    "wof:lastmodified":1537618363,
+    "wof:name":"Versalles",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6,
+    9.5,
+    -75.6,
+    9.5
+],
+  "geometry": {"coordinates":[-75.59999999999999,9.5],"type":"Point"}
+}

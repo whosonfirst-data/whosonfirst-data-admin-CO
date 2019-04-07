@@ -1,0 +1,68 @@
+{
+  "id": 102546089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.86861111,5.13055556,-70.86861111,5.13055556",
+    "geom:latitude":5.130556,
+    "geom:longitude":-70.868611,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_variant":[
+        "SSL"
+    ],
+    "oa:elevation_ft":"400",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424787,
+        "county_id":26797675,
+        "planet_id":1,
+        "state_id":2345076
+    },
+    "wof:belongsto":[
+        85632519,
+        85670263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523707,
+        "iata:code":"SSL",
+        "icao:code":"SKSL",
+        "oa:id":"316777",
+        "wd:id":"Q28163852"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"66047a4358098b4cfb73ee015f0296c4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102546089,
+            "country_id":85632519,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":102546089,
+    "wof:lastmodified":1543846098,
+    "wof:name":"Santa Rosalia Airport",
+    "wof:parent_id":85670263,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -70.86861111,
+    5.13055556,
+    -70.86861111,
+    5.13055556
+],
+  "geometry": {"coordinates":[-70.86861111,5.13055556],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209855775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.09889,5.70028,-74.09889,5.70028",
+    "geom:latitude":5.70028,
+    "geom:longitude":-74.09889,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15681.0",
+    "gn:asciiname":"Bayaholi",
+    "gn:country_code":"CO",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3774568,
+    "gn:latitude":5.70028,
+    "gn:longitude":-74.09889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bayaholi",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3774568
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8675b3f207d4ffde31566af6270c04a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700319,
+            "locality_id":1209855775,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1209855775,
+    "wof:lastmodified":1536386388,
+    "wof:name":"Bayaholi",
+    "wof:parent_id":1108700319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.09889,
+    5.70028,
+    -74.09889,
+    5.70028
+],
+  "geometry": {"coordinates":[-74.09889,5.70028],"type":"Point"}
+}

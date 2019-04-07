@@ -1,0 +1,71 @@
+{
+  "id": 1193266987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6977,8.35642,-73.6977,8.35642",
+    "geom:latitude":8.35642,
+    "geom:longitude":-73.6977,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20295.0",
+    "gn:asciiname":"Balconcitos",
+    "gn:country_code":"CO",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016071,
+    "gn:latitude":8.35642,
+    "gn:longitude":-73.6977,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Balconcitos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Balconcitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016071
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c0c757039e491cdbd6902c15ba0afd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700539,
+            "locality_id":1193266987,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1193266987,
+    "wof:lastmodified":1537618748,
+    "wof:name":"Balconcitos",
+    "wof:parent_id":1108700539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6977,
+    8.35642,
+    -73.6977,
+    8.35642
+],
+  "geometry": {"coordinates":[-73.6977,8.35642],"type":"Point"}
+}

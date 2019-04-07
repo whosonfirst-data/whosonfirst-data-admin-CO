@@ -1,0 +1,68 @@
+{
+  "id": 1309700599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37295,8.43172,-73.37295,8.43172",
+    "geom:latitude":8.43172,
+    "geom:longitude":-73.37295,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20310.0",
+    "gn:asciiname":"Burbura",
+    "gn:country_code":"CO",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688237,
+    "gn:latitude":8.43172,
+    "gn:longitude":-73.37295,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"B\u00farbura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688237
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b37bf2a6406a6ac63be0f7ed5af2f6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700543,
+            "locality_id":1309700599,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1309700599,
+    "wof:lastmodified":1537079675,
+    "wof:name":"Burbura",
+    "wof:parent_id":1108700543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37295,
+    8.43172,
+    -73.37295,
+    8.43172
+],
+  "geometry": {"coordinates":[-73.37295,8.43172],"type":"Point"}
+}

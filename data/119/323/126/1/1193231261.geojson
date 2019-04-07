@@ -1,0 +1,73 @@
+{
+  "id": 1193231261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.06667,8.96667,-74.06667,8.96667",
+    "geom:latitude":8.96667,
+    "geom:longitude":-74.06667,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13300.0",
+    "gn:asciiname":"Las Aguadas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677780,
+    "gn:latitude":8.96667,
+    "gn:longitude":-74.06667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Aguadas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Las Aguadas",
+        "Las Aguadas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677780
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b3d2d7eb77029ea37a449a97cb7b0f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700123,
+            "locality_id":1193231261,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1193231261,
+    "wof:lastmodified":1537618503,
+    "wof:name":"Las Aguadas",
+    "wof:parent_id":1108700123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06667,
+    8.96667,
+    -74.06667,
+    8.96667
+],
+  "geometry": {"coordinates":[-74.06667,8.96667],"type":"Point"}
+}

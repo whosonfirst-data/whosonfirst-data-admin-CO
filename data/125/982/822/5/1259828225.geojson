@@ -1,0 +1,71 @@
+{
+  "id": 1259828225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73038,4.51215,-74.73038,4.51215",
+    "geom:latitude":4.51215,
+    "geom:longitude":-74.73038,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25368.0",
+    "gn:asciiname":"Cotoma",
+    "gn:country_code":"CO",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8561567,
+    "gn:latitude":4.51215,
+    "gn:longitude":-74.73038,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cotoma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cotoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561567
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a608fe9a8d3a726ca5813a4da7b95ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700663,
+            "locality_id":1259828225,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1259828225,
+    "wof:lastmodified":1537618782,
+    "wof:name":"Cotoma",
+    "wof:parent_id":1108700663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73038000000003,
+    4.51215,
+    -74.73038000000003,
+    4.51215
+],
+  "geometry": {"coordinates":[-74.73038000000003,4.51215],"type":"Point"}
+}

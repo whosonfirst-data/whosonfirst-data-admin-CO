@@ -1,0 +1,71 @@
+{
+  "id": 1360232153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03917,3.43889,-75.03917,3.43889",
+    "geom:latitude":3.43889,
+    "geom:longitude":-75.03917,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73483.0",
+    "gn:asciiname":"Los Planes",
+    "gn:country_code":"CO",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735785,
+    "gn:latitude":3.43889,
+    "gn:longitude":-75.03917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Planes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Planes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735785
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b2e0b2d73c6a272396630d1939fb4840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701447,
+            "locality_id":1360232153,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1360232153,
+    "wof:lastmodified":1537618675,
+    "wof:name":"Los Planes",
+    "wof:parent_id":1108701447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03917,
+    3.43889,
+    -75.03917,
+    3.43889
+],
+  "geometry": {"coordinates":[-75.03917,3.43889],"type":"Point"}
+}

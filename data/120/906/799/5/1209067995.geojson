@@ -1,0 +1,66 @@
+{
+  "id": 1209067995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.81472,0.86194,-77.81472,0.86194",
+    "geom:latitude":0.86194,
+    "geom:longitude":-77.81472,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52227.0",
+    "gn:asciiname":"Cuaspud",
+    "gn:country_code":"CO",
+    "gn:dem":3207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828745,
+    "gn:latitude":0.86194,
+    "gn:longitude":-77.81472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cuaspud",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828745,
+        "wk:page":"Cuaspud"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e89cecefd4a4343e325398feae863a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209067995
+        }
+    ],
+    "wof:id":1209067995,
+    "wof:lastmodified":1537618702,
+    "wof:name":"Cuaspud",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.81472,
+    0.86194,
+    -77.81472,
+    0.86194
+],
+  "geometry": {"coordinates":[-77.81471999999999,0.86194],"type":"Point"}
+}

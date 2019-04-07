@@ -1,0 +1,68 @@
+{
+  "id": 1242729689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35,4.81667,-73.35,4.81667",
+    "geom:latitude":4.81667,
+    "geom:longitude":-73.35,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15236.0",
+    "gn:asciiname":"Culima",
+    "gn:country_code":"CO",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685455,
+    "gn:latitude":4.81667,
+    "gn:longitude":-73.35,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Culima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421186373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685455
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c3df73f169289ca4ade594a649244421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421186373,
+            "locality_id":1242729689,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1242729689,
+    "wof:lastmodified":1536843783,
+    "wof:name":"Culima",
+    "wof:parent_id":421186373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35,
+    4.81667,
+    -73.35,
+    4.81667
+],
+  "geometry": {"coordinates":[-73.34999999999999,4.81667],"type":"Point"}
+}

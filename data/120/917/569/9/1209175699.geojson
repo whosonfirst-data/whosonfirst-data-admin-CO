@@ -1,0 +1,66 @@
+{
+  "id": 1209175699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.57285,9.89573,-75.57285,9.89573",
+    "geom:latitude":9.89573,
+    "geom:longitude":-75.57285,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70713.0",
+    "gn:asciiname":"Libertad",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676596,
+    "gn:latitude":9.89573,
+    "gn:longitude":-75.57285,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Libertad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Libertad",
+        "Libertad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676596
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8ffd875b2fecc5bc3d81a7d77b18906d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209175699
+        }
+    ],
+    "wof:id":1209175699,
+    "wof:lastmodified":1537618482,
+    "wof:name":"Libertad",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.57285,
+    9.89573,
+    -75.57285,
+    9.89573
+],
+  "geometry": {"coordinates":[-75.57285,9.89573],"type":"Point"}
+}

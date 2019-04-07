@@ -1,0 +1,68 @@
+{
+  "id": 1243609917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64528,4.94639,-75.64528,4.94639",
+    "geom:latitude":4.94639,
+    "geom:longitude":-75.64528,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66682.0",
+    "gn:asciiname":"San Juanito",
+    "gn:country_code":"CO",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811744,
+    "gn:latitude":4.94639,
+    "gn:longitude":-75.64528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Juanito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421200815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811744
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"16a32f215a559f42c577921a24e5748d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200815,
+            "locality_id":1243609917,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1243609917,
+    "wof:lastmodified":1537064204,
+    "wof:name":"San Juanito",
+    "wof:parent_id":421200815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64528,
+    4.94639,
+    -75.64528,
+    4.94639
+],
+  "geometry": {"coordinates":[-75.64528,4.94639],"type":"Point"}
+}

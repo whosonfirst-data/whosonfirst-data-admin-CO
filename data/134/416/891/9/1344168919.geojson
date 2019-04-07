@@ -1,0 +1,71 @@
+{
+  "id": 1344168919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.60875,6.05345,-75.60875,6.05345",
+    "geom:latitude":6.05345,
+    "geom:longitude":-75.60875,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5129.0",
+    "gn:asciiname":"La Clara",
+    "gn:country_code":"CO",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337440,
+    "gn:latitude":6.05345,
+    "gn:longitude":-75.60875,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Clara",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Clara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337440
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d5016ac9c58b3dccee22f6f44367979b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205077,
+            "locality_id":1344168919,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1344168919,
+    "wof:lastmodified":1537618776,
+    "wof:name":"La Clara",
+    "wof:parent_id":421205077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.60875,
+    6.05345,
+    -75.60875,
+    6.05345
+],
+  "geometry": {"coordinates":[-75.60875,6.05345],"type":"Point"}
+}

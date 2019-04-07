@@ -1,0 +1,68 @@
+{
+  "id": 1226542719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78139,5.95444,-75.78139,5.95444",
+    "geom:latitude":5.95444,
+    "geom:longitude":-75.78139,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5861.0",
+    "gn:asciiname":"La Loma",
+    "gn:country_code":"CO",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780509,
+    "gn:latitude":5.95444,
+    "gn:longitude":-75.78139,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780509
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"525414559bdd7c7c6c6b133ddcf2b693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188621,
+            "locality_id":1226542719,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226542719,
+    "wof:lastmodified":1537001631,
+    "wof:name":"La Loma",
+    "wof:parent_id":421188621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78139,
+    5.95444,
+    -75.78139,
+    5.95444
+],
+  "geometry": {"coordinates":[-75.78139,5.95444],"type":"Point"}
+}

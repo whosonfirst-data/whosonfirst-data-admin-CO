@@ -1,0 +1,71 @@
+{
+  "id": 1276492431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.27939,3.30458,-76.27939,3.30458",
+    "geom:latitude":3.30458,
+    "geom:longitude":-76.27939,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76275.0",
+    "gn:asciiname":"La Sequia",
+    "gn:country_code":"CO",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622302,
+    "gn:latitude":3.30458,
+    "gn:longitude":-76.27939,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Sequ\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Sequ\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421188707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622302
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8d20ef9ef19e5fa1a97afd4c936f1fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188707,
+            "locality_id":1276492431,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1276492431,
+    "wof:lastmodified":1537618799,
+    "wof:name":"La Sequia",
+    "wof:parent_id":421188707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.27939,
+    3.30458,
+    -76.27939,
+    3.30458
+],
+  "geometry": {"coordinates":[-76.27939000000001,3.30458],"type":"Point"}
+}

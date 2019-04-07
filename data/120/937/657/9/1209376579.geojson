@@ -1,0 +1,65 @@
+{
+  "id": 1209376579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.29409,1.55393,-77.29409,1.55393",
+    "geom:latitude":1.55393,
+    "geom:longitude":-77.29409,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52786.0",
+    "gn:asciiname":"Turbambilla Dos",
+    "gn:country_code":"CO",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735684,
+    "gn:latitude":1.55393,
+    "gn:longitude":-77.29409,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Turbambilla Dos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turbambilla 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735684
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"10faef02d18286bdba9c304b62ffa8fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209376579
+        }
+    ],
+    "wof:id":1209376579,
+    "wof:lastmodified":1537618674,
+    "wof:name":"Turbambilla Dos",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.29409,
+    1.55393,
+    -77.29409,
+    1.55393
+],
+  "geometry": {"coordinates":[-77.29409,1.55393],"type":"Point"}
+}

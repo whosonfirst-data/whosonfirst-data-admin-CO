@@ -1,0 +1,68 @@
+{
+  "id": 1276715895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.40547,6.32509,-73.40547,6.32509",
+    "geom:latitude":6.32509,
+    "geom:longitude":-73.40547,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68176.0",
+    "gn:asciiname":"Batallon Ingenieros",
+    "gn:country_code":"CO",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732580,
+    "gn:latitude":6.32509,
+    "gn:longitude":-73.40547,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Batall\u00f3n Ingenieros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732580
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"33e9ef3401af019a023a62c4bd0e91d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701219,
+            "locality_id":1276715895,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1276715895,
+    "wof:lastmodified":1536763660,
+    "wof:name":"Batallon Ingenieros",
+    "wof:parent_id":1108701219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.40547,
+    6.32509,
+    -73.40547,
+    6.32509
+],
+  "geometry": {"coordinates":[-73.40546999999999,6.32509],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259369483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87739,8.90872,-75.87739,8.90872",
+    "geom:latitude":8.90872,
+    "geom:longitude":-75.87739,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23162.0",
+    "gn:asciiname":"Chilin",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686616,
+    "gn:latitude":8.90872,
+    "gn:longitude":-75.87739,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chil\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686616
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"22a657de0b3e69991d865297f50da4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700607,
+            "locality_id":1259369483,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1259369483,
+    "wof:lastmodified":1537021499,
+    "wof:name":"Chilin",
+    "wof:parent_id":1108700607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87739,
+    8.90872,
+    -75.87739,
+    8.90872
+],
+  "geometry": {"coordinates":[-75.87739000000001,8.90872],"type":"Point"}
+}

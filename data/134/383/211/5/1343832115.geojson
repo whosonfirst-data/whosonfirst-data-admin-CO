@@ -1,0 +1,74 @@
+{
+  "id": 1343832115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.4535,1.172,-77.4535,1.172",
+    "geom:latitude":1.172,
+    "geom:longitude":-77.4535,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52207.0",
+    "gn:asciiname":"Alto Cariaco",
+    "gn:country_code":"CO",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688665,
+    "gn:latitude":1.172,
+    "gn:longitude":-77.4535,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Alto Cariaco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Miguel de Cariaco",
+        "Cariaco",
+        "Bol\u00edvar",
+        "Alto Cariaco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688665
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f11d0dc722fe1d9bc834eb3eb15de454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700983,
+            "locality_id":1343832115,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343832115,
+    "wof:lastmodified":1537618644,
+    "wof:name":"Alto Cariaco",
+    "wof:parent_id":1108700983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.4535,
+    1.172,
+    -77.4535,
+    1.172
+],
+  "geometry": {"coordinates":[-77.45350000000001,1.172],"type":"Point"}
+}

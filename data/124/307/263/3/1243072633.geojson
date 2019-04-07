@@ -1,0 +1,79 @@
+{
+  "id": 1243072633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88356,10.37808,-74.88356,10.37808",
+    "geom:latitude":10.37808,
+    "geom:longitude":-74.88356,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8137.0",
+    "gn:asciiname":"Campo de la Cruz",
+    "gn:country_code":"CO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3687758,
+    "gn:latitude":10.37808,
+    "gn:longitude":-74.88356,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Campo de la Cruz",
+    "gn:population":22803,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u043f\u043e-\u0434\u0435-\u043b\u0430-\u041a\u0440\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Puerto Real de la Cruz",
+        "Campo de la Cruz"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687758,
+        "wk:page":"Campo_de_la_Cruz"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"34b74c10a92a9789ad30d98e201f6521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700053,
+            "locality_id":1243072633,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1243072633,
+    "wof:lastmodified":1537618635,
+    "wof:name":"Campo de la Cruz",
+    "wof:parent_id":1108700053,
+    "wof:placetype":"locality",
+    "wof:population":22803,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88356,
+    10.37808,
+    -74.88356,
+    10.37808
+],
+  "geometry": {"coordinates":[-74.88356,10.37808],"type":"Point"}
+}

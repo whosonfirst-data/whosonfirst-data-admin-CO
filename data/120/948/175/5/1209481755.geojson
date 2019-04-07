@@ -1,0 +1,62 @@
+{
+  "id": 1209481755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.98226,10.43749,-72.98226,10.43749",
+    "geom:latitude":10.43749,
+    "geom:longitude":-72.98226,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44855.0",
+    "gn:asciiname":"La Indiana",
+    "gn:country_code":"CO",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757991,
+    "gn:latitude":10.43749,
+    "gn:longitude":-72.98226,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Indiana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757991
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4c7ca060296742130412ed0a13490344",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209481755
+        }
+    ],
+    "wof:id":1209481755,
+    "wof:lastmodified":1536285761,
+    "wof:name":"La Indiana",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.98226,
+    10.43749,
+    -72.98226,
+    10.43749
+],
+  "geometry": {"coordinates":[-72.98226,10.43749],"type":"Point"}
+}

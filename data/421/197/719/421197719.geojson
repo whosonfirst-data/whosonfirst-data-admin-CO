@@ -1,0 +1,128 @@
+{
+  "id": 421197719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6243,7.87707,-72.6243,7.87707",
+    "geom:latitude":7.87707,
+    "geom:longitude":-72.6243,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u5361\u8036\u5854\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:eng_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:fre_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10d8\u10d4\u10e2\u10d0\u10dc\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:ita_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:may_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:pol_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:por_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:sco_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:spa_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:swe_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:tgl_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:vie_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:war_x_preferred":[
+        "San Cayetano"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669977,
+    "qs:gn_pop":1430,
+    "qs:name":"San Cayetano",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Norte de Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150027,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365295,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669977,
+        "gp:id":365295,
+        "qs:id":150027,
+        "wd:id":"Q2434048"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009923,
+    "wof:geomhash":"c89a5ed37b430d88556ac604a7b13b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701143,
+            "locality_id":421197719,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":421197719,
+    "wof:lastmodified":1553816385,
+    "wof:name":"San Cayetano",
+    "wof:parent_id":1108701143,
+    "wof:placetype":"locality",
+    "wof:population":1430,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6243,
+    7.87707,
+    -72.6243,
+    7.87707
+],
+  "geometry": {"coordinates":[-72.62430000000001,7.87707],"type":"Point"}
+}

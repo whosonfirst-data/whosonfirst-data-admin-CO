@@ -1,0 +1,126 @@
+{
+  "id": 421202911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.61667,5.0,-74.61667,5.0",
+    "geom:latitude":5.0,
+    "geom:longitude":-74.61667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u62c9\u6885\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "La Mesa"
+    ],
+    "name:eng_x_preferred":[
+        "La Mesa"
+    ],
+    "name:fre_x_preferred":[
+        "La Mesa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10db\u10d4\u10e1\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "La Mesa"
+    ],
+    "name:gla_x_preferred":[
+        "La Mesa"
+    ],
+    "name:ita_x_preferred":[
+        "La Mesa"
+    ],
+    "name:may_x_preferred":[
+        "La Mesa"
+    ],
+    "name:nan_x_preferred":[
+        "La Mesa"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0645\u0633\u0627"
+    ],
+    "name:spa_x_preferred":[
+        "La Mesa"
+    ],
+    "name:swe_x_preferred":[
+        "La Mesa"
+    ],
+    "name:tgl_x_preferred":[
+        "La Mesa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0645\u06cc\u0633\u0627\u060c \u06a9\u0648\u0644\u0648\u0645\u0628\u06cc\u0627"
+    ],
+    "name:war_x_preferred":[
+        "La Mesa"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678407,
+    "qs:gn_pop":0,
+    "qs:name":"La Mesa",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":222,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":222,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228650,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368324,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":90,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678407,
+        "gp:id":368324,
+        "qs:id":228650,
+        "wd:id":"Q936790"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010134,
+    "wof:geomhash":"963116fde7d17f1083006fbe1b55dd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700639,
+            "locality_id":421202911,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421202911,
+    "wof:lastmodified":1553816389,
+    "wof:name":"La Mesa",
+    "wof:parent_id":1108700639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.61667,
+    5.0,
+    -74.61667,
+    5.0
+],
+  "geometry": {"coordinates":[-74.61667,5.0],"type":"Point"}
+}

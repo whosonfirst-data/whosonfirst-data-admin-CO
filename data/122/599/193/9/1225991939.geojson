@@ -1,0 +1,68 @@
+{
+  "id": 1225991939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.89167,8.96102,-74.89167,8.96102",
+    "geom:latitude":8.96102,
+    "geom:longitude":-74.89167,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70678.0",
+    "gn:asciiname":"Pasoclave",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672803,
+    "gn:latitude":8.96102,
+    "gn:longitude":-74.89167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pasoclave",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672803
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f5f82802af9c1f942460bceabd0dc947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701411,
+            "locality_id":1225991939,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1225991939,
+    "wof:lastmodified":1536802721,
+    "wof:name":"Pasoclave",
+    "wof:parent_id":1108701411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.89166999999998,
+    8.96102,
+    -74.89166999999998,
+    8.96102
+],
+  "geometry": {"coordinates":[-74.89166999999998,8.96102],"type":"Point"}
+}

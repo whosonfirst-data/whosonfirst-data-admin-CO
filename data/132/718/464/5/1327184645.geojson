@@ -1,0 +1,68 @@
+{
+  "id": 1327184645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.33944,3.58306,-76.33944,3.58306",
+    "geom:latitude":3.58306,
+    "geom:longitude":-76.33944,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76520.0",
+    "gn:asciiname":"Ermita",
+    "gn:country_code":"CO",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3778738,
+    "gn:latitude":3.58306,
+    "gn:longitude":-76.33944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ermita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421205105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3778738
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1edaed37939f51fdbf8740f191c2002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205105,
+            "locality_id":1327184645,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327184645,
+    "wof:lastmodified":1537037090,
+    "wof:name":"Ermita",
+    "wof:parent_id":421205105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33944,
+    3.58306,
+    -76.33944,
+    3.58306
+],
+  "geometry": {"coordinates":[-76.33944,3.58306],"type":"Point"}
+}

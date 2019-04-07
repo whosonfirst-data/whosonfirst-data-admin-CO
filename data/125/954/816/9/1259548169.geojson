@@ -1,0 +1,68 @@
+{
+  "id": 1259548169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.05,1.23333,-78.05,1.23333",
+    "geom:latitude":1.23333,
+    "geom:longitude":-78.05,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52612.0",
+    "gn:asciiname":"Ospina Perez",
+    "gn:country_code":"CO",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673479,
+    "gn:latitude":1.23333,
+    "gn:longitude":-78.05,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ospina P\u00e9rez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673479
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c33c14139d708830e39bbd969987a936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701059,
+            "locality_id":1259548169,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1259548169,
+    "wof:lastmodified":1536766279,
+    "wof:name":"Ospina Perez",
+    "wof:parent_id":1108701059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.05,
+    1.23333,
+    -78.05,
+    1.23333
+],
+  "geometry": {"coordinates":[-78.05,1.23333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293551609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.47533,3.35545,-73.47533,3.35545",
+    "geom:latitude":3.35545,
+    "geom:longitude":-73.47533,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50287.0",
+    "gn:asciiname":"Los Ortices",
+    "gn:country_code":"CO",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8596960,
+    "gn:latitude":3.35545,
+    "gn:longitude":-73.47533,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Ortices",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Ortices"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596960
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e7e63a0e3cba656ad34da6232c00c52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700935,
+            "locality_id":1293551609,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1293551609,
+    "wof:lastmodified":1537618795,
+    "wof:name":"Los Ortices",
+    "wof:parent_id":1108700935,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.47533,
+    3.35545,
+    -73.47533,
+    3.35545
+],
+  "geometry": {"coordinates":[-73.47533,3.35545],"type":"Point"}
+}

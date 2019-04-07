@@ -1,0 +1,62 @@
+{
+  "id": 1209690553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31588,4.10381,-73.31588,4.10381",
+    "geom:latitude":4.10381,
+    "geom:longitude":-73.31588,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Puerto Leticia",
+    "gn:country_code":"CO",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769977,
+    "gn:latitude":4.10381,
+    "gn:longitude":-73.31588,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Leticia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769977
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"50166617301ffff70b3704d51334963e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209690553
+        }
+    ],
+    "wof:id":1209690553,
+    "wof:lastmodified":1536279258,
+    "wof:name":"Puerto Leticia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31588,
+    4.10381,
+    -73.31588,
+    4.10381
+],
+  "geometry": {"coordinates":[-73.31588000000001,4.10381],"type":"Point"}
+}

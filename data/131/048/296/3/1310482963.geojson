@@ -1,0 +1,68 @@
+{
+  "id": 1310482963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.75016,2.49403,-75.75016,2.49403",
+    "geom:latitude":2.49403,
+    "geom:longitude":-75.75016,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41797.0",
+    "gn:asciiname":"La Topa",
+    "gn:country_code":"CO",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792874,
+    "gn:latitude":2.49403,
+    "gn:longitude":-75.75016,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Topa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792874
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f57ff5943b1eab2cd6fbc35acc7e14d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700845,
+            "locality_id":1310482963,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1310482963,
+    "wof:lastmodified":1536949736,
+    "wof:name":"La Topa",
+    "wof:parent_id":1108700845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.75016,
+    2.49403,
+    -75.75016,
+    2.49403
+],
+  "geometry": {"coordinates":[-75.75015999999999,2.49403],"type":"Point"}
+}

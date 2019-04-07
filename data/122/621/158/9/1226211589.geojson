@@ -1,0 +1,68 @@
+{
+  "id": 1226211589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.84278,2.25139,-75.84278,2.25139",
+    "geom:latitude":2.25139,
+    "geom:longitude":-75.84278,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41548.0",
+    "gn:asciiname":"La Chanza",
+    "gn:country_code":"CO",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792775,
+    "gn:latitude":2.25139,
+    "gn:longitude":-75.84278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Chanza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792775
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e5536365ac6b1298d08e9816352261a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700835,
+            "locality_id":1226211589,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1226211589,
+    "wof:lastmodified":1536982290,
+    "wof:name":"La Chanza",
+    "wof:parent_id":1108700835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.84278,
+    2.25139,
+    -75.84278,
+    2.25139
+],
+  "geometry": {"coordinates":[-75.84278,2.25139],"type":"Point"}
+}

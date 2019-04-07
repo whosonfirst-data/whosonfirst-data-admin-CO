@@ -1,0 +1,71 @@
+{
+  "id": 1327036359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.75701,6.56825,-70.75701,6.56825",
+    "geom:latitude":6.56825,
+    "geom:longitude":-70.75701,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"La Rosita",
+    "gn:country_code":"CO",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759707,
+    "gn:latitude":6.56825,
+    "gn:longitude":-70.75701,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Rosita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Rosita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759707
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"00a91b80df6a96940f26e21271906cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1327036359,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1327036359,
+    "wof:lastmodified":1537618687,
+    "wof:name":"La Rosita",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.75701,
+    6.56825,
+    -70.75701,
+    6.56825
+],
+  "geometry": {"coordinates":[-70.75700999999999,6.56825],"type":"Point"}
+}

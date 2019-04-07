@@ -1,0 +1,68 @@
+{
+  "id": 1259833543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89887,4.58,-73.89887,4.58",
+    "geom:latitude":4.58,
+    "geom:longitude":-73.89887,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25181.0",
+    "gn:asciiname":"Llanadas Bajo",
+    "gn:country_code":"CO",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782079,
+    "gn:latitude":4.58,
+    "gn:longitude":-73.89887,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Llanadas Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421200727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782079
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0104e0e9f3816b7c27f9d72308d245fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200727,
+            "locality_id":1259833543,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1259833543,
+    "wof:lastmodified":1536850155,
+    "wof:name":"Llanadas Bajo",
+    "wof:parent_id":421200727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89887,
+    4.58,
+    -73.89887,
+    4.58
+],
+  "geometry": {"coordinates":[-73.89887,4.58],"type":"Point"}
+}

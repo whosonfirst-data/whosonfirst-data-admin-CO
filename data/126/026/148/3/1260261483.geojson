@@ -1,0 +1,68 @@
+{
+  "id": 1260261483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9921,10.02076,-73.9921,10.02076",
+    "geom:latitude":10.02076,
+    "geom:longitude":-73.9921,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20060.0",
+    "gn:asciiname":"Hato Marynes",
+    "gn:country_code":"CO",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638167,
+    "gn:latitude":10.02076,
+    "gn:longitude":-73.9921,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hato Maryn\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638167
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"83920c80c0493de87c5cb1f0adc5c5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188173,
+            "locality_id":1260261483,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260261483,
+    "wof:lastmodified":1536741441,
+    "wof:name":"Hato Marynes",
+    "wof:parent_id":421188173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9921,
+    10.02076,
+    -73.9921,
+    10.02076
+],
+  "geometry": {"coordinates":[-73.99209999999999,10.02076],"type":"Point"}
+}

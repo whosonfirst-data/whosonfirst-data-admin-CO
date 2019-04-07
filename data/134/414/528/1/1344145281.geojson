@@ -1,0 +1,68 @@
+{
+  "id": 1344145281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.70476,9.06276,-73.70476,9.06276",
+    "geom:latitude":9.06276,
+    "geom:longitude":-73.70476,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20175.0",
+    "gn:asciiname":"El Castillo",
+    "gn:country_code":"CO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733040,
+    "gn:latitude":9.06276,
+    "gn:longitude":-73.70476,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733040
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3d314cf6fa1f3d0344306bdf239c2933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700531,
+            "locality_id":1344145281,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1344145281,
+    "wof:lastmodified":1536753205,
+    "wof:name":"El Castillo",
+    "wof:parent_id":1108700531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.70476,
+    9.06276,
+    -73.70476,
+    9.06276
+],
+  "geometry": {"coordinates":[-73.70475999999999,9.06276],"type":"Point"}
+}

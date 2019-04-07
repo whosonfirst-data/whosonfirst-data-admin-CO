@@ -1,0 +1,68 @@
+{
+  "id": 1242766383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6937,9.00493,-73.6937,9.00493",
+    "geom:latitude":9.00493,
+    "geom:longitude":-73.6937,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20517.0",
+    "gn:asciiname":"Riveral",
+    "gn:country_code":"CO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733080,
+    "gn:latitude":9.00493,
+    "gn:longitude":-73.6937,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Riveral",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733080
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1d889c4fe3f968f3cd4f48a98969805e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188171,
+            "locality_id":1242766383,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1242766383,
+    "wof:lastmodified":1536792088,
+    "wof:name":"Riveral",
+    "wof:parent_id":421188171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6937,
+    9.00493,
+    -73.6937,
+    9.00493
+],
+  "geometry": {"coordinates":[-73.69370000000001,9.00493],"type":"Point"}
+}

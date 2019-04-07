@@ -1,0 +1,73 @@
+{
+  "id": 1276913807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02917,9.17583,-74.02917,9.17583",
+    "geom:latitude":9.17583,
+    "geom:longitude":-74.02917,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47245.0",
+    "gn:asciiname":"La Punta",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677954,
+    "gn:latitude":9.17583,
+    "gn:longitude":-74.02917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Punta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo La Punta",
+        "La Punta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677954
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1248a076f877a355bdcccd1372e59a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "locality_id":1276913807,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1276913807,
+    "wof:lastmodified":1537618505,
+    "wof:name":"La Punta",
+    "wof:parent_id":421170439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02917,
+    9.17583,
+    -74.02917,
+    9.17583
+],
+  "geometry": {"coordinates":[-74.02916999999999,9.17583],"type":"Point"}
+}

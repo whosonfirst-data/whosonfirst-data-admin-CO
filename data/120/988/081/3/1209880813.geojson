@@ -1,0 +1,68 @@
+{
+  "id": 1209880813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.72075,1.03013,-77.72075,1.03013",
+    "geom:latitude":1.03013,
+    "geom:longitude":-77.72075,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52720.0",
+    "gn:asciiname":"Nazaret",
+    "gn:country_code":"CO",
+    "gn:dem":3105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626611,
+    "gn:latitude":1.03013,
+    "gn:longitude":-77.72075,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nazaret",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626611
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"63623b19e495f6a099101a120218bb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701079,
+            "locality_id":1209880813,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1209880813,
+    "wof:lastmodified":1536395136,
+    "wof:name":"Nazaret",
+    "wof:parent_id":1108701079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.72075,
+    1.03013,
+    -77.72075,
+    1.03013
+],
+  "geometry": {"coordinates":[-77.72075,1.03013],"type":"Point"}
+}

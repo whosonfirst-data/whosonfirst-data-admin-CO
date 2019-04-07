@@ -1,0 +1,68 @@
+{
+  "id": 1259414251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.46343,4.43099,-69.46343,4.43099",
+    "geom:latitude":4.43099,
+    "geom:longitude":-69.46343,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"99773.0",
+    "gn:asciiname":"Raya",
+    "gn:country_code":"CO",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670953,
+    "gn:latitude":4.43099,
+    "gn:longitude":-69.46343,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Raya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670953
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"99f329a35aa622f5851b1c41998c2790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701647,
+            "locality_id":1259414251,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1259414251,
+    "wof:lastmodified":1536958321,
+    "wof:name":"Raya",
+    "wof:parent_id":1108701647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.46343,
+    4.43099,
+    -69.46343,
+    4.43099
+],
+  "geometry": {"coordinates":[-69.46343,4.43099],"type":"Point"}
+}

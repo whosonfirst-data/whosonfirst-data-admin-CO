@@ -1,0 +1,68 @@
+{
+  "id": 1326678837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51751,5.08507,-72.51751,5.08507",
+    "geom:latitude":5.08507,
+    "geom:longitude":-72.51751,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85010.0",
+    "gn:asciiname":"La Maria",
+    "gn:country_code":"CO",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678456,
+    "gn:latitude":5.08507,
+    "gn:longitude":-72.51751,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421184337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678456
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"60095976c7e9dd1eb81de3eee8b753ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184337,
+            "locality_id":1326678837,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1326678837,
+    "wof:lastmodified":1536773522,
+    "wof:name":"La Maria",
+    "wof:parent_id":421184337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51751,
+    5.08507,
+    -72.51751,
+    5.08507
+],
+  "geometry": {"coordinates":[-72.51751,5.08507],"type":"Point"}
+}

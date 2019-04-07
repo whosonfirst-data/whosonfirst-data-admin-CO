@@ -1,0 +1,74 @@
+{
+  "id": 1242927695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.59126,8.47752,-74.59126,8.47752",
+    "geom:latitude":8.47752,
+    "geom:longitude":-74.59126,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70265.0",
+    "gn:asciiname":"Palmaritico",
+    "gn:country_code":"CO",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673218,
+    "gn:latitude":8.47752,
+    "gn:longitude":-74.59126,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmaritico",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Palmaritico",
+        "Palmarcito",
+        "Caser\u00edo Palmaricito",
+        "Palmaritico"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673218
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a4cd0a04db19f98328f19d1550e7d5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701395,
+            "locality_id":1242927695,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1242927695,
+    "wof:lastmodified":1537618444,
+    "wof:name":"Palmaritico",
+    "wof:parent_id":1108701395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.59125999999998,
+    8.47752,
+    -74.59125999999998,
+    8.47752
+],
+  "geometry": {"coordinates":[-74.59125999999998,8.47752],"type":"Point"}
+}

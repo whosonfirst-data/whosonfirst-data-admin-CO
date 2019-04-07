@@ -1,0 +1,68 @@
+{
+  "id": 1192999657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80306,2.11639,-75.80306,2.11639",
+    "geom:latitude":2.11639,
+    "geom:longitude":-75.80306,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41791.0",
+    "gn:asciiname":"La Ardila",
+    "gn:country_code":"CO",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792740,
+    "gn:latitude":2.11639,
+    "gn:longitude":-75.80306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ardila",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792740
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f95e2bd219a2e23591cb7cb015fe915a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700843,
+            "locality_id":1192999657,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1192999657,
+    "wof:lastmodified":1536372023,
+    "wof:name":"La Ardila",
+    "wof:parent_id":1108700843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80306,
+    2.11639,
+    -75.80306,
+    2.11639
+],
+  "geometry": {"coordinates":[-75.80306,2.11639],"type":"Point"}
+}

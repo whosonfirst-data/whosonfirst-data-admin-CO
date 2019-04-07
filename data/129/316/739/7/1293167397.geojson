@@ -1,0 +1,68 @@
+{
+  "id": 1293167397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.94374,11.69917,-71.94374,11.69917",
+    "geom:latitude":11.69917,
+    "geom:longitude":-71.94374,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Warulen",
+    "gn:country_code":"CO",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8462118,
+    "gn:latitude":11.69917,
+    "gn:longitude":-71.94374,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Warulen",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462118
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"94d9c0c299521b784a29f056042a70b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1293167397,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293167397,
+    "wof:lastmodified":1536751618,
+    "wof:name":"Warulen",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.94374,
+    11.69917,
+    -71.94374,
+    11.69917
+],
+  "geometry": {"coordinates":[-71.94374000000001,11.69917],"type":"Point"}
+}

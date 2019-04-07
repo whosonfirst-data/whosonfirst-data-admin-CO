@@ -1,0 +1,68 @@
+{
+  "id": 1293253449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46917,3.97,-75.46917,3.97",
+    "geom:latitude":3.97,
+    "geom:longitude":-75.46917,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73675.0",
+    "gn:asciiname":"Barro Blanco",
+    "gn:country_code":"CO",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782442,
+    "gn:latitude":3.97,
+    "gn:longitude":-75.46917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barro Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782442
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8188bc49f9af50987ccee91d4b5c376b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701467,
+            "locality_id":1293253449,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1293253449,
+    "wof:lastmodified":1536625622,
+    "wof:name":"Barro Blanco",
+    "wof:parent_id":1108701467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46916999999998,
+    3.97,
+    -75.46916999999998,
+    3.97
+],
+  "geometry": {"coordinates":[-75.46916999999998,3.97],"type":"Point"}
+}

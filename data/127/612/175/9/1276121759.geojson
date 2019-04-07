@@ -1,0 +1,67 @@
+{
+  "id": 1276121759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.53333,1.51667,-70.53333,1.51667",
+    "geom:latitude":1.51667,
+    "geom:longitude":-70.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Recreo",
+    "gn:country_code":"CO",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670928,
+    "gn:latitude":1.51667,
+    "gn:longitude":-70.53333,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Recreo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670259,
+        421170241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670928
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c5e8a2532e9a4276b3c36af8a958e377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170241,
+            "locality_id":1276121759,
+            "region_id":85670259
+        }
+    ],
+    "wof:id":1276121759,
+    "wof:lastmodified":1537059453,
+    "wof:name":"Recreo",
+    "wof:parent_id":421170241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.53333,
+    1.51667,
+    -70.53333,
+    1.51667
+],
+  "geometry": {"coordinates":[-70.53333000000001,1.51667],"type":"Point"}
+}

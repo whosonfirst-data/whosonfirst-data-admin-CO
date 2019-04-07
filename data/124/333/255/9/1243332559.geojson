@@ -1,0 +1,68 @@
+{
+  "id": 1243332559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33417,8.48639,-73.33417,8.48639",
+    "geom:latitude":8.48639,
+    "geom:longitude":-73.33417,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54206.0",
+    "gn:asciiname":"Romeritos",
+    "gn:country_code":"CO",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738343,
+    "gn:latitude":8.48639,
+    "gn:longitude":-73.33417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Romeritos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738343
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ca8b1e8947d029daf3373eba765f4780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701103,
+            "locality_id":1243332559,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1243332559,
+    "wof:lastmodified":1536969596,
+    "wof:name":"Romeritos",
+    "wof:parent_id":1108701103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33417,
+    8.48639,
+    -73.33417,
+    8.48639
+],
+  "geometry": {"coordinates":[-73.33417,8.48639],"type":"Point"}
+}

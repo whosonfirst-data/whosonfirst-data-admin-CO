@@ -1,0 +1,68 @@
+{
+  "id": 1276505517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.13389,8.06444,-73.13389,8.06444",
+    "geom:latitude":8.06444,
+    "geom:longitude":-73.13389,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54003.0",
+    "gn:asciiname":"Brisas del Tarra",
+    "gn:country_code":"CO",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738516,
+    "gn:latitude":8.06444,
+    "gn:longitude":-73.13389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Brisas del Tarra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421198235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738516
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f61259b3aa253889fdf4636bdd0ad24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421198235,
+            "locality_id":1276505517,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1276505517,
+    "wof:lastmodified":1537043704,
+    "wof:name":"Brisas del Tarra",
+    "wof:parent_id":421198235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13389000000002,
+    8.06444,
+    -73.13389000000002,
+    8.06444
+],
+  "geometry": {"coordinates":[-73.13389000000002,8.06444],"type":"Point"}
+}

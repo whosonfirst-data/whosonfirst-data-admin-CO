@@ -1,0 +1,67 @@
+{
+  "id": 1225890739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.56667,2.16667,-70.56667,2.16667",
+    "geom:latitude":2.16667,
+    "geom:longitude":-70.56667,
+    "gn:admin1_code":"30.0",
+    "gn:asciiname":"Morichal",
+    "gn:country_code":"CO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674380,
+    "gn:latitude":2.16667,
+    "gn:longitude":-70.56667,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Morichal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        1108701627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674380
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"551de6c0d85623f5d36e41a621ce5bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701627,
+            "locality_id":1225890739,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1225890739,
+    "wof:lastmodified":1536949170,
+    "wof:name":"Morichal",
+    "wof:parent_id":1108701627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.56667,
+    2.16667,
+    -70.56667,
+    2.16667
+],
+  "geometry": {"coordinates":[-70.56667,2.16667],"type":"Point"}
+}

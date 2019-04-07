@@ -1,0 +1,73 @@
+{
+  "id": 1260136757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.10105,6.51876,-74.10105,6.51876",
+    "geom:latitude":6.51876,
+    "geom:longitude":-74.10105,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68190.0",
+    "gn:asciiname":"Puerto Araujo",
+    "gn:country_code":"CO",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671558,
+    "gn:latitude":6.51876,
+    "gn:longitude":-74.10105,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Ara\u00fajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Terraza",
+        "Puerto Aca\u00fajo",
+        "Puerto Ara\u00fajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671558
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0760254f68f2d6b12baaef9c458e2498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701223,
+            "locality_id":1260136757,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1260136757,
+    "wof:lastmodified":1537618424,
+    "wof:name":"Puerto Araujo",
+    "wof:parent_id":1108701223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.10105,
+    6.51876,
+    -74.10105,
+    6.51876
+],
+  "geometry": {"coordinates":[-74.10105,6.51876],"type":"Point"}
+}

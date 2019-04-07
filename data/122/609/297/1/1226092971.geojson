@@ -1,0 +1,71 @@
+{
+  "id": 1226092971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.74278,3.70139,-74.74278,3.70139",
+    "geom:latitude":3.70139,
+    "geom:longitude":-74.74278,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73236.0",
+    "gn:asciiname":"Palmalosa",
+    "gn:country_code":"CO",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8572778,
+    "gn:latitude":3.70139,
+    "gn:longitude":-74.74278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmalosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Palmalosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8572778
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0a2ffb90acd06516796d5b1203b51720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701437,
+            "locality_id":1226092971,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1226092971,
+    "wof:lastmodified":1537618785,
+    "wof:name":"Palmalosa",
+    "wof:parent_id":1108701437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.74278000000002,
+    3.70139,
+    -74.74278000000002,
+    3.70139
+],
+  "geometry": {"coordinates":[-74.74278000000002,3.70139],"type":"Point"}
+}

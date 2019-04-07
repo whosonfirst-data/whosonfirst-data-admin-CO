@@ -1,0 +1,71 @@
+{
+  "id": 1276548623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.3933,6.59785,-70.3933,6.59785",
+    "geom:latitude":6.59785,
+    "geom:longitude":-70.3933,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81220.0",
+    "gn:asciiname":"La Veremos",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676806,
+    "gn:latitude":6.59785,
+    "gn:longitude":-70.3933,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Veremos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Veremos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676806
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b7ea0a9c1b7a14c596808388696c1925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701515,
+            "locality_id":1276548623,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276548623,
+    "wof:lastmodified":1537618485,
+    "wof:name":"La Veremos",
+    "wof:parent_id":1108701515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.3933,
+    6.59785,
+    -70.3933,
+    6.59785
+],
+  "geometry": {"coordinates":[-70.3933,6.59785],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193189299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18333,10.21667,-74.18333,10.21667",
+    "geom:latitude":10.21667,
+    "geom:longitude":-74.18333,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47030.0",
+    "gn:asciiname":"California",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687911,
+    "gn:latitude":10.21667,
+    "gn:longitude":-74.18333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"California",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda California",
+        "California"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421203427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687911
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"055ae5fa5092dec237d2570d25cfca0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203427,
+            "locality_id":1193189299,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1193189299,
+    "wof:lastmodified":1537618636,
+    "wof:name":"California",
+    "wof:parent_id":421203427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18333,
+    10.21667,
+    -74.18333,
+    10.21667
+],
+  "geometry": {"coordinates":[-74.18333,10.21667],"type":"Point"}
+}

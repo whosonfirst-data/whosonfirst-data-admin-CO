@@ -1,0 +1,68 @@
+{
+  "id": 1243027403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.75669,4.65395,-72.75669,4.65395",
+    "geom:latitude":4.65395,
+    "geom:longitude":-72.75669,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85410.0",
+    "gn:asciiname":"Buenaventura",
+    "gn:country_code":"CO",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688450,
+    "gn:latitude":4.65395,
+    "gn:longitude":-72.75669,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Buenaventura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688450
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4297a5a72d3baf7daf1cd283fc04fad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701553,
+            "locality_id":1243027403,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1243027403,
+    "wof:lastmodified":1536913148,
+    "wof:name":"Buenaventura",
+    "wof:parent_id":1108701553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75669,
+    4.65395,
+    -72.75669,
+    4.65395
+],
+  "geometry": {"coordinates":[-72.75669000000001,4.65395],"type":"Point"}
+}

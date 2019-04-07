@@ -1,0 +1,71 @@
+{
+  "id": 1243466245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6503,6.41236,-75.6503,6.41236",
+    "geom:latitude":6.41236,
+    "geom:longitude":-75.6503,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5656.0",
+    "gn:asciiname":"Vereda Quinones",
+    "gn:country_code":"CO",
+    "gn:dem":2523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8019294,
+    "gn:latitude":6.41236,
+    "gn:longitude":-75.6503,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vereda Qui\u00f1ones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vereda Qui\u00f1ones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421203433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8019294
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fd95903db3b1fa34f5ee472e568ffd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203433,
+            "locality_id":1243466245,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1243466245,
+    "wof:lastmodified":1537618752,
+    "wof:name":"Vereda Quinones",
+    "wof:parent_id":421203433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6503,
+    6.41236,
+    -75.6503,
+    6.41236
+],
+  "geometry": {"coordinates":[-75.6503,6.41236],"type":"Point"}
+}

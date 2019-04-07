@@ -1,0 +1,71 @@
+{
+  "id": 1293758259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95737,3.53019,-73.95737,3.53019",
+    "geom:latitude":3.53019,
+    "geom:longitude":-73.95737,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50251",
+    "gn:asciiname":"Los Alpes",
+    "gn:country_code":"CO",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330492,
+    "gn:latitude":3.53019,
+    "gn:longitude":-73.95737,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Alpes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Alpes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330492
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f776fe039b6a1bfa774e89e7a2300503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700931,
+            "locality_id":1293758259,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1293758259,
+    "wof:lastmodified":1537618828,
+    "wof:name":"Los Alpes",
+    "wof:parent_id":1108700931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95737,
+    3.53019,
+    -73.95737,
+    3.53019
+],
+  "geometry": {"coordinates":[-73.95737,3.53019],"type":"Point"}
+}

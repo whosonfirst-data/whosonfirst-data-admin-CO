@@ -1,0 +1,68 @@
+{
+  "id": 1293249081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72794,6.98657,-73.72794,6.98657",
+    "geom:latitude":6.98657,
+    "geom:longitude":-73.72794,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68081.0",
+    "gn:asciiname":"Los Mosqueteros",
+    "gn:country_code":"CO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3830265,
+    "gn:latitude":6.98657,
+    "gn:longitude":-73.72794,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Mosqueteros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830265
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"deca7a984c7ebc59c84c1d58dd38fc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701195,
+            "locality_id":1293249081,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293249081,
+    "wof:lastmodified":1536632322,
+    "wof:name":"Los Mosqueteros",
+    "wof:parent_id":1108701195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72794,
+    6.98657,
+    -73.72794,
+    6.98657
+],
+  "geometry": {"coordinates":[-73.72794,6.98657],"type":"Point"}
+}

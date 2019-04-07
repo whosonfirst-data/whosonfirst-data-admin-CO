@@ -1,0 +1,71 @@
+{
+  "id": 1344222253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.84078,3.61904,-73.84078,3.61904",
+    "geom:latitude":3.61904,
+    "geom:longitude":-73.84078,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50251",
+    "gn:asciiname":"El Topacio",
+    "gn:country_code":"CO",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332075,
+    "gn:latitude":3.61904,
+    "gn:longitude":-73.84078,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Topacio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Topacio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332075
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ab26020e391f8b92453f701b7f8cc9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700931,
+            "locality_id":1344222253,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1344222253,
+    "wof:lastmodified":1537618832,
+    "wof:name":"El Topacio",
+    "wof:parent_id":1108700931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.84078000000002,
+    3.61904,
+    -73.84078000000002,
+    3.61904
+],
+  "geometry": {"coordinates":[-73.84078000000002,3.61904],"type":"Point"}
+}

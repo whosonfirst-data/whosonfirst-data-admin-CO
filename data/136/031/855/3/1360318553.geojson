@@ -1,0 +1,70 @@
+{
+  "id": 1360318553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-69.75079,6.0161,-69.75079,6.0161",
+    "geom:latitude":6.0161,
+    "geom:longitude":-69.75079,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"La Manila",
+    "gn:country_code":"CO",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250603,
+    "gn:latitude":6.0161,
+    "gn:longitude":-69.75079,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"La Manila",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Manila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670263,
+        1108701643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250603
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"be2322c57024e0249153c9c5b1c202d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701643,
+            "locality_id":1360318553,
+            "region_id":85670263
+        }
+    ],
+    "wof:id":1360318553,
+    "wof:lastmodified":1537618845,
+    "wof:name":"La Manila",
+    "wof:parent_id":1108701643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -69.75079000000001,
+    6.0161,
+    -69.75079000000001,
+    6.0161
+],
+  "geometry": {"coordinates":[-69.75079000000001,6.0161],"type":"Point"}
+}

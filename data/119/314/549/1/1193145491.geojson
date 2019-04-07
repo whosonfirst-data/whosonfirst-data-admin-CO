@@ -1,0 +1,68 @@
+{
+  "id": 1193145491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91472,6.45278,-74.91472,6.45278",
+    "geom:latitude":6.45278,
+    "geom:longitude":-74.91472,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5670.0",
+    "gn:asciiname":"Opon",
+    "gn:country_code":"CO",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770115,
+    "gn:latitude":6.45278,
+    "gn:longitude":-74.91472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Op\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770115
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e0b42b085dd5107faa78e970b2d839f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700015,
+            "locality_id":1193145491,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1193145491,
+    "wof:lastmodified":1536383815,
+    "wof:name":"Opon",
+    "wof:parent_id":1108700015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91471999999997,
+    6.45278,
+    -74.91471999999997,
+    6.45278
+],
+  "geometry": {"coordinates":[-74.91471999999997,6.45278],"type":"Point"}
+}

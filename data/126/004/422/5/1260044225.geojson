@@ -1,0 +1,68 @@
+{
+  "id": 1260044225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.306,7.09758,-72.306,7.09758",
+    "geom:latitude":7.09758,
+    "geom:longitude":-72.306,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54820.0",
+    "gn:asciiname":"Campohermoso",
+    "gn:country_code":"CO",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757022,
+    "gn:latitude":7.09758,
+    "gn:longitude":-72.306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Campohermoso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757022
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"56faab3abf4494d9a8384d14ed830506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701157,
+            "locality_id":1260044225,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1260044225,
+    "wof:lastmodified":1537042943,
+    "wof:name":"Campohermoso",
+    "wof:parent_id":1108701157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.306,
+    7.09758,
+    -72.306,
+    7.09758
+],
+  "geometry": {"coordinates":[-72.306,7.09758],"type":"Point"}
+}

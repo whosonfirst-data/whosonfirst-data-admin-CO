@@ -1,0 +1,62 @@
+{
+  "id": 1209084965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05824,10.3602,-73.05824,10.3602",
+    "geom:latitude":10.3602,
+    "geom:longitude":-73.05824,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20621.0",
+    "gn:asciiname":"Bella Vista",
+    "gn:country_code":"CO",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8560743,
+    "gn:latitude":10.3602,
+    "gn:longitude":-73.05824,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bella Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8560743
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f818f6ae56eac7b34be643efb7741abb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209084965
+        }
+    ],
+    "wof:id":1209084965,
+    "wof:lastmodified":1536298217,
+    "wof:name":"Bella Vista",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05824,
+    10.3602,
+    -73.05824,
+    10.3602
+],
+  "geometry": {"coordinates":[-73.05824,10.3602],"type":"Point"}
+}

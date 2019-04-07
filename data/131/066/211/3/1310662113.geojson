@@ -1,0 +1,73 @@
+{
+  "id": 1310662113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53479,9.2983,-75.53479,9.2983",
+    "geom:latitude":9.2983,
+    "geom:longitude":-75.53479,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70523.0",
+    "gn:asciiname":"Guaimi",
+    "gn:country_code":"CO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681654,
+    "gn:latitude":9.2983,
+    "gn:longitude":-75.53479,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guaim\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1af\u00edstula",
+        "Hacienda Ca\u00f1afistula",
+        "Guaim\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681654
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a7b1ae19d3e941c6026d947af31213d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701407,
+            "locality_id":1310662113,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1310662113,
+    "wof:lastmodified":1537618552,
+    "wof:name":"Guaimi",
+    "wof:parent_id":1108701407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53479,
+    9.2983,
+    -75.53479,
+    9.2983
+],
+  "geometry": {"coordinates":[-75.53479,9.2983],"type":"Point"}
+}

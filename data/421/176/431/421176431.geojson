@@ -1,0 +1,267 @@
+{
+  "id": 421176431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.97581,9.00114,-73.97581,9.00114",
+    "geom:latitude":9.00114,
+    "geom:longitude":-73.97581,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0625\u0644 \u0628\u0627\u0646\u0643\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "El Banco"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u73ed\u79d1"
+    ],
+    "name:deu_x_preferred":[
+        "El Banco"
+    ],
+    "name:dut_x_preferred":[
+        "El Banco"
+    ],
+    "name:eng_x_preferred":[
+        "El Banco"
+    ],
+    "name:epo_x_preferred":[
+        "El Banco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0628\u0627\u0646\u06a9\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Banco"
+    ],
+    "name:fre_x_preferred":[
+        "El Banco"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10dc\u10d9\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "El Banco"
+    ],
+    "name:ita_x_preferred":[
+        "El Banco"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d0\u30f3\u30b3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10dc\u10d9\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "El Banco"
+    ],
+    "name:msa_x_preferred":[
+        "El Banco"
+    ],
+    "name:nan_x_preferred":[
+        "El Banco"
+    ],
+    "name:nld_x_preferred":[
+        "El Banco"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644 \u0628\u0627\u0646\u06a9\u0648"
+    ],
+    "name:por_x_preferred":[
+        "El Banco"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u043d\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "El Banco"
+    ],
+    "name:spa_x_preferred":[
+        "El Banco"
+    ],
+    "name:swe_x_preferred":[
+        "El Banco"
+    ],
+    "name:tgl_x_preferred":[
+        "El Banco"
+    ],
+    "name:unk_x_variant":[
+        "Banco"
+    ],
+    "name:vie_x_preferred":[
+        "El Banco"
+    ],
+    "name:war_x_preferred":[
+        "El Banco"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Banco"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u73ed\u79d1"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Colombia",
+    "ne:ADM0_A3":"COL",
+    "ne:ADM1NAME":"Magdalena",
+    "ne:ADMIN1_COD":38,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":1,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3684917,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"El Banco",
+    "ne:GN_POP":54522,
+    "ne:GTOPO30":21.0,
+    "ne:ISO_A2":"CO",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":9.000341,
+    "ne:LONGITUDE":-73.980017,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"El Banco",
+    "ne:MAX_AREAKM":16.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":-73.933333,
+    "ne:MAX_BBXMIN":-73.983333,
+    "ne:MAX_BBYMAX":9.025,
+    "ne:MAX_BBYMIN":8.983333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":28.0,
+    "ne:MAX_PERMI":17.0,
+    "ne:MAX_POP10":24735,
+    "ne:MAX_POP20":24735,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-73.963377,
+    "ne:MEAN_BBYC":9.001535,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":16.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":-73.933333,
+    "ne:MIN_BBXMIN":-73.983333,
+    "ne:MIN_BBYMAX":9.025,
+    "ne:MIN_BBYMIN":8.983333,
+    "ne:MIN_PERKM":28.0,
+    "ne:MIN_PERMI":17.0,
+    "ne:NAME":"El Banco",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"El Banco",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":54522,
+    "ne:POP_MIN":24735,
+    "ne:POP_OTHER":24735,
+    "ne:RANK_MAX":8,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Colombia",
+    "ne:SOV_A3":"COL",
+    "ne:TIMEZONE":"America/Bogota",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3684917,
+    "qs:gn_pop":54522,
+    "qs:name":"El Banco",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Magdalena",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":1046340,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368197,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421170439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684917,
+        "gp:id":368197,
+        "qs:id":1046340,
+        "wd:id":"Q2330760",
+        "wk:page":"El Banco, Magdalena"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009108,
+    "wof:geomhash":"4664099cd8e20632108c70e4675aeaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170439,
+            "locality_id":421176431,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":421176431,
+    "wof:lastmodified":1513942056,
+    "wof:name":"El Banco",
+    "wof:parent_id":421170439,
+    "wof:placetype":"locality",
+    "wof:population":54522,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.97581,
+    9.00114,
+    -73.97581,
+    9.00114
+],
+  "geometry": {"coordinates":[-73.97581,9.00114],"type":"Point"}
+}

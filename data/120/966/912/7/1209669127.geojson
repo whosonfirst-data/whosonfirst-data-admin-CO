@@ -1,0 +1,62 @@
+{
+  "id": 1209669127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90667,4.86333,-73.90667,4.86333",
+    "geom:latitude":4.86333,
+    "geom:longitude":-73.90667,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25322.0",
+    "gn:asciiname":"El Chircal",
+    "gn:country_code":"CO",
+    "gn:dem":2669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781768,
+    "gn:latitude":4.86333,
+    "gn:longitude":-73.90667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Chircal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781768
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"52843f8eff2b09257741c44096ce5ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209669127
+        }
+    ],
+    "wof:id":1209669127,
+    "wof:lastmodified":1536279988,
+    "wof:name":"El Chircal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90666999999998,
+    4.86333,
+    -73.90666999999998,
+    4.86333
+],
+  "geometry": {"coordinates":[-73.90666999999998,4.86333],"type":"Point"}
+}

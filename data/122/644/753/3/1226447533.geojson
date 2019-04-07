@@ -1,0 +1,68 @@
+{
+  "id": 1226447533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.7944,10.9354,-74.7944,10.9354",
+    "geom:latitude":10.9354,
+    "geom:longitude":-74.7944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8001.0",
+    "gn:asciiname":"Jose Antonio Galan",
+    "gn:country_code":"CO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811818,
+    "gn:latitude":10.9354,
+    "gn:longitude":-74.7944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Jos\u00e9 Antonio Gal\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811818
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c4239bc44c78023e4fb596854e93c7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700049,
+            "locality_id":1226447533,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1226447533,
+    "wof:lastmodified":1536642053,
+    "wof:name":"Jose Antonio Galan",
+    "wof:parent_id":1108700049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.7944,
+    10.9354,
+    -74.7944,
+    10.9354
+],
+  "geometry": {"coordinates":[-74.7944,10.9354],"type":"Point"}
+}

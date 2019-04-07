@@ -1,0 +1,68 @@
+{
+  "id": 1243055297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.86389,4.87833,-76.86389,4.87833",
+    "geom:latitude":4.87833,
+    "geom:longitude":-76.86389,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"27450.0",
+    "gn:asciiname":"Dipurdu",
+    "gn:country_code":"CO",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3685204,
+    "gn:latitude":4.87833,
+    "gn:longitude":-76.86389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Dipurd\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670219,
+        1108700779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685204
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"77e5a4aa22a66655d00b0dff3b6f1021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700779,
+            "locality_id":1243055297,
+            "region_id":85670219
+        }
+    ],
+    "wof:id":1243055297,
+    "wof:lastmodified":1536871362,
+    "wof:name":"Dipurdu",
+    "wof:parent_id":1108700779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.86389,
+    4.87833,
+    -76.86389,
+    4.87833
+],
+  "geometry": {"coordinates":[-76.86389,4.87833],"type":"Point"}
+}

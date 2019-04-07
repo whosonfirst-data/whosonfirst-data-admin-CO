@@ -1,0 +1,71 @@
+{
+  "id": 1243210567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.55695,3.49522,-76.55695,3.49522",
+    "geom:latitude":3.49522,
+    "geom:longitude":-76.55695,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76001.0",
+    "gn:asciiname":"Carbon El Chocho",
+    "gn:country_code":"CO",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182305,
+    "gn:latitude":3.49522,
+    "gn:longitude":-76.55695,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carb\u00f3n El Chocho",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carb\u00f3n El Chocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182305
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"84794e29293b7944599914aef9eb478a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":1243210567,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1243210567,
+    "wof:lastmodified":1537618756,
+    "wof:name":"Carbon El Chocho",
+    "wof:parent_id":421170643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.55695,
+    3.49522,
+    -76.55695,
+    3.49522
+],
+  "geometry": {"coordinates":[-76.55695,3.49522],"type":"Point"}
+}

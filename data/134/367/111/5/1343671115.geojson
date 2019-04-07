@@ -1,0 +1,72 @@
+{
+  "id": 1343671115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03333,-0.4,-74.03333,-0.4",
+    "geom:latitude":-0.4,
+    "geom:longitude":-74.03333,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Coraros",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685924,
+    "gn:latitude":-0.4,
+    "gn:longitude":-74.03333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Coraros",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coravos",
+        "Coraros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685924
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1a0c98025e9db9f6f94fb724f5069f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701569,
+            "locality_id":1343671115,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1343671115,
+    "wof:lastmodified":1537618615,
+    "wof:name":"Coraros",
+    "wof:parent_id":1108701569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03333,
+    -0.4,
+    -74.03333,
+    -0.4
+],
+  "geometry": {"coordinates":[-74.03333000000001,-0.4],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225953555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.41073,-3.75429,-70.41073,-3.75429",
+    "geom:latitude":-3.75429,
+    "geom:longitude":-70.41073,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"91540",
+    "gn:asciiname":"Caserio Paraiso",
+    "gn:country_code":"CO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10344569,
+    "gn:latitude":-3.75429,
+    "gn:longitude":-70.41073,
+    "gn:modification_date":"2015-06-17",
+    "gn:name":"Caserio Paraiso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        421202279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10344569
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c8e857db9aaae150864105279ffda90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202279,
+            "locality_id":1225953555,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1225953555,
+    "wof:lastmodified":1536856697,
+    "wof:name":"Caserio Paraiso",
+    "wof:parent_id":421202279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.41073,
+    -3.75429,
+    -70.41073,
+    -3.75429
+],
+  "geometry": {"coordinates":[-70.41073,-3.75429],"type":"Point"}
+}

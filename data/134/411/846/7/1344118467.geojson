@@ -1,0 +1,68 @@
+{
+  "id": 1344118467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.45307,1.47401,-77.45307,1.47401",
+    "geom:latitude":1.47401,
+    "geom:longitude":-77.45307,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52254.0",
+    "gn:asciiname":"Penol Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672538,
+    "gn:latitude":1.47401,
+    "gn:longitude":-77.45307,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pe\u00f1ol Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cca205c962eb9444b47cb0f354f76f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700997,
+            "locality_id":1344118467,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1344118467,
+    "wof:lastmodified":1536792371,
+    "wof:name":"Penol Viejo",
+    "wof:parent_id":1108700997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.45307,
+    1.47401,
+    -77.45307,
+    1.47401
+],
+  "geometry": {"coordinates":[-77.45307,1.47401],"type":"Point"}
+}

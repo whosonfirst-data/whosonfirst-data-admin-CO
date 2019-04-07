@@ -1,0 +1,67 @@
+{
+  "id": 1210021405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.23444,10.49139,-75.23444,10.49139",
+    "geom:latitude":10.49139,
+    "geom:longitude":-75.23444,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cedron",
+    "gn:country_code":"CO",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830621,
+    "gn:latitude":10.49139,
+    "gn:longitude":-75.23444,
+    "gn:modification_date":"2005-05-24",
+    "gn:name":"Cedr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830621
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d79cce5b54ec540100bf5ea337005a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700075,
+            "locality_id":1210021405,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1210021405,
+    "wof:lastmodified":1536392690,
+    "wof:name":"Cedron",
+    "wof:parent_id":1108700075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.23444,
+    10.49139,
+    -75.23444,
+    10.49139
+],
+  "geometry": {"coordinates":[-75.23444000000001,10.49139],"type":"Point"}
+}

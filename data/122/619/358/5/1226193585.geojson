@@ -1,0 +1,72 @@
+{
+  "id": 1226193585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.32528,10.48929,-74.32528,10.48929",
+    "geom:latitude":10.48929,
+    "geom:longitude":-74.32528,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47551.0",
+    "gn:asciiname":"Salaminita",
+    "gn:country_code":"CO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670365,
+    "gn:latitude":10.48929,
+    "gn:longitude":-74.32528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Salaminita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Salaminita",
+        "Salaminita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670365
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b007e0e32108cb3d470f2f3b986df98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700897,
+            "locality_id":1226193585,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1226193585,
+    "wof:lastmodified":1537618408,
+    "wof:name":"Salaminita",
+    "wof:parent_id":1108700897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.32528,
+    10.48929,
+    -74.32528,
+    10.48929
+],
+  "geometry": {"coordinates":[-74.32528000000001,10.48929],"type":"Point"}
+}

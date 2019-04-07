@@ -1,0 +1,68 @@
+{
+  "id": 1243108615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.84338,4.98786,-73.84338,4.98786",
+    "geom:latitude":4.98786,
+    "geom:longitude":-73.84338,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25736.0",
+    "gn:asciiname":"El Ocal",
+    "gn:country_code":"CO",
+    "gn:dem":2744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781804,
+    "gn:latitude":4.98786,
+    "gn:longitude":-73.84338,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Ocal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421204553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781804
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d29a30b5ce84f8dbb271146121868c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204553,
+            "locality_id":1243108615,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1243108615,
+    "wof:lastmodified":1536795688,
+    "wof:name":"El Ocal",
+    "wof:parent_id":421204553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.84338000000002,
+    4.98786,
+    -73.84338000000002,
+    4.98786
+],
+  "geometry": {"coordinates":[-73.84338000000002,4.98786],"type":"Point"}
+}

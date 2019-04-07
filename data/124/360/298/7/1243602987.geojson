@@ -1,0 +1,68 @@
+{
+  "id": 1243602987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.48778,4.85222,-72.48778,4.85222",
+    "geom:latitude":4.85222,
+    "geom:longitude":-72.48778,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Pinalito",
+    "gn:country_code":"CO",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672214,
+    "gn:latitude":4.85222,
+    "gn:longitude":-72.48778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pi\u00f1alito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672214
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"70a5b2efe171a6064e09373c7492fd93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":1243602987,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1243602987,
+    "wof:lastmodified":1537073930,
+    "wof:name":"Pinalito",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.48778,
+    4.85222,
+    -72.48778,
+    4.85222
+],
+  "geometry": {"coordinates":[-72.48778,4.85222],"type":"Point"}
+}

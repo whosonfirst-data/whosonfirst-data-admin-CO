@@ -1,0 +1,71 @@
+{
+  "id": 1226219307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.27706,8.85824,-75.27706,8.85824",
+    "geom:latitude":8.85824,
+    "geom:longitude":-75.27706,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Los Cayos",
+    "gn:country_code":"CO",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676255,
+    "gn:latitude":8.85824,
+    "gn:longitude":-75.27706,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Los Cayos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Los Cayos",
+        "Los Cayos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676255
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d6315ad82fe2da5d5cee30a37840510d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701397,
+            "locality_id":1226219307,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1226219307,
+    "wof:lastmodified":1537618477,
+    "wof:name":"Los Cayos",
+    "wof:parent_id":1108701397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.27705999999998,
+    8.85824,
+    -75.27705999999998,
+    8.85824
+],
+  "geometry": {"coordinates":[-75.27705999999998,8.85824],"type":"Point"}
+}

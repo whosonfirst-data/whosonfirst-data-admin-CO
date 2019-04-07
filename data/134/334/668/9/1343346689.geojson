@@ -1,0 +1,71 @@
+{
+  "id": 1343346689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.64087,1.64087,-75.64087,1.64087",
+    "geom:latitude":1.64087,
+    "geom:longitude":-75.64087,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Albania",
+    "gn:country_code":"CO",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8192499,
+    "gn:latitude":1.64087,
+    "gn:longitude":-75.64087,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Albania",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Albania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8192499
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"aa64d531f1662b7b2cdbe620872d9cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1343346689,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1343346689,
+    "wof:lastmodified":1537618763,
+    "wof:name":"Albania",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.64086999999998,
+    1.64087,
+    -75.64086999999998,
+    1.64087
+],
+  "geometry": {"coordinates":[-75.64086999999998,1.64087],"type":"Point"}
+}

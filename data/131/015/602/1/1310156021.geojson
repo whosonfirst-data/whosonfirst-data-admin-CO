@@ -1,0 +1,68 @@
+{
+  "id": 1310156021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.58944,3.1775,-76.58944,3.1775",
+    "geom:latitude":3.1775,
+    "geom:longitude":-76.58944,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76364.0",
+    "gn:asciiname":"San Felipe",
+    "gn:country_code":"CO",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764028,
+    "gn:latitude":3.1775,
+    "gn:longitude":-76.58944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Felipe",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421190209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764028
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ba3f52d02f13b71bf0b1f5a616eed2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190209,
+            "locality_id":1310156021,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1310156021,
+    "wof:lastmodified":1536924508,
+    "wof:name":"San Felipe",
+    "wof:parent_id":421190209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58944,
+    3.1775,
+    -76.58944,
+    3.1775
+],
+  "geometry": {"coordinates":[-76.58944,3.1775],"type":"Point"}
+}

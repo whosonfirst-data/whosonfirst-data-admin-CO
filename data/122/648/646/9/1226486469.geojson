@@ -1,0 +1,70 @@
+{
+  "id": 1226486469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52765,6.65788,-72.52765,6.65788",
+    "geom:latitude":6.65788,
+    "geom:longitude":-72.52765,
+    "gn:admin1_code":"36.0",
+    "gn:asciiname":"Piedron",
+    "gn:country_code":"CO",
+    "gn:dem":3609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262148,
+    "gn:latitude":6.65788,
+    "gn:longitude":-72.52765,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Piedr\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Piedr\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262148
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d82db4d37a05b1e0ff32ef63bb14e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701209,
+            "locality_id":1226486469,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1226486469,
+    "wof:lastmodified":1537618816,
+    "wof:name":"Piedron",
+    "wof:parent_id":1108701209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52765,
+    6.65788,
+    -72.52765,
+    6.65788
+],
+  "geometry": {"coordinates":[-72.52764999999999,6.65788],"type":"Point"}
+}

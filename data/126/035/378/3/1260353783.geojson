@@ -1,0 +1,68 @@
+{
+  "id": 1260353783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.28583,2.65582,-78.28583,2.65582",
+    "geom:latitude":2.65582,
+    "geom:longitude":-78.28583,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52390.0",
+    "gn:asciiname":"Los Mulatos",
+    "gn:country_code":"CO",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676023,
+    "gn:latitude":2.65582,
+    "gn:longitude":-78.28583,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Mulatos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676023
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"83c3b24e962354f93674d900ae789738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701023,
+            "locality_id":1260353783,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1260353783,
+    "wof:lastmodified":1536615506,
+    "wof:name":"Los Mulatos",
+    "wof:parent_id":1108701023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.28583,
+    2.65582,
+    -78.28583,
+    2.65582
+],
+  "geometry": {"coordinates":[-78.28583,2.65582],"type":"Point"}
+}

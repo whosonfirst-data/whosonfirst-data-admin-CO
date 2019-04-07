@@ -1,0 +1,62 @@
+{
+  "id": 1209680013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.88939,8.29974,-72.88939,8.29974",
+    "geom:latitude":8.29974,
+    "geom:longitude":-72.88939,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54720.0",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"CO",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677331,
+    "gn:latitude":8.29974,
+    "gn:longitude":-72.88939,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677331
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"40737966c096c7d8b24aecbddaa284c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209680013
+        }
+    ],
+    "wof:id":1209680013,
+    "wof:lastmodified":1536279610,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.88939,
+    8.29974,
+    -72.88939,
+    8.29974
+],
+  "geometry": {"coordinates":[-72.88939000000001,8.29974],"type":"Point"}
+}

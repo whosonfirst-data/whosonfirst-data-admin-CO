@@ -1,0 +1,74 @@
+{
+  "id": 1276739813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52563,9.02699,-75.52563,9.02699",
+    "geom:latitude":9.02699,
+    "geom:longitude":-75.52563,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23182.0",
+    "gn:asciiname":"Flecha Sevilla",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682452,
+    "gn:latitude":9.02699,
+    "gn:longitude":-75.52563,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Flecha Sevilla",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sevilla",
+        "Flechas",
+        "Flecha",
+        "Flecha Sevilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682452
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4ccaaa1c7fb4a5a2fb507cdccdff719b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700571,
+            "locality_id":1276739813,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1276739813,
+    "wof:lastmodified":1537618559,
+    "wof:name":"Flecha Sevilla",
+    "wof:parent_id":1108700571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52563,
+    9.02699,
+    -75.52563,
+    9.02699
+],
+  "geometry": {"coordinates":[-75.52563000000001,9.02699],"type":"Point"}
+}

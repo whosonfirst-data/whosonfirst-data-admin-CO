@@ -1,0 +1,68 @@
+{
+  "id": 1276666043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94447,5.94003,-75.94447,5.94003",
+    "geom:latitude":5.94003,
+    "geom:longitude":-75.94447,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5642.0",
+    "gn:asciiname":"La Angostura",
+    "gn:country_code":"CO",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780342,
+    "gn:latitude":5.94003,
+    "gn:longitude":-75.94447,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Angostura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780342
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"06efc2b50cd634f61d8bda00bf9b2193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699999,
+            "locality_id":1276666043,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1276666043,
+    "wof:lastmodified":1536828910,
+    "wof:name":"La Angostura",
+    "wof:parent_id":1108699999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94447,
+    5.94003,
+    -75.94447,
+    5.94003
+],
+  "geometry": {"coordinates":[-75.94447,5.94003],"type":"Point"}
+}

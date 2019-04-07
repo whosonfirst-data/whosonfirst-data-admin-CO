@@ -1,0 +1,68 @@
+{
+  "id": 1259459727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.8751,8.67677,-75.8751,8.67677",
+    "geom:latitude":8.67677,
+    "geom:longitude":-75.8751,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"El Carreto",
+    "gn:country_code":"CO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783447,
+    "gn:latitude":8.67677,
+    "gn:longitude":-75.8751,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Carreto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783447
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0c699ef96dd335b6182622d7164449f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1259459727,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1259459727,
+    "wof:lastmodified":1536892667,
+    "wof:name":"El Carreto",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.8751,
+    8.67677,
+    -75.8751,
+    8.67677
+],
+  "geometry": {"coordinates":[-75.8751,8.67677],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343743531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22506,1.8301,-76.22506,1.8301",
+    "geom:latitude":1.8301,
+    "geom:longitude":-76.22506,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41668.0",
+    "gn:asciiname":"Los Gauchos",
+    "gn:country_code":"CO",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544128,
+    "gn:latitude":1.8301,
+    "gn:longitude":-76.22506,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Gauchos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421187817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544128
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fa32d71a398c363e7b3d1bdc2378a694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187817,
+            "locality_id":1343743531,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1343743531,
+    "wof:lastmodified":1536834314,
+    "wof:name":"Los Gauchos",
+    "wof:parent_id":421187817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22506,
+    1.8301,
+    -76.22506,
+    1.8301
+],
+  "geometry": {"coordinates":[-76.22506,1.8301],"type":"Point"}
+}

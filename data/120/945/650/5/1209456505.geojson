@@ -1,0 +1,62 @@
+{
+  "id": 1209456505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.36623,4.55981,-72.36623,4.55981",
+    "geom:latitude":4.55981,
+    "geom:longitude":-72.36623,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Carutal",
+    "gn:country_code":"CO",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687222,
+    "gn:latitude":4.55981,
+    "gn:longitude":-72.36623,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Carutal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687222
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36580059e95853b8458460a1ce987a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209456505
+        }
+    ],
+    "wof:id":1209456505,
+    "wof:lastmodified":1536286514,
+    "wof:name":"Carutal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.36623,
+    4.55981,
+    -72.36623,
+    4.55981
+],
+  "geometry": {"coordinates":[-72.36623,4.55981],"type":"Point"}
+}

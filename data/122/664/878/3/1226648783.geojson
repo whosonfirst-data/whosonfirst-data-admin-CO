@@ -1,0 +1,72 @@
+{
+  "id": 1226648783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.14065,6.37745,-75.14065,6.37745",
+    "geom:latitude":6.37745,
+    "geom:longitude":-75.14065,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5021.0",
+    "gn:asciiname":"Alejandria",
+    "gn:country_code":"CO",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3690213,
+    "gn:latitude":6.37745,
+    "gn:longitude":-75.14065,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Alejandr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alejandr\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690213,
+        "wk:page":"Alejandr%C3%ADa"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"85fd5f3aea49c2e9e9c5c74c37c46189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699903,
+            "locality_id":1226648783,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226648783,
+    "wof:lastmodified":1537618663,
+    "wof:name":"Alejandria",
+    "wof:parent_id":1108699903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.14065,
+    6.37745,
+    -75.14065,
+    6.37745
+],
+  "geometry": {"coordinates":[-75.14064999999999,6.37745],"type":"Point"}
+}

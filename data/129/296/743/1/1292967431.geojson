@@ -1,0 +1,72 @@
+{
+  "id": 1292967431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05585,6.28231,-73.05585,6.28231",
+    "geom:latitude":6.28231,
+    "geom:longitude":-73.05585,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68217.0",
+    "gn:asciiname":"Casa de Arcos",
+    "gn:country_code":"CO",
+    "gn:dem":1543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732757,
+    "gn:latitude":6.28231,
+    "gn:longitude":-73.05585,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Casa de Arcos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Casa de Aroos",
+        "Casa de Arcos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732757
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c8957d4c5bf115d70b703d571f393695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701233,
+            "locality_id":1292967431,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1292967431,
+    "wof:lastmodified":1537618669,
+    "wof:name":"Casa de Arcos",
+    "wof:parent_id":1108701233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05585,
+    6.28231,
+    -73.05585,
+    6.28231
+],
+  "geometry": {"coordinates":[-73.05585000000001,6.28231],"type":"Point"}
+}

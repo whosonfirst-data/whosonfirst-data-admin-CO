@@ -1,0 +1,68 @@
+{
+  "id": 1310480241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.70583,9.60611,-73.70583,9.60611",
+    "geom:latitude":9.60611,
+    "geom:longitude":-73.70583,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20250.0",
+    "gn:asciiname":"Bella Julia",
+    "gn:country_code":"CO",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3775662,
+    "gn:latitude":9.60611,
+    "gn:longitude":-73.70583,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bella Julia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3775662
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e84052f41b241b8338ead3bbcf75762a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700537,
+            "locality_id":1310480241,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1310480241,
+    "wof:lastmodified":1536953477,
+    "wof:name":"Bella Julia",
+    "wof:parent_id":1108700537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.70583,
+    9.60611,
+    -73.70583,
+    9.60611
+],
+  "geometry": {"coordinates":[-73.70583000000001,9.60611],"type":"Point"}
+}

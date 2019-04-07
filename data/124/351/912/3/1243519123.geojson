@@ -1,0 +1,68 @@
+{
+  "id": 1243519123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.34059,1.37824,-77.34059,1.37824",
+    "geom:latitude":1.37824,
+    "geom:longitude":-77.34059,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52260.0",
+    "gn:asciiname":"Matituy",
+    "gn:country_code":"CO",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675024,
+    "gn:latitude":1.37824,
+    "gn:longitude":-77.34059,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Matituy",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675024
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"37dfd9c26e3fbe1352ac1472782fa053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701003,
+            "locality_id":1243519123,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1243519123,
+    "wof:lastmodified":1536701128,
+    "wof:name":"Matituy",
+    "wof:parent_id":1108701003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.34059,
+    1.37824,
+    -77.34059,
+    1.37824
+],
+  "geometry": {"coordinates":[-77.34059000000001,1.37824],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310659909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.40918,6.2229,-71.40918,6.2229",
+    "geom:latitude":6.2229,
+    "geom:longitude":-71.40918,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"Suni",
+    "gn:country_code":"CO",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667705,
+    "gn:latitude":6.2229,
+    "gn:longitude":-71.40918,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Sun\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundo Suni",
+        "Sun\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667705
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7055a71daeed635883475b21de763f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701525,
+            "locality_id":1310659909,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1310659909,
+    "wof:lastmodified":1537618378,
+    "wof:name":"Suni",
+    "wof:parent_id":1108701525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40918,
+    6.2229,
+    -71.40918,
+    6.2229
+],
+  "geometry": {"coordinates":[-71.40918000000001,6.2229],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276664639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.31173,7.01457,-71.31173,7.01457",
+    "geom:latitude":7.01457,
+    "geom:longitude":-71.31173,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81065.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"CO",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668824,
+    "gn:latitude":7.01457,
+    "gn:longitude":-71.31173,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668824
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"466187105c98cd7fc5f952146a5a4b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701511,
+            "locality_id":1276664639,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276664639,
+    "wof:lastmodified":1536830782,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1108701511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.31173000000003,
+    7.01457,
+    -71.31173000000003,
+    7.01457
+],
+  "geometry": {"coordinates":[-71.31173000000003,7.01457],"type":"Point"}
+}

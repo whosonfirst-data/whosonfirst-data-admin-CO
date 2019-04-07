@@ -1,0 +1,71 @@
+{
+  "id": 1192965621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91324,3.7734,-74.91324,3.7734",
+    "geom:latitude":3.7734,
+    "geom:longitude":-74.91324,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73563",
+    "gn:asciiname":"Cauquita",
+    "gn:country_code":"CO",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631374,
+    "gn:latitude":3.7734,
+    "gn:longitude":-74.91324,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cauquita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cauquita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631374
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4e2373e103e1ec19319e9862c7c33841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701455,
+            "locality_id":1192965621,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1192965621,
+    "wof:lastmodified":1537618844,
+    "wof:name":"Cauquita",
+    "wof:parent_id":1108701455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91324,
+    3.7734,
+    -74.91324,
+    3.7734
+],
+  "geometry": {"coordinates":[-74.91324,3.7734],"type":"Point"}
+}

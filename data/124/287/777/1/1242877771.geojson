@@ -1,0 +1,68 @@
+{
+  "id": 1242877771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.13333,-2.23333,-73.13333,-2.23333",
+    "geom:latitude":-2.23333,
+    "geom:longitude":-73.13333,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"91263.0",
+    "gn:asciiname":"Santa Catalina",
+    "gn:country_code":"CO",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668867,
+    "gn:latitude":-2.23333,
+    "gn:longitude":-73.13333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Catalina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670123,
+        1108701583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668867
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"89880b96dca81e68ae65cc673f884b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701583,
+            "locality_id":1242877771,
+            "region_id":85670123
+        }
+    ],
+    "wof:id":1242877771,
+    "wof:lastmodified":1536629607,
+    "wof:name":"Santa Catalina",
+    "wof:parent_id":1108701583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13333,
+    -2.23333,
+    -73.13333,
+    -2.23333
+],
+  "geometry": {"coordinates":[-73.13333,-2.23333],"type":"Point"}
+}

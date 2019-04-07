@@ -1,0 +1,67 @@
+{
+  "id": 1276816881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.88739,4.31222,-74.88739,4.31222",
+    "geom:latitude":4.31222,
+    "geom:longitude":-74.88739,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Zumbamicos",
+    "gn:country_code":"CO",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665529,
+    "gn:latitude":4.31222,
+    "gn:longitude":-74.88739,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Zumbamicos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665529
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0c212878942c554af3a67586702a28b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701431,
+            "locality_id":1276816881,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1276816881,
+    "wof:lastmodified":1536626253,
+    "wof:name":"Zumbamicos",
+    "wof:parent_id":1108701431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.88739,
+    4.31222,
+    -74.88739,
+    4.31222
+],
+  "geometry": {"coordinates":[-74.88739,4.31222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276508039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.57805,4.07011,-74.57805,4.07011",
+    "geom:latitude":4.07011,
+    "geom:longitude":-74.57805,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73226.0",
+    "gn:asciiname":"Hoya Grande",
+    "gn:country_code":"CO",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8581050,
+    "gn:latitude":4.07011,
+    "gn:longitude":-74.57805,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hoya Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hoya Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581050
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0d3d01f889380f7d7c041e9277fe88df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701435,
+            "locality_id":1276508039,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1276508039,
+    "wof:lastmodified":1537618790,
+    "wof:name":"Hoya Grande",
+    "wof:parent_id":1108701435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.57805,
+    4.07011,
+    -74.57805,
+    4.07011
+],
+  "geometry": {"coordinates":[-74.57805,4.07011],"type":"Point"}
+}

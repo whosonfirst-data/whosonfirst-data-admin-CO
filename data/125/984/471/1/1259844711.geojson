@@ -1,0 +1,72 @@
+{
+  "id": 1259844711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.8902,3.39846,-72.8902,3.39846",
+    "geom:latitude":3.39846,
+    "geom:longitude":-72.8902,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Pamperos",
+    "gn:country_code":"CO",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673047,
+    "gn:latitude":3.39846,
+    "gn:longitude":-72.8902,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pamperos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pampero",
+        "Pamperos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673047
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a508b698d36c76b98f9feefcd23f18a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1259844711,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1259844711,
+    "wof:lastmodified":1537618441,
+    "wof:name":"Pamperos",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8902,
+    3.39846,
+    -72.8902,
+    3.39846
+],
+  "geometry": {"coordinates":[-72.89019999999999,3.39846],"type":"Point"}
+}

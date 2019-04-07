@@ -1,0 +1,71 @@
+{
+  "id": 1343327003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69934,3.60663,-73.69934,3.60663",
+    "geom:latitude":3.60663,
+    "geom:longitude":-73.69934,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50313.0",
+    "gn:asciiname":"El Choapal",
+    "gn:country_code":"CO",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8578272,
+    "gn:latitude":3.60663,
+    "gn:longitude":-73.69934,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Choapal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Choapal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8578272
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ec8af742338a1aa4de28d92f2745a4f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700939,
+            "locality_id":1343327003,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1343327003,
+    "wof:lastmodified":1537618789,
+    "wof:name":"El Choapal",
+    "wof:parent_id":1108700939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69934,
+    3.60663,
+    -73.69934,
+    3.60663
+],
+  "geometry": {"coordinates":[-73.69934000000001,3.60663],"type":"Point"}
+}

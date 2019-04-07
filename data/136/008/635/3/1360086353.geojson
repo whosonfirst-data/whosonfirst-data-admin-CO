@@ -1,0 +1,68 @@
+{
+  "id": 1360086353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64472,6.66611,-71.64472,6.66611",
+    "geom:latitude":6.66611,
+    "geom:longitude":-71.64472,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81300.0",
+    "gn:asciiname":"Caserio Nuevo Horizonte",
+    "gn:country_code":"CO",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6194672,
+    "gn:latitude":6.66611,
+    "gn:longitude":-71.64472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Nuevo Horizonte",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6194672
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3c4e7158363f85d00c44804459e97bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701517,
+            "locality_id":1360086353,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1360086353,
+    "wof:lastmodified":1536944320,
+    "wof:name":"Caserio Nuevo Horizonte",
+    "wof:parent_id":1108701517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64471999999998,
+    6.66611,
+    -71.64471999999998,
+    6.66611
+],
+  "geometry": {"coordinates":[-71.64471999999998,6.66611],"type":"Point"}
+}

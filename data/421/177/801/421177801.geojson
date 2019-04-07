@@ -1,0 +1,145 @@
+{
+  "id": 421177801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.08198,9.95156,-75.08198,9.95156",
+    "geom:latitude":9.95156,
+    "geom:longitude":-75.08198,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5167\u6ce2\u7a46\u585e\u8afe"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u0645\u0648\u067e\u0648\u0645\u0648\u0633\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Nepomuceno"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Nepomuceno"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10dc\u10d4\u10de\u10dd\u10db\u10e3\u10d9\u10d4\u10dc\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10dc\u10d4\u10de\u10dd\u10db\u10e3\u10d9\u10d4\u10dc\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:msa_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:nan_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0622\u0646 \u0645\u0648\u067e\u0648\u0645\u0648\u0633\u0646\u0648"
+    ],
+    "name:por_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:tgl_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "name:war_x_preferred":[
+        "San Juan Nepomuceno"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669454,
+    "qs:gn_pop":29619,
+    "qs:name":"San Juan Nepomuceno",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Bolivar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1206432,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368219,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669454,
+        "gp:id":368219,
+        "qs:id":1206432,
+        "wd:id":"Q1822959",
+        "wk:page":"San Juan Nepomuceno, Bol\u00edvar"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009161,
+    "wof:geomhash":"11dfa6f96e80fe21bae6d772efa0d0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700155,
+            "locality_id":421177801,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":421177801,
+    "wof:lastmodified":1553816367,
+    "wof:name":"San Juan Nepomuceno",
+    "wof:parent_id":1108700155,
+    "wof:placetype":"locality",
+    "wof:population":29619,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.08198,
+    9.95156,
+    -75.08198,
+    9.95156
+],
+  "geometry": {"coordinates":[-75.08198,9.95156],"type":"Point"}
+}

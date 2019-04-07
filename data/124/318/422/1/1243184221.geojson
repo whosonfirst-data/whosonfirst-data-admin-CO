@@ -1,0 +1,73 @@
+{
+  "id": 1243184221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.95,7.08333,-74.95,7.08333",
+    "geom:latitude":7.08333,
+    "geom:longitude":-74.95,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5031.0",
+    "gn:asciiname":"Rosario",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670604,
+    "gn:latitude":7.08333,
+    "gn:longitude":-74.95,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rosario",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rosaria",
+        "Rosario"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670604
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bfbc183d0431c2553019353a587bb778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699905,
+            "locality_id":1243184221,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1243184221,
+    "wof:lastmodified":1537618411,
+    "wof:name":"Rosario",
+    "wof:parent_id":1108699905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.95,
+    7.08333,
+    -74.95,
+    7.08333
+],
+  "geometry": {"coordinates":[-74.95,7.08333],"type":"Point"}
+}

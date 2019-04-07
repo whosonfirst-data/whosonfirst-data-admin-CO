@@ -1,0 +1,68 @@
+{
+  "id": 1277127521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48694,3.57583,-75.48694,3.57583",
+    "geom:latitude":3.57583,
+    "geom:longitude":-75.48694,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73168.0",
+    "gn:asciiname":"La Granja",
+    "gn:country_code":"CO",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782534,
+    "gn:latitude":3.57583,
+    "gn:longitude":-75.48694,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Granja",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421185185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782534
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f76eb72c0659bbec2bb9cce402946961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185185,
+            "locality_id":1277127521,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1277127521,
+    "wof:lastmodified":1536703515,
+    "wof:name":"La Granja",
+    "wof:parent_id":421185185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48694,
+    3.57583,
+    -75.48694,
+    3.57583
+],
+  "geometry": {"coordinates":[-75.48694,3.57583],"type":"Point"}
+}

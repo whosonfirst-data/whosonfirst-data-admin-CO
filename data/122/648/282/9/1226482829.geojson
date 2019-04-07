@@ -1,0 +1,68 @@
+{
+  "id": 1226482829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93456,7.48127,-73.93456,7.48127",
+    "geom:latitude":7.48127,
+    "geom:longitude":-73.93456,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13670.0",
+    "gn:asciiname":"Palmira",
+    "gn:country_code":"CO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829547,
+    "gn:latitude":7.48127,
+    "gn:longitude":-73.93456,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829547
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9428213afca4a6ac0f2319cac572e35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700159,
+            "locality_id":1226482829,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226482829,
+    "wof:lastmodified":1537085447,
+    "wof:name":"Palmira",
+    "wof:parent_id":1108700159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93456,
+    7.48127,
+    -73.93456,
+    7.48127
+],
+  "geometry": {"coordinates":[-73.93456,7.48127],"type":"Point"}
+}

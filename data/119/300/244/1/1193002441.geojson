@@ -1,0 +1,70 @@
+{
+  "id": 1193002441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.88463,1.46442,-76.88463,1.46442",
+    "geom:latitude":1.46442,
+    "geom:longitude":-76.88463,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Caucha",
+    "gn:country_code":"CO",
+    "gn:dem":2997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7543932,
+    "gn:latitude":1.46442,
+    "gn:longitude":-76.88463,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"El Caucha",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Caucha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543932
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4033a603813a32970ca6ae5087f1fbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700503,
+            "locality_id":1193002441,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1193002441,
+    "wof:lastmodified":1537618740,
+    "wof:name":"El Caucha",
+    "wof:parent_id":1108700503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.88463,
+    1.46442,
+    -76.88463,
+    1.46442
+],
+  "geometry": {"coordinates":[-76.88463,1.46442],"type":"Point"}
+}

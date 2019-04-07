@@ -1,0 +1,62 @@
+{
+  "id": 1209280999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.929,10.92183,-72.929,10.92183",
+    "geom:latitude":10.92183,
+    "geom:longitude":-72.929,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44098.0",
+    "gn:asciiname":"Canahuate",
+    "gn:country_code":"CO",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3758084,
+    "gn:latitude":10.92183,
+    "gn:longitude":-72.929,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1ahuate",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3758084
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"809daa3f0c1fe967ea6ef0157873c237",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209280999
+        }
+    ],
+    "wof:id":1209280999,
+    "wof:lastmodified":1536292023,
+    "wof:name":"Canahuate",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.929,
+    10.92183,
+    -72.929,
+    10.92183
+],
+  "geometry": {"coordinates":[-72.929,10.92183],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276744615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58222,2.49889,-75.58222,2.49889",
+    "geom:latitude":2.49889,
+    "geom:longitude":-75.58222,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41797.0",
+    "gn:asciiname":"La Beatriz",
+    "gn:country_code":"CO",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792750,
+    "gn:latitude":2.49889,
+    "gn:longitude":-75.58222,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Beatriz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792750
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b365bc93a21f991dda647ee5bcb47a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700845,
+            "locality_id":1276744615,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1276744615,
+    "wof:lastmodified":1536725197,
+    "wof:name":"La Beatriz",
+    "wof:parent_id":1108700845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58221999999998,
+    2.49889,
+    -75.58221999999998,
+    2.49889
+],
+  "geometry": {"coordinates":[-75.58221999999998,2.49889],"type":"Point"}
+}

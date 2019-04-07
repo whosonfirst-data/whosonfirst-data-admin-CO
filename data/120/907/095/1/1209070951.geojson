@@ -1,0 +1,62 @@
+{
+  "id": 1209070951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.5,2.3,-78.5,2.3",
+    "geom:latitude":2.3,
+    "geom:longitude":-78.5,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52473.0",
+    "gn:asciiname":"El Salto",
+    "gn:country_code":"CO",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683090,
+    "gn:latitude":2.3,
+    "gn:longitude":-78.5,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Salto",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683090
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e486e6ff547556b0626e95c0faf68c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209070951
+        }
+    ],
+    "wof:id":1209070951,
+    "wof:lastmodified":1536298649,
+    "wof:name":"El Salto",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.5,
+    2.3,
+    -78.5,
+    2.3
+],
+  "geometry": {"coordinates":[-78.5,2.3],"type":"Point"}
+}

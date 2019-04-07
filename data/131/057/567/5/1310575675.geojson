@@ -1,0 +1,71 @@
+{
+  "id": 1310575675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7895,2.94004,-71.7895,2.94004",
+    "geom:latitude":2.94004,
+    "geom:longitude":-71.7895,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50325.0",
+    "gn:asciiname":"Refugio de Sordos Ciudad del Silencio",
+    "gn:country_code":"CO",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539888,
+    "gn:latitude":2.94004,
+    "gn:longitude":-71.7895,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Refugio de Sordos Ciudad del Silencio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Refugio de Sordos Ciudad del Silencio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539888
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9c48dbd608081cb807998dd12e01a02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700941,
+            "locality_id":1310575675,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1310575675,
+    "wof:lastmodified":1537618734,
+    "wof:name":"Refugio de Sordos Ciudad del Silencio",
+    "wof:parent_id":1108700941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7895,
+    2.94004,
+    -71.7895,
+    2.94004
+],
+  "geometry": {"coordinates":[-71.7895,2.94004],"type":"Point"}
+}

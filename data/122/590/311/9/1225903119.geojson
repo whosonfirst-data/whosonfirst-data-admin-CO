@@ -1,0 +1,67 @@
+{
+  "id": 1225903119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38626,8.27112,-72.38626,8.27112",
+    "geom:latitude":8.27112,
+    "geom:longitude":-72.38626,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"La Popa",
+    "gn:country_code":"CO",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757389,
+    "gn:latitude":8.27112,
+    "gn:longitude":-72.38626,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"La Popa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632317,
+        85680481,
+        421189269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757389
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5014953fee9a1892cff7389caa633acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632317,
+            "county_id":421189269,
+            "locality_id":1225903119,
+            "region_id":85680481
+        }
+    ],
+    "wof:id":1225903119,
+    "wof:lastmodified":1536931882,
+    "wof:name":"La Popa",
+    "wof:parent_id":421189269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38626,
+    8.27112,
+    -72.38626,
+    8.27112
+],
+  "geometry": {"coordinates":[-72.38625999999999,8.27112],"type":"Point"}
+}

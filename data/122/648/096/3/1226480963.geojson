@@ -1,0 +1,71 @@
+{
+  "id": 1226480963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.02368,9.4275,-74.02368,9.4275",
+    "geom:latitude":9.4275,
+    "geom:longitude":-74.02368,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"El Suplicio",
+    "gn:country_code":"CO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683000,
+    "gn:latitude":9.4275,
+    "gn:longitude":-74.02368,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"El Suplicio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda El Suplicio",
+        "El Suplicio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683000
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8754757be82edfec8451640935f2ba32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700527,
+            "locality_id":1226480963,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1226480963,
+    "wof:lastmodified":1537618568,
+    "wof:name":"El Suplicio",
+    "wof:parent_id":1108700527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.02368,
+    9.4275,
+    -74.02368,
+    9.4275
+],
+  "geometry": {"coordinates":[-74.02368,9.4275],"type":"Point"}
+}

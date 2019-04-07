@@ -1,0 +1,72 @@
+{
+  "id": 1260142487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05117,4.29726,-72.05117,4.29726",
+    "geom:latitude":4.29726,
+    "geom:longitude":-72.05117,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50568.0",
+    "gn:asciiname":"Neblinas",
+    "gn:country_code":"CO",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677278,
+    "gn:latitude":4.29726,
+    "gn:longitude":-72.05117,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Neblinas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neblina",
+        "Neblinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421169181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677278
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5e15277b26ccef781b0b46b8c0df9f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169181,
+            "locality_id":1260142487,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1260142487,
+    "wof:lastmodified":1537618493,
+    "wof:name":"Neblinas",
+    "wof:parent_id":421169181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05117,
+    4.29726,
+    -72.05117,
+    4.29726
+],
+  "geometry": {"coordinates":[-72.05117,4.29726],"type":"Point"}
+}

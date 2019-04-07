@@ -1,0 +1,68 @@
+{
+  "id": 1276807763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.57278,5.81417,-73.57278,5.81417",
+    "geom:latitude":5.81417,
+    "geom:longitude":-73.57278,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15469.0",
+    "gn:asciiname":"Naranjal",
+    "gn:country_code":"CO",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776992,
+    "gn:latitude":5.81417,
+    "gn:longitude":-73.57278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Naranjal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421197191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776992
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c881c79f6f91fa80b7b8913ab56d3443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421197191,
+            "locality_id":1276807763,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1276807763,
+    "wof:lastmodified":1536639142,
+    "wof:name":"Naranjal",
+    "wof:parent_id":421197191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.57278000000002,
+    5.81417,
+    -73.57278000000002,
+    5.81417
+],
+  "geometry": {"coordinates":[-73.57278000000002,5.81417],"type":"Point"}
+}

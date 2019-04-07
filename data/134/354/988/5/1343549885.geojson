@@ -1,0 +1,72 @@
+{
+  "id": 1343549885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90991,9.21263,-73.90991,9.21263",
+    "geom:latitude":9.21263,
+    "geom:longitude":-73.90991,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20175.0",
+    "gn:asciiname":"El Guamo",
+    "gn:country_code":"CO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684117,
+    "gn:latitude":9.21263,
+    "gn:longitude":-73.90991,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Guamo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo El Guamo",
+        "El Guamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684117
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d79777867defe8d0fa22e042921d8118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700531,
+            "locality_id":1343549885,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1343549885,
+    "wof:lastmodified":1537618590,
+    "wof:name":"El Guamo",
+    "wof:parent_id":1108700531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90991,
+    9.21263,
+    -73.90991,
+    9.21263
+],
+  "geometry": {"coordinates":[-73.90991,9.21263],"type":"Point"}
+}

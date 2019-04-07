@@ -1,0 +1,72 @@
+{
+  "id": 1309944543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.17074,10.8388,-74.17074,10.8388",
+    "geom:latitude":10.8388,
+    "geom:longitude":-74.17074,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47980.0",
+    "gn:asciiname":"Orihueca",
+    "gn:country_code":"CO",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673561,
+    "gn:latitude":10.8388,
+    "gn:longitude":-74.17074,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Orihueca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arihueca",
+        "Orihueca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673561
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7deadad6c7f8e38c7cfdc2a9dfb1fcaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700923,
+            "locality_id":1309944543,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1309944543,
+    "wof:lastmodified":1537618447,
+    "wof:name":"Orihueca",
+    "wof:parent_id":1108700923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.17074000000002,
+    10.8388,
+    -74.17074000000002,
+    10.8388
+],
+  "geometry": {"coordinates":[-74.17074000000002,10.8388],"type":"Point"}
+}

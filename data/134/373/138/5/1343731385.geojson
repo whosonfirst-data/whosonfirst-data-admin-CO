@@ -1,0 +1,68 @@
+{
+  "id": 1343731385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.36611,3.36306,-75.36611,3.36306",
+    "geom:latitude":3.36306,
+    "geom:longitude":-75.36611,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41016.0",
+    "gn:asciiname":"Los Limones",
+    "gn:country_code":"CO",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735949,
+    "gn:latitude":3.36306,
+    "gn:longitude":-75.36611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Limones",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735949
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"28311b2376bfbe5cd9d0e4ff92f93303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700799,
+            "locality_id":1343731385,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1343731385,
+    "wof:lastmodified":1536851797,
+    "wof:name":"Los Limones",
+    "wof:parent_id":1108700799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.36610999999998,
+    3.36306,
+    -75.36610999999998,
+    3.36306
+],
+  "geometry": {"coordinates":[-75.36610999999998,3.36306],"type":"Point"}
+}

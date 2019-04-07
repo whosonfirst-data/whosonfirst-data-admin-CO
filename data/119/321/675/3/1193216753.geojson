@@ -1,0 +1,68 @@
+{
+  "id": 1193216753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.19532,9.45339,-74.19532,9.45339",
+    "geom:latitude":9.45339,
+    "geom:longitude":-74.19532,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47703.0",
+    "gn:asciiname":"Terronseco",
+    "gn:country_code":"CO",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667249,
+    "gn:latitude":9.45339,
+    "gn:longitude":-74.19532,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Terronseco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        421202351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667249
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"823d235c7c8593ca884b9cb02efd6cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202351,
+            "locality_id":1193216753,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1193216753,
+    "wof:lastmodified":1536379752,
+    "wof:name":"Terronseco",
+    "wof:parent_id":421202351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.19532,
+    9.45339,
+    -74.19532,
+    9.45339
+],
+  "geometry": {"coordinates":[-74.19532,9.45339],"type":"Point"}
+}

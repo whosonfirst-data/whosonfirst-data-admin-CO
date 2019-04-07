@@ -1,0 +1,68 @@
+{
+  "id": 1209984179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.82296,5.34417,-75.82296,5.34417",
+    "geom:latitude":5.34417,
+    "geom:longitude":-75.82296,
+    "gn:admin1_code":"24.0",
+    "gn:admin2_code":"66318.0",
+    "gn:asciiname":"Ocharma",
+    "gn:country_code":"CO",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3785240,
+    "gn:latitude":5.34417,
+    "gn:longitude":-75.82296,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ocharma",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670173,
+        421184591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3785240
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7ad4b4311de8e2fcf24a2b66c5c8829c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184591,
+            "locality_id":1209984179,
+            "region_id":85670173
+        }
+    ],
+    "wof:id":1209984179,
+    "wof:lastmodified":1536389364,
+    "wof:name":"Ocharma",
+    "wof:parent_id":421184591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.82296,
+    5.34417,
+    -75.82296,
+    5.34417
+],
+  "geometry": {"coordinates":[-75.82295999999999,5.34417],"type":"Point"}
+}

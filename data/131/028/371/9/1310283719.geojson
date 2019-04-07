@@ -1,0 +1,73 @@
+{
+  "id": 1310283719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.64897,9.82262,-73.64897,9.82262",
+    "geom:latitude":9.82262,
+    "geom:longitude":-73.64897,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20250.0",
+    "gn:asciiname":"Vallito",
+    "gn:country_code":"CO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666294,
+    "gn:latitude":9.82262,
+    "gn:longitude":-73.64897,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vallito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Vallito",
+        "El Vallito",
+        "Vallito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666294
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d36bee75d509fbcf8e2baf0fdc7e76b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700537,
+            "locality_id":1310283719,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1310283719,
+    "wof:lastmodified":1537618365,
+    "wof:name":"Vallito",
+    "wof:parent_id":1108700537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64896999999998,
+    9.82262,
+    -73.64896999999998,
+    9.82262
+],
+  "geometry": {"coordinates":[-73.64896999999998,9.82262],"type":"Point"}
+}

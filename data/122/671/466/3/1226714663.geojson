@@ -1,0 +1,73 @@
+{
+  "id": 1226714663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.51088,1.12445,-77.51088,1.12445",
+    "geom:latitude":1.12445,
+    "geom:longitude":-77.51088,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52320.0",
+    "gn:asciiname":"Girardot",
+    "gn:country_code":"CO",
+    "gn:dem":2640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686271,
+    "gn:latitude":1.12445,
+    "gn:longitude":-77.51088,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Girardot",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cienaga Girardod",
+        "Girardot",
+        "Ci\u00e9naga Girardot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686271
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a779e92ad45bda1dbe9ef605ca0aa9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701011,
+            "locality_id":1226714663,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226714663,
+    "wof:lastmodified":1537618619,
+    "wof:name":"Girardot",
+    "wof:parent_id":1108701011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.51088,
+    1.12445,
+    -77.51088,
+    1.12445
+],
+  "geometry": {"coordinates":[-77.51088,1.12445],"type":"Point"}
+}

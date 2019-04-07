@@ -1,0 +1,72 @@
+{
+  "id": 1343822215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81566,7.99197,-72.81566,7.99197",
+    "geom:latitude":7.99197,
+    "geom:longitude":-72.81566,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54418.0",
+    "gn:asciiname":"Guaimaral",
+    "gn:country_code":"CO",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681671,
+    "gn:latitude":7.99197,
+    "gn:longitude":-72.81566,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guaimaral",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guimaral",
+        "Guaimaral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681671
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bf0474c5790b3683b9125cd769679efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701129,
+            "locality_id":1343822215,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1343822215,
+    "wof:lastmodified":1537618553,
+    "wof:name":"Guaimaral",
+    "wof:parent_id":1108701129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81566,
+    7.99197,
+    -72.81566,
+    7.99197
+],
+  "geometry": {"coordinates":[-72.81565999999999,7.99197],"type":"Point"}
+}

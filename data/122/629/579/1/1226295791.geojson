@@ -1,0 +1,68 @@
+{
+  "id": 1226295791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9792,7.90736,-73.9792,7.90736",
+    "geom:latitude":7.90736,
+    "geom:longitude":-73.9792,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13744.0",
+    "gn:asciiname":"La Lajas",
+    "gn:country_code":"CO",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678624,
+    "gn:latitude":7.90736,
+    "gn:longitude":-73.9792,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Lajas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678624
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"634c52191cbdb6062ade0883ac029190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700169,
+            "locality_id":1226295791,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1226295791,
+    "wof:lastmodified":1536860279,
+    "wof:name":"La Lajas",
+    "wof:parent_id":1108700169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9792,
+    7.90736,
+    -73.9792,
+    7.90736
+],
+  "geometry": {"coordinates":[-73.97920000000001,7.90736],"type":"Point"}
+}

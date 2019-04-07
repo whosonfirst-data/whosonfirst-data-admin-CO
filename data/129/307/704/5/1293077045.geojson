@@ -1,0 +1,72 @@
+{
+  "id": 1293077045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.32152,12.15307,-71.32152,12.15307",
+    "geom:latitude":12.15307,
+    "geom:longitude":-71.32152,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Rancheria Anchunnuru",
+    "gn:country_code":"CO",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8462776,
+    "gn:latitude":12.15307,
+    "gn:longitude":-71.32152,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Rancher\u00eda Anchunnur\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rancher\u00eda Anchunnur\u00fa",
+        "Anchunnur\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8462776
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d9d5a250db16bd654b8c456ef7f47568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1293077045,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293077045,
+    "wof:lastmodified":1537618778,
+    "wof:name":"Rancheria Anchunnuru",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.32151999999998,
+    12.15307,
+    -71.32151999999998,
+    12.15307
+],
+  "geometry": {"coordinates":[-71.32151999999998,12.15307],"type":"Point"}
+}

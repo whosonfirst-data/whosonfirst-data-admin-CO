@@ -1,0 +1,68 @@
+{
+  "id": 1326770639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.48333,4.95472,-73.48333,4.95472",
+    "geom:latitude":4.95472,
+    "geom:longitude":-73.48333,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15325.0",
+    "gn:asciiname":"Ciavita",
+    "gn:country_code":"CO",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812537,
+    "gn:latitude":4.95472,
+    "gn:longitude":-73.48333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ciavita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812537
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c674105aef73a7105adff3a36c9468f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700249,
+            "locality_id":1326770639,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1326770639,
+    "wof:lastmodified":1536639270,
+    "wof:name":"Ciavita",
+    "wof:parent_id":1108700249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.48333000000002,
+    4.95472,
+    -73.48333000000002,
+    4.95472
+],
+  "geometry": {"coordinates":[-73.48333000000002,4.95472],"type":"Point"}
+}

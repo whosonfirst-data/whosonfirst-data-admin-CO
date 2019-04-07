@@ -1,0 +1,62 @@
+{
+  "id": 1209382697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.73301,5.30095,-75.73301,5.30095",
+    "geom:latitude":5.30095,
+    "geom:longitude":-75.73301,
+    "gn:admin1_code":"24",
+    "gn:admin2_code":"66594.0",
+    "gn:asciiname":"Primavera",
+    "gn:country_code":"CO",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781468,
+    "gn:latitude":5.30095,
+    "gn:longitude":-75.73301,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Primavera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781468
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"93bea2ac5f2170a5e7f6e1bc01e9064a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209382697
+        }
+    ],
+    "wof:id":1209382697,
+    "wof:lastmodified":1536288729,
+    "wof:name":"Primavera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.73301,
+    5.30095,
+    -75.73301,
+    5.30095
+],
+  "geometry": {"coordinates":[-75.73300999999999,5.30095],"type":"Point"}
+}

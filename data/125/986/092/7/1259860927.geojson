@@ -1,0 +1,71 @@
+{
+  "id": 1259860927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93444,3.05923,-74.93444,3.05923",
+    "geom:latitude":3.05923,
+    "geom:longitude":-74.93444,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41078",
+    "gn:asciiname":"La Meseta",
+    "gn:country_code":"CO",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354475,
+    "gn:latitude":3.05923,
+    "gn:longitude":-74.93444,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Meseta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Meseta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354475
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e8c98a0fabc7697aa30a9b499faf84ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700805,
+            "locality_id":1259860927,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1259860927,
+    "wof:lastmodified":1537618837,
+    "wof:name":"La Meseta",
+    "wof:parent_id":1108700805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93444000000002,
+    3.05923,
+    -74.93444000000002,
+    3.05923
+],
+  "geometry": {"coordinates":[-74.93444000000002,3.05923],"type":"Point"}
+}

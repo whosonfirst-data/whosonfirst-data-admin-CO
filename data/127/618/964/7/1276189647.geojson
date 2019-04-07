@@ -1,0 +1,68 @@
+{
+  "id": 1276189647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47485,1.25087,-77.47485,1.25087",
+    "geom:latitude":1.25087,
+    "geom:longitude":-77.47485,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52207.0",
+    "gn:asciiname":"El Guabo",
+    "gn:country_code":"CO",
+    "gn:dem":1773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626759,
+    "gn:latitude":1.25087,
+    "gn:longitude":-77.47485,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Guabo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626759
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3b2418b6a38498ba6686b76b80818f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700983,
+            "locality_id":1276189647,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276189647,
+    "wof:lastmodified":1536971181,
+    "wof:name":"El Guabo",
+    "wof:parent_id":1108700983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47485,
+    1.25087,
+    -77.47485,
+    1.25087
+],
+  "geometry": {"coordinates":[-77.47485,1.25087],"type":"Point"}
+}

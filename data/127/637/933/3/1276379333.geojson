@@ -1,0 +1,68 @@
+{
+  "id": 1276379333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25218,5.04658,-72.25218,5.04658",
+    "geom:latitude":5.04658,
+    "geom:longitude":-72.25218,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85001.0",
+    "gn:asciiname":"La Defensa",
+    "gn:country_code":"CO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679303,
+    "gn:latitude":5.04658,
+    "gn:longitude":-72.25218,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Defensa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        421190211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679303
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9783392bb0a4b56a5599ea6f7628145d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421190211,
+            "locality_id":1276379333,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1276379333,
+    "wof:lastmodified":1536717186,
+    "wof:name":"La Defensa",
+    "wof:parent_id":421190211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25218000000002,
+    5.04658,
+    -72.25218000000002,
+    5.04658
+],
+  "geometry": {"coordinates":[-72.25218000000002,5.04658],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 421199369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.46947,4.33656,-74.46947,4.33656",
+    "geom:latitude":4.33656,
+    "geom:longitude":-74.46947,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3685451,
+    "qs:gn_pop":0,
+    "qs:name":"Cumaca",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":45,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":45,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":475086,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":353541,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421184131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685451,
+        "gp:id":353541,
+        "qs:id":475086
+    },
+    "wof:country":"CO",
+    "wof:created":1459009987,
+    "wof:geomhash":"59d0b560a2e7d9e6f390be5f4a649863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184131,
+            "locality_id":421199369,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421199369,
+    "wof:lastmodified":1499968750,
+    "wof:name":"Cumaca",
+    "wof:parent_id":421184131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.46947,
+    4.33656,
+    -74.46947,
+    4.33656
+],
+  "geometry": {"coordinates":[-74.46947,4.33656],"type":"Point"}
+}

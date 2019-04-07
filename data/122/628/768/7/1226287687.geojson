@@ -1,0 +1,70 @@
+{
+  "id": 1226287687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13674,4.74277,-74.13674,4.74277",
+    "geom:latitude":4.74277,
+    "geom:longitude":-74.13674,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Agregados Siberia",
+    "gn:country_code":"CO",
+    "gn:dem":2552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538326,
+    "gn:latitude":4.74277,
+    "gn:longitude":-74.13674,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Agregados Siberia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Agregados Siberia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421172421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538326
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"07b72fbcea1e300ff0a1d8b7fc0bea8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172421,
+            "locality_id":1226287687,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226287687,
+    "wof:lastmodified":1537618780,
+    "wof:name":"Agregados Siberia",
+    "wof:parent_id":421172421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13674,
+    4.74277,
+    -74.13674,
+    4.74277
+],
+  "geometry": {"coordinates":[-74.13674,4.74277],"type":"Point"}
+}

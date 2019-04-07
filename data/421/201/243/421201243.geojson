@@ -1,0 +1,119 @@
+{
+  "id": 421201243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.59293,4.51952,-74.59293,4.51952",
+    "geom:latitude":4.51952,
+    "geom:longitude":-74.59293,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u963f\u666e\u6d1b"
+    ],
+    "name:dut_x_preferred":[
+        "Apulo"
+    ],
+    "name:eng_x_preferred":[
+        "Apulo"
+    ],
+    "name:fre_x_preferred":[
+        "Apulo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10de\u10e3\u10da\u10dd"
+    ],
+    "name:gla_x_preferred":[
+        "Apulo"
+    ],
+    "name:ita_x_preferred":[
+        "Apulo"
+    ],
+    "name:may_x_preferred":[
+        "Apulo"
+    ],
+    "name:nan_x_preferred":[
+        "Apulo"
+    ],
+    "name:spa_x_preferred":[
+        "Apulo"
+    ],
+    "name:tgl_x_preferred":[
+        "Apulo"
+    ],
+    "name:unk_x_variant":[
+        "Rafael Reyes"
+    ],
+    "name:war_x_preferred":[
+        "Apulo"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3671020,
+    "qs:gn_pop":4084,
+    "qs:name":"Apulo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":124,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":124,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1341815,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":364695,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421203443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671020,
+        "gp:id":364695,
+        "qs:id":1341815,
+        "wd:id":"Q1574840"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010066,
+    "wof:geomhash":"e6bf644a4de6f0fcf984b124c44d5666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203443,
+            "locality_id":421201243,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421201243,
+    "wof:lastmodified":1513941303,
+    "wof:name":"Apulo",
+    "wof:parent_id":421203443,
+    "wof:placetype":"locality",
+    "wof:population":4084,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.59293,
+    4.51952,
+    -74.59293,
+    4.51952
+],
+  "geometry": {"coordinates":[-74.59293,4.51952],"type":"Point"}
+}

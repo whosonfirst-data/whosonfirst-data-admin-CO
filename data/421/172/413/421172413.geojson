@@ -1,0 +1,74 @@
+{
+  "id": 421172413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.33333,2.75,-76.33333,2.75",
+    "geom:latitude":2.75,
+    "geom:longitude":-76.33333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3668026,
+    "qs:gn_pop":0,
+    "qs:name":"Silvia",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":36,
+    "qs:photos_1k":7,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":414,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1310423,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796991,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668026,
+        "gp:id":26796991,
+        "qs:id":1310423
+    },
+    "wof:country":"CO",
+    "wof:created":1459008940,
+    "wof:geomhash":"cf408a2da9ee7c4f02ae772658b3f6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172413,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421172413,
+    "wof:lastmodified":1474656692,
+    "wof:name":"Silvia",
+    "wof:parent_id":85670185,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.33333,
+    2.75,
+    -76.33333,
+    2.75
+],
+  "geometry": {"coordinates":[-76.33333,2.75],"type":"Point"}
+}

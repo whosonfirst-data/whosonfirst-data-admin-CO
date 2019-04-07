@@ -1,0 +1,71 @@
+{
+  "id": 1293464329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.44985,3.68958,-73.44985,3.68958",
+    "geom:latitude":3.68958,
+    "geom:longitude":-73.44985,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50689.0",
+    "gn:asciiname":"Gorongoro",
+    "gn:country_code":"CO",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8596837,
+    "gn:latitude":3.68958,
+    "gn:longitude":-73.44985,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Gorongoro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Gorongoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421203183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8596837
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ce03e3af2909e55b9cb9b83bc9d0c041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421203183,
+            "locality_id":1293464329,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1293464329,
+    "wof:lastmodified":1537618794,
+    "wof:name":"Gorongoro",
+    "wof:parent_id":421203183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.44985,
+    3.68958,
+    -73.44985,
+    3.68958
+],
+  "geometry": {"coordinates":[-73.44985,3.68958],"type":"Point"}
+}

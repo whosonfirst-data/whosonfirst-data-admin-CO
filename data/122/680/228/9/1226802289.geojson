@@ -1,0 +1,67 @@
+{
+  "id": 1226802289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.25072,10.67512,-75.25072,10.67512",
+    "geom:latitude":10.67512,
+    "geom:longitude":-75.25072,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Colorado",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686081,
+    "gn:latitude":10.67512,
+    "gn:longitude":-75.25072,
+    "gn:modification_date":"1993-12-08",
+    "gn:name":"Colorado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        421184101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686081
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a1a19c62b2cbeb9e781be3d8a1871533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184101,
+            "locality_id":1226802289,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1226802289,
+    "wof:lastmodified":1536632843,
+    "wof:name":"Colorado",
+    "wof:parent_id":421184101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.25072,
+    10.67512,
+    -75.25072,
+    10.67512
+],
+  "geometry": {"coordinates":[-75.25072,10.67512],"type":"Point"}
+}

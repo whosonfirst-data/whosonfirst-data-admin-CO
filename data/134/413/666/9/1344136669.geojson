@@ -1,0 +1,68 @@
+{
+  "id": 1344136669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.34338,8.78921,-76.34338,8.78921",
+    "geom:latitude":8.78921,
+    "geom:longitude":-76.34338,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23419.0",
+    "gn:asciiname":"La Cana",
+    "gn:country_code":"CO",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779508,
+    "gn:latitude":8.78921,
+    "gn:longitude":-76.34338,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779508
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7c0c17da8b4525b3afd387d16038b64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700581,
+            "locality_id":1344136669,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1344136669,
+    "wof:lastmodified":1536766039,
+    "wof:name":"La Cana",
+    "wof:parent_id":1108700581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.34338000000002,
+    8.78921,
+    -76.34338000000002,
+    8.78921
+],
+  "geometry": {"coordinates":[-76.34338000000002,8.78921],"type":"Point"}
+}

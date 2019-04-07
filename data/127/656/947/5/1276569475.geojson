@@ -1,0 +1,72 @@
+{
+  "id": 1276569475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.07085,2.63372,-76.07085,2.63372",
+    "geom:latitude":2.63372,
+    "geom:longitude":-76.07085,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"19355.0",
+    "gn:asciiname":"Tambichucue",
+    "gn:country_code":"CO",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667507,
+    "gn:latitude":2.63372,
+    "gn:longitude":-76.07085,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tambichucu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tumbichucu\u00e9",
+        "Tambichucu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667507
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ace5621b78a85949dbd0c105ba821eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700463,
+            "locality_id":1276569475,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1276569475,
+    "wof:lastmodified":1537618376,
+    "wof:name":"Tambichucue",
+    "wof:parent_id":1108700463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.07085,
+    2.63372,
+    -76.07085,
+    2.63372
+],
+  "geometry": {"coordinates":[-76.07084999999999,2.63372],"type":"Point"}
+}

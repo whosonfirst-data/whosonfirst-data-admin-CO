@@ -1,0 +1,154 @@
+{
+  "id": 421202899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25996,4.85314,-74.25996,4.85314",
+    "geom:latitude":4.85314,
+    "geom:longitude":-74.25996,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El Rosal"
+    ],
+    "name:ceb_x_preferred":[
+        "El Rosal"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u7f85\u85a9\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "El Rosal"
+    ],
+    "name:dut_x_preferred":[
+        "El Rosal"
+    ],
+    "name:eng_x_preferred":[
+        "El Rosal"
+    ],
+    "name:fra_x_preferred":[
+        "El Rosal"
+    ],
+    "name:fre_x_preferred":[
+        "El Rosal"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10e0\u10dd\u10e1\u10d0\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "El Rosal"
+    ],
+    "name:gla_x_preferred":[
+        "El Rosal"
+    ],
+    "name:ita_x_preferred":[
+        "El Rosal"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e0\u10dd\u10e1\u10d0\u10da\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "El Rosal"
+    ],
+    "name:msa_x_preferred":[
+        "El Rosal"
+    ],
+    "name:nan_x_preferred":[
+        "El Rosal"
+    ],
+    "name:nld_x_preferred":[
+        "El Rosal"
+    ],
+    "name:sco_x_preferred":[
+        "El Rosal"
+    ],
+    "name:spa_x_preferred":[
+        "El Rosal"
+    ],
+    "name:swe_x_preferred":[
+        "El Rosal"
+    ],
+    "name:tgl_x_preferred":[
+        "El Rosal"
+    ],
+    "name:war_x_preferred":[
+        "El Rosal"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Rosal"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7f85\u85a9\u723e"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3683155,
+    "qs:gn_pop":5552,
+    "qs:name":"El Rosal",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":141,
+    "qs:photos_1k":29,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":141,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":228641,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":355826,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421171815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683155,
+        "gp:id":355826,
+        "qs:id":228641,
+        "wd:id":"Q602957",
+        "wk:page":"El Rosal, Cundinamarca"
+    },
+    "wof:country":"CO",
+    "wof:created":1459010133,
+    "wof:geomhash":"aff24af97418f5a85f737c91148c3fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421171815,
+            "locality_id":421202899,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421202899,
+    "wof:lastmodified":1527716212,
+    "wof:name":"El Rosal",
+    "wof:parent_id":421171815,
+    "wof:placetype":"locality",
+    "wof:population":5552,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25996,
+    4.85314,
+    -74.25996,
+    4.85314
+],
+  "geometry": {"coordinates":[-74.25996000000001,4.85314],"type":"Point"}
+}

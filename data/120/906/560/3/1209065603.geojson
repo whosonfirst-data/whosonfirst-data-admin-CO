@@ -1,0 +1,62 @@
+{
+  "id": 1209065603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.16366,5.84462,-72.16366,5.84462",
+    "geom:latitude":5.84462,
+    "geom:longitude":-72.16366,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85400.0",
+    "gn:asciiname":"La Picacha",
+    "gn:country_code":"CO",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678132,
+    "gn:latitude":5.84462,
+    "gn:longitude":-72.16366,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Picacha",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678132
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d5711ab90ded2e5c5c209d00699a6459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209065603
+        }
+    ],
+    "wof:id":1209065603,
+    "wof:lastmodified":1536298814,
+    "wof:name":"La Picacha",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.16366,
+    5.84462,
+    -72.16366,
+    5.84462
+],
+  "geometry": {"coordinates":[-72.16365999999999,5.84462],"type":"Point"}
+}

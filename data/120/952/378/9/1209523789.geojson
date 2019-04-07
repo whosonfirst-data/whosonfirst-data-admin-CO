@@ -1,0 +1,62 @@
+{
+  "id": 1209523789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.16667,6.86667,-75.16667,6.86667",
+    "geom:latitude":6.86667,
+    "geom:longitude":-75.16667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5031.0",
+    "gn:asciiname":"Caracoli",
+    "gn:country_code":"CO",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687450,
+    "gn:latitude":6.86667,
+    "gn:longitude":-75.16667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caracol\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687450
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8e0ca7ea4d86c0e3c8dfe957e3fd52f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209523789
+        }
+    ],
+    "wof:id":1209523789,
+    "wof:lastmodified":1536284496,
+    "wof:name":"Caracoli",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.16667,
+    6.86667,
+    -75.16667,
+    6.86667
+],
+  "geometry": {"coordinates":[-75.16667,6.86667],"type":"Point"}
+}

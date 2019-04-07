@@ -1,0 +1,123 @@
+{
+  "id": 890441947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.78189,-0.19337,-74.78189,-0.19337",
+    "geom:latitude":-0.19337,
+    "geom:longitude":-74.78189,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":9098,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u840a\u5409\u85a9\u83ab\u6e2f"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:eng_x_preferred":[
+        "Caucay\u00e1"
+    ],
+    "name:eng_x_variant":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10d4\u10d2\u10d8\u10e1\u10d0\u10db\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30ec\u30b0\u30a4\u30b5\u30e2"
+    ],
+    "name:may_x_preferred":[
+        "Puerto Leguizamo"
+    ],
+    "name:nan_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:sco_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:tgl_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:unk_x_variant":[
+        "Caucay\u00e1"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Legu\u00edzamo"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Leguizamo"
+    ],
+    "qs:name":"Puerto Legu\u00edzamo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671437,
+        "gp:id":12512407,
+        "qs:id":150060,
+        "wd:id":"Q1525407",
+        "wk:page":"Puerto Legu\u00edzamo"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052344,
+    "wof:geomhash":"49ef05e5a1bd72f539a33e55421b4700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701569,
+            "locality_id":890441947,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":890441947,
+    "wof:lastmodified":1527727230,
+    "wof:name":"Puerto Legu\u00edzamo",
+    "wof:parent_id":1108701569,
+    "wof:placetype":"locality",
+    "wof:population":9098,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.78189,
+    -0.19337,
+    -74.78189,
+    -0.19337
+],
+  "geometry": {"coordinates":[-74.78189,-0.19337],"type":"Point"}
+}

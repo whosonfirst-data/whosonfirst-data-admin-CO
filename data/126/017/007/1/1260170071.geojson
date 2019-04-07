@@ -1,0 +1,68 @@
+{
+  "id": 1260170071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.41166,10.07824,-73.41166,10.07824",
+    "geom:latitude":10.07824,
+    "geom:longitude":-73.41166,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20750.0",
+    "gn:asciiname":"Los Alacranes",
+    "gn:country_code":"CO",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559554,
+    "gn:latitude":10.07824,
+    "gn:longitude":-73.41166,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Alacranes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559554
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d00e6c6aae59b13fe40abea489ded65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700557,
+            "locality_id":1260170071,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260170071,
+    "wof:lastmodified":1536865023,
+    "wof:name":"Los Alacranes",
+    "wof:parent_id":1108700557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.41166,
+    10.07824,
+    -73.41166,
+    10.07824
+],
+  "geometry": {"coordinates":[-73.41166,10.07824],"type":"Point"}
+}

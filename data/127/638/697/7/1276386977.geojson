@@ -1,0 +1,71 @@
+{
+  "id": 1276386977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96374,4.37939,-73.96374,4.37939",
+    "geom:latitude":4.37939,
+    "geom:longitude":-73.96374,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25151.0",
+    "gn:asciiname":"La Chapa",
+    "gn:country_code":"CO",
+    "gn:dem":2440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7524727,
+    "gn:latitude":4.37939,
+    "gn:longitude":-73.96374,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Chapa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Chapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421184951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7524727
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a900ba6388951c562c96b12d6d777f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421184951,
+            "locality_id":1276386977,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1276386977,
+    "wof:lastmodified":1537618720,
+    "wof:name":"La Chapa",
+    "wof:parent_id":421184951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96374,
+    4.37939,
+    -73.96374,
+    4.37939
+],
+  "geometry": {"coordinates":[-73.96374,4.37939],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309960055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46005,9.62506,-75.46005,9.62506",
+    "geom:latitude":9.62506,
+    "geom:longitude":-75.46005,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70823.0",
+    "gn:asciiname":"Siberiana",
+    "gn:country_code":"CO",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668080,
+    "gn:latitude":9.62506,
+    "gn:longitude":-75.46005,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Siberiana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Siberiana",
+        "Subiriana",
+        "Siberiana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668080
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"97e6232a12926e109761fd7b14a5b38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701421,
+            "locality_id":1309960055,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1309960055,
+    "wof:lastmodified":1537618381,
+    "wof:name":"Siberiana",
+    "wof:parent_id":1108701421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46005,
+    9.62506,
+    -75.46005,
+    9.62506
+],
+  "geometry": {"coordinates":[-75.46005,9.62506],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276957235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.62609,9.72737,-73.62609,9.72737",
+    "geom:latitude":9.72737,
+    "geom:longitude":-73.62609,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20250.0",
+    "gn:asciiname":"Filadelfia",
+    "gn:country_code":"CO",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638476,
+    "gn:latitude":9.72737,
+    "gn:longitude":-73.62609,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Filadelfia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638476
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"93c1795c7340adae32a8e8ff6ee6b9dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700537,
+            "locality_id":1276957235,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276957235,
+    "wof:lastmodified":1536938459,
+    "wof:name":"Filadelfia",
+    "wof:parent_id":1108700537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.62609,
+    9.72737,
+    -73.62609,
+    9.72737
+],
+  "geometry": {"coordinates":[-73.62609,9.72737],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1344131047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.8683,1.04834,-77.8683,1.04834",
+    "geom:latitude":1.04834,
+    "geom:longitude":-77.8683,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52435.0",
+    "gn:asciiname":"Pialapi",
+    "gn:country_code":"CO",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7491031,
+    "gn:latitude":1.04834,
+    "gn:longitude":-77.8683,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pialap\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421180457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7491031
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3c64f56c210a3c67fd912f59045fe2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421180457,
+            "locality_id":1344131047,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1344131047,
+    "wof:lastmodified":1536774481,
+    "wof:name":"Pialapi",
+    "wof:parent_id":421180457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.8683,
+    1.04834,
+    -77.8683,
+    1.04834
+],
+  "geometry": {"coordinates":[-77.8683,1.04834],"type":"Point"}
+}

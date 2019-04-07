@@ -1,0 +1,71 @@
+{
+  "id": 1225991177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.41293,3.30743,-76.41293,3.30743",
+    "geom:latitude":3.30743,
+    "geom:longitude":-76.41293,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76130.0",
+    "gn:asciiname":"Hacienda Las Camelias",
+    "gn:country_code":"CO",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622273,
+    "gn:latitude":3.30743,
+    "gn:longitude":-76.41293,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Las Camelias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Hacienda Las Camelias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421181791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622273
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0f60ab0e6fff8d192eb1a8588249bda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181791,
+            "locality_id":1225991177,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1225991177,
+    "wof:lastmodified":1537618799,
+    "wof:name":"Hacienda Las Camelias",
+    "wof:parent_id":421181791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.41293,
+    3.30743,
+    -76.41293,
+    3.30743
+],
+  "geometry": {"coordinates":[-76.41293,3.30743],"type":"Point"}
+}

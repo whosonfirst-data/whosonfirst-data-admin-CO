@@ -1,0 +1,62 @@
+{
+  "id": 1209156027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80668,4.81561,-72.80668,4.81561",
+    "geom:latitude":4.81561,
+    "geom:longitude":-72.80668,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85162.0",
+    "gn:asciiname":"Chapeton",
+    "gn:country_code":"CO",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686760,
+    "gn:latitude":4.81561,
+    "gn:longitude":-72.80668,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chapeton",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686760
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"88de3793f4a72b908f17568495f6144c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209156027
+        }
+    ],
+    "wof:id":1209156027,
+    "wof:lastmodified":1536296050,
+    "wof:name":"Chapeton",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80668,
+    4.81561,
+    -72.80668,
+    4.81561
+],
+  "geometry": {"coordinates":[-72.80668,4.81561],"type":"Point"}
+}

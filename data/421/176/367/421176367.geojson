@@ -1,0 +1,232 @@
+{
+  "id": 421176367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78833,5.08583,-75.78833,5.08583",
+    "geom:latitude":5.08583,
+    "geom:longitude":-75.78833,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":5.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
+    ],
+    "name:may_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:msa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:nan_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:sco_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:tgl_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:war_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Costa Rica",
+    "ne:ADM0_A3":"CRI",
+    "ne:ADM1NAME":"San Jos\u00e9",
+    "ne:ADMIN1_COD":37,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":5,
+    "ne:CITYALT":"San Jose",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3669623,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"San Jose",
+    "ne:GN_POP":1724,
+    "ne:GTOPO30":1468.0,
+    "ne:ISO_A2":"CR",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":9.935012,
+    "ne:LONGITUDE":-84.084051,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Jose1",
+    "ne:MAX_AREAKM":431.0,
+    "ne:MAX_AREAMI":166.0,
+    "ne:MAX_BBXMAX":-83.975,
+    "ne:MAX_BBXMIN":-84.166667,
+    "ne:MAX_BBYMAX":10.05,
+    "ne:MAX_BBYMIN":9.841667,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":270.0,
+    "ne:MAX_PERMI":168.0,
+    "ne:MAX_POP10":1450902,
+    "ne:MAX_POP20":1826034,
+    "ne:MAX_POP300":1826034,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1826034,
+    "ne:MEAN_BBXC":-84.111698,
+    "ne:MEAN_BBYC":9.959268,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"San Josi",
+    "ne:MIN_AREAKM":264.0,
+    "ne:MIN_AREAMI":102.0,
+    "ne:MIN_BBXMAX":-83.983333,
+    "ne:MIN_BBXMIN":-84.366667,
+    "ne:MIN_BBYMAX":10.041667,
+    "ne:MIN_BBYMIN":9.841667,
+    "ne:MIN_PERKM":136.0,
+    "ne:MIN_PERMI":84.0,
+    "ne:NAME":"San Jose",
+    "ne:NAMEALT":"San Jose",
+    "ne:NAMEASCII":"San Jose",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":110,
+    "ne:NOTE":null,
+    "ne:POP1950":148,
+    "ne:POP1955":184,
+    "ne:POP1960":230,
+    "ne:POP1965":287,
+    "ne:POP1970":359,
+    "ne:POP1975":440,
+    "ne:POP1980":526,
+    "ne:POP1985":627,
+    "ne:POP1990":737,
+    "ne:POP1995":867,
+    "ne:POP2000":1032,
+    "ne:POP2005":1217,
+    "ne:POP2010":1284,
+    "ne:POP2015":1374,
+    "ne:POP2020":1506,
+    "ne:POP2025":1627,
+    "ne:POP2050":1737,
+    "ne:POP_MAX":1284000,
+    "ne:POP_MIN":1724,
+    "ne:POP_OTHER":1434681,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Costa Rica",
+    "ne:SOV_A3":"CRI",
+    "ne:TIMEZONE":"America/Bogota",
+    "ne:UN_ADM0":"Costa Rica",
+    "ne:UN_FID":171,
+    "ne:UN_LAT":9.93,
+    "ne:UN_LONG":-84.07,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669623,
+    "qs:gn_pop":1724,
+    "qs:name":"San Jos\u00e9",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Caldas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"12",
+    "qs:qs_id":1046194,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365590,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":187,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        1108700395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669623,
+        "gp:id":365590,
+        "qs:id":1046194,
+        "wd:id":"Q1574774",
+        "wk:page":"San Jos\u00e9, Caldas"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009106,
+    "wof:geomhash":"9355986bef0de4fd4cab5b4f24c4c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700395,
+            "locality_id":421176367,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":421176367,
+    "wof:lastmodified":1527726474,
+    "wof:name":"San Jos\u00e9",
+    "wof:parent_id":1108700395,
+    "wof:placetype":"locality",
+    "wof:population":1724,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78833,
+    5.08583,
+    -75.78833,
+    5.08583
+],
+  "geometry": {"coordinates":[-75.78833,5.08583],"type":"Point"}
+}

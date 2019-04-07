@@ -1,0 +1,93 @@
+{
+  "id": 1126090479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58236,6.25203,-75.58236,6.25203",
+    "geom:latitude":6.25203,
+    "geom:longitude":-75.58236,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":6.25203,
+    "lbl:longitude":-75.58236,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3676594,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Libertadores",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Antioquia",
+    "qs_pg:photos":4230,
+    "qs_pg:photos_1k":857,
+    "qs_pg:photos_9k":19,
+    "qs_pg:photos_9r":12,
+    "qs_pg:photos_all":4230,
+    "qs_pg:photos_sr":22,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082710,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":361187,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Antioquia",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670129,
+        102191577,
+        85632519,
+        421205069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676594,
+        "gp:id":361187,
+        "qs_pg:id":1082710
+    },
+    "wof:country":"CO",
+    "wof:created":1497313639,
+    "wof:geomhash":"4b669c61f56d2928d96bc4d2430d98db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":1126090479,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1126090479,
+    "wof:lastmodified":1534379260,
+    "wof:name":"Libertadores",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764727
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58236,
+    6.25203,
+    -75.58236,
+    6.25203
+],
+  "geometry": {"coordinates":[-75.58235999999999,6.25203],"type":"Point"}
+}

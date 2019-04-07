@@ -1,0 +1,68 @@
+{
+  "id": 1242862971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.64012,9.66924,-73.64012,9.66924",
+    "geom:latitude":9.66924,
+    "geom:longitude":-73.64012,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20045.0",
+    "gn:asciiname":"Los Inguensos",
+    "gn:country_code":"CO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676123,
+    "gn:latitude":9.66924,
+    "gn:longitude":-73.64012,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Inguensos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676123
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b49ab6411f82e3fd0586e5122d22718c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700529,
+            "locality_id":1242862971,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1242862971,
+    "wof:lastmodified":1536652505,
+    "wof:name":"Los Inguensos",
+    "wof:parent_id":1108700529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.64012,
+    9.66924,
+    -73.64012,
+    9.66924
+],
+  "geometry": {"coordinates":[-73.64012,9.66924],"type":"Point"}
+}

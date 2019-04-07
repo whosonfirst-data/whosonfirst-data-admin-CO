@@ -1,0 +1,62 @@
+{
+  "id": 1209690155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.6511,1.02929,-77.6511,1.02929",
+    "geom:latitude":1.02929,
+    "geom:longitude":-77.6511,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52720.0",
+    "gn:asciiname":"Malaver",
+    "gn:country_code":"CO",
+    "gn:dem":2968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675590,
+    "gn:latitude":1.02929,
+    "gn:longitude":-77.6511,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Malaver",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675590
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2c7caa861dde715d240fdef346ad9575",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209690155
+        }
+    ],
+    "wof:id":1209690155,
+    "wof:lastmodified":1536279272,
+    "wof:name":"Malaver",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.6511,
+    1.02929,
+    -77.6511,
+    1.02929
+],
+  "geometry": {"coordinates":[-77.6511,1.02929],"type":"Point"}
+}

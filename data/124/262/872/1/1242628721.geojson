@@ -1,0 +1,73 @@
+{
+  "id": 1242628721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.30972,9.2625,-74.30972,9.2625",
+    "geom:latitude":9.2625,
+    "geom:longitude":-74.30972,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47692.0",
+    "gn:asciiname":"Toribia",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666889,
+    "gn:latitude":9.2625,
+    "gn:longitude":-74.30972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Toribia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Toribial",
+        "Toribia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666889
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4bc38756ac5c420764fd2e826a02f020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700909,
+            "locality_id":1242628721,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1242628721,
+    "wof:lastmodified":1537618371,
+    "wof:name":"Toribia",
+    "wof:parent_id":1108700909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.30972,
+    9.2625,
+    -74.30972,
+    9.2625
+],
+  "geometry": {"coordinates":[-74.30972,9.2625],"type":"Point"}
+}

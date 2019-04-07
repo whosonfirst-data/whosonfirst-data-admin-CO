@@ -1,0 +1,72 @@
+{
+  "id": 1343809363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.79977,9.7221,-74.79977,9.7221",
+    "geom:latitude":9.7221,
+    "geom:longitude":-74.79977,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47555.0",
+    "gn:asciiname":"San Jose del Purgatorio",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669547,
+    "gn:latitude":9.7221,
+    "gn:longitude":-74.79977,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Jos\u00e9 del Purgatorio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Purgatorio",
+        "San Jos\u00e9 del Purgatorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669547
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f15e1dea0ff1bd36c21e41a0db78e032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700899,
+            "locality_id":1343809363,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1343809363,
+    "wof:lastmodified":1537618398,
+    "wof:name":"San Jose del Purgatorio",
+    "wof:parent_id":1108700899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.79977,
+    9.7221,
+    -74.79977,
+    9.7221
+],
+  "geometry": {"coordinates":[-74.79977,9.7221],"type":"Point"}
+}

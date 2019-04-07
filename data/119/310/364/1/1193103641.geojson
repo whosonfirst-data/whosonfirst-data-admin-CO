@@ -1,0 +1,68 @@
+{
+  "id": 1193103641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.93488,11.36347,-72.93488,11.36347",
+    "geom:latitude":11.36347,
+    "geom:longitude":-72.93488,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44001.0",
+    "gn:asciiname":"Huinsarare",
+    "gn:country_code":"CO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680684,
+    "gn:latitude":11.36347,
+    "gn:longitude":-72.93488,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Huinsarare",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421182357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680684
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b8f9ea5a9feed1c386e07c806c54bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182357,
+            "locality_id":1193103641,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1193103641,
+    "wof:lastmodified":1536380823,
+    "wof:name":"Huinsarare",
+    "wof:parent_id":421182357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93488,
+    11.36347,
+    -72.93488,
+    11.36347
+],
+  "geometry": {"coordinates":[-72.93488000000001,11.36347],"type":"Point"}
+}

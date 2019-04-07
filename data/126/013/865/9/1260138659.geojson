@@ -1,0 +1,71 @@
+{
+  "id": 1260138659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.99089,1.16926,-76.99089,1.16926",
+    "geom:latitude":1.16926,
+    "geom:longitude":-76.99089,
+    "gn:admin1_code":"22.0",
+    "gn:admin2_code":"86760.0",
+    "gn:asciiname":"Vichay",
+    "gn:country_code":"CO",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7544227,
+    "gn:latitude":1.16926,
+    "gn:longitude":-76.99089,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vichay",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vichay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670197,
+        1108701577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7544227
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36c04f91059194b1f7e36f2bd47d6977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701577,
+            "locality_id":1260138659,
+            "region_id":85670197
+        }
+    ],
+    "wof:id":1260138659,
+    "wof:lastmodified":1537618741,
+    "wof:name":"Vichay",
+    "wof:parent_id":1108701577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.99089000000002,
+    1.16926,
+    -76.99089000000002,
+    1.16926
+],
+  "geometry": {"coordinates":[-76.99089000000002,1.16926],"type":"Point"}
+}

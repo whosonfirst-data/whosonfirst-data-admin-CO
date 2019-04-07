@@ -1,0 +1,100 @@
+{
+  "id": 1126090869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.06922,4.6213,-74.06922,4.6213",
+    "geom:latitude":4.6213,
+    "geom:longitude":-74.06922,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.62131,
+    "gn:longitude":-74.06922,
+    "iso:country":"CO",
+    "lbl:latitude":4.6213,
+    "lbl:longitude":-74.06922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:spa_x_preferred":[
+        "La Merced"
+    ],
+    "name:unk_x_variant":[
+        "La Merced"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3678413,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Merced",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":8135,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":36,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":8135,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211155,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":359432,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Distrito Especial",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678413,
+        "gp:id":359432,
+        "qs:id":211155,
+        "qs_pg:id":211155
+    },
+    "wof:country":"CO",
+    "wof:created":1497313733,
+    "wof:geomhash":"c2d3b94c852b37602bc313f193734756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":1126090869,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1126090869,
+    "wof:lastmodified":1534379261,
+    "wof:name":"La Merced",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85764689
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06922,
+    4.6213,
+    -74.06922,
+    4.6213
+],
+  "geometry": {"coordinates":[-74.06922,4.6213],"type":"Point"}
+}

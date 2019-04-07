@@ -1,0 +1,62 @@
+{
+  "id": 1209599459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.47815,3.00643,-77.47815,3.00643",
+    "geom:latitude":3.00643,
+    "geom:longitude":-77.47815,
+    "gn:admin1_code":"9",
+    "gn:admin2_code":"19418.0",
+    "gn:asciiname":"Samaima",
+    "gn:country_code":"CO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734444,
+    "gn:latitude":3.00643,
+    "gn:longitude":-77.47815,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Samaima",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734444
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"47dac5eb253ee43a80630052869c279c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209599459
+        }
+    ],
+    "wof:id":1209599459,
+    "wof:lastmodified":1536282216,
+    "wof:name":"Samaima",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.47815,
+    3.00643,
+    -77.47815,
+    3.00643
+],
+  "geometry": {"coordinates":[-77.47815,3.00643],"type":"Point"}
+}

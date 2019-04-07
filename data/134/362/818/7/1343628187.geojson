@@ -1,0 +1,71 @@
+{
+  "id": 1343628187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15321,7.22332,-73.15321,7.22332",
+    "geom:latitude":7.22332,
+    "geom:longitude":-73.15321,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"Brisas",
+    "gn:country_code":"CO",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182957,
+    "gn:latitude":7.22332,
+    "gn:longitude":-73.15321,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Brisas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Brisas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182957
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"181eaf09de54b8c57117e0cc66b3e38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701327,
+            "locality_id":1343628187,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1343628187,
+    "wof:lastmodified":1537618757,
+    "wof:name":"Brisas",
+    "wof:parent_id":1108701327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15321,
+    7.22332,
+    -73.15321,
+    7.22332
+],
+  "geometry": {"coordinates":[-73.15321,7.22332],"type":"Point"}
+}

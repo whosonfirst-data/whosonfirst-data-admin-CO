@@ -1,0 +1,62 @@
+{
+  "id": 1209562531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.00393,4.82875,-75.00393,4.82875",
+    "geom:latitude":4.82875,
+    "geom:longitude":-75.00393,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73408.0",
+    "gn:asciiname":"Delicias",
+    "gn:country_code":"CO",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685261,
+    "gn:latitude":4.82875,
+    "gn:longitude":-75.00393,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685261
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5fd4c056a299b9602e2fbe15fc50e969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209562531
+        }
+    ],
+    "wof:id":1209562531,
+    "wof:lastmodified":1536283342,
+    "wof:name":"Delicias",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.00393000000003,
+    4.82875,
+    -75.00393000000003,
+    4.82875
+],
+  "geometry": {"coordinates":[-75.00393000000003,4.82875],"type":"Point"}
+}

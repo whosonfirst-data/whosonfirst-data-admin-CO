@@ -1,0 +1,68 @@
+{
+  "id": 1327495043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.52504,0.9589,-77.52504,0.9589",
+    "geom:latitude":0.9589,
+    "geom:longitude":-77.52504,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52352.0",
+    "gn:asciiname":"Quitoso",
+    "gn:country_code":"CO",
+    "gn:dem":3065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828551,
+    "gn:latitude":0.9589,
+    "gn:longitude":-77.52504,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quitoso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828551
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b6a27fddae3e5e58e673a8d23698baa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701015,
+            "locality_id":1327495043,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327495043,
+    "wof:lastmodified":1537085037,
+    "wof:name":"Quitoso",
+    "wof:parent_id":1108701015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.52504,
+    0.9589,
+    -77.52504,
+    0.9589
+],
+  "geometry": {"coordinates":[-77.52504,0.9589],"type":"Point"}
+}

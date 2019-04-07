@@ -1,0 +1,68 @@
+{
+  "id": 1209511237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06574,0.9915,-75.06574,0.9915",
+    "geom:latitude":0.9915,
+    "geom:longitude":-75.06574,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18756.0",
+    "gn:asciiname":"Puerto Tejada",
+    "gn:country_code":"CO",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6977499,
+    "gn:latitude":0.9915,
+    "gn:longitude":-75.06574,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Tejada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Puerto Tejada"
+    ],
+    "name:spa_x_variant":[
+        "Inspecci\u00f3n de Polic\u00eda Puerto Tejada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6977499
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d33299bd987777349ce71b6cd8cd9998",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209511237
+        }
+    ],
+    "wof:id":1209511237,
+    "wof:lastmodified":1537618706,
+    "wof:name":"Puerto Tejada",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06574,
+    0.9915,
+    -75.06574,
+    0.9915
+],
+  "geometry": {"coordinates":[-75.06574000000001,0.9915],"type":"Point"}
+}

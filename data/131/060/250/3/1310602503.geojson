@@ -1,0 +1,68 @@
+{
+  "id": 1310602503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.84494,7.06596,-70.84494,7.06596",
+    "geom:latitude":7.06596,
+    "geom:longitude":-70.84494,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"El Torno",
+    "gn:country_code":"CO",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756839,
+    "gn:latitude":7.06596,
+    "gn:longitude":-70.84494,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Torno",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3756839
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"792ffd920f0fac51d8014617f8bbb953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1310602503,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1310602503,
+    "wof:lastmodified":1536777542,
+    "wof:name":"El Torno",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.84494000000002,
+    7.06596,
+    -70.84494000000002,
+    7.06596
+],
+  "geometry": {"coordinates":[-70.84494000000002,7.06596],"type":"Point"}
+}

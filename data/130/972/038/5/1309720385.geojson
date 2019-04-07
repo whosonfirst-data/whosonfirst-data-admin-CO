@@ -1,0 +1,73 @@
+{
+  "id": 1309720385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.76667,7.75,-74.76667,7.75",
+    "geom:latitude":7.75,
+    "geom:longitude":-74.76667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5250.0",
+    "gn:asciiname":"Bodega Cuturu",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688696,
+    "gn:latitude":7.75,
+    "gn:longitude":-74.76667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bodega Cutur\u00fa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cutur\u00fa",
+        "Bodega Cutur\u00fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688696
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"65595fa55b8c2e949edb07cfcd611401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699957,
+            "locality_id":1309720385,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1309720385,
+    "wof:lastmodified":1537618644,
+    "wof:name":"Bodega Cuturu",
+    "wof:parent_id":1108699957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.76666999999998,
+    7.75,
+    -74.76666999999998,
+    7.75
+],
+  "geometry": {"coordinates":[-74.76666999999998,7.75],"type":"Point"}
+}

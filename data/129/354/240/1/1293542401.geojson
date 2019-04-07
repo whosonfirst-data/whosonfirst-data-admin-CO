@@ -1,0 +1,76 @@
+{
+  "id": 1293542401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.72079,8.24976,-74.72079,8.24976",
+    "geom:latitude":8.24976,
+    "geom:longitude":-74.72079,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13655.0",
+    "gn:asciiname":"San Jacinto del Cauca",
+    "gn:country_code":"CO",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3669729,
+    "gn:latitude":8.24976,
+    "gn:longitude":-74.72079,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"San Jacinto del Cauca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jacinto del Cauca"
+    ],
+    "name:und_x_variant":[
+        "Corregimiento San Jacinto",
+        "San Jacinto",
+        "San Jacinto de Ach\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669729
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"51dd464cb1a0f675fec31b7f08f43f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700153,
+            "locality_id":1293542401,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293542401,
+    "wof:lastmodified":1537618401,
+    "wof:name":"San Jacinto del Cauca",
+    "wof:parent_id":1108700153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.72079000000002,
+    8.24976,
+    -74.72079000000002,
+    8.24976
+],
+  "geometry": {"coordinates":[-74.72079000000002,8.24976],"type":"Point"}
+}

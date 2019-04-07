@@ -1,0 +1,73 @@
+{
+  "id": 1226496313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.41667,5.41667,-74.41667,5.41667",
+    "geom:latitude":5.41667,
+    "geom:longitude":-74.41667,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25394.0",
+    "gn:asciiname":"Minipi de Quijano",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674754,
+    "gn:latitude":5.41667,
+    "gn:longitude":-74.41667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Minip\u00ed de Quijano",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minip\u00ed",
+        "Minip\u00ed de Quijano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674754
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3c768bdb3bd121907c9bc192ff0e9f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700671,
+            "locality_id":1226496313,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226496313,
+    "wof:lastmodified":1537618458,
+    "wof:name":"Minipi de Quijano",
+    "wof:parent_id":1108700671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.41667,
+    5.41667,
+    -74.41667,
+    5.41667
+],
+  "geometry": {"coordinates":[-74.41667,5.41667],"type":"Point"}
+}

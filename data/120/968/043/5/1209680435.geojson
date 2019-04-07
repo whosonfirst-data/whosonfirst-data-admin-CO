@@ -1,0 +1,66 @@
+{
+  "id": 1209680435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.43314,1.11427,-77.43314,1.11427",
+    "geom:latitude":1.11427,
+    "geom:longitude":-77.43314,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52885.0",
+    "gn:asciiname":"Cuatro Esquinas",
+    "gn:country_code":"CO",
+    "gn:dem":2573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685591,
+    "gn:latitude":1.11427,
+    "gn:longitude":-77.43314,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cuatro Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "4 Esquinas",
+        "Cuatro Esquinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685591
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"981e6afe643b9a3a487a0eaf0a74e6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209680435
+        }
+    ],
+    "wof:id":1209680435,
+    "wof:lastmodified":1537618611,
+    "wof:name":"Cuatro Esquinas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.43314000000002,
+    1.11427,
+    -77.43314000000002,
+    1.11427
+],
+  "geometry": {"coordinates":[-77.43314000000002,1.11427],"type":"Point"}
+}

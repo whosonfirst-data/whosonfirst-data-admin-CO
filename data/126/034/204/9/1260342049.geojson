@@ -1,0 +1,67 @@
+{
+  "id": 1260342049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.12528,4.18444,-75.12528,4.18444",
+    "geom:latitude":4.18444,
+    "geom:longitude":-75.12528,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Cabquita",
+    "gn:country_code":"CO",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3734798,
+    "gn:latitude":4.18444,
+    "gn:longitude":-75.12528,
+    "gn:modification_date":"1994-05-24",
+    "gn:name":"Cabquita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3734798
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"837fbcac10ff8300b98d428d6957d2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701473,
+            "locality_id":1260342049,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1260342049,
+    "wof:lastmodified":1536632219,
+    "wof:name":"Cabquita",
+    "wof:parent_id":1108701473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.12528,
+    4.18444,
+    -75.12528,
+    4.18444
+],
+  "geometry": {"coordinates":[-75.12528,4.18444],"type":"Point"}
+}

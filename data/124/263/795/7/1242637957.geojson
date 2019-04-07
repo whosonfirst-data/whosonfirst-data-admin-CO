@@ -1,0 +1,73 @@
+{
+  "id": 1242637957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.22194,3.62667,-76.22194,3.62667",
+    "geom:latitude":3.62667,
+    "geom:longitude":-76.22194,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76248.0",
+    "gn:asciiname":"Piedechinche",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672332,
+    "gn:latitude":3.62667,
+    "gn:longitude":-76.22194,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Piedechinche",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chinche",
+        "Piedechinche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421170275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672332
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"87681eb1b433096c884baa6290058f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170275,
+            "locality_id":1242637957,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1242637957,
+    "wof:lastmodified":1537618434,
+    "wof:name":"Piedechinche",
+    "wof:parent_id":421170275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.22194,
+    3.62667,
+    -76.22194,
+    3.62667
+],
+  "geometry": {"coordinates":[-76.22194,3.62667],"type":"Point"}
+}

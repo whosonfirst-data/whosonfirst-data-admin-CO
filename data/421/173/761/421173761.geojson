@@ -1,0 +1,83 @@
+{
+  "id": 421173761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.91667,5.1,-73.91667,5.1",
+    "geom:latitude":5.1,
+    "geom:longitude":-73.91667,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nor_x_preferred":[
+        "Los Aposentos"
+    ],
+    "name:spa_x_preferred":[
+        "Parque nacional Los Aposentos"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3689784,
+    "qs:gn_pop":0,
+    "qs:name":"Aposentos",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cundinamarca",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":298446,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":350873,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":97,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421193469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689784,
+        "gp:id":350873,
+        "qs:id":298446
+    },
+    "wof:country":"CO",
+    "wof:created":1459009005,
+    "wof:geomhash":"754132b73479d82a4c81671e53b43638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421193469,
+            "locality_id":421173761,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":421173761,
+    "wof:lastmodified":1527716258,
+    "wof:name":"Aposentos",
+    "wof:parent_id":421193469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.91667,
+    5.1,
+    -73.91667,
+    5.1
+],
+  "geometry": {"coordinates":[-73.91667,5.1],"type":"Point"}
+}

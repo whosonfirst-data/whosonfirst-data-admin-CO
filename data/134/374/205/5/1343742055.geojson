@@ -1,0 +1,68 @@
+{
+  "id": 1343742055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.92222,8.55639,-75.92222,8.55639",
+    "geom:latitude":8.55639,
+    "geom:longitude":-75.92222,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"Florida",
+    "gn:country_code":"CO",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3783376,
+    "gn:latitude":8.55639,
+    "gn:longitude":-75.92222,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Florida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783376
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5b29c53c55deb7f89f0082ff357f5a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1343742055,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1343742055,
+    "wof:lastmodified":1536836399,
+    "wof:name":"Florida",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.92222,
+    8.55639,
+    -75.92222,
+    8.55639
+],
+  "geometry": {"coordinates":[-75.92222,8.55639],"type":"Point"}
+}

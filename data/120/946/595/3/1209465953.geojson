@@ -1,0 +1,61 @@
+{
+  "id": 1209465953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.51331,8.38732,-75.51331,8.38732",
+    "geom:latitude":8.38732,
+    "geom:longitude":-75.51331,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Las Moscas",
+    "gn:country_code":"CO",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677286,
+    "gn:latitude":8.38732,
+    "gn:longitude":-75.51331,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Las Moscas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677286
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"19f148a06d1f3d01711f03cecc4d7697",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209465953
+        }
+    ],
+    "wof:id":1209465953,
+    "wof:lastmodified":1536286233,
+    "wof:name":"Las Moscas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.51331,
+    8.387319999999999,
+    -75.51331,
+    8.387319999999999
+],
+  "geometry": {"coordinates":[-75.51331,8.38732],"type":"Point"}
+}

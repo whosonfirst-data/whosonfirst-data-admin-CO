@@ -1,0 +1,67 @@
+{
+  "id": 1209165657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9635,11.21715,-73.9635,11.21715",
+    "geom:latitude":11.21715,
+    "geom:longitude":-73.9635,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47001.0",
+    "gn:asciiname":"El Fenix",
+    "gn:country_code":"CO",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684178,
+    "gn:latitude":11.21715,
+    "gn:longitude":-73.9635,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El F\u00e9nix",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Fenix",
+        "Hacienda El F\u00e9nix",
+        "El F\u00e9nix"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684178
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5389e1fc7411b2c6f831eba93fde64c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209165657
+        }
+    ],
+    "wof:id":1209165657,
+    "wof:lastmodified":1537618590,
+    "wof:name":"El Fenix",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9635,
+    11.21715,
+    -73.9635,
+    11.21715
+],
+  "geometry": {"coordinates":[-73.9635,11.21715],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243304013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.68907,5.35612,-72.68907,5.35612",
+    "geom:latitude":5.35612,
+    "geom:longitude":-72.68907,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15518.0",
+    "gn:asciiname":"Huerto Viejo",
+    "gn:country_code":"CO",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680699,
+    "gn:latitude":5.35612,
+    "gn:longitude":-72.68907,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Huerto Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huertavieja",
+        "Huerto Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680699
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8cada159b8663cbe7a84f9a0c226db8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700291,
+            "locality_id":1243304013,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1243304013,
+    "wof:lastmodified":1537618544,
+    "wof:name":"Huerto Viejo",
+    "wof:parent_id":1108700291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.68907,
+    5.35612,
+    -72.68907,
+    5.35612
+],
+  "geometry": {"coordinates":[-72.68907,5.35612],"type":"Point"}
+}

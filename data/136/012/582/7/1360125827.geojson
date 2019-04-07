@@ -1,0 +1,68 @@
+{
+  "id": 1360125827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.90025,4.60545,-73.90025,4.60545",
+    "geom:latitude":4.60545,
+    "geom:longitude":-73.90025,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25181.0",
+    "gn:asciiname":"El Alto del Palo",
+    "gn:country_code":"CO",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7929100,
+    "gn:latitude":4.60545,
+    "gn:longitude":-73.90025,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Alto del Palo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421200727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7929100
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"833c65e4e9495bd2e2cf8cb101ec37f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421200727,
+            "locality_id":1360125827,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1360125827,
+    "wof:lastmodified":1536886368,
+    "wof:name":"El Alto del Palo",
+    "wof:parent_id":421200727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.90025,
+    4.60545,
+    -73.90025,
+    4.60545
+],
+  "geometry": {"coordinates":[-73.90025,4.60545],"type":"Point"}
+}

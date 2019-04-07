@@ -1,0 +1,67 @@
+{
+  "id": 1310360061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.75694,5.75278,-73.75694,5.75278",
+    "geom:latitude":5.75278,
+    "geom:longitude":-73.75694,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"La Lucerna",
+    "gn:country_code":"CO",
+    "gn:dem":2802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776718,
+    "gn:latitude":5.75278,
+    "gn:longitude":-73.75694,
+    "gn:modification_date":"2002-03-11",
+    "gn:name":"La Lucerna",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421188641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776718
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"505d5ebb77a813c6235389a035dcc699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188641,
+            "locality_id":1310360061,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1310360061,
+    "wof:lastmodified":1536627681,
+    "wof:name":"La Lucerna",
+    "wof:parent_id":421188641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.75694,
+    5.75278,
+    -73.75694,
+    5.75278
+],
+  "geometry": {"coordinates":[-73.75694,5.75278],"type":"Point"}
+}

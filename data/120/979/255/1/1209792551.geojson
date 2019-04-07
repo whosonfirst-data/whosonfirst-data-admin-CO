@@ -1,0 +1,68 @@
+{
+  "id": 1209792551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.12525,9.06308,-76.12525,9.06308",
+    "geom:latitude":9.06308,
+    "geom:longitude":-76.12525,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23574.0",
+    "gn:asciiname":"Villa Esther",
+    "gn:country_code":"CO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3665998,
+    "gn:latitude":9.06308,
+    "gn:longitude":-76.12525,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Esther",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421186429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3665998
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6c29fa14cdfd006c3fd49398e2f8d6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421186429,
+            "locality_id":1209792551,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1209792551,
+    "wof:lastmodified":1536394351,
+    "wof:name":"Villa Esther",
+    "wof:parent_id":421186429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.12525,
+    9.06308,
+    -76.12525,
+    9.06308
+],
+  "geometry": {"coordinates":[-76.12524999999999,9.06308],"type":"Point"}
+}

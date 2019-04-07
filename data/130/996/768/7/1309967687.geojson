@@ -1,0 +1,73 @@
+{
+  "id": 1309967687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.6,1.48333,-77.6,1.48333",
+    "geom:latitude":1.48333,
+    "geom:longitude":-77.6,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52385.0",
+    "gn:asciiname":"Los Pigillos",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675953,
+    "gn:latitude":1.48333,
+    "gn:longitude":-77.6,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Pigillos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pingillos",
+        "Los Pigillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675953
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a805c45db62ec07d2f0639f6c25daa20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701021,
+            "locality_id":1309967687,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1309967687,
+    "wof:lastmodified":1537618471,
+    "wof:name":"Los Pigillos",
+    "wof:parent_id":1108701021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.6,
+    1.48333,
+    -77.6,
+    1.48333
+],
+  "geometry": {"coordinates":[-77.59999999999999,1.48333],"type":"Point"}
+}

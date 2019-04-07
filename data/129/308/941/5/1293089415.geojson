@@ -1,0 +1,75 @@
+{
+  "id": 1293089415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.5804,10.41706,-73.5804,10.41706",
+    "geom:latitude":10.41706,
+    "geom:longitude":-73.5804,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20570.0",
+    "gn:asciiname":"Pueblo Bello",
+    "gn:country_code":"CO",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3671671,
+    "gn:latitude":10.41706,
+    "gn:longitude":-73.5804,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pueblo Bello",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento de Pueblo Bello",
+        "Pueblo Viejo",
+        "Pueblo Viejo Sul",
+        "Pueblo Bello"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421197011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671671,
+        "wk:page":"Pueblo_Bello"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"afc029027ac7b61826d8c57a3b9829ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421197011,
+            "locality_id":1293089415,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1293089415,
+    "wof:lastmodified":1537618426,
+    "wof:name":"Pueblo Bello",
+    "wof:parent_id":421197011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.5804,
+    10.41706,
+    -73.5804,
+    10.41706
+],
+  "geometry": {"coordinates":[-73.5804,10.41706],"type":"Point"}
+}

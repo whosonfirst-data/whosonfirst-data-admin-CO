@@ -1,0 +1,71 @@
+{
+  "id": 1343307175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.38056,3.97944,-74.38056,3.97944",
+    "geom:latitude":3.97944,
+    "geom:longitude":-74.38056,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Tierra Negra",
+    "gn:country_code":"CO",
+    "gn:dem":2540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667153,
+    "gn:latitude":3.97944,
+    "gn:longitude":-74.38056,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tierra Negra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alto Tierra Negra",
+        "Tierra Negra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667153
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a1365a41c035d491d1a6e7dc54af2c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700629,
+            "locality_id":1343307175,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343307175,
+    "wof:lastmodified":1537618373,
+    "wof:name":"Tierra Negra",
+    "wof:parent_id":1108700629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.38056,
+    3.97944,
+    -74.38056,
+    3.97944
+],
+  "geometry": {"coordinates":[-74.38056,3.97944],"type":"Point"}
+}

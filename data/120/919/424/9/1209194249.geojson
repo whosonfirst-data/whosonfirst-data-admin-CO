@@ -1,0 +1,66 @@
+{
+  "id": 1209194249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80411,9.32863,-75.80411,9.32863",
+    "geom:latitude":9.32863,
+    "geom:longitude":-75.80411,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23672.0",
+    "gn:asciiname":"Leticia",
+    "gn:country_code":"CO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676614,
+    "gn:latitude":9.32863,
+    "gn:longitude":-75.80411,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Leticia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Leticia",
+        "Leticia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676614
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0faac95166efac168719ec3a53504c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209194249
+        }
+    ],
+    "wof:id":1209194249,
+    "wof:lastmodified":1537618482,
+    "wof:name":"Leticia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80411,
+    9.32863,
+    -75.80411,
+    9.32863
+],
+  "geometry": {"coordinates":[-75.80410999999999,9.32863],"type":"Point"}
+}

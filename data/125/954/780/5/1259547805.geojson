@@ -1,0 +1,68 @@
+{
+  "id": 1259547805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46314,7.83054,-72.46314,7.83054",
+    "geom:latitude":7.83054,
+    "geom:longitude":-72.46314,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54874.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"CO",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3759480,
+    "gn:latitude":7.83054,
+    "gn:longitude":-72.46314,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        421172473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3759480
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"77badf41d093819854738cfa7e459ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172473,
+            "locality_id":1259547805,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1259547805,
+    "wof:lastmodified":1536766828,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":421172473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46314,
+    7.83054,
+    -72.46314,
+    7.83054
+],
+  "geometry": {"coordinates":[-72.46314,7.83054],"type":"Point"}
+}

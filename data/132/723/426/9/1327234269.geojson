@@ -1,0 +1,68 @@
+{
+  "id": 1327234269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.84028,6.13472,-74.84028,6.13472",
+    "geom:latitude":6.13472,
+    "geom:longitude":-74.84028,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5649.0",
+    "gn:asciiname":"Mundo Nuevo",
+    "gn:country_code":"CO",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770294,
+    "gn:latitude":6.13472,
+    "gn:longitude":-74.84028,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mundo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770294
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a5876b984923cb652a625a67638d2b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700005,
+            "locality_id":1327234269,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1327234269,
+    "wof:lastmodified":1536966605,
+    "wof:name":"Mundo Nuevo",
+    "wof:parent_id":1108700005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.84028,
+    6.13472,
+    -74.84028,
+    6.13472
+],
+  "geometry": {"coordinates":[-74.84028000000001,6.13472],"type":"Point"}
+}

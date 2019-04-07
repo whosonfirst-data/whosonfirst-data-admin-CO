@@ -1,0 +1,71 @@
+{
+  "id": 1242638863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.46777,9.92398,-75.46777,9.92398",
+    "geom:latitude":9.92398,
+    "geom:longitude":-75.46777,
+    "gn:admin1_code":"27",
+    "gn:asciiname":"Chiquillo",
+    "gn:country_code":"CO",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686517,
+    "gn:latitude":9.92398,
+    "gn:longitude":-75.46777,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Chiquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Chinquillo",
+        "Chiquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686517
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fcc9a81c803c3862d5bd06472b968d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700131,
+            "locality_id":1242638863,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1242638863,
+    "wof:lastmodified":1537618620,
+    "wof:name":"Chiquillo",
+    "wof:parent_id":1108700131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.46777,
+    9.92398,
+    -75.46777,
+    9.92398
+],
+  "geometry": {"coordinates":[-75.46777,9.92398],"type":"Point"}
+}

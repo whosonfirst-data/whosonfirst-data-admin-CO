@@ -1,0 +1,68 @@
+{
+  "id": 1327375133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56366,4.99275,-73.56366,4.99275",
+    "geom:latitude":4.99275,
+    "geom:longitude":-73.56366,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25436.0",
+    "gn:asciiname":"Quimbita",
+    "gn:country_code":"CO",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782227,
+    "gn:latitude":4.99275,
+    "gn:longitude":-73.56366,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quimbita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782227
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b3d4dbb1693c8fac117c74990dc738fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700681,
+            "locality_id":1327375133,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1327375133,
+    "wof:lastmodified":1536763773,
+    "wof:name":"Quimbita",
+    "wof:parent_id":1108700681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56366,
+    4.99275,
+    -73.56366,
+    4.99275
+],
+  "geometry": {"coordinates":[-73.56366,4.99275],"type":"Point"}
+}

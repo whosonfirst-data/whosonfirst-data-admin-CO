@@ -1,0 +1,61 @@
+{
+  "id": 1226518313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.46667,12.5,-71.46667,12.5",
+    "geom:latitude":12.5,
+    "geom:longitude":-71.46667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Puerto Bolivar",
+    "gn:country_code":"CO",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830395,
+    "gn:latitude":12.5,
+    "gn:longitude":-71.46667,
+    "gn:modification_date":"2004-11-23",
+    "gn:name":"Puerto Bol\u00edvar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830395
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0cf9c2796f9df51a7c8eef9d4dbd420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226518313,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226518313,
+    "wof:lastmodified":1537036105,
+    "wof:name":"Puerto Bolivar",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46667,
+    12.5,
+    -71.46667,
+    12.5
+],
+  "geometry": {"coordinates":[-71.46666999999999,12.5],"type":"Point"}
+}

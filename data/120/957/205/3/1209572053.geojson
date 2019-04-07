@@ -1,0 +1,62 @@
+{
+  "id": 1209572053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95425,5.75273,-73.95425,5.75273",
+    "geom:latitude":5.75273,
+    "geom:longitude":-73.95425,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68271.0",
+    "gn:asciiname":"La Bodega",
+    "gn:country_code":"CO",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776588,
+    "gn:latitude":5.75273,
+    "gn:longitude":-73.95425,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Bodega",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776588
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5d261b5cba41ee444e673f2ce1093961",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209572053
+        }
+    ],
+    "wof:id":1209572053,
+    "wof:lastmodified":1536283053,
+    "wof:name":"La Bodega",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95425,
+    5.7527300000000015,
+    -73.95425,
+    5.7527300000000015
+],
+  "geometry": {"coordinates":[-73.95425,5.75273],"type":"Point"}
+}

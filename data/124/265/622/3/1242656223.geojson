@@ -1,0 +1,68 @@
+{
+  "id": 1242656223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.40829,9.49855,-73.40829,9.49855",
+    "geom:latitude":9.49855,
+    "geom:longitude":-73.40829,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20400.0",
+    "gn:asciiname":"La Palmita",
+    "gn:country_code":"CO",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733201,
+    "gn:latitude":9.49855,
+    "gn:longitude":-73.40829,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Palmita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421177921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733201
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2ada18cda02a3c1940b03d2064d77897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177921,
+            "locality_id":1242656223,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1242656223,
+    "wof:lastmodified":1536950848,
+    "wof:name":"La Palmita",
+    "wof:parent_id":421177921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.40829000000002,
+    9.49855,
+    -73.40829000000002,
+    9.49855
+],
+  "geometry": {"coordinates":[-73.40829000000002,9.49855],"type":"Point"}
+}

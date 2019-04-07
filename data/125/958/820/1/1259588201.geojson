@@ -1,0 +1,68 @@
+{
+  "id": 1259588201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.83333,10.86667,-74.83333,10.86667",
+    "geom:latitude":10.86667,
+    "geom:longitude":-74.83333,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8433.0",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"CO",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679572,
+    "gn:latitude":10.86667,
+    "gn:longitude":-74.83333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679572
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c792efdea18c207c724d0f9e59cc1f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700061,
+            "locality_id":1259588201,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1259588201,
+    "wof:lastmodified":1536708271,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":1108700061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.83333,
+    10.86667,
+    -74.83333,
+    10.86667
+],
+  "geometry": {"coordinates":[-74.83333,10.86667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209356183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83611,6.01028,-71.83611,6.01028",
+    "geom:latitude":6.01028,
+    "geom:longitude":-71.83611,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85125.0",
+    "gn:asciiname":"Los Claveles",
+    "gn:country_code":"CO",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829244,
+    "gn:latitude":6.01028,
+    "gn:longitude":-71.83611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Claveles",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829244
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"54fa2cd02a83f04d1e40a7cf3520a3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209356183
+        }
+    ],
+    "wof:id":1209356183,
+    "wof:lastmodified":1536289576,
+    "wof:name":"Los Claveles",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83610999999998,
+    6.010280000000002,
+    -71.83610999999998,
+    6.010280000000002
+],
+  "geometry": {"coordinates":[-71.83610999999998,6.01028],"type":"Point"}
+}

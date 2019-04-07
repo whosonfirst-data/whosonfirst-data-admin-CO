@@ -1,0 +1,71 @@
+{
+  "id": 1309871019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.269,3.169,-74.269,3.169",
+    "geom:latitude":3.169,
+    "geom:longitude":-74.269,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50370.0",
+    "gn:asciiname":"La Esmeralda",
+    "gn:country_code":"CO",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8601364,
+    "gn:latitude":3.169,
+    "gn:longitude":-74.269,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Esmeralda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Esmeralda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8601364
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4bc1ace3b5fa8628d43566b7d2dfa1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700945,
+            "locality_id":1309871019,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1309871019,
+    "wof:lastmodified":1537618798,
+    "wof:name":"La Esmeralda",
+    "wof:parent_id":1108700945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26899999999998,
+    3.169,
+    -74.26899999999998,
+    3.169
+],
+  "geometry": {"coordinates":[-74.26899999999998,3.169],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226609975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.48333,1.65,-77.48333,1.65",
+    "geom:latitude":1.65,
+    "geom:longitude":-77.48333,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52540.0",
+    "gn:asciiname":"Restrepo",
+    "gn:country_code":"CO",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3670857,
+    "gn:latitude":1.65,
+    "gn:longitude":-77.48333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Restrepo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670857
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db17083a0f4dd99d5d5a7482e19153f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701051,
+            "locality_id":1226609975,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1226609975,
+    "wof:lastmodified":1536910361,
+    "wof:name":"Restrepo",
+    "wof:parent_id":1108701051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.48333000000002,
+    1.65,
+    -77.48333000000002,
+    1.65
+],
+  "geometry": {"coordinates":[-77.48333000000002,1.65],"type":"Point"}
+}

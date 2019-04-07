@@ -1,0 +1,68 @@
+{
+  "id": 1243275763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.5064,5.83553,-75.5064,5.83553",
+    "geom:latitude":5.83553,
+    "geom:longitude":-75.5064,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5002.0",
+    "gn:asciiname":"Aguacate",
+    "gn:country_code":"CO",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780776,
+    "gn:latitude":5.83553,
+    "gn:longitude":-75.5064,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguacate",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780776
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"40886020978f9ea6a3672267bfbbacf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699899,
+            "locality_id":1243275763,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1243275763,
+    "wof:lastmodified":1537049474,
+    "wof:name":"Aguacate",
+    "wof:parent_id":1108699899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5064,
+    5.83553,
+    -75.5064,
+    5.83553
+],
+  "geometry": {"coordinates":[-75.5064,5.83553],"type":"Point"}
+}

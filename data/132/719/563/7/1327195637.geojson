@@ -1,0 +1,74 @@
+{
+  "id": 1327195637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.0174,1.66324,-77.0174,1.66324",
+    "geom:latitude":1.66324,
+    "geom:longitude":-77.0174,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52693.0",
+    "gn:asciiname":"Antonio Narino",
+    "gn:country_code":"CO",
+    "gn:dem":1723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735404,
+    "gn:latitude":1.66324,
+    "gn:longitude":-77.0174,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Antonio Nari\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Antonio Nari\u00f1o"
+    ],
+    "name:und_x_variant":[
+        "Antonio Nari\u00f1o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421198233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735404
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dbc09f19c7811b44023eb717f2f9c6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421198233,
+            "locality_id":1327195637,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327195637,
+    "wof:lastmodified":1537618673,
+    "wof:name":"Antonio Narino",
+    "wof:parent_id":421198233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.0174,
+    1.66324,
+    -77.0174,
+    1.66324
+],
+  "geometry": {"coordinates":[-77.01739999999999,1.66324],"type":"Point"}
+}

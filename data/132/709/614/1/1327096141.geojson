@@ -1,0 +1,72 @@
+{
+  "id": 1327096141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-78.10783,1.57718,-78.10783,1.57718",
+    "geom:latitude":1.57718,
+    "geom:longitude":-78.10783,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52079.0",
+    "gn:asciiname":"Tinajillas",
+    "gn:country_code":"CO",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667059,
+    "gn:latitude":1.57718,
+    "gn:longitude":-78.10783,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tinajillas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tinajitas",
+        "Tinajillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667059
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6596158981f0b19077e12a3a4b0049a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700975,
+            "locality_id":1327096141,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1327096141,
+    "wof:lastmodified":1537618372,
+    "wof:name":"Tinajillas",
+    "wof:parent_id":1108700975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -78.10783,
+    1.57718,
+    -78.10783,
+    1.57718
+],
+  "geometry": {"coordinates":[-78.10783000000001,1.57718],"type":"Point"}
+}

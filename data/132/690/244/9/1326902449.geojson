@@ -1,0 +1,68 @@
+{
+  "id": 1326902449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.48944,3.255,-75.48944,3.255",
+    "geom:latitude":3.255,
+    "geom:longitude":-75.48944,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41016.0",
+    "gn:asciiname":"Nochebuena",
+    "gn:country_code":"CO",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736146,
+    "gn:latitude":3.255,
+    "gn:longitude":-75.48944,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nochebuena",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736146
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e3c91530bfd80207cfd65cf2574fb218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700799,
+            "locality_id":1326902449,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1326902449,
+    "wof:lastmodified":1536948107,
+    "wof:name":"Nochebuena",
+    "wof:parent_id":1108700799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.48944,
+    3.255,
+    -75.48944,
+    3.255
+],
+  "geometry": {"coordinates":[-75.48944,3.255],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343902781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96624,8.89764,-73.96624,8.89764",
+    "geom:latitude":8.89764,
+    "geom:longitude":-73.96624,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13268.0",
+    "gn:asciiname":"Chapetona",
+    "gn:country_code":"CO",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686757,
+    "gn:latitude":8.89764,
+    "gn:longitude":-73.96624,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chapetona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Chapetona",
+        "Chapetona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686757
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6aa7225685a84bb0208f49ce76777214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700121,
+            "locality_id":1343902781,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1343902781,
+    "wof:lastmodified":1537618622,
+    "wof:name":"Chapetona",
+    "wof:parent_id":1108700121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96624,
+    8.89764,
+    -73.96624,
+    8.89764
+],
+  "geometry": {"coordinates":[-73.96624,8.89764],"type":"Point"}
+}

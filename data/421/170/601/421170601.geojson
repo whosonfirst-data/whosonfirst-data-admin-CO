@@ -1,0 +1,106 @@
+{
+  "id": 421170601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.58333,2.5,-76.58333,2.5",
+    "geom:latitude":2.5,
+    "geom:longitude":-76.58333,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0628\u0627\u064a\u0627\u0646"
+    ],
+    "name:bre_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043f\u0430\u044f\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:ces_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:deu_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:epo_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3671917,
+    "qs:gn_pop":0,
+    "qs:name":"Popayan",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cauca",
+    "qs:photos":636,
+    "qs:photos_1k":129,
+    "qs:photos_9k":24,
+    "qs:photos_9r":14,
+    "qs:photos_all":5380,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1194528,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26796961,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":3722,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671917,
+        "gp:id":26796961,
+        "qs:id":1194528,
+        "wd:id":"Q335135"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008860,
+    "wof:geomhash":"945acc1ac051a78a0d7933e90481395d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170601,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":421170601,
+    "wof:lastmodified":1527716473,
+    "wof:name":"Popayan",
+    "wof:parent_id":85670185,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.58333,
+    2.5,
+    -76.58333,
+    2.5
+],
+  "geometry": {"coordinates":[-76.58333,2.5],"type":"Point"}
+}

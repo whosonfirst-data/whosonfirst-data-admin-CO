@@ -1,0 +1,62 @@
+{
+  "id": 1209496537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.39109,1.8862,-76.39109,1.8862",
+    "geom:latitude":1.8862,
+    "geom:longitude":-76.39109,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41668.0",
+    "gn:asciiname":"La Perdiz",
+    "gn:country_code":"CO",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7543340,
+    "gn:latitude":1.8862,
+    "gn:longitude":-76.39109,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Perdiz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7543340
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f03bdaa4ffa5a4736a1b1e19978b0636",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209496537
+        }
+    ],
+    "wof:id":1209496537,
+    "wof:lastmodified":1536285318,
+    "wof:name":"La Perdiz",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.39109,
+    1.8862,
+    -76.39109,
+    1.8862
+],
+  "geometry": {"coordinates":[-76.39109000000001,1.8862],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209403065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69636,8.36579,-73.69636,8.36579",
+    "geom:latitude":8.36579,
+    "geom:longitude":-73.69636,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20295.0",
+    "gn:asciiname":"Quebrada Seca",
+    "gn:country_code":"CO",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671156,
+    "gn:latitude":8.36579,
+    "gn:longitude":-73.69636,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quebrada Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671156
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0ccae715aa4addd169f2b69660eb68f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209403065
+        }
+    ],
+    "wof:id":1209403065,
+    "wof:lastmodified":1536288082,
+    "wof:name":"Quebrada Seca",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69636,
+    8.365789999999999,
+    -73.69636,
+    8.365789999999999
+],
+  "geometry": {"coordinates":[-73.69636,8.36579],"type":"Point"}
+}

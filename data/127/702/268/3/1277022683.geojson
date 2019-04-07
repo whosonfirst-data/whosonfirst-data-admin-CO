@@ -1,0 +1,71 @@
+{
+  "id": 1277022683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98382,5.8193,-71.98382,5.8193",
+    "geom:latitude":5.8193,
+    "geom:longitude":-71.98382,
+    "gn:admin1_code":"32.0",
+    "gn:admin2_code":"85250.0",
+    "gn:asciiname":"Las Lomas",
+    "gn:country_code":"CO",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10250550,
+    "gn:latitude":5.8193,
+    "gn:longitude":-71.98382,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Lomas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Lomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10250550
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2330be5a264a0d780d5468cb1cc049e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701537,
+            "locality_id":1277022683,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1277022683,
+    "wof:lastmodified":1537618814,
+    "wof:name":"Las Lomas",
+    "wof:parent_id":1108701537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98382,
+    5.8193,
+    -71.98382,
+    5.8193
+],
+  "geometry": {"coordinates":[-71.98381999999999,5.8193],"type":"Point"}
+}

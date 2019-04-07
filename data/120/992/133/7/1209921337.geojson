@@ -1,0 +1,72 @@
+{
+  "id": 1209921337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.2202,6.30029,-71.2202,6.30029",
+    "geom:latitude":6.30029,
+    "geom:longitude":-71.2202,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"Tarifero",
+    "gn:country_code":"CO",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667392,
+    "gn:latitude":6.30029,
+    "gn:longitude":-71.2202,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tarifero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jurifera",
+        "Tarifero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667392
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1eaa661fc5f0a43ab4bfdb7fd93b5705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1209921337,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1209921337,
+    "wof:lastmodified":1537618375,
+    "wof:name":"Tarifero",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.2202,
+    6.30029,
+    -71.2202,
+    6.30029
+],
+  "geometry": {"coordinates":[-71.22020000000001,6.30029],"type":"Point"}
+}

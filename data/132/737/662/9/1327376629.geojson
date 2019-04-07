@@ -1,0 +1,73 @@
+{
+  "id": 1327376629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.78889,9.70889,-74.78889,9.70889",
+    "geom:latitude":9.70889,
+    "geom:longitude":-74.78889,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47555.0",
+    "gn:asciiname":"Cuatro Vientos",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685583,
+    "gn:latitude":9.70889,
+    "gn:longitude":-74.78889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cuatro Vientos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Cuatro Vientos",
+        "Cuatro Vientos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685583
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f505b6bb637d56b97a8c772f7af76cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700899,
+            "locality_id":1327376629,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1327376629,
+    "wof:lastmodified":1537618611,
+    "wof:name":"Cuatro Vientos",
+    "wof:parent_id":1108700899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.78889000000002,
+    9.70889,
+    -74.78889000000002,
+    9.70889
+],
+  "geometry": {"coordinates":[-74.78889000000002,9.70889],"type":"Point"}
+}

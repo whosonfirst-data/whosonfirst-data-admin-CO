@@ -1,0 +1,68 @@
+{
+  "id": 1343232807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90774,1.18055,-71.90774,1.18055",
+    "geom:latitude":1.18055,
+    "geom:longitude":-71.90774,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"95200.0",
+    "gn:asciiname":"Bocas de Buenos Aires",
+    "gn:country_code":"CO",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3829019,
+    "gn:latitude":1.18055,
+    "gn:longitude":-71.90774,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bocas de Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670245,
+        1108701629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3829019
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b5348fb52017aed11426625043b5d452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701629,
+            "locality_id":1343232807,
+            "region_id":85670245
+        }
+    ],
+    "wof:id":1343232807,
+    "wof:lastmodified":1537071895,
+    "wof:name":"Bocas de Buenos Aires",
+    "wof:parent_id":1108701629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90774,
+    1.18055,
+    -71.90774,
+    1.18055
+],
+  "geometry": {"coordinates":[-71.90774,1.18055],"type":"Point"}
+}

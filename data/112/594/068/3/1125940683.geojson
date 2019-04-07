@@ -1,0 +1,115 @@
+{
+  "id": 1125940683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30542,9.33348,-75.30542,9.33348",
+    "geom:latitude":9.33348,
+    "geom:longitude":-75.30542,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":4949,
+    "gn:population":4949,
+    "iso:country":"CO",
+    "lbl:latitude":9.33348,
+    "lbl:longitude":-75.30542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:chi_x_preferred":[
+        "\u83ab\u7f85\u963f"
+    ],
+    "name:dut_x_preferred":[
+        "Morroa"
+    ],
+    "name:eng_x_preferred":[
+        "Morroa"
+    ],
+    "name:fre_x_preferred":[
+        "Morroa"
+    ],
+    "name:geo_x_preferred":[
+        "\u10db\u10dd\u10e0\u10dd\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "Morroa"
+    ],
+    "name:may_x_preferred":[
+        "Morroa"
+    ],
+    "name:nan_x_preferred":[
+        "Morroa"
+    ],
+    "name:spa_x_preferred":[
+        "Morroa"
+    ],
+    "name:swe_x_preferred":[
+        "Morroa"
+    ],
+    "name:vie_x_preferred":[
+        "Morroa"
+    ],
+    "name:war_x_preferred":[
+        "Morroa"
+    ],
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3674337,
+    "qs_pg:gn_pop":4949,
+    "qs_pg:name":"Morroa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1046269,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674337,
+        "qs_pg:id":1046269,
+        "wd:id":"Q1526204"
+    },
+    "wof:country":"CO",
+    "wof:created":1497297107,
+    "wof:geomhash":"235029009ac17a8c6d076ee09d4ad333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701403,
+            "locality_id":1125940683,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1125940683,
+    "wof:lastmodified":1513942827,
+    "wof:name":"Morroa",
+    "wof:parent_id":1108701403,
+    "wof:placetype":"locality",
+    "wof:population":4949,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30542,
+    9.33348,
+    -75.30542,
+    9.33348
+],
+  "geometry": {"coordinates":[-75.30542,9.33348],"type":"Point"}
+}

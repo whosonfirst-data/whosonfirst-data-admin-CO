@@ -1,0 +1,62 @@
+{
+  "id": 1209247337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.11667,10.43333,-75.11667,10.43333",
+    "geom:latitude":10.43333,
+    "geom:longitude":-75.11667,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8606.0",
+    "gn:asciiname":"Hacienda El Bajo",
+    "gn:country_code":"CO",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681137,
+    "gn:latitude":10.43333,
+    "gn:longitude":-75.11667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda El Bajo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681137
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7b3198ca56b15d5baa34a761a7112945",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209247337
+        }
+    ],
+    "wof:id":1209247337,
+    "wof:lastmodified":1536293119,
+    "wof:name":"Hacienda El Bajo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.11667,
+    10.43333,
+    -75.11667,
+    10.43333
+],
+  "geometry": {"coordinates":[-75.11667,10.43333],"type":"Point"}
+}

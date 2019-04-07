@@ -1,0 +1,68 @@
+{
+  "id": 1226583865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.10693,5.15238,-73.10693,5.15238",
+    "geom:latitude":5.15238,
+    "geom:longitude":-73.10693,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15455.0",
+    "gn:asciiname":"El Cedrito",
+    "gn:country_code":"CO",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684646,
+    "gn:latitude":5.15238,
+    "gn:longitude":-73.10693,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Cedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684646
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c2777ea8461fe6c1a116b29e393a80ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700269,
+            "locality_id":1226583865,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226583865,
+    "wof:lastmodified":1536945700,
+    "wof:name":"El Cedrito",
+    "wof:parent_id":1108700269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.10693,
+    5.15238,
+    -73.10693,
+    5.15238
+],
+  "geometry": {"coordinates":[-73.10693000000001,5.15238],"type":"Point"}
+}

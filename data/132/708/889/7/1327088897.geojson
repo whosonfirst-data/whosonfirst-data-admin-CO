@@ -1,0 +1,68 @@
+{
+  "id": 1327088897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1,6.21667,-74.1,6.21667",
+    "geom:latitude":6.21667,
+    "geom:longitude":-74.1,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68385.0",
+    "gn:asciiname":"Brasil",
+    "gn:country_code":"CO",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688527,
+    "gn:latitude":6.21667,
+    "gn:longitude":-74.1,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Brasil",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688527
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"499c0213a9fcac81decd1c7368b4622b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701283,
+            "locality_id":1327088897,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327088897,
+    "wof:lastmodified":1536679073,
+    "wof:name":"Brasil",
+    "wof:parent_id":1108701283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1,
+    6.21667,
+    -74.1,
+    6.21667
+],
+  "geometry": {"coordinates":[-74.09999999999999,6.21667],"type":"Point"}
+}

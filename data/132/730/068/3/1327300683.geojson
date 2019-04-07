@@ -1,0 +1,74 @@
+{
+  "id": 1327300683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.07744,7.10872,-73.07744,7.10872",
+    "geom:latitude":7.10872,
+    "geom:longitude":-73.07744,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68276.0",
+    "gn:asciiname":"Villa Josefa",
+    "gn:country_code":"CO",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732003,
+    "gn:latitude":7.10872,
+    "gn:longitude":-73.07744,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Josefa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Josefa"
+    ],
+    "name:und_x_variant":[
+        "Villa Joseia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732003
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1b30d1135bad8a47c980f31421fd1f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701253,
+            "locality_id":1327300683,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1327300683,
+    "wof:lastmodified":1537618667,
+    "wof:name":"Villa Josefa",
+    "wof:parent_id":1108701253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.07744,
+    7.10872,
+    -73.07744,
+    7.10872
+],
+  "geometry": {"coordinates":[-73.07744,7.10872],"type":"Point"}
+}

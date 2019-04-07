@@ -1,0 +1,71 @@
+{
+  "id": 1277044689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13611,3.30028,-75.13611,3.30028",
+    "geom:latitude":3.30028,
+    "geom:longitude":-75.13611,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41872.0",
+    "gn:asciiname":"La Burrera",
+    "gn:country_code":"CO",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3736015,
+    "gn:latitude":3.30028,
+    "gn:longitude":-75.13611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Burrera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Burrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421182355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3736015
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d062412118061507a7713490a0d3f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182355,
+            "locality_id":1277044689,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1277044689,
+    "wof:lastmodified":1537618677,
+    "wof:name":"La Burrera",
+    "wof:parent_id":421182355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13611,
+    3.30028,
+    -75.13611,
+    3.30028
+],
+  "geometry": {"coordinates":[-75.13611,3.30028],"type":"Point"}
+}

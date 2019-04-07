@@ -1,0 +1,70 @@
+{
+  "id": 1310251485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.25084,3.27557,-76.25084,3.27557",
+    "geom:latitude":3.27557,
+    "geom:longitude":-76.25084,
+    "gn:admin1_code":"29",
+    "gn:asciiname":"El Canon",
+    "gn:country_code":"CO",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684739,
+    "gn:latitude":3.27557,
+    "gn:longitude":-76.25084,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"El Ca\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Ca\u00f1\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670185,
+        1108700477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684739
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"58ac04d5391b8f4ecde3f81615907368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700477,
+            "locality_id":1310251485,
+            "region_id":85670185
+        }
+    ],
+    "wof:id":1310251485,
+    "wof:lastmodified":1537618601,
+    "wof:name":"El Canon",
+    "wof:parent_id":1108700477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.25084,
+    3.27557,
+    -76.25084,
+    3.27557
+],
+  "geometry": {"coordinates":[-76.25084,3.27557],"type":"Point"}
+}

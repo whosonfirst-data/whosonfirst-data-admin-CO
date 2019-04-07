@@ -1,0 +1,70 @@
+{
+  "id": 1225817459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03,3.37694,-75.03,3.37694",
+    "geom:latitude":3.37694,
+    "geom:longitude":-75.03,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Rodeo",
+    "gn:country_code":"CO",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735796,
+    "gn:latitude":3.37694,
+    "gn:longitude":-75.03,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"El Rodeo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Rodeo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735796
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3c3362847e5b4e7ef76b1a34366ac81e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701425,
+            "locality_id":1225817459,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1225817459,
+    "wof:lastmodified":1537618675,
+    "wof:name":"El Rodeo",
+    "wof:parent_id":1108701425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03,
+    3.37694,
+    -75.03,
+    3.37694
+],
+  "geometry": {"coordinates":[-75.03,3.37694],"type":"Point"}
+}

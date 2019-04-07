@@ -1,0 +1,73 @@
+{
+  "id": 1326606875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63277,8.95603,-75.63277,8.95603",
+    "geom:latitude":8.95603,
+    "geom:longitude":-75.63277,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23189.0",
+    "gn:asciiname":"Los Mimbres",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676053,
+    "gn:latitude":8.95603,
+    "gn:longitude":-75.63277,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Mimbres",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Los Mimbres",
+        "Mimbres",
+        "Los Mimbres"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676053
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bc965e469d645609f52d80c04a1f66d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700573,
+            "locality_id":1326606875,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1326606875,
+    "wof:lastmodified":1537618473,
+    "wof:name":"Los Mimbres",
+    "wof:parent_id":1108700573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63277,
+    8.95603,
+    -75.63277,
+    8.95603
+],
+  "geometry": {"coordinates":[-75.63276999999999,8.95603],"type":"Point"}
+}

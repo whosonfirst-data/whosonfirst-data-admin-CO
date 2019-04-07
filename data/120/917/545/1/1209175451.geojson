@@ -1,0 +1,65 @@
+{
+  "id": 1209175451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.91379,5.16493,-74.91379,5.16493",
+    "geom:latitude":5.16493,
+    "geom:longitude":-74.91379,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73443.0",
+    "gn:asciiname":"San Jeromino",
+    "gn:country_code":"CO",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523305,
+    "gn:latitude":5.16493,
+    "gn:longitude":-74.91379,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Jeromino",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Jeromino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523305
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ae77c2c064dc98fcc0b7db75696edd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209175451
+        }
+    ],
+    "wof:id":1209175451,
+    "wof:lastmodified":1537618714,
+    "wof:name":"San Jeromino",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.91379,
+    5.16493,
+    -74.91379,
+    5.16493
+],
+  "geometry": {"coordinates":[-74.91379000000001,5.16493],"type":"Point"}
+}

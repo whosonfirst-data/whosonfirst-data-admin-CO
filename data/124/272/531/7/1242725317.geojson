@@ -1,0 +1,71 @@
+{
+  "id": 1242725317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65829,3.84759,-74.65829,3.84759",
+    "geom:latitude":3.84759,
+    "geom:longitude":-74.65829,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73873.0",
+    "gn:asciiname":"Villa Luz",
+    "gn:country_code":"CO",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3739475,
+    "gn:latitude":3.84759,
+    "gn:longitude":-74.65829,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Luz",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Luz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739475
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ffafec4da7f3c6a43fb890d299d8e5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701481,
+            "locality_id":1242725317,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1242725317,
+    "wof:lastmodified":1537618684,
+    "wof:name":"Villa Luz",
+    "wof:parent_id":1108701481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65829000000002,
+    3.84759,
+    -74.65829000000002,
+    3.84759
+],
+  "geometry": {"coordinates":[-74.65829000000002,3.84759],"type":"Point"}
+}

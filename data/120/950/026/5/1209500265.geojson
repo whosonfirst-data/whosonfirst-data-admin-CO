@@ -1,0 +1,65 @@
+{
+  "id": 1209500265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.94343,1.27714,-75.94343,1.27714",
+    "geom:latitude":1.27714,
+    "geom:longitude":-75.94343,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18029.0",
+    "gn:asciiname":"La Palmera",
+    "gn:country_code":"CO",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539819,
+    "gn:latitude":1.27714,
+    "gn:longitude":-75.94343,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Palmera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palmera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539819
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"df5081a778738dc0603387135a2cf43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209500265
+        }
+    ],
+    "wof:id":1209500265,
+    "wof:lastmodified":1537618733,
+    "wof:name":"La Palmera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.94343,
+    1.27714,
+    -75.94343,
+    1.27714
+],
+  "geometry": {"coordinates":[-75.94343000000001,1.27714],"type":"Point"}
+}

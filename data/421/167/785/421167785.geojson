@@ -1,0 +1,174 @@
+{
+  "id": 421167785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.13309,6.55573,-73.13309,6.55573",
+    "geom:latitude":6.55573,
+    "geom:longitude":-73.13309,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Gil"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5e0c\u723e"
+    ],
+    "name:deu_x_preferred":[
+        "San Gil"
+    ],
+    "name:dut_x_preferred":[
+        "San Gil"
+    ],
+    "name:eng_x_preferred":[
+        "San Gil"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "San Gil"
+    ],
+    "name:fre_x_preferred":[
+        "San Gil"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10d8\u10da\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "San Gil"
+    ],
+    "name:glg_x_preferred":[
+        "San Gil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d9\u05dc"
+    ],
+    "name:ita_x_preferred":[
+        "San Gil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d2\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10d8\u10da\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "San Chilis"
+    ],
+    "name:may_x_preferred":[
+        "San Gil"
+    ],
+    "name:msa_x_preferred":[
+        "San Gil"
+    ],
+    "name:nan_x_preferred":[
+        "San Gil"
+    ],
+    "name:nld_x_preferred":[
+        "San Gil"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u06cc\u0644"
+    ],
+    "name:por_x_preferred":[
+        "San Gil"
+    ],
+    "name:sgs_x_preferred":[
+        "San Chilis"
+    ],
+    "name:slv_x_preferred":[
+        "San Gil"
+    ],
+    "name:spa_x_preferred":[
+        "San Gil"
+    ],
+    "name:swe_x_preferred":[
+        "San Gil"
+    ],
+    "name:tgl_x_preferred":[
+        "San Gil"
+    ],
+    "name:vie_x_preferred":[
+        "San Gil"
+    ],
+    "name:war_x_preferred":[
+        "San Gil"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Gil"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5e0c\u723e"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669808,
+    "qs:gn_pop":33592,
+    "qs:name":"San Gil",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":902,
+    "qs:photos_1k":183,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":902,
+    "qs:photos_sr":10,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":150023,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368235,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669808,
+        "gp:id":368235,
+        "qs:id":150023,
+        "wd:id":"Q1294128",
+        "wk:page":"San Gil"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008743,
+    "wof:geomhash":"dfff8bae6c29071f5b42fdd5e8b5b22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701337,
+            "locality_id":421167785,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421167785,
+    "wof:lastmodified":1553816355,
+    "wof:name":"San Gil",
+    "wof:parent_id":1108701337,
+    "wof:placetype":"locality",
+    "wof:population":33592,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13309,
+    6.55573,
+    -73.13309,
+    6.55573
+],
+  "geometry": {"coordinates":[-73.13309,6.55573],"type":"Point"}
+}

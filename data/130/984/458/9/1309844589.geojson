@@ -1,0 +1,75 @@
+{
+  "id": 1309844589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.20295,9.66234,-74.20295,9.66234",
+    "geom:latitude":9.66234,
+    "geom:longitude":-74.20295,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47460.0",
+    "gn:asciiname":"Cundinamarca",
+    "gn:country_code":"CO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685416,
+    "gn:latitude":9.66234,
+    "gn:longitude":-74.20295,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cundinamarca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043d\u0434\u0438\u043d\u0430\u043c\u0430\u0440\u043a\u0430"
+    ],
+    "name:und_x_variant":[
+        "Hacienda Cundinamarca",
+        "Cundinamarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685416
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b8a7108e584f9b911e141ce98b0ede8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700891,
+            "locality_id":1309844589,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1309844589,
+    "wof:lastmodified":1537618609,
+    "wof:name":"Cundinamarca",
+    "wof:parent_id":1108700891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.20295,
+    9.66234,
+    -74.20295,
+    9.66234
+],
+  "geometry": {"coordinates":[-74.20295,9.66234],"type":"Point"}
+}

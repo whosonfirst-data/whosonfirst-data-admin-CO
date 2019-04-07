@@ -1,0 +1,68 @@
+{
+  "id": 1326733033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.29199,7.39672,-75.29199,7.39672",
+    "geom:latitude":7.39672,
+    "geom:longitude":-75.29199,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5854.0",
+    "gn:asciiname":"La Coposa",
+    "gn:country_code":"CO",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779936,
+    "gn:latitude":7.39672,
+    "gn:longitude":-75.29199,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Coposa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779936
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ff9fc8ceb02e0bdccea9a64289005f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700031,
+            "locality_id":1326733033,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1326733033,
+    "wof:lastmodified":1536694780,
+    "wof:name":"La Coposa",
+    "wof:parent_id":1108700031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.29199,
+    7.39672,
+    -75.29199,
+    7.39672
+],
+  "geometry": {"coordinates":[-75.29199,7.39672],"type":"Point"}
+}

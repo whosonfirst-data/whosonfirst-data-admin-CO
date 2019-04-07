@@ -1,0 +1,68 @@
+{
+  "id": 1309792475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91667,8.75,-75.91667,8.75",
+    "geom:latitude":8.75,
+    "geom:longitude":-75.91667,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"Berlin",
+    "gn:country_code":"CO",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3688894,
+    "gn:latitude":8.75,
+    "gn:longitude":-75.91667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Berl\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688894
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5cd2f518ebac44801d7e071d2a3ce2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1309792475,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1309792475,
+    "wof:lastmodified":1536950530,
+    "wof:name":"Berlin",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91667,
+    8.75,
+    -75.91667,
+    8.75
+],
+  "geometry": {"coordinates":[-75.91667,8.75],"type":"Point"}
+}

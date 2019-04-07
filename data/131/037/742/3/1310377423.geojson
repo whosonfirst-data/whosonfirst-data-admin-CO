@@ -1,0 +1,68 @@
+{
+  "id": 1310377423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.70354,2.59862,-75.70354,2.59862",
+    "geom:latitude":2.59862,
+    "geom:longitude":-75.70354,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41797.0",
+    "gn:asciiname":"Tierra Loca",
+    "gn:country_code":"CO",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781163,
+    "gn:latitude":2.59862,
+    "gn:longitude":-75.70354,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Loca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781163
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0dc6b51a3655c9dfe3f9f26d8548f39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700845,
+            "locality_id":1310377423,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1310377423,
+    "wof:lastmodified":1536601166,
+    "wof:name":"Tierra Loca",
+    "wof:parent_id":1108700845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.70354,
+    2.59862,
+    -75.70354,
+    2.59862
+],
+  "geometry": {"coordinates":[-75.70354,2.59862],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343715823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.65696,4.24157,-74.65696,4.24157",
+    "geom:latitude":4.24157,
+    "geom:longitude":-74.65696,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25488.0",
+    "gn:asciiname":"Tolemaida",
+    "gn:country_code":"CO",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666956,
+    "gn:latitude":4.24157,
+    "gn:longitude":-74.65696,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tolemaida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666956
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c64918750e651990cc2b81eb95c05313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700689,
+            "locality_id":1343715823,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343715823,
+    "wof:lastmodified":1536874430,
+    "wof:name":"Tolemaida",
+    "wof:parent_id":1108700689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.65696,
+    4.24157,
+    -74.65696,
+    4.24157
+],
+  "geometry": {"coordinates":[-74.65696,4.24157],"type":"Point"}
+}

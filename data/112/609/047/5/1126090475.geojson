@@ -1,0 +1,93 @@
+{
+  "id": 1126090475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.53305,3.43352,-76.53305,3.43352",
+    "geom:latitude":3.43352,
+    "geom:longitude":-76.53305,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"CO",
+    "lbl:latitude":3.43352,
+    "lbl:longitude":-76.53305,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3679906,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"La Alameda",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Valle del Cauca",
+    "qs_pg:photos":893,
+    "qs_pg:photos_1k":181,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":893,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082708,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":357912,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424787,
+    "woe:name_adm0":"Colombia",
+    "woe:name_adm1":"Valle del Cauca",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85670203,
+        102191577,
+        85632519,
+        421170643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679906,
+        "gp:id":357912,
+        "qs_pg:id":1082708
+    },
+    "wof:country":"CO",
+    "wof:created":1497313639,
+    "wof:geomhash":"5b7398d27d1133ee8d8b2cca512330b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170643,
+            "locality_id":-1,
+            "neighbourhood_id":1126090475,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1126090475,
+    "wof:lastmodified":1534379260,
+    "wof:name":"La Alameda",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        85764671
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.53305,
+    3.43352,
+    -76.53305,
+    3.43352
+],
+  "geometry": {"coordinates":[-76.53305,3.43352],"type":"Point"}
+}

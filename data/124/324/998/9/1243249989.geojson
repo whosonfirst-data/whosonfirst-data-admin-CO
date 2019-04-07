@@ -1,0 +1,68 @@
+{
+  "id": 1243249989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.23472,8.725,-76.23472,8.725",
+    "geom:latitude":8.725,
+    "geom:longitude":-76.23472,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23090.0",
+    "gn:asciiname":"La Posaola",
+    "gn:country_code":"CO",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779538,
+    "gn:latitude":8.725,
+    "gn:longitude":-76.23472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Posaola",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779538
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24b24bcb401d03c490f0a9be0ccb4762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700567,
+            "locality_id":1243249989,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1243249989,
+    "wof:lastmodified":1537085585,
+    "wof:name":"La Posaola",
+    "wof:parent_id":1108700567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.23472,
+    8.725,
+    -76.23472,
+    8.725
+],
+  "geometry": {"coordinates":[-76.23472,8.725],"type":"Point"}
+}

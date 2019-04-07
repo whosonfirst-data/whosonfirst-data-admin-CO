@@ -1,0 +1,68 @@
+{
+  "id": 1243317377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.3,4.45,-74.3,4.45",
+    "geom:latitude":4.45,
+    "geom:longitude":-74.3,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25740.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"CO",
+    "gn:dem":2762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3669278,
+    "gn:latitude":4.45,
+    "gn:longitude":-74.3,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421178291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669278
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"14b0f9e44be9c172c7cb24ad9dcc45cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421178291,
+            "locality_id":1243317377,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1243317377,
+    "wof:lastmodified":1536990967,
+    "wof:name":"San Miguel",
+    "wof:parent_id":421178291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3,
+    4.45,
+    -74.3,
+    4.45
+],
+  "geometry": {"coordinates":[-74.3,4.45],"type":"Point"}
+}

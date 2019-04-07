@@ -1,0 +1,72 @@
+{
+  "id": 1276741815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74947,8.87419,-73.74947,8.87419",
+    "geom:latitude":8.87419,
+    "geom:longitude":-73.74947,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20787.0",
+    "gn:asciiname":"Pasacorriendo",
+    "gn:country_code":"CO",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672822,
+    "gn:latitude":8.87419,
+    "gn:longitude":-73.74947,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pasacorriendo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Pasacorriendo",
+        "Pasacorriendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"35e4078344b96fd08fe8ee28b7b447df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700563,
+            "locality_id":1276741815,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1276741815,
+    "wof:lastmodified":1537618438,
+    "wof:name":"Pasacorriendo",
+    "wof:parent_id":1108700563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74947,
+    8.87419,
+    -73.74947,
+    8.87419
+],
+  "geometry": {"coordinates":[-73.74947,8.87419],"type":"Point"}
+}

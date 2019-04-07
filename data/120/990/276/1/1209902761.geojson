@@ -1,0 +1,72 @@
+{
+  "id": 1209902761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.44824,8.57821,-75.44824,8.57821",
+    "geom:latitude":8.57821,
+    "geom:longitude":-75.44824,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23570.0",
+    "gn:asciiname":"Santiago",
+    "gn:country_code":"CO",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3668395,
+    "gn:latitude":8.57821,
+    "gn:longitude":-75.44824,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santiago",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Diego",
+        "Santiago"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3668395
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9b6c2c75899bb1acd3049350386a2aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700591,
+            "locality_id":1209902761,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1209902761,
+    "wof:lastmodified":1537618384,
+    "wof:name":"Santiago",
+    "wof:parent_id":1108700591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.44824,
+    8.57821,
+    -75.44824,
+    8.57821
+],
+  "geometry": {"coordinates":[-75.44824,8.57821],"type":"Point"}
+}

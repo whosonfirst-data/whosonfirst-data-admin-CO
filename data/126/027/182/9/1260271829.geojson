@@ -1,0 +1,73 @@
+{
+  "id": 1260271829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72161,8.44478,-73.72161,8.44478",
+    "geom:latitude":8.44478,
+    "geom:longitude":-73.72161,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20295.0",
+    "gn:asciiname":"Palenquillo",
+    "gn:country_code":"CO",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673300,
+    "gn:latitude":8.44478,
+    "gn:longitude":-73.72161,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palenquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corregimiento Palenquillo",
+        "Contador",
+        "Palenquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673300
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d5828584c4f254c32c00d769d208235d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700539,
+            "locality_id":1260271829,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260271829,
+    "wof:lastmodified":1537618445,
+    "wof:name":"Palenquillo",
+    "wof:parent_id":1108700539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72161,
+    8.44478,
+    -73.72161,
+    8.44478
+],
+  "geometry": {"coordinates":[-73.72161,8.44478],"type":"Point"}
+}

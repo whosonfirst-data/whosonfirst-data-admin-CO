@@ -1,0 +1,72 @@
+{
+  "id": 1309825069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.97409,1.33196,-75.97409,1.33196",
+    "geom:latitude":1.33196,
+    "geom:longitude":-75.97409,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18610.0",
+    "gn:asciiname":"San Jose del Fragua",
+    "gn:country_code":"CO",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3828519,
+    "gn:latitude":1.33196,
+    "gn:longitude":-75.97409,
+    "gn:modification_date":"2018-07-05",
+    "gn:name":"San Jos\u00e9 del Fragua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9 del Fragua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828519,
+        "wk:page":"San_Jos%C3%A9_de_la_Fragua"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f752cb91529bd74cb16b548acc15e6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700421,
+            "locality_id":1309825069,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1309825069,
+    "wof:lastmodified":1537618702,
+    "wof:name":"San Jose del Fragua",
+    "wof:parent_id":1108700421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.97409,
+    1.33196,
+    -75.97409,
+    1.33196
+],
+  "geometry": {"coordinates":[-75.97409,1.33196],"type":"Point"}
+}

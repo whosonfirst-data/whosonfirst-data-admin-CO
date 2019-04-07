@@ -1,0 +1,68 @@
+{
+  "id": 1276497825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.56523,5.5,-72.56523,5.5",
+    "geom:latitude":5.5,
+    "geom:longitude":-72.56523,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15377.0",
+    "gn:asciiname":"Agua Blanca",
+    "gn:country_code":"CO",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690510,
+    "gn:latitude":5.5,
+    "gn:longitude":-72.56523,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Agua Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690510
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"581ddd3a320301960851b39706ba6eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700257,
+            "locality_id":1276497825,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1276497825,
+    "wof:lastmodified":1537053460,
+    "wof:name":"Agua Blanca",
+    "wof:parent_id":1108700257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.56523,
+    5.5,
+    -72.56523,
+    5.5
+],
+  "geometry": {"coordinates":[-72.56523,5.5],"type":"Point"}
+}

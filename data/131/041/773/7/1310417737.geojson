@@ -1,0 +1,71 @@
+{
+  "id": 1310417737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.58459,6.10976,-75.58459,6.10976",
+    "geom:latitude":6.10976,
+    "geom:longitude":-75.58459,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5129.0",
+    "gn:asciiname":"La Escondida",
+    "gn:country_code":"CO",
+    "gn:dem":2517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8337453,
+    "gn:latitude":6.10976,
+    "gn:longitude":-75.58459,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Escondida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Escondida"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421205077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8337453
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9dd6fb14dd33072a80d2f7a493d3c714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205077,
+            "locality_id":1310417737,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310417737,
+    "wof:lastmodified":1537618776,
+    "wof:name":"La Escondida",
+    "wof:parent_id":421205077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.58459,
+    6.10976,
+    -75.58459,
+    6.10976
+],
+  "geometry": {"coordinates":[-75.58459000000001,6.10976],"type":"Point"}
+}

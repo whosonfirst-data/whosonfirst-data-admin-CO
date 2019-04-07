@@ -1,0 +1,71 @@
+{
+  "id": 1310562547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.68653,3.7776,-74.68653,3.7776",
+    "geom:latitude":3.7776,
+    "geom:longitude":-74.68653,
+    "gn:admin1_code":"28",
+    "gn:admin2_code":"73873.0",
+    "gn:asciiname":"Mirolindo",
+    "gn:country_code":"CO",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3739481,
+    "gn:latitude":3.7776,
+    "gn:longitude":-74.68653,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mirolindo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mirolindo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        1108701481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3739481
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"66ecc78120282144c7ad0f585b02e5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701481,
+            "locality_id":1310562547,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1310562547,
+    "wof:lastmodified":1537618684,
+    "wof:name":"Mirolindo",
+    "wof:parent_id":1108701481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.68653,
+    3.7776,
+    -74.68653,
+    3.7776
+],
+  "geometry": {"coordinates":[-74.68653,3.7776],"type":"Point"}
+}

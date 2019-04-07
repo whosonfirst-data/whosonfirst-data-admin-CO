@@ -1,0 +1,68 @@
+{
+  "id": 1226622097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9554,11.47725,-72.9554,11.47725",
+    "geom:latitude":11.47725,
+    "geom:longitude":-72.9554,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44001.0",
+    "gn:asciiname":"Ojo de Agua",
+    "gn:country_code":"CO",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673625,
+    "gn:latitude":11.47725,
+    "gn:longitude":-72.9554,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ojo de Agua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421182357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673625
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c00b141eef3042a814e183787c89692d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182357,
+            "locality_id":1226622097,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226622097,
+    "wof:lastmodified":1536893362,
+    "wof:name":"Ojo de Agua",
+    "wof:parent_id":421182357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9554,
+    11.47725,
+    -72.9554,
+    11.47725
+],
+  "geometry": {"coordinates":[-72.9554,11.47725],"type":"Point"}
+}

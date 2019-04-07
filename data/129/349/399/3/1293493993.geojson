@@ -1,0 +1,71 @@
+{
+  "id": 1293493993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.93045,6.51211,-70.93045,6.51211",
+    "geom:latitude":6.51211,
+    "geom:longitude":-70.93045,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81591.0",
+    "gn:asciiname":"Las Brisas",
+    "gn:country_code":"CO",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677703,
+    "gn:latitude":6.51211,
+    "gn:longitude":-70.93045,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Las Brisas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Brisas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677703
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"026d0b59e843fca435b44d7577845277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701519,
+            "locality_id":1293493993,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1293493993,
+    "wof:lastmodified":1537618501,
+    "wof:name":"Las Brisas",
+    "wof:parent_id":1108701519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.93045,
+    6.51211,
+    -70.93045,
+    6.51211
+],
+  "geometry": {"coordinates":[-70.93044999999999,6.51211],"type":"Point"}
+}

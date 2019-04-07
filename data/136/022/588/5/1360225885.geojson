@@ -1,0 +1,68 @@
+{
+  "id": 1360225885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.70306,4.89861,-73.70306,4.89861",
+    "geom:latitude":4.89861,
+    "geom:longitude":-73.70306,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25326.0",
+    "gn:asciiname":"Monguetiva",
+    "gn:country_code":"CO",
+    "gn:dem":2712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782141,
+    "gn:latitude":4.89861,
+    "gn:longitude":-73.70306,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Monguetiva",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421202347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782141
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb0ba799df2a9cbbbe818d77edfb18f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202347,
+            "locality_id":1360225885,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1360225885,
+    "wof:lastmodified":1536742259,
+    "wof:name":"Monguetiva",
+    "wof:parent_id":421202347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.70306,
+    4.89861,
+    -73.70306,
+    4.89861
+],
+  "geometry": {"coordinates":[-73.70305999999999,4.89861],"type":"Point"}
+}

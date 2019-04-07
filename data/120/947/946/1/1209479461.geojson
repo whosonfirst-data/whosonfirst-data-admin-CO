@@ -1,0 +1,62 @@
+{
+  "id": 1209479461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37333,8.11417,-73.37333,8.11417",
+    "geom:latitude":8.11417,
+    "geom:longitude":-73.37333,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54498.0",
+    "gn:asciiname":"Santa Barbara",
+    "gn:country_code":"CO",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3737770,
+    "gn:latitude":8.11417,
+    "gn:longitude":-73.37333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa B\u00e1rbara",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3737770
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a25b6d1cb86b5c54314d8f6e75a7ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209479461
+        }
+    ],
+    "wof:id":1209479461,
+    "wof:lastmodified":1536285830,
+    "wof:name":"Santa Barbara",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37333000000002,
+    8.11417,
+    -73.37333000000002,
+    8.11417
+],
+  "geometry": {"coordinates":[-73.37333000000002,8.11417],"type":"Point"}
+}

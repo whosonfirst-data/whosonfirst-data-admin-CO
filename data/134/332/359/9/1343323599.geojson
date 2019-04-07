@@ -1,0 +1,68 @@
+{
+  "id": 1343323599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.83444,0.85557,-77.83444,0.85557",
+    "geom:latitude":0.85557,
+    "geom:longitude":-77.83444,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52227.0",
+    "gn:asciiname":"El Tambo",
+    "gn:country_code":"CO",
+    "gn:dem":3379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828691,
+    "gn:latitude":0.85557,
+    "gn:longitude":-77.83444,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Tambo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421180457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828691
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d963debb138264068308aea8252a439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421180457,
+            "locality_id":1343323599,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1343323599,
+    "wof:lastmodified":1536944410,
+    "wof:name":"El Tambo",
+    "wof:parent_id":421180457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.83444,
+    0.85557,
+    -77.83444,
+    0.85557
+],
+  "geometry": {"coordinates":[-77.83444,0.85557],"type":"Point"}
+}

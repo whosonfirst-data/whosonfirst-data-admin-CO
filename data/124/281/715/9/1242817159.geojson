@@ -1,0 +1,68 @@
+{
+  "id": 1242817159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.14016,10.13005,-74.14016,10.13005",
+    "geom:latitude":10.13005,
+    "geom:longitude":-74.14016,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47660.0",
+    "gn:asciiname":"Los Deseos",
+    "gn:country_code":"CO",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676181,
+    "gn:latitude":10.13005,
+    "gn:longitude":-74.14016,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Deseos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676181
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6a070708b3bf9fd39046f34771a997e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700905,
+            "locality_id":1242817159,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1242817159,
+    "wof:lastmodified":1536719010,
+    "wof:name":"Los Deseos",
+    "wof:parent_id":1108700905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.14016,
+    10.13005,
+    -74.14016,
+    10.13005
+],
+  "geometry": {"coordinates":[-74.14015999999999,10.13005],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 421169813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.56032,6.31684,-72.56032,6.31684",
+    "geom:latitude":6.31684,
+    "geom:longitude":-72.56032,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u62c9\u70cf\u7dad\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "La Uvita"
+    ],
+    "name:eng_x_preferred":[
+        "La Uvita"
+    ],
+    "name:fre_x_preferred":[
+        "La Uvita"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10e3\u10d5\u10d8\u10e2\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "La Uvita"
+    ],
+    "name:may_x_preferred":[
+        "La Uvita"
+    ],
+    "name:nan_x_preferred":[
+        "La Uvita"
+    ],
+    "name:por_x_preferred":[
+        "La Uvita"
+    ],
+    "name:sco_x_preferred":[
+        "La Uvita"
+    ],
+    "name:spa_x_preferred":[
+        "La Uvita"
+    ],
+    "name:swe_x_preferred":[
+        "La Uvita"
+    ],
+    "name:tgl_x_preferred":[
+        "La Uvita"
+    ],
+    "name:unk_x_variant":[
+        "Ubita"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06cc\u0648\u0648\u06cc\u0679\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Uvita"
+    ],
+    "name:war_x_preferred":[
+        "La Uvita"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3676884,
+    "qs:gn_pop":1708,
+    "qs:name":"La Uvita",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":251726,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368331,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":39,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676884,
+        "gp:id":368331,
+        "qs:id":251726,
+        "wd:id":"Q1654706"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008825,
+    "wof:geomhash":"d9d8ffdec7ae208eeb85b1c632d80dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700263,
+            "locality_id":421169813,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421169813,
+    "wof:lastmodified":1527716173,
+    "wof:name":"La Uvita",
+    "wof:parent_id":1108700263,
+    "wof:placetype":"locality",
+    "wof:population":1708,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.56032,
+    6.31684,
+    -72.56032,
+    6.31684
+],
+  "geometry": {"coordinates":[-72.56032,6.31684],"type":"Point"}
+}

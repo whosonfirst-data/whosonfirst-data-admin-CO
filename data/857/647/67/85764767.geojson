@@ -1,0 +1,136 @@
+{
+  "id": 85764767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":15268032.861437,
+    "geom:bbox":"-74.092247,4.633394,-74.092247,4.633394",
+    "geom:latitude":4.633394,
+    "geom:longitude":-74.092247,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.63612,
+    "gn:longitude":-74.10055,
+    "iso:country":"CO",
+    "lbl:latitude":4.633394,
+    "lbl:longitude":-74.092247,
+    "mps:latitude":4.6378,
+    "mps:longitude":-74.105066,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "San Bernardo"
+    ],
+    "name:spa_x_variant":[
+        "S Bernardo",
+        "S. Bernardo"
+    ],
+    "name:unk_x_variant":[
+        "San Bernardo"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688689,
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"San Bernardo",
+    "qs:local_max":9363,
+    "qs:local_sum":49081,
+    "qs:localhoods":19,
+    "qs:name":"San Bernardo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:name_adm2":"Santafe de Bogota D.c.",
+    "qs:name_local":"Bogot\u00e1",
+    "qs:photo_max":2774,
+    "qs:photo_sum":9363,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":79,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345079,
+    "qs:woe_adm2":26796754,
+    "qs:woe_lau":0,
+    "qs:woe_local":368148,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3670024,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Bernardo",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":9029,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":40,
+    "qs_pg:photos_9r":15,
+    "qs_pg:photos_all":9029,
+    "qs_pg:photos_sr":25,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":211158,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365261,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3670024,
+        "gp:id":365261,
+        "qs:id":211158,
+        "qs_pg:id":211158
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"600c033f49bcc4b9e474f94f2efa27e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":85764767,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":85764767,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379260,
+    "wof:name":"San Bernardo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126090871
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.092247,
+    4.633394,
+    -74.092247,
+    4.633394
+],
+  "geometry": {"coordinates":[-74.092247,4.633394],"type":"Point"}
+}

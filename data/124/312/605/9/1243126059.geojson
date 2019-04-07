@@ -1,0 +1,71 @@
+{
+  "id": 1243126059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.73261,5.03151,-74.73261,5.03151",
+    "geom:latitude":5.03151,
+    "geom:longitude":-74.73261,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25320.0",
+    "gn:asciiname":"Quebrada La Vieja",
+    "gn:country_code":"CO",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523654,
+    "gn:latitude":5.03151,
+    "gn:longitude":-74.73261,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quebrada La Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quebrada La Vieja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421188659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523654
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4dcf4ac969648de06c4ad21ca6779b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188659,
+            "locality_id":1243126059,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1243126059,
+    "wof:lastmodified":1537618716,
+    "wof:name":"Quebrada La Vieja",
+    "wof:parent_id":421188659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.73261,
+    5.03151,
+    -74.73261,
+    5.03151
+],
+  "geometry": {"coordinates":[-74.73260999999999,5.03151],"type":"Point"}
+}

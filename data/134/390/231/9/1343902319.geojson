@@ -1,0 +1,68 @@
+{
+  "id": 1343902319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.02173,5.24068,-73.02173,5.24068",
+    "geom:latitude":5.24068,
+    "geom:longitude":-73.02173,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15660.0",
+    "gn:asciiname":"Potreros de Alejandria",
+    "gn:country_code":"CO",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671802,
+    "gn:latitude":5.24068,
+    "gn:longitude":-73.02173,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Potreros de Alejandr\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671802
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36680661fd1a0ee62b9bdebc11c6bf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700309,
+            "locality_id":1343902319,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1343902319,
+    "wof:lastmodified":1536603121,
+    "wof:name":"Potreros de Alejandria",
+    "wof:parent_id":1108700309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.02173,
+    5.24068,
+    -73.02173,
+    5.24068
+],
+  "geometry": {"coordinates":[-73.02173000000001,5.24068],"type":"Point"}
+}

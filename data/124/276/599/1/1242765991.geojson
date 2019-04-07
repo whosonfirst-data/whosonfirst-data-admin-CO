@@ -1,0 +1,72 @@
+{
+  "id": 1242765991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.63574,8.60893,-73.63574,8.60893",
+    "geom:latitude":8.60893,
+    "geom:longitude":-73.63574,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20383.0",
+    "gn:asciiname":"La Mata",
+    "gn:country_code":"CO",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678436,
+    "gn:latitude":8.60893,
+    "gn:longitude":-73.63574,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Mata",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cacer\u00edo La Mata",
+        "La Mata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678436
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b029fdc7cc55de02010fae4889618cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700545,
+            "locality_id":1242765991,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1242765991,
+    "wof:lastmodified":1537618513,
+    "wof:name":"La Mata",
+    "wof:parent_id":1108700545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.63574,
+    8.60893,
+    -73.63574,
+    8.60893
+],
+  "geometry": {"coordinates":[-73.63574,8.60893],"type":"Point"}
+}

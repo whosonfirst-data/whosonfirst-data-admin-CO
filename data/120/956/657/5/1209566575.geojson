@@ -1,0 +1,66 @@
+{
+  "id": 1209566575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1236,9.30457,-74.1236,9.30457",
+    "geom:latitude":9.30457,
+    "geom:longitude":-74.1236,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47318.0",
+    "gn:asciiname":"Tamacal",
+    "gn:country_code":"CO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667535,
+    "gn:latitude":9.30457,
+    "gn:longitude":-74.1236,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tamacal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomaca",
+        "Tamacal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667535
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ef65de2e2ccdd37bbe030897a1f0315a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209566575
+        }
+    ],
+    "wof:id":1209566575,
+    "wof:lastmodified":1537618376,
+    "wof:name":"Tamacal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1236,
+    9.30457,
+    -74.1236,
+    9.30457
+],
+  "geometry": {"coordinates":[-74.1236,9.30457],"type":"Point"}
+}

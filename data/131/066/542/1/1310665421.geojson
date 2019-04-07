@@ -1,0 +1,68 @@
+{
+  "id": 1310665421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.15575,1.49601,-77.15575,1.49601",
+    "geom:latitude":1.49601,
+    "geom:longitude":-77.15575,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52051.0",
+    "gn:asciiname":"Olaya",
+    "gn:country_code":"CO",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673615,
+    "gn:latitude":1.49601,
+    "gn:longitude":-77.15575,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Olaya",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108700971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673615
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"308ae779ae92f45bf1c0d558b70336bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700971,
+            "locality_id":1310665421,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1310665421,
+    "wof:lastmodified":1536686309,
+    "wof:name":"Olaya",
+    "wof:parent_id":1108700971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.15575,
+    1.49601,
+    -77.15575,
+    1.49601
+],
+  "geometry": {"coordinates":[-77.15575,1.49601],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260145627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.37969,4.30031,-72.37969,4.30031",
+    "geom:latitude":4.30031,
+    "geom:longitude":-72.37969,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50573.0",
+    "gn:asciiname":"Las Leonas",
+    "gn:country_code":"CO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769872,
+    "gn:latitude":4.30031,
+    "gn:longitude":-72.37969,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Leonas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421179663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769872
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"36316677b2ec345de77e4402f138fdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421179663,
+            "locality_id":1260145627,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1260145627,
+    "wof:lastmodified":1536899920,
+    "wof:name":"Las Leonas",
+    "wof:parent_id":421179663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.37969,
+    4.30031,
+    -72.37969,
+    4.30031
+],
+  "geometry": {"coordinates":[-72.37969,4.30031],"type":"Point"}
+}

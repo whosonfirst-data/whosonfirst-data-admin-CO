@@ -1,0 +1,68 @@
+{
+  "id": 1343602631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83275,4.87634,-73.83275,4.87634",
+    "geom:latitude":4.87634,
+    "geom:longitude":-73.83275,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25322.0",
+    "gn:asciiname":"Los Espinos",
+    "gn:country_code":"CO",
+    "gn:dem":2750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3782097,
+    "gn:latitude":4.87634,
+    "gn:longitude":-73.83275,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Espinos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3782097
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bd2ac6f1acef60b5fd42f221b9ef3f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700653,
+            "locality_id":1343602631,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1343602631,
+    "wof:lastmodified":1537036855,
+    "wof:name":"Los Espinos",
+    "wof:parent_id":1108700653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83275,
+    4.87634,
+    -73.83275,
+    4.87634
+],
+  "geometry": {"coordinates":[-73.83275,4.87634],"type":"Point"}
+}

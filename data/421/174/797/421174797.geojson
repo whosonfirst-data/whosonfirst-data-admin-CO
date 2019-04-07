@@ -1,0 +1,128 @@
+{
+  "id": 421174797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.44464,6.40784,-72.44464,6.40784",
+    "geom:latitude":6.40784,
+    "geom:longitude":-72.44464,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u79d1\u594e"
+    ],
+    "name:dut_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:eng_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:fre_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10d9\u10dd\u10d9\u10e3\u10d8"
+    ],
+    "name:gla_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:ita_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:may_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:nan_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:por_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:spa_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:swe_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:tgl_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:unk_x_variant":[
+        "Cocuy"
+    ],
+    "name:vie_x_preferred":[
+        "El Cocuy"
+    ],
+    "name:war_x_preferred":[
+        "El Cocuy"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3684510,
+    "qs:gn_pop":2706,
+    "qs:name":"El Cocuy",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":313,
+    "qs:photos_1k":63,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":313,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":899397,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368303,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        421188627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684510,
+        "gp:id":368303,
+        "qs:id":899397,
+        "wd:id":"Q1655984"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009044,
+    "wof:geomhash":"07de817f477c245a8fd1c57304ff9fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188627,
+            "locality_id":421174797,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421174797,
+    "wof:lastmodified":1513942071,
+    "wof:name":"El Cocuy",
+    "wof:parent_id":421188627,
+    "wof:placetype":"locality",
+    "wof:population":2706,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.44464,
+    6.40784,
+    -72.44464,
+    6.40784
+],
+  "geometry": {"coordinates":[-72.44464000000001,6.40784],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260124711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.53333,7.61667,-74.53333,7.61667",
+    "geom:latitude":7.61667,
+    "geom:longitude":-74.53333,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13458.0",
+    "gn:asciiname":"Minguillo",
+    "gn:country_code":"CO",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674757,
+    "gn:latitude":7.61667,
+    "gn:longitude":-74.53333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Minguillo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674757
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5ff9978a29a8d729957a2009b83584b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700133,
+            "locality_id":1260124711,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1260124711,
+    "wof:lastmodified":1536929519,
+    "wof:name":"Minguillo",
+    "wof:parent_id":1108700133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.53333,
+    7.61667,
+    -74.53333,
+    7.61667
+],
+  "geometry": {"coordinates":[-74.53333000000001,7.61667],"type":"Point"}
+}

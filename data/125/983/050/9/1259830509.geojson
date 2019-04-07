@@ -1,0 +1,71 @@
+{
+  "id": 1259830509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93007,5.20187,-74.93007,5.20187",
+    "geom:latitude":5.20187,
+    "geom:longitude":-74.93007,
+    "gn:admin1_code":"28.0",
+    "gn:admin2_code":"73443.0",
+    "gn:asciiname":"Ecopetrol",
+    "gn:country_code":"CO",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7523299,
+    "gn:latitude":5.20187,
+    "gn:longitude":-74.93007,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ecopetrol",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ecopetrol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670175,
+        421181783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7523299
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8e95dc1520c87b827bd0868a60bc2bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421181783,
+            "locality_id":1259830509,
+            "region_id":85670175
+        }
+    ],
+    "wof:id":1259830509,
+    "wof:lastmodified":1537618714,
+    "wof:name":"Ecopetrol",
+    "wof:parent_id":421181783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93007,
+    5.20187,
+    -74.93007,
+    5.20187
+],
+  "geometry": {"coordinates":[-74.93007,5.20187],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209317277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.81778,6.3175,-74.81778,6.3175",
+    "geom:latitude":6.3175,
+    "geom:longitude":-74.81778,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5649.0",
+    "gn:asciiname":"Palmichal",
+    "gn:country_code":"CO",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770257,
+    "gn:latitude":6.3175,
+    "gn:longitude":-74.81778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Palmichal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770257
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6995997fe0f52711a53d6abff6ce66d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209317277
+        }
+    ],
+    "wof:id":1209317277,
+    "wof:lastmodified":1536290819,
+    "wof:name":"Palmichal",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.81778,
+    6.3175,
+    -74.81778,
+    6.3175
+],
+  "geometry": {"coordinates":[-74.81778,6.3175],"type":"Point"}
+}

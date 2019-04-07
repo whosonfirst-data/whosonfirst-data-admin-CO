@@ -1,0 +1,67 @@
+{
+  "id": 1209338105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05,10.73333,-75.05,10.73333",
+    "geom:latitude":10.73333,
+    "geom:longitude":-75.05,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8549.0",
+    "gn:asciiname":"Lata",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677032,
+    "gn:latitude":10.73333,
+    "gn:longitude":-75.05,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Lata",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Lata",
+        "Lata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677032
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"650b2a267af2d8ad95d6da8750fc3633",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209338105
+        }
+    ],
+    "wof:id":1209338105,
+    "wof:lastmodified":1537618488,
+    "wof:name":"Lata",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05,
+    10.73333,
+    -75.05,
+    10.73333
+],
+  "geometry": {"coordinates":[-75.05,10.73333],"type":"Point"}
+}

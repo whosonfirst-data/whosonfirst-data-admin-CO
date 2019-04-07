@@ -1,0 +1,68 @@
+{
+  "id": 1293434133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96333,5.57222,-73.96333,5.57222",
+    "geom:latitude":5.57222,
+    "geom:longitude":-73.96333,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15442.0",
+    "gn:asciiname":"Margaritas",
+    "gn:country_code":"CO",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776923,
+    "gn:latitude":5.57222,
+    "gn:longitude":-73.96333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Margaritas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776923
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fa71a91a918c32bfae11d01a524cb971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700267,
+            "locality_id":1293434133,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1293434133,
+    "wof:lastmodified":1536862631,
+    "wof:name":"Margaritas",
+    "wof:parent_id":1108700267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96333,
+    5.57222,
+    -73.96333,
+    5.57222
+],
+  "geometry": {"coordinates":[-73.96333,5.57222],"type":"Point"}
+}

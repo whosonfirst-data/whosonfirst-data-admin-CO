@@ -1,0 +1,74 @@
+{
+  "id": 1259789993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.61056,6.97229,-70.61056,6.97229",
+    "geom:latitude":6.97229,
+    "geom:longitude":-70.61056,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"La Energia",
+    "gn:country_code":"CO",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683071,
+    "gn:latitude":6.97229,
+    "gn:longitude":-70.61056,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"La Energ\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Energ\u00eda"
+    ],
+    "name:und_x_variant":[
+        "El Sarare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683071
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"feda67dc8d9dfea1a0e52554e153c64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1259789993,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1259789993,
+    "wof:lastmodified":1537618569,
+    "wof:name":"La Energia",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.61055999999998,
+    6.97229,
+    -70.61055999999998,
+    6.97229
+],
+  "geometry": {"coordinates":[-70.61055999999998,6.97229],"type":"Point"}
+}

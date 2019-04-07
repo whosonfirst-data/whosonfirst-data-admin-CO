@@ -1,0 +1,68 @@
+{
+  "id": 1260379281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.82556,9.45667,-73.82556,9.45667",
+    "geom:latitude":9.45667,
+    "geom:longitude":-73.82556,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20175.0",
+    "gn:asciiname":"Cielo Azul",
+    "gn:country_code":"CO",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3733281,
+    "gn:latitude":9.45667,
+    "gn:longitude":-73.82556,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cielo Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3733281
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"992a83f6a8d3b7e37b5056b704bf1c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700531,
+            "locality_id":1260379281,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1260379281,
+    "wof:lastmodified":1537077548,
+    "wof:name":"Cielo Azul",
+    "wof:parent_id":1108700531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.82556,
+    9.45667,
+    -73.82556,
+    9.45667
+],
+  "geometry": {"coordinates":[-73.82556,9.45667],"type":"Point"}
+}

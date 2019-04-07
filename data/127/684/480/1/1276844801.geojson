@@ -1,0 +1,71 @@
+{
+  "id": 1276844801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88535,3.65785,-73.88535,3.65785",
+    "geom:latitude":3.65785,
+    "geom:longitude":-73.88535,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50251",
+    "gn:asciiname":"La Cascada",
+    "gn:country_code":"CO",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331152,
+    "gn:latitude":3.65785,
+    "gn:longitude":-73.88535,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Cascada",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Cascada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331152
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8a34f6cec2ff3ce5e74a7d2363efc9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700931,
+            "locality_id":1276844801,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1276844801,
+    "wof:lastmodified":1537618831,
+    "wof:name":"La Cascada",
+    "wof:parent_id":1108700931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88535,
+    3.65785,
+    -73.88535,
+    3.65785
+],
+  "geometry": {"coordinates":[-73.88535,3.65785],"type":"Point"}
+}

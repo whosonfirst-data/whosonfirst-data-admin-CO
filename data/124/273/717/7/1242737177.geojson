@@ -1,0 +1,68 @@
+{
+  "id": 1242737177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20639,4.735,-72.20639,4.735",
+    "geom:latitude":4.735,
+    "geom:longitude":-72.20639,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85139.0",
+    "gn:asciiname":"Macuco",
+    "gn:country_code":"CO",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675724,
+    "gn:latitude":4.735,
+    "gn:longitude":-72.20639,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Macuco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675724
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6c6686debba14fc8d2f27165f25abf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701529,
+            "locality_id":1242737177,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1242737177,
+    "wof:lastmodified":1536833022,
+    "wof:name":"Macuco",
+    "wof:parent_id":1108701529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20639,
+    4.735,
+    -72.20639,
+    4.735
+],
+  "geometry": {"coordinates":[-72.20639,4.735],"type":"Point"}
+}

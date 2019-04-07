@@ -1,0 +1,68 @@
+{
+  "id": 1225823987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56726,9.94726,-73.56726,9.94726",
+    "geom:latitude":9.94726,
+    "geom:longitude":-73.56726,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Bijagual",
+    "gn:country_code":"CO",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8638539,
+    "gn:latitude":9.94726,
+    "gn:longitude":-73.56726,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bijagual",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421169849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8638539
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"23412502f3741a4f07f321680c88183f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421169849,
+            "locality_id":1225823987,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1225823987,
+    "wof:lastmodified":1537043310,
+    "wof:name":"Bijagual",
+    "wof:parent_id":421169849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56726,
+    9.94726,
+    -73.56726,
+    9.94726
+],
+  "geometry": {"coordinates":[-73.56726,9.94726],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327011143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.78399,2.46145,-75.78399,2.46145",
+    "geom:latitude":2.46145,
+    "geom:longitude":-75.78399,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41518.0",
+    "gn:asciiname":"Villa Nury",
+    "gn:country_code":"CO",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3793222,
+    "gn:latitude":2.46145,
+    "gn:longitude":-75.78399,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villa Nury",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3793222
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"15b4b95f02adf011b7f5e2eff6dac3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700831,
+            "locality_id":1327011143,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1327011143,
+    "wof:lastmodified":1536791556,
+    "wof:name":"Villa Nury",
+    "wof:parent_id":1108700831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.78399,
+    2.46145,
+    -75.78399,
+    2.46145
+],
+  "geometry": {"coordinates":[-75.78399,2.46145],"type":"Point"}
+}

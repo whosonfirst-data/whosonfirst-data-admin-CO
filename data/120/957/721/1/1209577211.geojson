@@ -1,0 +1,62 @@
+{
+  "id": 1209577211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.65384,1.04652,-77.65384,1.04652",
+    "geom:latitude":1.04652,
+    "geom:longitude":-77.65384,
+    "gn:admin1_code":"20.0",
+    "gn:admin2_code":"52838.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"CO",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8626666,
+    "gn:latitude":1.04652,
+    "gn:longitude":-77.65384,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8626666
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fe0701dcfbe2187ffd0481399a1d6caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209577211
+        }
+    ],
+    "wof:id":1209577211,
+    "wof:lastmodified":1536282899,
+    "wof:name":"San Francisco",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.65384,
+    1.04652,
+    -77.65384,
+    1.04652
+],
+  "geometry": {"coordinates":[-77.65384,1.04652],"type":"Point"}
+}

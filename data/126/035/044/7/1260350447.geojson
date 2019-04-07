@@ -1,0 +1,68 @@
+{
+  "id": 1260350447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.77865,8.82779,-74.77865,8.82779",
+    "geom:latitude":8.82779,
+    "geom:longitude":-74.77865,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"El Barro",
+    "gn:country_code":"CO",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684910,
+    "gn:latitude":8.82779,
+    "gn:longitude":-74.77865,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Barro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421188689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684910
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f1196477987029508fed0a2a475b2cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188689,
+            "locality_id":1260350447,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1260350447,
+    "wof:lastmodified":1536620333,
+    "wof:name":"El Barro",
+    "wof:parent_id":421188689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.77865,
+    8.82779,
+    -74.77865,
+    8.82779
+],
+  "geometry": {"coordinates":[-74.77865,8.82779],"type":"Point"}
+}

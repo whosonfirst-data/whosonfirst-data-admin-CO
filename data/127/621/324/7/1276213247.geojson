@@ -1,0 +1,68 @@
+{
+  "id": 1276213247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.49082,8.05926,-75.49082,8.05926",
+    "geom:latitude":8.05926,
+    "geom:longitude":-75.49082,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23466.0",
+    "gn:asciiname":"El Anclar",
+    "gn:country_code":"CO",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3684969,
+    "gn:latitude":8.05926,
+    "gn:longitude":-75.49082,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Anclar",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3684969
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b00904ad39e9652412aaa68bc8150670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700585,
+            "locality_id":1276213247,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1276213247,
+    "wof:lastmodified":1536940700,
+    "wof:name":"El Anclar",
+    "wof:parent_id":1108700585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.49082,
+    8.05926,
+    -75.49082,
+    8.05926
+],
+  "geometry": {"coordinates":[-75.49082,8.05926],"type":"Point"}
+}

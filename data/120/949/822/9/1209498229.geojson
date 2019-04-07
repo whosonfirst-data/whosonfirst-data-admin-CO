@@ -1,0 +1,62 @@
+{
+  "id": 1209498229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28228,2.72084,-72.28228,2.72084",
+    "geom:latitude":2.72084,
+    "geom:longitude":-72.28228,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"95001.0",
+    "gn:asciiname":"Arizona",
+    "gn:country_code":"CO",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830425,
+    "gn:latitude":2.72084,
+    "gn:longitude":-72.28228,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Arizona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830425
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"036772e6aa6be730e42aff067087c577",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209498229
+        }
+    ],
+    "wof:id":1209498229,
+    "wof:lastmodified":1536285267,
+    "wof:name":"Arizona",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28228,
+    2.72084,
+    -72.28228,
+    2.72084
+],
+  "geometry": {"coordinates":[-72.28228,2.72084],"type":"Point"}
+}

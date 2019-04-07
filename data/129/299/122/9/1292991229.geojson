@@ -1,0 +1,74 @@
+{
+  "id": 1292991229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52559,1.55154,-75.52559,1.55154",
+    "geom:latitude":1.55154,
+    "geom:longitude":-75.52559,
+    "gn:admin1_code":"8",
+    "gn:admin2_code":"18001.0",
+    "gn:asciiname":"Marcella",
+    "gn:country_code":"CO",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675213,
+    "gn:latitude":1.55154,
+    "gn:longitude":-75.52559,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Marcella",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Marcella"
+    ],
+    "name:und_x_variant":[
+        "Marsella"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421170599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675213
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ec5634df10944a4a554e2d0be459bbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170599,
+            "locality_id":1292991229,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1292991229,
+    "wof:lastmodified":1537618463,
+    "wof:name":"Marcella",
+    "wof:parent_id":421170599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52559000000002,
+    1.55154,
+    -75.52559000000002,
+    1.55154
+],
+  "geometry": {"coordinates":[-75.52559000000002,1.55154],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226551811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.52229,7.01235,-74.52229,7.01235",
+    "geom:latitude":7.01235,
+    "geom:longitude":-74.52229,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5604.0",
+    "gn:asciiname":"Cerro el Osito",
+    "gn:country_code":"CO",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673496,
+    "gn:latitude":7.01235,
+    "gn:longitude":-74.52229,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cerro el Osito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673496
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6f278b46f2ee747aac29d60bd645cf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699993,
+            "locality_id":1226551811,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226551811,
+    "wof:lastmodified":1536988440,
+    "wof:name":"Cerro el Osito",
+    "wof:parent_id":1108699993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.52229,
+    7.01235,
+    -74.52229,
+    7.01235
+],
+  "geometry": {"coordinates":[-74.52229,7.01235],"type":"Point"}
+}

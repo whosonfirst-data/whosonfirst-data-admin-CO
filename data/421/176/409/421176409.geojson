@@ -1,0 +1,151 @@
+{
+  "id": 421176409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.58347,1.48997,-77.58347,1.48997",
+    "geom:latitude":1.48997,
+    "geom:longitude":-77.58347,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Llanada"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u5229\u4e9e\u7d0d\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "La Llanada"
+    ],
+    "name:eng_x_preferred":[
+        "La Llanada"
+    ],
+    "name:fra_x_preferred":[
+        "La Llanada"
+    ],
+    "name:fre_x_preferred":[
+        "La Llanada"
+    ],
+    "name:geo_x_preferred":[
+        "\u10da\u10d0-\u10da\u10d8\u10d0\u10dc\u10d0\u10d3\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "La Llanada"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10da\u10d8\u10d0\u10dc\u10d0\u10d3\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "La Llanada"
+    ],
+    "name:msa_x_preferred":[
+        "La Llanada"
+    ],
+    "name:nan_x_preferred":[
+        "La Llanada"
+    ],
+    "name:nld_x_preferred":[
+        "La Llanada"
+    ],
+    "name:por_x_preferred":[
+        "La Llanada"
+    ],
+    "name:spa_x_preferred":[
+        "La Llanada"
+    ],
+    "name:swe_x_preferred":[
+        "La Llanada"
+    ],
+    "name:tgl_x_preferred":[
+        "La Llanada"
+    ],
+    "name:unk_x_variant":[
+        "Llanada"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u0627\u0646\u0627\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Llanada"
+    ],
+    "name:war_x_preferred":[
+        "La Llanada"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "La Llanada"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5229\u4e9e\u7d0d\u9054"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3678575,
+    "qs:gn_pop":2747,
+    "qs:name":"La Llanada",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Narino",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1046291,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359273,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678575,
+        "gp:id":359273,
+        "qs:id":1046291,
+        "wd:id":"Q1577486",
+        "wk:page":"La Llanada"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009107,
+    "wof:geomhash":"6a47895d014e899080b3cd7faa6a03ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701021,
+            "locality_id":421176409,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":421176409,
+    "wof:lastmodified":1527726471,
+    "wof:name":"La Llanada",
+    "wof:parent_id":1108701021,
+    "wof:placetype":"locality",
+    "wof:population":2747,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.58347,
+    1.48997,
+    -77.58347,
+    1.48997
+],
+  "geometry": {"coordinates":[-77.58347000000001,1.48997],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259761857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.81994,8.11633,-73.81994,8.11633",
+    "geom:latitude":8.11633,
+    "geom:longitude":-73.81994,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nuevo Zelandia",
+    "gn:country_code":"CO",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8015951,
+    "gn:latitude":8.11633,
+    "gn:longitude":-73.81994,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Nuevo Zelandia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8015951
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eda65e56a5152b809f9ff4cc590d8c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700135,
+            "locality_id":1259761857,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1259761857,
+    "wof:lastmodified":1536954418,
+    "wof:name":"Nuevo Zelandia",
+    "wof:parent_id":1108700135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.81994,
+    8.11633,
+    -73.81994,
+    8.11633
+],
+  "geometry": {"coordinates":[-73.81994,8.11633],"type":"Point"}
+}

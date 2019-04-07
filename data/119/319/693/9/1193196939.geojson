@@ -1,0 +1,68 @@
+{
+  "id": 1193196939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23913,4.72959,-74.23913,4.72959",
+    "geom:latitude":4.72959,
+    "geom:longitude":-74.23913,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25473.0",
+    "gn:asciiname":"La Aurora",
+    "gn:country_code":"CO",
+    "gn:dem":2550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679822,
+    "gn:latitude":4.72959,
+    "gn:longitude":-74.23913,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Aurora",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421205083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9062f2e671835babd4179c29c001c22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205083,
+            "locality_id":1193196939,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193196939,
+    "wof:lastmodified":1536376887,
+    "wof:name":"La Aurora",
+    "wof:parent_id":421205083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23913,
+    4.72959,
+    -74.23913,
+    4.72959
+],
+  "geometry": {"coordinates":[-74.23913,4.72959],"type":"Point"}
+}

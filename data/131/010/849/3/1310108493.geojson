@@ -1,0 +1,72 @@
+{
+  "id": 1310108493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.40068,7.58358,-75.40068,7.58358",
+    "geom:latitude":7.58358,
+    "geom:longitude":-75.40068,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5790.0",
+    "gn:asciiname":"Taraza",
+    "gn:country_code":"CO",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3667402,
+    "gn:latitude":7.58358,
+    "gn:longitude":-75.40068,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Taraz\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taraz\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667402,
+        "wk:page":"Taraz%C3%A1"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b4a182fb323ed391b97166426f6dcccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700023,
+            "locality_id":1310108493,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310108493,
+    "wof:lastmodified":1537618375,
+    "wof:name":"Taraza",
+    "wof:parent_id":1108700023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.40068000000002,
+    7.58358,
+    -75.40068000000002,
+    7.58358
+],
+  "geometry": {"coordinates":[-75.40068000000002,7.58358],"type":"Point"}
+}

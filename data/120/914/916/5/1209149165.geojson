@@ -1,0 +1,62 @@
+{
+  "id": 1209149165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88972,5.56417,-73.88972,5.56417",
+    "geom:latitude":5.56417,
+    "geom:longitude":-73.88972,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15131.0",
+    "gn:asciiname":"La Espalda",
+    "gn:country_code":"CO",
+    "gn:dem":2777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776639,
+    "gn:latitude":5.56417,
+    "gn:longitude":-73.88972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Espalda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776639
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3873739533971691b3cdd1608a6ae44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209149165
+        }
+    ],
+    "wof:id":1209149165,
+    "wof:lastmodified":1536296257,
+    "wof:name":"La Espalda",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88972,
+    5.56417,
+    -73.88972,
+    5.56417
+],
+  "geometry": {"coordinates":[-73.88972,5.56417],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293665169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25167,11.81972,-72.25167,11.81972",
+    "geom:latitude":11.81972,
+    "geom:longitude":-72.25167,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Huayanaspohu",
+    "gn:country_code":"CO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3680707,
+    "gn:latitude":11.81972,
+    "gn:longitude":-72.25167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Huay\u00e1naspohu",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3680707
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"44e70fdf4d9a86ff02b89aa52d5b7a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1293665169,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1293665169,
+    "wof:lastmodified":1537027016,
+    "wof:name":"Huayanaspohu",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25166999999998,
+    11.81972,
+    -72.25166999999998,
+    11.81972
+],
+  "geometry": {"coordinates":[-72.25166999999998,11.81972],"type":"Point"}
+}

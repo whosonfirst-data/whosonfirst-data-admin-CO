@@ -1,0 +1,67 @@
+{
+  "id": 1192972331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.46536,5.07057,-73.46536,5.07057",
+    "geom:latitude":5.07057,
+    "geom:longitude":-73.46536,
+    "gn:admin1_code":"33.0",
+    "gn:asciiname":"Ubaneca",
+    "gn:country_code":"CO",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666524,
+    "gn:latitude":5.07057,
+    "gn:longitude":-73.46536,
+    "gn:modification_date":"2011-10-11",
+    "gn:name":"Uba\u00f1eca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666524
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b8ae697e20151642af8f2257f0ee2bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700259,
+            "locality_id":1192972331,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1192972331,
+    "wof:lastmodified":1536376993,
+    "wof:name":"Ubaneca",
+    "wof:parent_id":1108700259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.46536,
+    5.07057,
+    -73.46536,
+    5.07057
+],
+  "geometry": {"coordinates":[-73.46536,5.07057],"type":"Point"}
+}

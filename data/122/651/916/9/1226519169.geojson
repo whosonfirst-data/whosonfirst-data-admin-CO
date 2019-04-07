@@ -1,0 +1,68 @@
+{
+  "id": 1226519169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.07889,8.77083,-76.07889,8.77083",
+    "geom:latitude":8.77083,
+    "geom:longitude":-76.07889,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23001.0",
+    "gn:asciiname":"Canalinda",
+    "gn:country_code":"CO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779402,
+    "gn:latitude":8.77083,
+    "gn:longitude":-76.07889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1alinda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421172417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779402
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3898afd3eb7ddfcabac74d336a830696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421172417,
+            "locality_id":1226519169,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1226519169,
+    "wof:lastmodified":1537034910,
+    "wof:name":"Canalinda",
+    "wof:parent_id":421172417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.07889,
+    8.77083,
+    -76.07889,
+    8.77083
+],
+  "geometry": {"coordinates":[-76.07889,8.77083],"type":"Point"}
+}

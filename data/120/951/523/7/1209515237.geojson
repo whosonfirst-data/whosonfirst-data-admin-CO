@@ -1,0 +1,66 @@
+{
+  "id": 1209515237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24021,10.55,-75.24021,10.55",
+    "geom:latitude":10.55,
+    "geom:longitude":-75.24021,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Las Caras",
+    "gn:country_code":"CO",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677656,
+    "gn:latitude":10.55,
+    "gn:longitude":-75.24021,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Las Caras",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Cartas",
+        "Las Claras",
+        "Las Caras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677656
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6ccc7651364cfa541a0d5ec92973b86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209515237
+        }
+    ],
+    "wof:id":1209515237,
+    "wof:lastmodified":1537618500,
+    "wof:name":"Las Caras",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24021,
+    10.55,
+    -75.24021,
+    10.55
+],
+  "geometry": {"coordinates":[-75.24021,10.55],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209983127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.79629,6.12264,-73.79629,6.12264",
+    "geom:latitude":6.12264,
+    "geom:longitude":-73.79629,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68250.0",
+    "gn:asciiname":"Nogales de La Hermosura",
+    "gn:country_code":"CO",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673822,
+    "gn:latitude":6.12264,
+    "gn:longitude":-73.79629,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nogales de La Hermosura",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Hermosura",
+        "Nogales de La Hermosura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673822
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"de43a396cb9c6e77256aa423f2bca000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701241,
+            "locality_id":1209983127,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1209983127,
+    "wof:lastmodified":1537618450,
+    "wof:name":"Nogales de La Hermosura",
+    "wof:parent_id":1108701241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.79629,
+    6.12264,
+    -73.79629,
+    6.12264
+],
+  "geometry": {"coordinates":[-73.79629,6.12264],"type":"Point"}
+}

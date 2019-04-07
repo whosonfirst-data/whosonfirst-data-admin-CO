@@ -1,0 +1,62 @@
+{
+  "id": 1209479469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38083,8.15556,-72.38083,8.15556",
+    "geom:latitude":8.15556,
+    "geom:longitude":-72.38083,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54001.0",
+    "gn:asciiname":"Rancho Grande",
+    "gn:country_code":"CO",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3757426,
+    "gn:latitude":8.15556,
+    "gn:longitude":-72.38083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Rancho Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3757426
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f4decd9f6da0f4eed86823a7f053b7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209479469
+        }
+    ],
+    "wof:id":1209479469,
+    "wof:lastmodified":1536285830,
+    "wof:name":"Rancho Grande",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38083,
+    8.155560000000001,
+    -72.38083,
+    8.155560000000001
+],
+  "geometry": {"coordinates":[-72.38083,8.15556],"type":"Point"}
+}

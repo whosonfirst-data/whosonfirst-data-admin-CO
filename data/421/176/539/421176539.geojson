@@ -1,0 +1,147 @@
+{
+  "id": 421176539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.6825,6.90333,-75.6825,6.90333",
+    "geom:latitude":6.90333,
+    "geom:longitude":-75.6825,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:ceb_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u70c8\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:eng_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:fra_x_preferred":[
+        "San Andr\u00e9s de Cuerqu\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "San Andr\u00e9s de Cuerqu\u00eda"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10d3\u10e0\u10d4\u10e1\u10d8"
+    ],
+    "name:ita_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10d3\u10e0\u10d4\u10e1\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:msa_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:nan_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:nld_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:por_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:rum_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u043d\u0434\u0440\u0435\u0441-\u0434\u0435-\u041a\u0443\u044d\u0440\u043a\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:swe_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:tgl_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "name:vie_x_preferred":[
+        "San Andr\u00e9s de Cuerquia"
+    ],
+    "name:war_x_preferred":[
+        "San Andr\u00e9s"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3787727,
+    "qs:gn_pop":3154,
+    "qs:name":"San Andr\u00e9s",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1046693,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368567,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787727,
+        "gp:id":368567,
+        "qs:id":1046693,
+        "wd:id":"Q2433819",
+        "wk:page":"San Andr\u00e9s de Cuerquia"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009111,
+    "wof:geomhash":"45f4731c78b27ccda8ded852f6f07854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700003,
+            "locality_id":421176539,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421176539,
+    "wof:lastmodified":1513943398,
+    "wof:name":"San Andr\u00e9s",
+    "wof:parent_id":1108700003,
+    "wof:placetype":"locality",
+    "wof:population":3154,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.6825,
+    6.90333,
+    -75.6825,
+    6.90333
+],
+  "geometry": {"coordinates":[-75.6825,6.90333],"type":"Point"}
+}

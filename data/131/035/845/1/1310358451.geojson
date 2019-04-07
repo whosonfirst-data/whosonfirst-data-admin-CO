@@ -1,0 +1,68 @@
+{
+  "id": 1310358451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24055,10.2707,-75.24055,10.2707",
+    "geom:latitude":10.2707,
+    "geom:longitude":-75.24055,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13433.0",
+    "gn:asciiname":"Bella Myriam",
+    "gn:country_code":"CO",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830825,
+    "gn:latitude":10.2707,
+    "gn:longitude":-75.24055,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bella Myriam",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830825
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"78cc46466e19eec59d101459f3fb05ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700125,
+            "locality_id":1310358451,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1310358451,
+    "wof:lastmodified":1536630111,
+    "wof:name":"Bella Myriam",
+    "wof:parent_id":1108700125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24055,
+    10.2707,
+    -75.24055,
+    10.2707
+],
+  "geometry": {"coordinates":[-75.24055,10.2707],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327483941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.86611,4.04833,-75.86611,4.04833",
+    "geom:latitude":4.04833,
+    "geom:longitude":-75.86611,
+    "gn:admin1_code":"29",
+    "gn:admin2_code":"76834.0",
+    "gn:asciiname":"El Bosque",
+    "gn:country_code":"CO",
+    "gn:dem":2467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3769162,
+    "gn:latitude":4.04833,
+    "gn:longitude":-75.86611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Bosque",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3769162
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2a4be8e6ec1840c5e33bedbbbc9ac6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701505,
+            "locality_id":1327483941,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1327483941,
+    "wof:lastmodified":1536603314,
+    "wof:name":"El Bosque",
+    "wof:parent_id":1108701505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.86610999999998,
+    4.04833,
+    -75.86610999999998,
+    4.04833
+],
+  "geometry": {"coordinates":[-75.86610999999998,4.04833],"type":"Point"}
+}

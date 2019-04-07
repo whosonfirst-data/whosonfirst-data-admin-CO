@@ -1,0 +1,62 @@
+{
+  "id": 1209623573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.99472,6.02389,-74.99472,6.02389",
+    "geom:latitude":6.02389,
+    "geom:longitude":-74.99472,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5660.0",
+    "gn:asciiname":"El Vergel",
+    "gn:country_code":"CO",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3770068,
+    "gn:latitude":6.02389,
+    "gn:longitude":-74.99472,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Vergel",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3770068
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"452c0ccb81f1d4d18fa1feaba3c97d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209623573
+        }
+    ],
+    "wof:id":1209623573,
+    "wof:lastmodified":1536281431,
+    "wof:name":"El Vergel",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.99472,
+    6.02389,
+    -74.99472,
+    6.02389
+],
+  "geometry": {"coordinates":[-74.99472,6.02389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343612787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.37687,9.54062,-74.37687,9.54062",
+    "geom:latitude":9.54062,
+    "geom:longitude":-74.37687,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47707.0",
+    "gn:asciiname":"Las Antillas",
+    "gn:country_code":"CO",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677748,
+    "gn:latitude":9.54062,
+    "gn:longitude":-74.37687,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Antillas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Las Antillas",
+        "Las Antillas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677748
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"62ee5dbb3ae1e645bb849f64f9cc1149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700911,
+            "locality_id":1343612787,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1343612787,
+    "wof:lastmodified":1537618502,
+    "wof:name":"Las Antillas",
+    "wof:parent_id":1108700911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.37687,
+    9.54062,
+    -74.37687,
+    9.54062
+],
+  "geometry": {"coordinates":[-74.37687,9.54062],"type":"Point"}
+}

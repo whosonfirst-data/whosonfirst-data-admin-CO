@@ -1,0 +1,142 @@
+{
+  "id": 421176369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.24103,9.27345,-75.24103,9.27345",
+    "geom:latitude":9.27345,
+    "geom:longitude":-75.24103,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u8c9d\u5716\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d1\u10d4\u10e2\u10e3\u10da\u10d8\u10d0"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d1\u10d4\u10e2\u10e3\u10da\u10d8\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:msa_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:nan_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:unk_x_variant":[
+        "Betulia"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan de Betulia"
+    ],
+    "name:war_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "San Juan Betulia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u8c9d\u5716\u5229\u4e9e"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3669480,
+    "qs:gn_pop":9092,
+    "qs:name":"San Juan de Betulia",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Sucre",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1046197,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":365696,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":41,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669480,
+        "gp:id":365696,
+        "qs:id":1046197,
+        "wd:id":"Q1526281",
+        "wk:page":"San Juan Betulia"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009106,
+    "wof:geomhash":"dcbbdd44ce7420e2761a202451f1ab52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701413,
+            "locality_id":421176369,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":421176369,
+    "wof:lastmodified":1527726473,
+    "wof:name":"San Juan de Betulia",
+    "wof:parent_id":1108701413,
+    "wof:placetype":"locality",
+    "wof:population":9092,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.24103,
+    9.27345,
+    -75.24103,
+    9.27345
+],
+  "geometry": {"coordinates":[-75.24102999999999,9.27345],"type":"Point"}
+}

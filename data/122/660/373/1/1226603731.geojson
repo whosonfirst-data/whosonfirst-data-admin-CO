@@ -1,0 +1,73 @@
+{
+  "id": 1226603731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.42439,8.61319,-73.42439,8.61319",
+    "geom:latitude":8.61319,
+    "geom:longitude":-73.42439,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54245.0",
+    "gn:asciiname":"Culebrita",
+    "gn:country_code":"CO",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685457,
+    "gn:latitude":8.61319,
+    "gn:longitude":-73.42439,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Culebrita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Culebrilla",
+        "Culebritas",
+        "Culebrita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685457
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"16ab9014098c200b34eecad4c8d4fc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701109,
+            "locality_id":1226603731,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1226603731,
+    "wof:lastmodified":1537618610,
+    "wof:name":"Culebrita",
+    "wof:parent_id":1108701109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.42439,
+    8.61319,
+    -73.42439,
+    8.61319
+],
+  "geometry": {"coordinates":[-73.42439,8.61319],"type":"Point"}
+}

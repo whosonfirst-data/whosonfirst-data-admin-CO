@@ -1,0 +1,68 @@
+{
+  "id": 1276206271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.54314,8.81683,-75.54314,8.81683",
+    "geom:latitude":8.81683,
+    "geom:longitude":-75.54314,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23189.0",
+    "gn:asciiname":"Salguero",
+    "gn:country_code":"CO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783202,
+    "gn:latitude":8.81683,
+    "gn:longitude":-75.54314,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Salguero",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783202
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f197bceaba370e2799947afdcc7715a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700573,
+            "locality_id":1276206271,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1276206271,
+    "wof:lastmodified":1536949621,
+    "wof:name":"Salguero",
+    "wof:parent_id":1108700573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54314000000002,
+    8.81683,
+    -75.54314000000002,
+    8.81683
+],
+  "geometry": {"coordinates":[-75.54314000000002,8.81683],"type":"Point"}
+}

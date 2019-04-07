@@ -1,0 +1,68 @@
+{
+  "id": 1243217629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11022,4.65663,-73.11022,4.65663",
+    "geom:latitude":4.65663,
+    "geom:longitude":-73.11022,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25530.0",
+    "gn:asciiname":"Las Virginias",
+    "gn:country_code":"CO",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677041,
+    "gn:latitude":4.65663,
+    "gn:longitude":-73.11022,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Virginias",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677041
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4ca5d54ca0bfcbbcef8f10e3951897ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700695,
+            "locality_id":1243217629,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1243217629,
+    "wof:lastmodified":1536637382,
+    "wof:name":"Las Virginias",
+    "wof:parent_id":1108700695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11022,
+    4.65663,
+    -73.11022,
+    4.65663
+],
+  "geometry": {"coordinates":[-73.11022,4.65663],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310410835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.0,10.61667,-75.0,10.61667",
+    "geom:latitude":10.61667,
+    "geom:longitude":-75.0,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"8638.0",
+    "gn:asciiname":"Varasanta",
+    "gn:country_code":"CO",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666275,
+    "gn:latitude":10.61667,
+    "gn:longitude":-75.0,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Varasanta",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670207,
+        1108700079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666275
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a472e00ae56d72f1ff8808be7f7bf18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700079,
+            "locality_id":1310410835,
+            "region_id":85670207
+        }
+    ],
+    "wof:id":1310410835,
+    "wof:lastmodified":1537051369,
+    "wof:name":"Varasanta",
+    "wof:parent_id":1108700079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0,
+    10.61667,
+    -75.0,
+    10.61667
+],
+  "geometry": {"coordinates":[-75.0,10.61667],"type":"Point"}
+}

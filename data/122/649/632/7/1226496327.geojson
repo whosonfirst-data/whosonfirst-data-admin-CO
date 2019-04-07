@@ -1,0 +1,68 @@
+{
+  "id": 1226496327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33333,4.55,-74.33333,4.55",
+    "geom:latitude":4.55,
+    "geom:longitude":-74.33333,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25312.0",
+    "gn:asciiname":"Luchal",
+    "gn:country_code":"CO",
+    "gn:dem":2656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675849,
+    "gn:latitude":4.55,
+    "gn:longitude":-74.33333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Luchal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675849
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9a8a60d1f83e2e95d608dfc0bce79292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700651,
+            "locality_id":1226496327,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1226496327,
+    "wof:lastmodified":1537066469,
+    "wof:name":"Luchal",
+    "wof:parent_id":1108700651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33333,
+    4.55,
+    -74.33333,
+    4.55
+],
+  "geometry": {"coordinates":[-74.33333,4.55],"type":"Point"}
+}

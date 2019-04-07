@@ -1,0 +1,68 @@
+{
+  "id": 1310095817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.75545,1.12208,-74.75545,1.12208",
+    "geom:latitude":1.12208,
+    "geom:longitude":-74.75545,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18150.0",
+    "gn:asciiname":"Caserio El Remanso",
+    "gn:country_code":"CO",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6826719,
+    "gn:latitude":1.12208,
+    "gn:longitude":-74.75545,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo El Remanso",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421187893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6826719
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"73270d8a29361477293cf21f15646157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187893,
+            "locality_id":1310095817,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1310095817,
+    "wof:lastmodified":1537009794,
+    "wof:name":"Caserio El Remanso",
+    "wof:parent_id":421187893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.75545,
+    1.12208,
+    -74.75545,
+    1.12208
+],
+  "geometry": {"coordinates":[-74.75545,1.12208],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343909217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.47149,9.58722,-74.47149,9.58722",
+    "geom:latitude":9.58722,
+    "geom:longitude":-74.47149,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47707.0",
+    "gn:asciiname":"Menosmato",
+    "gn:country_code":"CO",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674855,
+    "gn:latitude":9.58722,
+    "gn:longitude":-74.47149,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Menosmato",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Menosmato",
+        "Menos Malo",
+        "Menosmato"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674855
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"649e0313726732b1c3f03ab9acbbf2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700911,
+            "locality_id":1343909217,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1343909217,
+    "wof:lastmodified":1537618458,
+    "wof:name":"Menosmato",
+    "wof:parent_id":1108700911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.47149,
+    9.58722,
+    -74.47149,
+    9.58722
+],
+  "geometry": {"coordinates":[-74.47149,9.58722],"type":"Point"}
+}

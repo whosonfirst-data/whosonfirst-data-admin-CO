@@ -1,0 +1,68 @@
+{
+  "id": 1360096937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.88889,5.99542,-75.88889,5.99542",
+    "geom:latitude":5.99542,
+    "geom:longitude":-75.88889,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5209.0",
+    "gn:asciiname":"Magallo",
+    "gn:country_code":"CO",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780384,
+    "gn:latitude":5.99542,
+    "gn:longitude":-75.88889,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Magallo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780384
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"425d563e81880be955fc0d5aaadb8153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699955,
+            "locality_id":1360096937,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1360096937,
+    "wof:lastmodified":1536929231,
+    "wof:name":"Magallo",
+    "wof:parent_id":1108699955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.88889,
+    5.99542,
+    -75.88889,
+    5.99542
+],
+  "geometry": {"coordinates":[-75.88889,5.99542],"type":"Point"}
+}

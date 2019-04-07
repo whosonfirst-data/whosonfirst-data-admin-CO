@@ -1,0 +1,72 @@
+{
+  "id": 1242850469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1517,11.2506,-73.1517,11.2506",
+    "geom:latitude":11.2506,
+    "geom:longitude":-73.1517,
+    "gn:admin1_code":"17",
+    "gn:admin2_code":"44090.0",
+    "gn:asciiname":"Corual",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685758,
+    "gn:latitude":11.2506,
+    "gn:longitude":-73.1517,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Corual",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Corual",
+        "Corual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421202543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685758
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c7229a35c2842b608827d5f14be3b3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202543,
+            "locality_id":1242850469,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1242850469,
+    "wof:lastmodified":1537618613,
+    "wof:name":"Corual",
+    "wof:parent_id":421202543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1517,
+    11.2506,
+    -73.1517,
+    11.2506
+],
+  "geometry": {"coordinates":[-73.15170000000001,11.2506],"type":"Point"}
+}

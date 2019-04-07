@@ -1,0 +1,68 @@
+{
+  "id": 1343722675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.32389,4.09528,-76.32389,4.09528",
+    "geom:latitude":4.09528,
+    "geom:longitude":-76.32389,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76616.0",
+    "gn:asciiname":"Los Estrechos",
+    "gn:country_code":"CO",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783006,
+    "gn:latitude":4.09528,
+    "gn:longitude":-76.32389,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Estrechos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        1108701499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783006
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0be612d13c5370e943056ab6814404e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701499,
+            "locality_id":1343722675,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1343722675,
+    "wof:lastmodified":1536864215,
+    "wof:name":"Los Estrechos",
+    "wof:parent_id":1108701499,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.32389,
+    4.09528,
+    -76.32389,
+    4.09528
+],
+  "geometry": {"coordinates":[-76.32389000000001,4.09528],"type":"Point"}
+}

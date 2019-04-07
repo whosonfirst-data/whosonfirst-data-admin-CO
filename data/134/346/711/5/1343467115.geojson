@@ -1,0 +1,73 @@
+{
+  "id": 1343467115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.76667,6.56667,-75.76667,6.56667",
+    "geom:latitude":6.56667,
+    "geom:longitude":-75.76667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5501.0",
+    "gn:asciiname":"Tablaza",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667626,
+    "gn:latitude":6.56667,
+    "gn:longitude":-75.76667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tablaza",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tablazos",
+        "Tablaza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421197115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667626
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"47700bb56c929a2f324d855fe72441f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421197115,
+            "locality_id":1343467115,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1343467115,
+    "wof:lastmodified":1537618378,
+    "wof:name":"Tablaza",
+    "wof:parent_id":421197115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.76666999999998,
+    6.56667,
+    -75.76666999999998,
+    6.56667
+],
+  "geometry": {"coordinates":[-75.76666999999998,6.56667],"type":"Point"}
+}

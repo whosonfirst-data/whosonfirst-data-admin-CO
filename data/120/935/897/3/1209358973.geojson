@@ -1,0 +1,62 @@
+{
+  "id": 1209358973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71778,5.63167,-73.71778,5.63167",
+    "geom:latitude":5.63167,
+    "geom:longitude":-73.71778,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15176.0",
+    "gn:asciiname":"El Recuerdo",
+    "gn:country_code":"CO",
+    "gn:dem":2798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776454,
+    "gn:latitude":5.63167,
+    "gn:longitude":-73.71778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Recuerdo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776454
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3d2ea9722bc0ebe4f571625594990197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209358973
+        }
+    ],
+    "wof:id":1209358973,
+    "wof:lastmodified":1536289491,
+    "wof:name":"El Recuerdo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71778,
+    5.63167,
+    -73.71778,
+    5.63167
+],
+  "geometry": {"coordinates":[-73.71778,5.63167],"type":"Point"}
+}

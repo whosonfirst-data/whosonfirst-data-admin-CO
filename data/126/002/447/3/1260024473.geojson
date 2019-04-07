@@ -1,0 +1,72 @@
+{
+  "id": 1260024473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21541,8.54898,-74.21541,8.54898",
+    "geom:latitude":8.54898,
+    "geom:longitude":-74.21541,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13810.0",
+    "gn:asciiname":"Vijagual",
+    "gn:country_code":"CO",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666036,
+    "gn:latitude":8.54898,
+    "gn:longitude":-74.21541,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vijagual",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijagual",
+        "Vijagual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666036
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1cbde90a9a4362a5a6460db5c791cef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700175,
+            "locality_id":1260024473,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1260024473,
+    "wof:lastmodified":1537618363,
+    "wof:name":"Vijagual",
+    "wof:parent_id":1108700175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21540999999998,
+    8.54898,
+    -74.21540999999998,
+    8.54898
+],
+  "geometry": {"coordinates":[-74.21540999999998,8.54898],"type":"Point"}
+}

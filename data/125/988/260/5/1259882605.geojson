@@ -1,0 +1,68 @@
+{
+  "id": 1259882605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66066,5.85178,-75.66066,5.85178",
+    "geom:latitude":5.85178,
+    "geom:longitude":-75.66066,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5282.0",
+    "gn:asciiname":"La Ardita",
+    "gn:country_code":"CO",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3780605,
+    "gn:latitude":5.85178,
+    "gn:longitude":-75.66066,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Ardita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3780605
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"723cecc421210e731b4c1de74eb6a2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699959,
+            "locality_id":1259882605,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1259882605,
+    "wof:lastmodified":1536780924,
+    "wof:name":"La Ardita",
+    "wof:parent_id":1108699959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66066,
+    5.85178,
+    -75.66066,
+    5.85178
+],
+  "geometry": {"coordinates":[-75.66065999999999,5.85178],"type":"Point"}
+}

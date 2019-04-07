@@ -1,0 +1,69 @@
+{
+  "id": 1292955301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28694,6.40667,-73.28694,6.40667",
+    "geom:latitude":6.40667,
+    "geom:longitude":-73.28694,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68524.0",
+    "gn:asciiname":"Palmas del Socorro",
+    "gn:country_code":"CO",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731933,
+    "gn:latitude":6.40667,
+    "gn:longitude":-73.28694,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Palmas del Socorro",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731933,
+        "wk:page":"Palmas_del_Socorro"
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cdedcb46d7dc484461b96008f9ab8de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701311,
+            "locality_id":1292955301,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1292955301,
+    "wof:lastmodified":1537503830,
+    "wof:name":"Palmas del Socorro",
+    "wof:parent_id":1108701311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28694,
+    6.40667,
+    -73.28694,
+    6.40667
+],
+  "geometry": {"coordinates":[-73.28694,6.40667],"type":"Point"}
+}

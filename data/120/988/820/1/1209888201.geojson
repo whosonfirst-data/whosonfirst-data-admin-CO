@@ -1,0 +1,71 @@
+{
+  "id": 1209888201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.67872,2.16705,-75.67872,2.16705",
+    "geom:latitude":2.16705,
+    "geom:longitude":-75.67872,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41298.0",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"CO",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3678677,
+    "gn:latitude":2.16705,
+    "gn:longitude":-75.67872,
+    "gn:modification_date":"2017-06-21",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "La Jagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3678677
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4842590d85ca31255e3b3b2e72e61436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700803,
+            "locality_id":1209888201,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1209888201,
+    "wof:lastmodified":1537618517,
+    "wof:name":"La Jagua",
+    "wof:parent_id":1108700803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.67872,
+    2.16705,
+    -75.67872,
+    2.16705
+],
+  "geometry": {"coordinates":[-75.67872,2.16705],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209489587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.03138,1.54119,-77.03138,1.54119",
+    "geom:latitude":1.54119,
+    "geom:longitude":-77.03138,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52685.0",
+    "gn:asciiname":"Villamaria La Vega",
+    "gn:country_code":"CO",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735392,
+    "gn:latitude":1.54119,
+    "gn:longitude":-77.03138,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Villamar\u00eda La Vega",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735392
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b0f967858d3e26608067c1df612f5258",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209489587
+        }
+    ],
+    "wof:id":1209489587,
+    "wof:lastmodified":1536285529,
+    "wof:name":"Villamaria La Vega",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.03138,
+    1.54119,
+    -77.03138,
+    1.54119
+],
+  "geometry": {"coordinates":[-77.03138,1.54119],"type":"Point"}
+}

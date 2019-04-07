@@ -1,0 +1,114 @@
+{
+  "id": 890441975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.35389,4.61889,-74.35389,4.61889",
+    "geom:latitude":4.61889,
+    "geom:longitude":-74.35389,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":1577,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u723e\u7279\u80af\u9054\u99ac"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d3\u10d4\u10da-\u10e2\u10d4\u10d9\u10d4\u10dc\u10d3\u10d0\u10db\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:may_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:nan_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:sco_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:tgl_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:vie_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:war_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "qs:name":"San Antonio del Tequendama",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":295,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        421187901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792404,
+        "gp:id":365237,
+        "qs:id":150324,
+        "wd:id":"Q1525530",
+        "wk:page":"San Antonio del Tequendama"
+    },
+    "wof:country":"CO",
+    "wof:created":1469052345,
+    "wof:geomhash":"320618ea9384f0ee8117f8e106d75b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187901,
+            "locality_id":890441975,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":890441975,
+    "wof:lastmodified":1527727235,
+    "wof:name":"San Antonio del Tequendama",
+    "wof:parent_id":421187901,
+    "wof:placetype":"locality",
+    "wof:population":1577,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.35389,
+    4.61889,
+    -74.35389,
+    4.61889
+],
+  "geometry": {"coordinates":[-74.35389000000001,4.61889],"type":"Point"}
+}

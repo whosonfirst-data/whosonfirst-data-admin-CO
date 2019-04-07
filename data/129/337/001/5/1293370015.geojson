@@ -1,0 +1,72 @@
+{
+  "id": 1293370015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.80653,9.30909,-75.80653,9.30909",
+    "geom:latitude":9.30909,
+    "geom:longitude":-75.80653,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23672.0",
+    "gn:asciiname":"Nuevo Agrado",
+    "gn:country_code":"CO",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673734,
+    "gn:latitude":9.30909,
+    "gn:longitude":-75.80653,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Nuevo Agrado",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Nuevo Aguado",
+        "Nuevo Agrado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421202521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673734
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7d0a69a6f90c394532ef6eb7ae5c2944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202521,
+            "locality_id":1293370015,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1293370015,
+    "wof:lastmodified":1537618449,
+    "wof:name":"Nuevo Agrado",
+    "wof:parent_id":421202521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.80653000000002,
+    9.30909,
+    -75.80653000000002,
+    9.30909
+],
+  "geometry": {"coordinates":[-75.80653000000002,9.30909],"type":"Point"}
+}

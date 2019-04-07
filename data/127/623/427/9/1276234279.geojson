@@ -1,0 +1,71 @@
+{
+  "id": 1276234279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.77375,7.02363,-71.77375,7.02363",
+    "geom:latitude":7.02363,
+    "geom:longitude":-71.77375,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81736.0",
+    "gn:asciiname":"El Charito",
+    "gn:country_code":"CO",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3760075,
+    "gn:latitude":7.02363,
+    "gn:longitude":-71.77375,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Charito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Charito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        1108701521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3760075
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"bc6648e297d586874986d5a3400b2368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701521,
+            "locality_id":1276234279,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276234279,
+    "wof:lastmodified":1537618687,
+    "wof:name":"El Charito",
+    "wof:parent_id":1108701521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.77375,
+    7.02363,
+    -71.77375,
+    7.02363
+],
+  "geometry": {"coordinates":[-71.77375000000001,7.02363],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193277089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.77917,6.86028,-70.77917,6.86028",
+    "geom:latitude":6.86028,
+    "geom:longitude":-70.77917,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Matepina",
+    "gn:country_code":"CO",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675045,
+    "gn:latitude":6.86028,
+    "gn:longitude":-70.77917,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Matepi\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675045
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"fd45a673cf2e2b046dcb33ccd0647a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1193277089,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1193277089,
+    "wof:lastmodified":1536365231,
+    "wof:name":"Matepina",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.77917,
+    6.86028,
+    -70.77917,
+    6.86028
+],
+  "geometry": {"coordinates":[-70.77916999999999,6.86028],"type":"Point"}
+}

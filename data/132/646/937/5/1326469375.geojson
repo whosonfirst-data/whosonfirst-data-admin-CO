@@ -1,0 +1,73 @@
+{
+  "id": 1326469375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.56667,4.95,-75.56667,4.95",
+    "geom:latitude":4.95,
+    "geom:longitude":-75.56667,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17873.0",
+    "gn:asciiname":"El Yarumo",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":2026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682704,
+    "gn:latitude":4.95,
+    "gn:longitude":-75.56667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Yarumo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yarumos",
+        "El Yarumo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155,
+        421170595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682704
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"100ce57352e78a00cb881e817f81cb65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170595,
+            "locality_id":1326469375,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":1326469375,
+    "wof:lastmodified":1537618562,
+    "wof:name":"El Yarumo",
+    "wof:parent_id":421170595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56667,
+    4.95,
+    -75.56667,
+    4.95
+],
+  "geometry": {"coordinates":[-75.56667,4.95],"type":"Point"}
+}

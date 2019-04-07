@@ -1,0 +1,68 @@
+{
+  "id": 1293490291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.63167,6.80528,-75.63167,6.80528",
+    "geom:latitude":6.80528,
+    "geom:longitude":-75.63167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5658.0",
+    "gn:asciiname":"Pedrito",
+    "gn:country_code":"CO",
+    "gn:dem":2679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787642,
+    "gn:latitude":6.80528,
+    "gn:longitude":-75.63167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pedrito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108700009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787642
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5907c3b97ac3e4240ec1a1e421c2f929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700009,
+            "locality_id":1293490291,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1293490291,
+    "wof:lastmodified":1536783485,
+    "wof:name":"Pedrito",
+    "wof:parent_id":1108700009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.63167,
+    6.80528,
+    -75.63167,
+    6.80528
+],
+  "geometry": {"coordinates":[-75.63167,6.80528],"type":"Point"}
+}

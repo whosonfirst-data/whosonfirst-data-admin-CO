@@ -1,0 +1,68 @@
+{
+  "id": 1243031541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.64124,11.85364,-71.64124,11.85364",
+    "geom:latitude":11.85364,
+    "geom:longitude":-71.64124,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44847.0",
+    "gn:asciiname":"Jurache",
+    "gn:country_code":"CO",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8463368,
+    "gn:latitude":11.85364,
+    "gn:longitude":-71.64124,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Jurache",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421187819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8463368
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c93fd6eddbb8bf8b379d37433e22ef12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421187819,
+            "locality_id":1243031541,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1243031541,
+    "wof:lastmodified":1536906988,
+    "wof:name":"Jurache",
+    "wof:parent_id":421187819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.64124,
+    11.85364,
+    -71.64124,
+    11.85364
+],
+  "geometry": {"coordinates":[-71.64124,11.85364],"type":"Point"}
+}

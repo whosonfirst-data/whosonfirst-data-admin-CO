@@ -1,0 +1,71 @@
+{
+  "id": 1310362091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.19577,7.24896,-73.19577,7.24896",
+    "geom:latitude":7.24896,
+    "geom:longitude":-73.19577,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"Los Vados",
+    "gn:country_code":"CO",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8182955,
+    "gn:latitude":7.24896,
+    "gn:longitude":-73.19577,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Vados",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Vados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8182955
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"4c8d832c1d7cc921ae209c0a8b700f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701327,
+            "locality_id":1310362091,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1310362091,
+    "wof:lastmodified":1537618757,
+    "wof:name":"Los Vados",
+    "wof:parent_id":1108701327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.19577,
+    7.24896,
+    -73.19577,
+    7.24896
+],
+  "geometry": {"coordinates":[-73.19577,7.24896],"type":"Point"}
+}

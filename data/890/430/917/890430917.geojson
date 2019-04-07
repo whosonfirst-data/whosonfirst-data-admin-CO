@@ -1,0 +1,132 @@
+{
+  "id": 890430917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.87877,5.6561,-75.87877,5.6561",
+    "geom:latitude":5.6561,
+    "geom:longitude":-75.87877,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":16419,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u7b2c\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Andes"
+    ],
+    "name:eng_x_preferred":[
+        "Andes"
+    ],
+    "name:fre_x_preferred":[
+        "Andes"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10dc\u10d3\u10d4\u10e1\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Andes"
+    ],
+    "name:gla_x_preferred":[
+        "Andes"
+    ],
+    "name:gle_x_preferred":[
+        "Andes"
+    ],
+    "name:ile_x_preferred":[
+        "Andes"
+    ],
+    "name:ita_x_preferred":[
+        "Andes"
+    ],
+    "name:may_x_preferred":[
+        "Andes"
+    ],
+    "name:nan_x_preferred":[
+        "Andes"
+    ],
+    "name:per_x_preferred":[
+        "\u0622\u0646\u062f\u0633"
+    ],
+    "name:por_x_preferred":[
+        "Andes"
+    ],
+    "name:rum_x_preferred":[
+        "Andes"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0434\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Andes"
+    ],
+    "name:swe_x_preferred":[
+        "Andes"
+    ],
+    "name:tgl_x_preferred":[
+        "Andes"
+    ],
+    "name:unk_x_variant":[
+        "Andes"
+    ],
+    "name:war_x_preferred":[
+        "Andes"
+    ],
+    "qs:name":"Los Andes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":89,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689899,
+        "gp:id":368256,
+        "qs:id":150160,
+        "wd:id":"Q267585",
+        "wk:page":"Los Andes"
+    },
+    "wof:country":"CO",
+    "wof:created":1469051871,
+    "wof:geomhash":"09d009e19832d525c70649f4ed693258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188613,
+            "locality_id":890430917,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":890430917,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Los Andes",
+    "wof:parent_id":421188613,
+    "wof:placetype":"locality",
+    "wof:population":16419,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.87877,
+    5.6561,
+    -75.87877,
+    5.6561
+],
+  "geometry": {"coordinates":[-75.87877,5.6561],"type":"Point"}
+}

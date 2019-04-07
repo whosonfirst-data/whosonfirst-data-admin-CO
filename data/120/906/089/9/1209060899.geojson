@@ -1,0 +1,62 @@
+{
+  "id": 1209060899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.44972,6.26417,-74.44972,6.26417",
+    "geom:latitude":6.26417,
+    "geom:longitude":-74.44972,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68190.0",
+    "gn:asciiname":"Aguanegra",
+    "gn:country_code":"CO",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3771541,
+    "gn:latitude":6.26417,
+    "gn:longitude":-74.44972,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Aguanegra",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3771541
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c811286eccd7253b6b190c02a175f907",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209060899
+        }
+    ],
+    "wof:id":1209060899,
+    "wof:lastmodified":1536298957,
+    "wof:name":"Aguanegra",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.44972,
+    6.26417,
+    -74.44972,
+    6.26417
+],
+  "geometry": {"coordinates":[-74.44972,6.26417],"type":"Point"}
+}

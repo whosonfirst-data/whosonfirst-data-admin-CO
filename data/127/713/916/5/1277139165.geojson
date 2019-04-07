@@ -1,0 +1,72 @@
+{
+  "id": 1277139165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.94904,3.45598,-73.94904,3.45598",
+    "geom:latitude":3.45598,
+    "geom:longitude":-73.94904,
+    "gn:admin1_code":"19",
+    "gn:admin2_code":"50683.0",
+    "gn:asciiname":"Caserio Guayabal",
+    "gn:country_code":"CO",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681338,
+    "gn:latitude":3.45598,
+    "gn:longitude":-73.94904,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Caser\u00edo Guayabal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guayaval",
+        "Caser\u00edo Guayabal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681338
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3126db6d03adacc07df08d75fa2d3f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700959,
+            "locality_id":1277139165,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1277139165,
+    "wof:lastmodified":1537618549,
+    "wof:name":"Caserio Guayabal",
+    "wof:parent_id":1108700959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.94904,
+    3.45598,
+    -73.94904,
+    3.45598
+],
+  "geometry": {"coordinates":[-73.94904,3.45598],"type":"Point"}
+}

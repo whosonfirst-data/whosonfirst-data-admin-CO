@@ -1,0 +1,68 @@
+{
+  "id": 1292977717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.30028,8.80667,-76.30028,8.80667",
+    "geom:latitude":8.80667,
+    "geom:longitude":-76.30028,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23419.0",
+    "gn:asciiname":"Manuel Pastrana",
+    "gn:country_code":"CO",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3779579,
+    "gn:latitude":8.80667,
+    "gn:longitude":-76.30028,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Manuel Pastrana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3779579
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad499aa980d2c4e83cc95744b0bbaf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700581,
+            "locality_id":1292977717,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1292977717,
+    "wof:lastmodified":1537023907,
+    "wof:name":"Manuel Pastrana",
+    "wof:parent_id":1108700581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.30028,
+    8.80667,
+    -76.30028,
+    8.80667
+],
+  "geometry": {"coordinates":[-76.30028,8.80667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276178793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.99667,5.88472,-73.99667,5.88472",
+    "geom:latitude":5.88472,
+    "geom:longitude":-73.99667,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68377.0",
+    "gn:asciiname":"La Elida",
+    "gn:country_code":"CO",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3776633,
+    "gn:latitude":5.88472,
+    "gn:longitude":-73.99667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Elida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3776633
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"140cd41418e4b2c3631f4555a3a4b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701281,
+            "locality_id":1276178793,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1276178793,
+    "wof:lastmodified":1536985253,
+    "wof:name":"La Elida",
+    "wof:parent_id":1108701281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.99667,
+    5.88472,
+    -73.99667,
+    5.88472
+],
+  "geometry": {"coordinates":[-73.99666999999999,5.88472],"type":"Point"}
+}

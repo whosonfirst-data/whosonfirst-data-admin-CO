@@ -1,0 +1,62 @@
+{
+  "id": 1209503463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33804,10.8016,-73.33804,10.8016",
+    "geom:latitude":10.8016,
+    "geom:longitude":-73.33804,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Pozo de Humo",
+    "gn:country_code":"CO",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671784,
+    "gn:latitude":10.8016,
+    "gn:longitude":-73.33804,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pozo de Humo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671784
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e664d9d808d72e80e665eb221d9f6739",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209503463
+        }
+    ],
+    "wof:id":1209503463,
+    "wof:lastmodified":1536285108,
+    "wof:name":"Pozo de Humo",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33804,
+    10.8016,
+    -73.33804,
+    10.8016
+],
+  "geometry": {"coordinates":[-73.33804000000001,10.8016],"type":"Point"}
+}

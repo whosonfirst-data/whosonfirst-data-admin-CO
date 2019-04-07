@@ -1,0 +1,69 @@
+{
+  "id": 1260133379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03904,4.77536,-74.03904,4.77536",
+    "geom:latitude":4.77536,
+    "geom:longitude":-74.03904,
+    "gn:admin1_code":"34.0",
+    "gn:admin2_code":"11001.0",
+    "gn:admin3_code":"1.0",
+    "gn:asciiname":"Jardines del Recuerdo",
+    "gn:country_code":"CO",
+    "gn:dem":2551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181831,
+    "gn:latitude":4.77536,
+    "gn:longitude":-74.03904,
+    "gn:modification_date":"2016-12-18",
+    "gn:name":"Jardines del Recuerdo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670165,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181831
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"cf150c4737ddc36631dcd8b52bc698b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":1260133379,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":1260133379,
+    "wof:lastmodified":1536917006,
+    "wof:name":"Jardines del Recuerdo",
+    "wof:parent_id":1108700089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03904,
+    4.77536,
+    -74.03904,
+    4.77536
+],
+  "geometry": {"coordinates":[-74.03904,4.77536],"type":"Point"}
+}

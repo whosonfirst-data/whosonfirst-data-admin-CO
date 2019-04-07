@@ -1,0 +1,68 @@
+{
+  "id": 1209988537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.4925,3.26861,-75.4925,3.26861",
+    "geom:latitude":3.26861,
+    "geom:longitude":-75.4925,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41016.0",
+    "gn:asciiname":"Praga",
+    "gn:country_code":"CO",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671761,
+    "gn:latitude":3.26861,
+    "gn:longitude":-75.4925,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Praga",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671761
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"41ff554f3d1820269f5daba2fc779f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700799,
+            "locality_id":1209988537,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1209988537,
+    "wof:lastmodified":1536387486,
+    "wof:name":"Praga",
+    "wof:parent_id":1108700799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.4925,
+    3.26861,
+    -75.4925,
+    3.26861
+],
+  "geometry": {"coordinates":[-75.49250000000001,3.26861],"type":"Point"}
+}

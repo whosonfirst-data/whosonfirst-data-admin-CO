@@ -1,0 +1,68 @@
+{
+  "id": 1242926503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.30261,10.34919,-75.30261,10.34919",
+    "geom:latitude":10.34919,
+    "geom:longitude":-75.30261,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13836.0",
+    "gn:asciiname":"Chiquita",
+    "gn:country_code":"CO",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686508,
+    "gn:latitude":10.34919,
+    "gn:longitude":-75.30261,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chiquita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421199647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686508
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c23641ca29f297c71ea46f872e8511b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421199647,
+            "locality_id":1242926503,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1242926503,
+    "wof:lastmodified":1537055876,
+    "wof:name":"Chiquita",
+    "wof:parent_id":421199647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.30261,
+    10.34919,
+    -75.30261,
+    10.34919
+],
+  "geometry": {"coordinates":[-75.30261,10.34919],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226489627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.2,3.36667,-75.2,3.36667",
+    "geom:latitude":3.36667,
+    "geom:longitude":-75.2,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Ovejas",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673456,
+    "gn:latitude":3.36667,
+    "gn:longitude":-75.2,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ovejas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovejaras",
+        "Ovejas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673456
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"405aedfc6901e59b89167de2df275f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700799,
+            "locality_id":1226489627,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1226489627,
+    "wof:lastmodified":1537618446,
+    "wof:name":"Ovejas",
+    "wof:parent_id":1108700799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.2,
+    3.36667,
+    -75.2,
+    3.36667
+],
+  "geometry": {"coordinates":[-75.2,3.36667],"type":"Point"}
+}

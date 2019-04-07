@@ -1,0 +1,68 @@
+{
+  "id": 1209970657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6,4.65,-74.6,4.65",
+    "geom:latitude":4.65,
+    "geom:longitude":-74.6,
+    "gn:admin1_code":"33",
+    "gn:admin2_code":"25596.0",
+    "gn:asciiname":"La Quipilena",
+    "gn:country_code":"CO",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3677925,
+    "gn:latitude":4.65,
+    "gn:longitude":-74.6,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Quipile\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677925
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"edb6e0a56f7d88126bda17eacf10dd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700705,
+            "locality_id":1209970657,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1209970657,
+    "wof:lastmodified":1536395186,
+    "wof:name":"La Quipilena",
+    "wof:parent_id":1108700705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6,
+    4.65,
+    -74.6,
+    4.65
+],
+  "geometry": {"coordinates":[-74.59999999999999,4.65],"type":"Point"}
+}

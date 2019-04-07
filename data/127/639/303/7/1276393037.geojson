@@ -1,0 +1,68 @@
+{
+  "id": 1276393037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.05225,9.06553,-75.05225,9.06553",
+    "geom:latitude":9.06553,
+    "geom:longitude":-75.05225,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70233.0",
+    "gn:asciiname":"Tierra Santa",
+    "gn:country_code":"CO",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667142,
+    "gn:latitude":9.06553,
+    "gn:longitude":-75.05225,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tierra Santa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3667142
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"190833a79d42c8106a988dd9fa8e4be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701391,
+            "locality_id":1276393037,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1276393037,
+    "wof:lastmodified":1536698934,
+    "wof:name":"Tierra Santa",
+    "wof:parent_id":1108701391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.05225,
+    9.06553,
+    -75.05225,
+    9.06553
+],
+  "geometry": {"coordinates":[-75.05225,9.06553],"type":"Point"}
+}

@@ -1,0 +1,157 @@
+{
+  "id": 421197767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74723,9.66057,-73.74723,9.66057",
+    "geom:latitude":9.66057,
+    "geom:longitude":-73.74723,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Paso"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5e15\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "El Paso"
+    ],
+    "name:eng_x_preferred":[
+        "El Paso"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u067e\u0627\u0633\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Paso"
+    ],
+    "name:fre_x_preferred":[
+        "El Paso"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d4\u10da-\u10de\u10d0\u10e1\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "El Paso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d1\u30bd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10de\u10d0\u10e1\u10dd"
+    ],
+    "name:may_x_preferred":[
+        "El Paso"
+    ],
+    "name:msa_x_preferred":[
+        "El Paso"
+    ],
+    "name:nan_x_preferred":[
+        "El Paso"
+    ],
+    "name:nld_x_preferred":[
+        "El Paso"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644 \u067e\u0627\u0633\u0648"
+    ],
+    "name:por_x_preferred":[
+        "El Paso"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041f\u0430\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Paso"
+    ],
+    "name:swe_x_preferred":[
+        "El Paso"
+    ],
+    "name:tgl_x_preferred":[
+        "El Paso"
+    ],
+    "name:unk_x_variant":[
+        "Corregimiento El Paso"
+    ],
+    "name:war_x_preferred":[
+        "El Paso"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "El Paso"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5e15\u7d22"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3683538,
+    "qs:gn_pop":6367,
+    "qs:name":"El Paso",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cesar",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":150129,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368892,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":398,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        1108700537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683538,
+        "gp:id":368892,
+        "qs:id":150129,
+        "wd:id":"Q1441955",
+        "wk:page":"El Paso, Cesar"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009924,
+    "wof:geomhash":"43a6c4649f50f9f116a762f116d71cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700537,
+            "locality_id":421197767,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":421197767,
+    "wof:lastmodified":1553816385,
+    "wof:name":"El Paso",
+    "wof:parent_id":1108700537,
+    "wof:placetype":"locality",
+    "wof:population":6367,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74723,
+    9.66057,
+    -73.74723,
+    9.66057
+],
+  "geometry": {"coordinates":[-73.74723,9.66057],"type":"Point"}
+}

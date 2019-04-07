@@ -1,0 +1,68 @@
+{
+  "id": 1243431285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.53526,8.88996,-75.53526,8.88996",
+    "geom:latitude":8.88996,
+    "geom:longitude":-75.53526,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23660.0",
+    "gn:asciiname":"Floridablanca",
+    "gn:country_code":"CO",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3783205,
+    "gn:latitude":8.88996,
+    "gn:longitude":-75.53526,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Floridablanca",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3783205
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"104094170abe1d574177576455249cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700599,
+            "locality_id":1243431285,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1243431285,
+    "wof:lastmodified":1536826463,
+    "wof:name":"Floridablanca",
+    "wof:parent_id":1108700599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.53526,
+    8.88996,
+    -75.53526,
+    8.88996
+],
+  "geometry": {"coordinates":[-75.53525999999999,8.88996],"type":"Point"}
+}

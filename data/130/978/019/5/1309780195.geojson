@@ -1,0 +1,72 @@
+{
+  "id": 1309780195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.27905,1.55738,-77.27905,1.55738",
+    "geom:latitude":1.55738,
+    "geom:longitude":-77.27905,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52786.0",
+    "gn:asciiname":"Paramo",
+    "gn:country_code":"CO",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3735688,
+    "gn:latitude":1.55738,
+    "gn:longitude":-77.27905,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"P\u00e1ramo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El P\u00e1ramo",
+        "P\u00e1ramo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        421205097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3735688
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d563eb317f8b83bbb6e080533338824e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205097,
+            "locality_id":1309780195,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1309780195,
+    "wof:lastmodified":1537618674,
+    "wof:name":"Paramo",
+    "wof:parent_id":421205097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.27905,
+    1.55738,
+    -77.27905,
+    1.55738
+],
+  "geometry": {"coordinates":[-77.27905,1.55738],"type":"Point"}
+}

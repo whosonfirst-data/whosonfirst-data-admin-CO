@@ -1,0 +1,68 @@
+{
+  "id": 1260293239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93417,6.69056,-75.93417,6.69056",
+    "geom:latitude":6.69056,
+    "geom:longitude":-75.93417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5306.0",
+    "gn:asciiname":"Tinajita",
+    "gn:country_code":"CO",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787859,
+    "gn:latitude":6.69056,
+    "gn:longitude":-75.93417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tinajita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421170563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787859
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"80d09b44eef7e8e05c20e7ac0313d042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170563,
+            "locality_id":1260293239,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1260293239,
+    "wof:lastmodified":1536699007,
+    "wof:name":"Tinajita",
+    "wof:parent_id":421170563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93417,
+    6.69056,
+    -75.93417,
+    6.69056
+],
+  "geometry": {"coordinates":[-75.93416999999999,6.69056],"type":"Point"}
+}

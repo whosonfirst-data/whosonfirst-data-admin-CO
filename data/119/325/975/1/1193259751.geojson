@@ -1,0 +1,68 @@
+{
+  "id": 1193259751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.93528,2.21361,-75.93528,2.21361",
+    "geom:latitude":2.21361,
+    "geom:longitude":-75.93528,
+    "gn:admin1_code":"16.0",
+    "gn:admin2_code":"41378.0",
+    "gn:asciiname":"El Altico",
+    "gn:country_code":"CO",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3792517,
+    "gn:latitude":2.21361,
+    "gn:longitude":-75.93528,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Altico",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3792517
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"f66cda6ab0057b5376ec2605eb91aee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700821,
+            "locality_id":1193259751,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1193259751,
+    "wof:lastmodified":1536382160,
+    "wof:name":"El Altico",
+    "wof:parent_id":1108700821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.93528,
+    2.21361,
+    -75.93528,
+    2.21361
+],
+  "geometry": {"coordinates":[-75.93528000000001,2.21361],"type":"Point"}
+}

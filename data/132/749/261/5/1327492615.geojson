@@ -1,0 +1,68 @@
+{
+  "id": 1327492615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80097,4.65878,-72.80097,4.65878",
+    "geom:latitude":4.65878,
+    "geom:longitude":-72.80097,
+    "gn:admin1_code":"32",
+    "gn:admin2_code":"85440.0",
+    "gn:asciiname":"Chocolama",
+    "gn:country_code":"CO",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3686424,
+    "gn:latitude":4.65878,
+    "gn:longitude":-72.80097,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Chocolama",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670241,
+        1108701557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3686424
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"a93f80e0ca789645a09e03ade8b1e3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701557,
+            "locality_id":1327492615,
+            "region_id":85670241
+        }
+    ],
+    "wof:id":1327492615,
+    "wof:lastmodified":1537088495,
+    "wof:name":"Chocolama",
+    "wof:parent_id":1108701557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80096999999998,
+    4.65878,
+    -72.80096999999998,
+    4.65878
+],
+  "geometry": {"coordinates":[-72.80096999999998,4.65878],"type":"Point"}
+}

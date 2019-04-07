@@ -1,0 +1,68 @@
+{
+  "id": 1259427007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43755,5.60837,-72.43755,5.60837",
+    "geom:latitude":5.60837,
+    "geom:longitude":-72.43755,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15533.0",
+    "gn:asciiname":"El Porvenir",
+    "gn:country_code":"CO",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3683393,
+    "gn:latitude":5.60837,
+    "gn:longitude":-72.43755,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"El Porvenir",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3683393
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"98972c67f3f27b9fadf841945a05487e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700295,
+            "locality_id":1259427007,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1259427007,
+    "wof:lastmodified":1536940614,
+    "wof:name":"El Porvenir",
+    "wof:parent_id":1108700295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43755,
+    5.60837,
+    -72.43755,
+    5.60837
+],
+  "geometry": {"coordinates":[-72.43755,5.60837],"type":"Point"}
+}

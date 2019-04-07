@@ -1,0 +1,151 @@
+{
+  "id": 421173511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.05734,6.65149,-74.05734,6.65149",
+    "geom:latitude":6.65149,
+    "geom:longitude":-74.05734,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e15\u62c9\u6e2f"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:fra_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:geo_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10de\u10d0\u10e0\u10d0"
+    ],
+    "name:ger_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10de\u10d0\u10e0\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:msa_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:nan_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:nld_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:tgl_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Parra"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Puerto Parra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u6e2f"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3671371,
+    "qs:gn_pop":1448,
+    "qs:name":"Puerto Carare",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":289652,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":420010,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671371,
+        "gp:id":420010,
+        "qs:id":289652,
+        "wd:id":"Q1575386",
+        "wk:page":"Puerto Parra"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008985,
+    "wof:geomhash":"91201b4ab2fd22723cabba400989f116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701323,
+            "locality_id":421173511,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":421173511,
+    "wof:lastmodified":1527716257,
+    "wof:name":"Puerto Carare",
+    "wof:parent_id":1108701323,
+    "wof:placetype":"locality",
+    "wof:population":1448,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.05734,
+    6.65149,
+    -74.05734,
+    6.65149
+],
+  "geometry": {"coordinates":[-74.05734,6.65149],"type":"Point"}
+}

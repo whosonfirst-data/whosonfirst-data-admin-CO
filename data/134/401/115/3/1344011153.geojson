@@ -1,0 +1,68 @@
+{
+  "id": 1344011153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.22638,10.27488,-75.22638,10.27488",
+    "geom:latitude":10.27488,
+    "geom:longitude":-75.22638,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13433.0",
+    "gn:asciiname":"Mata de Cana",
+    "gn:country_code":"CO",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3830826,
+    "gn:latitude":10.27488,
+    "gn:longitude":-75.22638,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mata de Ca\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830826
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"78cd538e44033313f70c3b2c58a2a1fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700125,
+            "locality_id":1344011153,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1344011153,
+    "wof:lastmodified":1536947328,
+    "wof:name":"Mata de Cana",
+    "wof:parent_id":1108700125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.22638,
+    10.27488,
+    -75.22638,
+    10.27488
+],
+  "geometry": {"coordinates":[-75.22638000000001,10.27488],"type":"Point"}
+}

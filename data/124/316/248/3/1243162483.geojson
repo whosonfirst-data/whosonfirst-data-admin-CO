@@ -1,0 +1,74 @@
+{
+  "id": 1243162483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.1106,1.34571,-75.1106,1.34571",
+    "geom:latitude":1.34571,
+    "geom:longitude":-75.1106,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18150.0",
+    "gn:asciiname":"Bolivia",
+    "gn:country_code":"CO",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6977494,
+    "gn:latitude":1.34571,
+    "gn:longitude":-75.1106,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Bolivia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Bolivia"
+    ],
+    "name:und_x_variant":[
+        "Inspecci\u00f3n de Polic\u00eda Bolivia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        1108700411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6977494
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c3b633a4e01e3c7f0b78a68c3a650c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700411,
+            "locality_id":1243162483,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1243162483,
+    "wof:lastmodified":1537618706,
+    "wof:name":"Bolivia",
+    "wof:parent_id":1108700411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.1106,
+    1.34571,
+    -75.1106,
+    1.34571
+],
+  "geometry": {"coordinates":[-75.11060000000001,1.34571],"type":"Point"}
+}

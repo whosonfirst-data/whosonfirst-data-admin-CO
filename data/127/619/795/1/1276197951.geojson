@@ -1,0 +1,71 @@
+{
+  "id": 1276197951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.07067,2.92211,-75.07067,2.92211",
+    "geom:latitude":2.92211,
+    "geom:longitude":-75.07067,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41001",
+    "gn:asciiname":"Las Juntas",
+    "gn:country_code":"CO",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10356639,
+    "gn:latitude":2.92211,
+    "gn:longitude":-75.07067,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Las Juntas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Juntas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421167923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10356639
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"94da6eb09e9bb0c6beda184cdb425766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421167923,
+            "locality_id":1276197951,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1276197951,
+    "wof:lastmodified":1537618840,
+    "wof:name":"Las Juntas",
+    "wof:parent_id":421167923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.07066999999998,
+    2.92211,
+    -75.07066999999998,
+    2.92211
+],
+  "geometry": {"coordinates":[-75.07066999999998,2.92211],"type":"Point"}
+}

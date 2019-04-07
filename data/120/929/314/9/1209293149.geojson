@@ -1,0 +1,61 @@
+{
+  "id": 1209293149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88047,8.48874,-73.88047,8.48874",
+    "geom:latitude":8.48874,
+    "geom:longitude":-73.88047,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Camoera",
+    "gn:country_code":"CO",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016040,
+    "gn:latitude":8.48874,
+    "gn:longitude":-73.88047,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"La Camoera",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016040
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ab5edd1b93d60fe7258a567ceda7d0d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209293149
+        }
+    ],
+    "wof:id":1209293149,
+    "wof:lastmodified":1536291623,
+    "wof:name":"La Camoera",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88046999999997,
+    8.48874,
+    -73.88046999999997,
+    8.48874
+],
+  "geometry": {"coordinates":[-73.88046999999997,8.48874],"type":"Point"}
+}

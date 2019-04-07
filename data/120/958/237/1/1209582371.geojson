@@ -1,0 +1,62 @@
+{
+  "id": 1209582371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16333,7.33972,-73.16333,7.33972",
+    "geom:latitude":7.33972,
+    "geom:longitude":-73.16333,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"Cuchillas",
+    "gn:country_code":"CO",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732237,
+    "gn:latitude":7.33972,
+    "gn:longitude":-73.16333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Cuchillas",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732237
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"db6173cedbe0ca60043ee297c70bae53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209582371
+        }
+    ],
+    "wof:id":1209582371,
+    "wof:lastmodified":1536282748,
+    "wof:name":"Cuchillas",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16333,
+    7.33972,
+    -73.16333,
+    7.33972
+],
+  "geometry": {"coordinates":[-73.16333,7.33972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243238169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66395,4.0581,-73.66395,4.0581",
+    "geom:latitude":4.0581,
+    "geom:longitude":-73.66395,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50001.0",
+    "gn:asciiname":"Charrascal",
+    "gn:country_code":"CO",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7526625,
+    "gn:latitude":4.0581,
+    "gn:longitude":-73.66395,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Charrascal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Charrascal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        421170631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7526625
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"278123e671eeee0e913b271296da0ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170631,
+            "locality_id":1243238169,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1243238169,
+    "wof:lastmodified":1537618722,
+    "wof:name":"Charrascal",
+    "wof:parent_id":421170631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66395,
+    4.0581,
+    -73.66395,
+    4.0581
+],
+  "geometry": {"coordinates":[-73.66395,4.0581],"type":"Point"}
+}

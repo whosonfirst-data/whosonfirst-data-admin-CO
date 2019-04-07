@@ -1,0 +1,68 @@
+{
+  "id": 1243015781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.13242,8.64465,-75.13242,8.64465",
+    "geom:latitude":8.64465,
+    "geom:longitude":-75.13242,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70708.0",
+    "gn:asciiname":"Formosa",
+    "gn:country_code":"CO",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3682368,
+    "gn:latitude":8.64465,
+    "gn:longitude":-75.13242,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Formosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3682368
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"24083c4b9a5b837c798dafedc4be07fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701415,
+            "locality_id":1243015781,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1243015781,
+    "wof:lastmodified":1536930091,
+    "wof:name":"Formosa",
+    "wof:parent_id":1108701415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.13242,
+    8.64465,
+    -75.13242,
+    8.64465
+],
+  "geometry": {"coordinates":[-75.13242,8.64465],"type":"Point"}
+}

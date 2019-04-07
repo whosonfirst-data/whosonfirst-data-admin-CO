@@ -1,0 +1,73 @@
+{
+  "id": 1226686577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,6.73333,-72.33333,6.73333",
+    "geom:latitude":6.73333,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15180.0",
+    "gn:asciiname":"Mendez",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":3657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674862,
+    "gn:latitude":6.73333,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"M\u00e9ndez",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mendes",
+        "M\u00e9ndez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674862
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"e072f9c127561b4ec2b32db90a3b9cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700211,
+            "locality_id":1226686577,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1226686577,
+    "wof:lastmodified":1537618459,
+    "wof:name":"Mendez",
+    "wof:parent_id":1108700211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    6.73333,
+    -72.33333,
+    6.73333
+],
+  "geometry": {"coordinates":[-72.33333,6.73333],"type":"Point"}
+}

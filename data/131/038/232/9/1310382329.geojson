@@ -1,0 +1,72 @@
+{
+  "id": 1310382329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.85081,9.33722,-75.85081,9.33722",
+    "geom:latitude":9.33722,
+    "geom:longitude":-75.85081,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23672.0",
+    "gn:asciiname":"Puerto de Soledad",
+    "gn:country_code":"CO",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3671480,
+    "gn:latitude":9.33722,
+    "gn:longitude":-75.85081,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto de Soledad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soledad",
+        "Puerto de Soledad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        421202521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3671480
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7eeffeb64d1487669af99f6724759c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421202521,
+            "locality_id":1310382329,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1310382329,
+    "wof:lastmodified":1537618422,
+    "wof:name":"Puerto de Soledad",
+    "wof:parent_id":421202521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.85081,
+    9.33722,
+    -75.85081,
+    9.33722
+],
+  "geometry": {"coordinates":[-75.85081,9.33722],"type":"Point"}
+}

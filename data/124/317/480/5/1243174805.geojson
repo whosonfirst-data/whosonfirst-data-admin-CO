@@ -1,0 +1,68 @@
+{
+  "id": 1243174805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.92278,6.70972,-75.92278,6.70972",
+    "geom:latitude":6.70972,
+    "geom:longitude":-75.92278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5113.0",
+    "gn:asciiname":"Araos",
+    "gn:country_code":"CO",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3786673,
+    "gn:latitude":6.70972,
+    "gn:longitude":-75.92278,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Araos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3786673
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"63cacd4b27192c69d30bd8f231d21752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699933,
+            "locality_id":1243174805,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1243174805,
+    "wof:lastmodified":1536700462,
+    "wof:name":"Araos",
+    "wof:parent_id":1108699933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.92278,
+    6.70972,
+    -75.92278,
+    6.70972
+],
+  "geometry": {"coordinates":[-75.92278,6.70972],"type":"Point"}
+}

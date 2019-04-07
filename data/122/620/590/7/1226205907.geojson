@@ -1,0 +1,68 @@
+{
+  "id": 1226205907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25611,11.43167,-72.25611,11.43167",
+    "geom:latitude":11.43167,
+    "geom:longitude":-72.25611,
+    "gn:admin1_code":"17.0",
+    "gn:admin2_code":"44430.0",
+    "gn:asciiname":"Pasimahana",
+    "gn:country_code":"CO",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672809,
+    "gn:latitude":11.43167,
+    "gn:longitude":-72.25611,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pasimahana",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670147,
+        421170625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672809
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0e69dc38d485e1daef4c42c7733ba698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170625,
+            "locality_id":1226205907,
+            "region_id":85670147
+        }
+    ],
+    "wof:id":1226205907,
+    "wof:lastmodified":1536990343,
+    "wof:name":"Pasimahana",
+    "wof:parent_id":421170625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25610999999998,
+    11.43167,
+    -72.25610999999998,
+    11.43167
+],
+  "geometry": {"coordinates":[-72.25610999999998,11.43167],"type":"Point"}
+}

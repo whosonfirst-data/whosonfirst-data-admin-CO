@@ -1,0 +1,154 @@
+{
+  "id": 421173385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37972,4.97083,-73.37972,4.97083",
+    "geom:latitude":4.97083,
+    "geom:longitude":-73.37972,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Almeida"
+    ],
+    "name:ceb_x_preferred":[
+        "Almeida"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u723e\u6885\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Almeida"
+    ],
+    "name:eng_x_preferred":[
+        "Almeida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0645\u06cc\u062f\u0627\u060c \u0628\u0648\u06cc\u0627\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Almeida"
+    ],
+    "name:fre_x_preferred":[
+        "Almeida"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d0\u10da\u10db\u10d4\u10d8\u10d3\u10d0"
+    ],
+    "name:glg_x_preferred":[
+        "Almeida"
+    ],
+    "name:ita_x_preferred":[
+        "Almeida"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10db\u10d4\u10d8\u10d3\u10d0"
+    ],
+    "name:may_x_preferred":[
+        "Almeida"
+    ],
+    "name:msa_x_preferred":[
+        "Almeida"
+    ],
+    "name:nan_x_preferred":[
+        "Almeida"
+    ],
+    "name:nld_x_preferred":[
+        "Almeida"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0645\u06cc\u062f\u0627\u060c \u0628\u0648\u06cc\u0627\u06a9\u0627"
+    ],
+    "name:por_x_preferred":[
+        "Almeida"
+    ],
+    "name:spa_x_preferred":[
+        "Almeida"
+    ],
+    "name:swe_x_preferred":[
+        "Almeida"
+    ],
+    "name:tgl_x_preferred":[
+        "Almeida"
+    ],
+    "name:unk_x_variant":[
+        "C\u00f3digo Municipio 15022"
+    ],
+    "name:vie_x_preferred":[
+        "Almeida"
+    ],
+    "name:war_x_preferred":[
+        "Almeida"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3690134,
+    "qs:gn_pop":754,
+    "qs:name":"Almeida",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Boyaca",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":288037,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":350660,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690134,
+        "gp:id":350660,
+        "qs:id":288037,
+        "wd:id":"Q1656170",
+        "wk:page":"Almeida, Boyac\u00e1"
+    },
+    "wof:country":"CO",
+    "wof:created":1459008980,
+    "wof:geomhash":"19ec84519966200dcbd399e8f9d4aa45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700185,
+            "locality_id":421173385,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":421173385,
+    "wof:lastmodified":1527716257,
+    "wof:name":"Almeida",
+    "wof:parent_id":1108700185,
+    "wof:placetype":"locality",
+    "wof:population":754,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37972,
+    4.97083,
+    -73.37972,
+    4.97083
+],
+  "geometry": {"coordinates":[-73.37972000000001,4.97083],"type":"Point"}
+}

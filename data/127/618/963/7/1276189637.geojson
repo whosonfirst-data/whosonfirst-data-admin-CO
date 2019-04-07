@@ -1,0 +1,73 @@
+{
+  "id": 1276189637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.56847,1.18453,-77.56847,1.18453",
+    "geom:latitude":1.18453,
+    "geom:longitude":-77.56847,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52320.0",
+    "gn:asciiname":"Ahumada Grande",
+    "gn:country_code":"CO",
+    "gn:dem":3232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3690292,
+    "gn:latitude":1.18453,
+    "gn:longitude":-77.56847,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ahumada Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Victoria",
+        "Ahumada Grande",
+        "Ahumada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3690292
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"300f327ca1e072d8e0c28b216001b08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701011,
+            "locality_id":1276189637,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1276189637,
+    "wof:lastmodified":1537618664,
+    "wof:name":"Ahumada Grande",
+    "wof:parent_id":1108701011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.56846999999998,
+    1.18453,
+    -77.56846999999998,
+    1.18453
+],
+  "geometry": {"coordinates":[-77.56846999999998,1.18453],"type":"Point"}
+}

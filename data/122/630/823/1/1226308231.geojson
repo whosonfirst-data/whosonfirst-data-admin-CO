@@ -1,0 +1,71 @@
+{
+  "id": 1226308231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.257,2.975,-73.257,2.975",
+    "geom:latitude":2.975,
+    "geom:longitude":-73.257,
+    "gn:admin1_code":"19.0",
+    "gn:admin2_code":"50590.0",
+    "gn:asciiname":"Altamira",
+    "gn:country_code":"CO",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8561328,
+    "gn:latitude":2.975,
+    "gn:longitude":-73.257,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Altamira",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Altamira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670255,
+        1108700953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8561328
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8d497d8442cb0c4ac1398a9ee5f8d81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700953,
+            "locality_id":1226308231,
+            "region_id":85670255
+        }
+    ],
+    "wof:id":1226308231,
+    "wof:lastmodified":1537618782,
+    "wof:name":"Altamira",
+    "wof:parent_id":1108700953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.257,
+    2.975,
+    -73.257,
+    2.975
+],
+  "geometry": {"coordinates":[-73.25700000000001,2.975],"type":"Point"}
+}

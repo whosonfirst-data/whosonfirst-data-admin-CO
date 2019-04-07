@@ -1,0 +1,72 @@
+{
+  "id": 1210055097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.48221,10.42542,-74.48221,10.42542",
+    "geom:latitude":10.42542,
+    "geom:longitude":-74.48221,
+    "gn:admin1_code":"38.0",
+    "gn:admin2_code":"47551.0",
+    "gn:asciiname":"Todosnovan",
+    "gn:country_code":"CO",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3666974,
+    "gn:latitude":10.42542,
+    "gn:longitude":-74.48221,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Todosnov\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Todosnov\u00e1n",
+        "Todosnov\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3666974
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"847b30513c93a71db4069660a035de75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700897,
+            "locality_id":1210055097,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1210055097,
+    "wof:lastmodified":1537618371,
+    "wof:name":"Todosnovan",
+    "wof:parent_id":1108700897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.48221,
+    10.42542,
+    -74.48221,
+    10.42542
+],
+  "geometry": {"coordinates":[-74.48220999999999,10.42542],"type":"Point"}
+}

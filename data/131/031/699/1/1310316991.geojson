@@ -1,0 +1,73 @@
+{
+  "id": 1310316991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.91667,6.26667,-75.91667,6.26667",
+    "geom:latitude":6.26667,
+    "geom:longitude":-75.91667,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5044.0",
+    "gn:asciiname":"La Choclina",
+    "gn:cc2":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679513,
+    "gn:latitude":6.26667,
+    "gn:longitude":-75.91667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Choclina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choclina",
+        "La Choclina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3679513
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dee5e61ca11147b34f6e7ca4bdeabd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699915,
+            "locality_id":1310316991,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310316991,
+    "wof:lastmodified":1537618530,
+    "wof:name":"La Choclina",
+    "wof:parent_id":1108699915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.91667,
+    6.26667,
+    -75.91667,
+    6.26667
+],
+  "geometry": {"coordinates":[-75.91667,6.26667],"type":"Point"}
+}

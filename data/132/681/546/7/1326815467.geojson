@@ -1,0 +1,68 @@
+{
+  "id": 1326815467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.03759,1.75257,-75.03759,1.75257",
+    "geom:latitude":1.75257,
+    "geom:longitude":-75.03759,
+    "gn:admin1_code":"8.0",
+    "gn:admin2_code":"18592.0",
+    "gn:asciiname":"Puerto Bunuelo",
+    "gn:country_code":"CO",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6979234,
+    "gn:latitude":1.75257,
+    "gn:longitude":-75.03759,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Puerto Bu\u00f1uelo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670179,
+        421177289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6979234
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"9f92bd9912ffd8062e55048597ac47bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421177289,
+            "locality_id":1326815467,
+            "region_id":85670179
+        }
+    ],
+    "wof:id":1326815467,
+    "wof:lastmodified":1537069942,
+    "wof:name":"Puerto Bunuelo",
+    "wof:parent_id":421177289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.03759000000002,
+    1.75257,
+    -75.03759000000002,
+    1.75257
+],
+  "geometry": {"coordinates":[-75.03759000000002,1.75257],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310417761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.89167,6.58889,-75.89167,6.58889",
+    "geom:latitude":6.58889,
+    "geom:longitude":-75.89167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5042.0",
+    "gn:asciiname":"Tonusquito",
+    "gn:country_code":"CO",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3787865,
+    "gn:latitude":6.58889,
+    "gn:longitude":-75.89167,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Tonusquito",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        1108699913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3787865
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"6e810e124b809ca3309c5ff3bdb5ea96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108699913,
+            "locality_id":1310417761,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1310417761,
+    "wof:lastmodified":1537041803,
+    "wof:name":"Tonusquito",
+    "wof:parent_id":1108699913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.89166999999998,
+    6.58889,
+    -75.89166999999998,
+    6.58889
+],
+  "geometry": {"coordinates":[-75.89166999999998,6.58889],"type":"Point"}
+}

@@ -1,0 +1,136 @@
+{
+  "id": 85764777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":26315488.143066,
+    "geom:bbox":"-74.087325,4.663245,-74.087325,4.663245",
+    "geom:latitude":4.663245,
+    "geom:longitude":-74.087325,
+    "gn:gn_country":"CO",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":4.6726,
+    "gn:longitude":-74.07976,
+    "iso:country":"CO",
+    "lbl:latitude":4.663245,
+    "lbl:longitude":-74.087325,
+    "mps:latitude":4.675714,
+    "mps:longitude":-74.09261,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "San Fernando"
+    ],
+    "name:spa_x_variant":[
+        "S Fernando",
+        "S. Fernando"
+    ],
+    "name:unk_x_variant":[
+        "San Fernando"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688689,
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"San Fernando",
+    "qs:local_max":9363,
+    "qs:local_sum":49081,
+    "qs:localhoods":19,
+    "qs:name":"San Fernando",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Distrito Especial",
+    "qs:name_adm2":"Santafe de Bogota D.c.",
+    "qs:name_local":"Bogot\u00e1",
+    "qs:photo_max":2105,
+    "qs:photo_sum":6299,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":76,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345079,
+    "qs:woe_adm2":26796754,
+    "qs:woe_lau":0,
+    "qs:woe_local":368148,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"CO",
+    "qs_pg:gn_country":"CO",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3669889,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"San Fernando",
+    "qs_pg:name_adm0":"Colombia",
+    "qs_pg:name_adm1":"Distrito Especial",
+    "qs_pg:photos":6278,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":28,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6278,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1033484,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424787,
+    "qs_pg:woe_id":365352,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670165,
+        102191577,
+        85632519,
+        1108700089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669889,
+        "gp:id":365352,
+        "qs:id":1033484,
+        "qs_pg:id":1033484
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8988073d25d716e6565ccb95c19c95ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700089,
+            "locality_id":-1,
+            "neighbourhood_id":85764777,
+            "region_id":85670165
+        }
+    ],
+    "wof:id":85764777,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379259,
+    "wof:name":"San Fernando",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126093901
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.087325,
+    4.663245,
+    -74.087325,
+    4.663245
+],
+  "geometry": {"coordinates":[-74.08732500000001,4.663245],"type":"Point"}
+}

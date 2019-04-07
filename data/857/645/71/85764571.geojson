@@ -1,0 +1,110 @@
+{
+  "id": 85764571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":13002459.510641,
+    "geom:bbox":"-73.108657,7.116979,-73.108657,7.116979",
+    "geom:latitude":7.116979,
+    "geom:longitude":-73.108657,
+    "gn:latitude":7.11444,
+    "gn:longitude":-73.10722,
+    "iso:country":"CO",
+    "lbl:latitude":7.116979,
+    "lbl:longitude":-73.108657,
+    "mps:latitude":7.114288,
+    "mps:longitude":-73.10044,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:spa_x_preferred":[
+        "Cabecera del Llano"
+    ],
+    "name:unk_x_variant":[
+        "Cabecera del Llano"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3688465,
+    "qs:gn_namadm1":"26",
+    "qs:gn_name":"Cabecera del Llano",
+    "qs:local_max":2559,
+    "qs:local_sum":3515,
+    "qs:localhoods":7,
+    "qs:name":"Cabecera del Llano",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Santander",
+    "qs:name_adm2":"Bucaramanga",
+    "qs:name_local":"Bucaramanga",
+    "qs:photo_max":63,
+    "qs:photo_sum":343,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":29,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345071,
+    "qs:woe_adm2":26797407,
+    "qs:woe_lau":0,
+    "qs:woe_local":368152,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85670141,
+        102191577,
+        85632519,
+        1108701181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3688197,
+        "gp:id":351956,
+        "qs:id":238579
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3eb9b0acc0c311fc02fd1c1bca91b4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701181,
+            "locality_id":-1,
+            "neighbourhood_id":85764571,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":85764571,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379261,
+    "wof:name":"Cabecera del Llano",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[
+        1126068009
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.108657,
+    7.116979,
+    -73.108657,
+    7.116979
+],
+  "geometry": {"coordinates":[-73.10865699999999,7.116979],"type":"Point"}
+}

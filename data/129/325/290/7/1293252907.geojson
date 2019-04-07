@@ -1,0 +1,68 @@
+{
+  "id": 1293252907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.02778,4.62222,-76.02778,4.62222",
+    "geom:latitude":4.62222,
+    "geom:longitude":-76.02778,
+    "gn:admin1_code":"29.0",
+    "gn:admin2_code":"76497.0",
+    "gn:asciiname":"Molina",
+    "gn:country_code":"CO",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3674617,
+    "gn:latitude":4.62222,
+    "gn:longitude":-76.02778,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Molina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670203,
+        421182987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3674617
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"8223c495a928373ed2ef7b6b9b82d2a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421182987,
+            "locality_id":1293252907,
+            "region_id":85670203
+        }
+    ],
+    "wof:id":1293252907,
+    "wof:lastmodified":1536626449,
+    "wof:name":"Molina",
+    "wof:parent_id":421182987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.02778,
+    4.62222,
+    -76.02778,
+    4.62222
+],
+  "geometry": {"coordinates":[-76.02778000000001,4.62222],"type":"Point"}
+}

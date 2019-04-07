@@ -1,0 +1,71 @@
+{
+  "id": 1193232181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.9362,4.32706,-73.9362,4.32706",
+    "geom:latitude":4.32706,
+    "geom:longitude":-73.9362,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25281.0",
+    "gn:asciiname":"Quinchita",
+    "gn:country_code":"CO",
+    "gn:dem":1770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7525312,
+    "gn:latitude":4.32706,
+    "gn:longitude":-73.9362,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quinchita",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quinchita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670159,
+        1108700645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7525312
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2d9381ae7934b3340255da94d7226c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700645,
+            "locality_id":1193232181,
+            "region_id":85670159
+        }
+    ],
+    "wof:id":1193232181,
+    "wof:lastmodified":1537618720,
+    "wof:name":"Quinchita",
+    "wof:parent_id":1108700645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.9362,
+    4.32706,
+    -73.9362,
+    4.32706
+],
+  "geometry": {"coordinates":[-73.9362,4.32706],"type":"Point"}
+}

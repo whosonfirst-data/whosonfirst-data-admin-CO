@@ -1,0 +1,72 @@
+{
+  "id": 1293141311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45612,8.4836,-74.45612,8.4836",
+    "geom:latitude":8.4836,
+    "geom:longitude":-74.45612,
+    "gn:admin1_code":"35.0",
+    "gn:admin2_code":"13006.0",
+    "gn:asciiname":"Payande",
+    "gn:country_code":"CO",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672662,
+    "gn:latitude":8.4836,
+    "gn:longitude":-74.45612,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Payand\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caserio Payande",
+        "Payand\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        1108700095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672662
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"5a922b6a4f3792d853f155888033ec9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700095,
+            "locality_id":1293141311,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1293141311,
+    "wof:lastmodified":1537618436,
+    "wof:name":"Payande",
+    "wof:parent_id":1108700095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45612,
+    8.4836,
+    -74.45612,
+    8.4836
+],
+  "geometry": {"coordinates":[-74.45612,8.4836],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 421170861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-76.1077,9.29459,-76.1077,9.29459",
+    "geom:latitude":9.29459,
+    "geom:longitude":-76.1077,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3677922,
+    "qs:gn_pop":0,
+    "qs:name":"La Rada",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Cordoba",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267363,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":359924,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3677922,
+        "gp:id":359924,
+        "qs:id":267363
+    },
+    "wof:country":"CO",
+    "wof:created":1459008871,
+    "wof:geomhash":"50e1d11760717603788f68ca4323e070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "locality_id":421170861,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":421170861,
+    "wof:lastmodified":1466635832,
+    "wof:name":"La Rada",
+    "wof:parent_id":85670137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.1077,
+    9.29459,
+    -76.1077,
+    9.29459
+],
+  "geometry": {"coordinates":[-76.10769999999999,9.29459],"type":"Point"}
+}

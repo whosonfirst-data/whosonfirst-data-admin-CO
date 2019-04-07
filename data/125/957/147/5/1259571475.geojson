@@ -1,0 +1,72 @@
+{
+  "id": 1259571475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85,10.06667,-73.85,10.06667",
+    "geom:latitude":10.06667,
+    "geom:longitude":-73.85,
+    "gn:admin1_code":"10",
+    "gn:admin2_code":"20060.0",
+    "gn:asciiname":"Los Guasimos",
+    "gn:country_code":"CO",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676145,
+    "gn:latitude":10.06667,
+    "gn:longitude":-73.85,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Los Gu\u00e1simos",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Totemos",
+        "Los Gu\u00e1simos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670213,
+        421188173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676145
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"289cffa18038d53d22fa68dd78aa7526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188173,
+            "locality_id":1259571475,
+            "region_id":85670213
+        }
+    ],
+    "wof:id":1259571475,
+    "wof:lastmodified":1537618474,
+    "wof:name":"Los Guasimos",
+    "wof:parent_id":421188173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85,
+    10.06667,
+    -73.85,
+    10.06667
+],
+  "geometry": {"coordinates":[-73.84999999999999,10.06667],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 890430783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.06476,9.3956,-75.06476,9.3956",
+    "geom:latitude":9.3956,
+    "geom:longitude":-75.06476,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
+    "gn:pop":11489,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10de\u10d4\u10d3\u10e0\u10dd"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro"
+    ],
+    "name:may_x_preferred":[
+        "San Pedro"
+    ],
+    "name:nan_x_preferred":[
+        "San Pedro"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro"
+    ],
+    "name:vie_x_preferred":[
+        "San Pedro"
+    ],
+    "name:war_x_preferred":[
+        "San Pedro"
+    ],
+    "qs:name":"San Pedro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":654,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        1108701417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3669128,
+        "gp:id":368574,
+        "qs:id":150017,
+        "wd:id":"Q768315",
+        "wk:page":"San Pedro"
+    },
+    "wof:country":"CO",
+    "wof:created":1469051866,
+    "wof:geomhash":"321784f4cf71a89281d1577e393bd6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701417,
+            "locality_id":890430783,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":890430783,
+    "wof:lastmodified":1527729738,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108701417,
+    "wof:placetype":"locality",
+    "wof:population":11489,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.06476,
+    9.3956,
+    -75.06476,
+    9.3956
+],
+  "geometry": {"coordinates":[-75.06476000000001,9.3956],"type":"Point"}
+}

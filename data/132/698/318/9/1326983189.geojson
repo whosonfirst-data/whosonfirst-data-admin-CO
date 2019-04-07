@@ -1,0 +1,68 @@
+{
+  "id": 1326983189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.04338,9.7905,-75.04338,9.7905",
+    "geom:latitude":9.7905,
+    "geom:longitude":-75.04338,
+    "gn:admin1_code":"35",
+    "gn:admin2_code":"13654.0",
+    "gn:asciiname":"Catalanes",
+    "gn:country_code":"CO",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687067,
+    "gn:latitude":9.7905,
+    "gn:longitude":-75.04338,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Catalanes",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670209,
+        421192869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687067
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"392e068249eba2c179c1be2ce54d4acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421192869,
+            "locality_id":1326983189,
+            "region_id":85670209
+        }
+    ],
+    "wof:id":1326983189,
+    "wof:lastmodified":1536830592,
+    "wof:name":"Catalanes",
+    "wof:parent_id":421192869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.04338,
+    9.7905,
+    -75.04338,
+    9.7905
+],
+  "geometry": {"coordinates":[-75.04338,9.7905],"type":"Point"}
+}

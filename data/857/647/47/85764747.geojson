@@ -1,0 +1,101 @@
+{
+  "id": 85764747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":12386900.532376,
+    "geom:bbox":"-75.59261,6.27664,-75.59261,6.27664",
+    "geom:latitude":6.27664,
+    "geom:longitude":-75.59261,
+    "iso:country":"CO",
+    "lbl:latitude":6.27664,
+    "lbl:longitude":-75.59261,
+    "mps:latitude":6.286436,
+    "mps:longitude":-75.589007,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Palermo"
+    ],
+    "name:unk_x_variant":[
+        "Palermo"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_id":0,
+    "qs:gn_local":3674962,
+    "qs:id":0,
+    "qs:local_max":5883,
+    "qs:local_sum":29357,
+    "qs:localhoods":18,
+    "qs:name":"Palermo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:name_adm2":"Medellin",
+    "qs:name_local":"Medell\u00edn",
+    "qs:photo_max":116,
+    "qs:photo_sum":180,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":17,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345048,
+    "qs:woe_adm2":26796607,
+    "qs:woe_lau":0,
+    "qs:woe_local":368150,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421205069,
+        85670129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":363226
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ad914c0f984bc668a9b45fa621248fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":85764747,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":85764747,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858946,
+    "wof:name":"Palermo",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59261,
+    6.27664,
+    -75.59261,
+    6.27664
+],
+  "geometry": {"coordinates":[-75.59260999999999,6.27664],"type":"Point"}
+}

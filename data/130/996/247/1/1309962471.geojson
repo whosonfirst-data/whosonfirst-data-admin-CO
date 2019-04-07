@@ -1,0 +1,71 @@
+{
+  "id": 1309962471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05982,7.13376,-73.05982,7.13376",
+    "geom:latitude":7.13376,
+    "geom:longitude":-73.05982,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68001.0",
+    "gn:asciiname":"Vistahermosa",
+    "gn:country_code":"CO",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8183148,
+    "gn:latitude":7.13376,
+    "gn:longitude":-73.05982,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Vistahermosa",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Vistahermosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183148
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb9214f5f7f7bbe44d797e8a28d2b076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701181,
+            "locality_id":1309962471,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1309962471,
+    "wof:lastmodified":1537618758,
+    "wof:name":"Vistahermosa",
+    "wof:parent_id":1108701181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05982,
+    7.13376,
+    -73.05982,
+    7.13376
+],
+  "geometry": {"coordinates":[-73.05982,7.13376],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276981663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-70.31537,6.87991,-70.31537,6.87991",
+    "geom:latitude":6.87991,
+    "geom:longitude":-70.31537,
+    "gn:admin1_code":"3",
+    "gn:admin2_code":"81001.0",
+    "gn:asciiname":"Maracay",
+    "gn:country_code":"CO",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3675346,
+    "gn:latitude":6.87991,
+    "gn:longitude":-70.31537,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Maracay",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Maracay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670231,
+        421170653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3675346
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"17b8a7ce692a86809d6965b57289ce6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421170653,
+            "locality_id":1276981663,
+            "region_id":85670231
+        }
+    ],
+    "wof:id":1276981663,
+    "wof:lastmodified":1537618464,
+    "wof:name":"Maracay",
+    "wof:parent_id":421170653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -70.31537,
+    6.87991,
+    -70.31537,
+    6.87991
+],
+  "geometry": {"coordinates":[-70.31537,6.87991],"type":"Point"}
+}

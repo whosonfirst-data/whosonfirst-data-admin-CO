@@ -1,0 +1,111 @@
+{
+  "id": 421188823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.28553,5.160359,-75.28553,5.160359",
+    "geom:latitude":5.160359,
+    "geom:longitude":-75.28553,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Herveo"
+    ],
+    "name:fra_x_preferred":[
+        "Herveo"
+    ],
+    "name:ita_x_preferred":[
+        "Herveo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10d5\u10d4\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Herveo"
+    ],
+    "name:nld_x_preferred":[
+        "Herveo"
+    ],
+    "name:spa_x_preferred":[
+        "Herveo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0432\u0435\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Herveo"
+    ],
+    "name:war_x_preferred":[
+        "Herveo"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Herveo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u723e\u97cb\u5967"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Herveo",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Tolima",
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1104258,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":26797538,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26797538,
+        "qs:id":1104258,
+        "wd:id":"Q1578580"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009581,
+    "wof:geomhash":"7d6dc9cb86bc144aae7bc4c69968c97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188823,
+            "region_id":85670155
+        }
+    ],
+    "wof:id":421188823,
+    "wof:lastmodified":1527716290,
+    "wof:name":"Herveo",
+    "wof:parent_id":85670155,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.28553,
+    5.160359,
+    -75.28553,
+    5.160359
+],
+  "geometry": {"coordinates":[-75.28552999999999,5.160359],"type":"Point"}
+}

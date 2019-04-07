@@ -1,0 +1,71 @@
+{
+  "id": 1310468693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.12168,7.24889,-73.12168,7.24889",
+    "geom:latitude":7.24889,
+    "geom:longitude":-73.12168,
+    "gn:admin1_code":"26.0",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"La Virtuo",
+    "gn:country_code":"CO",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8183000,
+    "gn:latitude":7.24889,
+    "gn:longitude":-73.12168,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Virtuo",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Virtuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183000
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"c60e530312f5b56c073ceb8ac1d28ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701327,
+            "locality_id":1310468693,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1310468693,
+    "wof:lastmodified":1537618757,
+    "wof:name":"La Virtuo",
+    "wof:parent_id":1108701327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.12168,
+    7.24889,
+    -73.12168,
+    7.24889
+],
+  "geometry": {"coordinates":[-73.12168,7.24889],"type":"Point"}
+}

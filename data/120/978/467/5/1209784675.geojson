@@ -1,0 +1,68 @@
+{
+  "id": 1209784675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81727,8.12586,-72.81727,8.12586",
+    "geom:latitude":8.12586,
+    "geom:longitude":-72.81727,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54720.0",
+    "gn:asciiname":"Higueron",
+    "gn:country_code":"CO",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738449,
+    "gn:latitude":8.12586,
+    "gn:longitude":-72.81727,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Higuer\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738449
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"eb98aae1a3eee95afc272cac616053d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701147,
+            "locality_id":1209784675,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1209784675,
+    "wof:lastmodified":1536369882,
+    "wof:name":"Higueron",
+    "wof:parent_id":1108701147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81727,
+    8.12586,
+    -72.81727,
+    8.12586
+],
+  "geometry": {"coordinates":[-72.81726999999999,8.12586],"type":"Point"}
+}

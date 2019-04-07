@@ -1,0 +1,68 @@
+{
+  "id": 1293429837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.86641,5.90831,-72.86641,5.90831",
+    "geom:latitude":5.90831,
+    "geom:longitude":-72.86641,
+    "gn:admin1_code":"36.0",
+    "gn:admin2_code":"15092.0",
+    "gn:asciiname":"Otenga",
+    "gn:country_code":"CO",
+    "gn:dem":2560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3673472,
+    "gn:latitude":5.90831,
+    "gn:longitude":-72.86641,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Oteng\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670133,
+        1108700193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3673472
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d57a92061262a98f07903f4ff961b0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700193,
+            "locality_id":1293429837,
+            "region_id":85670133
+        }
+    ],
+    "wof:id":1293429837,
+    "wof:lastmodified":1536868988,
+    "wof:name":"Otenga",
+    "wof:parent_id":1108700193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.86641,
+    5.90831,
+    -72.86641,
+    5.90831
+],
+  "geometry": {"coordinates":[-72.86641,5.90831],"type":"Point"}
+}

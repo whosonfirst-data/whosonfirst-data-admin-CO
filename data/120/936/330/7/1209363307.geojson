@@ -1,0 +1,62 @@
+{
+  "id": 1209363307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31885,4.73641,-73.31885,4.73641",
+    "geom:latitude":4.73641,
+    "geom:longitude":-73.31885,
+    "gn:admin1_code":"33.0",
+    "gn:admin2_code":"25839.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"CO",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812738,
+    "gn:latitude":4.73641,
+    "gn:longitude":-73.31885,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Santa Lucia",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812738
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"60b7de2f5b5802392a6d231f70d76f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209363307
+        }
+    ],
+    "wof:id":1209363307,
+    "wof:lastmodified":1536289356,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31885,
+    4.73641,
+    -73.31885,
+    4.73641
+],
+  "geometry": {"coordinates":[-73.31885,4.73641],"type":"Point"}
+}

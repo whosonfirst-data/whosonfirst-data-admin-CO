@@ -1,0 +1,74 @@
+{
+  "id": 1243015783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.60393,8.76731,-74.60393,8.76731",
+    "geom:latitude":8.76731,
+    "geom:longitude":-74.60393,
+    "gn:admin1_code":"27",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"La Travesia",
+    "gn:country_code":"CO",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3676967,
+    "gn:latitude":8.76731,
+    "gn:longitude":-74.60393,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Traves\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Traves\u00eda",
+        "Corregimiento La Travesia",
+        "La Troveria",
+        "La Traves\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670227,
+        421188689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3676967
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"ddce90b7c6c5f020a7bdb9b577e908cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188689,
+            "locality_id":1243015783,
+            "region_id":85670227
+        }
+    ],
+    "wof:id":1243015783,
+    "wof:lastmodified":1537618487,
+    "wof:name":"La Travesia",
+    "wof:parent_id":421188689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.60393,
+    8.76731,
+    -74.60393,
+    8.76731
+],
+  "geometry": {"coordinates":[-74.60393000000001,8.76731],"type":"Point"}
+}

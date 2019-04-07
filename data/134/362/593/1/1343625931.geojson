@@ -1,0 +1,68 @@
+{
+  "id": 1343625931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.93417,8.55222,-72.93417,8.55222",
+    "geom:latitude":8.55222,
+    "geom:longitude":-72.93417,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54810.0",
+    "gn:asciiname":"Pacheli",
+    "gn:country_code":"CO",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738380,
+    "gn:latitude":8.55222,
+    "gn:longitude":-72.93417,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Pacheli",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670237,
+        1108701155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738380
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"461600b91d2905fc2f144a2136b1aaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701155,
+            "locality_id":1343625931,
+            "region_id":85670237
+        }
+    ],
+    "wof:id":1343625931,
+    "wof:lastmodified":1537004214,
+    "wof:name":"Pacheli",
+    "wof:parent_id":1108701155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93417,
+    8.55222,
+    -72.93417,
+    8.55222
+],
+  "geometry": {"coordinates":[-72.93416999999999,8.55222],"type":"Point"}
+}

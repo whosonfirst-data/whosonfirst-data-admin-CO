@@ -1,0 +1,147 @@
+{
+  "id": 421196911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.39496,6.48568,-75.39496,6.48568",
+    "geom:latitude":6.48568,
+    "geom:longitude":-75.39496,
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u6771\u99ac\u8482\u4e9e\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:eng_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:fra_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:fre_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10db\u10d0\u10e2\u10d8\u10d0\u10e1\u10d8"
+    ],
+    "name:ile_x_preferred":[
+        "Donmat\u00edas"
+    ],
+    "name:ita_x_preferred":[
+        "Donmat\u00edas"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10dc\u10db\u10d0\u10e2\u10d8\u10d0\u10e1\u10d8"
+    ],
+    "name:may_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:msa_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:nan_x_preferred":[
+        "Donmat\u00edas"
+    ],
+    "name:nld_x_preferred":[
+        "Donmat\u00edas"
+    ],
+    "name:por_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:ron_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:rum_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u043d\u043c\u0430\u0442\u0438\u0430\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Donmat\u00edas"
+    ],
+    "name:swe_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:tgl_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:vie_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "name:war_x_preferred":[
+        "Don Mat\u00edas"
+    ],
+    "qs:gn_country":"CO",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3685126,
+    "qs:gn_pop":10011,
+    "qs:name":"Don Mat\u00edas",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:photos":134,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":134,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":899398,
+    "qs:woe_adm0":23424787,
+    "qs:woe_id":368301,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421204277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685126,
+        "gp:id":368301,
+        "qs:id":899398,
+        "wd:id":"Q1525993",
+        "wk:page":"Don Mat\u00edas"
+    },
+    "wof:country":"CO",
+    "wof:created":1459009897,
+    "wof:geomhash":"e2eace31dd0ec93a5f89937b384a4acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421204277,
+            "locality_id":421196911,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":421196911,
+    "wof:lastmodified":1513942045,
+    "wof:name":"Don Mat\u00edas",
+    "wof:parent_id":421204277,
+    "wof:placetype":"locality",
+    "wof:population":10011,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.39496,
+    6.48568,
+    -75.39496,
+    6.48568
+],
+  "geometry": {"coordinates":[-75.39496,6.48568],"type":"Point"}
+}

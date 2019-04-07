@@ -1,0 +1,68 @@
+{
+  "id": 1310086985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.52622,2.52918,-75.52622,2.52918",
+    "geom:latitude":2.52918,
+    "geom:longitude":-75.52622,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41349.0",
+    "gn:asciiname":"Trinidad",
+    "gn:country_code":"CO",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781271,
+    "gn:latitude":2.52918,
+    "gn:longitude":-75.52622,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        421188665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3781271
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"639c8bafe34f7e546ead142034b80419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188665,
+            "locality_id":1310086985,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1310086985,
+    "wof:lastmodified":1537022257,
+    "wof:name":"Trinidad",
+    "wof:parent_id":421188665,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.52622,
+    2.52918,
+    -75.52622,
+    2.52918
+],
+  "geometry": {"coordinates":[-75.52622,2.52918],"type":"Point"}
+}

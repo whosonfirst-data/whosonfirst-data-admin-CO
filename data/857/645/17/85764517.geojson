@@ -1,0 +1,106 @@
+{
+  "id": 85764517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":11529224.204404,
+    "geom:bbox":"-75.547477,6.291769,-75.547477,6.291769",
+    "geom:latitude":6.291769,
+    "geom:longitude":-75.547477,
+    "gn:latitude":6.2812,
+    "gn:longitude":-75.56003,
+    "iso:country":"CO",
+    "lbl:latitude":6.291769,
+    "lbl:longitude":-75.547477,
+    "mps:latitude":6.290375,
+    "mps:longitude":-75.545475,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":3,
+    "name:spa_x_preferred":[
+        "Aranjuez"
+    ],
+    "name:unk_x_variant":[
+        "Aranjuez"
+    ],
+    "qs:gn_adm0_cc":"CO",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3674962,
+    "qs:gn_namadm1":"02",
+    "qs:gn_name":"Aranjuez",
+    "qs:local_max":5883,
+    "qs:local_sum":29357,
+    "qs:localhoods":18,
+    "qs:name":"Aranjuez",
+    "qs:name_adm0":"Colombia",
+    "qs:name_adm1":"Antioquia",
+    "qs:name_adm2":"Medellin",
+    "qs:name_local":"Medell\u00edn",
+    "qs:photo_max":423,
+    "qs:photo_sum":1722,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424787,
+    "qs:woe_adm1":2345048,
+    "qs:woe_adm2":26796607,
+    "qs:woe_lau":0,
+    "qs:woe_local":368150,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        421205069,
+        85670129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3689742,
+        "gp:id":350894,
+        "qs:id":277763
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"d0f5b2f5ce69cb56cd43a23cd36eb958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421205069,
+            "locality_id":-1,
+            "neighbourhood_id":85764517,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":85764517,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1531858907,
+    "wof:name":"Aranjuez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.547477,
+    6.291769,
+    -75.547477,
+    6.291769
+],
+  "geometry": {"coordinates":[-75.547477,6.291769],"type":"Point"}
+}

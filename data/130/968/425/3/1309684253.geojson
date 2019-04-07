@@ -1,0 +1,71 @@
+{
+  "id": 1309684253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.93023,3.02787,-74.93023,3.02787",
+    "geom:latitude":3.02787,
+    "geom:longitude":-74.93023,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41078",
+    "gn:asciiname":"Manzanares",
+    "gn:country_code":"CO",
+    "gn:dem":2342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10354467,
+    "gn:latitude":3.02787,
+    "gn:longitude":-74.93023,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Manzanares",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Manzanares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670189,
+        1108700805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10354467
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3915da4cb899ddd726e398530ba77e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700805,
+            "locality_id":1309684253,
+            "region_id":85670189
+        }
+    ],
+    "wof:id":1309684253,
+    "wof:lastmodified":1537618837,
+    "wof:name":"Manzanares",
+    "wof:parent_id":1108700805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.93023000000002,
+    3.02787,
+    -74.93023000000002,
+    3.02787
+],
+  "geometry": {"coordinates":[-74.93023000000002,3.02787],"type":"Point"}
+}

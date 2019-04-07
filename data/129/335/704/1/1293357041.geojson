@@ -1,0 +1,71 @@
+{
+  "id": 1293357041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1468,7.23498,-73.1468,7.23498",
+    "geom:latitude":7.23498,
+    "geom:longitude":-73.1468,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68615.0",
+    "gn:asciiname":"Barcelona",
+    "gn:country_code":"CO",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732255,
+    "gn:latitude":7.23498,
+    "gn:longitude":-73.1468,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Barcelona",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Barcelona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670141,
+        1108701327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3732255
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"2c75e3b4c20053b24615e67f928c70f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701327,
+            "locality_id":1293357041,
+            "region_id":85670141
+        }
+    ],
+    "wof:id":1293357041,
+    "wof:lastmodified":1537618668,
+    "wof:name":"Barcelona",
+    "wof:parent_id":1108701327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1468,
+    7.23498,
+    -73.1468,
+    7.23498
+],
+  "geometry": {"coordinates":[-73.1468,7.23498],"type":"Point"}
+}

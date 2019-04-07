@@ -1,0 +1,62 @@
+{
+  "id": 1209669863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.05,6.65,-73.05,6.65",
+    "geom:latitude":6.65,
+    "geom:longitude":-73.05,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68229.0",
+    "gn:asciiname":"Canaveral",
+    "gn:country_code":"CO",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3687670,
+    "gn:latitude":6.65,
+    "gn:longitude":-73.05,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Ca\u00f1averal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3687670
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"500203c24713fa854e77f2694781a020",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209669863
+        }
+    ],
+    "wof:id":1209669863,
+    "wof:lastmodified":1536279962,
+    "wof:name":"Canaveral",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05,
+    6.65,
+    -73.05,
+    6.65
+],
+  "geometry": {"coordinates":[-73.05,6.65],"type":"Point"}
+}

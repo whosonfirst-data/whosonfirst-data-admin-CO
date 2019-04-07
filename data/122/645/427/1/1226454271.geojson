@@ -1,0 +1,71 @@
+{
+  "id": 1226454271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-76.76669,8.56413,-76.76669,8.56413",
+    "geom:latitude":8.56413,
+    "geom:longitude":-76.76669,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5490.0",
+    "gn:asciiname":"Quiera Dios",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8742143,
+    "gn:latitude":8.56413,
+    "gn:longitude":-76.76669,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quiera Dios",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Quiera Dios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670129,
+        421188793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8742143
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"0387726f2f6a507a64b2e024c91a482b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421188793,
+            "locality_id":1226454271,
+            "region_id":85670129
+        }
+    ],
+    "wof:id":1226454271,
+    "wof:lastmodified":1537618813,
+    "wof:name":"Quiera Dios",
+    "wof:parent_id":421188793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -76.76669,
+    8.56413,
+    -76.76669,
+    8.56413
+],
+  "geometry": {"coordinates":[-76.76669,8.56413],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209503845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.32401,10.2858,-73.32401,10.2858",
+    "geom:latitude":10.2858,
+    "geom:longitude":-73.32401,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"20001.0",
+    "gn:asciiname":"Hacienda Campo Alegre",
+    "gn:country_code":"CO",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8559816,
+    "gn:latitude":10.2858,
+    "gn:longitude":-73.32401,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Hacienda Campo Alegre",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8559816
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"dd5493c5020a65e0384a4590cc5e2beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209503845
+        }
+    ],
+    "wof:id":1209503845,
+    "wof:lastmodified":1536285097,
+    "wof:name":"Hacienda Campo Alegre",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.32401,
+    10.2858,
+    -73.32401,
+    10.2858
+],
+  "geometry": {"coordinates":[-73.32401,10.2858],"type":"Point"}
+}

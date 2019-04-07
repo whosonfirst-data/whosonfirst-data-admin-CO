@@ -1,0 +1,68 @@
+{
+  "id": 1193107133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.96667,3.16667,-68.96667,3.16667",
+    "geom:latitude":3.16667,
+    "geom:longitude":-68.96667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"94001.0",
+    "gn:asciiname":"Piapoco",
+    "gn:country_code":"CO",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3672373,
+    "gn:latitude":3.16667,
+    "gn:longitude":-68.96667,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Piapoco",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670249,
+        1108701605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3672373
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"1fd1edd54af066df4e1eede7d1dd7c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701605,
+            "locality_id":1193107133,
+            "region_id":85670249
+        }
+    ],
+    "wof:id":1193107133,
+    "wof:lastmodified":1536377280,
+    "wof:name":"Piapoco",
+    "wof:parent_id":1108701605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.96667,
+    3.16667,
+    -68.96667,
+    3.16667
+],
+  "geometry": {"coordinates":[-68.96666999999999,3.16667],"type":"Point"}
+}

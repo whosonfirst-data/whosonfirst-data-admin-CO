@@ -1,0 +1,68 @@
+{
+  "id": 1277032819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.66711,4.62794,-75.66711,4.62794",
+    "geom:latitude":4.62794,
+    "geom:longitude":-75.66711,
+    "gn:admin1_code":"23.0",
+    "gn:admin2_code":"63190.0",
+    "gn:asciiname":"Quebrada Membrillal",
+    "gn:country_code":"CO",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811688,
+    "gn:latitude":4.62794,
+    "gn:longitude":-75.66711,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Quebrada Membrillal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670169,
+        421185851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811688
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"740ccf0227c6cf923cc5bcfa2a86d90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":421185851,
+            "locality_id":1277032819,
+            "region_id":85670169
+        }
+    ],
+    "wof:id":1277032819,
+    "wof:lastmodified":1536835125,
+    "wof:name":"Quebrada Membrillal",
+    "wof:parent_id":421185851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.66711,
+    4.62794,
+    -75.66711,
+    4.62794
+],
+  "geometry": {"coordinates":[-75.66710999999999,4.62794],"type":"Point"}
+}

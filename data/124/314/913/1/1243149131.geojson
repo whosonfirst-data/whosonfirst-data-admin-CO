@@ -1,0 +1,68 @@
+{
+  "id": 1243149131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-75.84722,7.47306,-75.84722,7.47306",
+    "geom:latitude":7.47306,
+    "geom:longitude":-75.84722,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"23580.0",
+    "gn:asciiname":"Mandarino",
+    "gn:country_code":"CO",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731298,
+    "gn:latitude":7.47306,
+    "gn:longitude":-75.84722,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Mandarino",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670137,
+        1108700593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731298
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"7c32ddfbc5c22a6688e50f75f2469bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700593,
+            "locality_id":1243149131,
+            "region_id":85670137
+        }
+    ],
+    "wof:id":1243149131,
+    "wof:lastmodified":1536737271,
+    "wof:name":"Mandarino",
+    "wof:parent_id":1108700593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.84722,
+    7.47306,
+    -75.84722,
+    7.47306
+],
+  "geometry": {"coordinates":[-75.84721999999999,7.47306],"type":"Point"}
+}

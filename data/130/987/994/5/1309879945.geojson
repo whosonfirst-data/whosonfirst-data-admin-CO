@@ -1,0 +1,72 @@
+{
+  "id": 1309879945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-77.44008,1.04361,-77.44008,1.04361",
+    "geom:latitude":1.04361,
+    "geom:longitude":-77.44008,
+    "gn:admin1_code":"20",
+    "gn:admin2_code":"52287.0",
+    "gn:asciiname":"Guapuscal",
+    "gn:country_code":"CO",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3681487,
+    "gn:latitude":1.04361,
+    "gn:longitude":-77.44008,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Guapuscal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guaspucal",
+        "Guapuscal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670193,
+        1108701005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3681487
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"b18ecd8b003a4171be9983d2c1b6b836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108701005,
+            "locality_id":1309879945,
+            "region_id":85670193
+        }
+    ],
+    "wof:id":1309879945,
+    "wof:lastmodified":1537618551,
+    "wof:name":"Guapuscal",
+    "wof:parent_id":1108701005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -77.44008000000002,
+    1.04361,
+    -77.44008000000002,
+    1.04361
+],
+  "geometry": {"coordinates":[-77.44008000000002,1.04361],"type":"Point"}
+}

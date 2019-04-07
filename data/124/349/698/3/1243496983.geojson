@@ -1,0 +1,68 @@
+{
+  "id": 1243496983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.6515,10.23842,-74.6515,10.23842",
+    "geom:latitude":10.23842,
+    "geom:longitude":-74.6515,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47960.0",
+    "gn:asciiname":"Diluvio",
+    "gn:country_code":"CO",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685217,
+    "gn:latitude":10.23842,
+    "gn:longitude":-74.6515,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Diluvio",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632519,
+        85670223,
+        1108700921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685217
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"3f655af7866d1f22b0d18bc55e94d1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632519,
+            "county_id":1108700921,
+            "locality_id":1243496983,
+            "region_id":85670223
+        }
+    ],
+    "wof:id":1243496983,
+    "wof:lastmodified":1536733016,
+    "wof:name":"Diluvio",
+    "wof:parent_id":1108700921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.6515,
+    10.23842,
+    -74.6515,
+    10.23842
+],
+  "geometry": {"coordinates":[-74.6515,10.23842],"type":"Point"}
+}

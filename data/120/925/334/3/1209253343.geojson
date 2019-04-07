@@ -1,0 +1,68 @@
+{
+  "id": 1209253343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.29786,10.3117,-74.29786,10.3117",
+    "geom:latitude":10.3117,
+    "geom:longitude":-74.29786,
+    "gn:admin1_code":"38",
+    "gn:admin2_code":"47551.0",
+    "gn:asciiname":"Costarrica",
+    "gn:country_code":"CO",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3685739,
+    "gn:latitude":10.3117,
+    "gn:longitude":-74.29786,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Costarrica",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
+    "iso:country":"CO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hacienda Costarrica",
+        "Costa Rica",
+        "Hacienda Costarica",
+        "Costarrica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3685739
+    },
+    "wof:country":"CO",
+    "wof:geomhash":"05495d5929346af4374ce3f9bb1a7846",
+    "wof:hierarchy":[
+        {
+            "country_id":85632519,
+            "locality_id":1209253343
+        }
+    ],
+    "wof:id":1209253343,
+    "wof:lastmodified":1537618613,
+    "wof:name":"Costarrica",
+    "wof:parent_id":85632519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-co",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.29786,
+    10.3117,
+    -74.29786,
+    10.3117
+],
+  "geometry": {"coordinates":[-74.29786,10.3117],"type":"Point"}
+}
