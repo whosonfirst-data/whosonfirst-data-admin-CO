@@ -10,6 +10,12 @@
     "geom:latitude":1.636705,
     "geom:longitude":-77.047462,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Col\u00f3n (G\u00e9nova) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.644992,
     "lbl:longitude":-77.047469,
     "meso:admin_1":"Nari\u00f1o",
@@ -32,7 +38,8 @@
     ],
     "name:eng_x_variant":[
         "Colon",
-        "Col\u00f3n"
+        "Col\u00f3n",
+        "Col\u00f3n (G\u00e9nova)"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,8 +76,8 @@
         }
     ],
     "wof:id":1108700981,
-    "wof:lastmodified":1536615451,
-    "wof:name":"Col\u00f3n (G\u00e9nova)",
+    "wof:lastmodified":1555047402,
+    "wof:name":"Col\u00f3n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

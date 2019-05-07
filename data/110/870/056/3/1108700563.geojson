@@ -10,6 +10,12 @@
     "geom:latitude":8.900648,
     "geom:longitude":-73.764694,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tamalameque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.898221,
     "lbl:longitude":-73.77632,
     "meso:admin_1":"Cesar",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700563,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1554489296,
     "wof:name":"Tamalameque",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

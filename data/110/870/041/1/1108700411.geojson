@@ -10,6 +10,12 @@
     "geom:latitude":1.613143,
     "geom:longitude":-75.231084,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Paujil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.480814,
     "lbl:longitude":-75.176259,
     "meso:admin_1":"Caquet\u00e1",
@@ -27,6 +33,9 @@
     "mps:longitude":-75.176259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "El Paujil"
+    ],
     "name:eng_x_variant":[
         "El Doncello"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108700411,
-    "wof:lastmodified":1536615420,
+    "wof:lastmodified":1555047388,
     "wof:name":"El Paujil",
     "wof:parent_id":85670179,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"ED",
     "wof:superseded_by":[],

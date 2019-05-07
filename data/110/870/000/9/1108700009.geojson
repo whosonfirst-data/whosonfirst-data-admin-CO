@@ -10,6 +10,12 @@
     "geom:latitude":6.823558,
     "geom:longitude":-75.678556,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Jos\u00e9 De La Monta\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.823521,
     "lbl:longitude":-75.677447,
     "meso:admin_1":"Antioquia",
@@ -34,11 +40,12 @@
         "San Jos\u00e9 de la Monta\u00f1a"
     ],
     "name:eng_x_preferred":[
-        "San Jos\u00e9 de la Monta\u00f1a"
+        "San Jos\u00e9 De La Monta\u00f1a"
     ],
     "name:eng_x_variant":[
         "San Jose De La Montana",
-        "San Jos\u00e9 de la Monta\u00f1a"
+        "San Jos\u00e9 de la Monta\u00f1a",
+        "San Jos\u00e9 De La Monta\u00f1a"
     ],
     "name:fre_x_preferred":[
         "San Jos\u00e9 de la Monta\u00f1a"
@@ -112,7 +119,7 @@
         }
     ],
     "wof:id":1108700009,
-    "wof:lastmodified":1536615406,
+    "wof:lastmodified":1555047381,
     "wof:name":"San Jos\u00e9 De La Monta\u00f1a",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

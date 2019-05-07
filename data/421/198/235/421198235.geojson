@@ -10,6 +10,12 @@
     "geom:latitude":8.020442,
     "geom:longitude":-73.158497,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "\u00c1brego Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.059075,
     "lbl:longitude":-73.188648,
     "meso:admin_1":"Norte de Santander",
@@ -38,6 +44,9 @@
         "Abrego"
     ],
     "name:eng_x_preferred":[
+        "\u00c1brego"
+    ],
+    "name:eng_x_variant":[
         "Abrego"
     ],
     "name:fas_x_preferred":[
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":421198235,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1555047378,
     "wof:name":"\u00c1brego",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

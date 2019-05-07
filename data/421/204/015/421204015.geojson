@@ -10,6 +10,12 @@
     "geom:latitude":5.492821,
     "geom:longitude":-73.318314,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sorac\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.494664,
     "lbl:longitude":-73.31894,
     "meso:admin_1":"Boyac\u00e1",
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sorac\u00e1"
+    ],
     "name:eng_x_variant":[
         "Chivata",
         "Chivat\u00e1"
@@ -80,10 +89,11 @@
         }
     ],
     "wof:id":421204015,
-    "wof:lastmodified":1536616161,
+    "wof:lastmodified":1555047380,
     "wof:name":"Sorac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CV",
     "wof:superseded_by":[],

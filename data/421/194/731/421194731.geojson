@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010872,
-    "geom:area_square_m":134004692.111408,
+    "geom:area_square_m":134004692.111431,
     "geom:bbox":"-75.8723266453,4.56364190848,-75.6989321156,4.66404636325",
     "geom:latitude":4.610428,
     "geom:longitude":-75.791378,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Quimbaya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.612135,
     "lbl:longitude":-75.791364,
     "meso:admin_1":"Quindio",
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":421194731,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1555037069,
     "wof:name":"Quimbaya",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

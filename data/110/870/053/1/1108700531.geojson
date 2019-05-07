@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113232,
-    "geom:area_square_m":1382043195.406375,
+    "geom:area_square_m":1382043195.407189,
     "geom:bbox":"-73.9920083405,8.9830202108,-73.4148611481,9.49306554398",
     "geom:latitude":9.218663,
     "geom:longitude":-73.752642,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chimichagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.265687,
     "lbl:longitude":-73.805012,
     "meso:admin_1":"Cesar",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700531,
-    "wof:lastmodified":1553816475,
+    "wof:lastmodified":1555037424,
     "wof:name":"Chimichagua",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

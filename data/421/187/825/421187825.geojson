@@ -10,6 +10,12 @@
     "geom:latitude":4.781364,
     "geom:longitude":-75.713614,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pereira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.802976,
     "lbl:longitude":-75.783104,
     "meso:admin_1":"Risaralda",
@@ -40,6 +46,9 @@
     "name:deu_x_preferred":[
         "Pereira"
     ],
+    "name:eng_x_preferred":[
+        "Pereira"
+    ],
     "name:eng_x_variant":[
         "Santa Rosa De Cabal",
         "Santa Rosa de Cabal"
@@ -57,6 +66,9 @@
         "Pereira"
     ],
     "name:fra_x_preferred":[
+        "Pereira"
+    ],
+    "name:fre_x_preferred":[
         "Pereira"
     ],
     "name:gla_x_preferred":[
@@ -184,10 +196,11 @@
         }
     ],
     "wof:id":421187825,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1555047375,
     "wof:name":"Pereira",
     "wof:parent_id":85670173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SR",
     "wof:superseded_by":[],

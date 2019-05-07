@@ -10,6 +10,12 @@
     "geom:latitude":8.84804,
     "geom:longitude":-75.611037,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ci\u00e9naga De Oro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.914128,
     "lbl:longitude":-75.633421,
     "meso:admin_1":"C\u00f3rdoba",
@@ -37,11 +43,12 @@
         "Ci\u00e9naga de Oro"
     ],
     "name:eng_x_preferred":[
-        "Ci\u00e9naga de Oro"
+        "Ci\u00e9naga De Oro"
     ],
     "name:eng_x_variant":[
         "Cienaga De Oro",
-        "Ci\u00e9naga de Oro"
+        "Ci\u00e9naga de Oro",
+        "Ci\u00e9naga De Oro"
     ],
     "name:fre_x_preferred":[
         "Ci\u00e9naga de Oro"
@@ -121,7 +128,7 @@
         }
     ],
     "wof:id":1108700573,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1555047392,
     "wof:name":"Ci\u00e9naga De Oro",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

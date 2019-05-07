@@ -10,6 +10,12 @@
     "geom:latitude":5.068776,
     "geom:longitude":-75.242871,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Herveo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.063385,
     "lbl:longitude":-75.25061,
     "meso:admin_1":"Tolima",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701439,
-    "wof:lastmodified":1536615471,
+    "wof:lastmodified":1554489341,
     "wof:name":"Herveo",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

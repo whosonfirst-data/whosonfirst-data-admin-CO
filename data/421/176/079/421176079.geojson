@@ -10,6 +10,12 @@
     "geom:latitude":6.33595,
     "geom:longitude":-72.619901,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Boavita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.33556,
     "lbl:longitude":-72.615041,
     "meso:admin_1":"Boyac\u00e1",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421176079,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1554488778,
     "wof:name":"Boavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

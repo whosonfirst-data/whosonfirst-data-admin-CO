@@ -10,6 +10,12 @@
     "geom:latitude":1.565096,
     "geom:longitude":-74.25711,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Vicente Del Cagu\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.214746,
     "lbl:longitude":-73.938491,
     "meso:admin_1":"Caquet\u00e1",
@@ -37,11 +43,12 @@
         "San Vicente del Cagu\u00e1n"
     ],
     "name:eng_x_preferred":[
-        "San Vicente del Cagu\u00e1n"
+        "San Vicente Del Cagu\u00e1n"
     ],
     "name:eng_x_variant":[
         "San Vicente Del Caguan",
-        "San Vicente del Cagu\u00e1n"
+        "San Vicente del Cagu\u00e1n",
+        "San Vicente Del Cagu\u00e1n"
     ],
     "name:fre_x_preferred":[
         "San Vicente del Cagu\u00e1n"
@@ -109,10 +116,11 @@
         }
     ],
     "wof:id":1108700423,
-    "wof:lastmodified":1536615421,
+    "wof:lastmodified":1555047389,
     "wof:name":"San Vicente Del Cagu\u00e1n",
     "wof:parent_id":85670179,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SV",
     "wof:superseded_by":[],

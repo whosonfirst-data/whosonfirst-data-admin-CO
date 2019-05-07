@@ -10,6 +10,12 @@
     "geom:latitude":6.214744,
     "geom:longitude":-75.74999,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Heliconia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.216655,
     "lbl:longitude":-75.756248,
     "meso:admin_1":"Antioquia",
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":421184085,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1554488942,
     "wof:name":"Heliconia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

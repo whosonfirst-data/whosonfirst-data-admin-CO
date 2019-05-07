@@ -10,6 +10,12 @@
     "geom:latitude":4.321223,
     "geom:longitude":-74.486843,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tibacuy Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.325964,
     "lbl:longitude":-74.480226,
     "meso:admin_1":"Cundinamarca",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421184131,
-    "wof:lastmodified":1536616017,
+    "wof:lastmodified":1554488945,
     "wof:name":"Tibacuy",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

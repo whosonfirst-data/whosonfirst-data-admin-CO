@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064719,
-    "geom:area_square_m":800238906.603081,
+    "geom:area_square_m":800238906.603233,
     "geom:bbox":"-77.1148747082,0.284197362423,-76.656647883,0.560462799919",
     "geom:latitude":0.413262,
     "geom:longitude":-76.882922,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Valle Del Guamuez (La Hormiga) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.409431,
     "lbl:longitude":-76.804043,
     "meso:admin_1":"Putumayo",
@@ -34,7 +40,11 @@
         "Orito"
     ],
     "name:eng_x_preferred":[
-        "Orito"
+        "Valle Del Guamuez"
+    ],
+    "name:eng_x_variant":[
+        "Valle Del Guamuez (La Hormiga)",
+        "Valle Del Guamuez"
     ],
     "name:fre_x_preferred":[
         "Orito"
@@ -102,10 +112,11 @@
         }
     ],
     "wof:id":1108701579,
-    "wof:lastmodified":1553816486,
-    "wof:name":"Valle Del Guamuez (La Hormiga)",
+    "wof:lastmodified":1555047412,
+    "wof:name":"Valle Del Guamuez",
     "wof:parent_id":85670197,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"OR",
     "wof:superseded_by":[],

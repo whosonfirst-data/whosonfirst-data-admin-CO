@@ -10,6 +10,12 @@
     "geom:latitude":4.668861,
     "geom:longitude":-75.675407,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Filandia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.672836,
     "lbl:longitude":-75.676772,
     "meso:admin_1":"Quindio",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":421176667,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1554488779,
     "wof:name":"Filandia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.593405,
     "geom:longitude":-76.540189,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sip\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.54993,
     "lbl:longitude":-76.535983,
     "meso:admin_1":"Choc\u00f3",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700789,
-    "wof:lastmodified":1536615438,
+    "wof:lastmodified":1554489306,
     "wof:name":"Sip\u00ed",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

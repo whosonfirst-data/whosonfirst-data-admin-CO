@@ -10,6 +10,12 @@
     "geom:latitude":7.352165,
     "geom:longitude":-72.92641,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "California Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.366675,
     "lbl:longitude":-72.917698,
     "meso:admin_1":"Santander",
@@ -27,6 +33,9 @@
     "mps:longitude":-72.917698,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "California"
+    ],
     "name:eng_x_variant":[
         "Vetas"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108701203,
-    "wof:lastmodified":1536615462,
+    "wof:lastmodified":1555047406,
     "wof:name":"California",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"VT",
     "wof:superseded_by":[],

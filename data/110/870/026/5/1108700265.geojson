@@ -10,6 +10,12 @@
     "geom:latitude":4.979641,
     "geom:longitude":-73.294114,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Macanal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.971157,
     "lbl:longitude":-73.295344,
     "meso:admin_1":"Boyac\u00e1",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700265,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489282,
     "wof:name":"Macanal",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MC",
     "wof:superseded_by":[],

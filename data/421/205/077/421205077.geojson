@@ -10,6 +10,12 @@
     "geom:latitude":6.055516,
     "geom:longitude":-75.626867,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Caldas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.054654,
     "lbl:longitude":-75.626868,
     "meso:admin_1":"Antioquia",
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":421205077,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1554489052,
     "wof:name":"Caldas",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

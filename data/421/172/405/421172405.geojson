@@ -10,6 +10,12 @@
     "geom:latitude":5.082811,
     "geom:longitude":-75.50598,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Manizales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.083469,
     "lbl:longitude":-75.476044,
     "meso:admin_1":"Caldas",
@@ -257,7 +263,7 @@
         }
     ],
     "wof:id":421172405,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1554488768,
     "wof:name":"Manizales",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

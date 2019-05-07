@@ -10,6 +10,12 @@
     "geom:latitude":7.907024,
     "geom:longitude":-72.80627,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gramalote Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.883966,
     "lbl:longitude":-72.801104,
     "meso:admin_1":"Norte de Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701115,
-    "wof:lastmodified":1536615458,
+    "wof:lastmodified":1554489326,
     "wof:name":"Gramalote",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

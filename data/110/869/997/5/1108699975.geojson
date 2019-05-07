@@ -10,6 +10,12 @@
     "geom:latitude":6.536356,
     "geom:longitude":-74.718993,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Maceo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.540232,
     "lbl:longitude":-74.69052,
     "meso:admin_1":"Antioquia",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108699975,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1554489270,
     "wof:name":"Maceo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

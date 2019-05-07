@@ -10,6 +10,12 @@
     "geom:latitude":7.613777,
     "geom:longitude":-72.86132,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Arboledas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.601759,
     "lbl:longitude":-72.910923,
     "meso:admin_1":"Norte de Santander",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421188679,
-    "wof:lastmodified":1536616063,
+    "wof:lastmodified":1554488977,
     "wof:name":"Arboledas",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010394,
-    "geom:area_square_m":128090193.428803,
+    "geom:area_square_m":128090193.428747,
     "geom:bbox":"-74.6095981916,4.62239668489,-74.5003967396,4.80021503013",
     "geom:latitude":4.715291,
     "geom:longitude":-74.554214,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Quipile Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.722997,
     "lbl:longitude":-74.553404,
     "meso:admin_1":"Cundinamarca",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108700705,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037411,
     "wof:name":"Quipile",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

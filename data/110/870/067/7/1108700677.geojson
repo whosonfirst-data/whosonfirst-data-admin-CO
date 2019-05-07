@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012369,
-    "geom:area_square_m":152296265.90099,
+    "geom:area_square_m":152296265.900959,
     "geom:bbox":"-73.7693688396,5.22505917267,-73.595565175,5.38237660758",
     "geom:latitude":5.302535,
     "geom:longitude":-73.682481,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Lenguazaque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.285001,
     "lbl:longitude":-73.698283,
     "meso:admin_1":"Cundinamarca",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700677,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037414,
     "wof:name":"Lenguazaque",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

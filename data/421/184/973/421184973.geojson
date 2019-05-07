@@ -10,6 +10,12 @@
     "geom:latitude":6.12369,
     "geom:longitude":-75.127059,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Granada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.121926,
     "lbl:longitude":-75.121175,
     "meso:admin_1":"Antioquia",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421184973,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1554488951,
     "wof:name":"Granada",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

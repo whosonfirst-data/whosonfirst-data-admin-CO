@@ -10,6 +10,12 @@
     "geom:latitude":4.676563,
     "geom:longitude":-72.213858,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Man\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.672643,
     "lbl:longitude":-72.220906,
     "meso:admin_1":"Casanare",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701529,
-    "wof:lastmodified":1536615476,
+    "wof:lastmodified":1554489350,
     "wof:name":"Man\u00ed",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

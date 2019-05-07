@@ -10,6 +10,12 @@
     "geom:latitude":4.46795,
     "geom:longitude":-75.656671,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Calarc\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.47324,
     "lbl:longitude":-75.646289,
     "meso:admin_1":"Quindio",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":421170155,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1554488752,
     "wof:name":"Calarc\u00e1",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

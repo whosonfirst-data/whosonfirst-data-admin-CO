@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043804,
-    "geom:area_square_m":541403175.701937,
+    "geom:area_square_m":541403175.701999,
     "geom:bbox":"-76.1682587067,1.55547252921,-75.8354408811,1.87022404277",
     "geom:latitude":1.709601,
     "geom:longitude":-75.9971,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Acevedo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.782612,
     "lbl:longitude":-75.930295,
     "meso:admin_1":"Huila",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700795,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037411,
     "wof:name":"Acevedo",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

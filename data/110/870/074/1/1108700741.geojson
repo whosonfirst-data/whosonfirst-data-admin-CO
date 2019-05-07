@@ -10,6 +10,12 @@
     "geom:latitude":5.638779,
     "geom:longitude":-77.084788,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alto Baud\u00f3 (Pie De Pat\u00f3) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.642445,
     "lbl:longitude":-77.069998,
     "meso:admin_1":"Choc\u00f3",
@@ -38,7 +44,8 @@
     ],
     "name:eng_x_variant":[
         "Alto Baudo (pie De Pato)",
-        "Alto Baud\u00f3"
+        "Alto Baud\u00f3",
+        "Alto Baud\u00f3 (Pie De Pat\u00f3)"
     ],
     "name:fre_x_preferred":[
         "Alto Baud\u00f3"
@@ -118,8 +125,8 @@
         }
     ],
     "wof:id":1108700741,
-    "wof:lastmodified":1536615435,
-    "wof:name":"Alto Baud\u00f3 (Pie De Pat\u00f3)",
+    "wof:lastmodified":1555047394,
+    "wof:name":"Alto Baud\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

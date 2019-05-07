@@ -10,6 +10,12 @@
     "geom:latitude":6.835107,
     "geom:longitude":-73.279046,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Zapatoca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.792974,
     "lbl:longitude":-73.276916,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701375,
-    "wof:lastmodified":1536615468,
+    "wof:lastmodified":1554489337,
     "wof:name":"Zapatoca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.711339,
     "geom:longitude":-75.770297,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Libertador Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.773115,
     "lbl:longitude":-75.73375,
     "meso:admin_1":"C\u00f3rdoba",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700593,
-    "wof:lastmodified":1536615430,
+    "wof:lastmodified":1554489296,
     "wof:name":"Puerto Libertador",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

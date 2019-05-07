@@ -10,6 +10,12 @@
     "geom:latitude":7.016757,
     "geom:longitude":-75.713139,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Toledo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.030744,
     "lbl:longitude":-75.71231,
     "meso:admin_1":"Antioquia",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700025,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489271,
     "wof:name":"Toledo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

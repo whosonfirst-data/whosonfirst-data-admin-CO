@@ -10,6 +10,12 @@
     "geom:latitude":5.235764,
     "geom:longitude":-74.906474,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mariquita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.231155,
     "lbl:longitude":-74.908512,
     "meso:admin_1":"Tolima",
@@ -44,11 +50,12 @@
         "Mariquita"
     ],
     "name:eng_x_preferred":[
-        "Mariquita [, San Sebastian de]"
+        "Mariquita"
     ],
     "name:eng_x_variant":[
         "Mariquita",
-        "San Sebastian de Mariquita"
+        "San Sebastian de Mariquita",
+        "Mariquita"
     ],
     "name:epo_x_preferred":[
         "Mariquita"
@@ -181,7 +188,7 @@
         }
     ],
     "wof:id":421181783,
-    "wof:lastmodified":1536615969,
+    "wof:lastmodified":1555047373,
     "wof:name":"Mariquita",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

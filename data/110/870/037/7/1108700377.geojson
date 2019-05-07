@@ -10,6 +10,12 @@
     "geom:latitude":5.264425,
     "geom:longitude":-75.473183,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aranzazu Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.264409,
     "lbl:longitude":-75.474685,
     "meso:admin_1":"Caldas",
@@ -34,7 +40,7 @@
         "Aranzazu"
     ],
     "name:eng_x_preferred":[
-        "Aranzaz\u00fa"
+        "Aranzazu"
     ],
     "name:eng_x_variant":[
         "Aranzazu",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700377,
-    "wof:lastmodified":1536615419,
+    "wof:lastmodified":1555047388,
     "wof:name":"Aranzazu",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

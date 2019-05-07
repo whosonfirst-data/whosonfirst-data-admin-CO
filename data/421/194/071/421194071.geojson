@@ -10,6 +10,12 @@
     "geom:latitude":9.246591,
     "geom:longitude":-74.143125,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guamal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.25194,
     "lbl:longitude":-74.145616,
     "meso:admin_1":"Magdalena",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421194071,
-    "wof:lastmodified":1536616113,
+    "wof:lastmodified":1554489014,
     "wof:name":"Guamal",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

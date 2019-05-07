@@ -10,6 +10,12 @@
     "geom:latitude":8.328944,
     "geom:longitude":-72.411124,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Santander Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.335225,
     "lbl:longitude":-72.414455,
     "meso:admin_1":"Norte de Santander",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108701133,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1554489325,
     "wof:name":"Puerto Santander",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

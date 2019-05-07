@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017014,
-    "geom:area_square_m":207688801.307166,
+    "geom:area_square_m":207688801.307394,
     "geom:bbox":"-75.4713900081,9.06719054681,-75.2485267329,9.24770895575",
     "geom:latitude":9.169858,
     "geom:longitude":-75.361948,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sampu\u00e9s Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.18926,
     "lbl:longitude":-75.391501,
     "meso:admin_1":"Sucre",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701409,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037373,
     "wof:name":"Sampu\u00e9s",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

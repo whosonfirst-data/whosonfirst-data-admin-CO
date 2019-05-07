@@ -10,6 +10,12 @@
     "geom:latitude":10.635086,
     "geom:longitude":-72.882911,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Molino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.624808,
     "lbl:longitude":-72.856089,
     "meso:admin_1":"La Guajira",
@@ -34,11 +40,12 @@
         "San Juan del Cesar"
     ],
     "name:eng_x_preferred":[
-        "San Juan del Cesar"
+        "El Molino"
     ],
     "name:eng_x_variant":[
         "San Juan Del Cesar",
-        "San Juan del Cesar"
+        "San Juan del Cesar",
+        "El Molino"
     ],
     "name:fre_x_preferred":[
         "San Juan del Cesar"
@@ -112,10 +119,11 @@
         }
     ],
     "wof:id":1108700859,
-    "wof:lastmodified":1536615441,
+    "wof:lastmodified":1555047397,
     "wof:name":"El Molino",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

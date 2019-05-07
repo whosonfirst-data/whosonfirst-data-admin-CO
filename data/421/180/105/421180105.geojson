@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013878,
-    "geom:area_square_m":170794842.883269,
+    "geom:area_square_m":170794842.883344,
     "geom:bbox":"-73.2482386965,5.50306557162,-73.0799258114,5.65126231932",
     "geom:latitude":5.580299,
     "geom:longitude":-73.160965,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Toca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.574396,
     "lbl:longitude":-73.152707,
     "meso:admin_1":"Boyac\u00e1",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421180105,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1555037130,
     "wof:name":"Toca",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

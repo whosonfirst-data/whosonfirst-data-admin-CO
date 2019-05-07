@@ -10,6 +10,12 @@
     "geom:latitude":6.962833,
     "geom:longitude":-73.005509,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Piedecuesta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.981874,
     "lbl:longitude":-73.034344,
     "meso:admin_1":"Santander",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108701317,
-    "wof:lastmodified":1536615466,
+    "wof:lastmodified":1554489334,
     "wof:name":"Piedecuesta",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

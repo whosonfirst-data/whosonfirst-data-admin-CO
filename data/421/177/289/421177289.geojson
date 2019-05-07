@@ -10,6 +10,12 @@
     "geom:latitude":2.017472,
     "geom:longitude":-75.073177,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Rico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.875745,
     "lbl:longitude":-75.030474,
     "meso:admin_1":"Caquet\u00e1",
@@ -31,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Puerto Rico"
     ],
+    "name:eng_x_preferred":[
+        "Puerto Rico"
+    ],
     "name:eng_x_variant":[
         "San Vicente Del Caguan",
         "San Vicente del Cagu\u00e1n"
@@ -39,6 +48,9 @@
         "\u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648"
     ],
     "name:fra_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:fre_x_preferred":[
         "Puerto Rico"
     ],
     "name:ita_x_preferred":[
@@ -113,10 +125,11 @@
         }
     ],
     "wof:id":421177289,
-    "wof:lastmodified":1536615958,
+    "wof:lastmodified":1555047373,
     "wof:name":"Puerto Rico",
     "wof:parent_id":85670179,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:population":12306,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-co",

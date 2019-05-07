@@ -10,6 +10,12 @@
     "geom:latitude":9.550346,
     "geom:longitude":-75.185167,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ovejas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.543652,
     "lbl:longitude":-75.198125,
     "meso:admin_1":"Sucre",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421204839,
-    "wof:lastmodified":1536616167,
+    "wof:lastmodified":1554489051,
     "wof:name":"Ovejas",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

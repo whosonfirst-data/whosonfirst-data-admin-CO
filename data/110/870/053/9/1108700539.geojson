@@ -10,6 +10,12 @@
     "geom:latitude":8.339598,
     "geom:longitude":-73.705669,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gamarra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.382951,
     "lbl:longitude":-73.697577,
     "meso:admin_1":"Cesar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700539,
-    "wof:lastmodified":1536615428,
+    "wof:lastmodified":1554489293,
     "wof:name":"Gamarra",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

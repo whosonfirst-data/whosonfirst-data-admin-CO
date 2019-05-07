@@ -10,6 +10,12 @@
     "geom:latitude":5.452584,
     "geom:longitude":-75.640424,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sup\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.451997,
     "lbl:longitude":-75.646422,
     "meso:admin_1":"Caldas",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700399,
-    "wof:lastmodified":1536615420,
+    "wof:lastmodified":1554489285,
     "wof:name":"Sup\u00eda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

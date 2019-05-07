@@ -10,6 +10,12 @@
     "geom:latitude":4.904464,
     "geom:longitude":-75.852506,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Virginia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.903704,
     "lbl:longitude":-75.853078,
     "meso:admin_1":"Risaralda",
@@ -34,6 +40,9 @@
     "name:ceb_x_preferred":[
         "La Virginia"
     ],
+    "name:eng_x_preferred":[
+        "La Virginia"
+    ],
     "name:eng_x_variant":[
         "Marsella"
     ],
@@ -41,6 +50,9 @@
         "\u0644\u0627 \u0648\u06cc\u0631\u062e\u06cc\u0646\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
+        "La Virginia"
+    ],
+    "name:fre_x_preferred":[
         "La Virginia"
     ],
     "name:ita_x_preferred":[
@@ -135,10 +147,11 @@
         }
     ],
     "wof:id":421181267,
-    "wof:lastmodified":1536615968,
+    "wof:lastmodified":1555047373,
     "wof:name":"La Virginia",
     "wof:parent_id":85670173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MA",
     "wof:superseded_by":[],

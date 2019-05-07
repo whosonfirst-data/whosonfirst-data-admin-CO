@@ -10,6 +10,12 @@
     "geom:latitude":7.155475,
     "geom:longitude":-73.111332,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bucaramanga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.151221,
     "lbl:longitude":-73.105408,
     "meso:admin_1":"Santander",
@@ -237,7 +243,7 @@
         }
     ],
     "wof:id":1108701181,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489328,
     "wof:name":"Bucaramanga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

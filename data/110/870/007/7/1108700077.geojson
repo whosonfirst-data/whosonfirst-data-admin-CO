@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00341,
-    "geom:area_square_m":41413238.561631,
+    "geom:area_square_m":41413238.561626,
     "geom:bbox":"-74.8137976071,10.7730108312,-74.7265549688,10.8318026211",
     "geom:latitude":10.799561,
     "geom:longitude":-74.769603,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sabanagrande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.80099,
     "lbl:longitude":-74.768757,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700077,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037454,
     "wof:name":"Sabanagrande",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

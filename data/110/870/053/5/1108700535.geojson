@@ -10,6 +10,12 @@
     "geom:latitude":10.200161,
     "geom:longitude":-73.912691,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Copey Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.186059,
     "lbl:longitude":-73.910034,
     "meso:admin_1":"Cesar",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700535,
-    "wof:lastmodified":1536615427,
+    "wof:lastmodified":1554489293,
     "wof:name":"El Copey",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

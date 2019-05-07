@@ -10,6 +10,12 @@
     "geom:latitude":10.926664,
     "geom:longitude":-72.94432,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Distracci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.935918,
     "lbl:longitude":-72.958182,
     "meso:admin_1":"La Guajira",
@@ -34,6 +40,9 @@
         "Fonseca"
     ],
     "name:eng_x_preferred":[
+        "Distracci\u00f3n"
+    ],
+    "name:eng_x_variant":[
         "Fonseca"
     ],
     "name:fre_x_preferred":[
@@ -99,10 +108,11 @@
         }
     ],
     "wof:id":1108700857,
-    "wof:lastmodified":1536615441,
+    "wof:lastmodified":1555047397,
     "wof:name":"Distracci\u00f3n",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"FO",
     "wof:superseded_by":[],

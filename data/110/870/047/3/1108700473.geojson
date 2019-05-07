@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.274884,
-    "geom:area_square_m":3394326676.785137,
+    "geom:area_square_m":3394326676.786632,
     "geom:bbox":"-77.7034607209,2.66907341417,-76.7818677578,3.24957356855",
     "geom:latitude":3.002893,
     "geom:longitude":-77.220187,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "L\u00f3pez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.956267,
     "lbl:longitude":-77.18891,
     "meso:admin_1":"Cauca",
@@ -34,11 +40,12 @@
         "L\u00f3pez"
     ],
     "name:eng_x_preferred":[
-        "L\u00f3pez [de Micay]"
+        "L\u00f3pez"
     ],
     "name:eng_x_variant":[
         "Lopez De Micay",
         "L\u00f3pez de Micay",
+        "L\u00f3pez",
         "L\u00f3pez"
     ],
     "name:fre_x_preferred":[
@@ -110,7 +117,7 @@
         }
     ],
     "wof:id":1108700473,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555047390,
     "wof:name":"L\u00f3pez",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

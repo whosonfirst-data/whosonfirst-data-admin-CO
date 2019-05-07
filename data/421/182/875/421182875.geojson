@@ -10,6 +10,12 @@
     "geom:latitude":3.827629,
     "geom:longitude":-74.075484,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cubarral Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.850039,
     "lbl:longitude":-74.098416,
     "meso:admin_1":"Meta",
@@ -31,11 +37,17 @@
     "name:ceb_x_preferred":[
         "Cumaral"
     ],
+    "name:eng_x_preferred":[
+        "Cubarral"
+    ],
     "name:eng_x_variant":[
         "Cubarral",
         "San Luis de Cubarral"
     ],
     "name:fra_x_preferred":[
+        "Cumaral"
+    ],
+    "name:fre_x_preferred":[
         "Cumaral"
     ],
     "name:ita_x_preferred":[
@@ -127,10 +139,11 @@
         }
     ],
     "wof:id":421182875,
-    "wof:lastmodified":1536615989,
+    "wof:lastmodified":1555047374,
     "wof:name":"Cubarral",
     "wof:parent_id":85670255,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CB",
     "wof:superseded_by":[],

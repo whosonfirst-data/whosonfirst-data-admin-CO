@@ -10,6 +10,12 @@
     "geom:latitude":6.268326,
     "geom:longitude":-75.434053,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guarne Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.265512,
     "lbl:longitude":-75.432742,
     "meso:admin_1":"Antioquia",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":421190187,
-    "wof:lastmodified":1536616077,
+    "wof:lastmodified":1554488986,
     "wof:name":"Guarne",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

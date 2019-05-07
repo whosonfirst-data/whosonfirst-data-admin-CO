@@ -10,6 +10,12 @@
     "geom:latitude":4.139406,
     "geom:longitude":-74.352183,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Bernardo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.136698,
     "lbl:longitude":-74.378484,
     "meso:admin_1":"Cundinamarca",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700707,
-    "wof:lastmodified":1536615434,
+    "wof:lastmodified":1554489302,
     "wof:name":"San Bernardo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

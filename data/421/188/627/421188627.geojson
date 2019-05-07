@@ -10,6 +10,12 @@
     "geom:latitude":6.352675,
     "geom:longitude":-72.419007,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Cocuy Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.348296,
     "lbl:longitude":-72.418979,
     "meso:admin_1":"Boyac\u00e1",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421188627,
-    "wof:lastmodified":1536616061,
+    "wof:lastmodified":1554488972,
     "wof:name":"El Cocuy",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

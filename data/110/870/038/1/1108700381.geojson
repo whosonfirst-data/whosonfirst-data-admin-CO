@@ -10,6 +10,12 @@
     "geom:latitude":5.393347,
     "geom:longitude":-75.55755,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Merced Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.393426,
     "lbl:longitude":-75.558475,
     "meso:admin_1":"Caldas",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700381,
-    "wof:lastmodified":1536615419,
+    "wof:lastmodified":1554489285,
     "wof:name":"La Merced",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

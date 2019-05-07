@@ -10,6 +10,12 @@
     "geom:latitude":4.866654,
     "geom:longitude":-73.61849,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gachet\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.867025,
     "lbl:longitude":-73.616857,
     "meso:admin_1":"Cundinamarca",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421190821,
-    "wof:lastmodified":1536616082,
+    "wof:lastmodified":1554488989,
     "wof:name":"Gachet\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

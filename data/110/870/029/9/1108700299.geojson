@@ -10,6 +10,12 @@
     "geom:latitude":5.744765,
     "geom:longitude":-72.44592,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pisva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.773189,
     "lbl:longitude":-72.436093,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,7 +40,7 @@
         "Pisba"
     ],
     "name:eng_x_preferred":[
-        "Pisba"
+        "Pisva"
     ],
     "name:eng_x_variant":[
         "Pisva",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700299,
-    "wof:lastmodified":1536615417,
+    "wof:lastmodified":1555047387,
     "wof:name":"Pisva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

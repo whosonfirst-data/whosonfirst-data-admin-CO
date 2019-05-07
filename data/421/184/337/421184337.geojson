@@ -10,6 +10,12 @@
     "geom:latitude":5.126765,
     "geom:longitude":-72.54879,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aguazul Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.13632,
     "lbl:longitude":-72.562843,
     "meso:admin_1":"Casanare",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421184337,
-    "wof:lastmodified":1536616019,
+    "wof:lastmodified":1554488947,
     "wof:name":"Aguazul",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

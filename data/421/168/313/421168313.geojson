@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025953,
-    "geom:area_square_m":316476019.398283,
+    "geom:area_square_m":316476019.398325,
     "geom:bbox":"-75.6185338201,9.39386040645,-75.4426904544,9.66695941788",
     "geom:latitude":9.534353,
     "geom:longitude":-75.534784,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tol\u00fa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.532061,
     "lbl:longitude":-75.533503,
     "meso:admin_1":"Sucre",
@@ -692,10 +698,11 @@
         }
     ],
     "wof:id":421168313,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1555037171,
     "wof:name":"Tol\u00fa",
     "wof:parent_id":85670227,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"TO",
     "wof:superseded_by":[],

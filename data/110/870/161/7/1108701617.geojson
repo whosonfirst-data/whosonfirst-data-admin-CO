@@ -10,6 +10,12 @@
     "geom:latitude":3.386109,
     "geom:longitude":-67.585156,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cacahual Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.361498,
     "lbl:longitude":-67.589365,
     "meso:admin_1":"Guain\u00eda",
@@ -34,6 +40,10 @@
         "Cacahual"
     ],
     "name:eng_x_preferred":[
+        "Cacahual"
+    ],
+    "name:eng_x_variant":[
+        "Cacahual",
         "Cacahual"
     ],
     "name:fre_x_preferred":[
@@ -105,11 +115,11 @@
         }
     ],
     "wof:id":1108701617,
-    "wof:lastmodified":1536615486,
+    "wof:lastmodified":1555091995,
     "wof:name":"C.D Cacahual",
     "wof:parent_id":85670249,
     "wof:placetype":"county",
-    "wof:placetype_local":"corregimiento",
+    "wof:placetype_local":"municipality",
     "wof:population":246,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-co",

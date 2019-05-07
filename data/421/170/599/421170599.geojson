@@ -10,6 +10,12 @@
     "geom:latitude":1.748293,
     "geom:longitude":-75.561811,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Florencia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.760605,
     "lbl:longitude":-75.578459,
     "meso:admin_1":"Caquet\u00e1",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Florencia"
     ],
+    "name:eng_x_preferred":[
+        "Florencia"
+    ],
     "name:eng_x_variant":[
         "Florencia"
     ],
     "name:fra_x_preferred":[
+        "Florencia"
+    ],
+    "name:fre_x_preferred":[
         "Florencia"
     ],
     "name:ita_x_preferred":[
@@ -126,10 +138,11 @@
         }
     ],
     "wof:id":421170599,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1555047371,
     "wof:name":"Florencia",
     "wof:parent_id":85670179,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"FL",
     "wof:superseded_by":[],

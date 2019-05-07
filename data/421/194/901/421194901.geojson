@@ -10,6 +10,12 @@
     "geom:latitude":6.120936,
     "geom:longitude":-75.715888,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Angel\u00f3polis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.116627,
     "lbl:longitude":-75.716604,
     "meso:admin_1":"Antioquia",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421194901,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1554489017,
     "wof:name":"Angel\u00f3polis",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

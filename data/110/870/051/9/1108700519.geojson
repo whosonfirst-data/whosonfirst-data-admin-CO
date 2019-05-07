@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040104,
-    "geom:area_square_m":495225702.848698,
+    "geom:area_square_m":495225702.848684,
     "geom:bbox":"-76.3186095172,2.84503726302,-76.0665310172,3.09761461494",
     "geom:latitude":2.975689,
     "geom:longitude":-76.203525,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Torib\u00edo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.972216,
     "lbl:longitude":-76.213671,
     "meso:admin_1":"Cauca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700519,
-    "wof:lastmodified":1553816475,
+    "wof:lastmodified":1555037426,
     "wof:name":"Torib\u00edo",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.40719,
     "geom:longitude":-78.208475,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Tola Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.567303,
     "lbl:longitude":-78.226693,
     "meso:admin_1":"Nari\u00f1o",
@@ -28,10 +34,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "El Charco"
+        "La Tola"
     ],
     "name:eng_x_variant":[
-        "El Charco"
+        "El Charco",
+        "La Tola"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":1108701023,
-    "wof:lastmodified":1536615453,
+    "wof:lastmodified":1555047403,
     "wof:name":"La Tola",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

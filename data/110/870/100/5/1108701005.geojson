@@ -10,6 +10,12 @@
     "geom:latitude":0.914678,
     "geom:longitude":-77.329203,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Funes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.951799,
     "lbl:longitude":-77.402614,
     "meso:admin_1":"Nari\u00f1o",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701005,
-    "wof:lastmodified":1536615452,
+    "wof:lastmodified":1554489316,
     "wof:name":"Funes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

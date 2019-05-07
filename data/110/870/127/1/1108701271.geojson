@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002439,
-    "geom:area_square_m":29987619.525049,
+    "geom:area_square_m":29987619.525043,
     "geom:bbox":"-73.6195803768,5.9923762538,-73.5370642523,6.07924200153",
     "geom:latitude":6.03312,
     "geom:longitude":-73.578351,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guepsa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.038873,
     "lbl:longitude":-73.572144,
     "meso:admin_1":"Santander",
@@ -34,7 +40,7 @@
         "G\u00fcepsa"
     ],
     "name:eng_x_preferred":[
-        "G\u00fcepsa"
+        "Guepsa"
     ],
     "name:eng_x_variant":[
         "Guepsa",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701271,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555047407,
     "wof:name":"Guepsa",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

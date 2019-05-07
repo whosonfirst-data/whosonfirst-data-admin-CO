@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018999,
-    "geom:area_square_m":234463760.331872,
+    "geom:area_square_m":234463760.33178,
     "geom:bbox":"-76.5979538823,3.48854075769,-76.4264635865,3.69938725097",
     "geom:latitude":3.596022,
     "geom:longitude":-76.511063,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Yumbo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.601488,
     "lbl:longitude":-76.511064,
     "meso:admin_1":"Valle del Cauca",
@@ -142,7 +148,7 @@
         }
     ],
     "wof:id":421186433,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555037101,
     "wof:name":"Yumbo",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

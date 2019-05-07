@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013911,
-    "geom:area_square_m":170826667.308864,
+    "geom:area_square_m":170826667.308858,
     "geom:bbox":"-73.1065430429,6.64555390478,-72.9358497413,6.82334771205",
     "geom:latitude":6.716005,
     "geom:longitude":-73.011827,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aratoca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.693169,
     "lbl:longitude":-72.997608,
     "meso:admin_1":"Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701187,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037387,
     "wof:name":"Aratoca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

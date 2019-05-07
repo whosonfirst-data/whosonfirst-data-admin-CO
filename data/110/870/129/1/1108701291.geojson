@@ -10,6 +10,12 @@
     "geom:latitude":6.51238,
     "geom:longitude":-72.586014,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Macaravita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.510908,
     "lbl:longitude":-72.581182,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701291,
-    "wof:lastmodified":1536615465,
+    "wof:lastmodified":1554489333,
     "wof:name":"Macaravita",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

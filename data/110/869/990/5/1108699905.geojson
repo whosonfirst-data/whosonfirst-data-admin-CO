@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098845,
-    "geom:area_square_m":1213178739.116489,
+    "geom:area_square_m":1213178739.116287,
     "geom:bbox":"-75.1824680644,6.74793999245,-74.8362911102,7.29298137494",
     "geom:latitude":6.97846,
     "geom:longitude":-74.981053,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Amalfi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.972546,
     "lbl:longitude":-74.969273,
     "meso:admin_1":"Antioquia",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108699905,
-    "wof:lastmodified":1553816469,
+    "wof:lastmodified":1555037464,
     "wof:name":"Amalfi",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

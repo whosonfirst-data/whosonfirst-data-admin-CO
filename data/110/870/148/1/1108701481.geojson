@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035185,
-    "geom:area_square_m":434086977.555557,
+    "geom:area_square_m":434086977.555208,
     "geom:bbox":"-74.72369273,3.69527193391,-74.5121293046,3.99605338174",
     "geom:latitude":3.854986,
     "geom:longitude":-74.619029,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villarrica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.851357,
     "lbl:longitude":-74.617415,
     "meso:admin_1":"Tolima",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701481,
-    "wof:lastmodified":1553816484,
+    "wof:lastmodified":1555037366,
     "wof:name":"Villarrica",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

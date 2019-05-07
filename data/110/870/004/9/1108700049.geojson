@@ -10,6 +10,15 @@
     "geom:latitude":10.980133,
     "geom:longitude":-74.826452,
     "iso:country":"CO",
+    "label:eng_x_preferred_disambiguation":[
+        "Barranquilla (Distrito Especial, Industrial Y Portuario)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Barranquilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.974027,
     "lbl:longitude":-74.812674,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -77,7 +86,8 @@
     ],
     "name:eng_x_variant":[
         "Barranquilla  (dist.port.",
-        "Barranquilla"
+        "Barranquilla",
+        "Barranquilla (Distrito Especial, Industrial Y Portuario)"
     ],
     "name:epo_x_preferred":[
         "Barranquilla"
@@ -289,10 +299,11 @@
         }
     ],
     "wof:id":1108700049,
-    "wof:lastmodified":1536615408,
-    "wof:name":"Barranquilla (Distrito Especial, Industrial Y Portuario)",
+    "wof:lastmodified":1555220426,
+    "wof:name":"Barranquilla",
     "wof:parent_id":85670207,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"BQ",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":4.198129,
     "geom:longitude":-75.891039,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sevilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.26846,
     "lbl:longitude":-75.943133,
     "meso:admin_1":"Valle del Cauca",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421188713,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1554488978,
     "wof:name":"Sevilla",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

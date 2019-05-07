@@ -10,6 +10,12 @@
     "geom:latitude":5.547338,
     "geom:longitude":-74.709512,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Dorada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.636018,
     "lbl:longitude":-74.695369,
     "meso:admin_1":"Caldas",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":421203437,
-    "wof:lastmodified":1536616156,
+    "wof:lastmodified":1554489040,
     "wof:name":"La Dorada",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

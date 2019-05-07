@@ -10,6 +10,12 @@
     "geom:latitude":3.80602,
     "geom:longitude":-76.535359,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Restrepo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.807158,
     "lbl:longitude":-76.534002,
     "meso:admin_1":"Valle del Cauca",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421188711,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1554488977,
     "wof:name":"Restrepo",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

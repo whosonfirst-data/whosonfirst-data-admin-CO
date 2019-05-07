@@ -10,6 +10,12 @@
     "geom:latitude":2.812842,
     "geom:longitude":-73.665803,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Vistahermosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.848275,
     "lbl:longitude":-73.748185,
     "meso:admin_1":"Meta",
@@ -34,7 +40,7 @@
         "Vista Hermosa"
     ],
     "name:eng_x_preferred":[
-        "Vista Hermosa"
+        "Vistahermosa"
     ],
     "name:eng_x_variant":[
         "Vistahermosa",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700963,
-    "wof:lastmodified":1536615450,
+    "wof:lastmodified":1555047401,
     "wof:name":"Vistahermosa",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.430146,
     "geom:longitude":-77.383185,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Tambo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.421891,
     "lbl:longitude":-77.373539,
     "meso:admin_1":"Nari\u00f1o",
@@ -34,6 +40,9 @@
         "La Florida"
     ],
     "name:eng_x_preferred":[
+        "El Tambo"
+    ],
+    "name:eng_x_variant":[
         "La Florida"
     ],
     "name:fre_x_preferred":[
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":1108701003,
-    "wof:lastmodified":1536615452,
+    "wof:lastmodified":1555047403,
     "wof:name":"El Tambo",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.68592,
     "geom:longitude":-74.003067,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pauna Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.672567,
     "lbl:longitude":-74.001529,
     "meso:admin_1":"Boyac\u00e1",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700293,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489282,
     "wof:name":"Pauna",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

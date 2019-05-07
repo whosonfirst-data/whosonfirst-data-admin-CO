@@ -10,6 +10,12 @@
     "geom:latitude":6.303066,
     "geom:longitude":-73.50158,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Contrataci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.303602,
     "lbl:longitude":-73.503013,
     "meso:admin_1":"Santander",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701231,
-    "wof:lastmodified":1536615462,
+    "wof:lastmodified":1554489330,
     "wof:name":"Contrataci\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.675948,
     "geom:longitude":-76.209522,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Cerrito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.649122,
     "lbl:longitude":-76.291428,
     "meso:admin_1":"Valle del Cauca",
@@ -195,7 +201,7 @@
         }
     ],
     "wof:id":421170275,
-    "wof:lastmodified":1536615908,
+    "wof:lastmodified":1554488753,
     "wof:name":"El Cerrito",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

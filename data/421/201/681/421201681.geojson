@@ -10,6 +10,12 @@
     "geom:latitude":8.118331,
     "geom:longitude":-77.104983,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ungu\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.123548,
     "lbl:longitude":-77.088342,
     "meso:admin_1":"Choc\u00f3",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421201681,
-    "wof:lastmodified":1536616141,
+    "wof:lastmodified":1554489032,
     "wof:name":"Ungu\u00eda",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

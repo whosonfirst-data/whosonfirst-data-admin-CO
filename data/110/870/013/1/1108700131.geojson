@@ -10,6 +10,12 @@
     "geom:latitude":9.981797,
     "geom:longitude":-75.344589,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Maria La Baja Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.995309,
     "lbl:longitude":-75.333354,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Mar\u00eda La Baja"
     ],
     "name:eng_x_preferred":[
-        "Mar\u00eda la Baja"
+        "Maria La Baja"
     ],
     "name:eng_x_variant":[
         "Maria La Baja",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1108700131,
-    "wof:lastmodified":1536615411,
+    "wof:lastmodified":1555047384,
     "wof:name":"Maria La Baja",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

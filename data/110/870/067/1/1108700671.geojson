@@ -10,6 +10,12 @@
     "geom:latitude":5.33021,
     "geom:longitude":-74.408194,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Palma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.32031,
     "lbl:longitude":-74.409383,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700671,
-    "wof:lastmodified":1536615433,
+    "wof:lastmodified":1554489297,
     "wof:name":"La Palma",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

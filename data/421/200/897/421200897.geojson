@@ -10,6 +10,12 @@
     "geom:latitude":5.829237,
     "geom:longitude":-73.140708,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Paipa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.771359,
     "lbl:longitude":-73.125021,
     "meso:admin_1":"Boyac\u00e1",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421200897,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1554489031,
     "wof:name":"Paipa",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.913173,
     "geom:longitude":-73.786034,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guatavita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.916966,
     "lbl:longitude":-73.778442,
     "meso:admin_1":"Cundinamarca",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421202347,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1554489035,
     "wof:name":"Guatavita",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

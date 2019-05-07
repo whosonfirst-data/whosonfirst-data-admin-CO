@@ -10,6 +10,12 @@
     "geom:latitude":0.479105,
     "geom:longitude":-76.327237,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto As\u00eds Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.509094,
     "lbl:longitude":-76.410633,
     "meso:admin_1":"Putumayo",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":421185871,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1554488958,
     "wof:name":"Puerto As\u00eds",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.585233,
     "geom:longitude":-75.956846,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Monter\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.572869,
     "lbl:longitude":-75.956862,
     "meso:admin_1":"C\u00f3rdoba",
@@ -252,7 +258,7 @@
         }
     ],
     "wof:id":421172417,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1554488768,
     "wof:name":"Monter\u00eda",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

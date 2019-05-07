@@ -10,6 +10,12 @@
     "geom:latitude":1.31319,
     "geom:longitude":-76.115307,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Jos\u00e9 Del Fragua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.310656,
     "lbl:longitude":-76.101334,
     "meso:admin_1":"Caquet\u00e1",
@@ -34,12 +40,13 @@
         "San Jos\u00e9 del Fragua"
     ],
     "name:eng_x_preferred":[
-        "San Jos\u00e9 del Fragua"
+        "San Jos\u00e9 Del Fragua"
     ],
     "name:eng_x_variant":[
         "San Jose De Fragua",
         "San Jos\u00e9 del Fragua",
-        "San Jos\u00e9 de la Fragua"
+        "San Jos\u00e9 de la Fragua",
+        "San Jos\u00e9 Del Fragua"
     ],
     "name:epo_x_preferred":[
         "San Jos\u00e9 de la Fragua"
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":1108700421,
-    "wof:lastmodified":1536615421,
+    "wof:lastmodified":1555047389,
     "wof:name":"San Jos\u00e9 Del Fragua",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

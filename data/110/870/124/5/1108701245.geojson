@@ -10,6 +10,12 @@
     "geom:latitude":7.52461,
     "geom:longitude":-73.181725,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Play\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.526674,
     "lbl:longitude":-73.179066,
     "meso:admin_1":"Santander",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701245,
-    "wof:lastmodified":1536615463,
+    "wof:lastmodified":1554489331,
     "wof:name":"El Play\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

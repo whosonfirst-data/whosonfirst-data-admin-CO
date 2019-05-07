@@ -10,6 +10,12 @@
     "geom:latitude":5.540667,
     "geom:longitude":-72.600551,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Labranzagrande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.528646,
     "lbl:longitude":-72.598158,
     "meso:admin_1":"Boyac\u00e1",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700257,
-    "wof:lastmodified":1536615415,
+    "wof:lastmodified":1554489282,
     "wof:name":"Labranzagrande",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039883,
-    "geom:area_square_m":490148197.612981,
+    "geom:area_square_m":490148197.612795,
     "geom:bbox":"-72.9236403581,6.14195984099,-72.7246781572,6.5429983062",
     "geom:latitude":6.334865,
     "geom:longitude":-72.812124,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Onzaga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.322644,
     "lbl:longitude":-72.821927,
     "meso:admin_1":"Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701307,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037380,
     "wof:name":"Onzaga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

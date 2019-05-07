@@ -10,6 +10,12 @@
     "geom:latitude":4.88887,
     "geom:longitude":-73.965823,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sop\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.882998,
     "lbl:longitude":-73.955655,
     "meso:admin_1":"Cundinamarca",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421170613,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1554488756,
     "wof:name":"Sop\u00f3",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

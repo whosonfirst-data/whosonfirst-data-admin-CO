@@ -10,6 +10,12 @@
     "geom:latitude":6.310337,
     "geom:longitude":-74.99768,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.31192,
     "lbl:longitude":-75.000096,
     "meso:admin_1":"Antioquia",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421170575,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1554488755,
     "wof:name":"San Rafael",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

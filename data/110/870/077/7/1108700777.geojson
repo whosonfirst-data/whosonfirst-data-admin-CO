@@ -10,6 +10,12 @@
     "geom:latitude":5.110712,
     "geom:longitude":-76.998097,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Medio Baud\u00f3 (Boca De Pep\u00e9) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.097005,
     "lbl:longitude":-76.973926,
     "meso:admin_1":"Choc\u00f3",
@@ -34,11 +40,13 @@
         "Bajo Baud\u00f3"
     ],
     "name:eng_x_preferred":[
-        "Bajo Baud\u00f3"
+        "Medio Baud\u00f3"
     ],
     "name:eng_x_variant":[
         "Bajo Baudo (pizarro)",
-        "Bajo Baud\u00f3"
+        "Bajo Baud\u00f3",
+        "Medio Baud\u00f3 (Boca De Pep\u00e9)",
+        "Medio Baud\u00f3"
     ],
     "name:fre_x_preferred":[
         "Bajo Baud\u00f3"
@@ -100,10 +108,11 @@
         }
     ],
     "wof:id":1108700777,
-    "wof:lastmodified":1536615437,
-    "wof:name":"Medio Baud\u00f3 (Boca De Pep\u00e9)",
+    "wof:lastmodified":1555047396,
+    "wof:name":"Medio Baud\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"BB",
     "wof:superseded_by":[],

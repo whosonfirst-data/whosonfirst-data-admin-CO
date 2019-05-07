@@ -10,6 +10,12 @@
     "geom:latitude":4.833438,
     "geom:longitude":-75.549218,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa De Cabal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.81621,
     "lbl:longitude":-75.532431,
     "meso:admin_1":"Risaralda",
@@ -44,7 +50,7 @@
         "Santa Rosa de Cabal"
     ],
     "name:eng_x_preferred":[
-        "Santa Rosa de Cabal"
+        "Santa Rosa De Cabal"
     ],
     "name:eng_x_variant":[
         "Santa Rosa De Cabal",
@@ -177,10 +183,11 @@
         }
     ],
     "wof:id":421200815,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1555047378,
     "wof:name":"Santa Rosa De Cabal",
     "wof:parent_id":85670173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SR",
     "wof:superseded_by":[],

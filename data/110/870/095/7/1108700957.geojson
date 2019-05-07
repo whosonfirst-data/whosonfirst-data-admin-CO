@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066358,
-    "geom:area_square_m":818681237.441764,
+    "geom:area_square_m":818681237.441612,
     "geom:bbox":"-73.4617998902,3.69163474025,-73.0804723012,3.98273938954",
     "geom:latitude":3.847422,
     "geom:longitude":-73.276014,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Carlos De Guaroa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.851096,
     "lbl:longitude":-73.275935,
     "meso:admin_1":"Meta",
@@ -34,7 +40,7 @@
         "San Carlos de Guaroa"
     ],
     "name:eng_x_preferred":[
-        "San Carlos de Guaroa"
+        "San Carlos De Guaroa"
     ],
     "name:eng_x_variant":[
         "San Carlos De Guaroa",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700957,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555047401,
     "wof:name":"San Carlos De Guaroa",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.396521,
     "geom:longitude":-77.520624,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Linares Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.395177,
     "lbl:longitude":-77.525462,
     "meso:admin_1":"Nari\u00f1o",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701031,
-    "wof:lastmodified":1536615453,
+    "wof:lastmodified":1554489318,
     "wof:name":"Linares",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

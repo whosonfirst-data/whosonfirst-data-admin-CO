@@ -10,6 +10,12 @@
     "geom:latitude":3.048874,
     "geom:longitude":-74.431518,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Uribe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.045249,
     "lbl:longitude":-74.480458,
     "meso:admin_1":"Meta",
@@ -34,6 +40,9 @@
         "La Uribe"
     ],
     "name:eng_x_preferred":[
+        "Uribe"
+    ],
+    "name:eng_x_variant":[
         "La Uribe"
     ],
     "name:fre_x_preferred":[
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1108700945,
-    "wof:lastmodified":1536615447,
+    "wof:lastmodified":1555047400,
     "wof:name":"Uribe",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

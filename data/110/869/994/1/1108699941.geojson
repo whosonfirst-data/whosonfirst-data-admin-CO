@@ -10,6 +10,12 @@
     "geom:latitude":6.815345,
     "geom:longitude":-76.026402,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ca\u00f1asgordas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.828447,
     "lbl:longitude":-76.042304,
     "meso:admin_1":"Antioquia",
@@ -106,10 +112,11 @@
         }
     ],
     "wof:id":1108699941,
-    "wof:lastmodified":1536615404,
+    "wof:lastmodified":1554489269,
     "wof:name":"Ca\u00f1asgordas",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CG",
     "wof:superseded_by":[],

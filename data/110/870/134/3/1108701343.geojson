@@ -10,6 +10,12 @@
     "geom:latitude":6.567081,
     "geom:longitude":-72.643543,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Miguel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.567311,
     "lbl:longitude":-72.639165,
     "meso:admin_1":"Santander",
@@ -87,10 +93,11 @@
         }
     ],
     "wof:id":1108701343,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1554489334,
     "wof:name":"San Miguel",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SM",
     "wof:superseded_by":[],

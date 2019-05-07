@@ -10,6 +10,12 @@
     "geom:latitude":7.475179,
     "geom:longitude":-74.858034,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Zaragoza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.504592,
     "lbl:longitude":-74.858012,
     "meso:admin_1":"Antioquia",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421177931,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1554488781,
     "wof:name":"Zaragoza",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

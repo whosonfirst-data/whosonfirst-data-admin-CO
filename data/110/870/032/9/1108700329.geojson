@@ -10,6 +10,12 @@
     "geom:latitude":6.131952,
     "geom:longitude":-72.730472,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sativanorte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.127701,
     "lbl:longitude":-72.728957,
     "meso:admin_1":"Boyac\u00e1",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700329,
-    "wof:lastmodified":1536615418,
+    "wof:lastmodified":1554489284,
     "wof:name":"Sativanorte",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SE",
     "wof:superseded_by":[],

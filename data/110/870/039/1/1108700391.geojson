@@ -10,6 +10,12 @@
     "geom:latitude":5.638309,
     "geom:longitude":-74.854233,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Norcasia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.646617,
     "lbl:longitude":-74.826696,
     "meso:admin_1":"Caldas",
@@ -27,6 +33,9 @@
     "mps:longitude":-74.826696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Norcasia"
+    ],
     "name:eng_x_variant":[
         "Samana",
         "Saman\u00e1"
@@ -54,10 +63,11 @@
         }
     ],
     "wof:id":1108700391,
-    "wof:lastmodified":1536615420,
+    "wof:lastmodified":1555047388,
     "wof:name":"Norcasia",
     "wof:parent_id":85670155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

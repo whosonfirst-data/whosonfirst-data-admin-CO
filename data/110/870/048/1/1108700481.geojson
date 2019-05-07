@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005668,
-    "geom:area_square_m":69977323.676839,
+    "geom:area_square_m":69977323.676817,
     "geom:bbox":"-76.3769333469,3.13033728265,-76.2866932195,3.24138490274",
     "geom:latitude":3.194822,
     "geom:longitude":-76.336216,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Padilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.200499,
     "lbl:longitude":-76.333129,
     "meso:admin_1":"Cauca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700481,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037429,
     "wof:name":"Padilla",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

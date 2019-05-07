@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033909,
-    "geom:area_square_m":417271281.366518,
+    "geom:area_square_m":417271281.366575,
     "geom:bbox":"-72.5184629666,5.50695643718,-72.2548704888,5.8002930672",
     "geom:latitude":5.633035,
     "geom:longitude":-72.37547,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Paya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.623278,
     "lbl:longitude":-72.375449,
     "meso:admin_1":"Boyac\u00e1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700295,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037443,
     "wof:name":"Paya",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.079986,
     "geom:longitude":-72.929139,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bucarasica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.073845,
     "lbl:longitude":-72.920274,
     "meso:admin_1":"Norte de Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701091,
-    "wof:lastmodified":1536615457,
+    "wof:lastmodified":1554489323,
     "wof:name":"Bucarasica",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

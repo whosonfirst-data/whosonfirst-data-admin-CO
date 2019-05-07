@@ -10,6 +10,12 @@
     "geom:latitude":7.850611,
     "geom:longitude":-73.982752,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Simit\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.813736,
     "lbl:longitude":-73.94313,
     "meso:admin_1":"Bol\u00edvar",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700169,
-    "wof:lastmodified":1536615413,
+    "wof:lastmodified":1554489281,
     "wof:name":"Simit\u00ed",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

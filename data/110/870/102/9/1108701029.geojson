@@ -10,6 +10,12 @@
     "geom:latitude":1.938605,
     "geom:longitude":-77.31201,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Leiva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.910416,
     "lbl:longitude":-77.30296,
     "meso:admin_1":"Nari\u00f1o",
@@ -90,10 +96,11 @@
         }
     ],
     "wof:id":1108701029,
-    "wof:lastmodified":1536615453,
+    "wof:lastmodified":1554489320,
     "wof:name":"Leiva",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"LE",
     "wof:superseded_by":[],

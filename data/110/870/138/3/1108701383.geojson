@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022478,
-    "geom:area_square_m":274371171.109903,
+    "geom:area_square_m":274371171.110001,
     "geom:bbox":"-75.3588165225,9.05730991643,-75.1255547292,9.35270071581",
     "geom:latitude":9.201567,
     "geom:longitude":-75.247942,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Corozal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.172408,
     "lbl:longitude":-75.247974,
     "meso:admin_1":"Sucre",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108701383,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037375,
     "wof:name":"Corozal",
     "wof:parent_id":85670227,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CZ",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020528,
-    "geom:area_square_m":253120249.795749,
+    "geom:area_square_m":253120249.795718,
     "geom:bbox":"-75.7967925317,4.22057794274,-75.5912876677,4.3820545825",
     "geom:latitude":4.303174,
     "geom:longitude":-75.683137,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pijao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.299067,
     "lbl:longitude":-75.68116,
     "meso:admin_1":"Quindio",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108701163,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037388,
     "wof:name":"Pijao",
     "wof:parent_id":85670169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

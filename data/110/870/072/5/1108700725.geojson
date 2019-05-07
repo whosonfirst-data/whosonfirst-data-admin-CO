@@ -10,6 +10,12 @@
     "geom:latitude":5.193256,
     "geom:longitude":-74.476672,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "\u00datica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.204218,
     "lbl:longitude":-74.477481,
     "meso:admin_1":"Cundinamarca",
@@ -34,7 +40,7 @@
         "\u00datica"
     ],
     "name:eng_x_preferred":[
-        "Utica"
+        "\u00datica"
     ],
     "name:eng_x_variant":[
         "Utica",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700725,
-    "wof:lastmodified":1536615434,
+    "wof:lastmodified":1555047393,
     "wof:name":"\u00datica",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

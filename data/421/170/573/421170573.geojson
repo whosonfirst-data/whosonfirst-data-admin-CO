@@ -10,6 +10,12 @@
     "geom:latitude":6.019689,
     "geom:longitude":-74.937762,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Luis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.023758,
     "lbl:longitude":-74.988675,
     "meso:admin_1":"Antioquia",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421170573,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1554488755,
     "wof:name":"San Luis",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

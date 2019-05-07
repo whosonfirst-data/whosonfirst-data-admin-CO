@@ -10,6 +10,12 @@
     "geom:latitude":6.481591,
     "geom:longitude":-74.528306,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Berr\u00edo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.461197,
     "lbl:longitude":-74.525316,
     "meso:admin_1":"Antioquia",
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":421170571,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1554488755,
     "wof:name":"Puerto Berr\u00edo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

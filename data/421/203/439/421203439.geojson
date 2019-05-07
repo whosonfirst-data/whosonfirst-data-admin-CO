@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158565,
-    "geom:area_square_m":1940334280.272286,
+    "geom:area_square_m":1940334280.272261,
     "geom:bbox":"-75.3404606906,8.04923963419,-74.7851373702,8.49454461165",
     "geom:latitude":8.260972,
     "geom:longitude":-75.049999,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ayapel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.260003,
     "lbl:longitude":-75.050084,
     "meso:admin_1":"C\u00f3rdoba",
@@ -128,10 +134,11 @@
         }
     ],
     "wof:id":421203439,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1555037051,
     "wof:name":"Ayapel",
     "wof:parent_id":85670137,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AY",
     "wof:superseded_by":[],

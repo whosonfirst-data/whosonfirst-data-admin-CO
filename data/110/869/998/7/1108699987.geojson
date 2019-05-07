@@ -10,6 +10,12 @@
     "geom:latitude":7.04405,
     "geom:longitude":-75.889379,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Peque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.040107,
     "lbl:longitude":-75.906567,
     "meso:admin_1":"Antioquia",
@@ -34,7 +40,7 @@
         "Peque"
     ],
     "name:eng_x_preferred":[
-        "Pequ\u00e9"
+        "Peque"
     ],
     "name:eng_x_variant":[
         "Peque",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108699987,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1555047381,
     "wof:name":"Peque",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

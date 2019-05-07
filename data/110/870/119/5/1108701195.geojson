@@ -10,6 +10,12 @@
     "geom:latitude":7.062096,
     "geom:longitude":-73.776719,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Barrancabermeja Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.086638,
     "lbl:longitude":-73.757709,
     "meso:admin_1":"Santander",
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1108701195,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489327,
     "wof:name":"Barrancabermeja",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

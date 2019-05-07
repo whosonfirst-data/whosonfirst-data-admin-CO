@@ -10,6 +10,12 @@
     "geom:latitude":4.964813,
     "geom:longitude":-74.271105,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.971857,
     "lbl:longitude":-74.267063,
     "meso:admin_1":"Cundinamarca",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "San Francisco"
     ],
+    "name:eng_x_preferred":[
+        "San Francisco"
+    ],
     "name:eng_x_variant":[
         "San Francisco"
     ],
     "name:fra_x_preferred":[
+        "San Francisco de Sales"
+    ],
+    "name:fre_x_preferred":[
         "San Francisco de Sales"
     ],
     "name:ita_x_preferred":[
@@ -129,10 +141,11 @@
         }
     ],
     "wof:id":421205087,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1555047380,
     "wof:name":"San Francisco",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

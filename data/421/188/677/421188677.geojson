@@ -10,6 +10,12 @@
     "geom:latitude":0.562321,
     "geom:longitude":-77.368262,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ipiales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.51034,
     "lbl:longitude":-77.322347,
     "meso:admin_1":"Nari\u00f1o",
@@ -155,7 +161,7 @@
         }
     ],
     "wof:id":421188677,
-    "wof:lastmodified":1536616063,
+    "wof:lastmodified":1554488978,
     "wof:name":"Ipiales",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

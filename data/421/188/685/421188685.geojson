@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043077,
-    "geom:area_square_m":527162313.583152,
+    "geom:area_square_m":527162313.582924,
     "geom:bbox":"-73.5268180171,8.01245739139,-73.2496612496,8.42715324067",
     "geom:latitude":8.231265,
     "geom:longitude":-73.352668,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Oca\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.212562,
     "lbl:longitude":-73.343994,
     "meso:admin_1":"Norte de Santander",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":421188685,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037090,
     "wof:name":"Oca\u00f1a",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

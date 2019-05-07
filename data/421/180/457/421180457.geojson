@@ -10,6 +10,12 @@
     "geom:latitude":0.939941,
     "geom:longitude":-77.960369,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cumbal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.94522,
     "lbl:longitude":-77.956032,
     "meso:admin_1":"Nari\u00f1o",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421180457,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1554488791,
     "wof:name":"Cumbal",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

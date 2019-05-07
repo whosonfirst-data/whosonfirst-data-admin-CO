@@ -10,6 +10,12 @@
     "geom:latitude":7.297626,
     "geom:longitude":-73.049952,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Matanza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.302447,
     "lbl:longitude":-73.062056,
     "meso:admin_1":"Santander",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701295,
-    "wof:lastmodified":1536615465,
+    "wof:lastmodified":1554489333,
     "wof:name":"Matanza",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

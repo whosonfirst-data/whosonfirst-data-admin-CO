@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066132,
-    "geom:area_square_m":802735126.692153,
+    "geom:area_square_m":802735126.691943,
     "geom:bbox":"-72.9110297092,10.8200211622,-72.481521038,11.1365343193",
     "geom:latitude":10.989366,
     "geom:longitude":-72.686646,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Barrancas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.969092,
     "lbl:longitude":-72.650938,
     "meso:admin_1":"La Guajira",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700855,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037402,
     "wof:name":"Barrancas",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007356,
-    "geom:area_square_m":90592269.218049,
+    "geom:area_square_m":90592269.218076,
     "geom:bbox":"-75.8440625591,5.05119973194,-75.6966558933,5.17548933325",
     "geom:latitude":5.111989,
     "geom:longitude":-75.758934,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Risaralda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.092759,
     "lbl:longitude":-75.735478,
     "meso:admin_1":"Caldas",
@@ -138,10 +144,11 @@
         }
     ],
     "wof:id":421188649,
-    "wof:lastmodified":1553816377,
+    "wof:lastmodified":1555037092,
     "wof:name":"Risaralda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"RR",
     "wof:superseded_by":[],

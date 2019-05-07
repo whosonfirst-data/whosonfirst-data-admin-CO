@@ -10,6 +10,12 @@
     "geom:latitude":0.724446,
     "geom:longitude":-76.480561,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Caicedo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.704242,
     "lbl:longitude":-76.497725,
     "meso:admin_1":"Putumayo",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108701563,
-    "wof:lastmodified":1536615480,
+    "wof:lastmodified":1554489349,
     "wof:name":"Puerto Caicedo",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

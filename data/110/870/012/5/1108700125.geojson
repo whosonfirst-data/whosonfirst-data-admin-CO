@@ -10,6 +10,12 @@
     "geom:latitude":10.177048,
     "geom:longitude":-75.181163,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mahates Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.178656,
     "lbl:longitude":-75.183266,
     "meso:admin_1":"Bol\u00edvar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700125,
-    "wof:lastmodified":1536615411,
+    "wof:lastmodified":1554489276,
     "wof:name":"Mahates",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

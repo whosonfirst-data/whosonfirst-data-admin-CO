@@ -10,6 +10,12 @@
     "geom:latitude":5.493909,
     "geom:longitude":-73.62735,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "R\u00e1quira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.503619,
     "lbl:longitude":-73.626013,
     "meso:admin_1":"Boyac\u00e1",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421188629,
-    "wof:lastmodified":1536616061,
+    "wof:lastmodified":1554488973,
     "wof:name":"R\u00e1quira",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

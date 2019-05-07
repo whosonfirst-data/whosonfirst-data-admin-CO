@@ -10,6 +10,12 @@
     "geom:latitude":4.890858,
     "geom:longitude":-74.553701,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Vian\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.921316,
     "lbl:longitude":-74.539019,
     "meso:admin_1":"Cundinamarca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700729,
-    "wof:lastmodified":1536615435,
+    "wof:lastmodified":1554489302,
     "wof:name":"Vian\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

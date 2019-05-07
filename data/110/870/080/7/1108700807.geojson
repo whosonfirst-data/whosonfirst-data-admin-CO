@@ -10,6 +10,12 @@
     "geom:latitude":2.658658,
     "geom:longitude":-75.329337,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Campoalegre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.659258,
     "lbl:longitude":-75.331487,
     "meso:admin_1":"Huila",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108700807,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037408,
     "wof:name":"Campoalegre",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

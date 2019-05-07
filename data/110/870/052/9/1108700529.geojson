@@ -10,6 +10,12 @@
     "geom:latitude":9.727855,
     "geom:longitude":-73.250745,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Becerril Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.707575,
     "lbl:longitude":-73.256211,
     "meso:admin_1":"Cesar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700529,
-    "wof:lastmodified":1536615427,
+    "wof:lastmodified":1554489293,
     "wof:name":"Becerril",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

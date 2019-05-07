@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018291,
-    "geom:area_square_m":225864405.505876,
+    "geom:area_square_m":225864405.50594,
     "geom:bbox":"-76.6868063971,2.87073802366,-76.5514216652,3.12625710949",
     "geom:latitude":2.993155,
     "geom:longitude":-76.624728,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Buenos Aires Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.987203,
     "lbl:longitude":-76.642675,
     "meso:admin_1":"Cauca",
@@ -108,10 +114,11 @@
         }
     ],
     "wof:id":1108700443,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037435,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"BA",
     "wof:superseded_by":[],

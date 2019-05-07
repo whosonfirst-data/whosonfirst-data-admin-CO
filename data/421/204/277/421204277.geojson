@@ -10,6 +10,12 @@
     "geom:latitude":6.505533,
     "geom:longitude":-75.36679,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Don Mat\u00edas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.486224,
     "lbl:longitude":-75.416308,
     "meso:admin_1":"Antioquia",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421204277,
-    "wof:lastmodified":1536616164,
+    "wof:lastmodified":1554489048,
     "wof:name":"Don Mat\u00edas",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

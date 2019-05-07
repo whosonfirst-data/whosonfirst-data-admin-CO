@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031851,
-    "geom:area_square_m":392119650.941311,
+    "geom:area_square_m":392119650.941301,
     "geom:bbox":"-75.5327297349,5.22236708755,-75.279373184,5.46751504768",
     "geom:latitude":5.370133,
     "geom:longitude":-75.409184,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Salamina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.363617,
     "lbl:longitude":-75.419701,
     "meso:admin_1":"Caldas",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421205079,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037046,
     "wof:name":"Salamina",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

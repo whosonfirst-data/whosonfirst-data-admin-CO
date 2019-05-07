@@ -10,6 +10,12 @@
     "geom:latitude":6.906877,
     "geom:longitude":-71.850493,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Saravena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.909091,
     "lbl:longitude":-71.847396,
     "meso:admin_1":"Arauca",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108701521,
-    "wof:lastmodified":1536615476,
+    "wof:lastmodified":1554489345,
     "wof:name":"Saravena",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

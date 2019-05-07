@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125082,
-    "geom:area_square_m":1533123030.391954,
+    "geom:area_square_m":1533123030.392143,
     "geom:bbox":"-73.9255890579,7.17805640761,-73.5679456034,8.14341937657",
     "geom:latitude":7.581051,
     "geom:longitude":-73.785065,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Wilches Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.318243,
     "lbl:longitude":-73.827021,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701325,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037379,
     "wof:name":"Puerto Wilches",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

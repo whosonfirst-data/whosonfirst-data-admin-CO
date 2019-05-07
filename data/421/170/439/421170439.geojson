@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068416,
-    "geom:area_square_m":835292746.106067,
+    "geom:area_square_m":835292746.105948,
     "geom:bbox":"-74.1778219852,8.91710829891,-73.7975416958,9.35111921419",
     "geom:latitude":9.117291,
     "geom:longitude":-73.980803,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Banco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.104636,
     "lbl:longitude":-73.967827,
     "meso:admin_1":"Magdalena",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421170439,
-    "wof:lastmodified":1553816360,
+    "wof:lastmodified":1555037159,
     "wof:name":"El Banco",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

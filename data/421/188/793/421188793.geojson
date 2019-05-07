@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104084,
-    "geom:area_square_m":1272902942.652933,
+    "geom:area_square_m":1272902942.652591,
     "geom:bbox":"-76.938099121,8.26243058543,-76.4186999399,8.72023026963",
     "geom:latitude":8.492976,
     "geom:longitude":-76.674602,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Necocl\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.495869,
     "lbl:longitude":-76.670738,
     "meso:admin_1":"Antioquia",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421188793,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037088,
     "wof:name":"Necocl\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

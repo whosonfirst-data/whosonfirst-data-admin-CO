@@ -10,6 +10,12 @@
     "geom:latitude":10.390782,
     "geom:longitude":-72.989984,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Manaure Balc\u00f3n Del Cesar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.379942,
     "lbl:longitude":-73.010505,
     "meso:admin_1":"Cesar",
@@ -28,11 +34,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Manaure [Balc\u00f3n del Cesar]"
+        "Manaure Balc\u00f3n Del Cesar"
     ],
     "name:eng_x_variant":[
         "Manaure Balcon Del Cesar",
-        "Manaure"
+        "Manaure",
+        "Manaure Balc\u00f3n Del Cesar"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1108700547,
-    "wof:lastmodified":1536615428,
+    "wof:lastmodified":1555047392,
     "wof:name":"Manaure Balc\u00f3n Del Cesar",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.937607,
     "geom:longitude":-73.544275,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Mart\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.922388,
     "lbl:longitude":-73.560131,
     "meso:admin_1":"Cesar",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108700561,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1554489295,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

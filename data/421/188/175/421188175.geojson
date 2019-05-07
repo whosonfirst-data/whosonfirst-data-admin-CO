@@ -10,6 +10,12 @@
     "geom:latitude":9.239431,
     "geom:longitude":-73.488027,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Curuman\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.231534,
     "lbl:longitude":-73.473366,
     "meso:admin_1":"Cesar",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421188175,
-    "wof:lastmodified":1536616050,
+    "wof:lastmodified":1554488967,
     "wof:name":"Curuman\u00ed",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

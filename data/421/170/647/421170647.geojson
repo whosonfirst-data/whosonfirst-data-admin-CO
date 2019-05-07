@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020418,
-    "geom:area_square_m":251621563.615394,
+    "geom:area_square_m":251621563.615334,
     "geom:bbox":"-76.0170239994,4.61276931002,-75.824795257,4.80737452582",
     "geom:latitude":4.706077,
     "geom:longitude":-75.917311,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cartago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.702356,
     "lbl:longitude":-75.918768,
     "meso:admin_1":"Valle del Cauca",
@@ -35,9 +41,10 @@
         "Cartago"
     ],
     "name:eng_x_preferred":[
-        "Cartago Municipality"
+        "Cartago"
     ],
     "name:eng_x_variant":[
+        "Cartago",
         "Cartago"
     ],
     "name:epo_x_preferred":[
@@ -158,10 +165,11 @@
         }
     ],
     "wof:id":421170647,
-    "wof:lastmodified":1553816361,
+    "wof:lastmodified":1555047371,
     "wof:name":"Cartago",
     "wof:parent_id":85670203,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

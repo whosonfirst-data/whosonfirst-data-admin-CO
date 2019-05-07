@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028519,
-    "geom:area_square_m":351626167.557651,
+    "geom:area_square_m":351626167.557558,
     "geom:bbox":"-76.1720831077,4.24779907118,-75.8752127238,4.48661790846",
     "geom:latitude":4.359009,
     "geom:longitude":-76.053795,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Zarzal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.359304,
     "lbl:longitude":-76.051536,
     "meso:admin_1":"Valle del Cauca",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421181795,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1555037126,
     "wof:name":"Zarzal",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

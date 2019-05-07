@@ -10,6 +10,12 @@
     "geom:latitude":8.479396,
     "geom:longitude":-75.408499,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Nuevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.496771,
     "lbl:longitude":-75.405035,
     "meso:admin_1":"C\u00f3rdoba",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700591,
-    "wof:lastmodified":1536615430,
+    "wof:lastmodified":1554489298,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

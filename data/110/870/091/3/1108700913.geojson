@@ -10,6 +10,12 @@
     "geom:latitude":9.521732,
     "geom:longitude":-74.650292,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara De Pinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.495359,
     "lbl:longitude":-74.659926,
     "meso:admin_1":"Magdalena",
@@ -34,6 +40,9 @@
         "Santa Ana"
     ],
     "name:eng_x_preferred":[
+        "Santa Barbara De Pinto"
+    ],
+    "name:eng_x_variant":[
         "Santa Ana"
     ],
     "name:fre_x_preferred":[
@@ -96,10 +105,11 @@
         }
     ],
     "wof:id":1108700913,
-    "wof:lastmodified":1536615444,
+    "wof:lastmodified":1555047399,
     "wof:name":"Santa Barbara De Pinto",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

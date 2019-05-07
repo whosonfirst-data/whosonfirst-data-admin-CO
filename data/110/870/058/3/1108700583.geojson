@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012663,
-    "geom:area_square_m":154538982.389723,
+    "geom:area_square_m":154538982.389731,
     "geom:bbox":"-75.7076425314,9.16207164083,-75.5628144349,9.35315728455",
     "geom:latitude":9.266954,
     "geom:longitude":-75.642725,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Momil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.267363,
     "lbl:longitude":-75.637774,
     "meso:admin_1":"C\u00f3rdoba",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700583,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555037422,
     "wof:name":"Momil",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

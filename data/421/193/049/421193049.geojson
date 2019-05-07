@@ -10,6 +10,12 @@
     "geom:latitude":5.674549,
     "geom:longitude":-75.709741,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "T\u00e1mesis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.671971,
     "lbl:longitude":-75.715352,
     "meso:admin_1":"Antioquia",
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421193049,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1554489009,
     "wof:name":"T\u00e1mesis",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

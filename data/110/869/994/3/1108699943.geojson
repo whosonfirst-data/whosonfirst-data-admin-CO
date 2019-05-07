@@ -10,6 +10,12 @@
     "geom:latitude":5.555326,
     "geom:longitude":-75.629959,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Caramanta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.552794,
     "lbl:longitude":-75.631083,
     "meso:admin_1":"Antioquia",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108699943,
-    "wof:lastmodified":1536615404,
+    "wof:lastmodified":1554489268,
     "wof:name":"Caramanta",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

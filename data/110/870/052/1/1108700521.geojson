@@ -10,6 +10,12 @@
     "geom:latitude":2.509793,
     "geom:longitude":-76.384964,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Totor\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.476288,
     "lbl:longitude":-76.366231,
     "meso:admin_1":"Cauca",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108700521,
-    "wof:lastmodified":1536615426,
+    "wof:lastmodified":1554489291,
     "wof:name":"Totor\u00f3",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

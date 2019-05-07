@@ -10,6 +10,12 @@
     "geom:latitude":5.921007,
     "geom:longitude":-72.848613,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bet\u00e9itiva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.914346,
     "lbl:longitude":-72.843722,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,6 +40,9 @@
         "Bet\u00e9itiva"
     ],
     "name:eng_x_preferred":[
+        "Bet\u00e9itiva"
+    ],
+    "name:eng_x_variant":[
         "Beteitiva"
     ],
     "name:fre_x_preferred":[
@@ -93,10 +102,11 @@
         }
     ],
     "wof:id":1108700193,
-    "wof:lastmodified":1536615414,
+    "wof:lastmodified":1555047385,
     "wof:name":"Bet\u00e9itiva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"BT",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":1.820039,
     "geom:longitude":-76.121266,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pitalito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.854876,
     "lbl:longitude":-76.076325,
     "meso:admin_1":"Huila",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421193617,
-    "wof:lastmodified":1536616109,
+    "wof:lastmodified":1554489011,
     "wof:name":"Pitalito",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

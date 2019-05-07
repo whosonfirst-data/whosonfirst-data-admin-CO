@@ -10,6 +10,12 @@
     "geom:latitude":5.287571,
     "geom:longitude":-76.644285,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Uni\u00f3n Panamericana (\u00e1nimas) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.295876,
     "lbl:longitude":-76.637316,
     "meso:admin_1":"Choc\u00f3",
@@ -34,11 +40,13 @@
         "El Cant\u00f3n del San Pablo"
     ],
     "name:eng_x_preferred":[
-        "El Cant\u00f3n de San Pablo"
+        "Uni\u00f3n Panamericana"
     ],
     "name:eng_x_variant":[
         "Canton De San Pablo",
-        "El Cant\u00f3n del San Pablo"
+        "El Cant\u00f3n del San Pablo",
+        "Uni\u00f3n Panamericana (\u00e1nimas)",
+        "Uni\u00f3n Panamericana"
     ],
     "name:fre_x_preferred":[
         "El Cant\u00f3n de San Pablo"
@@ -100,10 +108,11 @@
         }
     ],
     "wof:id":1108700791,
-    "wof:lastmodified":1536615438,
-    "wof:name":"Uni\u00f3n Panamericana (\u00e1nimas)",
+    "wof:lastmodified":1555047396,
+    "wof:name":"Uni\u00f3n Panamericana",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

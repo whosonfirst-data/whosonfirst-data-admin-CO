@@ -10,6 +10,12 @@
     "geom:latitude":6.080089,
     "geom:longitude":-73.062596,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Encino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.081389,
     "lbl:longitude":-73.075012,
     "meso:admin_1":"Santander",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108701247,
-    "wof:lastmodified":1536615463,
+    "wof:lastmodified":1554489331,
     "wof:name":"Encino",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

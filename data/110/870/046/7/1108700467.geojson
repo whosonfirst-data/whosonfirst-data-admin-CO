@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016914,
-    "geom:area_square_m":208989029.084006,
+    "geom:area_square_m":208989029.084091,
     "geom:bbox":"-76.9335164762,2.13123580987,-76.6409931699,2.26671673653",
     "geom:latitude":2.187398,
     "geom:longitude":-76.782283,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Sierra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.186683,
     "lbl:longitude":-76.755689,
     "meso:admin_1":"Cauca",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700467,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037432,
     "wof:name":"La Sierra",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

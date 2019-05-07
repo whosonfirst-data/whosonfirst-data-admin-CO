@@ -10,6 +10,12 @@
     "geom:latitude":4.500753,
     "geom:longitude":-73.975317,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ubaque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.507432,
     "lbl:longitude":-73.98873,
     "meso:admin_1":"Cundinamarca",
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ubaque"
+    ],
     "name:eng_x_variant":[
         "Choachi",
         "Choach\u00ed"
@@ -81,10 +90,11 @@
         }
     ],
     "wof:id":421193615,
-    "wof:lastmodified":1536616109,
+    "wof:lastmodified":1555047377,
     "wof:name":"Ubaque",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021923,
-    "geom:area_square_m":267823873.473691,
+    "geom:area_square_m":267823873.473678,
     "geom:bbox":"-76.0358072727,8.79718302973,-75.7181876983,8.97806195406",
     "geom:latitude":8.891929,
     "geom:longitude":-75.838372,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ceret\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.869294,
     "lbl:longitude":-75.787832,
     "meso:admin_1":"C\u00f3rdoba",
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421184119,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037114,
     "wof:name":"Ceret\u00e9",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.570021,
     "geom:longitude":-74.021493,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Marip\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.562556,
     "lbl:longitude":-74.027742,
     "meso:admin_1":"Boyac\u00e1",
@@ -97,10 +103,11 @@
         }
     ],
     "wof:id":1108700267,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489281,
     "wof:name":"Marip\u00ed",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MP",
     "wof:superseded_by":[],

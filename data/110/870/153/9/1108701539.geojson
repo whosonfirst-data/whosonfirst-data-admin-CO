@@ -10,6 +10,12 @@
     "geom:latitude":5.66294,
     "geom:longitude":-71.924273,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pore Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.650284,
     "lbl:longitude":-71.927683,
     "meso:admin_1":"Casanare",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701539,
-    "wof:lastmodified":1536615478,
+    "wof:lastmodified":1554489347,
     "wof:name":"Pore",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.049548,
     "geom:longitude":-75.662188,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Palestina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.039832,
     "lbl:longitude":-75.667616,
     "meso:admin_1":"Caldas",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421172407,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1554488768,
     "wof:name":"Palestina",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

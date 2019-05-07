@@ -10,6 +10,12 @@
     "geom:latitude":2.370096,
     "geom:longitude":-76.710636,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Timb\u00edo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.357286,
     "lbl:longitude":-76.703417,
     "meso:admin_1":"Cauca",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700515,
-    "wof:lastmodified":1536615426,
+    "wof:lastmodified":1554489291,
     "wof:name":"Timb\u00edo",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

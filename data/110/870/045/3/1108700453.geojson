@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026461,
-    "geom:area_square_m":326701791.945061,
+    "geom:area_square_m":326701791.945053,
     "geom:bbox":"-76.3319202066,3.05972720035,-76.0725946948,3.22884214458",
     "geom:latitude":3.136888,
     "geom:longitude":-76.209402,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Corinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.133726,
     "lbl:longitude":-76.222394,
     "meso:admin_1":"Cauca",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700453,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037433,
     "wof:name":"Corinto",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

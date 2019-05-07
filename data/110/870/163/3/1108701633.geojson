@@ -10,6 +10,12 @@
     "geom:latitude":0.228653,
     "geom:longitude":-70.972163,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pacoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-0.00957,
     "lbl:longitude":-70.541074,
     "meso:admin_1":"Vaup\u00e9s",
@@ -31,7 +37,8 @@
         "Pacoa"
     ],
     "name:eng_x_variant":[
-        "Pacoa"
+        "Pacoa",
+        "C.D Pacoa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,11 +75,11 @@
         }
     ],
     "wof:id":1108701633,
-    "wof:lastmodified":1536615491,
+    "wof:lastmodified":1555091998,
     "wof:name":"C.D Pacoa",
     "wof:parent_id":85670259,
     "wof:placetype":"county",
-    "wof:placetype_local":"corregimiento",
+    "wof:placetype_local":"municipality",
     "wof:population":1828,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-co",

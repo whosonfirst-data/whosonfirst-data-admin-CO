@@ -10,6 +10,12 @@
     "geom:latitude":6.988758,
     "geom:longitude":-75.453874,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Yarumal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.989007,
     "lbl:longitude":-75.436606,
     "meso:admin_1":"Antioquia",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1108700043,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489272,
     "wof:name":"Yarumal",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

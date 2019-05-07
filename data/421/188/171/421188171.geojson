@@ -10,6 +10,12 @@
     "geom:latitude":8.939245,
     "geom:longitude":-73.5762,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pailitas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.945403,
     "lbl:longitude":-73.573523,
     "meso:admin_1":"Cesar",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":421188171,
-    "wof:lastmodified":1536616049,
+    "wof:lastmodified":1554488966,
     "wof:name":"Pailitas",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

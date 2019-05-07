@@ -10,6 +10,12 @@
     "geom:latitude":4.833223,
     "geom:longitude":-74.339164,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Facatativ\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.832817,
     "lbl:longitude":-74.340661,
     "meso:admin_1":"Cundinamarca",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421170607,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1554488755,
     "wof:name":"Facatativ\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

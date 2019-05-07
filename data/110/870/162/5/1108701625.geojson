@@ -10,6 +10,12 @@
     "geom:latitude":1.614974,
     "geom:longitude":-73.034179,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Calamar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.599425,
     "lbl:longitude":-73.046671,
     "meso:admin_1":"Guaviare",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108701625,
-    "wof:lastmodified":1536615488,
+    "wof:lastmodified":1554489356,
     "wof:name":"Calamar",
     "wof:parent_id":85670245,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CM",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050905,
-    "geom:area_square_m":628768449.922455,
+    "geom:area_square_m":628768449.922444,
     "geom:bbox":"-76.5162680585,2.53478886576,-76.1742629313,2.7895521921",
     "geom:latitude":2.660101,
     "geom:longitude":-76.351137,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Silvia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.655043,
     "lbl:longitude":-76.348574,
     "meso:admin_1":"Cauca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700507,
-    "wof:lastmodified":1553816475,
+    "wof:lastmodified":1555037427,
     "wof:name":"Silvia",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

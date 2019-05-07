@@ -10,6 +10,12 @@
     "geom:latitude":1.36503,
     "geom:longitude":-72.018613,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Miraflores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.3225,
     "lbl:longitude":-71.952561,
     "meso:admin_1":"Guaviare",
@@ -27,6 +33,9 @@
     "mps:longitude":-71.952561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Miraflores"
+    ],
     "name:eng_x_variant":[
         "Miraflores"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108701629,
-    "wof:lastmodified":1536615490,
+    "wof:lastmodified":1555047420,
     "wof:name":"Miraflores",
     "wof:parent_id":85670245,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MF",
     "wof:superseded_by":[],

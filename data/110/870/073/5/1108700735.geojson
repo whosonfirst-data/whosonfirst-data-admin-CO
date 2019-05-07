@@ -10,6 +10,12 @@
     "geom:latitude":4.436254,
     "geom:longitude":-74.486299,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Viot\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.425995,
     "lbl:longitude":-74.48764,
     "meso:admin_1":"Cundinamarca",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700735,
-    "wof:lastmodified":1536615435,
+    "wof:lastmodified":1554489302,
     "wof:name":"Viot\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

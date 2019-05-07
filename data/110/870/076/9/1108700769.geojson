@@ -10,6 +10,12 @@
     "geom:latitude":7.113623,
     "geom:longitude":-77.684948,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Jurad\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.133971,
     "lbl:longitude":-77.681207,
     "meso:admin_1":"Choc\u00f3",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700769,
-    "wof:lastmodified":1536615437,
+    "wof:lastmodified":1554489305,
     "wof:name":"Jurad\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

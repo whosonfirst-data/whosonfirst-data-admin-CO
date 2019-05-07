@@ -10,6 +10,12 @@
     "geom:latitude":7.5831,
     "geom:longitude":-72.583763,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chin\u00e1cota Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.589871,
     "lbl:longitude":-72.597547,
     "meso:admin_1":"Norte de Santander",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108701097,
-    "wof:lastmodified":1536615457,
+    "wof:lastmodified":1554489323,
     "wof:name":"Chin\u00e1cota",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.406532,
     "geom:longitude":-75.496183,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cajamarca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.42165,
     "lbl:longitude":-75.494369,
     "meso:admin_1":"Tolima",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421170271,
-    "wof:lastmodified":1536615908,
+    "wof:lastmodified":1554488753,
     "wof:name":"Cajamarca",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

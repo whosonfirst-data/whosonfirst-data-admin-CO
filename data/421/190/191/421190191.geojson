@@ -10,6 +10,12 @@
     "geom:latitude":5.574734,
     "geom:longitude":-75.818992,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Jard\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.5763,
     "lbl:longitude":-75.818996,
     "meso:admin_1":"Antioquia",
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":421190191,
-    "wof:lastmodified":1536616077,
+    "wof:lastmodified":1554488986,
     "wof:name":"Jard\u00edn",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

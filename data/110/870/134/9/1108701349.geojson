@@ -10,6 +10,12 @@
     "geom:latitude":6.409202,
     "geom:longitude":-73.581923,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Helena Del Op\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.409176,
     "lbl:longitude":-73.579887,
     "meso:admin_1":"Santander",
@@ -34,11 +40,12 @@
         "Santa Helena del Op\u00f3n"
     ],
     "name:eng_x_preferred":[
-        "Santa Helena [del Op\u00f3n]"
+        "Santa Helena Del Op\u00f3n"
     ],
     "name:eng_x_variant":[
         "Santa Helena De Opon",
-        "Santa Helena del Op\u00f3n"
+        "Santa Helena del Op\u00f3n",
+        "Santa Helena Del Op\u00f3n"
     ],
     "name:fre_x_preferred":[
         "Santa Helena del Op\u00f3n"
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":1108701349,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1555047408,
     "wof:name":"Santa Helena Del Op\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

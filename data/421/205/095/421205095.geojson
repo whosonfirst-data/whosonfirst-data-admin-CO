@@ -10,6 +10,12 @@
     "geom:latitude":10.847762,
     "geom:longitude":-74.360566,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puebloviejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.860139,
     "lbl:longitude":-74.376323,
     "meso:admin_1":"Magdalena",
@@ -35,6 +41,9 @@
         "Pueblo Viejo"
     ],
     "name:eng_x_preferred":[
+        "Puebloviejo"
+    ],
+    "name:eng_x_variant":[
         "Pueblo Viejo"
     ],
     "name:fre_x_preferred":[
@@ -135,7 +144,7 @@
         }
     ],
     "wof:id":421205095,
-    "wof:lastmodified":1536616169,
+    "wof:lastmodified":1555047380,
     "wof:name":"Puebloviejo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

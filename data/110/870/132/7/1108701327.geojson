@@ -10,6 +10,12 @@
     "geom:latitude":7.470322,
     "geom:longitude":-73.34569,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Rionegro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.324486,
     "lbl:longitude":-73.193112,
     "meso:admin_1":"Santander",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701327,
-    "wof:lastmodified":1536615466,
+    "wof:lastmodified":1554489335,
     "wof:name":"Rionegro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

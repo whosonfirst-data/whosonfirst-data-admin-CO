@@ -10,6 +10,12 @@
     "geom:latitude":6.264762,
     "geom:longitude":-72.555343,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Uvita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.252971,
     "lbl:longitude":-72.554302,
     "meso:admin_1":"Boyac\u00e1",
@@ -99,10 +105,11 @@
         }
     ],
     "wof:id":1108700263,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489281,
     "wof:name":"La Uvita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"LU",
     "wof:superseded_by":[],

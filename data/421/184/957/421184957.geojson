@@ -10,6 +10,12 @@
     "geom:latitude":4.336739,
     "geom:longitude":-73.850259,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Quetame Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.354786,
     "lbl:longitude":-73.838041,
     "meso:admin_1":"Cundinamarca",
@@ -119,10 +125,11 @@
         }
     ],
     "wof:id":421184957,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1554488950,
     "wof:name":"Quetame",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"QT",
     "wof:superseded_by":[],

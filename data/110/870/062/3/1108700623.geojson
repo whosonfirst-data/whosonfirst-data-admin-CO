@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012017,
-    "geom:area_square_m":148188838.321521,
+    "geom:area_square_m":148188838.321469,
     "geom:bbox":"-74.5449611721,4.1748690127,-74.2405324598,4.29236221684",
     "geom:latitude":4.232642,
     "geom:longitude":-74.399787,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Arbel\u00e1ez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.234796,
     "lbl:longitude":-74.410172,
     "meso:admin_1":"Cundinamarca",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108700623,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555037419,
     "wof:name":"Arbel\u00e1ez",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.179811,
     "geom:longitude":-75.61597,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Itagu\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.179004,
     "lbl:longitude":-75.616493,
     "meso:admin_1":"Antioquia",
@@ -38,11 +44,12 @@
         "Itag\u00fc\u00ed"
     ],
     "name:eng_x_preferred":[
-        "Itag\u00fc\u00ed"
+        "Itagu\u00ed"
     ],
     "name:eng_x_variant":[
         "Itagui",
-        "Itag\u00fc\u00ed"
+        "Itag\u00fc\u00ed",
+        "Itagu\u00ed"
     ],
     "name:epo_x_preferred":[
         "Itag\u00fc\u00ed"
@@ -185,7 +192,7 @@
         }
     ],
     "wof:id":421188619,
-    "wof:lastmodified":1536616061,
+    "wof:lastmodified":1555047375,
     "wof:name":"Itagu\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

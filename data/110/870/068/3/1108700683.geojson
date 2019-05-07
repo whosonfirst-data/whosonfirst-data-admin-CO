@@ -10,6 +10,12 @@
     "geom:latitude":4.485226,
     "geom:longitude":-73.405683,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Medina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.512487,
     "lbl:longitude":-73.381215,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700683,
-    "wof:lastmodified":1536615433,
+    "wof:lastmodified":1554489301,
     "wof:name":"Medina",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

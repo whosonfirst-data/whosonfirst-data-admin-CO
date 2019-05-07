@@ -10,6 +10,12 @@
     "geom:latitude":10.648574,
     "geom:longitude":-74.58114,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Remolino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.638433,
     "lbl:longitude":-74.581147,
     "meso:admin_1":"Magdalena",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700903,
-    "wof:lastmodified":1536615444,
+    "wof:lastmodified":1554489311,
     "wof:name":"Remolino",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

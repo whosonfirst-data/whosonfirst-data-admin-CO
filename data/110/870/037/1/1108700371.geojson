@@ -10,6 +10,12 @@
     "geom:latitude":5.441617,
     "geom:longitude":-73.266572,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Viracach\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.445404,
     "lbl:longitude":-73.276875,
     "meso:admin_1":"Boyac\u00e1",
@@ -27,6 +33,9 @@
     "mps:longitude":-73.276875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Viracach\u00e1"
+    ],
     "name:eng_x_variant":[
         "Siachoque"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108700371,
-    "wof:lastmodified":1536615419,
+    "wof:lastmodified":1555047388,
     "wof:name":"Viracach\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SI",
     "wof:superseded_by":[],

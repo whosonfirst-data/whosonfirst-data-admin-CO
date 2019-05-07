@@ -10,6 +10,12 @@
     "geom:latitude":9.925618,
     "geom:longitude":-74.726324,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tenerife Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.937785,
     "lbl:longitude":-74.728748,
     "meso:admin_1":"Magdalena",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700917,
-    "wof:lastmodified":1536615445,
+    "wof:lastmodified":1554489313,
     "wof:name":"Tenerife",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"TE",
     "wof:superseded_by":[],

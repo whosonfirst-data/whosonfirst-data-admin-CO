@@ -10,6 +10,12 @@
     "geom:latitude":5.217461,
     "geom:longitude":-73.463215,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "\u00daMbita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.204671,
     "lbl:longitude":-73.467735,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,11 +40,12 @@
         "Umbita"
     ],
     "name:eng_x_preferred":[
-        "Umbita"
+        "\u00daMbita"
     ],
     "name:eng_x_variant":[
         "Umbita",
-        "\u00dambita"
+        "\u00dambita",
+        "\u00daMbita"
     ],
     "name:fre_x_preferred":[
         "\u00dambita"
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":1108700369,
-    "wof:lastmodified":1536615419,
+    "wof:lastmodified":1555047388,
     "wof:name":"\u00daMbita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

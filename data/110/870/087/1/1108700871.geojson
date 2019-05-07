@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195042,
-    "geom:area_square_m":2366429431.366852,
+    "geom:area_square_m":2366429431.367583,
     "geom:bbox":"-74.2416188017,10.8247385231,-73.5649498427,11.3494582011",
     "geom:latitude":11.122085,
     "geom:longitude":-73.885383,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Marta (Distrito Tur\u00ecstico Cultural e Hist\u00f3rico) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.14278,
     "lbl:longitude":-73.890411,
     "meso:admin_1":"Magdalena",
@@ -65,7 +71,8 @@
     ],
     "name:eng_x_variant":[
         "Santa Marta (dist. Esp.)",
-        "Santa Marta (Dist. Esp.)"
+        "Santa Marta (Dist. Esp.)",
+        "Santa Marta (Distrito Tur\u00ecstico Cultural e Hist\u00f3rico)"
     ],
     "name:epo_x_preferred":[
         "Sankta Marta"
@@ -244,8 +251,8 @@
         }
     ],
     "wof:id":1108700871,
-    "wof:lastmodified":1553816478,
-    "wof:name":"Santa Marta (Distrito Tur\u00ecstico Cultural e Hist\u00f3rico)",
+    "wof:lastmodified":1555047397,
+    "wof:name":"Santa Marta",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

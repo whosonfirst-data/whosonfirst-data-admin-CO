@@ -10,6 +10,12 @@
     "geom:latitude":5.708601,
     "geom:longitude":-72.693362,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mongua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.72471,
     "lbl:longitude":-72.69578,
     "meso:admin_1":"Boyac\u00e1",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Mongu\u00ed"
     ],
+    "name:eng_x_preferred":[
+        "Mongua"
+    ],
     "name:eng_x_variant":[
         "Mongua"
     ],
     "name:fra_x_preferred":[
+        "Mongu\u00ed"
+    ],
+    "name:fre_x_preferred":[
         "Mongu\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -111,10 +123,11 @@
         }
     ],
     "wof:id":421172347,
-    "wof:lastmodified":1536615938,
+    "wof:lastmodified":1555047372,
     "wof:name":"Mongua",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MA",
     "wof:superseded_by":[],

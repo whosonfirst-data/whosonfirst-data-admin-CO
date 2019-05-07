@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066277,
-    "geom:area_square_m":818844999.188553,
+    "geom:area_square_m":818844999.188522,
     "geom:bbox":"-76.2090912461,2.15196588053,-75.8168125839,2.50312390896",
     "geom:latitude":2.328086,
     "geom:longitude":-76.001005,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.317265,
     "lbl:longitude":-76.020363,
     "meso:admin_1":"Huila",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700823,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037406,
     "wof:name":"La Plata",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

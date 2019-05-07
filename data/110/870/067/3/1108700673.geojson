@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010321,
-    "geom:area_square_m":127097487.718851,
+    "geom:area_square_m":127097487.718831,
     "geom:bbox":"-74.4588889445,5.11799711468,-74.3544552956,5.27744787659",
     "geom:latitude":5.202696,
     "geom:longitude":-74.408752,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Pe\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.217786,
     "lbl:longitude":-74.399295,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700673,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037415,
     "wof:name":"La Pe\u00f1a",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

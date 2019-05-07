@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049617,
-    "geom:area_square_m":613079062.979849,
+    "geom:area_square_m":613079062.979545,
     "geom:bbox":"-75.7081478719,2.00837062266,-75.389569717,2.31699042797",
     "geom:latitude":2.172732,
     "geom:longitude":-75.569696,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Garz\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.18086,
     "lbl:longitude":-75.580541,
     "meso:admin_1":"Huila",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":421186431,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555037102,
     "wof:name":"Garz\u00f3n",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

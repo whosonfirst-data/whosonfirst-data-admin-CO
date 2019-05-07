@@ -10,6 +10,12 @@
     "geom:latitude":9.313142,
     "geom:longitude":-75.430162,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sincelejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.308485,
     "lbl:longitude":-75.428453,
     "meso:admin_1":"Sucre",
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":421170639,
-    "wof:lastmodified":1536615913,
+    "wof:lastmodified":1554488757,
     "wof:name":"Sincelejo",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

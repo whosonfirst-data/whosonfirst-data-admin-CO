@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005601,
-    "geom:area_square_m":69021051.17593,
+    "geom:area_square_m":69021051.175817,
     "geom:bbox":"-74.2462095147,4.69565845713,-74.1483800343,4.79736779672",
     "geom:latitude":4.742072,
     "geom:longitude":-74.19768,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Funza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.736602,
     "lbl:longitude":-74.194378,
     "meso:admin_1":"Cundinamarca",
@@ -134,10 +140,11 @@
         }
     ],
     "wof:id":421170267,
-    "wof:lastmodified":1553816359,
+    "wof:lastmodified":1555037162,
     "wof:name":"Funza",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"FZ",
     "wof:superseded_by":[],

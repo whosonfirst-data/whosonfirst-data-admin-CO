@@ -10,6 +10,12 @@
     "geom:latitude":6.836675,
     "geom:longitude":-74.754114,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Vegach\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.839076,
     "lbl:longitude":-74.754194,
     "meso:admin_1":"Antioquia",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108700035,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489272,
     "wof:name":"Vegach\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

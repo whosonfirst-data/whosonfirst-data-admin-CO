@@ -10,6 +10,12 @@
     "geom:latitude":2.984907,
     "geom:longitude":-76.501614,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santander De Quilichao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.981396,
     "lbl:longitude":-76.50983,
     "meso:admin_1":"Cauca",
@@ -40,7 +46,7 @@
         "Santander de Quilichao"
     ],
     "name:eng_x_preferred":[
-        "Santander de Quilichao"
+        "Santander De Quilichao"
     ],
     "name:eng_x_variant":[
         "Santander De Quilichao",
@@ -121,10 +127,11 @@
         }
     ],
     "wof:id":1108700501,
-    "wof:lastmodified":1536615425,
+    "wof:lastmodified":1555047391,
     "wof:name":"Santander De Quilichao",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SN",
     "wof:superseded_by":[],

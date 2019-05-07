@@ -10,6 +10,12 @@
     "geom:latitude":6.032864,
     "geom:longitude":-75.707771,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Amag\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.020025,
     "lbl:longitude":-75.703571,
     "meso:admin_1":"Antioquia",
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421205071,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1554489052,
     "wof:name":"Amag\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

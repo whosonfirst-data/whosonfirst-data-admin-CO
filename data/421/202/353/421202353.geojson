@@ -10,6 +10,12 @@
     "geom:latitude":4.498675,
     "geom:longitude":-75.725134,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Armenia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.510224,
     "lbl:longitude":-75.718848,
     "meso:admin_1":"Quindio",
@@ -198,10 +204,11 @@
         }
     ],
     "wof:id":421202353,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1554489035,
     "wof:name":"Armenia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AA",
     "wof:superseded_by":[],

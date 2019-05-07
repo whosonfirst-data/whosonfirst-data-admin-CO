@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028368,
-    "geom:area_square_m":344894635.023955,
+    "geom:area_square_m":344894635.023967,
     "geom:bbox":"-75.2525361769,10.396830533,-75.0238221696,10.6085990697",
     "geom:latitude":10.506445,
     "geom:longitude":-75.121119,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Repel\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.510149,
     "lbl:longitude":-75.109894,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700075,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037454,
     "wof:name":"Repel\u00f3n",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

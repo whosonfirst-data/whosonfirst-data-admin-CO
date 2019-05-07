@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123395,
-    "geom:area_square_m":1517563661.131802,
+    "geom:area_square_m":1517563661.132527,
     "geom:bbox":"-74.6601713372,5.73634498163,-74.2227821667,6.27599301697",
     "geom:latitude":5.95451,
     "geom:longitude":-74.453083,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Boyac\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.922957,
     "lbl:longitude":-74.449764,
     "meso:admin_1":"Boyac\u00e1",
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":421190201,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037084,
     "wof:name":"Puerto Boyac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

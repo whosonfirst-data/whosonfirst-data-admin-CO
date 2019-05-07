@@ -10,6 +10,12 @@
     "geom:latitude":4.010249,
     "geom:longitude":-73.724428,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Acac\u00edas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.063845,
     "lbl:longitude":-73.853335,
     "meso:admin_1":"Meta",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":421170629,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1554488757,
     "wof:name":"Acac\u00edas",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

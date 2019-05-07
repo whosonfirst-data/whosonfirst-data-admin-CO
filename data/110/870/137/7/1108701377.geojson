@@ -10,6 +10,12 @@
     "geom:latitude":9.33612,
     "geom:longitude":-74.948155,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Buenavista Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.319378,
     "lbl:longitude":-74.964811,
     "meso:admin_1":"Sucre",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701377,
-    "wof:lastmodified":1536615468,
+    "wof:lastmodified":1554489338,
     "wof:name":"Buenavista",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

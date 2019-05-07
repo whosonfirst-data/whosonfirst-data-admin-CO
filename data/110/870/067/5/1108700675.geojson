@@ -10,6 +10,12 @@
     "geom:latitude":4.977918,
     "geom:longitude":-74.339678,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Vega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.974376,
     "lbl:longitude":-74.350271,
     "meso:admin_1":"Cundinamarca",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700675,
-    "wof:lastmodified":1536615433,
+    "wof:lastmodified":1554489300,
     "wof:name":"La Vega",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

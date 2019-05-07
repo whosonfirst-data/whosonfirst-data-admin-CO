@@ -10,6 +10,12 @@
     "geom:latitude":1.735665,
     "geom:longitude":-77.481901,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Policarpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.747042,
     "lbl:longitude":-77.461295,
     "meso:admin_1":"Nari\u00f1o",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701051,
-    "wof:lastmodified":1536615454,
+    "wof:lastmodified":1554489322,
     "wof:name":"Policarpa",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.865921,
     "geom:longitude":-74.036864,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ch\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.860608,
     "lbl:longitude":-74.041362,
     "meso:admin_1":"Cundinamarca",
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":421200725,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1554489030,
     "wof:name":"Ch\u00eda",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

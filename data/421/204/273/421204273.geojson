@@ -10,6 +10,12 @@
     "geom:latitude":6.18555,
     "geom:longitude":-75.30455,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Marinilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.197953,
     "lbl:longitude":-75.289911,
     "meso:admin_1":"Antioquia",
@@ -177,7 +183,7 @@
         }
     ],
     "wof:id":421204273,
-    "wof:lastmodified":1536616164,
+    "wof:lastmodified":1554489048,
     "wof:name":"Marinilla",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

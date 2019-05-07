@@ -10,6 +10,12 @@
     "geom:latitude":1.222801,
     "geom:longitude":-76.679733,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mocoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.322689,
     "lbl:longitude":-76.697242,
     "meso:admin_1":"Putumayo",
@@ -56,11 +62,12 @@
         "Mocoa"
     ],
     "name:eng_x_preferred":[
-        "Mocoa [, San Miguel de]"
+        "Mocoa"
     ],
     "name:eng_x_variant":[
         "Mocoa",
-        "San Miguel de Mocoa"
+        "San Miguel de Mocoa",
+        "Mocoa"
     ],
     "name:eus_x_preferred":[
         "Mocoa"
@@ -270,7 +277,7 @@
         }
     ],
     "wof:id":421170259,
-    "wof:lastmodified":1536615908,
+    "wof:lastmodified":1555047371,
     "wof:name":"Mocoa",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.284077,
     "geom:longitude":-78.294323,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Olaya Herrera (Bocas De Satinga) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.269592,
     "lbl:longitude":-78.315029,
     "meso:admin_1":"Nari\u00f1o",
@@ -38,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Olaya Herrera"
+    ],
+    "name:eng_x_variant":[
+        "Olaya Herrera (Bocas De Satinga)"
     ],
     "name:fre_x_preferred":[
         "Olaya Herrera"
@@ -117,8 +126,8 @@
         }
     ],
     "wof:id":1108701043,
-    "wof:lastmodified":1536615454,
-    "wof:name":"Olaya Herrera (Bocas De Satinga)",
+    "wof:lastmodified":1555047404,
+    "wof:name":"Olaya Herrera",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

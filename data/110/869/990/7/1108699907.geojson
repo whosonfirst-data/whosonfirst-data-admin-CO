@@ -10,6 +10,12 @@
     "geom:latitude":6.866623,
     "geom:longitude":-75.353131,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Angostura Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.868368,
     "lbl:longitude":-75.332381,
     "meso:admin_1":"Antioquia",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108699907,
-    "wof:lastmodified":1536615403,
+    "wof:lastmodified":1554489268,
     "wof:name":"Angostura",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041076,
-    "geom:area_square_m":507472450.896527,
+    "geom:area_square_m":507472450.896665,
     "geom:bbox":"-75.6695332844,2.25439166217,-75.3857539458,2.53478061823",
     "geom:latitude":2.372002,
     "geom:longitude":-75.517281,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gigante Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.366174,
     "lbl:longitude":-75.526912,
     "meso:admin_1":"Huila",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421193651,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1555037072,
     "wof:name":"Gigante",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

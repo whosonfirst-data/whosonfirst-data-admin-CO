@@ -10,6 +10,12 @@
     "geom:latitude":0.833192,
     "geom:longitude":-69.618696,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Yavarat\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.868126,
     "lbl:longitude":-69.68026,
     "meso:admin_1":"Vaup\u00e9s",
@@ -32,7 +38,8 @@
     ],
     "name:eng_x_variant":[
         "Yavarate",
-        "Yavarat\u00e9"
+        "Yavarat\u00e9",
+        "C.D Yavarat\u00e9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,11 +76,11 @@
         }
     ],
     "wof:id":1108701641,
-    "wof:lastmodified":1536615493,
+    "wof:lastmodified":1555091999,
     "wof:name":"C.D Yavarat\u00e9",
     "wof:parent_id":85670259,
     "wof:placetype":"county",
-    "wof:placetype_local":"corregimiento",
+    "wof:placetype_local":"municipality",
     "wof:population":1345,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-co",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012111,
-    "geom:area_square_m":148831862.196615,
+    "geom:area_square_m":148831862.196547,
     "geom:bbox":"-75.6687832084,6.28740327642,-75.5143591041,6.43499771705",
     "geom:latitude":6.358817,
     "geom:longitude":-75.58962,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.353296,
     "lbl:longitude":-75.588435,
     "meso:admin_1":"Antioquia",
@@ -206,7 +212,7 @@
         }
     ],
     "wof:id":421205075,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037046,
     "wof:name":"Bello",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

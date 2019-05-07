@@ -10,6 +10,12 @@
     "geom:latitude":4.537143,
     "geom:longitude":-76.102561,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Uni\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.537503,
     "lbl:longitude":-76.102559,
     "meso:admin_1":"Valle del Cauca",
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421193657,
-    "wof:lastmodified":1536616110,
+    "wof:lastmodified":1554489011,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

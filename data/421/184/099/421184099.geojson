@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008078,
-    "geom:area_square_m":98081621.942879,
+    "geom:area_square_m":98081621.942875,
     "geom:bbox":"-74.9462876257,10.8434679449,-74.8265564423,10.9532383795",
     "geom:latitude":10.899108,
     "geom:longitude":-74.887137,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Galapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.898485,
     "lbl:longitude":-74.886012,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421184099,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037115,
     "wof:name":"Galapa",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

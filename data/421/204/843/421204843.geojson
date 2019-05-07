@@ -10,6 +10,12 @@
     "geom:latitude":4.825777,
     "geom:longitude":-74.804134,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ambalema Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.788966,
     "lbl:longitude":-74.816105,
     "meso:admin_1":"Tolima",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421204843,
-    "wof:lastmodified":1536616167,
+    "wof:lastmodified":1554489051,
     "wof:name":"Ambalema",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.692748,
     "geom:longitude":-74.328504,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bojac\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.706853,
     "lbl:longitude":-74.332877,
     "meso:admin_1":"Cundinamarca",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421184121,
-    "wof:lastmodified":1536616016,
+    "wof:lastmodified":1554488945,
     "wof:name":"Bojac\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

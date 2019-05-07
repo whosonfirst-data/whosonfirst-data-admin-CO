@@ -10,6 +10,12 @@
     "geom:latitude":5.495148,
     "geom:longitude":-73.082861,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pesca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.489722,
     "lbl:longitude":-73.097933,
     "meso:admin_1":"Boyac\u00e1",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700297,
-    "wof:lastmodified":1536615417,
+    "wof:lastmodified":1554489282,
     "wof:name":"Pesca",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

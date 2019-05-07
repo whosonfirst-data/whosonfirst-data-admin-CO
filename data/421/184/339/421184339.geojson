@@ -10,6 +10,12 @@
     "geom:latitude":3.420734,
     "geom:longitude":-76.178492,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pradera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.41648,
     "lbl:longitude":-76.196516,
     "meso:admin_1":"Valle del Cauca",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421184339,
-    "wof:lastmodified":1536616019,
+    "wof:lastmodified":1554488948,
     "wof:name":"Pradera",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

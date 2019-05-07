@@ -10,6 +10,12 @@
     "geom:latitude":7.772677,
     "geom:longitude":-74.262598,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Del Sur Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.792592,
     "lbl:longitude":-74.267097,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Santa Rosa del Sur"
     ],
     "name:eng_x_preferred":[
-        "Santa Rosa del Sur"
+        "Santa Rosa Del Sur"
     ],
     "name:eng_x_variant":[
         "Santa Rosa Del Sur",
@@ -106,10 +112,11 @@
         }
     ],
     "wof:id":1108700167,
-    "wof:lastmodified":1536615413,
+    "wof:lastmodified":1555047385,
     "wof:name":"Santa Rosa Del Sur",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SS",
     "wof:superseded_by":[],

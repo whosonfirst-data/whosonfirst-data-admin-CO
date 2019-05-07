@@ -10,6 +10,12 @@
     "geom:latitude":4.171363,
     "geom:longitude":-74.469128,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pandi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.158738,
     "lbl:longitude":-74.458071,
     "meso:admin_1":"Cundinamarca",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421184955,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1554488951,
     "wof:name":"Pandi",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

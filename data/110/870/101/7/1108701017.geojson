@@ -10,6 +10,12 @@
     "geom:latitude":1.072736,
     "geom:longitude":-77.500853,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Imu\u00e9s Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.083727,
     "lbl:longitude":-77.496696,
     "meso:admin_1":"Nari\u00f1o",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701017,
-    "wof:lastmodified":1536615453,
+    "wof:lastmodified":1554489317,
     "wof:name":"Imu\u00e9s",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

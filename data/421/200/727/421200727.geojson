@@ -10,6 +10,12 @@
     "geom:latitude":4.582529,
     "geom:longitude":-73.913812,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Choach\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.584889,
     "lbl:longitude":-73.960014,
     "meso:admin_1":"Cundinamarca",
@@ -138,10 +144,11 @@
         }
     ],
     "wof:id":421200727,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1554489030,
     "wof:name":"Choach\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

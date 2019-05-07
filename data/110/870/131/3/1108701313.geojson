@@ -10,6 +10,12 @@
     "geom:latitude":6.416299,
     "geom:longitude":-73.171607,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "P\u00e1ramo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.419008,
     "lbl:longitude":-73.180084,
     "meso:admin_1":"Santander",
@@ -34,11 +40,12 @@
         "Valle San Jos\u00e9"
     ],
     "name:eng_x_preferred":[
-        "Valle San Jos\u00e9"
+        "P\u00e1ramo"
     ],
     "name:eng_x_variant":[
         "Valle De  San Jose",
-        "Valle de San Jos\u00e9"
+        "Valle de San Jos\u00e9",
+        "P\u00e1ramo"
     ],
     "name:fre_x_preferred":[
         "Valle de San Jos\u00e9"
@@ -94,10 +101,11 @@
         }
     ],
     "wof:id":1108701313,
-    "wof:lastmodified":1536615465,
+    "wof:lastmodified":1555047407,
     "wof:name":"P\u00e1ramo",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"VS",
     "wof:superseded_by":[],

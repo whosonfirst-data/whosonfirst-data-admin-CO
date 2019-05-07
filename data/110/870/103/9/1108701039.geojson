@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059726,
-    "geom:area_square_m":737859914.233079,
+    "geom:area_square_m":737859914.232923,
     "geom:bbox":"-78.5692689581,2.18948991991,-78.3042594615,2.65514537697",
     "geom:latitude":2.436311,
     "geom:longitude":-78.439924,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mosquera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.443274,
     "lbl:longitude":-78.439949,
     "meso:admin_1":"Nari\u00f1o",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108701039,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555037395,
     "wof:name":"Mosquera",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

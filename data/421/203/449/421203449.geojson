@@ -10,6 +10,12 @@
     "geom:latitude":0.725467,
     "geom:longitude":-77.427267,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Potos\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.705027,
     "lbl:longitude":-77.39318,
     "meso:admin_1":"Nari\u00f1o",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":421203449,
-    "wof:lastmodified":1536616157,
+    "wof:lastmodified":1554489041,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

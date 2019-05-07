@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00779,
-    "geom:area_square_m":95788047.878781,
+    "geom:area_square_m":95788047.878775,
     "geom:bbox":"-73.6946112273,6.01736790729,-73.5756715603,6.13070087247",
     "geom:latitude":6.067809,
     "geom:longitude":-73.632309,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chipat\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.065155,
     "lbl:longitude":-73.631413,
     "meso:admin_1":"Santander",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701221,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037385,
     "wof:name":"Chipat\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

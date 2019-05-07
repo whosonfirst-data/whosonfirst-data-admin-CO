@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021071,
-    "geom:area_square_m":255977743.790745,
+    "geom:area_square_m":255977743.790869,
     "geom:bbox":"-75.250440274,10.673651253,-75.0259307007,10.8119455673",
     "geom:latitude":10.741192,
     "geom:longitude":-75.144992,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pioj\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.743965,
     "lbl:longitude":-75.154066,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700067,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037455,
     "wof:name":"Pioj\u00f3",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

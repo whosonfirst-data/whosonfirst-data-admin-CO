@@ -10,6 +10,12 @@
     "geom:latitude":6.453953,
     "geom:longitude":-76.695893,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Vig\u00eda Del Fuerte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.445709,
     "lbl:longitude":-76.6562,
     "meso:admin_1":"Antioquia",
@@ -34,11 +40,12 @@
         "Vig\u00eda del Fuerte"
     ],
     "name:eng_x_preferred":[
-        "Vig\u00eda del Fuerte"
+        "Vig\u00eda Del Fuerte"
     ],
     "name:eng_x_variant":[
         "Vigia Del Fuerte",
-        "Vig\u00eda del Fuerte"
+        "Vig\u00eda del Fuerte",
+        "Vig\u00eda Del Fuerte"
     ],
     "name:fre_x_preferred":[
         "Vig\u00eda del Fuerte"
@@ -121,7 +128,7 @@
         }
     ],
     "wof:id":1108700039,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1555047382,
     "wof:name":"Vig\u00eda Del Fuerte",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

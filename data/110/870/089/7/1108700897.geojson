@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136682,
-    "geom:area_square_m":1662146609.177058,
+    "geom:area_square_m":1662146609.177423,
     "geom:bbox":"-74.6858933295,10.2022086493,-74.1787547328,10.6788462464",
     "geom:latitude":10.434527,
     "geom:longitude":-74.412395,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pivijay Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.424201,
     "lbl:longitude":-74.408559,
     "meso:admin_1":"Magdalena",
@@ -99,10 +105,11 @@
         }
     ],
     "wof:id":1108700897,
-    "wof:lastmodified":1553816479,
+    "wof:lastmodified":1555037399,
     "wof:name":"Pivijay",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

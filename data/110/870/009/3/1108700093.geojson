@@ -10,6 +10,12 @@
     "geom:latitude":10.443146,
     "geom:longitude":-75.464309,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cartagena De Indias (Distrito Tur\u00ecstico Y Cultural) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.530967,
     "lbl:longitude":-75.446957,
     "meso:admin_1":"Bol\u00edvar",
@@ -64,11 +70,13 @@
         "Cartagena"
     ],
     "name:eng_x_preferred":[
-        "Cartagena"
+        "Cartagena De Indias"
     ],
     "name:eng_x_variant":[
         "Cartagena (dist. Esp.)",
-        "Cartagena de Indias"
+        "Cartagena de Indias",
+        "Cartagena De Indias (Distrito Tur\u00ecstico Y Cultural)",
+        "Cartagena De Indias"
     ],
     "name:epo_x_preferred":[
         "Kartageno"
@@ -256,10 +264,11 @@
         }
     ],
     "wof:id":1108700093,
-    "wof:lastmodified":1536615409,
-    "wof:name":"Cartagena De Indias (Distrito Tur\u00ecstico Y Cultural)",
+    "wof:lastmodified":1555047382,
+    "wof:name":"Cartagena De Indias",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"BL",
     "wof:superseded_by":[],

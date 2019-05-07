@@ -10,6 +10,12 @@
     "geom:latitude":4.186763,
     "geom:longitude":-74.637758,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Melgar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.173268,
     "lbl:longitude":-74.619893,
     "meso:admin_1":"Tolima",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421194737,
-    "wof:lastmodified":1536616116,
+    "wof:lastmodified":1554489017,
     "wof:name":"Melgar",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

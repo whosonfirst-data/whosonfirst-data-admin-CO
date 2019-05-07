@@ -10,6 +10,12 @@
     "geom:latitude":5.136646,
     "geom:longitude":-73.778722,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Suesca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.113641,
     "lbl:longitude":-73.793017,
     "meso:admin_1":"Cundinamarca",
@@ -31,11 +37,17 @@
     "name:ceb_x_preferred":[
         "Suesca"
     ],
+    "name:eng_x_preferred":[
+        "Suesca"
+    ],
     "name:eng_x_variant":[
         "Choconta",
         "Chocont\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Suesca"
+    ],
+    "name:fre_x_preferred":[
         "Suesca"
     ],
     "name:ita_x_preferred":[
@@ -123,10 +135,11 @@
         }
     ],
     "wof:id":421170619,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1555047371,
     "wof:name":"Suesca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CO",
     "wof:superseded_by":[],

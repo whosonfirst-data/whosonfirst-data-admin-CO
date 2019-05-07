@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014045,
-    "geom:area_square_m":170897296.804791,
+    "geom:area_square_m":170897296.804745,
     "geom:bbox":"-75.1099219561,10.156724712,-74.9554353456,10.3305952686",
     "geom:latitude":10.240779,
     "geom:longitude":-75.030066,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Arroyohondo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.243808,
     "lbl:longitude":-75.010757,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,6 +40,9 @@
         "Calamar"
     ],
     "name:eng_x_preferred":[
+        "Arroyohondo"
+    ],
+    "name:eng_x_variant":[
         "Calamar"
     ],
     "name:epo_x_preferred":[
@@ -102,10 +111,11 @@
         }
     ],
     "wof:id":1108700101,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555047383,
     "wof:name":"Arroyohondo",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CM",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004758,
-    "geom:area_square_m":57877682.889074,
+    "geom:area_square_m":57877682.88908,
     "geom:bbox":"-75.0293845969,10.2871542417,-74.9176764914,10.3960295785",
     "geom:latitude":10.352434,
     "geom:longitude":-74.963838,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Luc\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.354133,
     "lbl:longitude":-74.959163,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108700081,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037453,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

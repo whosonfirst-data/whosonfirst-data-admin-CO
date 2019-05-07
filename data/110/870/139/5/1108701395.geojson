@@ -10,6 +10,12 @@
     "geom:latitude":8.383487,
     "geom:longitude":-74.673848,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guaranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.334857,
     "lbl:longitude":-74.684165,
     "meso:admin_1":"Sucre",
@@ -34,7 +40,7 @@
         "Guaranda"
     ],
     "name:eng_x_preferred":[
-        "Guarand\u00e1"
+        "Guaranda"
     ],
     "name:eng_x_variant":[
         "Guaranda",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108701395,
-    "wof:lastmodified":1536615469,
+    "wof:lastmodified":1555047409,
     "wof:name":"Guaranda",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

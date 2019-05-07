@@ -10,6 +10,12 @@
     "geom:latitude":6.595435,
     "geom:longitude":-75.559595,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Entrerrios Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.597901,
     "lbl:longitude":-75.561175,
     "meso:admin_1":"Antioquia",
@@ -41,7 +47,7 @@
         "Entrerr\u00edos"
     ],
     "name:eng_x_preferred":[
-        "Entrerr\u00edos"
+        "Entrerrios"
     ],
     "name:eng_x_variant":[
         "Entrerrios",
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421205073,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1555047380,
     "wof:name":"Entrerrios",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

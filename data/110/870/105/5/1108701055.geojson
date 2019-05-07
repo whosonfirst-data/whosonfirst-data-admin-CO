@@ -10,6 +10,12 @@
     "geom:latitude":0.826618,
     "geom:longitude":-77.322392,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerres Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.842681,
     "lbl:longitude":-77.30938,
     "meso:admin_1":"Nari\u00f1o",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701055,
-    "wof:lastmodified":1536615454,
+    "wof:lastmodified":1554489321,
     "wof:name":"Puerres",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

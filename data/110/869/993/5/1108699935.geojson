@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157908,
-    "geom:area_square_m":1935061782.986115,
+    "geom:area_square_m":1935061782.986276,
     "geom:bbox":"-75.4829512868,7.35125230621,-74.9936081152,7.96165193924",
     "geom:latitude":7.674733,
     "geom:longitude":-75.227592,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "C\u00e1ceres Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.666781,
     "lbl:longitude":-75.223963,
     "meso:admin_1":"Antioquia",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108699935,
-    "wof:lastmodified":1553816469,
+    "wof:lastmodified":1555037464,
     "wof:name":"C\u00e1ceres",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

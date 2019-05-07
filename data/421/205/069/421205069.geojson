@@ -10,6 +10,12 @@
     "geom:latitude":6.258455,
     "geom:longitude":-75.611146,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Medell\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.255509,
     "lbl:longitude":-75.623208,
     "meso:admin_1":"Antioquia",
@@ -360,7 +366,7 @@
         }
     ],
     "wof:id":421205069,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1554489052,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010181,
-    "geom:area_square_m":125184395.360351,
+    "geom:area_square_m":125184395.360504,
     "geom:bbox":"-72.9231896616,5.99923412413,-72.8017758237,6.1487450733",
     "geom:latitude":6.076325,
     "geom:longitude":-72.856559,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tutaz\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.082659,
     "lbl:longitude":-72.857482,
     "meso:admin_1":"Boyac\u00e1",
@@ -103,10 +109,11 @@
         }
     ],
     "wof:id":1108700367,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037442,
     "wof:name":"Tutaz\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"TS",
     "wof:superseded_by":[],

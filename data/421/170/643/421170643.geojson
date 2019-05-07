@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046426,
-    "geom:area_square_m":573054117.285244,
+    "geom:area_square_m":573054117.285144,
     "geom:bbox":"-76.706944157,3.27201381292,-76.4596340391,3.54622591169",
     "geom:latitude":3.397007,
     "geom:longitude":-76.575677,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cali Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.398212,
     "lbl:longitude":-76.575703,
     "meso:admin_1":"Valle del Cauca",
@@ -83,11 +89,12 @@
         "\u039a\u03ac\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
-        "Cali [, Santiago de]"
+        "Cali"
     ],
     "name:eng_x_variant":[
         "Cali",
-        "Santiago de Cali"
+        "Santiago de Cali",
+        "Cali"
     ],
     "name:epo_x_preferred":[
         "Santiago de Cali"
@@ -345,7 +352,7 @@
         }
     ],
     "wof:id":421170643,
-    "wof:lastmodified":1553816361,
+    "wof:lastmodified":1555047371,
     "wof:name":"Cali",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

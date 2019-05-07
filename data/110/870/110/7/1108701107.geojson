@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014393,
-    "geom:area_square_m":176344668.596818,
+    "geom:area_square_m":176344668.596948,
     "geom:bbox":"-72.7323751269,7.63478434156,-72.6047971355,7.84185248347",
     "geom:latitude":7.746932,
     "geom:longitude":-72.671788,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Durania Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.735933,
     "lbl:longitude":-72.678071,
     "meso:admin_1":"Norte de Santander",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108701107,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555037392,
     "wof:name":"Durania",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

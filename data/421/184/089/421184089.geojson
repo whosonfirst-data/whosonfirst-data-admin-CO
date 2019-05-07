@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090273,
-    "geom:area_square_m":1107279776.357345,
+    "geom:area_square_m":1107279776.357296,
     "geom:bbox":"-74.9157775726,7.07635564422,-74.3390248992,7.47883148321",
     "geom:latitude":7.26483,
     "geom:longitude":-74.626422,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Segovia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.258138,
     "lbl:longitude":-74.622836,
     "meso:admin_1":"Antioquia",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421184089,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037117,
     "wof:name":"Segovia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

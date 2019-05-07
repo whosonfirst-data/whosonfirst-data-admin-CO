@@ -10,6 +10,12 @@
     "geom:latitude":3.728219,
     "geom:longitude":-74.871858,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Prado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.726737,
     "lbl:longitude":-74.869629,
     "meso:admin_1":"Tolima",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108701455,
-    "wof:lastmodified":1536615472,
+    "wof:lastmodified":1554489343,
     "wof:name":"Prado",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

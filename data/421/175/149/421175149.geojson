@@ -10,6 +10,12 @@
     "geom:latitude":5.192403,
     "geom:longitude":-73.952545,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tausa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.186283,
     "lbl:longitude":-73.922208,
     "meso:admin_1":"Cundinamarca",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421175149,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1554488777,
     "wof:name":"Tausa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.71589,
     "geom:longitude":-69.908694,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Taraira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-0.641581,
     "lbl:longitude":-69.953446,
     "meso:admin_1":"Vaup\u00e9s",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701635,
-    "wof:lastmodified":1536615492,
+    "wof:lastmodified":1554489354,
     "wof:name":"Taraira",
     "wof:parent_id":85670259,
     "wof:placetype":"county",

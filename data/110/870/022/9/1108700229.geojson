@@ -10,6 +10,12 @@
     "geom:latitude":6.886811,
     "geom:longitude":-72.181577,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cubar\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.872158,
     "lbl:longitude":-72.18158,
     "meso:admin_1":"Boyac\u00e1",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700229,
-    "wof:lastmodified":1536615415,
+    "wof:lastmodified":1554489280,
     "wof:name":"Cubar\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

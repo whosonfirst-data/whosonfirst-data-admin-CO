@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048314,
-    "geom:area_square_m":596847861.106264,
+    "geom:area_square_m":596847861.106445,
     "geom:bbox":"-75.4454372743,2.31402813682,-75.1336141553,2.69475640188",
     "geom:latitude":2.494661,
     "geom:longitude":-75.29233,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Algeciras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.48409,
     "lbl:longitude":-75.302956,
     "meso:admin_1":"Huila",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700801,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037410,
     "wof:name":"Algeciras",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

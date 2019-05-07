@@ -10,6 +10,12 @@
     "geom:latitude":10.494289,
     "geom:longitude":-72.984293,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Urumita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.48331,
     "lbl:longitude":-72.973335,
     "meso:admin_1":"La Guajira",
@@ -102,10 +108,11 @@
         }
     ],
     "wof:id":1108700867,
-    "wof:lastmodified":1536615442,
+    "wof:lastmodified":1554489308,
     "wof:name":"Urumita",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"UM",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":8.620393,
     "geom:longitude":-73.627832,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Gloria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.583296,
     "lbl:longitude":-73.614,
     "meso:admin_1":"Cesar",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700545,
-    "wof:lastmodified":1536615428,
+    "wof:lastmodified":1554489293,
     "wof:name":"La Gloria",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.963828,
     "geom:longitude":-75.159349,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villahermosa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.966738,
     "lbl:longitude":-75.136193,
     "meso:admin_1":"Tolima",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701479,
-    "wof:lastmodified":1536615473,
+    "wof:lastmodified":1554489342,
     "wof:name":"Villahermosa",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

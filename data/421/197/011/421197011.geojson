@@ -10,6 +10,12 @@
     "geom:latitude":10.468253,
     "geom:longitude":-73.587852,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Bello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.418517,
     "lbl:longitude":-73.57579,
     "meso:admin_1":"Cesar",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Pueblo Bello"
     ],
+    "name:eng_x_preferred":[
+        "Pueblo Bello"
+    ],
     "name:eng_x_variant":[
         "Valledupar"
     ],
     "name:fra_x_preferred":[
+        "Pueblo Bello"
+    ],
+    "name:fre_x_preferred":[
         "Pueblo Bello"
     ],
     "name:ita_x_preferred":[
@@ -121,10 +133,11 @@
         }
     ],
     "wof:id":421197011,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1555047377,
     "wof:name":"Pueblo Bello",
     "wof:parent_id":85670213,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"VA",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":6.481299,
     "geom:longitude":-75.142282,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.487095,
     "lbl:longitude":-75.160667,
     "meso:admin_1":"Antioquia",
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1108700017,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489272,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

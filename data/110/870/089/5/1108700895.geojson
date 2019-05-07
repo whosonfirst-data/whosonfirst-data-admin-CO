@@ -10,6 +10,12 @@
     "geom:latitude":9.521668,
     "geom:longitude":-74.164253,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Piji\u00f1o  Del Carmen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.538152,
     "lbl:longitude":-74.138318,
     "meso:admin_1":"Magdalena",
@@ -34,6 +40,9 @@
         "Santa Ana"
     ],
     "name:eng_x_preferred":[
+        "Piji\u00f1o  Del Carmen"
+    ],
+    "name:eng_x_variant":[
         "Santa Ana"
     ],
     "name:fre_x_preferred":[
@@ -96,10 +105,11 @@
         }
     ],
     "wof:id":1108700895,
-    "wof:lastmodified":1536615443,
+    "wof:lastmodified":1555047398,
     "wof:name":"Piji\u00f1o  Del Carmen",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

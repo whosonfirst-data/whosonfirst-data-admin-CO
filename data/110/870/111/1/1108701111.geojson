@@ -10,6 +10,12 @@
     "geom:latitude":8.677537,
     "geom:longitude":-73.03187,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Tarra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.66864,
     "lbl:longitude":-73.01905,
     "meso:admin_1":"Norte de Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701111,
-    "wof:lastmodified":1536615458,
+    "wof:lastmodified":1554489325,
     "wof:name":"El Tarra",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

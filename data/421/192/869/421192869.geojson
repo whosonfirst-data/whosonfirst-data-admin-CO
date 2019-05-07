@@ -10,6 +10,12 @@
     "geom:latitude":9.835185,
     "geom:longitude":-75.104047,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Jacinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.84865,
     "lbl:longitude":-75.153847,
     "meso:admin_1":"Bol\u00edvar",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421192869,
-    "wof:lastmodified":1536616100,
+    "wof:lastmodified":1554489008,
     "wof:name":"San Jacinto",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

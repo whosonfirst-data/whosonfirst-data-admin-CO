@@ -10,6 +10,12 @@
     "geom:latitude":6.364812,
     "geom:longitude":-75.090198,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alejandr\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.36122,
     "lbl:longitude":-75.105894,
     "meso:admin_1":"Antioquia",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108699903,
-    "wof:lastmodified":1536615403,
+    "wof:lastmodified":1554489267,
     "wof:name":"Alejandr\u00eda",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.850051,
     "geom:longitude":-76.311829,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Jambal\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.825542,
     "lbl:longitude":-76.313025,
     "meso:admin_1":"Cauca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700465,
-    "wof:lastmodified":1536615424,
+    "wof:lastmodified":1554489289,
     "wof:name":"Jambal\u00f3",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

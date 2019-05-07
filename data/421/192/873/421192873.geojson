@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027544,
-    "geom:area_square_m":336080558.013471,
+    "geom:area_square_m":336080558.013434,
     "geom:bbox":"-76.0996632683,9.2174063629,-75.8434707554,9.44782713205",
     "geom:latitude":9.327012,
     "geom:longitude":-75.971424,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Bernardo Del Viento Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.301174,
     "lbl:longitude":-75.994729,
     "meso:admin_1":"C\u00f3rdoba",
@@ -35,11 +41,12 @@
         "San Bernardo del Viento"
     ],
     "name:eng_x_preferred":[
-        "San Bernardo del Viento"
+        "San Bernardo Del Viento"
     ],
     "name:eng_x_variant":[
         "San Bernardo El Viento",
-        "San Bernardo del Viento"
+        "San Bernardo del Viento",
+        "San Bernardo Del Viento"
     ],
     "name:fre_x_preferred":[
         "San Bernardo del Viento"
@@ -144,7 +151,7 @@
         }
     ],
     "wof:id":421192873,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555047377,
     "wof:name":"San Bernardo Del Viento",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

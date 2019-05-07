@@ -10,6 +10,12 @@
     "geom:latitude":5.982763,
     "geom:longitude":-73.425266,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chitaraque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.986673,
     "lbl:longitude":-73.421076,
     "meso:admin_1":"Boyac\u00e1",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108700215,
-    "wof:lastmodified":1536615414,
+    "wof:lastmodified":1554489279,
     "wof:name":"Chitaraque",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CR",
     "wof:superseded_by":[],

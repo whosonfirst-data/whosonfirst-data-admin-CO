@@ -10,6 +10,12 @@
     "geom:latitude":4.318162,
     "geom:longitude":-74.384519,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Fusagasug\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.321665,
     "lbl:longitude":-74.386543,
     "meso:admin_1":"Cundinamarca",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421188657,
-    "wof:lastmodified":1536616062,
+    "wof:lastmodified":1554488972,
     "wof:name":"Fusagasug\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

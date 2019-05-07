@@ -10,6 +10,12 @@
     "geom:latitude":8.704141,
     "geom:longitude":-75.689316,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.720591,
     "lbl:longitude":-75.681685,
     "meso:admin_1":"C\u00f3rdoba",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700603,
-    "wof:lastmodified":1536615430,
+    "wof:lastmodified":1554489297,
     "wof:name":"San Carlos",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

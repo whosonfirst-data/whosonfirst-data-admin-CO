@@ -10,6 +10,12 @@
     "geom:latitude":2.146894,
     "geom:longitude":-67.342106,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Felipe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.359419,
     "lbl:longitude":-67.395841,
     "meso:admin_1":"Guain\u00eda",
@@ -31,7 +37,8 @@
         "San Felipe"
     ],
     "name:eng_x_variant":[
-        "San Felipe"
+        "San Felipe",
+        "C.D San Felipe"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,11 +75,11 @@
         }
     ],
     "wof:id":1108701611,
-    "wof:lastmodified":1536615485,
+    "wof:lastmodified":1555091994,
     "wof:name":"C.D San Felipe",
     "wof:parent_id":85670249,
     "wof:placetype":"county",
-    "wof:placetype_local":"corregimiento",
+    "wof:placetype_local":"municipality",
     "wof:population":630,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-co",

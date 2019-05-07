@@ -10,6 +10,12 @@
     "geom:latitude":6.438445,
     "geom:longitude":-75.704208,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Jer\u00f3nimo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.435992,
     "lbl:longitude":-75.705562,
     "meso:admin_1":"Antioquia",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421203433,
-    "wof:lastmodified":1536616156,
+    "wof:lastmodified":1554489040,
     "wof:name":"San Jer\u00f3nimo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.301422,
     "geom:longitude":-74.068974,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Une Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.263496,
     "lbl:longitude":-74.101425,
     "meso:admin_1":"Cundinamarca",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421170623,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1554488756,
     "wof:name":"Une",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

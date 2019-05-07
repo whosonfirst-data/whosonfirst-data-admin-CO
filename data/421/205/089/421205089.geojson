@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020877,
-    "geom:area_square_m":257425374.027609,
+    "geom:area_square_m":257425374.028107,
     "geom:bbox":"-74.3438084845,4.19282844461,-74.2037409289,4.40163529316",
     "geom:latitude":4.295458,
     "geom:longitude":-74.270751,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pasca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.295922,
     "lbl:longitude":-74.272079,
     "meso:admin_1":"Cundinamarca",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421205089,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037045,
     "wof:name":"Pasca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.612338,
     "geom:longitude":-75.775722,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Olaya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.628104,
     "lbl:longitude":-75.780215,
     "meso:admin_1":"Antioquia",
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":421197115,
-    "wof:lastmodified":1536616123,
+    "wof:lastmodified":1554489022,
     "wof:name":"Olaya",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

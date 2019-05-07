@@ -10,6 +10,12 @@
     "geom:latitude":10.11788,
     "geom:longitude":-74.691558,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Zapay\u00e1n (Punta De Piedras) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.111726,
     "lbl:longitude":-74.68147,
     "meso:admin_1":"Magdalena",
@@ -34,7 +40,11 @@
         "Tenerife"
     ],
     "name:eng_x_preferred":[
-        "Tenerife"
+        "Zapay\u00e1n"
+    ],
+    "name:eng_x_variant":[
+        "Zapay\u00e1n (Punta De Piedras)",
+        "Zapay\u00e1n"
     ],
     "name:epo_x_preferred":[
         "Tenerife"
@@ -96,10 +106,11 @@
         }
     ],
     "wof:id":1108700921,
-    "wof:lastmodified":1536615445,
-    "wof:name":"Zapay\u00e1n (Punta De Piedras)",
+    "wof:lastmodified":1555047399,
+    "wof:name":"Zapay\u00e1n",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"TE",
     "wof:superseded_by":[],

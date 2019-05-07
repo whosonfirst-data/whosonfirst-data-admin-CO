@@ -10,6 +10,12 @@
     "geom:latitude":9.51878,
     "geom:longitude":-74.340724,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Ana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.50239,
     "lbl:longitude":-74.446512,
     "meso:admin_1":"Magdalena",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700911,
-    "wof:lastmodified":1536615444,
+    "wof:lastmodified":1554489313,
     "wof:name":"Santa Ana",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

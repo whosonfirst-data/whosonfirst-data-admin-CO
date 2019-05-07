@@ -10,6 +10,12 @@
     "geom:latitude":1.036041,
     "geom:longitude":-77.680225,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sapuyes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.040724,
     "lbl:longitude":-77.709327,
     "meso:admin_1":"Nari\u00f1o",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701079,
-    "wof:lastmodified":1536615456,
+    "wof:lastmodified":1554489325,
     "wof:name":"Sapuyes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

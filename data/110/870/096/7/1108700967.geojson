@@ -10,6 +10,12 @@
     "geom:latitude":0.913486,
     "geom:longitude":-77.695557,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aldana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.91974,
     "lbl:longitude":-77.705757,
     "meso:admin_1":"Nari\u00f1o",
@@ -27,6 +33,9 @@
     "mps:longitude":-77.705757,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Aldana"
+    ],
     "name:eng_x_variant":[
         "Pupiales"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108700967,
-    "wof:lastmodified":1536615451,
+    "wof:lastmodified":1555047402,
     "wof:name":"Aldana",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PP",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":10.445261,
     "geom:longitude":-75.263234,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villanueva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.44945,
     "lbl:longitude":-75.26903,
     "meso:admin_1":"Bol\u00edvar",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700179,
-    "wof:lastmodified":1536615413,
+    "wof:lastmodified":1554489279,
     "wof:name":"Villanueva",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

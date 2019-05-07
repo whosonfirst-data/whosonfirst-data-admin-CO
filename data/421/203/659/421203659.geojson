@@ -10,6 +10,12 @@
     "geom:latitude":7.483013,
     "geom:longitude":-72.6352,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pamplonita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.486781,
     "lbl:longitude":-72.640299,
     "meso:admin_1":"Norte de Santander",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421203659,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489047,
     "wof:name":"Pamplonita",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

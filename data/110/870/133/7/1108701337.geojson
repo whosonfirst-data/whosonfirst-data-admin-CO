@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012012,
-    "geom:area_square_m":147564451.293186,
+    "geom:area_square_m":147564451.293208,
     "geom:bbox":"-73.211246869,6.4796806893,-73.0286052527,6.65028001148",
     "geom:latitude":6.550896,
     "geom:longitude":-73.118197,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Gil Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.524285,
     "lbl:longitude":-73.096831,
     "meso:admin_1":"Santander",
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1108701337,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037378,
     "wof:name":"San Gil",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

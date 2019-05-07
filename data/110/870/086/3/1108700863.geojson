@@ -10,6 +10,12 @@
     "geom:latitude":10.458297,
     "geom:longitude":-73.072349,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Jagua Del Pilar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.470261,
     "lbl:longitude":-73.072334,
     "meso:admin_1":"La Guajira",
@@ -27,6 +33,9 @@
     "mps:longitude":-73.072334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "La Jagua Del Pilar"
+    ],
     "name:eng_x_variant":[
         "Urumita"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108700863,
-    "wof:lastmodified":1536615442,
+    "wof:lastmodified":1555047397,
     "wof:name":"La Jagua Del Pilar",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"UM",
     "wof:superseded_by":[],

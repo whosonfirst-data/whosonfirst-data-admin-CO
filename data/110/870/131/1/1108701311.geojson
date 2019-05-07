@@ -10,6 +10,12 @@
     "geom:latitude":6.391792,
     "geom:longitude":-73.282536,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Palmas Del Socorro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.396134,
     "lbl:longitude":-73.287832,
     "meso:admin_1":"Santander",
@@ -34,7 +40,7 @@
         "Palmas del Socorro"
     ],
     "name:eng_x_preferred":[
-        "Palmas del Socorro"
+        "Palmas Del Socorro"
     ],
     "name:eng_x_variant":[
         "Palmas Del Socorro",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1108701311,
-    "wof:lastmodified":1536615465,
+    "wof:lastmodified":1555047407,
     "wof:name":"Palmas Del Socorro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

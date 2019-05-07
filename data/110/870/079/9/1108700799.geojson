@@ -10,6 +10,12 @@
     "geom:latitude":3.263483,
     "geom:longitude":-75.352226,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aipe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.205954,
     "lbl:longitude":-75.31759,
     "meso:admin_1":"Huila",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700799,
-    "wof:lastmodified":1536615438,
+    "wof:lastmodified":1554489310,
     "wof:name":"Aipe",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

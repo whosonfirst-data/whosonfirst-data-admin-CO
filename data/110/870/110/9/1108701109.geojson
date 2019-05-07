@@ -10,6 +10,12 @@
     "geom:latitude":8.876025,
     "geom:longitude":-73.342025,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Carmen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.910935,
     "lbl:longitude":-73.342063,
     "meso:admin_1":"Norte de Santander",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108701109,
-    "wof:lastmodified":1536615458,
+    "wof:lastmodified":1554489326,
     "wof:name":"El Carmen",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

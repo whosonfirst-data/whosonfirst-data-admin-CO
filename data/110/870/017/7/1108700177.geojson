@@ -10,6 +10,12 @@
     "geom:latitude":10.232473,
     "geom:longitude":-75.455183,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Turbana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.229393,
     "lbl:longitude":-75.459503,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Turban\u00e1"
     ],
     "name:eng_x_preferred":[
-        "Turban\u00e1"
+        "Turbana"
     ],
     "name:eng_x_variant":[
         "Turbana",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700177,
-    "wof:lastmodified":1536615413,
+    "wof:lastmodified":1555047385,
     "wof:name":"Turbana",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

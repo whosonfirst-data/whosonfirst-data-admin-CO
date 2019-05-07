@@ -10,6 +10,12 @@
     "geom:latitude":4.951994,
     "geom:longitude":-74.084708,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tabio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.955808,
     "lbl:longitude":-74.079885,
     "meso:admin_1":"Cundinamarca",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421172117,
-    "wof:lastmodified":1536615937,
+    "wof:lastmodified":1554488767,
     "wof:name":"Tabio",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

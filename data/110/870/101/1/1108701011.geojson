@@ -10,6 +10,12 @@
     "geom:latitude":1.150515,
     "geom:longitude":-77.530617,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guaitarilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.150418,
     "lbl:longitude":-77.525743,
     "meso:admin_1":"Nari\u00f1o",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701011,
-    "wof:lastmodified":1536615452,
+    "wof:lastmodified":1554489317,
     "wof:name":"Guaitarilla",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

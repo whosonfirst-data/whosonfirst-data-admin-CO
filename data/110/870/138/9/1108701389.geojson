@@ -10,6 +10,12 @@
     "geom:latitude":9.568566,
     "geom:longitude":-75.320919,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chal\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.573047,
     "lbl:longitude":-75.316242,
     "meso:admin_1":"Sucre",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108701389,
-    "wof:lastmodified":1536615468,
+    "wof:lastmodified":1554489338,
     "wof:name":"Chal\u00e1n",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

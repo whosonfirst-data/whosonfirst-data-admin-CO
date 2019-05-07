@@ -10,6 +10,12 @@
     "geom:latitude":9.946355,
     "geom:longitude":-73.868601,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bosconia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.951357,
     "lbl:longitude":-73.854107,
     "meso:admin_1":"Cesar",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421188173,
-    "wof:lastmodified":1536616050,
+    "wof:lastmodified":1554488966,
     "wof:name":"Bosconia",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

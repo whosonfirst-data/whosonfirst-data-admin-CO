@@ -10,6 +10,12 @@
     "geom:latitude":5.016755,
     "geom:longitude":-75.188145,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Casabianca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.031392,
     "lbl:longitude":-75.162916,
     "meso:admin_1":"Tolima",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421166681,
-    "wof:lastmodified":1536615893,
+    "wof:lastmodified":1554488745,
     "wof:name":"Casabianca",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

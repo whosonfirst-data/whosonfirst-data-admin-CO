@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035024,
-    "geom:area_square_m":428002268.830368,
+    "geom:area_square_m":428002268.830924,
     "geom:bbox":"-75.2583474932,8.61568161843,-74.9944189812,8.92419977583",
     "geom:latitude":8.784551,
     "geom:longitude":-75.131207,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Caimito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.794824,
     "lbl:longitude":-75.133193,
     "meso:admin_1":"Sucre",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108701379,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037376,
     "wof:name":"Caimito",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

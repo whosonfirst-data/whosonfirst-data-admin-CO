@@ -10,6 +10,12 @@
     "geom:latitude":6.676033,
     "geom:longitude":-75.439134,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa De Osos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.646003,
     "lbl:longitude":-75.417133,
     "meso:admin_1":"Antioquia",
@@ -35,7 +41,7 @@
         "Santa Rosa de Osos"
     ],
     "name:eng_x_preferred":[
-        "Santa Rosa de Osos"
+        "Santa Rosa De Osos"
     ],
     "name:eng_x_variant":[
         "Santa Rosa De Osos",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421184087,
-    "wof:lastmodified":1536616015,
+    "wof:lastmodified":1555047374,
     "wof:name":"Santa Rosa De Osos",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

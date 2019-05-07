@@ -10,6 +10,12 @@
     "geom:latitude":5.381908,
     "geom:longitude":-74.520963,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Caparrap\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.380822,
     "lbl:longitude":-74.522896,
     "meso:admin_1":"Cundinamarca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700635,
-    "wof:lastmodified":1536615432,
+    "wof:lastmodified":1554489299,
     "wof:name":"Caparrap\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

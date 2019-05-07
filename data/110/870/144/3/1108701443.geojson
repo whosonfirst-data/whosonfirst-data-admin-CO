@@ -10,6 +10,12 @@
     "geom:latitude":4.865936,
     "geom:longitude":-74.922981,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "L\u00e9rida Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.851626,
     "lbl:longitude":-74.912776,
     "meso:admin_1":"Tolima",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701443,
-    "wof:lastmodified":1536615471,
+    "wof:lastmodified":1554489341,
     "wof:name":"L\u00e9rida",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

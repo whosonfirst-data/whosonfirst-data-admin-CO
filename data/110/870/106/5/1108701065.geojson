@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048739,
-    "geom:area_square_m":602476644.933707,
+    "geom:area_square_m":602476644.934916,
     "geom:bbox":"-77.8865254555,1.1988562617,-77.5391605379,1.59657418214",
     "geom:latitude":1.43105,
     "geom:longitude":-77.692454,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Samaniego Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.438505,
     "lbl:longitude":-77.675357,
     "meso:admin_1":"Nari\u00f1o",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108701065,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555037394,
     "wof:name":"Samaniego",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

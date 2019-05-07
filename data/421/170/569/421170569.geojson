@@ -10,6 +10,12 @@
     "geom:latitude":6.246385,
     "geom:longitude":-75.220971,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pe\u00f1ol Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.247406,
     "lbl:longitude":-75.231001,
     "meso:admin_1":"Antioquia",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":421170569,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1554488754,
     "wof:name":"Pe\u00f1ol",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

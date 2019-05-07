@@ -10,6 +10,12 @@
     "geom:latitude":4.630986,
     "geom:longitude":-75.193417,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Anzo\u00e1tegui Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.632941,
     "lbl:longitude":-75.21168,
     "meso:admin_1":"Tolima",
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":421190205,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488986,
     "wof:name":"Anzo\u00e1tegui",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

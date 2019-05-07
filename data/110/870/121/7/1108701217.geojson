@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010302,
-    "geom:area_square_m":126367481.940822,
+    "geom:area_square_m":126367481.940904,
     "geom:bbox":"-73.0747833491,7.18603101681,-72.8814898268,7.31904906583",
     "geom:latitude":7.258875,
     "geom:longitude":-72.987698,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Charta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.281716,
     "lbl:longitude":-72.970189,
     "meso:admin_1":"Santander",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701217,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037386,
     "wof:name":"Charta",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

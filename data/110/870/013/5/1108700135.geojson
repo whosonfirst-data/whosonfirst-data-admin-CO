@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109907,
-    "geom:area_square_m":1344951925.398636,
+    "geom:area_square_m":1344951925.398841,
     "geom:bbox":"-74.2850533916,8.05924623319,-73.7477961387,8.47221493719",
     "geom:latitude":8.252235,
     "geom:longitude":-73.972414,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Morales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.278886,
     "lbl:longitude":-73.972375,
     "meso:admin_1":"Bol\u00edvar",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700135,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037447,
     "wof:name":"Morales",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MS",
     "wof:superseded_by":[],

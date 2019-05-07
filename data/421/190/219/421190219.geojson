@@ -10,6 +10,12 @@
     "geom:latitude":3.611075,
     "geom:longitude":-77.085211,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Buenaventura Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.42105,
     "lbl:longitude":-77.055889,
     "meso:admin_1":"Valle del Cauca",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421190219,
-    "wof:lastmodified":1536616079,
+    "wof:lastmodified":1554488987,
     "wof:name":"Buenaventura",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

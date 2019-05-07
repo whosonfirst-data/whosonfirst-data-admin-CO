@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009244,
-    "geom:area_square_m":113966099.402803,
+    "geom:area_square_m":113966099.402822,
     "geom:bbox":"-74.0015642122,4.33424267258,-73.8717449078,4.46221574418",
     "geom:latitude":4.402471,
     "geom:longitude":-73.944516,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "C\u00e1queza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.408502,
     "lbl:longitude":-73.945509,
     "meso:admin_1":"Cundinamarca",
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421184951,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1555037109,
     "wof:name":"C\u00e1queza",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

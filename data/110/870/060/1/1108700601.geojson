@@ -10,6 +10,12 @@
     "geom:latitude":9.126027,
     "geom:longitude":-75.513543,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Andr\u00e9s De Sotavento Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.109539,
     "lbl:longitude":-75.52754,
     "meso:admin_1":"C\u00f3rdoba",
@@ -34,11 +40,12 @@
         "San Andr\u00e9s de Sotavento"
     ],
     "name:eng_x_preferred":[
-        "San Andr\u00e9s de Sotavento"
+        "San Andr\u00e9s De Sotavento"
     ],
     "name:eng_x_variant":[
         "San Andres De Sotavento",
-        "San Andr\u00e9s de Sotavento"
+        "San Andr\u00e9s de Sotavento",
+        "San Andr\u00e9s De Sotavento"
     ],
     "name:fre_x_preferred":[
         "San Andr\u00e9s de Sotavento"
@@ -103,10 +110,11 @@
         }
     ],
     "wof:id":1108700601,
-    "wof:lastmodified":1536615430,
+    "wof:lastmodified":1555047393,
     "wof:name":"San Andr\u00e9s De Sotavento",
     "wof:parent_id":85670137,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SS",
     "wof:superseded_by":[],

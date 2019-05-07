@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208349,
-    "geom:area_square_m":2573982081.69846,
+    "geom:area_square_m":2573982081.69968,
     "geom:bbox":"-77.9291461764,2.13356633867,-77.3747938113,2.70564450697",
     "geom:latitude":2.413716,
     "geom:longitude":-77.690886,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guapi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.396783,
     "lbl:longitude":-77.69616,
     "meso:admin_1":"Cauca",
@@ -37,7 +43,7 @@
         "Guapi"
     ],
     "name:eng_x_preferred":[
-        "Guap\u00ed"
+        "Guapi"
     ],
     "name:eng_x_variant":[
         "Guapi",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700461,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555047390,
     "wof:name":"Guapi",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

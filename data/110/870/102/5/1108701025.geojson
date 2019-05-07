@@ -10,6 +10,12 @@
     "geom:latitude":1.619612,
     "geom:longitude":-77.142976,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Uni\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.617812,
     "lbl:longitude":-77.141666,
     "meso:admin_1":"Nari\u00f1o",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108701025,
-    "wof:lastmodified":1536615453,
+    "wof:lastmodified":1554489318,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021779,
-    "geom:area_square_m":268732559.838929,
+    "geom:area_square_m":268732559.838975,
     "geom:bbox":"-76.3241398966,3.66585100273,-76.081445986,3.83239066631",
     "geom:latitude":3.744163,
     "geom:longitude":-76.191352,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ginebra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.746565,
     "lbl:longitude":-76.179329,
     "meso:admin_1":"Valle del Cauca",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421204845,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037047,
     "wof:name":"Ginebra",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

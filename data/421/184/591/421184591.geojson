@@ -10,6 +10,12 @@
     "geom:latitude":5.320583,
     "geom:longitude":-75.804545,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gu\u00e1tica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.317564,
     "lbl:longitude":-75.815729,
     "meso:admin_1":"Risaralda",
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Gu\u00e1tica"
+    ],
     "name:eng_x_variant":[
         "Quinchia",
         "Quinch\u00eda"
@@ -81,10 +90,11 @@
         }
     ],
     "wof:id":421184591,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1555047374,
     "wof:name":"Gu\u00e1tica",
     "wof:parent_id":85670173,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"QU",
     "wof:superseded_by":[],

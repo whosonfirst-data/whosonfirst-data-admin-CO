@@ -10,6 +10,12 @@
     "geom:latitude":4.028561,
     "geom:longitude":-76.032205,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tulu\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.006109,
     "lbl:longitude":-75.991109,
     "meso:admin_1":"Valle del Cauca",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1108701505,
-    "wof:lastmodified":1536615474,
+    "wof:lastmodified":1554489345,
     "wof:name":"Tulu\u00e1",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

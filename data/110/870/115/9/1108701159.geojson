@@ -10,6 +10,12 @@
     "geom:latitude":7.93636,
     "geom:longitude":-72.987553,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villa Caro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.918751,
     "lbl:longitude":-72.980249,
     "meso:admin_1":"Norte de Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701159,
-    "wof:lastmodified":1536615460,
+    "wof:lastmodified":1554489326,
     "wof:name":"Villa Caro",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

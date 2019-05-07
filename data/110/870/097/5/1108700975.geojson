@@ -10,6 +10,12 @@
     "geom:latitude":1.44536,
     "geom:longitude":-78.156533,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Barbacoas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.565113,
     "lbl:longitude":-78.091513,
     "meso:admin_1":"Nari\u00f1o",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700975,
-    "wof:lastmodified":1536615451,
+    "wof:lastmodified":1554489318,
     "wof:name":"Barbacoas",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241806,
-    "geom:area_square_m":2977515322.046543,
+    "geom:area_square_m":2977515322.046257,
     "geom:bbox":"-72.1195295309,5.00749746997,-70.9098709474,5.55189439645",
     "geom:latitude":5.232332,
     "geom:longitude":-71.594302,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Luis De Palenque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.274322,
     "lbl:longitude":-71.786955,
     "meso:admin_1":"Casanare",
@@ -34,7 +40,7 @@
         "San Luis de Palenque"
     ],
     "name:eng_x_preferred":[
-        "San Luis de Palenque"
+        "San Luis De Palenque"
     ],
     "name:eng_x_variant":[
         "San Luis De Palenque",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108701547,
-    "wof:lastmodified":1553816485,
+    "wof:lastmodified":1555047411,
     "wof:name":"San Luis De Palenque",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

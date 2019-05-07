@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062654,
-    "geom:area_square_m":772744977.675797,
+    "geom:area_square_m":772744977.676052,
     "geom:bbox":"-75.7532840546,3.92820192669,-75.390039491,4.27933136008",
     "geom:latitude":4.09733,
     "geom:longitude":-75.594953,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Roncesvalles Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.108464,
     "lbl:longitude":-75.582621,
     "meso:admin_1":"Tolima",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108701461,
-    "wof:lastmodified":1553816484,
+    "wof:lastmodified":1555037366,
     "wof:name":"Roncesvalles",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

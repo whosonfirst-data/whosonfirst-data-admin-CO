@@ -10,6 +10,12 @@
     "geom:latitude":-3.633726,
     "geom:longitude":-70.471645,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Nari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-3.679448,
     "lbl:longitude":-70.491895,
     "meso:admin_1":"Amazonas",
@@ -140,7 +146,7 @@
         }
     ],
     "wof:id":421202279,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1554489034,
     "wof:name":"Puerto Nari\u00f1o",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

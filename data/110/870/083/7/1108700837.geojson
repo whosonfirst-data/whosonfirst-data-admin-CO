@@ -10,6 +10,12 @@
     "geom:latitude":2.100495,
     "geom:longitude":-76.227001,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Saladoblanco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.096381,
     "lbl:longitude":-76.229795,
     "meso:admin_1":"Huila",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700837,
-    "wof:lastmodified":1536615440,
+    "wof:lastmodified":1554489307,
     "wof:name":"Saladoblanco",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

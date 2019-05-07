@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069,
-    "geom:area_square_m":852527058.164541,
+    "geom:area_square_m":852527058.164635,
     "geom:bbox":"-76.5564421531,2.10106063238,-76.1210555359,2.42353459134",
     "geom:latitude":2.281777,
     "geom:longitude":-76.371175,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Purac\u00e9 (Coconuco) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.311774,
     "lbl:longitude":-76.44039,
     "meso:admin_1":"Cauca",
@@ -38,7 +44,8 @@
     ],
     "name:eng_x_variant":[
         "Purace",
-        "Purac\u00e9"
+        "Purac\u00e9",
+        "Purac\u00e9 (Coconuco)"
     ],
     "name:fre_x_preferred":[
         "Purac\u00e9"
@@ -106,8 +113,8 @@
         }
     ],
     "wof:id":1108700495,
-    "wof:lastmodified":1553816474,
-    "wof:name":"Purac\u00e9 (Coconuco)",
+    "wof:lastmodified":1555047391,
+    "wof:name":"Purac\u00e9",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

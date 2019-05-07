@@ -10,6 +10,12 @@
     "geom:latitude":4.181377,
     "geom:longitude":-75.17133,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Valle De San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.185874,
     "lbl:longitude":-75.165806,
     "meso:admin_1":"Tolima",
@@ -34,7 +40,7 @@
         "Valle de San Juan"
     ],
     "name:eng_x_preferred":[
-        "Valle de San Juan"
+        "Valle De San Juan"
     ],
     "name:eng_x_variant":[
         "Valle De San Juan",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108701473,
-    "wof:lastmodified":1536615473,
+    "wof:lastmodified":1555047409,
     "wof:name":"Valle De San Juan",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

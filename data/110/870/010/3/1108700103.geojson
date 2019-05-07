@@ -10,6 +10,12 @@
     "geom:latitude":8.837351,
     "geom:longitude":-74.162453,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Barranco De Loba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.887883,
     "lbl:longitude":-74.178545,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Barranco de Loba"
     ],
     "name:eng_x_preferred":[
-        "Barranco de Loba"
+        "Barranco De Loba"
     ],
     "name:eng_x_variant":[
         "Barranco De Loba",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700103,
-    "wof:lastmodified":1536615410,
+    "wof:lastmodified":1555047383,
     "wof:name":"Barranco De Loba",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

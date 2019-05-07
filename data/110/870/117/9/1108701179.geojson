@@ -10,6 +10,12 @@
     "geom:latitude":5.046645,
     "geom:longitude":-75.982897,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santuario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.082758,
     "lbl:longitude":-76.020885,
     "meso:admin_1":"Risaralda",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108701179,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489327,
     "wof:name":"Santuario",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

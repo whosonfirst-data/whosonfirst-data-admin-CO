@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102448,
-    "geom:area_square_m":1247139234.973958,
+    "geom:area_square_m":1247139234.97349,
     "geom:bbox":"-74.4626111945,9.88082060035,-74.0333618169,10.3833923831",
     "geom:latitude":10.10448,
     "geom:longitude":-74.263233,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sabanas De San \u00e1ngel (San \u00c1ngel) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.091661,
     "lbl:longitude":-74.266509,
     "meso:admin_1":"Magdalena",
@@ -34,7 +40,11 @@
         "Pivijay"
     ],
     "name:eng_x_preferred":[
-        "Pivijay"
+        "Sabanas De San \u00e1ngel"
+    ],
+    "name:eng_x_variant":[
+        "Sabanas De San \u00e1ngel (San \u00c1ngel)",
+        "Sabanas De San \u00e1ngel"
     ],
     "name:fre_x_preferred":[
         "Pivijay"
@@ -99,10 +109,11 @@
         }
     ],
     "wof:id":1108700905,
-    "wof:lastmodified":1553816479,
-    "wof:name":"Sabanas De San \u00e1ngel (San \u00c1ngel)",
+    "wof:lastmodified":1555047398,
+    "wof:name":"Sabanas De San \u00e1ngel",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

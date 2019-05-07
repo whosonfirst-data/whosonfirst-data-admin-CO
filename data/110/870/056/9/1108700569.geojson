@@ -10,6 +10,12 @@
     "geom:latitude":9.107251,
     "geom:longitude":-75.650816,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chim\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.107377,
     "lbl:longitude":-75.649323,
     "meso:admin_1":"C\u00f3rdoba",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108700569,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1554489297,
     "wof:name":"Chim\u00e1",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

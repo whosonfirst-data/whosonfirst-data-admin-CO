@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06227,
-    "geom:area_square_m":768825080.145577,
+    "geom:area_square_m":768825080.145992,
     "geom:bbox":"-75.1666339716,2.88720510212,-74.8265203622,3.2900170765",
     "geom:latitude":3.133806,
     "geom:longitude":-74.968287,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Baraya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.16658,
     "lbl:longitude":-74.951742,
     "meso:admin_1":"Huila",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700805,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037409,
     "wof:name":"Baraya",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

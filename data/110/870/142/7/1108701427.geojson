@@ -10,6 +10,12 @@
     "geom:latitude":5.007468,
     "geom:longitude":-74.846802,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Armero (Guayabal) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.000744,
     "lbl:longitude":-74.831601,
     "meso:admin_1":"Tolima",
@@ -47,7 +53,8 @@
     ],
     "name:eng_x_variant":[
         "Armero (guayabal)",
-        "Armero"
+        "Armero",
+        "Armero (Guayabal)"
     ],
     "name:fre_x_preferred":[
         "Armero-Guayabal"
@@ -148,8 +155,8 @@
         }
     ],
     "wof:id":1108701427,
-    "wof:lastmodified":1536615470,
-    "wof:name":"Armero (Guayabal)",
+    "wof:lastmodified":1555047409,
+    "wof:name":"Armero",
     "wof:parent_id":85670175,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

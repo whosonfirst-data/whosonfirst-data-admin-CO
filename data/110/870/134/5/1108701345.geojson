@@ -10,6 +10,12 @@
     "geom:latitude":6.894726,
     "geom:longitude":-73.540306,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Vicente De Chucur\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.894859,
     "lbl:longitude":-73.540292,
     "meso:admin_1":"Santander",
@@ -37,11 +43,12 @@
         "San Vicente de Chucur\u00ed"
     ],
     "name:eng_x_preferred":[
-        "San Vicente de Chucur\u00ed"
+        "San Vicente De Chucur\u00ed"
     ],
     "name:eng_x_variant":[
         "San Vicente De Chucuri",
-        "San Vicente de Chucur\u00ed"
+        "San Vicente de Chucur\u00ed",
+        "San Vicente De Chucur\u00ed"
     ],
     "name:fre_x_preferred":[
         "San Vicente de Chucur\u00ed"
@@ -121,7 +128,7 @@
         }
     ],
     "wof:id":1108701345,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1555047408,
     "wof:name":"San Vicente De Chucur\u00ed",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

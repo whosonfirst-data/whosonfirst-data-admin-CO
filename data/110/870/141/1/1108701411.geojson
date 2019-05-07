@@ -10,6 +10,12 @@
     "geom:latitude":8.84086,
     "geom:longitude":-74.973418,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Benito Abad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.89564,
     "lbl:longitude":-74.97691,
     "meso:admin_1":"Sucre",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701411,
-    "wof:lastmodified":1536615469,
+    "wof:lastmodified":1554489340,
     "wof:name":"San Benito Abad",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.140489,
     "geom:longitude":-75.649893,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Estrella Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.141405,
     "lbl:longitude":-75.652964,
     "meso:admin_1":"Antioquia",
@@ -35,15 +41,19 @@
         "La Estrella"
     ],
     "name:eng_x_preferred":[
-        "Sabaneta"
+        "La Estrella"
     ],
     "name:eng_x_variant":[
-        "Sabaneta"
+        "Sabaneta",
+        "La Estrella"
     ],
     "name:fas_x_preferred":[
         "\u0644\u0627 \u0627\u0633\u062a\u0631\u06cc\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
+        "La Estrella"
+    ],
+    "name:fre_x_preferred":[
         "La Estrella"
     ],
     "name:gla_x_preferred":[
@@ -159,7 +169,7 @@
         }
     ],
     "wof:id":421170567,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1555047371,
     "wof:name":"La Estrella",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

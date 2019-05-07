@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017933,
-    "geom:area_square_m":220134411.40181,
+    "geom:area_square_m":220134411.401897,
     "geom:bbox":"-75.7651938129,6.78673925474,-75.5759272883,7.02721452817",
     "geom:latitude":6.918196,
     "geom:longitude":-75.665379,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Andr\u00e9s Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.934033,
     "lbl:longitude":-75.651043,
     "meso:admin_1":"Antioquia",
@@ -106,10 +112,11 @@
         }
     ],
     "wof:id":1108700003,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037461,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

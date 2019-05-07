@@ -10,6 +10,12 @@
     "geom:latitude":4.63722,
     "geom:longitude":-76.081663,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Toro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.640318,
     "lbl:longitude":-76.076527,
     "meso:admin_1":"Valle del Cauca",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108701501,
-    "wof:lastmodified":1536615474,
+    "wof:lastmodified":1554489344,
     "wof:name":"Toro",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

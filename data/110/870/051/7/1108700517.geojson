@@ -10,6 +10,12 @@
     "geom:latitude":2.699786,
     "geom:longitude":-77.491787,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Timbiqu\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.730414,
     "lbl:longitude":-77.487272,
     "meso:admin_1":"Cauca",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700517,
-    "wof:lastmodified":1536615426,
+    "wof:lastmodified":1554489292,
     "wof:name":"Timbiqu\u00ed",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

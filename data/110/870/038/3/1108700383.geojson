@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016476,
-    "geom:area_square_m":202882884.143952,
+    "geom:area_square_m":202882884.144033,
     "geom:bbox":"-75.2441981959,5.15659851593,-75.0615860312,5.3093257139",
     "geom:latitude":5.233466,
     "geom:longitude":-75.153082,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Manzanares Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.227033,
     "lbl:longitude":-75.151348,
     "meso:admin_1":"Caldas",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700383,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037440,
     "wof:name":"Manzanares",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

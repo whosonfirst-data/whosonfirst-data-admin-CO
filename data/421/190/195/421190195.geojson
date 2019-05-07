@@ -10,6 +10,12 @@
     "geom:latitude":7.973204,
     "geom:longitude":-76.730632,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Turbo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.157346,
     "lbl:longitude":-76.572586,
     "meso:admin_1":"Antioquia",
@@ -166,7 +172,7 @@
         }
     ],
     "wof:id":421190195,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488986,
     "wof:name":"Turbo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

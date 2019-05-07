@@ -10,6 +10,12 @@
     "geom:latitude":6.629225,
     "geom:longitude":-72.739661,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Jos\u00e9 De Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.626171,
     "lbl:longitude":-72.736918,
     "meso:admin_1":"Santander",
@@ -34,6 +40,9 @@
         "Enciso"
     ],
     "name:eng_x_preferred":[
+        "San Jos\u00e9 De Miranda"
+    ],
+    "name:eng_x_variant":[
         "Enciso"
     ],
     "name:fre_x_preferred":[
@@ -90,10 +99,11 @@
         }
     ],
     "wof:id":1108701341,
-    "wof:lastmodified":1536615466,
+    "wof:lastmodified":1555047408,
     "wof:name":"San Jos\u00e9 De Miranda",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"ES",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010213,
-    "geom:area_square_m":124050969.971967,
+    "geom:area_square_m":124050969.97203,
     "geom:bbox":"-74.9944125072,10.7010780429,-74.866350684,10.8593413451",
     "geom:latitude":10.79371,
     "geom:longitude":-74.921827,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Baranoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.806814,
     "lbl:longitude":-74.920866,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108700051,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037459,
     "wof:name":"Baranoa",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.069557,
     "geom:longitude":-75.513526,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Retiro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.053616,
     "lbl:longitude":-75.512134,
     "meso:admin_1":"Antioquia",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421200813,
-    "wof:lastmodified":1536616136,
+    "wof:lastmodified":1554489030,
     "wof:name":"Retiro",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

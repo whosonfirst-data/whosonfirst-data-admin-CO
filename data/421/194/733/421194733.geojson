@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028231,
-    "geom:area_square_m":347948153.975671,
+    "geom:area_square_m":347948153.975716,
     "geom:bbox":"-75.6433888168,4.47276755935,-75.3845478882,4.716532017",
     "geom:latitude":4.611295,
     "geom:longitude":-75.530573,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Salento Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.616354,
     "lbl:longitude":-75.541391,
     "meso:admin_1":"Quindio",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421194733,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1555037069,
     "wof:name":"Salento",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

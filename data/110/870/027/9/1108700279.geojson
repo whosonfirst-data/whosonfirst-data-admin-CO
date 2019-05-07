@@ -10,6 +10,12 @@
     "geom:latitude":5.353835,
     "geom:longitude":-73.448971,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nuevo Col\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.355879,
     "lbl:longitude":-73.449448,
     "meso:admin_1":"Boyac\u00e1",
@@ -28,10 +34,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Jenesano"
+        "Nuevo Col\u00f3n"
     ],
     "name:eng_x_variant":[
-        "Jenesano"
+        "Jenesano",
+        "Nuevo Col\u00f3n"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":1108700279,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1555047387,
     "wof:name":"Nuevo Col\u00f3n",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

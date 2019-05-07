@@ -10,6 +10,12 @@
     "geom:latitude":6.101252,
     "geom:longitude":-73.527343,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Benito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.073694,
     "lbl:longitude":-73.549962,
     "meso:admin_1":"Santander",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108701335,
-    "wof:lastmodified":1536615466,
+    "wof:lastmodified":1554489334,
     "wof:name":"San Benito",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

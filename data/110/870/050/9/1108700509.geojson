@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041838,
-    "geom:area_square_m":516938733.482087,
+    "geom:area_square_m":516938733.481328,
     "geom:bbox":"-76.7146837899,2.03085978136,-76.5277105458,2.41997259727",
     "geom:latitude":2.231971,
     "geom:longitude":-76.611389,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sotar\u00e1 (Paispamba) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.269741,
     "lbl:longitude":-76.605006,
     "meso:admin_1":"Cauca",
@@ -41,7 +47,8 @@
     ],
     "name:eng_x_variant":[
         "Sotara",
-        "Sotar\u00e1"
+        "Sotar\u00e1",
+        "Sotar\u00e1 (Paispamba)"
     ],
     "name:fre_x_preferred":[
         "Sotar\u00e1"
@@ -112,8 +119,8 @@
         }
     ],
     "wof:id":1108700509,
-    "wof:lastmodified":1553816475,
-    "wof:name":"Sotar\u00e1 (Paispamba)",
+    "wof:lastmodified":1555047391,
+    "wof:name":"Sotar\u00e1",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

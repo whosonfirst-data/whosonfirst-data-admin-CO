@@ -10,6 +10,12 @@
     "geom:latitude":6.232771,
     "geom:longitude":-73.407482,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guadalupe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.236384,
     "lbl:longitude":-73.406344,
     "meso:admin_1":"Santander",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701265,
-    "wof:lastmodified":1536615464,
+    "wof:lastmodified":1554489331,
     "wof:name":"Guadalupe",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

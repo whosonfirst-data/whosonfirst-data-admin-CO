@@ -10,6 +10,12 @@
     "geom:latitude":10.583895,
     "geom:longitude":-72.974268,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villanueva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.58542,
     "lbl:longitude":-72.976298,
     "meso:admin_1":"La Guajira",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700869,
-    "wof:lastmodified":1536615442,
+    "wof:lastmodified":1554489308,
     "wof:name":"Villanueva",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

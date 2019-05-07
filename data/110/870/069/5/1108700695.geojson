@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072401,
-    "geom:area_square_m":892547374.437272,
+    "geom:area_square_m":892547374.437557,
     "geom:bbox":"-73.4302971387,4.21491718961,-73.0508345215,4.74125872116",
     "geom:latitude":4.451911,
     "geom:longitude":-73.188109,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Paratebueno Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.372924,
     "lbl:longitude":-73.191179,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700695,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037412,
     "wof:name":"Paratebueno",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

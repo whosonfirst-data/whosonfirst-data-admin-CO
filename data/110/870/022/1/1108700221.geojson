@@ -10,6 +10,12 @@
     "geom:latitude":5.391602,
     "geom:longitude":-73.27967,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ci\u00e9nega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.38761,
     "lbl:longitude":-73.283299,
     "meso:admin_1":"Boyac\u00e1",
@@ -100,10 +106,11 @@
         }
     ],
     "wof:id":1108700221,
-    "wof:lastmodified":1536615414,
+    "wof:lastmodified":1554489280,
     "wof:name":"Ci\u00e9nega",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CG",
     "wof:superseded_by":[],

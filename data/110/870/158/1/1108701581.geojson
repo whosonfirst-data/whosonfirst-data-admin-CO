@@ -10,6 +10,12 @@
     "geom:latitude":0.911864,
     "geom:longitude":-76.744856,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villagarz\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.901793,
     "lbl:longitude":-76.775581,
     "meso:admin_1":"Putumayo",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701581,
-    "wof:lastmodified":1536615481,
+    "wof:lastmodified":1554489348,
     "wof:name":"Villagarz\u00f3n",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

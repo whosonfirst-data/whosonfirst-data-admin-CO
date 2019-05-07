@@ -10,6 +10,12 @@
     "geom:latitude":5.941077,
     "geom:longitude":-75.353622,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Union Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.936028,
     "lbl:longitude":-75.361367,
     "meso:admin_1":"Antioquia",
@@ -32,13 +38,17 @@
         "La Uni\u00f3n"
     ],
     "name:eng_x_preferred":[
-        "La Uni\u00f3n"
+        "La Union"
     ],
     "name:eng_x_variant":[
         "La Union",
-        "La Uni\u00f3n de Sucre"
+        "La Uni\u00f3n de Sucre",
+        "La Union"
     ],
     "name:fra_x_preferred":[
+        "La Uni\u00f3n"
+    ],
+    "name:fre_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:ile_x_preferred":[
@@ -130,7 +140,7 @@
         }
     ],
     "wof:id":421204271,
-    "wof:lastmodified":1536616164,
+    "wof:lastmodified":1555047380,
     "wof:name":"La Union",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.531458,
     "geom:longitude":-72.09883,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nunch\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.528413,
     "lbl:longitude":-72.095002,
     "meso:admin_1":"Casanare",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701533,
-    "wof:lastmodified":1536615477,
+    "wof:lastmodified":1554489347,
     "wof:name":"Nunch\u00eda",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

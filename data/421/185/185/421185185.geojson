@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.171198,
-    "geom:area_square_m":2112370811.791755,
+    "geom:area_square_m":2112370811.789876,
     "geom:bbox":"-75.9173552343,3.46279408946,-75.2621166996,4.04304319388",
     "geom:latitude":3.743779,
     "geom:longitude":-75.589561,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chaparral Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.733695,
     "lbl:longitude":-75.589536,
     "meso:admin_1":"Tolima",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421185185,
-    "wof:lastmodified":1553816374,
+    "wof:lastmodified":1555037108,
     "wof:name":"Chaparral",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

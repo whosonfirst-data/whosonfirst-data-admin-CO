@@ -10,6 +10,12 @@
     "geom:latitude":-3.530427,
     "geom:longitude":-70.045298,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Leticia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":-3.52795,
     "lbl:longitude":-70.084519,
     "meso:admin_1":"Amazonas",
@@ -268,7 +274,7 @@
         }
     ],
     "wof:id":421202275,
-    "wof:lastmodified":1536616144,
+    "wof:lastmodified":1554489037,
     "wof:name":"Leticia",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":6.82874,
     "geom:longitude":-76.708686,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Murind\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.82888,
     "lbl:longitude":-76.692249,
     "meso:admin_1":"Antioquia",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108699979,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1554489270,
     "wof:name":"Murind\u00f3",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

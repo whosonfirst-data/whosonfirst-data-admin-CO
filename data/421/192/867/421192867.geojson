@@ -10,6 +10,12 @@
     "geom:latitude":13.353325,
     "geom:longitude":-81.373967,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Catalina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.351087,
     "lbl:longitude":-81.374276,
     "meso:admin_1":"Archipi\u00e9lago de San Andr\u00e9s",
@@ -32,13 +38,17 @@
         "Santa Catalina"
     ],
     "name:eng_x_preferred":[
-        "Providencia [y Santa Catalina]"
+        "Santa Catalina"
     ],
     "name:eng_x_variant":[
         "Santa Catalina",
-        "Providencia"
+        "Providencia",
+        "Santa Catalina"
     ],
     "name:fra_x_preferred":[
+        "Santa Catalina"
+    ],
+    "name:fre_x_preferred":[
         "Santa Catalina"
     ],
     "name:ita_x_preferred":[
@@ -126,7 +136,7 @@
         }
     ],
     "wof:id":421192867,
-    "wof:lastmodified":1536616100,
+    "wof:lastmodified":1555047376,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85670151,
     "wof:placetype":"county",

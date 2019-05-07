@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024847,
-    "geom:area_square_m":304984532.568784,
+    "geom:area_square_m":304984532.568459,
     "geom:bbox":"-72.9383509589,6.79555618076,-72.7341299983,7.07502572983",
     "geom:latitude":6.943125,
     "geom:longitude":-72.823538,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guaca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.956231,
     "lbl:longitude":-72.805141,
     "meso:admin_1":"Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701263,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037384,
     "wof:name":"Guaca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

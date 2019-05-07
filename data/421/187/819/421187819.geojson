@@ -10,6 +10,12 @@
     "geom:latitude":11.999594,
     "geom:longitude":-71.748711,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Uribia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.969959,
     "lbl:longitude":-71.739475,
     "meso:admin_1":"La Guajira",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421187819,
-    "wof:lastmodified":1536616039,
+    "wof:lastmodified":1554488964,
     "wof:name":"Uribia",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.805345,
     "geom:longitude":-73.538392,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Castilla La Nueva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.810889,
     "lbl:longitude":-73.55412,
     "meso:admin_1":"Meta",
@@ -35,7 +41,7 @@
         "Castilla la Nueva"
     ],
     "name:eng_x_preferred":[
-        "Castilla la Nueva"
+        "Castilla La Nueva"
     ],
     "name:eng_x_variant":[
         "Castilla La Nueva",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421184135,
-    "wof:lastmodified":1536616017,
+    "wof:lastmodified":1555047374,
     "wof:name":"Castilla La Nueva",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

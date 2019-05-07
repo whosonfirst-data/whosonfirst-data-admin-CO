@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00906,
-    "geom:area_square_m":111438500.901758,
+    "geom:area_square_m":111438500.901752,
     "geom:bbox":"-73.9327653865,5.78809214048,-73.7418042924,5.91085708829",
     "geom:latitude":5.86072,
     "geom:longitude":-73.825402,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Jes\u00fas Mar\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.853752,
     "lbl:longitude":-73.826837,
     "meso:admin_1":"Santander",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1108701275,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037382,
     "wof:name":"Jes\u00fas Mar\u00eda",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

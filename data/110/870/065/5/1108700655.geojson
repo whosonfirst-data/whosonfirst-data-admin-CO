@@ -10,6 +10,12 @@
     "geom:latitude":4.512398,
     "geom:longitude":-74.781907,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guataqu\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.523909,
     "lbl:longitude":-74.774928,
     "meso:admin_1":"Cundinamarca",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700655,
-    "wof:lastmodified":1536615432,
+    "wof:lastmodified":1554489298,
     "wof:name":"Guataqu\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

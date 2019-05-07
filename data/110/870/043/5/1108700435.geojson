@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019258,
-    "geom:area_square_m":237993226.699038,
+    "geom:area_square_m":237993226.698999,
     "geom:bbox":"-76.9361788161,1.83653073125,-76.7230210038,1.98810826439",
     "geom:latitude":1.912695,
     "geom:longitude":-76.834819,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Almaguer Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.914311,
     "lbl:longitude":-76.843439,
     "meso:admin_1":"Cauca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700435,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037435,
     "wof:name":"Almaguer",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

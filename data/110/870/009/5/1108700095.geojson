@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079506,
-    "geom:area_square_m":971999532.020454,
+    "geom:area_square_m":971999532.020473,
     "geom:bbox":"-74.6106183275,8.36718767644,-74.3219405333,8.83845904846",
     "geom:latitude":8.622556,
     "geom:longitude":-74.476725,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ach\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.623156,
     "lbl:longitude":-74.474549,
     "meso:admin_1":"Bol\u00edvar",
@@ -106,10 +112,11 @@
         }
     ],
     "wof:id":1108700095,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037452,
     "wof:name":"Ach\u00ed",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AC",
     "wof:superseded_by":[],

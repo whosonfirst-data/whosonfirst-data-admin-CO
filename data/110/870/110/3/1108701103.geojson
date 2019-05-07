@@ -10,6 +10,12 @@
     "geom:latitude":8.867233,
     "geom:longitude":-73.20342,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Convenci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.929622,
     "lbl:longitude":-73.199926,
     "meso:admin_1":"Norte de Santander",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701103,
-    "wof:lastmodified":1536615457,
+    "wof:lastmodified":1554489325,
     "wof:name":"Convenci\u00f3n",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

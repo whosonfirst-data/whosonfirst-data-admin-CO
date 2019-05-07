@@ -10,6 +10,12 @@
     "geom:latitude":6.68533,
     "geom:longitude":-73.957175,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Parra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.679315,
     "lbl:longitude":-73.969423,
     "meso:admin_1":"Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701323,
-    "wof:lastmodified":1536615466,
+    "wof:lastmodified":1554489334,
     "wof:name":"Puerto Parra",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.257306,
     "geom:longitude":-73.188281,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Playa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.258467,
     "lbl:longitude":-73.20567,
     "meso:admin_1":"Norte de Santander",
@@ -34,11 +40,12 @@
         "La Playa de Bel\u00e9n"
     ],
     "name:eng_x_preferred":[
-        "La Playa [de Bel\u00e9n]"
+        "La Playa"
     ],
     "name:eng_x_variant":[
         "La Playa",
-        "La Playa de Bel\u00e9n"
+        "La Playa de Bel\u00e9n",
+        "La Playa"
     ],
     "name:fre_x_preferred":[
         "La Playa de Bel\u00e9n"
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":1108701127,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1555047405,
     "wof:name":"La Playa",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

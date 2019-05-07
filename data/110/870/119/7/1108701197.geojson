@@ -10,6 +10,12 @@
     "geom:latitude":7.011907,
     "geom:longitude":-73.387165,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Betulia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.043774,
     "lbl:longitude":-73.438092,
     "meso:admin_1":"Santander",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701197,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489329,
     "wof:name":"Betulia",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

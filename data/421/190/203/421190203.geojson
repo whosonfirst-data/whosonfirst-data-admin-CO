@@ -10,6 +10,12 @@
     "geom:latitude":5.617117,
     "geom:longitude":-72.969563,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Iza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.617448,
     "lbl:longitude":-72.969561,
     "meso:admin_1":"Boyac\u00e1",
@@ -32,12 +38,16 @@
         "IZA"
     ],
     "name:eng_x_preferred":[
-        "Sogamoso"
+        "Iza"
     ],
     "name:eng_x_variant":[
-        "Sogamoso"
+        "Sogamoso",
+        "Iza"
     ],
     "name:fra_x_preferred":[
+        "Iza"
+    ],
+    "name:fre_x_preferred":[
         "Iza"
     ],
     "name:hun_x_preferred":[
@@ -119,7 +129,7 @@
         }
     ],
     "wof:id":421190203,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1555047376,
     "wof:name":"Iza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

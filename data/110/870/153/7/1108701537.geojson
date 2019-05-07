@@ -10,6 +10,12 @@
     "geom:latitude":5.780489,
     "geom:longitude":-70.870624,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Paz De Ariporo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.746526,
     "lbl:longitude":-70.870649,
     "meso:admin_1":"Casanare",
@@ -34,7 +40,7 @@
         "Paz de Ariporo"
     ],
     "name:eng_x_preferred":[
-        "Paz de Ariporo"
+        "Paz De Ariporo"
     ],
     "name:eng_x_variant":[
         "Paz De Ariporo",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108701537,
-    "wof:lastmodified":1536615477,
+    "wof:lastmodified":1555047410,
     "wof:name":"Paz De Ariporo",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.012152,
     "geom:longitude":-74.487769,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villeta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.013311,
     "lbl:longitude":-74.489014,
     "meso:admin_1":"Cundinamarca",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421188673,
-    "wof:lastmodified":1536616062,
+    "wof:lastmodified":1554488976,
     "wof:name":"Villeta",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

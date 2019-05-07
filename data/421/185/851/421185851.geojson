@@ -10,6 +10,12 @@
     "geom:latitude":4.610918,
     "geom:longitude":-75.662292,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Circasia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.59916,
     "lbl:longitude":-75.667233,
     "meso:admin_1":"Quindio",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421185851,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1554488958,
     "wof:name":"Circasia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

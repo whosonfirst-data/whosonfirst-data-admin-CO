@@ -10,6 +10,12 @@
     "geom:latitude":1.542851,
     "geom:longitude":-77.21876,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.535578,
     "lbl:longitude":-77.206878,
     "meso:admin_1":"Nari\u00f1o",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701071,
-    "wof:lastmodified":1536615455,
+    "wof:lastmodified":1554489321,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.954029,
     "geom:longitude":-74.631696,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chaguan\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.949617,
     "lbl:longitude":-74.621055,
     "meso:admin_1":"Cundinamarca",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700639,
-    "wof:lastmodified":1536615432,
+    "wof:lastmodified":1554489297,
     "wof:name":"Chaguan\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

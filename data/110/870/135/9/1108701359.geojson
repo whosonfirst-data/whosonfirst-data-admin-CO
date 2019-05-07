@@ -10,6 +10,12 @@
     "geom:latitude":5.987734,
     "geom:longitude":-73.967759,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sucre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.006961,
     "lbl:longitude":-73.964881,
     "meso:admin_1":"Santander",
@@ -27,6 +33,9 @@
     "mps:longitude":-73.964881,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sucre"
+    ],
     "name:eng_x_variant":[
         "Sucre"
     ],
@@ -53,10 +62,11 @@
         }
     ],
     "wof:id":1108701359,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1555047408,
     "wof:name":"Sucre",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

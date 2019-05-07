@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166665,
-    "geom:area_square_m":2057062503.011719,
+    "geom:area_square_m":2057062503.012038,
     "geom:bbox":"-76.0849804761,3.16964829139,-75.5760002321,3.77733524195",
     "geom:latitude":3.468149,
     "geom:longitude":-75.854667,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Rioblanco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.463625,
     "lbl:longitude":-75.850775,
     "meso:admin_1":"Tolima",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701457,
-    "wof:lastmodified":1553816484,
+    "wof:lastmodified":1555037367,
     "wof:name":"Rioblanco",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

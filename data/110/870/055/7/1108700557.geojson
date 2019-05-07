@@ -10,6 +10,12 @@
     "geom:latitude":10.168805,
     "geom:longitude":-73.289224,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Diego Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.192554,
     "lbl:longitude":-73.233991,
     "meso:admin_1":"Cesar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700557,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1554489295,
     "wof:name":"San Diego",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

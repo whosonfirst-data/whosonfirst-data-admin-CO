@@ -10,6 +10,12 @@
     "geom:latitude":6.566487,
     "geom:longitude":-72.254888,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guic\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.584413,
     "lbl:longitude":-72.242778,
     "meso:admin_1":"Boyac\u00e1",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421170587,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1554488756,
     "wof:name":"Guic\u00e1n",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

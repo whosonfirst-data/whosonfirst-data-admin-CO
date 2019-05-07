@@ -10,6 +10,12 @@
     "geom:latitude":9.256283,
     "geom:longitude":-75.0871,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sinc\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.265606,
     "lbl:longitude":-75.073565,
     "meso:admin_1":"Sucre",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701419,
-    "wof:lastmodified":1536615470,
+    "wof:lastmodified":1554489340,
     "wof:name":"Sinc\u00e9",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.057385,
     "geom:longitude":-75.778821,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cotorra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.079916,
     "lbl:longitude":-75.762675,
     "meso:admin_1":"C\u00f3rdoba",
@@ -27,6 +33,9 @@
     "mps:longitude":-75.762675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Cotorra"
+    ],
     "name:eng_x_variant":[
         "Lorica",
         "Santa Cruz de Lorica"
@@ -54,10 +63,11 @@
         }
     ],
     "wof:id":1108700575,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1555047392,
     "wof:name":"Cotorra",
     "wof:parent_id":85670137,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"LO",
     "wof:superseded_by":[],

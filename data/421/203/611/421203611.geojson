@@ -10,6 +10,12 @@
     "geom:latitude":4.946759,
     "geom:longitude":-74.413051,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sasaima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.954495,
     "lbl:longitude":-74.41735,
     "meso:admin_1":"Cundinamarca",
@@ -122,10 +128,11 @@
         }
     ],
     "wof:id":421203611,
-    "wof:lastmodified":1536616159,
+    "wof:lastmodified":1554489046,
     "wof:name":"Sasaima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

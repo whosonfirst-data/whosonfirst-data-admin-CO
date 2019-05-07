@@ -10,6 +10,12 @@
     "geom:latitude":5.070652,
     "geom:longitude":-73.425122,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tenza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.076561,
     "lbl:longitude":-73.412413,
     "meso:admin_1":"Boyac\u00e1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700351,
-    "wof:lastmodified":1536615418,
+    "wof:lastmodified":1554489284,
     "wof:name":"Tenza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

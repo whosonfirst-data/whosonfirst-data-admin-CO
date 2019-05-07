@@ -10,6 +10,12 @@
     "geom:latitude":6.050301,
     "geom:longitude":-72.211304,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "S\u00e1cama Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.053022,
     "lbl:longitude":-72.211309,
     "meso:admin_1":"Casanare",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701545,
-    "wof:lastmodified":1536615478,
+    "wof:lastmodified":1554489346,
     "wof:name":"S\u00e1cama",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.183345,
     "geom:longitude":-75.507045,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Neira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.186816,
     "lbl:longitude":-75.490968,
     "meso:admin_1":"Caldas",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421184113,
-    "wof:lastmodified":1536616016,
+    "wof:lastmodified":1554488946,
     "wof:name":"Neira",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

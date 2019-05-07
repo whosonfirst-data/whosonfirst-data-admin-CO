@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075667,
-    "geom:area_square_m":926020106.93751,
+    "geom:area_square_m":926020106.937371,
     "geom:bbox":"-76.4270443685,7.99699308528,-76.0456176352,8.40171301218",
     "geom:latitude":8.220156,
     "geom:longitude":-76.220265,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Valencia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.257312,
     "lbl:longitude":-76.201505,
     "meso:admin_1":"C\u00f3rdoba",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700615,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555037419,
     "wof:name":"Valencia",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

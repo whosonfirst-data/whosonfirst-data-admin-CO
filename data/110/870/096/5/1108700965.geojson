@@ -10,6 +10,12 @@
     "geom:latitude":1.471041,
     "geom:longitude":-77.068362,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alb\u00e1n (San Jos\u00e9) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.472255,
     "lbl:longitude":-77.068362,
     "meso:admin_1":"Nari\u00f1o",
@@ -27,9 +33,13 @@
     "mps:longitude":-77.068362,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Alb\u00e1n"
+    ],
     "name:eng_x_variant":[
         "El Tablon",
-        "El Tabl\u00f3n de Gomez"
+        "El Tabl\u00f3n de Gomez",
+        "Alb\u00e1n (San Jos\u00e9)"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -54,10 +64,11 @@
         }
     ],
     "wof:id":1108700965,
-    "wof:lastmodified":1536615451,
-    "wof:name":"Alb\u00e1n (San Jos\u00e9)",
+    "wof:lastmodified":1555047402,
+    "wof:name":"Alb\u00e1n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"EL",
     "wof:superseded_by":[],

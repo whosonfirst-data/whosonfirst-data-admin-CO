@@ -10,6 +10,12 @@
     "geom:latitude":6.32678,
     "geom:longitude":-75.78303,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Eb\u00e9jico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.332073,
     "lbl:longitude":-75.781586,
     "meso:admin_1":"Antioquia",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421184585,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1554488947,
     "wof:name":"Eb\u00e9jico",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

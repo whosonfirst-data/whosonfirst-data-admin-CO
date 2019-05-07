@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025139,
-    "geom:area_square_m":307228320.5812,
+    "geom:area_square_m":307228320.581302,
     "geom:bbox":"-74.3190947125,8.65163307903,-74.0731392721,8.83602947321",
     "geom:latitude":8.756889,
     "geom:longitude":-74.195664,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Altos Del Rosario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.760043,
     "lbl:longitude":-74.193832,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Altos del Rosario"
     ],
     "name:eng_x_preferred":[
-        "Altos del Rosario"
+        "Altos Del Rosario"
     ],
     "name:eng_x_variant":[
         "Altos Del Rosario",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1108700097,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555047383,
     "wof:name":"Altos Del Rosario",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

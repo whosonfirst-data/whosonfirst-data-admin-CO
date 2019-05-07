@@ -10,6 +10,12 @@
     "geom:latitude":6.990361,
     "geom:longitude":-76.31285,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Dabeiba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.012943,
     "lbl:longitude":-76.372003,
     "meso:admin_1":"Antioquia",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421184581,
-    "wof:lastmodified":1536616021,
+    "wof:lastmodified":1554488947,
     "wof:name":"Dabeiba",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

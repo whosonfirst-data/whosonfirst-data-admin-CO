@@ -10,6 +10,12 @@
     "geom:latitude":10.646205,
     "geom:longitude":-75.266295,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Catalina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.620832,
     "lbl:longitude":-75.267218,
     "meso:admin_1":"Bol\u00edvar",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108700161,
-    "wof:lastmodified":1536615412,
+    "wof:lastmodified":1554489277,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":5.785224,
     "geom:longitude":-73.253797,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sotaquir\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.7667,
     "lbl:longitude":-73.271871,
     "meso:admin_1":"Boyac\u00e1",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421183883,
-    "wof:lastmodified":1536616014,
+    "wof:lastmodified":1554488941,
     "wof:name":"Sotaquir\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

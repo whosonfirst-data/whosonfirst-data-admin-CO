@@ -10,6 +10,12 @@
     "geom:latitude":3.650096,
     "geom:longitude":-76.720657,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Dagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.585845,
     "lbl:longitude":-76.730953,
     "meso:admin_1":"Valle del Cauca",
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":421184141,
-    "wof:lastmodified":1536616017,
+    "wof:lastmodified":1554488947,
     "wof:name":"Dagua",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

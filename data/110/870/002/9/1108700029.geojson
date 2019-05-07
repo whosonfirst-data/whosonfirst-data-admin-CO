@@ -10,6 +10,12 @@
     "geom:latitude":6.335636,
     "geom:longitude":-76.260309,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Urrao Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.364031,
     "lbl:longitude":-76.284152,
     "meso:admin_1":"Antioquia",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":1108700029,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489272,
     "wof:name":"Urrao",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008847,
-    "geom:area_square_m":108980694.060897,
+    "geom:area_square_m":108980694.060822,
     "geom:bbox":"-73.6195656357,4.91420166529,-73.5076295638,5.07252264951",
     "geom:latitude":4.978212,
     "geom:longitude":-73.562275,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Manta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.977179,
     "lbl:longitude":-73.563116,
     "meso:admin_1":"Cundinamarca",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108700681,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037414,
     "wof:name":"Manta",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

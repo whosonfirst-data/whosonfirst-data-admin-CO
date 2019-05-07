@@ -10,6 +10,12 @@
     "geom:latitude":8.403323,
     "geom:longitude":-73.378494,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gonz\u00e1lez Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.404358,
     "lbl:longitude":-73.377977,
     "meso:admin_1":"Cesar",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700543,
-    "wof:lastmodified":1536615428,
+    "wof:lastmodified":1554489293,
     "wof:name":"Gonz\u00e1lez",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

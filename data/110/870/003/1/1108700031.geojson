@@ -10,6 +10,12 @@
     "geom:latitude":7.26494,
     "geom:longitude":-75.400701,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Valdivia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.294487,
     "lbl:longitude":-75.377496,
     "meso:admin_1":"Antioquia",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108700031,
-    "wof:lastmodified":1536615407,
+    "wof:lastmodified":1554489272,
     "wof:name":"Valdivia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

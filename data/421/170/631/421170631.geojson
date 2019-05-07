@@ -10,6 +10,12 @@
     "geom:latitude":4.091886,
     "geom:longitude":-73.487609,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villavicencio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.084755,
     "lbl:longitude":-73.512766,
     "meso:admin_1":"Meta",
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":421170631,
-    "wof:lastmodified":1536615913,
+    "wof:lastmodified":1554488758,
     "wof:name":"Villavicencio",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

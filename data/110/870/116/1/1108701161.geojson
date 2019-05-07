@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024041,
-    "geom:area_square_m":296485235.355536,
+    "geom:area_square_m":296485235.355563,
     "geom:bbox":"-75.8431474968,4.07391884702,-75.6541710242,4.30983626123",
     "geom:latitude":4.179917,
     "geom:longitude":-75.761139,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "G\u00e9nova Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.170915,
     "lbl:longitude":-75.762581,
     "meso:admin_1":"Quindio",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701161,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037389,
     "wof:name":"G\u00e9nova",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

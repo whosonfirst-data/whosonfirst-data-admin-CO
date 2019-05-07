@@ -10,6 +10,12 @@
     "geom:latitude":5.386152,
     "geom:longitude":-73.692579,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guachet\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.385026,
     "lbl:longitude":-73.693968,
     "meso:admin_1":"Cundinamarca",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421188663,
-    "wof:lastmodified":1536616062,
+    "wof:lastmodified":1554488975,
     "wof:name":"Guachet\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

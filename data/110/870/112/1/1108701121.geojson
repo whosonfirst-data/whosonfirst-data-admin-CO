@@ -10,6 +10,12 @@
     "geom:latitude":7.493629,
     "geom:longitude":-72.492407,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Herr\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.517684,
     "lbl:longitude":-72.508751,
     "meso:admin_1":"Norte de Santander",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701121,
-    "wof:lastmodified":1536615458,
+    "wof:lastmodified":1554489323,
     "wof:name":"Herr\u00e1n",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

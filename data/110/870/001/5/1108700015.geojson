@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034817,
-    "geom:area_square_m":427796668.493367,
+    "geom:area_square_m":427796668.493128,
     "geom:bbox":"-75.1071229629,6.31358189258,-74.7815594944,6.54764726212",
     "geom:latitude":6.448592,
     "geom:longitude":-74.93203,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Roque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.465505,
     "lbl:longitude":-74.945647,
     "meso:admin_1":"Antioquia",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108700015,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037461,
     "wof:name":"San Roque",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

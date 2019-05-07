@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015364,
-    "geom:area_square_m":189671467.949123,
+    "geom:area_square_m":189671467.949158,
     "geom:bbox":"-76.3784024688,3.15659036883,-76.0533600399,3.2863170954",
     "geom:latitude":3.22849,
     "geom:longitude":-76.218102,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Miranda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.251937,
     "lbl:longitude":-76.242782,
     "meso:admin_1":"Cauca",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700477,
-    "wof:lastmodified":1553816474,
+    "wof:lastmodified":1555037431,
     "wof:name":"Miranda",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.694184,
     "geom:longitude":-76.590211,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Cumbre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.689234,
     "lbl:longitude":-76.583093,
     "meso:admin_1":"Valle del Cauca",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421170277,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1554488753,
     "wof:name":"La Cumbre",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

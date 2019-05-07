@@ -10,6 +10,12 @@
     "geom:latitude":5.314579,
     "geom:longitude":-74.070807,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Cayetano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.30711,
     "lbl:longitude":-74.069253,
     "meso:admin_1":"Cundinamarca",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "San Cayetano"
     ],
+    "name:eng_x_preferred":[
+        "San Cayetano"
+    ],
     "name:eng_x_variant":[
         "San Cayetano"
     ],
     "name:fra_x_preferred":[
+        "San Cayetano"
+    ],
+    "name:fre_x_preferred":[
         "San Cayetano"
     ],
     "name:ita_x_preferred":[
@@ -123,10 +135,11 @@
         }
     ],
     "wof:id":421198225,
-    "wof:lastmodified":1536616126,
+    "wof:lastmodified":1555047378,
     "wof:name":"San Cayetano",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":4.654774,
     "geom:longitude":-73.510369,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gachal\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.662868,
     "lbl:longitude":-73.51038,
     "meso:admin_1":"Cundinamarca",
@@ -138,7 +144,7 @@
         }
     ],
     "wof:id":421184953,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1554488951,
     "wof:name":"Gachal\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

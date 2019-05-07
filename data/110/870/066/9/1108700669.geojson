@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012195,
-    "geom:area_square_m":150301465.207728,
+    "geom:area_square_m":150301465.207734,
     "geom:bbox":"-74.5595388985,4.57911174485,-74.3862130279,4.71660196022",
     "geom:latitude":4.651204,
     "geom:longitude":-74.47347,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Mesa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.643856,
     "lbl:longitude":-74.480683,
     "meso:admin_1":"Cundinamarca",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700669,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037416,
     "wof:name":"La Mesa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.182189,
     "geom:longitude":-76.117515,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Argentina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.142615,
     "lbl:longitude":-76.054689,
     "meso:admin_1":"Huila",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700821,
-    "wof:lastmodified":1536615440,
+    "wof:lastmodified":1554489307,
     "wof:name":"La Argentina",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.949953,
     "geom:longitude":-75.919429,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Timan\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.941493,
     "lbl:longitude":-75.932832,
     "meso:admin_1":"Huila",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421185277,
-    "wof:lastmodified":1536616028,
+    "wof:lastmodified":1554488953,
     "wof:name":"Timan\u00e1",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

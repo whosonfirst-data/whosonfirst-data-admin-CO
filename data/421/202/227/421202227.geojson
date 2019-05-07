@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030096,
-    "geom:area_square_m":370132645.747576,
+    "geom:area_square_m":370132645.747541,
     "geom:bbox":"-74.8451513534,5.85897619368,-74.5610535169,6.05187265395",
     "geom:latitude":5.955124,
     "geom:longitude":-74.686205,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Triunfo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.940815,
     "lbl:longitude":-74.67652,
     "meso:admin_1":"Antioquia",
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421202227,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1555037057,
     "wof:name":"Puerto Triunfo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

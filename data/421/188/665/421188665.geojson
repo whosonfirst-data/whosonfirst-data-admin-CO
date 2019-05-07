@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015818,
-    "geom:area_square_m":195402689.881311,
+    "geom:area_square_m":195402689.881241,
     "geom:bbox":"-75.5293046646,2.45184331983,-75.3783053192,2.67903989037",
     "geom:latitude":2.542331,
     "geom:longitude":-75.447385,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Hobo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.533726,
     "lbl:longitude":-75.442255,
     "meso:admin_1":"Huila",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":421188665,
-    "wof:lastmodified":1553816378,
+    "wof:lastmodified":1555037090,
     "wof:name":"Hobo",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.853531,
     "geom:longitude":-76.61813,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "N\u00f3vita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.824019,
     "lbl:longitude":-76.635833,
     "meso:admin_1":"Choc\u00f3",
@@ -34,7 +40,7 @@
         "N\u00f3vita"
     ],
     "name:eng_x_preferred":[
-        "Novita"
+        "N\u00f3vita"
     ],
     "name:eng_x_variant":[
         "Novita",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700781,
-    "wof:lastmodified":1536615438,
+    "wof:lastmodified":1555047396,
     "wof:name":"N\u00f3vita",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

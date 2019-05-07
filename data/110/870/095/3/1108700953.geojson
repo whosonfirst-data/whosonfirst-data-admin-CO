@@ -10,6 +10,12 @@
     "geom:latitude":2.756968,
     "geom:longitude":-73.13937,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Rico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.759193,
     "lbl:longitude":-73.105975,
     "meso:admin_1":"Meta",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700953,
-    "wof:lastmodified":1536615449,
+    "wof:lastmodified":1554489317,
     "wof:name":"Puerto Rico",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

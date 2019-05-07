@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011519,
-    "geom:area_square_m":141642348.132447,
+    "geom:area_square_m":141642348.132481,
     "geom:bbox":"-75.8646896301,5.99681627581,-75.73161641,6.13469099822",
     "geom:latitude":6.058474,
     "geom:longitude":-75.799334,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Titirib\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.053566,
     "lbl:longitude":-75.798071,
     "meso:admin_1":"Antioquia",
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421184093,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037116,
     "wof:name":"Titirib\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

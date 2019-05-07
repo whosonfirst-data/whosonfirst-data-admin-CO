@@ -10,6 +10,12 @@
     "geom:latitude":6.5505,
     "geom:longitude":-75.082881,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cisneros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.556781,
     "lbl:longitude":-75.077783,
     "meso:admin_1":"Antioquia",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108699953,
-    "wof:lastmodified":1536615404,
+    "wof:lastmodified":1554489269,
     "wof:name":"Cisneros",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

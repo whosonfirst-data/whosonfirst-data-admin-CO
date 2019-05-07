@@ -10,6 +10,12 @@
     "geom:latitude":5.581508,
     "geom:longitude":-75.19307,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.58684,
     "lbl:longitude":-75.185637,
     "meso:admin_1":"Antioquia",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108699981,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1554489269,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

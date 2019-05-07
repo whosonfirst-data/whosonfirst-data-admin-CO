@@ -10,6 +10,12 @@
     "geom:latitude":6.757591,
     "geom:longitude":-75.3143,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Carolina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.756061,
     "lbl:longitude":-75.307136,
     "meso:admin_1":"Antioquia",
@@ -38,12 +44,13 @@
         "Carolina del Pr\u00edncipe"
     ],
     "name:eng_x_preferred":[
-        "Carolina [del Principe]"
+        "Carolina"
     ],
     "name:eng_x_variant":[
         "Carolina",
         "Carolina del Principe",
-        "Carolina del Pr\u00edncipe"
+        "Carolina del Pr\u00edncipe",
+        "Carolina"
     ],
     "name:fra_x_preferred":[
         "Carolina del Pr\u00edncipe"
@@ -163,7 +170,7 @@
         }
     ],
     "wof:id":421204773,
-    "wof:lastmodified":1536616167,
+    "wof:lastmodified":1555047380,
     "wof:name":"Carolina",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

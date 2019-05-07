@@ -10,6 +10,12 @@
     "geom:latitude":3.911155,
     "geom:longitude":-75.021075,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Salda\u00f1a Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.886652,
     "lbl:longitude":-75.044072,
     "meso:admin_1":"Tolima",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108701465,
-    "wof:lastmodified":1536615473,
+    "wof:lastmodified":1554489342,
     "wof:name":"Salda\u00f1a",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

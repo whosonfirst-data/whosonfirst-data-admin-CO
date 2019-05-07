@@ -10,6 +10,12 @@
     "geom:latitude":5.744761,
     "geom:longitude":-73.54221,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gachantiv\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.748716,
     "lbl:longitude":-73.541356,
     "meso:admin_1":"Boyac\u00e1",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Gachantiv\u00e1"
     ],
+    "name:eng_x_preferred":[
+        "Gachantiv\u00e1"
+    ],
     "name:eng_x_variant":[
         "Arcabuco"
     ],
     "name:fra_x_preferred":[
+        "Gachantiv\u00e1"
+    ],
+    "name:fre_x_preferred":[
         "Gachantiv\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -111,10 +123,11 @@
         }
     ],
     "wof:id":421170325,
-    "wof:lastmodified":1536615909,
+    "wof:lastmodified":1555047371,
     "wof:name":"Gachantiv\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AR",
     "wof:superseded_by":[],

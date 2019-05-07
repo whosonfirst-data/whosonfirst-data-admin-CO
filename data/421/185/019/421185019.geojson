@@ -10,6 +10,12 @@
     "geom:latitude":5.047795,
     "geom:longitude":-75.878658,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Viterbo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.051459,
     "lbl:longitude":-75.884141,
     "meso:admin_1":"Caldas",
@@ -49,6 +55,9 @@
     "name:deu_x_preferred":[
         "Viterbo"
     ],
+    "name:eng_x_preferred":[
+        "Viterbo"
+    ],
     "name:eng_x_variant":[
         "Risaralda"
     ],
@@ -65,6 +74,9 @@
         "\u0648\u06cc\u062a\u0631\u0628\u0648"
     ],
     "name:fra_x_preferred":[
+        "Viterbe"
+    ],
+    "name:fre_x_preferred":[
         "Viterbe"
     ],
     "name:glg_x_preferred":[
@@ -240,10 +252,11 @@
         }
     ],
     "wof:id":421185019,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1555047374,
     "wof:name":"Viterbo",
     "wof:parent_id":85670155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"RR",
     "wof:superseded_by":[],

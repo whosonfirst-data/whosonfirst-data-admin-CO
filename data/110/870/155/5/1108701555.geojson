@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240719,
-    "geom:area_square_m":2963491231.844311,
+    "geom:area_square_m":2963491231.843519,
     "geom:bbox":"-71.9032225333,5.13878194319,-70.6047553383,5.57057244493",
     "geom:latitude":5.366869,
     "geom:longitude":-71.195021,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Trinidad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.334083,
     "lbl:longitude":-71.13143,
     "meso:admin_1":"Casanare",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701555,
-    "wof:lastmodified":1553816486,
+    "wof:lastmodified":1555037361,
     "wof:name":"Trinidad",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

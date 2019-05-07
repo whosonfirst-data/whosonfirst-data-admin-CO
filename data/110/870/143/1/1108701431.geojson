@@ -10,6 +10,12 @@
     "geom:latitude":4.353699,
     "geom:longitude":-74.911952,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Coello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.28039,
     "lbl:longitude":-74.948928,
     "meso:admin_1":"Tolima",
@@ -84,10 +90,11 @@
         }
     ],
     "wof:id":1108701431,
-    "wof:lastmodified":1536615471,
+    "wof:lastmodified":1554489340,
     "wof:name":"Coello",
     "wof:parent_id":85670175,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CL",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":10.812876,
     "geom:longitude":-73.084981,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Juan Del Cesar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.831222,
     "lbl:longitude":-73.119947,
     "meso:admin_1":"La Guajira",
@@ -41,7 +47,7 @@
         "San Juan del Cesar"
     ],
     "name:eng_x_preferred":[
-        "San Juan del Cesar"
+        "San Juan Del Cesar"
     ],
     "name:eng_x_variant":[
         "San Juan Del Cesar",
@@ -168,10 +174,11 @@
         }
     ],
     "wof:id":421176067,
-    "wof:lastmodified":1536615955,
+    "wof:lastmodified":1555047372,
     "wof:name":"San Juan Del Cesar",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

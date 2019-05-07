@@ -10,6 +10,12 @@
     "geom:latitude":1.078142,
     "geom:longitude":-77.203102,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pasto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.108362,
     "lbl:longitude":-77.200552,
     "meso:admin_1":"Nari\u00f1o",
@@ -71,7 +77,7 @@
         "\u03a0\u03ac\u03c3\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
-        "San Juan de Pasto"
+        "Pasto"
     ],
     "name:eng_x_variant":[
         "Pasto",
@@ -290,10 +296,11 @@
         }
     ],
     "wof:id":421179665,
-    "wof:lastmodified":1536615964,
+    "wof:lastmodified":1555047373,
     "wof:name":"Pasto",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:population":333123,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-co",

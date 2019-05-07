@@ -10,6 +10,12 @@
     "geom:latitude":11.243315,
     "geom:longitude":-72.958452,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Riohacha Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.285611,
     "lbl:longitude":-72.93178,
     "meso:admin_1":"La Guajira",
@@ -248,10 +254,11 @@
         }
     ],
     "wof:id":421182357,
-    "wof:lastmodified":1536615985,
+    "wof:lastmodified":1554488823,
     "wof:name":"Riohacha",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"RI",
     "wof:superseded_by":[],

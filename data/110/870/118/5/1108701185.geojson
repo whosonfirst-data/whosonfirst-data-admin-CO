@@ -10,6 +10,12 @@
     "geom:latitude":5.777997,
     "geom:longitude":-73.82827,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Albania Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.772415,
     "lbl:longitude":-73.79997,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701185,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489328,
     "wof:name":"Albania",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

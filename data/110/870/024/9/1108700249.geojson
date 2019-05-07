@@ -10,6 +10,12 @@
     "geom:latitude":4.931325,
     "geom:longitude":-73.496372,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guayat\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.92848,
     "lbl:longitude":-73.502905,
     "meso:admin_1":"Boyac\u00e1",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700249,
-    "wof:lastmodified":1536615415,
+    "wof:lastmodified":1554489280,
     "wof:name":"Guayat\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

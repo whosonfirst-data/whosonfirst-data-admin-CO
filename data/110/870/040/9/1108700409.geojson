@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08899,
-    "geom:area_square_m":1099831243.328614,
+    "geom:area_square_m":1099831243.330552,
     "geom:bbox":"-75.3857559694,1.42682961,-74.9161061034,2.32330938912",
     "geom:latitude":1.790398,
     "geom:longitude":-75.192672,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Doncello Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.701895,
     "lbl:longitude":-75.267462,
     "meso:admin_1":"Caquet\u00e1",
@@ -99,10 +105,11 @@
         }
     ],
     "wof:id":1108700409,
-    "wof:lastmodified":1553816473,
+    "wof:lastmodified":1555037437,
     "wof:name":"El Doncello",
     "wof:parent_id":85670179,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"ED",
     "wof:superseded_by":[],

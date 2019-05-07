@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045967,
-    "geom:area_square_m":567701461.086466,
+    "geom:area_square_m":567701461.086512,
     "geom:bbox":"-76.0292414234,2.68114692849,-75.4902868405,2.9817359585",
     "geom:latitude":2.828316,
     "geom:longitude":-75.743574,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Teruel Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.852237,
     "lbl:longitude":-75.761873,
     "meso:admin_1":"Huila",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700851,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037403,
     "wof:name":"Teruel",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

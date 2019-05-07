@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141676,
-    "geom:area_square_m":1736922687.443958,
+    "geom:area_square_m":1736922687.444029,
     "geom:bbox":"-75.8271048781,7.2287557094,-75.1643186729,7.745985848",
     "geom:latitude":7.48635,
     "geom:longitude":-75.488824,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Taraz\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.51021,
     "lbl:longitude":-75.483687,
     "meso:admin_1":"Antioquia",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108700023,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037460,
     "wof:name":"Taraz\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

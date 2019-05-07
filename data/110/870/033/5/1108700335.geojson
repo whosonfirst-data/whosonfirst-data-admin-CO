@@ -10,6 +10,12 @@
     "geom:latitude":6.323136,
     "geom:longitude":-72.695859,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Soat\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.322031,
     "lbl:longitude":-72.691012,
     "meso:admin_1":"Boyac\u00e1",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700335,
-    "wof:lastmodified":1536615418,
+    "wof:lastmodified":1554489284,
     "wof:name":"Soat\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

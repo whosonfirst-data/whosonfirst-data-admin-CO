@@ -10,6 +10,12 @@
     "geom:latitude":3.855826,
     "geom:longitude":-76.106655,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Buga Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.823707,
     "lbl:longitude":-76.018303,
     "meso:admin_1":"Valle del Cauca",
@@ -38,11 +44,12 @@
         "Buga"
     ],
     "name:eng_x_preferred":[
-        "Buga [,Guadalajara de]"
+        "Buga"
     ],
     "name:eng_x_variant":[
         "Buga",
-        "Guadalajara de Buga"
+        "Guadalajara de Buga",
+        "Buga"
     ],
     "name:fin_x_preferred":[
         "Buga"
@@ -155,7 +162,7 @@
         }
     ],
     "wof:id":421188701,
-    "wof:lastmodified":1536616064,
+    "wof:lastmodified":1555047375,
     "wof:name":"Buga",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

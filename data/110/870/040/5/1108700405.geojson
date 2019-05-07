@@ -10,6 +10,12 @@
     "geom:latitude":1.495521,
     "geom:longitude":-75.877581,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bel\u00e9n De Los Andaqu\u00edes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.500039,
     "lbl:longitude":-75.896563,
     "meso:admin_1":"Caquet\u00e1",
@@ -34,12 +40,13 @@
         "Bel\u00e9n de los Andaquies"
     ],
     "name:eng_x_preferred":[
-        "Bel\u00e9n de los Andaquies"
+        "Bel\u00e9n De Los Andaqu\u00edes"
     ],
     "name:eng_x_variant":[
         "Belen De Los Andaquies",
         "Bel\u00e9n de los Andaquies",
-        "Bel\u00e9n de Andaquies"
+        "Bel\u00e9n de Andaquies",
+        "Bel\u00e9n De Los Andaqu\u00edes"
     ],
     "name:fre_x_preferred":[
         "Bel\u00e9n de los Andaqu\u00edes"
@@ -113,7 +120,7 @@
         }
     ],
     "wof:id":1108700405,
-    "wof:lastmodified":1536615420,
+    "wof:lastmodified":1555047388,
     "wof:name":"Bel\u00e9n De Los Andaqu\u00edes",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

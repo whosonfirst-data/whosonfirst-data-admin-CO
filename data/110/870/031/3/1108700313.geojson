@@ -10,6 +10,12 @@
     "geom:latitude":4.815328,
     "geom:longitude":-73.123694,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Luis De Gaceno Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.825763,
     "lbl:longitude":-73.139618,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,7 +40,7 @@
         "San Luis de Gaceno"
     ],
     "name:eng_x_preferred":[
-        "San Luis de Gaceno"
+        "San Luis De Gaceno"
     ],
     "name:eng_x_variant":[
         "San Luis De Gaceno",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700313,
-    "wof:lastmodified":1536615417,
+    "wof:lastmodified":1555047387,
     "wof:name":"San Luis De Gaceno",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":5.676382,
     "geom:longitude":-74.107254,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Pablo De Borbur Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.686843,
     "lbl:longitude":-74.099638,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,7 +40,7 @@
         "San Pablo de Borbur"
     ],
     "name:eng_x_preferred":[
-        "San Pablo de Borbur"
+        "San Pablo De Borbur"
     ],
     "name:eng_x_variant":[
         "San Pablo De Borbur",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700319,
-    "wof:lastmodified":1536615417,
+    "wof:lastmodified":1555047387,
     "wof:name":"San Pablo De Borbur",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

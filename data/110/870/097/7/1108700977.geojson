@@ -10,6 +10,12 @@
     "geom:latitude":1.591184,
     "geom:longitude":-77.042791,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bel\u00e9n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.584343,
     "lbl:longitude":-77.036628,
     "meso:admin_1":"Nari\u00f1o",
@@ -34,6 +40,9 @@
         "La Cruz"
     ],
     "name:eng_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:eng_x_variant":[
         "La Cruz"
     ],
     "name:fre_x_preferred":[
@@ -90,10 +99,11 @@
         }
     ],
     "wof:id":1108700977,
-    "wof:lastmodified":1536615451,
+    "wof:lastmodified":1555047402,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"LC",
     "wof:superseded_by":[],

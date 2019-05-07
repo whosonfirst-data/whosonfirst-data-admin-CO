@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032781,
-    "geom:area_square_m":400934601.329096,
+    "geom:area_square_m":400934601.328974,
     "geom:bbox":"-73.3011551248,8.32107683251,-72.9641135225,8.5722376196",
     "geom:latitude":8.454866,
     "geom:longitude":-73.158162,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Calixto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.487294,
     "lbl:longitude":-73.160704,
     "meso:admin_1":"Norte de Santander",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108701141,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555037391,
     "wof:name":"San Calixto",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

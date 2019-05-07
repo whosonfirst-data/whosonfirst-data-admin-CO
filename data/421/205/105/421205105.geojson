@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08165,
-    "geom:area_square_m":1007668200.458489,
+    "geom:area_square_m":1007668200.458611,
     "geom:bbox":"-76.4911809791,3.45130658669,-75.9515670377,3.71822328863",
     "geom:latitude":3.558482,
     "geom:longitude":-76.227501,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Palmira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.549234,
     "lbl:longitude":-76.223414,
     "meso:admin_1":"Valle del Cauca",
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":421205105,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1555037045,
     "wof:name":"Palmira",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

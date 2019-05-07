@@ -10,6 +10,12 @@
     "geom:latitude":7.1806,
     "geom:longitude":-72.786491,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Silos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.181401,
     "lbl:longitude":-72.780234,
     "meso:admin_1":"Norte de Santander",
@@ -34,11 +40,12 @@
         "Santo Domingo de Silos"
     ],
     "name:eng_x_preferred":[
-        "Silos [, Santo Domingo de]"
+        "Silos"
     ],
     "name:eng_x_variant":[
         "Silos",
-        "Santo Domingo de Silos"
+        "Santo Domingo de Silos",
+        "Silos"
     ],
     "name:fre_x_preferred":[
         "Santo Domingo de Silos"
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":1108701149,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1555047406,
     "wof:name":"Silos",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033968,
-    "geom:area_square_m":419801548.462552,
+    "geom:area_square_m":419801548.462515,
     "geom:bbox":"-76.8688734833,1.70117239786,-76.583796522,1.97991758253",
     "geom:latitude":1.856009,
     "geom:longitude":-76.717017,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Sebasti\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.886019,
     "lbl:longitude":-76.679263,
     "meso:admin_1":"Cauca",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700499,
-    "wof:lastmodified":1553816475,
+    "wof:lastmodified":1555037428,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

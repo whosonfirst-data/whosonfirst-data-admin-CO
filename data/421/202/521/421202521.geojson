@@ -10,6 +10,12 @@
     "geom:latitude":9.362262,
     "geom:longitude":-75.783643,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Antero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.354251,
     "lbl:longitude":-75.794895,
     "meso:admin_1":"C\u00f3rdoba",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421202521,
-    "wof:lastmodified":1536616146,
+    "wof:lastmodified":1554489035,
     "wof:name":"San Antero",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

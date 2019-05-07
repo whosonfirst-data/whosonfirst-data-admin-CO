@@ -10,6 +10,12 @@
     "geom:latitude":7.695875,
     "geom:longitude":-73.353913,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Esperanza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.67822,
     "lbl:longitude":-73.350249,
     "meso:admin_1":"Norte de Santander",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108701125,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1554489323,
     "wof:name":"La Esperanza",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

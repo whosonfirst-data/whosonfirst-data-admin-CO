@@ -10,6 +10,12 @@
     "geom:latitude":7.705565,
     "geom:longitude":-74.661149,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Bagre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.725565,
     "lbl:longitude":-74.643474,
     "meso:admin_1":"Antioquia",
@@ -114,10 +120,11 @@
         }
     ],
     "wof:id":1108699957,
-    "wof:lastmodified":1536615404,
+    "wof:lastmodified":1554489269,
     "wof:name":"El Bagre",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"EB",
     "wof:superseded_by":[],

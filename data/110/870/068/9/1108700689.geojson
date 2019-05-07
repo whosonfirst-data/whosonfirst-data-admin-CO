@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018264,
-    "geom:area_square_m":225201678.178292,
+    "geom:area_square_m":225201678.177982,
     "geom:bbox":"-74.7313082772,4.19834144747,-74.4981275084,4.37345670775",
     "geom:latitude":4.294868,
     "geom:longitude":-74.614908,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nilo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.306282,
     "lbl:longitude":-74.606993,
     "meso:admin_1":"Cundinamarca",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700689,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037413,
     "wof:name":"Nilo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

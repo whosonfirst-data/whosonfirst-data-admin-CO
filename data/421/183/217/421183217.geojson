@@ -10,6 +10,12 @@
     "geom:latitude":5.708303,
     "geom:longitude":-75.094896,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Argelia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.71147,
     "lbl:longitude":-75.112942,
     "meso:admin_1":"Antioquia",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421183217,
-    "wof:lastmodified":1536616008,
+    "wof:lastmodified":1554488917,
     "wof:name":"Argelia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

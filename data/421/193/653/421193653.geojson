@@ -10,6 +10,12 @@
     "geom:latitude":3.783756,
     "geom:longitude":-76.294322,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guacar\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.800847,
     "lbl:longitude":-76.249667,
     "meso:admin_1":"Valle del Cauca",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421193653,
-    "wof:lastmodified":1536616110,
+    "wof:lastmodified":1554489011,
     "wof:name":"Guacar\u00ed",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

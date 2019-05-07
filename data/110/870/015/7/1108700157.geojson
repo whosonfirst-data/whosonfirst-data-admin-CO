@@ -10,6 +10,12 @@
     "geom:latitude":8.782737,
     "geom:longitude":-74.006433,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Mart\u00edn De Loba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.746493,
     "lbl:longitude":-73.995455,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,11 +40,12 @@
         "San Mart\u00edn de Loba"
     ],
     "name:eng_x_preferred":[
-        "San Mart\u00edn de Loba"
+        "San Mart\u00edn De Loba"
     ],
     "name:eng_x_variant":[
         "San Martin De Loba",
-        "San Mart\u00edn de Loba"
+        "San Mart\u00edn de Loba",
+        "San Mart\u00edn De Loba"
     ],
     "name:fre_x_preferred":[
         "San Mart\u00edn de Loba"
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":1108700157,
-    "wof:lastmodified":1536615412,
+    "wof:lastmodified":1555047384,
     "wof:name":"San Mart\u00edn De Loba",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

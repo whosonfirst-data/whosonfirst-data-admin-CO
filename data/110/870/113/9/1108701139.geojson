@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040304,
-    "geom:area_square_m":493784189.111996,
+    "geom:area_square_m":493784189.112019,
     "geom:bbox":"-73.0004579789,7.66753055931,-72.7066120004,7.90273955979",
     "geom:latitude":7.773217,
     "geom:longitude":-72.867875,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Salazar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.771328,
     "lbl:longitude":-72.890102,
     "meso:admin_1":"Norte de Santander",
@@ -34,11 +40,12 @@
         "Salazar de Las Palmas"
     ],
     "name:eng_x_preferred":[
-        "Salazar [de Las Palmas]"
+        "Salazar"
     ],
     "name:eng_x_variant":[
         "Salazar",
-        "Salazar de las Palmas"
+        "Salazar de las Palmas",
+        "Salazar"
     ],
     "name:fre_x_preferred":[
         "Salazar de las Palmas"
@@ -112,7 +119,7 @@
         }
     ],
     "wof:id":1108701139,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555047405,
     "wof:name":"Salazar",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.215013,
     "geom:longitude":-75.34867,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Rovira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.213145,
     "lbl:longitude":-75.327697,
     "meso:admin_1":"Tolima",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701463,
-    "wof:lastmodified":1536615473,
+    "wof:lastmodified":1554489342,
     "wof:name":"Rovira",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

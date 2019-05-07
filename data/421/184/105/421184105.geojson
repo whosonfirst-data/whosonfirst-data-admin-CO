@@ -10,6 +10,12 @@
     "geom:latitude":9.169962,
     "geom:longitude":-74.74775,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Magangu\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.302799,
     "lbl:longitude":-74.825355,
     "meso:admin_1":"Bol\u00edvar",
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Magangu\u00e9"
+    ],
     "name:eng_x_variant":[
         "Magangue",
         "Cicuco"
@@ -81,10 +90,11 @@
         }
     ],
     "wof:id":421184105,
-    "wof:lastmodified":1536616016,
+    "wof:lastmodified":1555047374,
     "wof:name":"Magangu\u00e9",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CC",
     "wof:superseded_by":[],

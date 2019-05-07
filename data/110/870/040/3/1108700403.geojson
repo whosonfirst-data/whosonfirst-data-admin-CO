@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034691,
-    "geom:area_square_m":428867185.462715,
+    "geom:area_square_m":428867185.463066,
     "geom:bbox":"-76.0033465545,1.09777917262,-75.7569629427,1.36546905909",
     "geom:latitude":1.229689,
     "geom:longitude":-75.885209,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Albania Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.227154,
     "lbl:longitude":-75.887082,
     "meso:admin_1":"Caquet\u00e1",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700403,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037438,
     "wof:name":"Albania",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

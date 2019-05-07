@@ -10,6 +10,12 @@
     "geom:latitude":6.998068,
     "geom:longitude":-74.558044,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Remedios Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.042778,
     "lbl:longitude":-74.527828,
     "meso:admin_1":"Antioquia",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108699993,
-    "wof:lastmodified":1536615406,
+    "wof:lastmodified":1554489271,
     "wof:name":"Remedios",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

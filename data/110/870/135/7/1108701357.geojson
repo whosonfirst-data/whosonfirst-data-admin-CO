@@ -10,6 +10,12 @@
     "geom:latitude":6.114974,
     "geom:longitude":-73.365924,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Suaita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.102993,
     "lbl:longitude":-73.367975,
     "meso:admin_1":"Santander",
@@ -78,10 +84,11 @@
         }
     ],
     "wof:id":1108701357,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1554489335,
     "wof:name":"Suaita",
     "wof:parent_id":85670141,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SU",
     "wof:superseded_by":[],

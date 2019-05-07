@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0169,
-    "geom:area_square_m":205406330.736383,
+    "geom:area_square_m":205406330.736264,
     "geom:bbox":"-74.873099747,10.483336052,-74.7247125492,10.7259351579",
     "geom:latitude":10.594151,
     "geom:longitude":-74.798955,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ponedera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.595932,
     "lbl:longitude":-74.787711,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700071,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037455,
     "wof:name":"Ponedera",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

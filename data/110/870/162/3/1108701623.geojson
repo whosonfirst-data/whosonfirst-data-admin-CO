@@ -10,6 +10,12 @@
     "geom:latitude":2.421869,
     "geom:longitude":-69.840586,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Morichal (Morichal Nuevo) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.378982,
     "lbl:longitude":-69.769463,
     "meso:admin_1":"Guain\u00eda",
@@ -27,9 +33,14 @@
     "mps:longitude":-69.769463,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "C.D Morichal"
+    ],
     "name:eng_x_variant":[
         "Inirida",
-        "Puerto In\u00edrida"
+        "Puerto In\u00edrida",
+        "C.D Morichal (Morichal Nuevo)",
+        "C.D Morichal"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -54,10 +65,11 @@
         }
     ],
     "wof:id":1108701623,
-    "wof:lastmodified":1536615488,
+    "wof:lastmodified":1555091997,
     "wof:name":"C.D Morichal (Morichal Nuevo)",
     "wof:parent_id":85670249,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"GN",
     "wof:superseded_by":[],

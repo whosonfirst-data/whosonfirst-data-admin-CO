@@ -10,6 +10,15 @@
     "geom:latitude":6.475255,
     "geom:longitude":-77.098628,
     "iso:country":"CO",
+    "label:eng_x_preferred_disambiguation":[
+        "Bojay\u00e1 (Bellavista)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Bojay\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.491583,
     "lbl:longitude":-77.093847,
     "meso:admin_1":"Choc\u00f3",
@@ -38,7 +47,8 @@
     ],
     "name:eng_x_variant":[
         "Bojaya (bella Vista)",
-        "Bojay\u00e1"
+        "Bojay\u00e1",
+        "Bojay\u00e1 (Bellavista)"
     ],
     "name:fre_x_preferred":[
         "Bojay\u00e1"
@@ -112,8 +122,8 @@
         }
     ],
     "wof:id":1108700751,
-    "wof:lastmodified":1536615436,
-    "wof:name":"Bojay\u00e1 (Bellavista)",
+    "wof:lastmodified":1555220426,
+    "wof:name":"Bojay\u00e1",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

@@ -10,6 +10,12 @@
     "geom:latitude":0.061748,
     "geom:longitude":-75.064003,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Legu\u00edzamo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.2206,
     "lbl:longitude":-75.332872,
     "meso:admin_1":"Putumayo",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108701569,
-    "wof:lastmodified":1536615480,
+    "wof:lastmodified":1554489351,
     "wof:name":"Puerto Legu\u00edzamo",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

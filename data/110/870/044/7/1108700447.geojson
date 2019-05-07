@@ -10,6 +10,12 @@
     "geom:latitude":2.811028,
     "geom:longitude":-76.464077,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Caldono Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.797806,
     "lbl:longitude":-76.42837,
     "meso:admin_1":"Cauca",
@@ -100,10 +106,11 @@
         }
     ],
     "wof:id":1108700447,
-    "wof:lastmodified":1536615423,
+    "wof:lastmodified":1554489289,
     "wof:name":"Caldono",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CD",
     "wof:superseded_by":[],

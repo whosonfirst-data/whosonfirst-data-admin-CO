@@ -10,6 +10,12 @@
     "geom:latitude":6.443882,
     "geom:longitude":-72.461699,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Panqueba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.444499,
     "lbl:longitude":-72.456033,
     "meso:admin_1":"Boyac\u00e1",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421190197,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488986,
     "wof:name":"Panqueba",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

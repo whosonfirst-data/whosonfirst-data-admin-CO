@@ -10,6 +10,12 @@
     "geom:latitude":6.234677,
     "geom:longitude":-72.981922,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Coromoro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.236878,
     "lbl:longitude":-72.9845,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701233,
-    "wof:lastmodified":1536615463,
+    "wof:lastmodified":1554489331,
     "wof:name":"Coromoro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

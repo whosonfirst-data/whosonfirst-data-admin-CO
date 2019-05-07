@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006675,
-    "geom:area_square_m":82188210.205762,
+    "geom:area_square_m":82188210.205778,
     "geom:bbox":"-73.553572244,5.23097972335,-73.4674427496,5.37259871312",
     "geom:latitude":5.306537,
     "geom:longitude":-73.509202,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Turmequ\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.310275,
     "lbl:longitude":-73.512157,
     "meso:admin_1":"Boyac\u00e1",
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1108700365,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037442,
     "wof:name":"Turmequ\u00e9",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

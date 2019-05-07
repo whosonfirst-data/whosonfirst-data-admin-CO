@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005076,
-    "geom:area_square_m":62438553.968698,
+    "geom:area_square_m":62438553.968701,
     "geom:bbox":"-72.8976925756,5.76905969805,-72.7974246886,5.87938699538",
     "geom:latitude":5.823235,
     "geom:longitude":-72.845716,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Corrales Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.829039,
     "lbl:longitude":-72.838123,
     "meso:admin_1":"Boyac\u00e1",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700225,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037445,
     "wof:name":"Corrales",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

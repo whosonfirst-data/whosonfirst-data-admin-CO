@@ -10,6 +10,12 @@
     "geom:latitude":6.311624,
     "geom:longitude":-75.324244,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Vicente Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.31012,
     "lbl:longitude":-75.330258,
     "meso:admin_1":"Antioquia",
@@ -171,7 +177,7 @@
         }
     ],
     "wof:id":421195829,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554489020,
     "wof:name":"San Vicente",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

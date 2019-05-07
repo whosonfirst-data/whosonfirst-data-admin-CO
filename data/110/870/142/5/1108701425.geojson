@@ -10,6 +10,12 @@
     "geom:latitude":3.389685,
     "geom:longitude":-74.9431,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alpujarra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.388206,
     "lbl:longitude":-74.940604,
     "meso:admin_1":"Tolima",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701425,
-    "wof:lastmodified":1536615470,
+    "wof:lastmodified":1554489340,
     "wof:name":"Alpujarra",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

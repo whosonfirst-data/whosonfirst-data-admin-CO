@@ -10,6 +10,12 @@
     "geom:latitude":6.666287,
     "geom:longitude":-73.704304,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Simacota Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.809536,
     "lbl:longitude":-73.846929,
     "meso:admin_1":"Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701353,
-    "wof:lastmodified":1536615467,
+    "wof:lastmodified":1554489336,
     "wof:name":"Simacota",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

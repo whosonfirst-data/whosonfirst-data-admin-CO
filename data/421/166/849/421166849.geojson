@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053935,
-    "geom:area_square_m":658442722.444735,
+    "geom:area_square_m":658442722.444823,
     "geom:bbox":"-74.7310369578,9.01841256781,-74.3497607348,9.27383668254",
     "geom:latitude":9.142599,
     "geom:longitude":-74.545216,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Momp\u00f3s Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.131335,
     "lbl:longitude":-74.54235,
     "meso:admin_1":"Bol\u00edvar",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":421166849,
-    "wof:lastmodified":1553816354,
+    "wof:lastmodified":1555037173,
     "wof:name":"Momp\u00f3s",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.814065,
     "geom:longitude":-76.804789,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Medio San Juan (Andagoya) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.893329,
     "lbl:longitude":-76.815384,
     "meso:admin_1":"Choc\u00f3",
@@ -37,7 +43,11 @@
         "Istmina"
     ],
     "name:eng_x_preferred":[
-        "Istmina"
+        "Medio San Juan"
+    ],
+    "name:eng_x_variant":[
+        "Medio San Juan (Andagoya)",
+        "Medio San Juan"
     ],
     "name:fre_x_preferred":[
         "Istmina"
@@ -117,8 +127,8 @@
         }
     ],
     "wof:id":1108700779,
-    "wof:lastmodified":1536615437,
-    "wof:name":"Medio San Juan (Andagoya)",
+    "wof:lastmodified":1555047396,
+    "wof:name":"Medio San Juan",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

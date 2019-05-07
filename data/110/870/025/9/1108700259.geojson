@@ -10,6 +10,12 @@
     "geom:latitude":5.113289,
     "geom:longitude":-73.459039,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Capilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.112248,
     "lbl:longitude":-73.459042,
     "meso:admin_1":"Boyac\u00e1",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700259,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489281,
     "wof:name":"La Capilla",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

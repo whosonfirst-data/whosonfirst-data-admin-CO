@@ -10,6 +10,12 @@
     "geom:latitude":10.352895,
     "geom:longitude":-75.379554,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Turbaco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.352543,
     "lbl:longitude":-75.379586,
     "meso:admin_1":"Bol\u00edvar",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421199647,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1554489026,
     "wof:name":"Turbaco",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

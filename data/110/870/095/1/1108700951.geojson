@@ -10,6 +10,12 @@
     "geom:latitude":3.19241,
     "geom:longitude":-73.234478,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Lleras Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.20469,
     "lbl:longitude":-73.288565,
     "meso:admin_1":"Meta",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700951,
-    "wof:lastmodified":1536615449,
+    "wof:lastmodified":1554489321,
     "wof:name":"Puerto Lleras",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

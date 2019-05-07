@@ -10,6 +10,12 @@
     "geom:latitude":1.906935,
     "geom:longitude":-78.04488,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Magu\u00ed (Pay\u00e1n) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.911988,
     "lbl:longitude":-78.049479,
     "meso:admin_1":"Nari\u00f1o",
@@ -34,11 +40,13 @@
         "Mag\u00fci"
     ],
     "name:eng_x_preferred":[
-        "Mag\u00fc\u00ed Pay\u00e1n"
+        "Magu\u00ed"
     ],
     "name:eng_x_variant":[
         "Magui",
-        "Mag\u00fc\u00ed"
+        "Mag\u00fc\u00ed",
+        "Magu\u00ed (Pay\u00e1n)",
+        "Magu\u00ed"
     ],
     "name:fre_x_preferred":[
         "Mag\u00fci Pay\u00e1n"
@@ -97,10 +105,11 @@
         }
     ],
     "wof:id":1108701035,
-    "wof:lastmodified":1536615453,
-    "wof:name":"Magu\u00ed (Pay\u00e1n)",
+    "wof:lastmodified":1555047403,
+    "wof:name":"Magu\u00ed",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MG",
     "wof:superseded_by":[],

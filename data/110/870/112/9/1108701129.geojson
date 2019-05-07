@@ -10,6 +10,12 @@
     "geom:latitude":7.963508,
     "geom:longitude":-72.847031,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Lourdes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.962328,
     "lbl:longitude":-72.846223,
     "meso:admin_1":"Norte de Santander",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701129,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1554489325,
     "wof:name":"Lourdes",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

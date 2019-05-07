@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004431,
-    "geom:area_square_m":54765255.06893,
+    "geom:area_square_m":54765255.06888,
     "geom:bbox":"-77.1478062167,1.48735006103,-77.0571835316,1.58971244808",
     "geom:latitude":1.53713,
     "geom:longitude":-77.101187,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Pedro De Cartago (Cartago) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.53296,
     "lbl:longitude":-77.104276,
     "meso:admin_1":"Nari\u00f1o",
@@ -34,11 +40,12 @@
         "San Pedro de Cartago"
     ],
     "name:eng_x_preferred":[
-        "San Pedro de Cartago"
+        "San Pedro De Cartago"
     ],
     "name:eng_x_variant":[
         "San Pedro De Cartago",
-        "San Pedro de Cartago"
+        "San Pedro de Cartago",
+        "San Pedro De Cartago (Cartago)"
     ],
     "name:fre_x_preferred":[
         "San Pedro de Cartago"
@@ -112,8 +119,8 @@
         }
     ],
     "wof:id":1108701073,
-    "wof:lastmodified":1553816480,
-    "wof:name":"San Pedro De Cartago (Cartago)",
+    "wof:lastmodified":1555047405,
+    "wof:name":"San Pedro De Cartago",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

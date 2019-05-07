@@ -10,6 +10,12 @@
     "geom:latitude":6.626043,
     "geom:longitude":-76.085718,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Abriaqu\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.62126,
     "lbl:longitude":-76.091735,
     "meso:admin_1":"Antioquia",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108699901,
-    "wof:lastmodified":1536615403,
+    "wof:lastmodified":1554489267,
     "wof:name":"Abriaqu\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

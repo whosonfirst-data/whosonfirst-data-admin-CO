@@ -10,6 +10,12 @@
     "geom:latitude":5.862288,
     "geom:longitude":-73.559223,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Moniquir\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.861905,
     "lbl:longitude":-73.557936,
     "meso:admin_1":"Boyac\u00e1",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421197191,
-    "wof:lastmodified":1536616124,
+    "wof:lastmodified":1554489022,
     "wof:name":"Moniquir\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

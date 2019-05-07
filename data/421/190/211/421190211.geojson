@@ -10,6 +10,12 @@
     "geom:latitude":5.242637,
     "geom:longitude":-72.257436,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Yopal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.257883,
     "lbl:longitude":-72.252521,
     "meso:admin_1":"Casanare",
@@ -269,7 +275,7 @@
         }
     ],
     "wof:id":421190211,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488988,
     "wof:name":"Yopal",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

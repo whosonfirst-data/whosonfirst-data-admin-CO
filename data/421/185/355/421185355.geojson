@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013685,
-    "geom:area_square_m":168401605.894903,
+    "geom:area_square_m":168401605.894876,
     "geom:bbox":"-73.8997800259,5.546172855,-73.6864169679,5.71338776034",
     "geom:latitude":5.621354,
     "geom:longitude":-73.800593,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chiquinquir\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.608837,
     "lbl:longitude":-73.811023,
     "meso:admin_1":"Boyac\u00e1",
@@ -166,10 +172,11 @@
         }
     ],
     "wof:id":421185355,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555037107,
     "wof:name":"Chiquinquir\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CQ",
     "wof:superseded_by":[],

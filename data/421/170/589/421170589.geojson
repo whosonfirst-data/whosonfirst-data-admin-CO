@@ -10,6 +10,12 @@
     "geom:latitude":5.666577,
     "geom:longitude":-73.511538,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villa De Leiva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.647288,
     "lbl:longitude":-73.524489,
     "meso:admin_1":"Boyac\u00e1",
@@ -41,11 +47,12 @@
         "Villa de Leyva"
     ],
     "name:eng_x_preferred":[
-        "Villa de Leyva"
+        "Villa De Leiva"
     ],
     "name:eng_x_variant":[
         "Villa De Leyva",
-        "Villa de Leyva"
+        "Villa de Leyva",
+        "Villa De Leiva"
     ],
     "name:fra_x_preferred":[
         "Villa de Leyva"
@@ -169,7 +176,7 @@
         }
     ],
     "wof:id":421170589,
-    "wof:lastmodified":1536615911,
+    "wof:lastmodified":1555047371,
     "wof:name":"Villa De Leiva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

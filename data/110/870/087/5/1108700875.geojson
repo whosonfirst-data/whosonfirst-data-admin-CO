@@ -10,6 +10,12 @@
     "geom:latitude":9.831982,
     "geom:longitude":-74.083919,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ariguan\u00ed (El Dif\u00eccil) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.843183,
     "lbl:longitude":-74.087286,
     "meso:admin_1":"Magdalena",
@@ -38,7 +44,8 @@
     ],
     "name:eng_x_variant":[
         "Ariguani",
-        "Ariguan\u00ed"
+        "Ariguan\u00ed",
+        "Ariguan\u00ed (El Dif\u00eccil)"
     ],
     "name:fre_x_preferred":[
         "Ariguan\u00ed"
@@ -118,8 +125,8 @@
         }
     ],
     "wof:id":1108700875,
-    "wof:lastmodified":1536615442,
-    "wof:name":"Ariguan\u00ed (El Dif\u00eccil)",
+    "wof:lastmodified":1555047398,
+    "wof:name":"Ariguan\u00ed",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

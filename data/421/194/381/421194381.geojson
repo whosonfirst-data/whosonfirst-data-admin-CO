@@ -10,6 +10,12 @@
     "geom:latitude":7.339187,
     "geom:longitude":-76.490908,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mutat\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.350837,
     "lbl:longitude":-76.486523,
     "meso:admin_1":"Antioquia",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421194381,
-    "wof:lastmodified":1536616114,
+    "wof:lastmodified":1554489016,
     "wof:name":"Mutat\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

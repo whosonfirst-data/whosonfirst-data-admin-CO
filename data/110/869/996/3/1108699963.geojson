@@ -10,6 +10,12 @@
     "geom:latitude":6.709066,
     "geom:longitude":-75.192631,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "G\u00f3mez Plata Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.708355,
     "lbl:longitude":-75.191217,
     "meso:admin_1":"Antioquia",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108699963,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1554489270,
     "wof:name":"G\u00f3mez Plata",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

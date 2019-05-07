@@ -10,6 +10,12 @@
     "geom:latitude":4.40744,
     "geom:longitude":-74.8067,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.401556,
     "lbl:longitude":-74.816766,
     "meso:admin_1":"Cundinamarca",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700687,
-    "wof:lastmodified":1536615433,
+    "wof:lastmodified":1554489302,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

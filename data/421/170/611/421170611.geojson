@@ -10,6 +10,12 @@
     "geom:latitude":4.535158,
     "geom:longitude":-74.225041,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Soacha Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.557593,
     "lbl:longitude":-74.213838,
     "meso:admin_1":"Cundinamarca",
@@ -308,10 +314,11 @@
         }
     ],
     "wof:id":421170611,
-    "wof:lastmodified":1536615912,
+    "wof:lastmodified":1554488756,
     "wof:name":"Soacha",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SH",
     "wof:superseded_by":[],

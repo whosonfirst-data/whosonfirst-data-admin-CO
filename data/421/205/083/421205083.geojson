@@ -10,6 +10,12 @@
     "geom:latitude":4.671623,
     "geom:longitude":-74.235119,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mosquera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.669981,
     "lbl:longitude":-74.228215,
     "meso:admin_1":"Cundinamarca",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421205083,
-    "wof:lastmodified":1536616168,
+    "wof:lastmodified":1554489052,
     "wof:name":"Mosquera",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

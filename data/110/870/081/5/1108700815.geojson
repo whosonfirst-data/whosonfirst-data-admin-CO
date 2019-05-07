@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020107,
-    "geom:area_square_m":248474123.745383,
+    "geom:area_square_m":248474123.745322,
     "geom:bbox":"-75.7899095354,1.87588468259,-75.5913578093,2.08871811672",
     "geom:latitude":1.98538,
     "geom:longitude":-75.697609,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guadalupe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.99059,
     "lbl:longitude":-75.696161,
     "meso:admin_1":"Huila",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108700815,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037407,
     "wof:name":"Guadalupe",
     "wof:parent_id":85670189,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"GD",
     "wof:superseded_by":[],

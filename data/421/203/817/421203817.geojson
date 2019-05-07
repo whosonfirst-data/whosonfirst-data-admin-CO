@@ -10,6 +10,12 @@
     "geom:latitude":4.700033,
     "geom:longitude":-73.928957,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Calera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.700226,
     "lbl:longitude":-73.920744,
     "meso:admin_1":"Cundinamarca",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421203817,
-    "wof:lastmodified":1536616160,
+    "wof:lastmodified":1554489047,
     "wof:name":"La Calera",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

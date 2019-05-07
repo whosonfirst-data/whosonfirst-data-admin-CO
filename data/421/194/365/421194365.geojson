@@ -10,6 +10,12 @@
     "geom:latitude":3.743887,
     "geom:longitude":-76.470732,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Vijes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.732959,
     "lbl:longitude":-76.477368,
     "meso:admin_1":"Valle del Cauca",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421194365,
-    "wof:lastmodified":1536616114,
+    "wof:lastmodified":1554489016,
     "wof:name":"Vijes",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

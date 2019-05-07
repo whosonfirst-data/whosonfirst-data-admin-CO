@@ -10,6 +10,12 @@
     "geom:latitude":5.446296,
     "geom:longitude":-75.754495,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Riosucio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.458293,
     "lbl:longitude":-75.76524,
     "meso:admin_1":"Caldas",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Riosucio"
     ],
+    "name:eng_x_preferred":[
+        "Riosucio"
+    ],
     "name:eng_x_variant":[
         "Riosucio"
     ],
     "name:fra_x_preferred":[
+        "Riosucio"
+    ],
+    "name:fre_x_preferred":[
         "Riosucio"
     ],
     "name:ita_x_preferred":[
@@ -101,10 +113,11 @@
         }
     ],
     "wof:id":421202519,
-    "wof:lastmodified":1536616146,
+    "wof:lastmodified":1555047378,
     "wof:name":"Riosucio",
     "wof:parent_id":85670155,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"RI",
     "wof:superseded_by":[],

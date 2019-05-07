@@ -10,6 +10,12 @@
     "geom:latitude":1.923721,
     "geom:longitude":-76.416124,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Agust\u00edn Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.942864,
     "lbl:longitude":-76.419352,
     "meso:admin_1":"Huila",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421187817,
-    "wof:lastmodified":1536616039,
+    "wof:lastmodified":1554488963,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052794,
-    "geom:area_square_m":642954044.674808,
+    "geom:area_square_m":642954044.674634,
     "geom:bbox":"-75.2549472477,9.85563021723,-74.8610929743,10.1245172792",
     "geom:latitude":9.968056,
     "geom:longitude":-75.065058,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Juan Nepomuceno Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.994104,
     "lbl:longitude":-75.130314,
     "meso:admin_1":"Bol\u00edvar",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700155,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037446,
     "wof:name":"San Juan Nepomuceno",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

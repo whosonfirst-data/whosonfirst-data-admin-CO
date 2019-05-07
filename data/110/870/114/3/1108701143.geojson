@@ -10,6 +10,12 @@
     "geom:latitude":7.846259,
     "geom:longitude":-72.609829,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Cayetano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.860299,
     "lbl:longitude":-72.610845,
     "meso:admin_1":"Norte de Santander",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701143,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1554489327,
     "wof:name":"San Cayetano",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

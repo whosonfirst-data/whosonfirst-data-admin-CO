@@ -10,6 +10,12 @@
     "geom:latitude":1.288785,
     "geom:longitude":-77.457101,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sandon\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.287918,
     "lbl:longitude":-77.475483,
     "meso:admin_1":"Nari\u00f1o",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108701067,
-    "wof:lastmodified":1536615455,
+    "wof:lastmodified":1554489320,
     "wof:name":"Sandon\u00e1",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

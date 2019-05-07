@@ -10,6 +10,12 @@
     "geom:latitude":5.265469,
     "geom:longitude":-76.336249,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tad\u00f3 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.267291,
     "lbl:longitude":-76.271284,
     "meso:admin_1":"Choc\u00f3",
@@ -137,10 +143,11 @@
         }
     ],
     "wof:id":421205093,
-    "wof:lastmodified":1536616169,
+    "wof:lastmodified":1554489052,
     "wof:name":"Tad\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"TA",
     "wof:superseded_by":[],

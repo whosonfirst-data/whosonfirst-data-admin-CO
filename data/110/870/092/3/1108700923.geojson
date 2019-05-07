@@ -10,6 +10,12 @@
     "geom:latitude":10.797278,
     "geom:longitude":-74.178845,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Zona Bananera (Prado Sevilla) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.794042,
     "lbl:longitude":-74.177062,
     "meso:admin_1":"Magdalena",
@@ -34,11 +40,13 @@
         "Ci\u00e9naga"
     ],
     "name:eng_x_preferred":[
-        "Ci\u00e9naga"
+        "Zona Bananera"
     ],
     "name:eng_x_variant":[
         "Cienaga",
-        "Ci\u00e9naga"
+        "Ci\u00e9naga",
+        "Zona Bananera (Prado Sevilla)",
+        "Zona Bananera"
     ],
     "name:fre_x_preferred":[
         "Ci\u00e9naga"
@@ -115,10 +123,11 @@
         }
     ],
     "wof:id":1108700923,
-    "wof:lastmodified":1536615445,
-    "wof:name":"Zona Bananera (Prado Sevilla)",
+    "wof:lastmodified":1555047399,
+    "wof:name":"Zona Bananera",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CI",
     "wof:superseded_by":[],

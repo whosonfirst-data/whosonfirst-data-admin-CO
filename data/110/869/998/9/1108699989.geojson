@@ -10,6 +10,12 @@
     "geom:latitude":5.810287,
     "geom:longitude":-75.861199,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pueblorrico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.790204,
     "lbl:longitude":-75.847639,
     "meso:admin_1":"Antioquia",
@@ -102,10 +108,11 @@
         }
     ],
     "wof:id":1108699989,
-    "wof:lastmodified":1536615406,
+    "wof:lastmodified":1554489270,
     "wof:name":"Pueblorrico",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PU",
     "wof:superseded_by":[],

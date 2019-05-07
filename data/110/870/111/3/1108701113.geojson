@@ -10,6 +10,12 @@
     "geom:latitude":8.084453,
     "geom:longitude":-72.631086,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Zulia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.074639,
     "lbl:longitude":-72.648789,
     "meso:admin_1":"Norte de Santander",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108701113,
-    "wof:lastmodified":1536615458,
+    "wof:lastmodified":1554489323,
     "wof:name":"El Zulia",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

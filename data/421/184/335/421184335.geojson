@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017328,
-    "geom:area_square_m":214218806.177431,
+    "geom:area_square_m":214218806.17747,
     "geom:bbox":"-77.7007413197,1.03751809216,-77.5581538064,1.29879121819",
     "geom:latitude":1.133673,
     "geom:longitude":-77.631458,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "T\u00faquerres Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.100289,
     "lbl:longitude":-77.638475,
     "meso:admin_1":"Nari\u00f1o",
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421184335,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037112,
     "wof:name":"T\u00faquerres",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

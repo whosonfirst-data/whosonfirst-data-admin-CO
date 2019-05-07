@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439359,
-    "geom:area_square_m":5398985149.43683,
+    "geom:area_square_m":5398985149.4378,
     "geom:bbox":"-72.3683114193,6.06764813446,-71.2164110974,6.70276666176",
     "geom:latitude":6.390071,
     "geom:longitude":-71.79448,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tame Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.410132,
     "lbl:longitude":-71.805688,
     "meso:admin_1":"Arauca",
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":421181799,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1555037125,
     "wof:name":"Tame",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

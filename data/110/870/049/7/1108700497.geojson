@@ -10,6 +10,12 @@
     "geom:latitude":2.250895,
     "geom:longitude":-76.753087,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Rosas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.265014,
     "lbl:longitude":-76.769226,
     "meso:admin_1":"Cauca",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700497,
-    "wof:lastmodified":1536615425,
+    "wof:lastmodified":1554489290,
     "wof:name":"Rosas",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

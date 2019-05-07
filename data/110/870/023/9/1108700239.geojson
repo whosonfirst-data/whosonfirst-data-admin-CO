@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00713,
-    "geom:area_square_m":87698765.827977,
+    "geom:area_square_m":87698765.827887,
     "geom:bbox":"-72.9757501591,5.79592022936,-72.8698952181,5.92972232072",
     "geom:latitude":5.859245,
     "geom:longitude":-72.925486,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Floresta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.860361,
     "lbl:longitude":-72.929888,
     "meso:admin_1":"Boyac\u00e1",
@@ -93,10 +99,11 @@
         }
     ],
     "wof:id":1108700239,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037444,
     "wof:name":"Floresta",
     "wof:parent_id":85670133,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"FL",
     "wof:superseded_by":[],

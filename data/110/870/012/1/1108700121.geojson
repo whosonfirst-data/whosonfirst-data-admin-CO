@@ -10,6 +10,12 @@
     "geom:latitude":8.866159,
     "geom:longitude":-73.912179,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Pe\u00f1\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.843517,
     "lbl:longitude":-73.899106,
     "meso:admin_1":"Bol\u00edvar",
@@ -28,11 +34,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "R\u00edo Viejo"
+        "El Pe\u00f1\u00f3n"
     ],
     "name:eng_x_variant":[
         "Rio Viejo",
-        "R\u00edo Viejo"
+        "R\u00edo Viejo",
+        "El Pe\u00f1\u00f3n"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":1108700121,
-    "wof:lastmodified":1536615410,
+    "wof:lastmodified":1555047383,
     "wof:name":"El Pe\u00f1\u00f3n",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

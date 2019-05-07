@@ -10,6 +10,12 @@
     "geom:latitude":2.534726,
     "geom:longitude":-77.005347,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Tambo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.543568,
     "lbl:longitude":-76.999594,
     "meso:admin_1":"Cauca",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700455,
-    "wof:lastmodified":1536615423,
+    "wof:lastmodified":1554489290,
     "wof:name":"El Tambo",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

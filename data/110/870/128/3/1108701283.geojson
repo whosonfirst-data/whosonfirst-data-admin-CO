@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048201,
-    "geom:area_square_m":592381666.220548,
+    "geom:area_square_m":592381666.22031,
     "geom:bbox":"-74.1028521352,6.15997885071,-73.6824288214,6.56406737491",
     "geom:latitude":6.331424,
     "geom:longitude":-73.819137,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Land\u00e1zuri Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.277363,
     "lbl:longitude":-73.815993,
     "meso:admin_1":"Santander",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701283,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037381,
     "wof:name":"Land\u00e1zuri",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":8.717454,
     "geom:longitude":-76.236307,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Canalete Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.716787,
     "lbl:longitude":-76.238576,
     "meso:admin_1":"C\u00f3rdoba",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700567,
-    "wof:lastmodified":1536615429,
+    "wof:lastmodified":1554489295,
     "wof:name":"Canalete",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

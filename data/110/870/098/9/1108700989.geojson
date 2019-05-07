@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004694,
-    "geom:area_square_m":58040069.34621,
+    "geom:area_square_m":58040069.346288,
     "geom:bbox":"-77.7795086152,0.827994566083,-77.6832735321,0.922255272129",
     "geom:latitude":0.875989,
     "geom:longitude":-77.735923,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cuaspud (Carlosama) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.878703,
     "lbl:longitude":-77.7392,
     "meso:admin_1":"Nari\u00f1o",
@@ -34,7 +40,11 @@
         "Alda\u00f1a"
     ],
     "name:eng_x_preferred":[
-        "Aldana"
+        "Cuaspud"
+    ],
+    "name:eng_x_variant":[
+        "Cuaspud (Carlosama)",
+        "Cuaspud"
     ],
     "name:fre_x_preferred":[
         "Aldana"
@@ -108,8 +118,8 @@
         }
     ],
     "wof:id":1108700989,
-    "wof:lastmodified":1553816480,
-    "wof:name":"Cuaspud (Carlosama)",
+    "wof:lastmodified":1555047402,
+    "wof:name":"Cuaspud",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

@@ -10,6 +10,12 @@
     "geom:latitude":6.194829,
     "geom:longitude":-73.154125,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Charal\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.248918,
     "lbl:longitude":-73.155909,
     "meso:admin_1":"Santander",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1108701215,
-    "wof:lastmodified":1536615462,
+    "wof:lastmodified":1554489330,
     "wof:name":"Charal\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

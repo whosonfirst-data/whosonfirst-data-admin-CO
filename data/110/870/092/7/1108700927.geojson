@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074386,
-    "geom:area_square_m":917188625.103973,
+    "geom:area_square_m":917188625.103958,
     "geom:bbox":"-73.124462352,4.14990224239,-72.7401947251,4.46705704163",
     "geom:latitude":4.315336,
     "geom:longitude":-72.952466,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cabuyaro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.278929,
     "lbl:longitude":-72.971742,
     "meso:admin_1":"Meta",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700927,
-    "wof:lastmodified":1553816479,
+    "wof:lastmodified":1555037397,
     "wof:name":"Cabuyaro",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470969,
-    "geom:area_square_m":5782543191.166534,
+    "geom:area_square_m":5782543191.168228,
     "geom:bbox":"-71.2024719102,6.4835251567,-69.7679357917,7.10438066499",
     "geom:latitude":6.796083,
     "geom:longitude":-70.509737,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Arauca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.827477,
     "lbl:longitude":-70.689777,
     "meso:admin_1":"Arauca",
@@ -263,7 +269,7 @@
         }
     ],
     "wof:id":421170653,
-    "wof:lastmodified":1553816361,
+    "wof:lastmodified":1555037154,
     "wof:name":"Arauca",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

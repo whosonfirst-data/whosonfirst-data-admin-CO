@@ -10,6 +10,12 @@
     "geom:latitude":5.360559,
     "geom:longitude":-76.773006,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Cant\u00f3n Del San Pablo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.361702,
     "lbl:longitude":-76.771226,
     "meso:admin_1":"Choc\u00f3",
@@ -34,11 +40,12 @@
         "El Cant\u00f3n del San Pablo"
     ],
     "name:eng_x_preferred":[
-        "El Cant\u00f3n de San Pablo"
+        "El Cant\u00f3n Del San Pablo"
     ],
     "name:eng_x_variant":[
         "Canton De San Pablo",
-        "El Cant\u00f3n del San Pablo"
+        "El Cant\u00f3n del San Pablo",
+        "El Cant\u00f3n Del San Pablo"
     ],
     "name:fre_x_preferred":[
         "El Cant\u00f3n de San Pablo"
@@ -100,10 +107,11 @@
         }
     ],
     "wof:id":1108700753,
-    "wof:lastmodified":1536615436,
+    "wof:lastmodified":1555047394,
     "wof:name":"El Cant\u00f3n Del San Pablo",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

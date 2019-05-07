@@ -10,6 +10,12 @@
     "geom:latitude":4.451733,
     "geom:longitude":-75.251896,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ibagu\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.435124,
     "lbl:longitude":-75.247775,
     "meso:admin_1":"Tolima",
@@ -249,7 +255,7 @@
         }
     ],
     "wof:id":421190207,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488987,
     "wof:name":"Ibagu\u00e9",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

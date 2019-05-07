@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015108,
-    "geom:area_square_m":186684113.250306,
+    "geom:area_square_m":186684113.250189,
     "geom:bbox":"-75.8592113485,1.98956569466,-75.6684913592,2.17523325938",
     "geom:latitude":2.080666,
     "geom:longitude":-75.767537,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Altamira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.067992,
     "lbl:longitude":-75.776924,
     "meso:admin_1":"Huila",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700803,
-    "wof:lastmodified":1553816477,
+    "wof:lastmodified":1555037409,
     "wof:name":"Altamira",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.803309,
     "geom:longitude":-73.846263,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guasca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.808052,
     "lbl:longitude":-73.847957,
     "meso:admin_1":"Cundinamarca",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108700653,
-    "wof:lastmodified":1536615432,
+    "wof:lastmodified":1554489297,
     "wof:name":"Guasca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

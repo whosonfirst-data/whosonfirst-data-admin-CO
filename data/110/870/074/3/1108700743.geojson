@@ -10,6 +10,12 @@
     "geom:latitude":5.559851,
     "geom:longitude":-76.60624,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Atrato (Yuto) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.578641,
     "lbl:longitude":-76.625539,
     "meso:admin_1":"Choc\u00f3",
@@ -58,11 +64,13 @@
         "Quibd\u00f3"
     ],
     "name:eng_x_preferred":[
-        "Quibd\u00f3"
+        "Atrato"
     ],
     "name:eng_x_variant":[
         "Quibdo",
-        "Quibd\u00f3"
+        "Quibd\u00f3",
+        "Atrato (Yuto)",
+        "Atrato"
     ],
     "name:epo_x_preferred":[
         "Quibd\u00f3"
@@ -205,10 +213,11 @@
         }
     ],
     "wof:id":1108700743,
-    "wof:lastmodified":1536615435,
-    "wof:name":"Atrato (Yuto)",
+    "wof:lastmodified":1555047394,
+    "wof:name":"Atrato",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"QU",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016593,
-    "geom:area_square_m":203624257.714504,
+    "geom:area_square_m":203624257.715065,
     "geom:bbox":"-75.363269927,6.94302562304,-75.2203100876,7.20493618624",
     "geom:latitude":7.038383,
     "geom:longitude":-75.288966,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Campamento Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.00916,
     "lbl:longitude":-75.272263,
     "meso:admin_1":"Antioquia",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108699939,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037463,
     "wof:name":"Campamento",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

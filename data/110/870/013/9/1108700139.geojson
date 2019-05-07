@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063355,
-    "geom:area_square_m":774028197.985279,
+    "geom:area_square_m":774028197.985133,
     "geom:bbox":"-74.6058602751,8.65176235918,-74.2126397298,9.07792992092",
     "geom:latitude":8.872004,
     "geom:longitude":-74.385907,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pinillos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.912769,
     "lbl:longitude":-74.405329,
     "meso:admin_1":"Bol\u00edvar",
@@ -105,10 +111,11 @@
         }
     ],
     "wof:id":1108700139,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037446,
     "wof:name":"Pinillos",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044556,
-    "geom:area_square_m":546590930.963114,
+    "geom:area_square_m":546590930.963101,
     "geom:bbox":"-73.4346075762,7.04101942447,-73.1564727326,7.42897846455",
     "geom:latitude":7.203223,
     "geom:longitude":-73.29084,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Lebrija Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.199695,
     "lbl:longitude":-73.313902,
     "meso:admin_1":"Santander",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108701287,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037380,
     "wof:name":"Lebrija",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

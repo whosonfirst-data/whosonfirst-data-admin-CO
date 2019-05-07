@@ -10,6 +10,12 @@
     "geom:latitude":4.73774,
     "geom:longitude":-76.86893,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Istmina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.519433,
     "lbl:longitude":-76.926621,
     "meso:admin_1":"Choc\u00f3",
@@ -27,6 +33,9 @@
     "mps:longitude":-76.926621,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Istmina"
+    ],
     "name:eng_x_variant":[
         "Litoral Del San Juan",
         "El Litoral del San Juan"
@@ -54,10 +63,11 @@
         }
     ],
     "wof:id":1108700767,
-    "wof:lastmodified":1536615437,
+    "wof:lastmodified":1555047395,
     "wof:name":"Istmina",
     "wof:parent_id":85670219,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CH",
     "wof:superseded_by":[],

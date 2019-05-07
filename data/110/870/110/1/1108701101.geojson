@@ -10,6 +10,12 @@
     "geom:latitude":7.051488,
     "geom:longitude":-72.525207,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chitag\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.02494,
     "lbl:longitude":-72.463261,
     "meso:admin_1":"Norte de Santander",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701101,
-    "wof:lastmodified":1536615457,
+    "wof:lastmodified":1554489324,
     "wof:name":"Chitag\u00e1",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

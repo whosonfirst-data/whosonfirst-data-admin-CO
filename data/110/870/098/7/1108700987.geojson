@@ -10,6 +10,12 @@
     "geom:latitude":0.771018,
     "geom:longitude":-77.360689,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "C\u00f3rdoba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.7551,
     "lbl:longitude":-77.325977,
     "meso:admin_1":"Nari\u00f1o",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108700987,
-    "wof:lastmodified":1536615451,
+    "wof:lastmodified":1554489316,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

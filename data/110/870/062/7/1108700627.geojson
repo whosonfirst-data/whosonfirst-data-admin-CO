@@ -10,6 +10,12 @@
     "geom:latitude":4.848805,
     "geom:longitude":-74.528636,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Bituima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.852003,
     "lbl:longitude":-74.528633,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700627,
-    "wof:lastmodified":1536615431,
+    "wof:lastmodified":1554489298,
     "wof:name":"Bituima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

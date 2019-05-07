@@ -10,6 +10,12 @@
     "geom:latitude":6.246964,
     "geom:longitude":-75.158012,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Guatap\u00e9 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.230613,
     "lbl:longitude":-75.160744,
     "meso:admin_1":"Antioquia",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421190189,
-    "wof:lastmodified":1536616077,
+    "wof:lastmodified":1554488986,
     "wof:name":"Guatap\u00e9",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

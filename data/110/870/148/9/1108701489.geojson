@@ -10,6 +10,12 @@
     "geom:latitude":4.916745,
     "geom:longitude":-76.065203,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Aguila Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.910378,
     "lbl:longitude":-76.057758,
     "meso:admin_1":"Valle del Cauca",
@@ -34,7 +40,7 @@
         "El \u00c1guila"
     ],
     "name:eng_x_preferred":[
-        "El \u00c1guila"
+        "El Aguila"
     ],
     "name:eng_x_variant":[
         "El Aguila",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701489,
-    "wof:lastmodified":1536615474,
+    "wof:lastmodified":1555047410,
     "wof:name":"El Aguila",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

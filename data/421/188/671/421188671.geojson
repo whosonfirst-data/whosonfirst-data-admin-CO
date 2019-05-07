@@ -10,6 +10,12 @@
     "geom:latitude":4.453025,
     "geom:longitude":-74.647421,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tocaima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.460813,
     "lbl:longitude":-74.663064,
     "meso:admin_1":"Cundinamarca",
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":421188671,
-    "wof:lastmodified":1536616062,
+    "wof:lastmodified":1554488976,
     "wof:name":"Tocaima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

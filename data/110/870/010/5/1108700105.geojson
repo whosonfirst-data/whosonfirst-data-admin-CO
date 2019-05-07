@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021608,
-    "geom:area_square_m":262944453.904677,
+    "geom:area_square_m":262944453.904596,
     "geom:bbox":"-75.0926681204,10.1015032401,-74.9078139179,10.3661719294",
     "geom:latitude":10.219553,
     "geom:longitude":-74.999434,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Calamar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.153921,
     "lbl:longitude":-75.008508,
     "meso:admin_1":"Bol\u00edvar",
@@ -102,10 +108,11 @@
         }
     ],
     "wof:id":1108700105,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555037450,
     "wof:name":"Calamar",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CM",
     "wof:superseded_by":[],

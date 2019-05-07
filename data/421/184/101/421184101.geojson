@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020038,
-    "geom:area_square_m":243511951.194297,
+    "geom:area_square_m":243511951.194027,
     "geom:bbox":"-75.2671431327,10.5421338784,-75.0536564481,10.7243044381",
     "geom:latitude":10.635121,
     "geom:longitude":-75.159966,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Luruaco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.632481,
     "lbl:longitude":-75.167261,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421184101,
-    "wof:lastmodified":1553816373,
+    "wof:lastmodified":1555037115,
     "wof:name":"Luruaco",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

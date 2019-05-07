@@ -10,6 +10,12 @@
     "geom:latitude":5.22765,
     "geom:longitude":-73.577021,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villapinz\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.243773,
     "lbl:longitude":-73.586087,
     "meso:admin_1":"Cundinamarca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700733,
-    "wof:lastmodified":1536615435,
+    "wof:lastmodified":1554489302,
     "wof:name":"Villapinz\u00f3n",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

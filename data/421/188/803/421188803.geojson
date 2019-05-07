@@ -10,6 +10,12 @@
     "geom:latitude":4.30775,
     "geom:longitude":-74.729852,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ricaurte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.299297,
     "lbl:longitude":-74.724295,
     "meso:admin_1":"Cundinamarca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421188803,
-    "wof:lastmodified":1536616072,
+    "wof:lastmodified":1554488980,
     "wof:name":"Ricaurte",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

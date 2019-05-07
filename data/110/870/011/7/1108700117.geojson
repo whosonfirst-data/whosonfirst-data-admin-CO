@@ -10,6 +10,12 @@
     "geom:latitude":9.699762,
     "geom:longitude":-75.154644,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El Carmen De Bol\u00edvar Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.667759,
     "lbl:longitude":-75.078471,
     "meso:admin_1":"Bol\u00edvar",
@@ -37,11 +43,12 @@
         "El Carmen de Bol\u00edvar"
     ],
     "name:eng_x_preferred":[
-        "El Carmen de Bol\u00edvar"
+        "El Carmen De Bol\u00edvar"
     ],
     "name:eng_x_variant":[
         "El Carmen De Bolivar",
-        "El Carmen de Bol\u00edvar"
+        "El Carmen de Bol\u00edvar",
+        "El Carmen De Bol\u00edvar"
     ],
     "name:fre_x_preferred":[
         "El Carmen de Bol\u00edvar"
@@ -124,7 +131,7 @@
         }
     ],
     "wof:id":1108700117,
-    "wof:lastmodified":1536615410,
+    "wof:lastmodified":1555047383,
     "wof:name":"El Carmen De Bol\u00edvar",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

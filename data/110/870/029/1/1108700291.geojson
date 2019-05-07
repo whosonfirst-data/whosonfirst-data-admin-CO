@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025207,
-    "geom:area_square_m":310319078.561221,
+    "geom:area_square_m":310319078.561288,
     "geom:bbox":"-72.8005584998,5.2735163576,-72.5680343303,5.4738872067",
     "geom:latitude":5.382171,
     "geom:longitude":-72.694943,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pajarito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.373201,
     "lbl:longitude":-72.69319,
     "meso:admin_1":"Boyac\u00e1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700291,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037443,
     "wof:name":"Pajarito",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

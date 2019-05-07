@@ -10,6 +10,12 @@
     "geom:latitude":2.148423,
     "geom:longitude":-77.057932,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pat\u00eda  (El Bordo) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.148279,
     "lbl:longitude":-77.031929,
     "meso:admin_1":"Cauca",
@@ -37,12 +43,14 @@
         "Pat\u00eda"
     ],
     "name:eng_x_preferred":[
-        "Pat\u00eda"
+        "Pat\u00eda "
     ],
     "name:eng_x_variant":[
         "Patia (el Bordo)",
         "Pat\u00eda",
-        "Patia"
+        "Patia",
+        "Pat\u00eda  (El Bordo)",
+        "Pat\u00eda "
     ],
     "name:fre_x_preferred":[
         "Pat\u00eda"
@@ -119,8 +127,8 @@
         }
     ],
     "wof:id":1108700485,
-    "wof:lastmodified":1536615425,
-    "wof:name":"Pat\u00eda  (El Bordo)",
+    "wof:lastmodified":1555047390,
+    "wof:name":"Pat\u00eda ",
     "wof:parent_id":85670185,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

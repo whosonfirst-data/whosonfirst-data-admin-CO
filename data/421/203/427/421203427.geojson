@@ -10,6 +10,12 @@
     "geom:latitude":10.254102,
     "geom:longitude":-74.103419,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Algarrobo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.274573,
     "lbl:longitude":-74.113154,
     "meso:admin_1":"Magdalena",
@@ -34,6 +40,9 @@
     "name:deu_x_preferred":[
         "Algarrobo"
     ],
+    "name:eng_x_preferred":[
+        "Algarrobo"
+    ],
     "name:eng_x_variant":[
         "Fundacion",
         "Fundaci\u00f3n"
@@ -42,6 +51,9 @@
         "Algarrobo"
     ],
     "name:fra_x_preferred":[
+        "Algarrobo"
+    ],
+    "name:fre_x_preferred":[
         "Algarrobo"
     ],
     "name:ita_x_preferred":[
@@ -121,10 +133,11 @@
         }
     ],
     "wof:id":421203427,
-    "wof:lastmodified":1536616156,
+    "wof:lastmodified":1555047379,
     "wof:name":"Algarrobo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:population":11556,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-co",

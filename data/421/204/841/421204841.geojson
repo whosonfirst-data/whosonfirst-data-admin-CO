@@ -10,6 +10,12 @@
     "geom:latitude":4.580291,
     "geom:longitude":-74.989061,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alvarado Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.581646,
     "lbl:longitude":-74.987475,
     "meso:admin_1":"Tolima",
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":421204841,
-    "wof:lastmodified":1536616167,
+    "wof:lastmodified":1554489051,
     "wof:name":"Alvarado",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

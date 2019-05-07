@@ -10,6 +10,12 @@
     "geom:latitude":1.018007,
     "geom:longitude":-70.41656,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mit\u00fa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.035711,
     "lbl:longitude":-70.534052,
     "meso:admin_1":"Vaup\u00e9s",
@@ -241,7 +247,7 @@
         }
     ],
     "wof:id":421170241,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1554488754,
     "wof:name":"Mit\u00fa",
     "wof:parent_id":85670259,
     "wof:placetype":"county",

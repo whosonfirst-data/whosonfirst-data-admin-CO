@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017095,
-    "geom:area_square_m":208529390.433601,
+    "geom:area_square_m":208529390.433472,
     "geom:bbox":"-75.3027431742,9.33571358994,-75.1008984471,9.50117537568",
     "geom:latitude":9.427079,
     "geom:longitude":-75.214851,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Los Palmitos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.422958,
     "lbl:longitude":-75.213319,
     "meso:admin_1":"Sucre",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701399,
-    "wof:lastmodified":1553816482,
+    "wof:lastmodified":1555037374,
     "wof:name":"Los Palmitos",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

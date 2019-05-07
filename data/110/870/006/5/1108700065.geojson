@@ -10,6 +10,12 @@
     "geom:latitude":10.691726,
     "geom:longitude":-74.76653,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Palmar De Varela Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.68571,
     "lbl:longitude":-74.762069,
     "meso:admin_1":"Atl\u00e1ntico",
@@ -34,7 +40,7 @@
         "Palmar de Varela"
     ],
     "name:eng_x_preferred":[
-        "Palmar de Varela"
+        "Palmar De Varela"
     ],
     "name:eng_x_variant":[
         "Palmar De Varela",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700065,
-    "wof:lastmodified":1536615408,
+    "wof:lastmodified":1555047382,
     "wof:name":"Palmar De Varela",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

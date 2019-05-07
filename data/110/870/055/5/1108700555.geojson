@@ -10,6 +10,12 @@
     "geom:latitude":7.81454,
     "geom:longitude":-73.453515,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Alberto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.808116,
     "lbl:longitude":-73.423596,
     "meso:admin_1":"Cesar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700555,
-    "wof:lastmodified":1536615428,
+    "wof:lastmodified":1554489293,
     "wof:name":"San Alberto",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

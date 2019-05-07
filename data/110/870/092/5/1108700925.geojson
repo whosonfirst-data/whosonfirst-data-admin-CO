@@ -10,6 +10,12 @@
     "geom:latitude":4.518635,
     "geom:longitude":-72.994909,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Barranca De Up\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.519058,
     "lbl:longitude":-73.007336,
     "meso:admin_1":"Meta",
@@ -34,11 +40,12 @@
         "Barranca de Up\u00eda"
     ],
     "name:eng_x_preferred":[
-        "Barranca de Up\u00eda"
+        "Barranca De Up\u00eda"
     ],
     "name:eng_x_variant":[
         "Barranca De Upia",
-        "Barranca de Up\u00eda"
+        "Barranca de Up\u00eda",
+        "Barranca De Up\u00eda"
     ],
     "name:fre_x_preferred":[
         "Barranca de Up\u00eda"
@@ -109,7 +116,7 @@
         }
     ],
     "wof:id":1108700925,
-    "wof:lastmodified":1536615445,
+    "wof:lastmodified":1555047399,
     "wof:name":"Barranca De Up\u00eda",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

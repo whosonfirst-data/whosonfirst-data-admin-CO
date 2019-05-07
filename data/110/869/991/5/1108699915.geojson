@@ -10,6 +10,12 @@
     "geom:latitude":6.308293,
     "geom:longitude":-75.912778,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Anz\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.297508,
     "lbl:longitude":-75.904197,
     "meso:admin_1":"Antioquia",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108699915,
-    "wof:lastmodified":1536615403,
+    "wof:lastmodified":1554489267,
     "wof:name":"Anz\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

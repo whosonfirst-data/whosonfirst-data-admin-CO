@@ -10,6 +10,12 @@
     "geom:latitude":10.293719,
     "geom:longitude":-74.817445,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cerro De San Antonio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.316151,
     "lbl:longitude":-74.833236,
     "meso:admin_1":"Magdalena",
@@ -34,11 +40,12 @@
         "Cerro San Antonio"
     ],
     "name:eng_x_preferred":[
-        "Cerro San Antonio"
+        "Cerro De San Antonio"
     ],
     "name:eng_x_variant":[
         "Cerro San Antonio",
-        "Cerro de San Antonio"
+        "Cerro de San Antonio",
+        "Cerro De San Antonio"
     ],
     "name:fre_x_preferred":[
         "Cerro de San Antonio"
@@ -103,10 +110,11 @@
         }
     ],
     "wof:id":1108700877,
-    "wof:lastmodified":1536615442,
+    "wof:lastmodified":1555047398,
     "wof:name":"Cerro De San Antonio",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CE",
     "wof:superseded_by":[],

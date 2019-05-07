@@ -10,6 +10,12 @@
     "geom:latitude":4.876454,
     "geom:longitude":-75.047852,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "L\u00edbano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.880846,
     "lbl:longitude":-75.046643,
     "meso:admin_1":"Tolima",
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421188699,
-    "wof:lastmodified":1536616063,
+    "wof:lastmodified":1554488977,
     "wof:name":"L\u00edbano",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

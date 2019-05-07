@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.426214,
-    "geom:area_square_m":42364317925.846367,
+    "geom:area_square_m":42364317925.845184,
     "geom:bbox":"-75.5163137927,-0.706510366881,-71.3202157769,1.1882976926",
     "geom:latitude":0.211532,
     "geom:longitude":-73.13211,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Solano Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":0.208813,
     "lbl:longitude":-72.578515,
     "meso:admin_1":"Caquet\u00e1",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108700425,
-    "wof:lastmodified":1553816473,
+    "wof:lastmodified":1555037436,
     "wof:name":"Solano",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

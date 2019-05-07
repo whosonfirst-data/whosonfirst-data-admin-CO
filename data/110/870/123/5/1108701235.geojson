@@ -10,6 +10,12 @@
     "geom:latitude":6.618593,
     "geom:longitude":-73.018033,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Curit\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.599662,
     "lbl:longitude":-73.030269,
     "meso:admin_1":"Santander",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108701235,
-    "wof:lastmodified":1536615463,
+    "wof:lastmodified":1554489330,
     "wof:name":"Curit\u00ed",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

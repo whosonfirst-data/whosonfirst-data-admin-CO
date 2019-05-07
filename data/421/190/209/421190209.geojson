@@ -10,6 +10,12 @@
     "geom:latitude":3.212544,
     "geom:longitude":-76.628085,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Jamund\u00ed Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.211217,
     "lbl:longitude":-76.641524,
     "meso:admin_1":"Valle del Cauca",
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":421190209,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1554488987,
     "wof:name":"Jamund\u00ed",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

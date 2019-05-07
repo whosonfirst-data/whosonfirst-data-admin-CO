@@ -10,6 +10,12 @@
     "geom:latitude":4.339212,
     "geom:longitude":-74.810707,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Girardot Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.335497,
     "lbl:longitude":-74.805558,
     "meso:admin_1":"Cundinamarca",
@@ -153,7 +159,7 @@
         }
     ],
     "wof:id":421172115,
-    "wof:lastmodified":1536615937,
+    "wof:lastmodified":1554488767,
     "wof:name":"Girardot",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

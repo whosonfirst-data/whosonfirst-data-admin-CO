@@ -10,6 +10,12 @@
     "geom:latitude":5.625163,
     "geom:longitude":-75.926344,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Andes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.628225,
     "lbl:longitude":-75.938917,
     "meso:admin_1":"Antioquia",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":421188613,
-    "wof:lastmodified":1536616061,
+    "wof:lastmodified":1554488971,
     "wof:name":"Andes",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

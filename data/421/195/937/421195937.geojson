@@ -10,6 +10,12 @@
     "geom:latitude":11.605467,
     "geom:longitude":-72.571388,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Manaure Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.600086,
     "lbl:longitude":-72.545253,
     "meso:admin_1":"La Guajira",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421195937,
-    "wof:lastmodified":1536616121,
+    "wof:lastmodified":1554489020,
     "wof:name":"Manaure",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

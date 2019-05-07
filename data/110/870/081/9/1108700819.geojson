@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032182,
-    "geom:area_square_m":397692564.710346,
+    "geom:area_square_m":397692564.710568,
     "geom:bbox":"-76.4260462566,1.85439590157,-76.07647167,2.27908939409",
     "geom:latitude":2.006084,
     "geom:longitude":-76.249767,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Isnos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.952647,
     "lbl:longitude":-76.208987,
     "meso:admin_1":"Huila",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700819,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037406,
     "wof:name":"Isnos",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

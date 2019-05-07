@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110194,
-    "geom:area_square_m":1353299141.671403,
+    "geom:area_square_m":1353299141.6714,
     "geom:bbox":"-76.5775293251,6.48983671787,-76.0760149872,6.86235813123",
     "geom:latitude":6.685215,
     "geom:longitude":-76.334277,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Frontino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.675521,
     "lbl:longitude":-76.30452,
     "meso:admin_1":"Antioquia",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":1108699961,
-    "wof:lastmodified":1553816470,
+    "wof:lastmodified":1555037462,
     "wof:name":"Frontino",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

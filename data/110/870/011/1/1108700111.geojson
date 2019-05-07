@@ -10,6 +10,12 @@
     "geom:latitude":9.235073,
     "geom:longitude":-74.688328,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cicuco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.236898,
     "lbl:longitude":-74.693129,
     "meso:admin_1":"Bol\u00edvar",
@@ -96,10 +102,11 @@
         }
     ],
     "wof:id":1108700111,
-    "wof:lastmodified":1536615410,
+    "wof:lastmodified":1554489275,
     "wof:name":"Cicuco",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CC",
     "wof:superseded_by":[],

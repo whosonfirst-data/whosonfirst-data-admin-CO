@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07684,
-    "geom:area_square_m":947894912.792739,
+    "geom:area_square_m":947894912.793002,
     "geom:bbox":"-75.4433928956,3.75664067096,-75.0720573813,4.1191514998",
     "geom:latitude":3.937092,
     "geom:longitude":-75.276073,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ortega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.934265,
     "lbl:longitude":-75.288731,
     "meso:admin_1":"Tolima",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701449,
-    "wof:lastmodified":1553816484,
+    "wof:lastmodified":1555037368,
     "wof:name":"Ortega",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

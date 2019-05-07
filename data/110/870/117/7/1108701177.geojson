@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050756,
-    "geom:area_square_m":624939711.688068,
+    "geom:area_square_m":624939711.688076,
     "geom:bbox":"-76.2115434765,5.13766556645,-75.9268240239,5.45193410658",
     "geom:latitude":5.286864,
     "geom:longitude":-76.073019,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pueblo Rico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.284956,
     "lbl:longitude":-76.073023,
     "meso:admin_1":"Risaralda",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701177,
-    "wof:lastmodified":1553816481,
+    "wof:lastmodified":1555037387,
     "wof:name":"Pueblo Rico",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

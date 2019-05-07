@@ -10,6 +10,12 @@
     "geom:latitude":5.062891,
     "geom:longitude":-74.231481,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Supat\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.062207,
     "lbl:longitude":-74.23284,
     "meso:admin_1":"Cundinamarca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700713,
-    "wof:lastmodified":1536615434,
+    "wof:lastmodified":1554489302,
     "wof:name":"Supat\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

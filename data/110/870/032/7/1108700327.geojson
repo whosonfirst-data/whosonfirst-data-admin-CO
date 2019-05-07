@@ -10,6 +10,12 @@
     "geom:latitude":5.892897,
     "geom:longitude":-72.993912,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa De Viterbo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.898309,
     "lbl:longitude":-72.987964,
     "meso:admin_1":"Boyac\u00e1",
@@ -34,7 +40,7 @@
         "Santa Rosa de Viterbo"
     ],
     "name:eng_x_preferred":[
-        "Santa Rosa de Viterbo"
+        "Santa Rosa De Viterbo"
     ],
     "name:eng_x_variant":[
         "Santa Rosa De Viterbo",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1108700327,
-    "wof:lastmodified":1536615418,
+    "wof:lastmodified":1555047387,
     "wof:name":"Santa Rosa De Viterbo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

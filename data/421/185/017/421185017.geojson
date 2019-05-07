@@ -10,6 +10,12 @@
     "geom:latitude":6.384402,
     "geom:longitude":-75.219168,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Concepci\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.396905,
     "lbl:longitude":-75.21785,
     "meso:admin_1":"Antioquia",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421185017,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1554488951,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

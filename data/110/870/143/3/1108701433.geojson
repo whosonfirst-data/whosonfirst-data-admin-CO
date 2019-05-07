@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054909,
-    "geom:area_square_m":677518950.64758,
+    "geom:area_square_m":677518950.647226,
     "geom:bbox":"-75.3305016408,3.56584206546,-74.9729322728,3.91653430193",
     "geom:latitude":3.734133,
     "geom:longitude":-75.151733,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Coyaima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.774987,
     "lbl:longitude":-75.119419,
     "meso:admin_1":"Tolima",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701433,
-    "wof:lastmodified":1553816483,
+    "wof:lastmodified":1555037371,
     "wof:name":"Coyaima",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

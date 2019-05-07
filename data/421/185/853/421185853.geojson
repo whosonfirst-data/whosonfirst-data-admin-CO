@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012228,
-    "geom:area_square_m":150729177.300156,
+    "geom:area_square_m":150729177.300236,
     "geom:bbox":"-75.8812840005,4.45150026897,-75.720891048,4.57994260105",
     "geom:latitude":4.522374,
     "geom:longitude":-75.817739,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Montenegro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.520111,
     "lbl:longitude":-75.824253,
     "meso:admin_1":"Quindio",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421185853,
-    "wof:lastmodified":1553816375,
+    "wof:lastmodified":1555037105,
     "wof:name":"Montenegro",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

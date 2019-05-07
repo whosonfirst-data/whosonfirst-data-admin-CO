@@ -10,6 +10,12 @@
     "geom:latitude":3.150102,
     "geom:longitude":-74.122878,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Mesetas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":3.335269,
     "lbl:longitude":-74.149162,
     "meso:admin_1":"Meta",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1108700943,
-    "wof:lastmodified":1536615447,
+    "wof:lastmodified":1554489319,
     "wof:name":"Mesetas",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

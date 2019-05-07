@@ -10,6 +10,12 @@
     "geom:latitude":5.241525,
     "geom:longitude":-73.855809,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sutatausa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.244094,
     "lbl:longitude":-73.856537,
     "meso:admin_1":"Cundinamarca",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421184129,
-    "wof:lastmodified":1536616017,
+    "wof:lastmodified":1554488944,
     "wof:name":"Sutatausa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016137,
-    "geom:area_square_m":197089942.871997,
+    "geom:area_square_m":197089942.871972,
     "geom:bbox":"-74.4220072796,8.93952376696,-73.9775424905,9.04486517562",
     "geom:latitude":8.983773,
     "geom:longitude":-74.142271,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Hatillo De Loba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.984718,
     "lbl:longitude":-74.065287,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,7 +40,7 @@
         "Hatillo de Loba"
     ],
     "name:eng_x_preferred":[
-        "Hatillo de Loba"
+        "Hatillo De Loba"
     ],
     "name:eng_x_variant":[
         "Hatillo De Loba",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1108700123,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555047383,
     "wof:name":"Hatillo De Loba",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

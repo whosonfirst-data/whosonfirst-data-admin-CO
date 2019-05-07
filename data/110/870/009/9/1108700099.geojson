@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037686,
-    "geom:area_square_m":461059760.938482,
+    "geom:area_square_m":461059760.93831,
     "geom:bbox":"-74.3339794397,8.15578620838,-73.8729322676,8.48722373808",
     "geom:latitude":8.34088,
     "geom:longitude":-74.107112,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Arenal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.363197,
     "lbl:longitude":-74.103555,
     "meso:admin_1":"Bol\u00edvar",
@@ -34,6 +40,9 @@
         "Morales"
     ],
     "name:eng_x_preferred":[
+        "Arenal"
+    ],
+    "name:eng_x_variant":[
         "Morales"
     ],
     "name:fre_x_preferred":[
@@ -96,10 +105,11 @@
         }
     ],
     "wof:id":1108700099,
-    "wof:lastmodified":1553816471,
+    "wof:lastmodified":1555047383,
     "wof:name":"Arenal",
     "wof:parent_id":85670209,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"MS",
     "wof:superseded_by":[],

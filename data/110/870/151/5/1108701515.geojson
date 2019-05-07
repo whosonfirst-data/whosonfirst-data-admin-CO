@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.421202,
-    "geom:area_square_m":5176284446.005665,
+    "geom:area_square_m":5176284446.004696,
     "geom:bbox":"-70.7185473687,6.03835143098,-69.4304667624,6.64742260489",
     "geom:latitude":6.347092,
     "geom:longitude":-70.071055,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cravo Norte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.347138,
     "lbl:longitude":-69.953984,
     "meso:admin_1":"Arauca",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108701515,
-    "wof:lastmodified":1553816484,
+    "wof:lastmodified":1555037365,
     "wof:name":"Cravo Norte",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

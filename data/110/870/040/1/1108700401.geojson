@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04731,
-    "geom:area_square_m":582361940.883824,
+    "geom:area_square_m":582361940.883877,
     "geom:bbox":"-74.9749996111,5.29566647316,-74.6987430266,5.60529601898",
     "geom:latitude":5.444983,
     "geom:longitude":-74.833253,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Victoria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.443459,
     "lbl:longitude":-74.833262,
     "meso:admin_1":"Caldas",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108700401,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037439,
     "wof:name":"Victoria",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

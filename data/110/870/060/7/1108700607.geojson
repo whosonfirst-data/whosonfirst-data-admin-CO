@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038817,
-    "geom:area_square_m":474089973.64532,
+    "geom:area_square_m":474089973.645146,
     "geom:bbox":"-76.110435287,8.90123383712,-75.6989107133,9.08339815731",
     "geom:latitude":8.98957,
     "geom:longitude":-75.910535,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Pelayo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.98177,
     "lbl:longitude":-75.90752,
     "meso:admin_1":"C\u00f3rdoba",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":1108700607,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555037420,
     "wof:name":"San Pelayo",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

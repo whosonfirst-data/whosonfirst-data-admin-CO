@@ -10,6 +10,12 @@
     "geom:latitude":4.129884,
     "geom:longitude":-75.112228,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "San Luis Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.072569,
     "lbl:longitude":-75.132467,
     "meso:admin_1":"Tolima",
@@ -28,7 +34,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "San Lu\u00eds"
+        "San Luis"
     ],
     "name:eng_x_variant":[
         "San Luis",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108701469,
-    "wof:lastmodified":1536615473,
+    "wof:lastmodified":1555047409,
     "wof:name":"San Luis",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

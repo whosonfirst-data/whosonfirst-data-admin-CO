@@ -10,6 +10,12 @@
     "geom:latitude":10.645167,
     "geom:longitude":-73.879333,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aracataca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":10.640026,
     "lbl:longitude":-73.8738,
     "meso:admin_1":"Magdalena",
@@ -171,10 +177,11 @@
         }
     ],
     "wof:id":1108700873,
-    "wof:lastmodified":1536615442,
+    "wof:lastmodified":1554489311,
     "wof:name":"Aracataca",
     "wof:parent_id":85670223,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AC",
     "wof:superseded_by":[],

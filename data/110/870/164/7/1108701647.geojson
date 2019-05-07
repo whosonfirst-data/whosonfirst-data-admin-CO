@@ -10,6 +10,12 @@
     "geom:latitude":4.262905,
     "geom:longitude":-69.521393,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cumaribo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.309432,
     "lbl:longitude":-69.520734,
     "meso:admin_1":"Vichada",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701647,
-    "wof:lastmodified":1536615495,
+    "wof:lastmodified":1554489375,
     "wof:name":"Cumaribo",
     "wof:parent_id":85670263,
     "wof:placetype":"county",

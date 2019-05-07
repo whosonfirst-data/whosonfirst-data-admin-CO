@@ -10,6 +10,12 @@
     "geom:latitude":5.006783,
     "geom:longitude":-73.145145,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Campohermoso Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.009753,
     "lbl:longitude":-73.145154,
     "meso:admin_1":"Boyac\u00e1",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108700205,
-    "wof:lastmodified":1536615414,
+    "wof:lastmodified":1554489279,
     "wof:name":"Campohermoso",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

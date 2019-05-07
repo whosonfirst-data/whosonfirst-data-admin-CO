@@ -10,6 +10,12 @@
     "geom:latitude":4.367035,
     "geom:longitude":-75.74498,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Buenavista Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.363578,
     "lbl:longitude":-75.738903,
     "meso:admin_1":"Quindio",
@@ -40,6 +46,9 @@
     "name:deu_x_preferred":[
         "Buenavista"
     ],
+    "name:eng_x_preferred":[
+        "Buenavista"
+    ],
     "name:eng_x_variant":[
         "Pijao"
     ],
@@ -50,6 +59,9 @@
         "Buenavista"
     ],
     "name:fra_x_preferred":[
+        "Buenavista"
+    ],
+    "name:fre_x_preferred":[
         "Buenavista"
     ],
     "name:ita_x_preferred":[
@@ -127,10 +139,11 @@
         }
     ],
     "wof:id":421188821,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1555047376,
     "wof:name":"Buenavista",
     "wof:parent_id":85670169,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PI",
     "wof:superseded_by":[],

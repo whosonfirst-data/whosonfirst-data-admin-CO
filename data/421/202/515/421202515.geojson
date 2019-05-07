@@ -10,6 +10,12 @@
     "geom:latitude":5.432437,
     "geom:longitude":-72.882438,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aquitania Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.448211,
     "lbl:longitude":-72.879699,
     "meso:admin_1":"Boyac\u00e1",
@@ -150,7 +156,7 @@
         }
     ],
     "wof:id":421202515,
-    "wof:lastmodified":1536616146,
+    "wof:lastmodified":1554489036,
     "wof:name":"Aquitania",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

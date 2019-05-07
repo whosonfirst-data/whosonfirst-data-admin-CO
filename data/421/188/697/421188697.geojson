@@ -10,6 +10,12 @@
     "geom:latitude":5.179495,
     "geom:longitude":-74.782901,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Honda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.166653,
     "lbl:longitude":-74.781594,
     "meso:admin_1":"Tolima",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":421188697,
-    "wof:lastmodified":1536616063,
+    "wof:lastmodified":1554488976,
     "wof:name":"Honda",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

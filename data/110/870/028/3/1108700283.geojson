@@ -10,6 +10,12 @@
     "geom:latitude":5.747312,
     "geom:longitude":-74.196146,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Otanche Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.761174,
     "lbl:longitude":-74.216842,
     "meso:admin_1":"Boyac\u00e1",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700283,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489282,
     "wof:name":"Otanche",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":4.84121,
     "geom:longitude":-75.669613,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Dosquebradas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.845366,
     "lbl:longitude":-75.668709,
     "meso:admin_1":"Risaralda",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":421188819,
-    "wof:lastmodified":1536616073,
+    "wof:lastmodified":1554488979,
     "wof:name":"Dosquebradas",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

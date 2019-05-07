@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036752,
-    "geom:area_square_m":452752852.323927,
+    "geom:area_square_m":452752852.323879,
     "geom:bbox":"-75.5888739399,4.80251441987,-75.3173759905,5.05151545272",
     "geom:latitude":4.940127,
     "geom:longitude":-75.436318,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Villamar\u00eda Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.949345,
     "lbl:longitude":-75.422954,
     "meso:admin_1":"Caldas",
@@ -160,7 +166,7 @@
         }
     ],
     "wof:id":421170595,
-    "wof:lastmodified":1553816360,
+    "wof:lastmodified":1555037157,
     "wof:name":"Villamar\u00eda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

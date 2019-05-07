@@ -10,6 +10,12 @@
     "geom:latitude":5.151501,
     "geom:longitude":-73.180472,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Miraflores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.159925,
     "lbl:longitude":-73.170335,
     "meso:admin_1":"Boyac\u00e1",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108700269,
-    "wof:lastmodified":1536615416,
+    "wof:lastmodified":1554489281,
     "wof:name":"Miraflores",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

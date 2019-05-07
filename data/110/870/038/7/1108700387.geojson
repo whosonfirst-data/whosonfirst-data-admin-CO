@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00724,
-    "geom:area_square_m":89135243.419848,
+    "geom:area_square_m":89135243.419804,
     "geom:bbox":"-75.1234168554,5.26492314958,-74.9625221113,5.34766498094",
     "geom:latitude":5.309255,
     "geom:longitude":-75.040198,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Marquetalia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.304286,
     "lbl:longitude":-75.048108,
     "meso:admin_1":"Caldas",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700387,
-    "wof:lastmodified":1553816472,
+    "wof:lastmodified":1555037440,
     "wof:name":"Marquetalia",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

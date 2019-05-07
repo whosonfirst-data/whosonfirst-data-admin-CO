@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004303,
-    "geom:area_square_m":53024607.31866,
+    "geom:area_square_m":53024607.318577,
     "geom:bbox":"-74.5113854249,4.67540670873,-74.403141678,4.78204020259",
     "geom:latitude":4.72327,
     "geom:longitude":-74.459363,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cachipay Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.708936,
     "lbl:longitude":-74.478235,
     "meso:admin_1":"Cundinamarca",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108700633,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555037417,
     "wof:name":"Cachipay",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

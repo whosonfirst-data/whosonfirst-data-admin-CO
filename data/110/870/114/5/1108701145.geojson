@@ -10,6 +10,12 @@
     "geom:latitude":7.89494,
     "geom:longitude":-72.715064,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santiago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.897949,
     "lbl:longitude":-72.713933,
     "meso:admin_1":"Norte de Santander",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108701145,
-    "wof:lastmodified":1536615459,
+    "wof:lastmodified":1554489327,
     "wof:name":"Santiago",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

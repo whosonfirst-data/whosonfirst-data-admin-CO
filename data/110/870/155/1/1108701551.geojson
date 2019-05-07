@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082003,
-    "geom:area_square_m":1008645685.49042,
+    "geom:area_square_m":1008645685.49045,
     "geom:bbox":"-72.3926757359,5.66918667887,-72.0067616313,6.06509238757",
     "geom:latitude":5.8799,
     "geom:longitude":-72.184461,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "T\u00e1mara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.864052,
     "lbl:longitude":-72.181526,
     "meso:admin_1":"Casanare",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108701551,
-    "wof:lastmodified":1553816485,
+    "wof:lastmodified":1555037362,
     "wof:name":"T\u00e1mara",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

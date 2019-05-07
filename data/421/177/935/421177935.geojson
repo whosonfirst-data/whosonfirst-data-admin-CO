@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01787,
-    "geom:area_square_m":220061838.315251,
+    "geom:area_square_m":220061838.315326,
     "geom:bbox":"-75.161143687,5.09281403474,-74.9646428982,5.2926019661",
     "geom:latitude":5.186821,
     "geom:longitude":-75.051732,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Fresno Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.191015,
     "lbl:longitude":-75.04356,
     "meso:admin_1":"Tolima",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421177935,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1555037133,
     "wof:name":"Fresno",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

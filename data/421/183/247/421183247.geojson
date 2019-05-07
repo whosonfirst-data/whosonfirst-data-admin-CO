@@ -10,6 +10,12 @@
     "geom:latitude":5.470149,
     "geom:longitude":-73.522078,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Samac\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.479414,
     "lbl:longitude":-73.505256,
     "meso:admin_1":"Boyac\u00e1",
@@ -141,7 +147,7 @@
         }
     ],
     "wof:id":421183247,
-    "wof:lastmodified":1536616008,
+    "wof:lastmodified":1554488918,
     "wof:name":"Samac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

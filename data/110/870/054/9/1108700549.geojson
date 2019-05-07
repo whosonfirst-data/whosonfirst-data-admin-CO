@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034978,
-    "geom:area_square_m":427459200.302745,
+    "geom:area_square_m":427459200.302845,
     "geom:bbox":"-73.8085848752,8.64808925603,-73.4283374193,8.89188309605",
     "geom:latitude":8.764127,
     "geom:longitude":-73.633069,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pelaya Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.800132,
     "lbl:longitude":-73.630211,
     "meso:admin_1":"Cesar",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700549,
-    "wof:lastmodified":1553816475,
+    "wof:lastmodified":1555037424,
     "wof:name":"Pelaya",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

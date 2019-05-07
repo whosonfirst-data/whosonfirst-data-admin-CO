@@ -10,6 +10,12 @@
     "geom:latitude":4.838183,
     "geom:longitude":-74.146763,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Tenjo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.851052,
     "lbl:longitude":-74.1399,
     "meso:admin_1":"Cundinamarca",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421187811,
-    "wof:lastmodified":1536616039,
+    "wof:lastmodified":1554488963,
     "wof:name":"Tenjo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

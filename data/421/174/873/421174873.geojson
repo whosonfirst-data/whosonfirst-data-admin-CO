@@ -10,6 +10,12 @@
     "geom:latitude":4.123132,
     "geom:longitude":-74.746887,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Carmen De Apical\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.126053,
     "lbl:longitude":-74.737227,
     "meso:admin_1":"Tolima",
@@ -35,12 +41,13 @@
         "Carmen de Apical\u00e1"
     ],
     "name:eng_x_preferred":[
-        "Carmen de Apical\u00e1"
+        "Carmen De Apical\u00e1"
     ],
     "name:eng_x_variant":[
         "Carmen De Apicala",
         "Carmen de Apical\u00e1",
-        "Carmen Apicala"
+        "Carmen Apicala",
+        "Carmen De Apical\u00e1"
     ],
     "name:fre_x_preferred":[
         "Carmen de Apical\u00e1"
@@ -129,7 +136,7 @@
         }
     ],
     "wof:id":421174873,
-    "wof:lastmodified":1536615946,
+    "wof:lastmodified":1555047372,
     "wof:name":"Carmen De Apical\u00e1",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

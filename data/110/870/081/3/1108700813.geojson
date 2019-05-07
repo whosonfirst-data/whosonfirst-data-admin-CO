@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006566,
-    "geom:area_square_m":81135726.325928,
+    "geom:area_square_m":81135726.325901,
     "geom:bbox":"-76.0262166679,1.95495766609,-75.8623712715,2.05070697453",
     "geom:latitude":2.006135,
     "geom:longitude":-75.951136,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "El\u00edas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":2.009102,
     "lbl:longitude":-75.959206,
     "meso:admin_1":"Huila",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700813,
-    "wof:lastmodified":1553816478,
+    "wof:lastmodified":1555037407,
     "wof:name":"El\u00edas",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

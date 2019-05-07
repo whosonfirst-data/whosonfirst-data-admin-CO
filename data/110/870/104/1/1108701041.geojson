@@ -10,6 +10,12 @@
     "geom:latitude":1.303881,
     "geom:longitude":-77.346151,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Nari\u00f1o Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.304985,
     "lbl:longitude":-77.351788,
     "meso:admin_1":"Nari\u00f1o",
@@ -52,11 +58,12 @@
         "Pasto"
     ],
     "name:eng_x_preferred":[
-        "San Juan de Pasto"
+        "Nari\u00f1o"
     ],
     "name:eng_x_variant":[
         "Pasto",
-        "San Juan de Pasto"
+        "San Juan de Pasto",
+        "Nari\u00f1o"
     ],
     "name:epo_x_preferred":[
         "San Juan de Pasto"
@@ -211,10 +218,11 @@
         }
     ],
     "wof:id":1108701041,
-    "wof:lastmodified":1536615454,
+    "wof:lastmodified":1555047404,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"PA",
     "wof:superseded_by":[],

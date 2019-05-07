@@ -10,6 +10,12 @@
     "geom:latitude":8.987505,
     "geom:longitude":-76.185226,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Escondido Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.99354,
     "lbl:longitude":-76.183298,
     "meso:admin_1":"C\u00f3rdoba",
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":421186429,
-    "wof:lastmodified":1536616036,
+    "wof:lastmodified":1554488962,
     "wof:name":"Puerto Escondido",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

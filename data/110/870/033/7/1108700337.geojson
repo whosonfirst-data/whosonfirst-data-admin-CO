@@ -10,6 +10,12 @@
     "geom:latitude":5.929831,
     "geom:longitude":-72.554888,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Socot\u00e1 Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.891378,
     "lbl:longitude":-72.541614,
     "meso:admin_1":"Boyac\u00e1",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":1108700337,
-    "wof:lastmodified":1536615418,
+    "wof:lastmodified":1554489285,
     "wof:name":"Socot\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

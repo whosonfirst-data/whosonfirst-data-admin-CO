@@ -10,6 +10,12 @@
     "geom:latitude":7.258689,
     "geom:longitude":-75.897014,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ituango Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.262457,
     "lbl:longitude":-75.73466,
     "meso:admin_1":"Antioquia",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1108699969,
-    "wof:lastmodified":1536615405,
+    "wof:lastmodified":1554489270,
     "wof:name":"Ituango",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

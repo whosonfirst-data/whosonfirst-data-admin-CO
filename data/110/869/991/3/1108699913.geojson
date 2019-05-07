@@ -10,6 +10,12 @@
     "geom:latitude":6.529395,
     "geom:longitude":-75.898434,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Santa Fe De Antioquia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.536196,
     "lbl:longitude":-75.900297,
     "meso:admin_1":"Antioquia",
@@ -43,11 +49,12 @@
         "Santa Fe de Antioquia"
     ],
     "name:eng_x_preferred":[
-        "Antioquia [, Santa Fe de]"
+        "Santa Fe De Antioquia"
     ],
     "name:eng_x_variant":[
         "Antioquia",
-        "Santa Fe de Antioquia"
+        "Santa Fe de Antioquia",
+        "Santa Fe De Antioquia"
     ],
     "name:epo_x_preferred":[
         "Sankta Fido de Antjokio"
@@ -151,7 +158,7 @@
         }
     ],
     "wof:id":1108699913,
-    "wof:lastmodified":1536615403,
+    "wof:lastmodified":1555047380,
     "wof:name":"Santa Fe De Antioquia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

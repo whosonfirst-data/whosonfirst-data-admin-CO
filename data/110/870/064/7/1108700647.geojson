@@ -10,6 +10,12 @@
     "geom:latitude":4.723316,
     "geom:longitude":-73.600802,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Gama Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.7233,
     "lbl:longitude":-73.600799,
     "meso:admin_1":"Cundinamarca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108700647,
-    "wof:lastmodified":1536615432,
+    "wof:lastmodified":1554489300,
     "wof:name":"Gama",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

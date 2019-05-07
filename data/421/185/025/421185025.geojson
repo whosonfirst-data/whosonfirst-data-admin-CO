@@ -10,6 +10,12 @@
     "geom:latitude":4.889478,
     "geom:longitude":-74.441186,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Alb\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.887709,
     "lbl:longitude":-74.433784,
     "meso:admin_1":"Cundinamarca",
@@ -31,10 +37,16 @@
     "name:ceb_x_preferred":[
         "Alb\u00e1n"
     ],
+    "name:eng_x_preferred":[
+        "Alb\u00e1n"
+    ],
     "name:eng_x_variant":[
         "Sasaima"
     ],
     "name:fra_x_preferred":[
+        "Alb\u00e1n"
+    ],
+    "name:fre_x_preferred":[
         "Alb\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -111,10 +123,11 @@
         }
     ],
     "wof:id":421185025,
-    "wof:lastmodified":1536616025,
+    "wof:lastmodified":1555047374,
     "wof:name":"Alb\u00e1n",
     "wof:parent_id":85670159,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SA",
     "wof:superseded_by":[],

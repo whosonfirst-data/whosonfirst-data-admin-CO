@@ -10,6 +10,12 @@
     "geom:latitude":9.271646,
     "geom:longitude":-75.729267,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Pur\u00edsima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.266507,
     "lbl:longitude":-75.735161,
     "meso:admin_1":"C\u00f3rdoba",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1108700597,
-    "wof:lastmodified":1536615430,
+    "wof:lastmodified":1554489297,
     "wof:name":"Pur\u00edsima",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

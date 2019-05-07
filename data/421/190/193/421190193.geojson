@@ -10,6 +10,12 @@
     "geom:latitude":5.762847,
     "geom:longitude":-75.058037,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Sons\u00f3n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.820355,
     "lbl:longitude":-75.091944,
     "meso:admin_1":"Antioquia",
@@ -28,10 +34,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sons\u00f3n"
+    ],
     "name:eng_x_variant":[
         "San Francisco"
     ],
     "name:fra_x_preferred":[
+        "SonSon"
+    ],
+    "name:fre_x_preferred":[
         "SonSon"
     ],
     "name:jpn_x_preferred":[
@@ -92,10 +104,11 @@
         }
     ],
     "wof:id":421190193,
-    "wof:lastmodified":1536616078,
+    "wof:lastmodified":1555047376,
     "wof:name":"Sons\u00f3n",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"SF",
     "wof:superseded_by":[],

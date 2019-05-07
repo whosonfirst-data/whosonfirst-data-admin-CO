@@ -10,6 +10,12 @@
     "geom:latitude":6.355794,
     "geom:longitude":-73.122478,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Ocamonte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.354375,
     "lbl:longitude":-73.118595,
     "meso:admin_1":"Santander",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108701303,
-    "wof:lastmodified":1536615465,
+    "wof:lastmodified":1554489333,
     "wof:name":"Ocamonte",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

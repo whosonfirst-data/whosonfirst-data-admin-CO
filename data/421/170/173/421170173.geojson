@@ -10,6 +10,12 @@
     "geom:latitude":5.973006,
     "geom:longitude":-75.255128,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Carmen De Viboral Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.932691,
     "lbl:longitude":-75.230484,
     "meso:admin_1":"Antioquia",
@@ -35,11 +41,12 @@
         "El Carmen de Viboral"
     ],
     "name:eng_x_preferred":[
-        "Carmen de Viboral"
+        "Carmen De Viboral"
     ],
     "name:eng_x_variant":[
         "Carmen De Viboral",
-        "El Carmen de Viboral"
+        "El Carmen de Viboral",
+        "Carmen De Viboral"
     ],
     "name:fre_x_preferred":[
         "El Carmen de Viboral"
@@ -138,10 +145,11 @@
         }
     ],
     "wof:id":421170173,
-    "wof:lastmodified":1536615907,
+    "wof:lastmodified":1555047370,
     "wof:name":"Carmen De Viboral",
     "wof:parent_id":85670129,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"AN",
     "wof:superseded_by":[],

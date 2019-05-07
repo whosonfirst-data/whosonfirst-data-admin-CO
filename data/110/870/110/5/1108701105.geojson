@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030253,
-    "geom:area_square_m":370887000.09914,
+    "geom:area_square_m":370887000.099003,
     "geom:bbox":"-72.9016197759,7.35946383568,-72.6899377711,7.63944364894",
     "geom:latitude":7.501565,
     "geom:longitude":-72.797744,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Cucutilla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":7.511099,
     "lbl:longitude":-72.778602,
     "meso:admin_1":"Norte de Santander",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":1108701105,
-    "wof:lastmodified":1553816480,
+    "wof:lastmodified":1555037393,
     "wof:name":"Cucutilla",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

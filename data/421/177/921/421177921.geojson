@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060917,
-    "geom:area_square_m":742805020.447199,
+    "geom:area_square_m":742805020.447448,
     "geom:bbox":"-73.577594851,9.4242555663,-73.0673405972,9.69278889762",
     "geom:latitude":9.550596,
     "geom:longitude":-73.326032,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "La Jagua De Ibirico Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":9.533273,
     "lbl:longitude":-73.368472,
     "meso:admin_1":"Cesar",
@@ -35,11 +41,12 @@
         "La Jagua de Ibirico"
     ],
     "name:eng_x_preferred":[
-        "La Jagua de Ibirico"
+        "La Jagua De Ibirico"
     ],
     "name:eng_x_variant":[
         "La Jagua De Iribico",
-        "La Jagua de Ibirico"
+        "La Jagua de Ibirico",
+        "La Jagua De Ibirico"
     ],
     "name:epo_x_preferred":[
         "La Jagua de Ibirico"
@@ -149,7 +156,7 @@
         }
     ],
     "wof:id":421177921,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1555047373,
     "wof:name":"La Jagua De Ibirico",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

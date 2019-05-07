@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024111,
-    "geom:area_square_m":296839879.853332,
+    "geom:area_square_m":296839879.853239,
     "geom:bbox":"-74.0053665734,5.20365206529,-73.8370510065,5.46875042495",
     "geom:latitude":5.339077,
     "geom:longitude":-73.926028,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Carmen De Carupa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":5.360284,
     "lbl:longitude":-73.92731,
     "meso:admin_1":"Cundinamarca",
@@ -34,7 +40,7 @@
         "Carmen de Carupa"
     ],
     "name:eng_x_preferred":[
-        "Carmen de Carupa"
+        "Carmen De Carupa"
     ],
     "name:eng_x_variant":[
         "Carmen De Carupa",
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1108700637,
-    "wof:lastmodified":1553816476,
+    "wof:lastmodified":1555047393,
     "wof:name":"Carmen De Carupa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

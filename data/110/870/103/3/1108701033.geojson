@@ -10,6 +10,12 @@
     "geom:latitude":1.672993,
     "geom:longitude":-77.710973,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Los Andes (Sotomayor) Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":1.733779,
     "lbl:longitude":-77.750714,
     "meso:admin_1":"Nari\u00f1o",
@@ -35,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Los Andes"
+    ],
+    "name:eng_x_variant":[
+        "Los Andes (Sotomayor)"
     ],
     "name:fre_x_preferred":[
         "Los Andes Sotomayor"
@@ -90,10 +99,11 @@
         }
     ],
     "wof:id":1108701033,
-    "wof:lastmodified":1536615453,
-    "wof:name":"Los Andes (Sotomayor)",
+    "wof:lastmodified":1555047403,
+    "wof:name":"Los Andes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"LO",
     "wof:superseded_by":[],

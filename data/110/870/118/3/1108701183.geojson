@@ -10,6 +10,12 @@
     "geom:latitude":6.175323,
     "geom:longitude":-73.533245,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Aguada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.17045,
     "lbl:longitude":-73.528917,
     "meso:admin_1":"Santander",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108701183,
-    "wof:lastmodified":1536615461,
+    "wof:lastmodified":1554489327,
     "wof:name":"Aguada",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

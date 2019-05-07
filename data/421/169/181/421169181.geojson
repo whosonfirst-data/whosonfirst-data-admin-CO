@@ -10,6 +10,12 @@
     "geom:latitude":4.006012,
     "geom:longitude":-71.631097,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Puerto Gait\u00e1n Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.017355,
     "lbl:longitude":-71.61844,
     "meso:admin_1":"Meta",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421169181,
-    "wof:lastmodified":1536615896,
+    "wof:lastmodified":1554488749,
     "wof:name":"Puerto Gait\u00e1n",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

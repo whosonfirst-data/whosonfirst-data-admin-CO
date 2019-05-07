@@ -10,6 +10,12 @@
     "geom:latitude":8.11241,
     "geom:longitude":-72.488842,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "C\u00facuta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":8.107506,
     "lbl:longitude":-72.458321,
     "meso:admin_1":"Norte de Santander",
@@ -58,11 +64,12 @@
         "C\u00facuta"
     ],
     "name:eng_x_preferred":[
-        "C\u00facuta [, San Jos\u00e9 de]"
+        "C\u00facuta"
     ],
     "name:eng_x_variant":[
         "Cucuta",
         "San Jos\u00e9 de C\u00facuta",
+        "C\u00facuta",
         "C\u00facuta"
     ],
     "name:epo_x_preferred":[
@@ -245,7 +252,7 @@
         }
     ],
     "wof:id":1108701087,
-    "wof:lastmodified":1536615457,
+    "wof:lastmodified":1555047405,
     "wof:name":"C\u00facuta",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

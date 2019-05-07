@@ -10,6 +10,12 @@
     "geom:latitude":6.373779,
     "geom:longitude":-73.415246,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "Chima Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":6.36284,
     "lbl:longitude":-73.416461,
     "meso:admin_1":"Santander",
@@ -28,7 +34,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Chim\u00e1"
+        "Chima"
     ],
     "name:eng_x_variant":[
         "Chima",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108701219,
-    "wof:lastmodified":1536615462,
+    "wof:lastmodified":1555047407,
     "wof:name":"Chima",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

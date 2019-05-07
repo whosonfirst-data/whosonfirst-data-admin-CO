@@ -10,6 +10,12 @@
     "geom:latitude":4.395957,
     "geom:longitude":-75.651338,
     "iso:country":"CO",
+    "label:eng_x_preferred_longname":[
+        "C\u00f3rdoba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":4.390734,
     "lbl:longitude":-75.664674,
     "meso:admin_1":"Quindio",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421171829,
-    "wof:lastmodified":1536615935,
+    "wof:lastmodified":1554488765,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85670169,
     "wof:placetype":"county",
