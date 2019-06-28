@@ -33,31 +33,28 @@
     "mps:longitude":-72.843722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u97cb\u7279\u8482\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Bet\u00e9itiva"
-    ],
     "name:eng_x_preferred":[
         "Bet\u00e9itiva"
     ],
     "name:eng_x_variant":[
         "Beteitiva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bet\u00e9itiva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e2\u10d4\u10d8\u10e2\u10d8\u10d5\u10d0"
     ],
     "name:ita_x_preferred":[
         "Beteitiva"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10e2\u10d4\u10d8\u10e2\u10d8\u10d5\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Beteitiva"
     ],
     "name:nan_x_preferred":[
+        "Bet\u00e9itiva"
+    ],
+    "name:nld_x_preferred":[
         "Bet\u00e9itiva"
     ],
     "name:por_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Beteitiva"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u7279\u8482\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108700193,
-    "wof:lastmodified":1555047385,
+    "wof:lastmodified":1561759378,
     "wof:name":"Bet\u00e9itiva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

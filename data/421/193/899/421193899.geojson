@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Guacamayas"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u5361\u99ac\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Guacamayas"
-    ],
     "name:eng_x_preferred":[
         "Guacamayas"
     ],
     "name:fra_x_preferred":[
         "Guacamayas"
     ],
-    "name:fre_x_preferred":[
-        "Guacamayas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10d9\u10d0\u10db\u10d0\u10d8\u10d0\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Guacamayas"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10d9\u10d0\u10db\u10d0\u10d8\u10d0\u10e1\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Guacamayas"
     ],
     "name:msa_x_preferred":[
         "Guacamayas"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Guacamayas"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5361\u99ac\u4e9e\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421193899,
-    "wof:lastmodified":1527716151,
+    "wof:lastmodified":1561759438,
     "wof:name":"Guacamayas",
     "wof:parent_id":1108700245,
     "wof:placetype":"locality",

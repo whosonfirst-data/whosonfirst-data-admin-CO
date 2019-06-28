@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "C\u00e1queza"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u514b\u85a9"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00e1queza"
-    ],
     "name:eng_x_preferred":[
         "C\u00e1queza"
     ],
     "name:fra_x_preferred":[
         "C\u00e1queza"
-    ],
-    "name:fre_x_preferred":[
-        "C\u00e1queza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d9\u10d4\u10e1\u10d0"
     ],
     "name:ita_x_preferred":[
         "C\u00e1queza"
@@ -40,11 +28,11 @@
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d9\u10d4\u10e1\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Caqueza"
-    ],
     "name:msa_x_preferred":[
         "C\u00e1queza"
+    ],
+    "name:msa_x_variant":[
+        "Caqueza"
     ],
     "name:nan_x_preferred":[
         "C\u00e1queza"
@@ -69,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Caqueza"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u514b\u85a9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -117,7 +108,7 @@
         }
     ],
     "wof:id":421182537,
-    "wof:lastmodified":1513942001,
+    "wof:lastmodified":1561759493,
     "wof:name":"C\u00e1queza",
     "wof:parent_id":421184951,
     "wof:placetype":"locality",

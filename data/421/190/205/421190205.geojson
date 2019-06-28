@@ -34,10 +34,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5b89\u7d22\u963f\u7279\u5409"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:eng_x_preferred":[
@@ -47,22 +44,22 @@
         "Anzoategui",
         "Anzo\u00e1tegui"
     ],
-    "name:fre_x_preferred":[
-        "Anzo\u00e1tegui"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e1\u10dd\u10d0\u10e2\u10d4\u10d2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:ita_x_preferred":[
         "Anzo\u00e1tegui"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10e1\u10dd\u10d0\u10e2\u10d4\u10d2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Anzo\u00e1tequi"
     ],
     "name:nan_x_preferred":[
+        "Anzo\u00e1tegui"
+    ],
+    "name:nld_x_preferred":[
         "Anzo\u00e1tegui"
     ],
     "name:spa_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:war_x_preferred":[
         "Anzo\u00e1tegui"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u7d22\u963f\u7279\u5409"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":421190205,
-    "wof:lastmodified":1554488986,
+    "wof:lastmodified":1561759472,
     "wof:name":"Anzo\u00e1tegui",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

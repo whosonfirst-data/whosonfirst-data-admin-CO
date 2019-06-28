@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Chitag\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u5854\u52a0"
-    ],
-    "name:dut_x_preferred":[
-        "Chitag\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Chitag\u00e1"
     ],
     "name:fra_x_preferred":[
         "Chitag\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Chitag\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10e2\u10d0\u10d2\u10d0"
     ],
     "name:gla_x_preferred":[
         "Chitag\u00e1"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d8\u10e2\u10d0\u10d2\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Chitag\u00e1"
     ],
     "name:msa_x_preferred":[
         "Chitag\u00e1"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Chitag\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u5854\u52a0"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421180643,
-    "wof:lastmodified":1527716234,
+    "wof:lastmodified":1561759453,
     "wof:name":"Chitag\u00e1",
     "wof:parent_id":1108701101,
     "wof:placetype":"locality",

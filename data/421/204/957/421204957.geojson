@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Tubar\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u74e6\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Tubar\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Tubara"
     ],
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Tubar\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Tubar\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10d1\u10d0\u10e0\u10d0"
     ],
     "name:gla_x_preferred":[
         "Tubar\u00e1"
@@ -46,9 +34,6 @@
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10d1\u10d0\u10e0\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Tubar\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Tubar\u00e1"
     ],
@@ -57,9 +42,6 @@
     ],
     "name:nld_x_preferred":[
         "Tubar\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0628\u0627\u0631\u0627"
     ],
     "name:por_x_preferred":[
         "Tubar\u00e1"
@@ -81,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Tubar\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u74e6\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -129,7 +114,7 @@
         }
     ],
     "wof:id":421204957,
-    "wof:lastmodified":1513943875,
+    "wof:lastmodified":1561759445,
     "wof:name":"Tubar\u00e1",
     "wof:parent_id":421190817,
     "wof:placetype":"locality",

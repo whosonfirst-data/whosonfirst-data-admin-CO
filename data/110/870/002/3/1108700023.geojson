@@ -33,10 +33,7 @@
     "mps:longitude":-75.483687,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5854\u62c9\u85a9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Taraz\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -46,13 +43,10 @@
         "Taraza",
         "Taraz\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Taraz\u00e1"
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0633\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e0\u10d0\u10e1\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Taraz\u00e1"
     ],
     "name:ile_x_preferred":[
@@ -61,7 +55,10 @@
     "name:ita_x_preferred":[
         "Taraz\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10e0\u10d0\u10e1\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Taraz\u00e1"
     ],
     "name:nah_x_preferred":[
@@ -70,13 +67,13 @@
     "name:nan_x_preferred":[
         "Taraz\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u0631\u0627\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Taraz\u00e1"
     ],
     "name:por_x_preferred":[
         "Taraz\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Taraz\u00e1"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Taraz\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u62c9\u85a9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108700023,
-    "wof:lastmodified":1555037460,
+    "wof:lastmodified":1561759385,
     "wof:name":"Taraz\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

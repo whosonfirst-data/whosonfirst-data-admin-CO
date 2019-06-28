@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Guatap\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u5854\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Guatap\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Guatap\u00e9"
     ],
@@ -53,12 +47,6 @@
     "name:fra_x_preferred":[
         "Guatap\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Guatap\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10e2\u10d0\u10de\u10d4"
-    ],
     "name:ile_x_preferred":[
         "Guatap\u00e9"
     ],
@@ -67,9 +55,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10e2\u10d0\u10de\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "Guatape"
     ],
     "name:msa_x_preferred":[
         "Guatape"
@@ -84,9 +69,6 @@
         "Guatap\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Guatape"
-    ],
-    "name:rum_x_preferred":[
         "Guatape"
     ],
     "name:rus_x_preferred":[
@@ -106,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Guatape"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5854\u4f69"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -169,7 +154,7 @@
         }
     ],
     "wof:id":421190189,
-    "wof:lastmodified":1554488986,
+    "wof:lastmodified":1561759472,
     "wof:name":"Guatap\u00e9",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

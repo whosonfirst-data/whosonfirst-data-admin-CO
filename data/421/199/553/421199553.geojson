@@ -16,14 +16,11 @@
     "name:ceb_x_preferred":[
         "Colombia"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9686\u6bd4\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Colombia"
     ],
-    "name:dut_x_preferred":[
-        "Colombia"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03cc\u03bc\u03c0\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Colombia"
@@ -31,16 +28,7 @@
     "name:fra_x_preferred":[
         "Colombia"
     ],
-    "name:fre_x_preferred":[
-        "Colombia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03cc\u03bc\u03c0\u03b9\u03b1"
-    ],
     "name:ita_x_preferred":[
-        "Colombia"
-    ],
-    "name:may_x_preferred":[
         "Colombia"
     ],
     "name:msa_x_preferred":[
@@ -58,7 +46,7 @@
     "name:sco_x_preferred":[
         "Colombia"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Colombia"
     ],
     "name:spa_x_preferred":[
@@ -81,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u54e5\u502b\u6bd4\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u9686\u6bd4\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +121,7 @@
         }
     ],
     "wof:id":421199553,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561759475,
     "wof:name":"Colombia",
     "wof:parent_id":1108700809,
     "wof:placetype":"locality",

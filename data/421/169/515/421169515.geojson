@@ -16,28 +16,25 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648\u0627\u0631\u064a\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u5716\u963f\u91cc\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Santuario"
-    ],
     "name:eng_x_preferred":[
         "Santuario"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santuario"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10e3\u10d0\u10e0\u10d8\u10dd"
     ],
     "name:ita_x_preferred":[
         "Santuario"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10e3\u10d0\u10e0\u10d8\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Santuario"
     ],
     "name:nan_x_preferred":[
+        "Santuario"
+    ],
+    "name:nld_x_preferred":[
         "Santuario"
     ],
     "name:spa_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:war_x_preferred":[
         "Santuario"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u5716\u963f\u91cc\u5967"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":421169515,
-    "wof:lastmodified":1527716176,
+    "wof:lastmodified":1561759443,
     "wof:name":"Santuario",
     "wof:parent_id":1108701179,
     "wof:placetype":"locality",

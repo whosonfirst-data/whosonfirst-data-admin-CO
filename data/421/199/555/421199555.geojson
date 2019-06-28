@@ -16,13 +16,7 @@
     "name:cat_x_preferred":[
         "Coello"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u57c3\u7565"
-    ],
     "name:deu_x_preferred":[
-        "Coello"
-    ],
-    "name:dut_x_preferred":[
         "Coello"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +25,13 @@
     "name:fra_x_preferred":[
         "Coello"
     ],
-    "name:fre_x_preferred":[
-        "Coello"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d4\u10da\u10d8\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Coello"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10d4\u10da\u10d8\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Coello"
     ],
     "name:nan_x_preferred":[
@@ -60,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Coello"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u57c3\u7565"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -108,7 +102,7 @@
         }
     ],
     "wof:id":421199555,
-    "wof:lastmodified":1527716415,
+    "wof:lastmodified":1561759475,
     "wof:name":"Coello",
     "wof:parent_id":1108701431,
     "wof:placetype":"locality",

@@ -15,28 +15,25 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5854\u99ac\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "T\u00e1mara"
-    ],
     "name:eng_x_preferred":[
         "Tamara"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "T\u00e1mara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10db\u10d0\u10e0\u10d0"
     ],
     "name:ita_x_preferred":[
         "T\u00e1mara"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d0\u10db\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Tamara"
     ],
     "name:nan_x_preferred":[
+        "T\u00e1mara"
+    ],
+    "name:nld_x_preferred":[
         "T\u00e1mara"
     ],
     "name:por_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:war_x_preferred":[
         "Tamara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u99ac\u62c9"
     ],
     "qs:name":"Tamara",
     "qs:photos_9r":0,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890441935,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561759500,
     "wof:name":"Tamara",
     "wof:parent_id":1108701551,
     "wof:placetype":"locality",

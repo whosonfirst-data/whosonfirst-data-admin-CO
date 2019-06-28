@@ -24,25 +24,25 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Mocoa"
-    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u0995\u09cb\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
         "Mocoa"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u79d1\u963f"
-    ],
     "name:dan_x_preferred":[
         "Mocoa"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mocoa"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03ba\u03bf\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Mocoa"
+    ],
+    "name:eus_x_preferred":[
         "Mocoa"
     ],
     "name:fas_x_preferred":[
@@ -51,20 +51,11 @@
     "name:fin_x_preferred":[
         "Mocoa"
     ],
-    "name:fre_x_preferred":[
-        "Mocoa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10d9\u10dd\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mocoa"
     ],
     "name:gla_x_preferred":[
         "Mocoa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03ba\u03bf\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a95\u0acb\u0a86"
@@ -105,17 +96,17 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0915\u093e\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mocoa"
     ],
     "name:nan_x_preferred":[
         "Mocoa"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mocoa"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u06a9\u0648\u0622"
+    "name:nob_x_preferred":[
+        "Mocoa"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u06a9\u0648\u0622"
@@ -213,7 +204,7 @@
         }
     ],
     "wof:id":1125940673,
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1561759505,
     "wof:name":"Mocoa",
     "wof:parent_id":421170259,
     "wof:placetype":"locality",

@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Nari\u00f1o"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u91cc\u5c3c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Nari\u00f1o"
-    ],
     "name:eng_x_preferred":[
         "Nari\u00f1o"
     ],
     "name:fra_x_preferred":[
         "Nari\u00f1o"
-    ],
-    "name:fre_x_preferred":[
-        "Nari\u00f1o"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d0\u10e0\u10d8\u10dc\u10d8\u10dd"
     ],
     "name:ile_x_preferred":[
         "Nari\u00f1o"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10e0\u10d8\u10dc\u10d8\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Nari\u00f1o"
     ],
     "name:msa_x_preferred":[
         "Nari\u00f1o"
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Nari\u00f1o"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u91cc\u5c3c\u5967"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":421196405,
-    "wof:lastmodified":1553816384,
+    "wof:lastmodified":1561759471,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":1108699981,
     "wof:placetype":"locality",

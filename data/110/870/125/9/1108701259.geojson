@@ -36,10 +36,7 @@
     "name:cat_x_preferred":[
         "Gir\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u9f8d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gir\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -52,16 +49,13 @@
     "name:epo_x_preferred":[
         "San Juan de Gir\u00f3n"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062e\u06cc\u0631\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Gir\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Gir\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d3\u10d4-\u10ee\u10d8\u10e0\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gir\u00f3n"
     ],
     "name:gla_x_preferred":[
@@ -73,14 +67,17 @@
     "name:jpn_x_preferred":[
         "\u30d2\u30ed\u30f3"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d3\u10d4-\u10ee\u10d8\u10e0\u10dd\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Gir\u00f3n"
     ],
     "name:nan_x_preferred":[
         "Gir\u00f3n"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062e\u06cc\u0631\u0648\u0646"
+    "name:nld_x_preferred":[
+        "Gir\u00f3n"
     ],
     "name:pol_x_preferred":[
         "Gir\u00f3n"
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Gir\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u9f8d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108701259,
-    "wof:lastmodified":1554489332,
+    "wof:lastmodified":1561759393,
     "wof:name":"Gir\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

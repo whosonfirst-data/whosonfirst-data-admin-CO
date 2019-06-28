@@ -36,23 +36,17 @@
     "name:cat_x_preferred":[
         "Olaya Herrera"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u62c9\u4e9e\u57c3\u96f7\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Olaya Herrera"
-    ],
     "name:eng_x_preferred":[
         "Olaya Herrera"
     ],
     "name:eng_x_variant":[
         "Olaya Herrera (Bocas De Satinga)"
     ],
-    "name:fre_x_preferred":[
-        "Olaya Herrera"
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u06cc\u0627 \u0627\u0631\u0631\u0622"
     ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10da\u10d0\u10d8\u10d0-\u10d4\u10e0\u10d4\u10e0\u10d0"
+    "name:fra_x_preferred":[
+        "Olaya Herrera"
     ],
     "name:glg_x_preferred":[
         "Olaya Herrera"
@@ -60,14 +54,17 @@
     "name:ita_x_preferred":[
         "Olaya Herrera"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10dd\u10da\u10d0\u10d8\u10d0-\u10d4\u10e0\u10d4\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Olaya Herrera"
     ],
     "name:nan_x_preferred":[
         "Olaya Herrera"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0644\u0627\u06cc\u0627 \u0627\u0631\u0631\u0622"
+    "name:nld_x_preferred":[
+        "Olaya Herrera"
     ],
     "name:por_x_preferred":[
         "Olaya Herrera"
@@ -89,6 +86,9 @@
     ],
     "name:war_x_preferred":[
         "Olaya Herrera"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u62c9\u4e9e\u57c3\u96f7\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108701043,
-    "wof:lastmodified":1555047404,
+    "wof:lastmodified":1561759317,
     "wof:name":"Olaya Herrera",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

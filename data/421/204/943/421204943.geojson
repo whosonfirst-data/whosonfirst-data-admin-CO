@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Santa Rosa de Viterbo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u7f85\u838e\u5fb7\u6bd4\u7279\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Rosa de Viterbo"
-    ],
     "name:eng_x_preferred":[
         "Santa Rosa de Viterbo"
     ],
     "name:fra_x_preferred":[
         "Santa Rosa de Viterbo"
-    ],
-    "name:fre_x_preferred":[
-        "Santa Rosa de Viterbo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0-\u10d3\u10d4-\u10d5\u10d8\u10e2\u10d4\u10e0\u10d1\u10dd"
     ],
     "name:gla_x_preferred":[
         "Santa Rosa de Viterbo"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10e0\u10dd\u10e1\u10d0-\u10d3\u10d4-\u10d5\u10d8\u10e2\u10d4\u10e0\u10d1\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Santa Rosa de Viterbo"
     ],
     "name:msa_x_preferred":[
         "Santa Rosa de Viterbo"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Santa Rosa de Viterbo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u838e\u5fb7\u6bd4\u7279\u6c83"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421204943,
-    "wof:lastmodified":1527716188,
+    "wof:lastmodified":1561759446,
     "wof:name":"Santa Rosa de Viterbo",
     "wof:parent_id":1108700327,
     "wof:placetype":"locality",

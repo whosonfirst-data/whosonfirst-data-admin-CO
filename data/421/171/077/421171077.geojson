@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "San Eduardo"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u57c3\u675c\u963f\u723e\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "San Eduardo"
-    ],
     "name:eng_x_preferred":[
         "San Eduardo"
     ],
     "name:fra_x_preferred":[
         "San Eduardo"
     ],
-    "name:fre_x_preferred":[
-        "San Eduardo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d4\u10d3\u10e3\u10d0\u10e0\u10d3\u10dd"
-    ],
     "name:ita_x_preferred":[
         "San Eduardo"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10d4\u10d3\u10e3\u10d0\u10e0\u10d3\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "San Eduardo"
     ],
     "name:msa_x_preferred":[
         "San Eduardo"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "San Eduardo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u57c3\u675c\u963f\u723e\u591a"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421171077,
-    "wof:lastmodified":1527726483,
+    "wof:lastmodified":1561759497,
     "wof:name":"San Eduardo",
     "wof:parent_id":1108700309,
     "wof:placetype":"locality",

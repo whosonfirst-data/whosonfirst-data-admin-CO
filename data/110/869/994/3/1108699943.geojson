@@ -33,20 +33,11 @@
     "mps:longitude":-75.631083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u66fc\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Caramanta"
-    ],
     "name:eng_x_preferred":[
         "Caramanta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Caramanta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10db\u10d0\u10dc\u10e2\u10d0"
     ],
     "name:ile_x_preferred":[
         "Caramanta"
@@ -54,7 +45,10 @@
     "name:ita_x_preferred":[
         "Caramanta"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10db\u10d0\u10dc\u10e2\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Caramanta"
     ],
     "name:nah_x_preferred":[
@@ -63,10 +57,13 @@
     "name:nan_x_preferred":[
         "Caramanta"
     ],
+    "name:nld_x_preferred":[
+        "Caramanta"
+    ],
     "name:por_x_preferred":[
         "Caramanta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Caramanta"
     ],
     "name:rus_x_preferred":[
@@ -86,6 +83,9 @@
     ],
     "name:war_x_preferred":[
         "Caramanta"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u66fc\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108699943,
-    "wof:lastmodified":1554489268,
+    "wof:lastmodified":1561759315,
     "wof:name":"Caramanta",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

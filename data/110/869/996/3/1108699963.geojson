@@ -33,12 +33,6 @@
     "mps:longitude":-75.191217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6208\u9ea5\u65af\u666e\u62c9\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "G\u00f3mez Plata"
-    ],
     "name:eng_x_preferred":[
         "G\u00f3mez Plata"
     ],
@@ -46,25 +40,28 @@
         "Gomez Plata",
         "G\u00f3mez Plata"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u00f3mez Plata"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10db\u10d4\u10e1-\u10de\u10da\u10d0\u10e2\u10d0"
     ],
     "name:ita_x_preferred":[
         "G\u00f3mez Plata"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10db\u10d4\u10e1-\u10de\u10da\u10d0\u10e2\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "G\u00f3mez Plata"
     ],
     "name:nan_x_preferred":[
         "G\u00f3mez Plata"
     ],
+    "name:nld_x_preferred":[
+        "G\u00f3mez Plata"
+    ],
     "name:por_x_preferred":[
         "G\u00f3mez Plata"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00f3mez Plata"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "G\u00f3mez Plata"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u9ea5\u65af\u666e\u62c9\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108699963,
-    "wof:lastmodified":1554489270,
+    "wof:lastmodified":1561759313,
     "wof:name":"G\u00f3mez Plata",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

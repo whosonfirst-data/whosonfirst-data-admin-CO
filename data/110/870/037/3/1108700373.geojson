@@ -33,12 +33,6 @@
     "mps:longitude":-73.159628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u585e\u5854\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Zetaquira"
-    ],
     "name:eng_x_preferred":[
         "Zetaquira"
     ],
@@ -46,19 +40,22 @@
         "Zetaquira",
         "Zetaquir\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zetaquir\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e2\u10d0\u10d9\u10d8\u10e0\u10d0"
     ],
     "name:ita_x_preferred":[
         "Zetaquira"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e2\u10d0\u10d9\u10d8\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Zetaquir\u00e1"
     ],
     "name:nan_x_preferred":[
+        "Zetaquira"
+    ],
+    "name:nld_x_preferred":[
         "Zetaquira"
     ],
     "name:por_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Zetaquir\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5854\u57fa\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1108700373,
-    "wof:lastmodified":1555047388,
+    "wof:lastmodified":1561759344,
     "wof:name":"Zetaquira",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

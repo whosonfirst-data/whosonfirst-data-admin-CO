@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Utica"
     ],
-    "name:chi_x_preferred":[
-        "\u70cf\u8482\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "\u00datica"
-    ],
     "name:eng_x_preferred":[
         "\u00datica"
     ],
     "name:fra_x_preferred":[
         "\u00datica"
     ],
-    "name:fre_x_preferred":[
-        "\u00datica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e2\u10d8\u10d9\u10d0"
-    ],
     "name:ita_x_preferred":[
         "\u00datica"
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10e2\u10d8\u10d9\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "\u00datica"
     ],
     "name:msa_x_preferred":[
         "\u00datica"
@@ -75,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "\u00datica"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u8482\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":421176345,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1561759497,
     "wof:name":"Utica",
     "wof:parent_id":1108700725,
     "wof:placetype":"locality",

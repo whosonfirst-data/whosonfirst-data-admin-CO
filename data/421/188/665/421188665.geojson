@@ -37,16 +37,10 @@
     "name:ces_x_preferred":[
         "Hobo"
     ],
-    "name:chi_x_preferred":[
-        "\u970d\u6c83"
-    ],
     "name:cym_x_preferred":[
         "Hobo"
     ],
     "name:deu_x_preferred":[
-        "Hobo"
-    ],
-    "name:dut_x_preferred":[
         "Hobo"
     ],
     "name:eng_x_preferred":[
@@ -58,12 +52,6 @@
     "name:fra_x_preferred":[
         "Hobo"
     ],
-    "name:fre_x_preferred":[
-        "Hobo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d1\u10dd"
-    ],
     "name:hun_x_preferred":[
         "Hob\u00f3"
     ],
@@ -73,10 +61,13 @@
     "name:jpn_x_preferred":[
         "\u30db\u30fc\u30dc\u30fc"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10d1\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ud638\ubcf4"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Hobo"
     ],
     "name:nan_x_preferred":[
@@ -114,6 +105,9 @@
     ],
     "name:war_x_preferred":[
         "Hobo"
+    ],
+    "name:zho_x_preferred":[
+        "\u970d\u6c83"
     ],
     "name:zho_yue_x_preferred":[
         "\u904a\u6c11"
@@ -179,7 +173,7 @@
         }
     ],
     "wof:id":421188665,
-    "wof:lastmodified":1555037090,
+    "wof:lastmodified":1561759463,
     "wof:name":"Hobo",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

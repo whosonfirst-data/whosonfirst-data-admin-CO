@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "C\u00e9rtegui"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u723e\u7279\u5409"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00e9rtegui"
-    ],
     "name:eng_x_preferred":[
         "C\u00e9rtegui"
     ],
     "name:fra_x_preferred":[
         "C\u00e9rtegui"
     ],
-    "name:fre_x_preferred":[
-        "C\u00e9rtegui"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10e2\u10d4\u10d2\u10d8"
-    ],
     "name:ita_x_preferred":[
         "C\u00e9rtegui"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e0\u10e2\u10d4\u10d2\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "C\u00e9rtegui"
     ],
     "name:msa_x_preferred":[
         "C\u00e9rtegui"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "C\u00e9rtegui"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u723e\u7279\u5409"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421193119,
-    "wof:lastmodified":1527716145,
+    "wof:lastmodified":1561759438,
     "wof:name":"C\u00e9rtegui",
     "wof:parent_id":1108700759,
     "wof:placetype":"locality",

@@ -19,23 +19,11 @@
     "name:ceb_x_preferred":[
         "G\u00e1meza"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u6885\u85a9"
-    ],
-    "name:dut_x_preferred":[
-        "G\u00e1meza"
-    ],
     "name:eng_x_preferred":[
         "G\u00e1meza"
     ],
     "name:fra_x_preferred":[
         "G\u00e1meza"
-    ],
-    "name:fre_x_preferred":[
-        "G\u00e1meza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10db\u10d4\u10e1\u10d0"
     ],
     "name:glg_x_preferred":[
         "G\u00e1meza"
@@ -45,9 +33,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10db\u10d4\u10e1\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "G\u00e1meza"
     ],
     "name:msa_x_preferred":[
         "G\u00e1meza"
@@ -81,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "G\u00e1meza"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u6885\u85a9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421198851,
-    "wof:lastmodified":1527716351,
+    "wof:lastmodified":1561759469,
     "wof:name":"G\u00e1meza",
     "wof:parent_id":1108700241,
     "wof:placetype":"locality",

@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Quinch\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u6070"
-    ],
-    "name:dut_x_preferred":[
-        "Quinch\u00eda"
-    ],
     "name:eng_x_preferred":[
         "Quinch\u00eda"
     ],
@@ -56,20 +50,11 @@
     "name:fra_x_preferred":[
         "Quinch\u00eda"
     ],
-    "name:fre_x_preferred":[
-        "Quinch\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10dc\u10e9\u10d8\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Quinch\u00eda"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10dc\u10e9\u10d8\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Quinch\u00eda"
     ],
     "name:msa_x_preferred":[
         "Quinch\u00eda"
@@ -79,9 +64,6 @@
     ],
     "name:nld_x_preferred":[
         "Quinch\u00eda"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0646\u0686\u06cc\u0627"
     ],
     "name:spa_x_preferred":[
         "Quinch\u00eda"
@@ -97,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Quinch\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u6070"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -147,7 +132,7 @@
         }
     ],
     "wof:id":421184593,
-    "wof:lastmodified":1554488948,
+    "wof:lastmodified":1561759478,
     "wof:name":"Quinch\u00eda",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

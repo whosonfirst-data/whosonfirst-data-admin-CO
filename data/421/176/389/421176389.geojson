@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Morelia"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u96f7\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Morelia"
-    ],
     "name:eng_x_preferred":[
         "Morelia"
     ],
     "name:fra_x_preferred":[
         "Morelia"
-    ],
-    "name:fre_x_preferred":[
-        "Morelia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10e0\u10d4\u10da\u10d8\u10d0"
     ],
     "name:ita_x_preferred":[
         "Morelia"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10e0\u10d4\u10da\u10d8\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Morelia"
     ],
     "name:msa_x_preferred":[
         "Morelia"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Morelia"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u96f7\u5229\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421176389,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561759497,
     "wof:name":"Morelia",
     "wof:parent_id":1108700419,
     "wof:placetype":"locality",

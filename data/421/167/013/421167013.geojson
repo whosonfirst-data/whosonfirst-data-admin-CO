@@ -16,32 +16,20 @@
     "name:ceb_x_preferred":[
         "Zetaquira"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u5854\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Zetaquira"
-    ],
     "name:eng_x_preferred":[
         "Zetaquira"
     ],
     "name:fra_x_preferred":[
         "Zetaquira"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Zetaquir\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e2\u10d0\u10d9\u10d8\u10e0\u10d0"
     ],
     "name:ita_x_preferred":[
         "Zetaquira"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e2\u10d0\u10d9\u10d8\u10e0\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Zetaquir\u00e1"
     ],
     "name:msa_x_preferred":[
         "Zetaquir\u00e1"
@@ -72,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Zetaquir\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5854\u57fa\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +111,7 @@
         }
     ],
     "wof:id":421167013,
-    "wof:lastmodified":1527716154,
+    "wof:lastmodified":1561759439,
     "wof:name":"Zetaquir\u00e1",
     "wof:parent_id":1108700373,
     "wof:placetype":"locality",

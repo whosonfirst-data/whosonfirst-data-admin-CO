@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Tibirita"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u7dad\u91cc\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "Tibirita"
-    ],
     "name:eng_x_preferred":[
         "Tibirit\u00e1"
     ],
     "name:fra_x_preferred":[
         "Tibirita"
-    ],
-    "name:fre_x_preferred":[
-        "Tibirita"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d8\u10d1\u10d8\u10e0\u10d8\u10e2\u10d0"
     ],
     "name:gla_x_preferred":[
         "Tibirita"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d8\u10d1\u10d8\u10e0\u10d8\u10e2\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Tibirit\u00e1"
     ],
     "name:msa_x_preferred":[
         "Tibirit\u00e1"
@@ -81,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Tibirit\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u7dad\u91cc\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421201645,
-    "wof:lastmodified":1527716433,
+    "wof:lastmodified":1561759477,
     "wof:name":"Tibirit\u00e1",
     "wof:parent_id":1108700717,
     "wof:placetype":"locality",

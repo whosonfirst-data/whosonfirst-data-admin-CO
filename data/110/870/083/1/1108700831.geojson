@@ -33,28 +33,25 @@
     "mps:longitude":-75.728134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d3e\u79d1\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Paicol"
-    ],
     "name:eng_x_preferred":[
         "Paicol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Paicol"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d8\u10d9\u10dd\u10da\u10d8"
     ],
     "name:ita_x_preferred":[
         "Paicol"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10d8\u10d9\u10dd\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Paicol"
     ],
     "name:nan_x_preferred":[
+        "Paicol"
+    ],
+    "name:nld_x_preferred":[
         "Paicol"
     ],
     "name:por_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Paicol"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u79d1\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108700831,
-    "wof:lastmodified":1554489307,
+    "wof:lastmodified":1561759329,
     "wof:name":"Paicol",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

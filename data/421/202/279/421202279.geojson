@@ -34,10 +34,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7d0d\u91cc\u5c3c\u5967\u6e2f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Nari\u00f1o"
     ],
     "name:eng_x_preferred":[
@@ -47,10 +44,7 @@
         "Puerto Narino",
         "Puerto Nari\u00f1o"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Nari\u00f1o"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Nari\u00f1o"
     ],
     "name:ita_x_preferred":[
@@ -59,10 +53,13 @@
     "name:lit_x_preferred":[
         "Puerto Narinjas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Puerto Nari\u00f1o"
     ],
     "name:nan_x_preferred":[
+        "Puerto Nari\u00f1o"
+    ],
+    "name:nld_x_preferred":[
         "Puerto Nari\u00f1o"
     ],
     "name:por_x_preferred":[
@@ -85,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Nari\u00f1o"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u91cc\u5c3c\u5967\u6e2f"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -146,7 +146,7 @@
         }
     ],
     "wof:id":421202279,
-    "wof:lastmodified":1554489034,
+    "wof:lastmodified":1561759450,
     "wof:name":"Puerto Nari\u00f1o",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

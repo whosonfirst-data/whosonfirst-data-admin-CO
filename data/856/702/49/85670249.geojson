@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u063a\u0648\u0627\u064a\u0646\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Guain\u00eda"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09be\u0987\u09a8\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -47,9 +44,6 @@
     "name:ceb_x_preferred":[
         "Departamento del Guain\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u4f0a\u5c3c\u4e9a\u7701"
-    ],
     "name:dan_x_preferred":[
         "Guain\u00eda Department"
     ],
@@ -59,8 +53,8 @@
     "name:diq_x_preferred":[
         "Guayniya"
     ],
-    "name:dut_x_preferred":[
-        "Guain\u00eda"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03ca\u03bd\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Guain\u00eda"
@@ -77,13 +71,7 @@
     "name:fin_x_preferred":[
         "Guain\u00eda"
     ],
-    "name:fre_x_preferred":[
-        "Guain\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10d8\u10dc\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Guain\u00eda"
     ],
     "name:gla_x_preferred":[
@@ -91,9 +79,6 @@
     ],
     "name:glg_x_preferred":[
         "Guain\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b1\u03ca\u03bd\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0aaf\u0ac1\u0a8f\u0aa8\u0abf\u0a86 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -125,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cbf\u0ca8\u0cbf\u0caf\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10d8\u10dc\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uacfc\uc774\ub2c8\uc544 \uc8fc"
     ],
@@ -137,10 +125,13 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u0947\u0928\u093f\u0906 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Guain\u00eda"
     ],
     "name:nan_x_preferred":[
+        "Guain\u00eda"
+    ],
+    "name:nld_x_preferred":[
         "Guain\u00eda"
     ],
     "name:nno_x_preferred":[
@@ -148,9 +139,6 @@
     ],
     "name:nob_x_preferred":[
         "Guain\u00eda"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0648\u0627\u06cc\u0646\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u06af\u06cc\u0646\u06cc\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -215,6 +203,9 @@
     ],
     "name:yor_x_preferred":[
         "Guain\u00eda Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4f0a\u5c3c\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -339,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550427,
+    "wof:lastmodified":1561759230,
     "wof:name":"Guain\u00eda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Carolina"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7f85\u5229\u7d0d\u5fb7\u723e\u666e\u6797\u897f\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Carolina del Pr\u00edncipe"
-    ],
     "name:eng_x_preferred":[
         "Carolina"
     ],
@@ -55,12 +49,6 @@
     "name:fra_x_preferred":[
         "Carolina del Pr\u00edncipe"
     ],
-    "name:fre_x_preferred":[
-        "Carolina del Pr\u00edncipe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10dd\u10da\u10d8\u10dc\u10d0-\u10d3\u10d4\u10da-\u10de\u10e0\u10d8\u10dc\u10e1\u10d8\u10de\u10d4"
-    ],
     "name:ile_x_preferred":[
         "Carolina del Pr\u00edncipe"
     ],
@@ -69,9 +57,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10dd\u10da\u10d8\u10dc\u10d0-\u10d3\u10d4\u10da-\u10de\u10e0\u10d8\u10dc\u10e1\u10d8\u10de\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "Carolina"
     ],
     "name:msa_x_preferred":[
         "Carolina"
@@ -86,9 +71,6 @@
         "Carolina del Pr\u00edncipe"
     ],
     "name:ron_x_preferred":[
-        "Carolina del Pr\u00edncipe"
-    ],
-    "name:rum_x_preferred":[
         "Carolina del Pr\u00edncipe"
     ],
     "name:rus_x_preferred":[
@@ -108,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Carolina del Pr\u00edncipe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7f85\u5229\u7d0d\u5fb7\u723e\u666e\u6797\u897f\u4f69"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -170,7 +155,7 @@
         }
     ],
     "wof:id":421204773,
-    "wof:lastmodified":1555047380,
+    "wof:lastmodified":1561759446,
     "wof:name":"Carolina",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

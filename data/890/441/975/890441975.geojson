@@ -15,31 +15,28 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u723e\u7279\u80af\u9054\u99ac"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Antonio del Tequendama"
     ],
     "name:eng_x_preferred":[
         "San Antonio del Tequendama"
     ],
-    "name:fre_x_preferred":[
-        "San Antonio del Tequendama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d3\u10d4\u10da-\u10e2\u10d4\u10d9\u10d4\u10dc\u10d3\u10d0\u10db\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Antonio del Tequendama"
     ],
     "name:ita_x_preferred":[
         "San Antonio del Tequendama"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd-\u10d3\u10d4\u10da-\u10e2\u10d4\u10d9\u10d4\u10dc\u10d3\u10d0\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "San Antonio del Tequendama"
     ],
     "name:nan_x_preferred":[
+        "San Antonio del Tequendama"
+    ],
+    "name:nld_x_preferred":[
         "San Antonio del Tequendama"
     ],
     "name:sco_x_preferred":[
@@ -59,6 +56,9 @@
     ],
     "name:war_x_preferred":[
         "San Antonio del Tequendama"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u723e\u7279\u80af\u9054\u99ac"
     ],
     "qs:name":"San Antonio del Tequendama",
     "qs:photos_9r":0,
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":890441975,
-    "wof:lastmodified":1527727235,
+    "wof:lastmodified":1561759501,
     "wof:name":"San Antonio del Tequendama",
     "wof:parent_id":421187901,
     "wof:placetype":"locality",

@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Policarpa"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u5229\u5361\u723e\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Policarpa"
-    ],
     "name:eng_x_preferred":[
         "Policarpa"
     ],
     "name:fra_x_preferred":[
         "Policarpa"
     ],
-    "name:fre_x_preferred":[
-        "Policarpa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10da\u10d8\u10d9\u10d0\u10e0\u10de\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Policarpa"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10da\u10d8\u10d9\u10d0\u10e0\u10de\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Policarpa"
     ],
     "name:msa_x_preferred":[
         "Policarpa"
@@ -66,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Policarpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u5229\u5361\u723e\u5e15"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":421180655,
-    "wof:lastmodified":1527716240,
+    "wof:lastmodified":1561759455,
     "wof:name":"Policarpa",
     "wof:parent_id":1108701051,
     "wof:placetype":"locality",

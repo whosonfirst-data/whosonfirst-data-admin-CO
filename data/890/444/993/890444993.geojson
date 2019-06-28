@@ -16,14 +16,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:alb_x_preferred":[
-        "Bucaramanga"
-    ],
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0627\u0631\u0627\u0645\u0627\u0646\u063a\u0627"
-    ],
-    "name:baq_x_preferred":[
-        "Bucaramanga"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0443\u043a\u0430\u0440\u0430\u043c\u0430\u043d\u0433\u0430"
@@ -37,10 +31,10 @@
     "name:cat_x_preferred":[
         "Bucaramanga"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5361\u62c9\u66fc\u52a0"
+    "name:ces_x_preferred":[
+        "Bucaramanga"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bucaramanga"
     ],
     "name:dan_x_preferred":[
@@ -49,8 +43,8 @@
     "name:deu_x_preferred":[
         "Bucaramanga"
     ],
-    "name:dut_x_preferred":[
-        "Bucaramanga"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03ba\u03b1\u03bc\u03b1\u03c1\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bucaramanga"
@@ -59,6 +53,9 @@
         "Bucaramanga"
     ],
     "name:est_x_preferred":[
+        "Bucaramanga"
+    ],
+    "name:eus_x_preferred":[
         "Bucaramanga"
     ],
     "name:fas_x_preferred":[
@@ -70,23 +67,11 @@
     "name:fra_x_preferred":[
         "Bucaramanga"
     ],
-    "name:fre_x_preferred":[
-        "Bucaramanga"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10d9\u10d0\u10e0\u10d0\u10db\u10d0\u10dc\u10d2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bucaramanga"
-    ],
     "name:gla_x_preferred":[
         "Bucaramanga"
     ],
     "name:glg_x_preferred":[
         "Bucaramanga"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03ba\u03b1\u03bc\u03b1\u03c1\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a95\u0abe\u0ab0\u0abe\u0aae\u0a82\u0a97\u0abe"
@@ -127,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u093e\u092e\u0902\u0917\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bucaramanga"
     ],
     "name:nah_x_preferred":[
@@ -147,9 +132,6 @@
     ],
     "name:nor_x_preferred":[
         "Bucaramanga"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u06a9\u0627\u0631\u0627\u0645\u0627\u0646\u06af\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0648\u06a9\u0627\u0631\u0627\u0645\u0627\u0646\u06af\u0627"
@@ -173,6 +155,9 @@
         "\u0db6\u0dd4\u0d9a\u0dbb\u0db8\u0db1\u0dca\u0d9c\u0dcf"
     ],
     "name:spa_x_preferred":[
+        "Bucaramanga"
+    ],
+    "name:sqi_x_preferred":[
         "Bucaramanga"
     ],
     "name:swe_x_preferred":[
@@ -206,9 +191,6 @@
         "Bucaramanga"
     ],
     "name:war_x_preferred":[
-        "Bucaramanga"
-    ],
-    "name:wel_x_preferred":[
         "Bucaramanga"
     ],
     "name:zho_x_preferred":[
@@ -338,7 +320,7 @@
         }
     ],
     "wof:id":890444993,
-    "wof:lastmodified":1527782133,
+    "wof:lastmodified":1561759503,
     "wof:name":"Bucaramanga",
     "wof:parent_id":1108701181,
     "wof:placetype":"locality",

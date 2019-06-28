@@ -13,32 +13,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u963f\u592b\u96f7\u6208"
-    ],
-    "name:dut_x_preferred":[
-        "Abrego"
-    ],
     "name:eng_x_preferred":[
         "Abrego"
     ],
-    "name:fre_x_preferred":[
-        "Abrego"
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0631\u06af\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d1\u10e0\u10d4\u10d2\u10dd"
+    "name:fra_x_preferred":[
+        "Abrego"
     ],
     "name:ita_x_preferred":[
         "Juan Garc\u00eda \u00c1brego"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10e0\u10d4\u10d2\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Abrego"
     ],
     "name:nan_x_preferred":[
         "Abrego"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0628\u0631\u06af\u0648"
+    "name:nld_x_preferred":[
+        "Abrego"
     ],
     "name:por_x_preferred":[
         "Abrego"
@@ -60,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Abrego"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u592b\u96f7\u6208"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421182623,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1561759494,
     "wof:name":"\u00c1brego",
     "wof:parent_id":421198235,
     "wof:placetype":"locality",

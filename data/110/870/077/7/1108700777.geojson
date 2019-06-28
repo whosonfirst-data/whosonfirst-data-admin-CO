@@ -33,12 +33,6 @@
     "mps:longitude":-76.973926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e0b\u9b91\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Bajo Baud\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Medio Baud\u00f3"
     ],
@@ -48,19 +42,22 @@
         "Medio Baud\u00f3 (Boca De Pep\u00e9)",
         "Medio Baud\u00f3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bajo Baud\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10ee\u10dd-\u10d1\u10d0\u10e3\u10d3\u10dd"
     ],
     "name:ita_x_preferred":[
         "Bajo Baud\u00f3"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10ee\u10dd-\u10d1\u10d0\u10e3\u10d3\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Bajo Baud\u00f3"
     ],
     "name:nan_x_preferred":[
+        "Bajo Baud\u00f3"
+    ],
+    "name:nld_x_preferred":[
         "Bajo Baud\u00f3"
     ],
     "name:por_x_preferred":[
@@ -83,6 +80,9 @@
     ],
     "name:war_x_preferred":[
         "Bajo Baud\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9b91\u591a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108700777,
-    "wof:lastmodified":1555047396,
+    "wof:lastmodified":1561759329,
     "wof:name":"Medio Baud\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

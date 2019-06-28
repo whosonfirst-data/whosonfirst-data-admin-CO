@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Montel\u00edbano"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5229\u74e6\u8afe"
-    ],
     "name:deu_x_preferred":[
-        "Montel\u00edbano"
-    ],
-    "name:dut_x_preferred":[
         "Montel\u00edbano"
     ],
     "name:eng_x_preferred":[
@@ -34,15 +28,6 @@
     "name:fra_x_preferred":[
         "Montel\u00edbano"
     ],
-    "name:fre_x_preferred":[
-        "Montel\u00edbano"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10da\u10d8\u10d1\u10d0\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Montel\u00edbano"
-    ],
     "name:ita_x_preferred":[
         "Montel\u00edbano"
     ],
@@ -52,9 +37,6 @@
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10da\u10d8\u10d1\u10d0\u10dc\u10dd"
     ],
-    "name:may_x_preferred":[
-        "Montel\u00edbano"
-    ],
     "name:msa_x_preferred":[
         "Montel\u00edbano"
     ],
@@ -63,9 +45,6 @@
     ],
     "name:nld_x_preferred":[
         "Montel\u00edbano"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0644\u06cc\u0628\u0627\u0646\u0648"
     ],
     "name:por_x_preferred":[
         "Montel\u00edbano"
@@ -84,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Montel\u00edbano"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5229\u74e6\u8afe"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -133,7 +115,7 @@
         }
     ],
     "wof:id":421169837,
-    "wof:lastmodified":1527716174,
+    "wof:lastmodified":1561759443,
     "wof:name":"Montel\u00edbano",
     "wof:parent_id":1108700585,
     "wof:placetype":"locality",

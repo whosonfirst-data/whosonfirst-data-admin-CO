@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0627\u0648\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Cauca"
-    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041a\u0430\u045e\u043a\u0430"
     ],
@@ -47,20 +44,20 @@
     "name:cat_x_preferred":[
         "Departament del Cauca"
     ],
-    "name:chi_x_preferred":[
-        "\u8003\u5361\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Cauca"
     ],
     "name:dan_x_preferred":[
         "Cauca Department"
     ],
+    "name:deu_x_preferred":[
+        "Departamento de Cauca"
+    ],
     "name:diq_x_preferred":[
         "Kauka"
     ],
-    "name:dut_x_preferred":[
-        "Cauca"
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03ac\u03bf\u03c5\u03ba\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Cauca"
@@ -68,26 +65,23 @@
     "name:epo_x_preferred":[
         "Ka\u016dko"
     ],
+    "name:eus_x_preferred":[
+        "Cauca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Cauca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cauca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e3\u10d9\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento de Cauca"
     ],
     "name:gla_x_preferred":[
         "Cauca"
     ],
     "name:glg_x_preferred":[
         "Cauca"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03ac\u03bf\u03c5\u03ba\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a89\u0a95\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -119,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccc\u0c95\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e3\u10d9\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\uc6b0\uce74 \uc8fc"
     ],
@@ -131,10 +128,13 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u090a\u091a\u0902  \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Cauca"
     ],
     "name:nan_x_preferred":[
+        "Cauca"
+    ],
+    "name:nld_x_preferred":[
         "Cauca"
     ],
     "name:nno_x_preferred":[
@@ -142,9 +142,6 @@
     ],
     "name:nob_x_preferred":[
         "Cauca"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0627\u0626\u0648\u06a9\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0624\u06a9\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -158,7 +155,7 @@
     "name:que_x_preferred":[
         "Cauca suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Cauca"
     ],
     "name:rus_x_preferred":[
@@ -211,6 +208,9 @@
     ],
     "name:yor_x_preferred":[
         "Cauca Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5361\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -333,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550363,
+    "wof:lastmodified":1561759216,
     "wof:name":"Cauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

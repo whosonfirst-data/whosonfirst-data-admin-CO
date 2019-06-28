@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "R\u00e1quira"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "R\u00e1quira"
-    ],
     "name:eng_x_preferred":[
         "R\u00e1quira"
     ],
@@ -53,20 +47,11 @@
     "name:fra_x_preferred":[
         "R\u00e1quira"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e1quira"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10d9\u10d8\u10e0\u10d0"
-    ],
     "name:ita_x_preferred":[
         "R\u00e1quira"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10d9\u10d8\u10e0\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "R\u00e1quira"
     ],
     "name:msa_x_preferred":[
         "R\u00e1quira"
@@ -94,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "R\u00e1quira"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u57fa\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -156,7 +144,7 @@
         }
     ],
     "wof:id":421188629,
-    "wof:lastmodified":1554488973,
+    "wof:lastmodified":1561759461,
     "wof:name":"R\u00e1quira",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

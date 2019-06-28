@@ -13,22 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6885\u723e\u52a0"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Melgar"
     ],
     "name:eng_x_preferred":[
         "Melgar"
     ],
-    "name:fre_x_preferred":[
-        "Melgar"
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u06af\u0627\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d4\u10da\u10d2\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Melgar"
     ],
     "name:gla_x_preferred":[
@@ -40,17 +34,20 @@
     "name:jpn_x_preferred":[
         "\u30e1\u30eb\u30ac\u30eb"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10db\u10d4\u10da\u10d2\u10d0\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Melgar"
     ],
     "name:nan_x_preferred":[
         "Melgar"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Melgar"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0644\u06af\u0627\u0631"
+    "name:nob_x_preferred":[
+        "Melgar"
     ],
     "name:rus_x_preferred":[
         "\u041c\u0435\u043b\u044c\u0433\u0430\u0440"
@@ -63,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Melgar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u723e\u52a0"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":421181385,
-    "wof:lastmodified":1513942722,
+    "wof:lastmodified":1561759467,
     "wof:name":"Melgar",
     "wof:parent_id":421194737,
     "wof:placetype":"locality",

@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "C\u00f3mbita"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u6bd4\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00f3mbita"
-    ],
     "name:eng_x_preferred":[
         "C\u00f3mbita"
     ],
@@ -53,12 +47,6 @@
     "name:fra_x_preferred":[
         "C\u00f3mbita"
     ],
-    "name:fre_x_preferred":[
-        "C\u00f3mbita"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10db\u10d1\u10d8\u10e2\u10d0"
-    ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05de\u05d1\u05d9\u05d8\u05d4"
     ],
@@ -68,11 +56,8 @@
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10db\u10d1\u10d8\u10e2\u10d0"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041a\u043e\u043c\u0431\u0438\u0442\u0430"
-    ],
-    "name:may_x_preferred":[
-        "C\u00f3mbita"
     ],
     "name:msa_x_preferred":[
         "C\u00f3mbita"
@@ -103,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "C\u00f3mbita"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u6bd4\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -154,7 +142,7 @@
         }
     ],
     "wof:id":421184107,
-    "wof:lastmodified":1554488944,
+    "wof:lastmodified":1561759480,
     "wof:name":"C\u00f3mbita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

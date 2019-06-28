@@ -17,23 +17,11 @@
     "name:ceb_x_preferred":[
         "Orocu\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u7f85\u5eab\u57c3"
-    ],
-    "name:dut_x_preferred":[
-        "Orocu\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Orocue"
     ],
     "name:fra_x_preferred":[
         "Orocu\u00e9"
-    ],
-    "name:fre_x_preferred":[
-        "Orocu\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10dd\u10d9\u10e3\u10d4"
     ],
     "name:ita_x_preferred":[
         "Orocu\u00e9"
@@ -43,9 +31,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10dd\u10e0\u10dd\u10d9\u10e3\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "Orocue"
     ],
     "name:msa_x_preferred":[
         "Orocue"
@@ -73,6 +58,9 @@
     ],
     "name:war_x_preferred":[
         "Orocue"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7f85\u5eab\u57c3"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -214,7 +202,7 @@
         }
     ],
     "wof:id":421176381,
-    "wof:lastmodified":1527726480,
+    "wof:lastmodified":1561759497,
     "wof:name":"Orocu\u00e9",
     "wof:parent_id":1108701535,
     "wof:placetype":"locality",

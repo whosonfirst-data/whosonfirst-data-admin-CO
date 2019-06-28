@@ -33,28 +33,25 @@
     "mps:longitude":-77.036628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u514b\u9b6f\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "La Cruz"
-    ],
     "name:eng_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:eng_x_variant":[
         "La Cruz"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Cruz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10d9\u10e0\u10e3\u10e1\u10d8"
     ],
     "name:ita_x_preferred":[
         "La Cruz"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d9\u10e0\u10e3\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
+        "La Cruz"
+    ],
+    "name:nld_x_preferred":[
         "La Cruz"
     ],
     "name:por_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "La Cruz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108700977,
-    "wof:lastmodified":1555047402,
+    "wof:lastmodified":1561759343,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

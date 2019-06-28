@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Gu\u00e1tica"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u8482\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Gu\u00e1tica"
-    ],
     "name:eng_x_preferred":[
         "Gu\u00e1tica"
     ],
     "name:fra_x_preferred":[
         "Gu\u00e1tica"
-    ],
-    "name:fre_x_preferred":[
-        "Gu\u00e1tica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10e2\u10d8\u10d9\u10d0"
     ],
     "name:ita_x_preferred":[
         "Gu\u00e1tica"
@@ -40,11 +28,11 @@
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10e2\u10d8\u10d9\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Guatica"
-    ],
     "name:msa_x_preferred":[
         "Gu\u00e1tica"
+    ],
+    "name:msa_x_variant":[
+        "Guatica"
     ],
     "name:nan_x_preferred":[
         "Gu\u00e1tica"
@@ -66,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Guatica"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u8482\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421185779,
-    "wof:lastmodified":1513942328,
+    "wof:lastmodified":1561759499,
     "wof:name":"Gu\u00e1tica",
     "wof:parent_id":421184591,
     "wof:placetype":"locality",

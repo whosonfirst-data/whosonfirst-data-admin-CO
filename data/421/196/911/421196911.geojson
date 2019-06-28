@@ -13,23 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6771\u99ac\u8482\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Don Mat\u00edas"
-    ],
     "name:eng_x_preferred":[
         "Don Mat\u00edas"
     ],
     "name:fra_x_preferred":[
         "Don Mat\u00edas"
-    ],
-    "name:fre_x_preferred":[
-        "Don Mat\u00edas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10dc\u10db\u10d0\u10e2\u10d8\u10d0\u10e1\u10d8"
     ],
     "name:ile_x_preferred":[
         "Donmat\u00edas"
@@ -40,9 +28,6 @@
     "name:kat_x_preferred":[
         "\u10d3\u10dd\u10dc\u10db\u10d0\u10e2\u10d8\u10d0\u10e1\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Don Mat\u00edas"
-    ],
     "name:msa_x_preferred":[
         "Don Mat\u00edas"
     ],
@@ -52,13 +37,13 @@
     "name:nld_x_preferred":[
         "Donmat\u00edas"
     ],
+    "name:nld_x_variant":[
+        "Don Mat\u00edas"
+    ],
     "name:por_x_preferred":[
         "Don Mat\u00edas"
     ],
     "name:ron_x_preferred":[
-        "Don Mat\u00edas"
-    ],
-    "name:rum_x_preferred":[
         "Don Mat\u00edas"
     ],
     "name:rus_x_preferred":[
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Don Mat\u00edas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u99ac\u8482\u4e9e\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -126,7 +114,7 @@
         }
     ],
     "wof:id":421196911,
-    "wof:lastmodified":1513942045,
+    "wof:lastmodified":1561759471,
     "wof:name":"Don Mat\u00edas",
     "wof:parent_id":421204277,
     "wof:placetype":"locality",

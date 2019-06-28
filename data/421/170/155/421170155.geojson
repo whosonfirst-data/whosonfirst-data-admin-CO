@@ -37,13 +37,7 @@
     "name:cat_x_preferred":[
         "Calarc\u00e0"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u723e\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Calarc\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Calarc\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -59,15 +53,6 @@
     "name:fra_x_preferred":[
         "Calarc\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Calarc\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10d0\u10e0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Calarc\u00e1"
-    ],
     "name:ita_x_preferred":[
         "Calarc\u00e1"
     ],
@@ -79,9 +64,6 @@
     ],
     "name:lit_x_preferred":[
         "Kalarka"
-    ],
-    "name:may_x_preferred":[
-        "Calarca"
     ],
     "name:msa_x_preferred":[
         "Calarca"
@@ -97,9 +79,6 @@
     ],
     "name:nor_x_preferred":[
         "Calarc\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u0644\u0627\u0631\u06a9\u0627"
     ],
     "name:por_x_preferred":[
         "Calarc\u00e1"
@@ -121,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Calarc\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u723e\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -183,7 +165,7 @@
         }
     ],
     "wof:id":421170155,
-    "wof:lastmodified":1554488752,
+    "wof:lastmodified":1561759484,
     "wof:name":"Calarc\u00e1",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

@@ -36,20 +36,11 @@
     "name:cat_x_preferred":[
         "Valdivia"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u723e\u8fea\u7dad\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Valdivia"
-    ],
     "name:eng_x_preferred":[
         "Valdivia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Valdivia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10d3\u10d8\u10d5\u10d8\u10d0"
     ],
     "name:glg_x_preferred":[
         "Valdivia"
@@ -60,16 +51,22 @@
     "name:ita_x_preferred":[
         "Valdivia"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d5\u10d0\u10da\u10d3\u10d8\u10d5\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Valdivia"
     ],
     "name:nan_x_preferred":[
         "Valdivia"
     ],
+    "name:nld_x_preferred":[
+        "Valdivia"
+    ],
     "name:por_x_preferred":[
         "Valdivia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Valdivia"
     ],
     "name:rus_x_preferred":[
@@ -89,6 +86,9 @@
     ],
     "name:war_x_preferred":[
         "Valdivia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u723e\u8fea\u7dad\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108700031,
-    "wof:lastmodified":1554489272,
+    "wof:lastmodified":1561759379,
     "wof:name":"Valdivia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

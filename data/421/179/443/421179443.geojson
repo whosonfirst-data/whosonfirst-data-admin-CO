@@ -13,13 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5716\u723e\u74e6\u79d1"
-    ],
     "name:dan_x_preferred":[
         "Turbaco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Turbaco"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +25,10 @@
     "name:epo_x_preferred":[
         "Turbaco"
     ],
-    "name:fre_x_preferred":[
-        "Turbaco"
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0631\u0628\u0627\u06a9\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10e0\u10d1\u10d0\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Turbaco"
     ],
     "name:heb_x_preferred":[
@@ -46,14 +40,17 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30eb\u30d0\u30b3"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10e0\u10d1\u10d0\u10d9\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Turbaco"
     ],
     "name:nan_x_preferred":[
         "Turbaco"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0631\u0628\u0627\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Turbaco"
     ],
     "name:por_x_preferred":[
         "Turbaco"
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Turbaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u723e\u74e6\u79d1"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -122,7 +122,7 @@
         }
     ],
     "wof:id":421179443,
-    "wof:lastmodified":1513943911,
+    "wof:lastmodified":1561759490,
     "wof:name":"Turbaco",
     "wof:parent_id":421199647,
     "wof:placetype":"locality",

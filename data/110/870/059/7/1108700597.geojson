@@ -36,12 +36,6 @@
     "name:cat_x_preferred":[
         "Pur\u00edsima"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u897f\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Pur\u00edsima"
-    ],
     "name:eng_x_preferred":[
         "Pur\u00edsima"
     ],
@@ -49,11 +43,8 @@
         "Purisima",
         "Pur\u00edsima"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pur\u00edsima de la Concepci\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10e0\u10d8\u10e1\u10d8\u10db\u10d0"
     ],
     "name:glg_x_preferred":[
         "Pur\u00edsima"
@@ -61,10 +52,16 @@
     "name:ita_x_preferred":[
         "Pur\u00edsima"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10e0\u10d8\u10e1\u10d8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Pur\u00edsima"
     ],
     "name:nan_x_preferred":[
+        "Pur\u00edsima"
+    ],
+    "name:nld_x_preferred":[
         "Pur\u00edsima"
     ],
     "name:por_x_preferred":[
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Pur\u00edsima"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u897f\u99ac"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108700597,
-    "wof:lastmodified":1554489297,
+    "wof:lastmodified":1561759382,
     "wof:name":"Pur\u00edsima",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

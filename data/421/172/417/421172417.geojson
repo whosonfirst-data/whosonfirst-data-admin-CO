@@ -52,20 +52,14 @@
     "name:ces_x_preferred":[
         "Monter\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u91cc\u4e9e"
-    ],
-    "name:cze_x_preferred":[
-        "Monter\u00eda"
-    ],
     "name:dan_x_preferred":[
         "Monter\u00eda"
     ],
     "name:deu_x_preferred":[
         "Monter\u00eda"
     ],
-    "name:dut_x_preferred":[
-        "Monter\u00eda"
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bd\u03c4\u03b5\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Monter\u00eda"
@@ -86,20 +80,8 @@
     "name:fra_x_preferred":[
         "Monter\u00eda"
     ],
-    "name:fre_x_preferred":[
-        "Monter\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Monter\u00eda"
-    ],
     "name:gla_x_preferred":[
         "Monter\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03c4\u03b5\u03c1\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0aa8\u0acd\u0a9f\u0ac7\u0ab0\u0ac0\u0aaf\u0abe"
@@ -119,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb0\u0cbf\u0caf\u0cbe"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10dc\u10e2\u10d4\u10e0\u10d8\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ubaac\ud14c\ub9ac\uc544"
     ],
@@ -131,17 +116,17 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0928\u091f\u094d\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Monter\u00eda"
     ],
     "name:nah_x_preferred":[
         "Monter\u00eda"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Monter\u00eda"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0631\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Monter\u00eda"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0631\u06cc\u0627"
@@ -196,6 +181,9 @@
     ],
     "name:war_x_preferred":[
         "Monter\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u91cc\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -258,7 +246,7 @@
         }
     ],
     "wof:id":421172417,
-    "wof:lastmodified":1554488768,
+    "wof:lastmodified":1561759464,
     "wof:name":"Monter\u00eda",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

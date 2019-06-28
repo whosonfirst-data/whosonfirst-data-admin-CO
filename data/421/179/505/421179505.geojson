@@ -16,25 +16,19 @@
     "name:ceb_x_preferred":[
         "Matanza"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5766\u85a9"
-    ],
-    "name:dut_x_preferred":[
-        "Matanza"
-    ],
     "name:eng_x_preferred":[
         "Matanza"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Matanza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e2\u10d0\u10dc\u10e1\u10d0"
     ],
     "name:ita_x_preferred":[
         "Matanza"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e2\u10d0\u10dc\u10e1\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Matanza"
     ],
     "name:nan_x_preferred":[
@@ -63,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Matanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5766\u85a9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -111,7 +108,7 @@
         }
     ],
     "wof:id":421179505,
-    "wof:lastmodified":1527717702,
+    "wof:lastmodified":1561759489,
     "wof:name":"Matanza",
     "wof:parent_id":1108701295,
     "wof:placetype":"locality",

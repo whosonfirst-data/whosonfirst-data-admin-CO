@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Corrales"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u62c9\u840a\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Corrales"
-    ],
-    "name:dut_x_preferred":[
         "Corrales"
     ],
     "name:eng_x_preferred":[
@@ -37,19 +31,16 @@
     "name:fra_x_preferred":[
         "Corrales"
     ],
-    "name:fre_x_preferred":[
-        "Corrales"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d0\u10da\u10d4\u10e1\u10d8"
-    ],
     "name:glg_x_preferred":[
         "Corrales"
     ],
     "name:ita_x_preferred":[
         "Corrales"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10d0\u10da\u10d4\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Corrales"
     ],
     "name:nan_x_preferred":[
@@ -81,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Corrales"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u62c9\u840a\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -129,7 +123,7 @@
         }
     ],
     "wof:id":421182551,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1561759492,
     "wof:name":"Corrales",
     "wof:parent_id":1108700225,
     "wof:placetype":"locality",

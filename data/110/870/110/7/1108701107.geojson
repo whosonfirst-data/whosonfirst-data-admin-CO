@@ -33,20 +33,14 @@
     "mps:longitude":-72.678071,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u675c\u62c9\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Durania"
-    ],
     "name:eng_x_preferred":[
         "Durania"
     ],
-    "name:fre_x_preferred":[
-        "Duran\u00eda"
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0631\u0627\u0646\u06cc\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d8\u10d0"
+    "name:fra_x_preferred":[
+        "Duran\u00eda"
     ],
     "name:gla_x_preferred":[
         "Durania"
@@ -54,14 +48,17 @@
     "name:ita_x_preferred":[
         "Durania"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10e0\u10d0\u10dc\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Duran\u00eda"
     ],
     "name:nan_x_preferred":[
         "Durania"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0631\u0627\u0646\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Durania"
     ],
     "name:por_x_preferred":[
         "Duran\u00eda"
@@ -80,6 +77,9 @@
     ],
     "name:war_x_preferred":[
         "Duran\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u62c9\u5c3c\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108701107,
-    "wof:lastmodified":1555037392,
+    "wof:lastmodified":1561759351,
     "wof:name":"Durania",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

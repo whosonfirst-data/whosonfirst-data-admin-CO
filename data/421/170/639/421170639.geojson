@@ -43,14 +43,14 @@
     "name:cat_x_preferred":[
         "Sincelejo"
     ],
-    "name:chi_x_preferred":[
-        "\u8f9b\u585e\u840a\u970d"
-    ],
     "name:dan_x_preferred":[
         "Sincelejo"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sincelejo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03ba\u03b5\u03bb\u03ad\u03c4\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sincelejo"
@@ -58,23 +58,17 @@
     "name:epo_x_preferred":[
         "Sincelejo"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0633\u0644\u062e\u0648"
+    ],
     "name:fin_x_preferred":[
         "Sincelejo"
     ],
-    "name:fre_x_preferred":[
-        "Sincelejo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e1\u10d4\u10da\u10d4\u10ee\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Sincelejo"
     ],
     "name:gla_x_preferred":[
         "Sincelejo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03ba\u03b5\u03bb\u03ad\u03c4\u03b6\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aa8\u0acd\u0a95\u0ac7\u0a9c\u0ac7\u0ab2\u0acb"
@@ -94,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0ca8\u0ccd\u0cb2\u0cc6\u0c9c\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e1\u10d4\u10da\u10d4\u10ee\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc2e0\uc140\ub808\ud638"
     ],
@@ -106,7 +103,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u0938\u0947\u0932\u093e\u091c\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sincelejo"
     ],
     "name:nah_x_preferred":[
@@ -115,11 +112,11 @@
     "name:nan_x_preferred":[
         "Sincelejo"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Sincelejo"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0633\u0644\u062e\u0648"
+    "name:nob_x_preferred":[
+        "Sincelejo"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0646\u0633\u06cc\u0644\u06cc\u0648"
@@ -174,6 +171,9 @@
     ],
     "name:war_x_preferred":[
         "Sincelejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u585e\u840a\u970d"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -236,7 +236,7 @@
         }
     ],
     "wof:id":421170639,
-    "wof:lastmodified":1554488757,
+    "wof:lastmodified":1561759485,
     "wof:name":"Sincelejo",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

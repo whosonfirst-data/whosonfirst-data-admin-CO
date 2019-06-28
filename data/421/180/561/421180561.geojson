@@ -16,10 +16,7 @@
     "name:ceb_x_preferred":[
         "Guataqu\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u5854\u57fa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Guataqu\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -28,26 +25,17 @@
     "name:fra_x_preferred":[
         "Guataqu\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Guataqu\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10e2\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Guataqu\u00ed"
-    ],
     "name:ita_x_preferred":[
         "Guataqu\u00ed"
     ],
     "name:kat_x_preferred":[
         "\u10d2\u10e3\u10d0\u10e2\u10d0\u10d9\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Guataqui"
-    ],
     "name:msa_x_preferred":[
         "Guataqu\u00ed"
+    ],
+    "name:msa_x_variant":[
+        "Guataqui"
     ],
     "name:nan_x_preferred":[
         "Guataqu\u00ed"
@@ -75,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Guataqui"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5854\u57fa"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -124,7 +115,7 @@
         }
     ],
     "wof:id":421180561,
-    "wof:lastmodified":1527716233,
+    "wof:lastmodified":1561759453,
     "wof:name":"Guataqu\u00ed",
     "wof:parent_id":1108700655,
     "wof:placetype":"locality",

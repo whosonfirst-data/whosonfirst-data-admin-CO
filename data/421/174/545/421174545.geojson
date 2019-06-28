@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Cantagallo"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u5854\u52a0\u7d04"
-    ],
-    "name:dut_x_preferred":[
-        "Cantagallo"
-    ],
     "name:eng_x_preferred":[
         "Cantagallo"
     ],
     "name:fra_x_preferred":[
         "Cantagallo"
     ],
-    "name:fre_x_preferred":[
-        "Cantagallo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10e2\u10d0\u10d2\u10d0\u10da\u10d8\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Cantagallo"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10dc\u10e2\u10d0\u10d2\u10d0\u10da\u10d8\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Cantagallo"
     ],
     "name:msa_x_preferred":[
         "Cantagallo"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Cantagallo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5854\u52a0\u7d04"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421174545,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561759453,
     "wof:name":"Cantagallo",
     "wof:parent_id":1108700107,
     "wof:placetype":"locality",

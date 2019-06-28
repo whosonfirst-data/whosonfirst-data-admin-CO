@@ -37,13 +37,7 @@
     "name:ceb_x_preferred":[
         "Puerto Boyac\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u4e9e\u5361\u6e2f"
-    ],
     "name:deu_x_preferred":[
-        "Puerto Boyac\u00e1"
-    ],
-    "name:dut_x_preferred":[
         "Puerto Boyac\u00e1"
     ],
     "name:eng_x_preferred":[
@@ -59,15 +53,6 @@
     "name:fra_x_preferred":[
         "Puerto Boyac\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Boyac\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d1\u10dd\u10d8\u10d0\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Boyac\u00e1"
-    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05d1\u05d5\u05d9\u05d0\u05e7\u05d4"
     ],
@@ -80,9 +65,6 @@
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d1\u10dd\u10d8\u10d0\u10d9\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Puerto Boyac\u00e1"
-    ],
     "name:msa_x_preferred":[
         "Puerto Boyac\u00e1"
     ],
@@ -91,9 +73,6 @@
     ],
     "name:nld_x_preferred":[
         "Puerto Boyac\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0648 \u0628\u0648\u06cc\u0648\u06a9\u0627"
     ],
     "name:por_x_preferred":[
         "Puerto Boyac\u00e1"
@@ -118,6 +97,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Boyac\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u4e9e\u5361\u6e2f"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -181,7 +163,7 @@
         }
     ],
     "wof:id":421190201,
-    "wof:lastmodified":1555037084,
+    "wof:lastmodified":1561759473,
     "wof:name":"Puerto Boyac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

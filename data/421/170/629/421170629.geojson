@@ -37,10 +37,7 @@
     "name:ceb_x_preferred":[
         "Racosperma"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u5361\u897f\u4e9e\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Acac\u00edas"
     ],
     "name:eng_x_preferred":[
@@ -50,19 +47,19 @@
         "Acacias",
         "Acac\u00edas"
     ],
-    "name:fre_x_preferred":[
-        "Acac\u00edas"
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0627\u0633\u06cc\u0633"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10d0\u10e1\u10d8\u10d0\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Acac\u00edas"
     ],
     "name:ita_x_preferred":[
         "Acac\u00edas"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10d9\u10d0\u10e1\u10d8\u10d0\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Acac\u00edas"
     ],
     "name:nan_x_preferred":[
@@ -71,8 +68,8 @@
     "name:nld_x_preferred":[
         "Racosperma"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0627\u0633\u06cc\u0633"
+    "name:nld_x_variant":[
+        "Acac\u00edas"
     ],
     "name:por_x_preferred":[
         "Acac\u00edas"
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Racosperma"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5361\u897f\u4e9e\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -152,7 +152,7 @@
         }
     ],
     "wof:id":421170629,
-    "wof:lastmodified":1554488757,
+    "wof:lastmodified":1561759482,
     "wof:name":"Acac\u00edas",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

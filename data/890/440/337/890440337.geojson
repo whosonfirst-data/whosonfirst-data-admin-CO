@@ -28,17 +28,14 @@
     "name:cat_x_preferred":[
         "Villavicencio"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9a\u7ef4\u68ee\u897f\u5965"
-    ],
     "name:dan_x_preferred":[
         "Villavicencio"
     ],
     "name:deu_x_preferred":[
         "Villavicencio"
     ],
-    "name:dut_x_preferred":[
-        "Villavicencio"
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b1\u03b2\u03b9\u03ba\u03b5\u03bd\u03c4\u03c3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Villavicencio"
@@ -46,26 +43,17 @@
     "name:epo_x_preferred":[
         "Villavicencio"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u06cc\u0627\u0648\u06cc\u0633\u0646\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Villavicencio"
     ],
     "name:fra_x_preferred":[
         "Villavicencio"
     ],
-    "name:fre_x_preferred":[
-        "Villavicencio"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0\u10d5\u10d8\u10e1\u10d4\u10dc\u10e1\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Villavicencio"
-    ],
     "name:gla_x_preferred":[
         "Villavicencio"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03af\u03bb\u03b1\u03b2\u03b9\u03ba\u03b5\u03bd\u03c4\u03c3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe\u0ab5\u0abf\u0ab8\u0ac7\u0aa8\u0ab8\u0abf\u0aaf\u0acb"
@@ -106,7 +94,10 @@
     "name:mar_x_preferred":[
         "\u0935\u094d\u0939\u093f\u0932\u0932\u093e\u0935\u093f\u0938\u0928\u0938\u093f\u0913"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Villavicencio"
+    ],
+    "name:nld_x_preferred":[
         "Villavicencio"
     ],
     "name:nob_x_preferred":[
@@ -114,9 +105,6 @@
     ],
     "name:nor_x_preferred":[
         "Villavicencio"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u06cc\u06cc\u0627\u0648\u06cc\u0633\u0646\u06cc\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0644\u0627\u0648\u06cc\u06a9\u0646\u0633\u06cc\u0648"
@@ -130,7 +118,7 @@
     "name:que_x_preferred":[
         "Villavicencio"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Villavicencio"
     ],
     "name:rus_x_preferred":[
@@ -306,7 +294,7 @@
         }
     ],
     "wof:id":890440337,
-    "wof:lastmodified":1527727101,
+    "wof:lastmodified":1561759500,
     "wof:name":"Villavicencio",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

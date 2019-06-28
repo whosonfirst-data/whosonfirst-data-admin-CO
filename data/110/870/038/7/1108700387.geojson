@@ -36,28 +36,25 @@
     "name:cat_x_preferred":[
         "Marquetalia"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u514b\u5854\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Marquetalia"
-    ],
     "name:eng_x_preferred":[
         "Marquetalia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marquetalia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10d9\u10d4\u10e2\u10d0\u10da\u10d8\u10d0"
     ],
     "name:ita_x_preferred":[
         "Marquetalia"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d9\u10d4\u10e2\u10d0\u10da\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Marquetalia"
     ],
     "name:nan_x_preferred":[
+        "Marquetalia"
+    ],
+    "name:nld_x_preferred":[
         "Marquetalia"
     ],
     "name:por_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Marquetalia"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u514b\u5854\u5229\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108700387,
-    "wof:lastmodified":1555037440,
+    "wof:lastmodified":1561759339,
     "wof:name":"Marquetalia",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

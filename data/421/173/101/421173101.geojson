@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Toca"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Toca"
-    ],
     "name:eng_x_preferred":[
         "Toca"
     ],
     "name:fra_x_preferred":[
         "Toca"
     ],
-    "name:fre_x_preferred":[
-        "Toca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10d9\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Toca"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10d9\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Toca"
     ],
     "name:msa_x_preferred":[
         "Toca"
@@ -66,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Toca"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":421173101,
-    "wof:lastmodified":1527716258,
+    "wof:lastmodified":1561759458,
     "wof:name":"Toca",
     "wof:parent_id":421180105,
     "wof:placetype":"locality",

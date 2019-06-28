@@ -22,16 +22,10 @@
     "name:cat_x_preferred":[
         "Salento"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u502b\u6258"
-    ],
     "name:dan_x_preferred":[
         "Salento"
     ],
     "name:deu_x_preferred":[
-        "Salento"
-    ],
-    "name:dut_x_preferred":[
         "Salento"
     ],
     "name:ell_x_preferred":[
@@ -49,15 +43,6 @@
     "name:fra_x_preferred":[
         "Salento"
     ],
-    "name:fre_x_preferred":[
-        "Salento"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10da\u10d4\u10dc\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Salento"
-    ],
     "name:glg_x_preferred":[
         "Salento"
     ],
@@ -73,6 +58,9 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30ec\u30f3\u30c8\u534a\u5cf6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10d4\u10dc\u10e2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\uc0b4\ub80c\ud1a0 \ubc18\ub3c4"
     ],
@@ -82,7 +70,7 @@
     "name:lit_x_preferred":[
         "Salentas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Salento"
     ],
     "name:nan_x_preferred":[
@@ -133,6 +121,9 @@
     "name:zho_x_preferred":[
         "\u85a9\u862d\u6258"
     ],
+    "name:zho_x_variant":[
+        "\u85a9\u502b\u6258"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3670352,
@@ -180,7 +171,7 @@
         }
     ],
     "wof:id":421173087,
-    "wof:lastmodified":1527716259,
+    "wof:lastmodified":1561759459,
     "wof:name":"Salento",
     "wof:parent_id":421194733,
     "wof:placetype":"locality",

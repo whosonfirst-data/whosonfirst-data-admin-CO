@@ -23,9 +23,6 @@
     "name:aka_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:alb_x_preferred":[
-        "Tol\u00fa"
-    ],
     "name:aln_x_preferred":[
         "Tol\u00fa"
     ],
@@ -48,9 +45,6 @@
         "Tol\u00fa"
     ],
     "name:bam_x_preferred":[
-        "Tol\u00fa"
-    ],
-    "name:baq_x_preferred":[
         "Tol\u00fa"
     ],
     "name:bar_x_preferred":[
@@ -83,11 +77,11 @@
     "name:ceb_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:cha_x_preferred":[
+    "name:ces_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u76e7"
+    "name:cha_x_preferred":[
+        "Tol\u00fa"
     ],
     "name:cho_x_preferred":[
         "Tol\u00fa"
@@ -107,10 +101,13 @@
     "name:csb_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tol\u00fa"
     ],
     "name:dan_x_preferred":[
+        "Tol\u00fa"
+    ],
+    "name:deu_x_preferred":[
         "Tol\u00fa"
     ],
     "name:diq_x_preferred":[
@@ -120,9 +117,6 @@
         "Tol\u00fa"
     ],
     "name:dtp_x_preferred":[
-        "Tol\u00fa"
-    ],
-    "name:dut_x_preferred":[
         "Tol\u00fa"
     ],
     "name:eml_x_preferred":[
@@ -135,6 +129,9 @@
         "Tol\u00fa"
     ],
     "name:est_x_preferred":[
+        "Tol\u00fa"
+    ],
+    "name:eus_x_preferred":[
         "Tol\u00fa"
     ],
     "name:ewe_x_preferred":[
@@ -161,9 +158,6 @@
     "name:fra_x_preferred":[
         "Santiago de Tol\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Santiago de Tol\u00fa"
-    ],
     "name:frp_x_preferred":[
         "Tol\u00fa"
     ],
@@ -180,12 +174,6 @@
         "Tol\u00fa"
     ],
     "name:gag_x_preferred":[
-        "Tol\u00fa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10da\u10e3"
-    ],
-    "name:ger_x_preferred":[
         "Tol\u00fa"
     ],
     "name:gla_x_preferred":[
@@ -239,9 +227,6 @@
     "name:ibo_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:ice_x_preferred":[
-        "Tol\u00fa"
-    ],
     "name:ido_x_preferred":[
         "Tol\u00fa"
     ],
@@ -261,6 +246,9 @@
         "Tol\u00fa"
     ],
     "name:ipk_x_preferred":[
+        "Tol\u00fa"
+    ],
+    "name:isl_x_preferred":[
         "Tol\u00fa"
     ],
     "name:ita_x_preferred":[
@@ -356,16 +344,13 @@
     "name:lzz_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:mao_x_preferred":[
-        "Tol\u00fa"
-    ],
-    "name:may_x_preferred":[
-        "Tol\u00fa"
-    ],
     "name:min_x_preferred":[
         "Tol\u00fa"
     ],
     "name:mlt_x_preferred":[
+        "Tol\u00fa"
+    ],
+    "name:mri_x_preferred":[
         "Tol\u00fa"
     ],
     "name:msa_x_preferred":[
@@ -400,6 +385,9 @@
     ],
     "name:nld_x_preferred":[
         "Santiago de Tol\u00fa"
+    ],
+    "name:nld_x_variant":[
+        "Tol\u00fa"
     ],
     "name:nno_x_preferred":[
         "Tol\u00fa"
@@ -440,9 +428,6 @@
     "name:pdt_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0644\u0648"
-    ],
     "name:pfl_x_preferred":[
         "Tol\u00fa"
     ],
@@ -473,7 +458,7 @@
     "name:roh_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tol\u00fa"
     ],
     "name:run_x_preferred":[
@@ -515,7 +500,7 @@
     "name:sli_x_preferred":[
         "Tol\u00fa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tol\u00fa"
     ],
     "name:slv_x_preferred":[
@@ -540,6 +525,9 @@
         "Tol\u00fa"
     ],
     "name:spa_x_preferred":[
+        "Tol\u00fa"
+    ],
+    "name:sqi_x_preferred":[
         "Tol\u00fa"
     ],
     "name:srd_x_preferred":[
@@ -621,9 +609,6 @@
         "Tol\u00fa"
     ],
     "name:war_x_preferred":[
-        "Tol\u00fa"
-    ],
-    "name:wel_x_preferred":[
         "Tol\u00fa"
     ],
     "name:wln_x_preferred":[
@@ -790,7 +775,7 @@
         }
     ],
     "wof:id":421169551,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1561759440,
     "wof:name":"Tol\u00fa",
     "wof:parent_id":421168313,
     "wof:placetype":"locality",

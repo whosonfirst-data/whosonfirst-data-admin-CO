@@ -13,25 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u91cc\u85a9\u62c9\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "Risaralda"
-    ],
     "name:eng_x_preferred":[
         "Risaralda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Risaralda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d8\u10e1\u10d0\u10e0\u10d0\u10da\u10d3\u10d0"
     ],
     "name:ita_x_preferred":[
         "Risaralda"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e0\u10d8\u10e1\u10d0\u10e0\u10d0\u10da\u10d3\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Risaralda"
     ],
     "name:nan_x_preferred":[
@@ -60,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Risaralda"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u85a9\u62c9\u9054"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -108,7 +105,7 @@
         }
     ],
     "wof:id":421179469,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561759491,
     "wof:name":"Risaralda",
     "wof:parent_id":421188649,
     "wof:placetype":"locality",

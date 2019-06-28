@@ -25,13 +25,7 @@
     "name:ceb_x_preferred":[
         "Lebrija"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u592b\u91cc\u54c8"
-    ],
     "name:deu_x_preferred":[
-        "Lebrija"
-    ],
-    "name:dut_x_preferred":[
         "Lebrija"
     ],
     "name:eng_x_preferred":[
@@ -40,19 +34,13 @@
     "name:eus_x_preferred":[
         "Lebrija"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0628\u0631\u06cc\u062e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lebrija"
     ],
     "name:fra_x_preferred":[
-        "Lebrija"
-    ],
-    "name:fre_x_preferred":[
-        "Lebrija"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10d1\u10d4\u10e0\u10d8\u10ee\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Lebrija"
     ],
     "name:glg_x_preferred":[
@@ -73,14 +61,14 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30d6\u30ea\u30cf"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d1\u10d4\u10e0\u10d8\u10ee\u10d0"
+    ],
     "name:kaz_x_preferred":[
         "\u041b\u0435\u0431\u0440\u0438\u0445\u0430"
     ],
     "name:lat_x_preferred":[
         "Veneria"
-    ],
-    "name:may_x_preferred":[
-        "Lebrija"
     ],
     "name:msa_x_preferred":[
         "Lebrija"
@@ -93,9 +81,6 @@
     ],
     "name:oci_x_preferred":[
         "Lebrija"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0628\u0631\u06cc\u062e\u0627"
     ],
     "name:pol_x_preferred":[
         "Lebrija"
@@ -138,6 +123,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83b1\u592b\u91cc\u54c8"
+    ],
+    "name:zho_x_variant":[
+        "\u840a\u592b\u91cc\u54c8"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -186,7 +174,7 @@
         }
     ],
     "wof:id":421169561,
-    "wof:lastmodified":1553816358,
+    "wof:lastmodified":1561759440,
     "wof:name":"Lebrija",
     "wof:parent_id":1108701287,
     "wof:placetype":"locality",

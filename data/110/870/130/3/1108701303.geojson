@@ -33,28 +33,25 @@
     "mps:longitude":-73.118595,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5967\u5361\u8499\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Ocamonte"
-    ],
     "name:eng_x_preferred":[
         "Ocamonte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ocamonte"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10d9\u10d0\u10db\u10dd\u10dc\u10e2\u10d4"
     ],
     "name:ita_x_preferred":[
         "Ocamonte"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10dd\u10d9\u10d0\u10db\u10dd\u10dc\u10e2\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "Ocamonte"
     ],
     "name:nan_x_preferred":[
+        "Ocamonte"
+    ],
+    "name:nld_x_preferred":[
         "Ocamonte"
     ],
     "name:spa_x_preferred":[
@@ -71,6 +68,9 @@
     ],
     "name:war_x_preferred":[
         "Ocamonte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u5361\u8499\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108701303,
-    "wof:lastmodified":1554489333,
+    "wof:lastmodified":1561759368,
     "wof:name":"Ocamonte",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

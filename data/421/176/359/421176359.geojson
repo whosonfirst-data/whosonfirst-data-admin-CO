@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Solano"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u62c9\u8afe"
-    ],
-    "name:dut_x_preferred":[
-        "Solano"
-    ],
     "name:eng_x_preferred":[
         "Solano"
     ],
     "name:fra_x_preferred":[
-        "Solano"
-    ],
-    "name:fre_x_preferred":[
         "Solano"
     ],
     "name:ita_x_preferred":[
@@ -36,9 +27,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30e9\u30fc\u30ce"
-    ],
-    "name:may_x_preferred":[
-        "Solano"
     ],
     "name:msa_x_preferred":[
         "Solano"
@@ -66,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Solano"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u62c9\u8afe"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421176359,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561759496,
     "wof:name":"Solano",
     "wof:parent_id":1108700425,
     "wof:placetype":"locality",

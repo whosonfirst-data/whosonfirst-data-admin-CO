@@ -16,23 +16,14 @@
     "name:cat_x_preferred":[
         "Su\u00e1rez"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u963f\u96f7\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Su\u00e1rez"
-    ],
-    "name:dut_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:eng_x_preferred":[
         "Su\u00e1rez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Su\u00e1rez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10d0\u10e0\u10d4\u10e1\u10d8"
     ],
     "name:glg_x_preferred":[
         "Su\u00e1rez"
@@ -40,10 +31,16 @@
     "name:ita_x_preferred":[
         "Su\u00e1rez"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10d0\u10e0\u10d4\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:nan_x_preferred":[
+        "Su\u00e1rez"
+    ],
+    "name:nld_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:spa_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Su\u00e1rez"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u963f\u96f7\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421201839,
-    "wof:lastmodified":1527716441,
+    "wof:lastmodified":1561759478,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":1108701471,
     "wof:placetype":"locality",

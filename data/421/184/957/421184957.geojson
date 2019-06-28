@@ -34,29 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u514b\u5854\u6885"
-    ],
-    "name:dut_x_preferred":[
-        "Quetame"
-    ],
     "name:eng_x_preferred":[
         "Quetame"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Quetame"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d4\u10e2\u10d0\u10db\u10d4"
     ],
     "name:ita_x_preferred":[
         "Quetame"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10d4\u10e2\u10d0\u10db\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "Quetame"
     ],
     "name:nan_x_preferred":[
         "Qu\u00e9tame"
+    ],
+    "name:nld_x_preferred":[
+        "Quetame"
     ],
     "name:sco_x_preferred":[
         "Quetame"
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Quetame"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u5854\u6885"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":421184957,
-    "wof:lastmodified":1554488950,
+    "wof:lastmodified":1561759479,
     "wof:name":"Quetame",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

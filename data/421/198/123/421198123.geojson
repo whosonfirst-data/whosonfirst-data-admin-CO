@@ -20,28 +20,19 @@
     "name:cat_x_preferred":[
         "Girardot"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u62c9\u723e\u591a\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Girardot"
-    ],
-    "name:dut_x_preferred":[
         "Girardot"
     ],
     "name:eng_x_preferred":[
         "Girardot"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u06cc\u0631\u0627\u0631\u062f\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Girardot"
     ],
-    "name:fre_x_preferred":[
-        "Girardot"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d8\u10e0\u10d0\u10e0\u10d3\u10dd\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Girardot"
     ],
     "name:gla_x_preferred":[
@@ -56,14 +47,17 @@
     "name:jpn_x_preferred":[
         "\u30d2\u30e9\u30eb\u30c9"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10e0\u10d0\u10e0\u10d3\u10dd\u10e2\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Girardot"
     ],
     "name:nan_x_preferred":[
         "Girardot"
     ],
-    "name:per_x_preferred":[
-        "\u062e\u06cc\u0631\u0627\u0631\u062f\u0648\u062a"
+    "name:nld_x_preferred":[
+        "Girardot"
     ],
     "name:pol_x_preferred":[
         "Girardot"
@@ -85,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Girardot"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u62c9\u723e\u591a\u7279"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -224,7 +221,7 @@
         }
     ],
     "wof:id":421198123,
-    "wof:lastmodified":1513942174,
+    "wof:lastmodified":1561759470,
     "wof:name":"Girardot",
     "wof:parent_id":421172115,
     "wof:placetype":"locality",

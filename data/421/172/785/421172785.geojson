@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Sincelejo"
     ],
-    "name:chi_x_preferred":[
-        "\u8f9b\u585e\u840a\u970d"
-    ],
     "name:dan_x_preferred":[
         "Sincelejo"
     ],
     "name:deu_x_preferred":[
         "Sincelejo"
     ],
-    "name:dut_x_preferred":[
-        "Sincelejo"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bd\u03ba\u03b5\u03bb\u03ad\u03c4\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
         "Sincelejo"
@@ -53,20 +50,8 @@
     "name:fra_x_preferred":[
         "Sincelejo"
     ],
-    "name:fre_x_preferred":[
-        "Sincelejo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e1\u10d4\u10da\u10d4\u10ee\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Sincelejo"
-    ],
     "name:gla_x_preferred":[
         "Sincelejo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03bd\u03ba\u03b5\u03bb\u03ad\u03c4\u03b6\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aa8\u0acd\u0a95\u0ac7\u0a9c\u0ac7\u0ab2\u0acb"
@@ -101,9 +86,6 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u0938\u0947\u0932\u093e\u091c\u094b"
     ],
-    "name:may_x_preferred":[
-        "Sincelejo"
-    ],
     "name:msa_x_preferred":[
         "Sincelejo"
     ],
@@ -121,9 +103,6 @@
     ],
     "name:nor_x_preferred":[
         "Sincelejo"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0633\u0644\u062e\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0646\u0633\u06cc\u0644\u06cc\u0648"
@@ -324,7 +303,7 @@
         }
     ],
     "wof:id":421172785,
-    "wof:lastmodified":1513943674,
+    "wof:lastmodified":1561759463,
     "wof:name":"Sincelejo",
     "wof:parent_id":421170639,
     "wof:placetype":"locality",

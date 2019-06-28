@@ -17,25 +17,19 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u064a\u0627\u0631\u0648\u0645\u0627\u0644"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u9b6f\u99ac\u723e"
-    ],
     "name:dan_x_preferred":[
         "Yarumal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yarumal"
     ],
     "name:eng_x_preferred":[
         "Yarumal"
     ],
-    "name:fre_x_preferred":[
-        "Yarumal"
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0631\u0648\u0645\u0627\u0644"
     ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10e0\u10e3\u10db\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yarumal"
     ],
     "name:ile_x_preferred":[
@@ -44,22 +38,25 @@
     "name:ita_x_preferred":[
         "Yarumal"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10d0\u10e0\u10e3\u10db\u10d0\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc57c\ub8e8\ub9d0"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yarumal"
     ],
     "name:nan_x_preferred":[
         "Yarumal"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0627\u0631\u0648\u0645\u0627\u0644"
+    "name:nld_x_preferred":[
+        "Yarumal"
     ],
     "name:por_x_preferred":[
         "Yarumal"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yarumal"
     ],
     "name:rus_x_preferred":[
@@ -79,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Yarumal"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u9b6f\u99ac\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1141907581,
-    "wof:lastmodified":1513944215,
+    "wof:lastmodified":1561759590,
     "wof:name":"Yarumal",
     "wof:parent_id":1108700043,
     "wof:placetype":"locality",

@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Sotomayor"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u5b89\u7b2c\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Los Andes"
-    ],
     "name:eng_x_preferred":[
         "Los Andes"
     ],
     "name:fra_x_preferred":[
         "Los Andes Sotomayor"
-    ],
-    "name:fre_x_preferred":[
-        "Los Andes Sotomayor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d3\u10d4\u10e1\u10d8"
     ],
     "name:ita_x_preferred":[
         "Los Andes"
@@ -40,10 +28,10 @@
     "name:kat_x_preferred":[
         "\u10da\u10dd\u10e1-\u10d0\u10dc\u10d3\u10d4\u10e1\u10d8"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Los Andes"
     ],
-    "name:msa_x_preferred":[
+    "name:nld_x_preferred":[
         "Los Andes"
     ],
     "name:por_x_preferred":[
@@ -66,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Los Andes"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5b89\u7b2c\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -114,7 +105,7 @@
         }
     ],
     "wof:id":421173449,
-    "wof:lastmodified":1513943710,
+    "wof:lastmodified":1561759458,
     "wof:name":"Sotomayor",
     "wof:parent_id":1108701033,
     "wof:placetype":"locality",

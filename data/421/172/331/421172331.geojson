@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Mapirip\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u76ae\u91cc\u6f58"
-    ],
-    "name:dut_x_preferred":[
-        "Mapirip\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Mapirip\u00e1n"
     ],
     "name:fra_x_preferred":[
         "Mapirip\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Mapirip\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10de\u10d8\u10e0\u10d8\u10de\u10d0\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "Mapirip\u00e1n"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10de\u10d8\u10e0\u10d8\u10de\u10d0\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Mapirip\u00e1n"
     ],
     "name:msa_x_preferred":[
         "Mapirip\u00e1n"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Mapirip\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u76ae\u91cc\u6f58"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421172331,
-    "wof:lastmodified":1527716299,
+    "wof:lastmodified":1561759463,
     "wof:name":"Mapiripan",
     "wof:parent_id":1108700941,
     "wof:placetype":"locality",

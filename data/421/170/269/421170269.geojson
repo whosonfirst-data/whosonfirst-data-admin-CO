@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "F\u00faquene"
     ],
-    "name:chi_x_preferred":[
-        "\u5bcc\u514b\u5167"
-    ],
-    "name:dut_x_preferred":[
-        "F\u00faquene"
-    ],
     "name:eng_x_preferred":[
         "F\u00faquene"
     ],
@@ -53,20 +47,11 @@
     "name:fra_x_preferred":[
         "F\u00faquene"
     ],
-    "name:fre_x_preferred":[
-        "F\u00faquene"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10e3\u10d9\u10d4\u10dc\u10d4"
-    ],
     "name:ita_x_preferred":[
         "F\u00faquene"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10e3\u10d9\u10d4\u10dc\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "F\u00faquene"
     ],
     "name:msa_x_preferred":[
         "F\u00faquene"
@@ -94,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "F\u00faquene"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u514b\u5167"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -157,7 +145,7 @@
         }
     ],
     "wof:id":421170269,
-    "wof:lastmodified":1554488752,
+    "wof:lastmodified":1561759483,
     "wof:name":"F\u00faquene",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

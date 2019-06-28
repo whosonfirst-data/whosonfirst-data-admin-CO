@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0633\u062a\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Pasto"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09a6\u09cd\u09af \u09aa\u09cd\u09af\u09be\u09b8\u09a4\u09cb"
     ],
@@ -31,17 +28,14 @@
     "name:cat_x_preferred":[
         "San Juan de Pasto"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u65af\u6258"
-    ],
     "name:dan_x_preferred":[
         "San Juan de Pasto"
     ],
     "name:deu_x_preferred":[
         "Pasto"
     ],
-    "name:dut_x_preferred":[
-        "Pasto"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03b4\u03b5 \u03a0\u03ac\u03c3\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Pasto"
@@ -55,26 +49,20 @@
     "name:eus_x_preferred":[
         "Pasto"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0633\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Pasto"
     ],
     "name:fra_x_preferred":[
         "Pasto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "San Juan de Pasto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e1\u10e2\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Pasto"
     ],
     "name:gla_x_preferred":[
         "Pasto"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03b4\u03b5 \u03a0\u03ac\u03c3\u03c4\u03bf"
     ],
     "name:gsw_x_preferred":[
         "Pasto"
@@ -103,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0c9c\u0cc1\u0cb5\u0cbe\u0ca8\u0ccd \u0ca1\u0cbf \u0caa\u0cbe\u0cb8\u0ccd\u0c9f\u0ccb"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e1\u10e2\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\uc2a4\ud1a0"
     ],
@@ -115,10 +106,13 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u091c\u0941\u0906\u0928 \u0921\u093f \u092a\u093e\u0938\u094d\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pasto"
     ],
     "name:nah_x_preferred":[
+        "Pasto"
+    ],
+    "name:nld_x_preferred":[
         "Pasto"
     ],
     "name:nob_x_preferred":[
@@ -126,9 +120,6 @@
     ],
     "name:nor_x_preferred":[
         "Pasto"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0633\u062a\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0633\u062a\u0648"
@@ -186,6 +177,9 @@
     ],
     "name:war_x_preferred":[
         "San Juan de Pasto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u65af\u6258"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -315,7 +309,7 @@
         }
     ],
     "wof:id":890444953,
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1561759502,
     "wof:name":"Pasto",
     "wof:parent_id":421179665,
     "wof:placetype":"locality",

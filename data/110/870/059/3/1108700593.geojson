@@ -36,35 +36,32 @@
     "name:cat_x_preferred":[
         "Puerto Libertador"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u4f2f\u5854\u5fb7\u6e2f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Libertador"
     ],
     "name:eng_x_preferred":[
         "Puerto Libertador"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Libertador"
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0644\u06cc\u0628\u0631\u062a\u0627\u062f\u0648\u0631"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Libertador"
     ],
     "name:ita_x_preferred":[
         "Puerto Libertador"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10d8\u10d1\u10d4\u10e0\u10e2\u10d0\u10d3\u10dd\u10e0\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Puerto Libertador"
     ],
     "name:nan_x_preferred":[
         "Puerto Libertador"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0648 \u0644\u06cc\u0628\u0631\u062a\u0627\u062f\u0648\u0631"
+    "name:nld_x_preferred":[
+        "Puerto Libertador"
     ],
     "name:por_x_preferred":[
         "Puerto Libertador"
@@ -83,6 +80,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Libertador"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4f2f\u5854\u5fb7\u6e2f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1108700593,
-    "wof:lastmodified":1554489296,
+    "wof:lastmodified":1561759382,
     "wof:name":"Puerto Libertador",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

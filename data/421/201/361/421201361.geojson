@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Tota"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u5854"
-    ],
     "name:deu_x_preferred":[
-        "Tota"
-    ],
-    "name:dut_x_preferred":[
         "Tota"
     ],
     "name:eng_x_preferred":[
@@ -31,23 +25,11 @@
     "name:fra_x_preferred":[
         "Tota"
     ],
-    "name:fre_x_preferred":[
-        "Tota"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tota"
-    ],
     "name:ita_x_preferred":[
         "Tota"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10dd\u10e2\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Tota"
     ],
     "name:msa_x_preferred":[
         "Tota"
@@ -78,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Tota"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -127,7 +112,7 @@
         }
     ],
     "wof:id":421201361,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561759477,
     "wof:name":"Tota",
     "wof:parent_id":421172403,
     "wof:placetype":"locality",
