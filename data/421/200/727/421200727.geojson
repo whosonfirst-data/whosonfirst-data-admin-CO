@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Choach\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u963f\u5947"
-    ],
-    "name:dut_x_preferred":[
-        "Choach\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Choach\u00ed"
     ],
@@ -53,20 +47,11 @@
     "name:fra_x_preferred":[
         "Choach\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Choach\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10d0\u10e9\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Choach\u00ed"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10dd\u10d0\u10e9\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Choach\u00ed"
     ],
     "name:msa_x_preferred":[
         "Choach\u00ed"
@@ -94,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Choach\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u963f\u5947"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -144,7 +132,7 @@
         }
     ],
     "wof:id":421200727,
-    "wof:lastmodified":1554489030,
+    "wof:lastmodified":1561759476,
     "wof:name":"Choach\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

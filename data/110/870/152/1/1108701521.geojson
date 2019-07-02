@@ -36,22 +36,16 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0432\u0435\u043d\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u97cb\u7d0d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saravena"
     ],
     "name:eng_x_preferred":[
         "Saravena"
     ],
-    "name:fre_x_preferred":[
-        "Saravena"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0631\u0627\u0648\u0646\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e0\u10d0\u10d5\u10d4\u10dc\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Saravena"
     ],
     "name:ita_x_preferred":[
@@ -60,17 +54,20 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30e9\u30d9\u30ca"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10e0\u10d0\u10d5\u10d4\u10dc\u10d0"
+    ],
     "name:lit_x_preferred":[
         "Saravena"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saravena"
     ],
     "name:nan_x_preferred":[
         "Saravena"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0631\u0627\u0648\u0646\u0627"
+    "name:nld_x_preferred":[
+        "Saravena"
     ],
     "name:por_x_preferred":[
         "Saravena"
@@ -89,6 +86,9 @@
     ],
     "name:war_x_preferred":[
         "Saravena"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u62c9\u97cb\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":1108701521,
-    "wof:lastmodified":1554489345,
+    "wof:lastmodified":1561759364,
     "wof:name":"Saravena",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

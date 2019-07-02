@@ -13,28 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u99ac\u723e\u99ac\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Marmato"
-    ],
     "name:eng_x_preferred":[
         "Marmato"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Marmato"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10e0\u10db\u10d0\u10e2\u10dd"
     ],
     "name:ita_x_preferred":[
         "Marmato"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10db\u10d0\u10e2\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Marmato"
     ],
     "name:nan_x_preferred":[
+        "Marmato"
+    ],
+    "name:nld_x_preferred":[
         "Marmato"
     ],
     "name:por_x_preferred":[
@@ -54,6 +51,9 @@
     ],
     "name:war_x_preferred":[
         "Marmato"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u99ac\u6258"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":421202897,
-    "wof:lastmodified":1527716212,
+    "wof:lastmodified":1561759450,
     "wof:name":"Marmato",
     "wof:parent_id":1108700385,
     "wof:placetype":"locality",

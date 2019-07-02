@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Pizarro"
     ],
-    "name:chi_x_preferred":[
-        "\u4e0b\u9b91\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Bajo Baud\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Bajo Baud\u00f3"
     ],
     "name:fra_x_preferred":[
         "Bajo Baud\u00f3"
     ],
-    "name:fre_x_preferred":[
-        "Bajo Baud\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10ee\u10dd-\u10d1\u10d0\u10e3\u10d3\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Bajo Baud\u00f3"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10ee\u10dd-\u10d1\u10d0\u10e3\u10d3\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Bajo Baud\u00f3"
     ],
     "name:msa_x_preferred":[
         "Bajo Baud\u00f3"
@@ -75,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Bajo Baud\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9b91\u591a"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -123,7 +111,7 @@
         }
     ],
     "wof:id":421205315,
-    "wof:lastmodified":1513943122,
+    "wof:lastmodified":1561759451,
     "wof:name":"Pizarro",
     "wof:parent_id":1108700749,
     "wof:placetype":"locality",

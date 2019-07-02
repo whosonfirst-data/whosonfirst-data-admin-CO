@@ -33,35 +33,32 @@
     "mps:longitude":-73.827021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7dad\u723e\u5207\u65af\u6e2f"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Wilches"
     ],
     "name:eng_x_preferred":[
         "Puerto Wilches"
     ],
-    "name:fre_x_preferred":[
-        "Puerto Wilches"
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0648\u06cc\u0644\u0686\u0633"
     ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d8\u10da\u10e9\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Wilches"
     ],
     "name:ita_x_preferred":[
         "Puerto Wilches"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10d5\u10d8\u10da\u10e9\u10d4\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Puerto Wilches"
     ],
     "name:nan_x_preferred":[
         "Puerto Wilches"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0631\u062a\u0648 \u0648\u06cc\u0644\u0686\u0633"
+    "name:nld_x_preferred":[
+        "Puerto Wilches"
     ],
     "name:spa_x_preferred":[
         "Puerto Wilches"
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto Wilches"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u723e\u5207\u65af\u6e2f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108701325,
-    "wof:lastmodified":1555037379,
+    "wof:lastmodified":1561759317,
     "wof:name":"Puerto Wilches",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

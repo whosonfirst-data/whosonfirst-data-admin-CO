@@ -19,23 +19,11 @@
     "name:ceb_x_preferred":[
         "Valpara\u00edso"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u723e\u5e15\u840a\u7d22"
-    ],
-    "name:dut_x_preferred":[
-        "Valpara\u00edso"
-    ],
     "name:eng_x_preferred":[
         "Valpara\u00edso"
     ],
     "name:fra_x_preferred":[
         "Valpara\u00edso"
-    ],
-    "name:fre_x_preferred":[
-        "Valpara\u00edso"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d0\u10da\u10de\u10d0\u10e0\u10d0\u10d8\u10e1\u10dd"
     ],
     "name:ile_x_preferred":[
         "Valpara\u00edso"
@@ -45,9 +33,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d5\u10d0\u10da\u10de\u10d0\u10e0\u10d0\u10d8\u10e1\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Valpara\u00edso"
     ],
     "name:msa_x_preferred":[
         "Valpara\u00edso"
@@ -61,7 +46,7 @@
     "name:por_x_preferred":[
         "Valpara\u00edso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Valpara\u00edso"
     ],
     "name:rus_x_preferred":[
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Valpara\u00edso"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u723e\u5e15\u840a\u7d22"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":421201823,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1561759478,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":1108700033,
     "wof:placetype":"locality",

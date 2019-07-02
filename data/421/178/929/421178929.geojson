@@ -17,28 +17,25 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062a\u0648 \u0644\u0648\u0628\u064a\u0632\u060c \u0645\u064a\u062a\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u4f69\u65af\u6e2f"
-    ],
-    "name:dut_x_preferred":[
-        "Puerto L\u00f3pez"
-    ],
     "name:eng_x_preferred":[
         "Puerto L\u00f3pez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto L\u00f3pez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10dd\u10de\u10d4\u10e1\u10d8"
     ],
     "name:ita_x_preferred":[
         "Puerto L\u00f3pez"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10dd\u10de\u10d4\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Puerto L\u00f3pez"
     ],
     "name:nan_x_preferred":[
+        "Puerto L\u00f3pez"
+    ],
+    "name:nld_x_preferred":[
         "Puerto L\u00f3pez"
     ],
     "name:por_x_preferred":[
@@ -58,6 +55,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto L\u00f3pez"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f69\u65af\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -197,7 +197,7 @@
         }
     ],
     "wof:id":421178929,
-    "wof:lastmodified":1513943214,
+    "wof:lastmodified":1561759492,
     "wof:name":"Puerto L\u00f3pez",
     "wof:parent_id":421179663,
     "wof:placetype":"locality",

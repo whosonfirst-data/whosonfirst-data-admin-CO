@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Vergara"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u723e\u52a0\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Vergara"
-    ],
-    "name:dut_x_preferred":[
         "Vergara"
     ],
     "name:eng_x_preferred":[
@@ -34,16 +28,13 @@
     "name:fra_x_preferred":[
         "Vergara"
     ],
-    "name:fre_x_preferred":[
-        "Vergara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d4\u10e0\u10d2\u10d0\u10e0\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Vergara"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d5\u10d4\u10e0\u10d2\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Vergara"
     ],
     "name:nan_x_preferred":[
@@ -72,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Vergara"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u723e\u52a0\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +114,7 @@
         }
     ],
     "wof:id":421168243,
-    "wof:lastmodified":1527716092,
+    "wof:lastmodified":1561759432,
     "wof:name":"Vergara",
     "wof:parent_id":1108700727,
     "wof:placetype":"locality",

@@ -17,32 +17,17 @@
     "name:ceb_x_preferred":[
         "San Jos\u00e9"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e"
-    ],
-    "name:dut_x_preferred":[
-        "San Jos\u00e9"
-    ],
     "name:eng_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:fra_x_preferred":[
         "San Jos\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "San Jos\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
-    ],
     "name:ita_x_preferred":[
         "San Jos\u00e9"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10dd\u10e1\u10d4"
-    ],
-    "name:may_x_preferred":[
-        "San Jos\u00e9"
     ],
     "name:msa_x_preferred":[
         "San Jos\u00e9"
@@ -70,6 +55,9 @@
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Costa Rica",
@@ -211,7 +199,7 @@
         }
     ],
     "wof:id":421176367,
-    "wof:lastmodified":1527726474,
+    "wof:lastmodified":1561759496,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108700395,
     "wof:placetype":"locality",

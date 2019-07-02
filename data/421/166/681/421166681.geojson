@@ -37,13 +37,7 @@
     "name:ceb_x_preferred":[
         "Casabianca"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u85a9\u7dad\u5b89\u5361"
-    ],
     "name:deu_x_preferred":[
-        "Casabianca"
-    ],
-    "name:dut_x_preferred":[
         "Casabianca"
     ],
     "name:eng_x_preferred":[
@@ -51,12 +45,6 @@
     ],
     "name:fra_x_preferred":[
         "Casabianca"
-    ],
-    "name:fre_x_preferred":[
-        "Casabianca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e1\u10d0\u10d1\u10d8\u10d0\u10dc\u10d9\u10d0"
     ],
     "name:hbs_x_preferred":[
         "Casabianca"
@@ -67,7 +55,10 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30b5\u30d3\u30a2\u30f3\u30ab"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e1\u10d0\u10d1\u10d8\u10d0\u10dc\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Casabianca"
     ],
     "name:nan_x_preferred":[
@@ -87,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Casabianca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u85a9\u7dad\u5b89\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -149,7 +143,7 @@
         }
     ],
     "wof:id":421166681,
-    "wof:lastmodified":1554488745,
+    "wof:lastmodified":1561759433,
     "wof:name":"Casabianca",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

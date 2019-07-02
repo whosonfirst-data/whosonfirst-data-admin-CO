@@ -13,20 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5b89\u6208\u65af\u5716\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Angostura"
-    ],
     "name:eng_x_preferred":[
         "Angostura"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Angostura"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10d2\u10dd\u10e1\u10e2\u10e3\u10e0\u10d0"
     ],
     "name:gla_x_preferred":[
         "Angostura"
@@ -37,16 +28,22 @@
     "name:ita_x_preferred":[
         "Angostura"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10dc\u10d2\u10dd\u10e1\u10e2\u10e3\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Angostura"
     ],
     "name:nan_x_preferred":[
         "Angostura"
     ],
+    "name:nld_x_preferred":[
+        "Angostura"
+    ],
     "name:por_x_preferred":[
         "Angostura"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Angostura"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Angostura"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6208\u65af\u5716\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":421198823,
-    "wof:lastmodified":1513941261,
+    "wof:lastmodified":1561759470,
     "wof:name":"Angostura",
     "wof:parent_id":1108699907,
     "wof:placetype":"locality",

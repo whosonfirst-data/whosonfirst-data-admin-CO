@@ -18,12 +18,6 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u0576\u057f\u0561 \u0544\u0561\u0580\u057f\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Santa Marta"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0442\u0430"
     ],
@@ -36,23 +30,26 @@
     "name:cat_x_preferred":[
         "Santa Marta"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u739b\u5c14\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Santa Marta"
     ],
     "name:dan_x_preferred":[
         "Santa Marta"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Santa Marta"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039c\u03ac\u03c1\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Santa Marta"
     ],
     "name:epo_x_preferred":[
         "Sankta Marta"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Marta"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u062a\u0627"
@@ -63,20 +60,8 @@
     "name:fra_x_preferred":[
         "Santa Marta"
     ],
-    "name:fre_x_preferred":[
-        "Santa Marta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10db\u10d0\u10e0\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Santa Marta"
-    ],
     "name:gla_x_preferred":[
         "Santa Marta"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039c\u03ac\u03c1\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8\u0acd\u0aa4\u0abe \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abe"
@@ -89,6 +74,9 @@
     ],
     "name:hun_x_preferred":[
         "Santa Marta"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0544\u0561\u0580\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Santa Marta"
@@ -117,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u0938\u093e\u0902\u0924\u093e \u092e\u093e\u0930\u094d\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Santa Marta"
     ],
     "name:nah_x_preferred":[
@@ -126,14 +114,14 @@
     "name:nan_x_preferred":[
         "Santa Marta"
     ],
+    "name:nld_x_preferred":[
+        "Santa Marta"
+    ],
     "name:nno_x_preferred":[
         "Santa Marta"
     ],
     "name:nob_x_preferred":[
         "Santa Marta"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u062a\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u062a\u0627"
@@ -147,7 +135,7 @@
     "name:que_x_preferred":[
         "Santa Marta"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Santa Marta"
     ],
     "name:rus_x_preferred":[
@@ -249,7 +237,7 @@
         }
     ],
     "wof:id":421187335,
-    "wof:lastmodified":1534379258,
+    "wof:lastmodified":1561759457,
     "wof:name":"Santa Marta",
     "wof:parent_id":1108700871,
     "wof:placetype":"locality",

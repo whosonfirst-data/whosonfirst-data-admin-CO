@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Pisba"
     ],
-    "name:chi_x_preferred":[
-        "\u76ae\u65af\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Pisba"
-    ],
     "name:eng_x_preferred":[
         "Pisba"
     ],
     "name:fra_x_preferred":[
         "Pisba"
     ],
-    "name:fre_x_preferred":[
-        "Pisba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d8\u10e1\u10d1\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Pisba"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10e1\u10d1\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Pisba"
     ],
     "name:msa_x_preferred":[
         "Pisba"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Pisba"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u65af\u74e6"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421169803,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1561759440,
     "wof:name":"Pisba",
     "wof:parent_id":1108700299,
     "wof:placetype":"locality",

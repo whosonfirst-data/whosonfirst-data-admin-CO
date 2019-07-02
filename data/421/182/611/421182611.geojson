@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "N\u00f3vita"
     ],
-    "name:chi_x_preferred":[
-        "\u8afe\u7dad\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "N\u00f3vita"
-    ],
     "name:eng_x_preferred":[
         "N\u00f3vita"
     ],
     "name:fra_x_preferred":[
         "N\u00f3vita"
-    ],
-    "name:fre_x_preferred":[
-        "N\u00f3vita"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10dd\u10d5\u10d8\u10e2\u10d0"
     ],
     "name:gla_x_preferred":[
         "N\u00f3vita"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10dd\u10d5\u10d8\u10e2\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "N\u00f3vita"
     ],
     "name:msa_x_preferred":[
         "N\u00f3vita"
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "N\u00f3vita"
+    ],
+    "name:zho_x_preferred":[
+        "\u8afe\u7dad\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":421182611,
-    "wof:lastmodified":1527726431,
+    "wof:lastmodified":1561759493,
     "wof:name":"N\u00f3vita",
     "wof:parent_id":1108700781,
     "wof:placetype":"locality",

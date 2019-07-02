@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Qu\u00edpama"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5e15\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Qu\u00edpama"
-    ],
     "name:eng_x_preferred":[
         "Qu\u00edpama"
     ],
     "name:fra_x_preferred":[
         "Qu\u00edpama"
-    ],
-    "name:fre_x_preferred":[
-        "Qu\u00edpama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10de\u10d0\u10db\u10d0"
     ],
     "name:ita_x_preferred":[
         "Qu\u00edpama"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10de\u10d0\u10db\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Quipama"
     ],
     "name:msa_x_preferred":[
         "Quipama"
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Quipama"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5e15\u99ac"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -127,7 +115,7 @@
         }
     ],
     "wof:id":421179619,
-    "wof:lastmodified":1527717703,
+    "wof:lastmodified":1561759489,
     "wof:name":"Quipama",
     "wof:parent_id":1108700301,
     "wof:placetype":"locality",

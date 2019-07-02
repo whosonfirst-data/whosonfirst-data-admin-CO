@@ -16,13 +16,10 @@
     "name:ceb_x_preferred":[
         "Ramiriqu\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7c73\u91cc\u57fa"
-    ],
     "name:dan_x_preferred":[
         "Ramiriqu\u00ed"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramiriqu\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -32,15 +29,6 @@
         "Ramiriqu\u00ed"
     ],
     "name:fra_x_preferred":[
-        "Ramiriqu\u00ed"
-    ],
-    "name:fre_x_preferred":[
-        "Ramiriqu\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d0\u10db\u10d8\u10e0\u10d8\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Ramiriqu\u00ed"
     ],
     "name:gla_x_preferred":[
@@ -54,9 +42,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10db\u10d8\u10e0\u10d8\u10d9\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Ramiriqu\u00ed"
     ],
     "name:msa_x_preferred":[
         "Ramiriqu\u00ed"
@@ -96,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Ramiriqu\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7c73\u91cc\u57fa"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -145,7 +133,7 @@
         }
     ],
     "wof:id":421179475,
-    "wof:lastmodified":1527717711,
+    "wof:lastmodified":1561759490,
     "wof:name":"Ramiriqu\u00ed",
     "wof:parent_id":1108700303,
     "wof:placetype":"locality",

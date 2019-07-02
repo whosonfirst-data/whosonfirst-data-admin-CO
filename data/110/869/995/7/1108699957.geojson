@@ -36,22 +36,16 @@
     "name:cat_x_preferred":[
         "El Bagre"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u5df4\u683c\u840a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "El Bagre"
     ],
     "name:eng_x_preferred":[
         "El Bagre"
     ],
-    "name:fre_x_preferred":[
-        "El Bagre"
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0628\u0627\u06af\u0631\u0647"
     ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d1\u10d0\u10d2\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "El Bagre"
     ],
     "name:ile_x_preferred":[
@@ -63,19 +57,22 @@
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30d0\u30b0\u30ec"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d1\u10d0\u10d2\u10e0\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "El Bagre"
     ],
     "name:nan_x_preferred":[
         "El Bagre"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644 \u0628\u0627\u06af\u0631\u0647"
+    "name:nld_x_preferred":[
+        "El Bagre"
     ],
     "name:por_x_preferred":[
         "El Bagre"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "El Bagre"
     ],
     "name:rus_x_preferred":[
@@ -95,6 +92,9 @@
     ],
     "name:war_x_preferred":[
         "El Bagre"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5df4\u683c\u840a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":1108699957,
-    "wof:lastmodified":1554489269,
+    "wof:lastmodified":1561759314,
     "wof:name":"El Bagre",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

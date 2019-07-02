@@ -23,17 +23,14 @@
     "name:ceb_x_preferred":[
         "Sons\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u677e\u677e"
-    ],
     "name:dan_x_preferred":[
         "Sons\u00f3n"
     ],
     "name:deu_x_preferred":[
         "Sons\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Sons\u00f3n"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03bd\u03c3\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Sons\u00f3n"
@@ -46,18 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Sons\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Sons\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10dc\u10e1\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sons\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bd\u03c3\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0aa8\u0acd\u0ab8\u0acb\u0aa8"
@@ -86,9 +71,6 @@
     "name:mar_x_preferred":[
         "\u0938\u094b\u0928\u0938\u0928"
     ],
-    "name:may_x_preferred":[
-        "Sons\u00f3n"
-    ],
     "name:msa_x_preferred":[
         "Sons\u00f3n"
     ],
@@ -101,16 +83,13 @@
     "name:nob_x_preferred":[
         "Sonson"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0646\u0633\u0648\u0646"
-    ],
     "name:pol_x_preferred":[
         "Sons\u00f3n"
     ],
     "name:por_x_preferred":[
         "Sons\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sons\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +130,9 @@
     ],
     "name:war_x_preferred":[
         "Sons\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u677e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -292,7 +274,7 @@
         }
     ],
     "wof:id":421172783,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1561759464,
     "wof:name":"Sons\u00f3n",
     "wof:parent_id":421190193,
     "wof:placetype":"locality",

@@ -17,13 +17,7 @@
     "name:ceb_x_preferred":[
         "T\u00faquerres"
     ],
-    "name:chi_x_preferred":[
-        "\u5716\u514b\u96f7\u65af"
-    ],
     "name:deu_x_preferred":[
-        "T\u00faquerres"
-    ],
-    "name:dut_x_preferred":[
         "T\u00faquerres"
     ],
     "name:eng_x_preferred":[
@@ -35,26 +29,14 @@
     "name:fra_x_preferred":[
         "T\u00faquerres"
     ],
-    "name:fre_x_preferred":[
-        "T\u00faquerres"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10d9\u10d4\u10e0\u10d4\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "T\u00faquerres"
-    ],
     "name:ita_x_preferred":[
         "T\u00faquerres"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10d9\u10d4\u10e0\u10d4\u10e1\u10d8"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0443\u043a\u0435\u0440\u0435\u0441"
-    ],
-    "name:may_x_preferred":[
-        "Tuquerres"
     ],
     "name:msa_x_preferred":[
         "Tuquerres"
@@ -64,9 +46,6 @@
     ],
     "name:nld_x_preferred":[
         "T\u00faquerres"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06a9\u0648\u0626\u0631\u0633"
     ],
     "name:por_x_preferred":[
         "Tuquerres"
@@ -85,6 +64,9 @@
     ],
     "name:war_x_preferred":[
         "Tuquerres"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u514b\u96f7\u65af"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -225,7 +207,7 @@
         }
     ],
     "wof:id":421204997,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561759444,
     "wof:name":"T\u00faquerres",
     "wof:parent_id":421184335,
     "wof:placetype":"locality",

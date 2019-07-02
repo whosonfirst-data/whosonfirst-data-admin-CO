@@ -20,25 +20,25 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8 \u099c\u09cb\u09b8\u09c7 \u09a6\u09c7\u09b2 \u0997\u09c1\u09af\u09bc\u09be\u09ad\u09bf\u09af\u09bc\u09be\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u7dad\u4e9e\u96f7\u6cb3\u7554\u8056\u4f55\u585e"
-    ],
     "name:dan_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Jos\u00e9 del Guaviare"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03bd\u03c4\u03b5\u03bb \u0393\u03ba\u03bf\u03c5\u03b1\u03b2\u03b9\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0633\u0647 \u062f\u0644 \u06af\u0627\u0648\u0631\u06cc\u0627\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
-    "name:fre_x_preferred":[
-        "San Jos\u00e9 del Guaviare"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
     "name:gla_x_preferred":[
@@ -46,9 +46,6 @@
     ],
     "name:gle_x_preferred":[
         "San Jos\u00e9 del Guaviare"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03bd\u03c4\u03b5\u03bb \u0393\u03ba\u03bf\u03c5\u03b1\u03b2\u03b9\u03ac\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8 \u0a9c\u0acb\u0ab8 \u0aa1\u0ac7\u0ab2 \u0a97\u0acd\u0ab5\u0abe\u0ab5\u0abf\u0aaf\u0ab0\u0ac7"
@@ -83,17 +80,17 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0939\u094b\u091c\u093c \u0921\u0947\u0932 \u0917\u094d\u0935\u093e\u0935\u093f\u092f\u0930\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
     "name:nan_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "San Jos\u00e9 del Guaviare"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u062e\u0648\u0633\u0647 \u062f\u0644 \u06af\u0627\u0648\u0631\u06cc\u0627\u0631\u0647"
+    "name:nob_x_preferred":[
+        "San Jos\u00e9 del Guaviare"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646 \u062c\u0648\u0632\u06d2 \u062f\u06cc\u0644 \u06af\u0648\u0627\u06cc\u0627\u0631\u06d2"
@@ -148,6 +145,9 @@
     ],
     "name:war_x_preferred":[
         "San Jos\u00e9 del Guaviare"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u7dad\u4e9e\u96f7\u6cb3\u7554\u8056\u4f55\u585e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -268,7 +268,7 @@
         }
     ],
     "wof:id":1141906529,
-    "wof:lastmodified":1513943469,
+    "wof:lastmodified":1561759591,
     "wof:name":"San Jose del Guaviare",
     "wof:parent_id":421203263,
     "wof:placetype":"locality",

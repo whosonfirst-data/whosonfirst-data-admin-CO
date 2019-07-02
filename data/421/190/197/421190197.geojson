@@ -34,28 +34,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6f58\u514b\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Panqueba"
-    ],
     "name:eng_x_preferred":[
         "Panqueba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Panqueba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10dc\u10d9\u10d4\u10d1\u10d0"
     ],
     "name:ita_x_preferred":[
         "Panqueba"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10dc\u10d9\u10d4\u10d1\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Panqueba"
     ],
     "name:nan_x_preferred":[
+        "Panqueba"
+    ],
+    "name:nld_x_preferred":[
         "Panqueba"
     ],
     "name:por_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Panqueba"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f58\u514b\u74e6"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -140,7 +140,7 @@
         }
     ],
     "wof:id":421190197,
-    "wof:lastmodified":1554488986,
+    "wof:lastmodified":1561759472,
     "wof:name":"Panqueba",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

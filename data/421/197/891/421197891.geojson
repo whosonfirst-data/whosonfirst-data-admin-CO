@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "P\u00e1cora"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u79d1\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "P\u00e1cora"
-    ],
     "name:eng_x_preferred":[
         "P\u00e1cora"
     ],
     "name:fra_x_preferred":[
         "P\u00e1cora"
     ],
-    "name:fre_x_preferred":[
-        "P\u00e1cora"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10d9\u10dd\u10e0\u10d0"
-    ],
     "name:ita_x_preferred":[
         "P\u00e1cora"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10d9\u10dd\u10e0\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "P\u00e1cora"
     ],
     "name:msa_x_preferred":[
         "P\u00e1cora"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "P\u00e1cora"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u79d1\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -117,7 +105,7 @@
         }
     ],
     "wof:id":421197891,
-    "wof:lastmodified":1527716406,
+    "wof:lastmodified":1561759474,
     "wof:name":"P\u00e1cora",
     "wof:parent_id":1108700393,
     "wof:placetype":"locality",

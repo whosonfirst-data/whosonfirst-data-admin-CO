@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Bet\u00e9itiva"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u7279\u8482\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Bet\u00e9itiva"
-    ],
     "name:eng_x_preferred":[
         "Beteitiva"
     ],
     "name:fra_x_preferred":[
         "Bet\u00e9itiva"
     ],
-    "name:fre_x_preferred":[
-        "Bet\u00e9itiva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10e2\u10d4\u10d8\u10e2\u10d8\u10d5\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Beteitiva"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d4\u10e2\u10d4\u10d8\u10e2\u10d8\u10d5\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Beteitiva"
     ],
     "name:msa_x_preferred":[
         "Beteitiva"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Beteitiva"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u7279\u8482\u74e6"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421171059,
-    "wof:lastmodified":1527726496,
+    "wof:lastmodified":1561759498,
     "wof:name":"Bet\u00e9itiva",
     "wof:parent_id":1108700193,
     "wof:placetype":"locality",

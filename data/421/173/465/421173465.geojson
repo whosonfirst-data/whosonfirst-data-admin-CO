@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Brice\u00f1o"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u91cc\u585e\u5c3c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "Brice\u00f1o"
-    ],
     "name:eng_x_preferred":[
         "Brice\u00f1o"
     ],
     "name:fra_x_preferred":[
         "Brice\u00f1o"
     ],
-    "name:fre_x_preferred":[
-        "Brice\u00f1o"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d8\u10e1\u10d4\u10dc\u10d8\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Brice\u00f1o"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10e0\u10d8\u10e1\u10d4\u10dc\u10d8\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Brice\u00f1o"
     ],
     "name:msa_x_preferred":[
         "Brice\u00f1o"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Brice\u00f1o"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u91cc\u585e\u5c3c\u5967"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421173465,
-    "wof:lastmodified":1527716256,
+    "wof:lastmodified":1561759458,
     "wof:name":"Brice\u00f1o",
     "wof:parent_id":1108700195,
     "wof:placetype":"locality",

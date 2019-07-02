@@ -36,28 +36,25 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u043e\u0440\u0430\u043c\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u5967\u62c9\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Teorama"
-    ],
     "name:eng_x_preferred":[
         "Teorama"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Teorama"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d4\u10dd\u10e0\u10d0\u10db\u10d0"
     ],
     "name:ita_x_preferred":[
         "Teorama"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10d4\u10dd\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Teorama"
     ],
     "name:nan_x_preferred":[
+        "Teorama"
+    ],
+    "name:nld_x_preferred":[
         "Teorama"
     ],
     "name:por_x_preferred":[
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "Teorama"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5967\u62c9\u99ac"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108701151,
-    "wof:lastmodified":1554489323,
+    "wof:lastmodified":1561759390,
     "wof:name":"Teorama",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

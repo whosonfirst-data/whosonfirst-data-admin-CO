@@ -40,12 +40,6 @@
     "name:ceb_x_preferred":[
         "Puerto L\u00f3pez"
     ],
-    "name:chi_x_preferred":[
-        "\u6d1b\u4f69\u65af\u6e2f"
-    ],
-    "name:dut_x_preferred":[
-        "Puerto L\u00f3pez"
-    ],
     "name:eng_x_preferred":[
         "Puerto L\u00f3pez"
     ],
@@ -56,20 +50,11 @@
     "name:fra_x_preferred":[
         "Puerto L\u00f3pez"
     ],
-    "name:fre_x_preferred":[
-        "Puerto L\u00f3pez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10dd\u10de\u10d4\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Puerto L\u00f3pez"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10da\u10dd\u10de\u10d4\u10e1\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Puerto L\u00f3pez"
     ],
     "name:msa_x_preferred":[
         "Puerto L\u00f3pez"
@@ -97,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Puerto L\u00f3pez"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u4f69\u65af\u6e2f"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -160,7 +148,7 @@
         }
     ],
     "wof:id":421179663,
-    "wof:lastmodified":1554488789,
+    "wof:lastmodified":1561759491,
     "wof:name":"Puerto L\u00f3pez",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

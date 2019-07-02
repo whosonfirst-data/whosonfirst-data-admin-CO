@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Sutamarch\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u5854\u99ac\u9322"
-    ],
-    "name:dut_x_preferred":[
-        "Sutamarch\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Sutamarch\u00e1n"
     ],
@@ -53,20 +47,11 @@
     "name:fra_x_preferred":[
         "Sutamarch\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Sutamarch\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10e2\u10d0\u10db\u10d0\u10e0\u10e9\u10d0\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Sutamarch\u00e1n"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10e2\u10d0\u10db\u10d0\u10e0\u10e9\u10d0\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Sutamarch\u00e1n"
     ],
     "name:msa_x_preferred":[
         "Sutamarch\u00e1n"
@@ -94,6 +79,9 @@
     ],
     "name:war_x_preferred":[
         "Sutamarch\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u5854\u99ac\u9322"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -156,7 +144,7 @@
         }
     ],
     "wof:id":421188635,
-    "wof:lastmodified":1554488974,
+    "wof:lastmodified":1561759461,
     "wof:name":"Sutamarch\u00e1n",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

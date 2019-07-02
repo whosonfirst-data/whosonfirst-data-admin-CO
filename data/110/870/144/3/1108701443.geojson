@@ -36,12 +36,6 @@
     "name:cat_x_preferred":[
         "L\u00e9rida"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u91cc\u9054"
-    ],
-    "name:dut_x_preferred":[
-        "L\u00e9rida"
-    ],
     "name:eng_x_preferred":[
         "L\u00e9rida"
     ],
@@ -49,22 +43,25 @@
         "Lerida",
         "L\u00e9rida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "L\u00e9rida"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10e0\u10d8\u10d3\u10d0"
     ],
     "name:ita_x_preferred":[
         "L\u00e9rida"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10e0\u10d8\u10d3\u10d0"
+    ],
     "name:lit_x_preferred":[
         "Lerida"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "L\u00e9rida"
     ],
     "name:nan_x_preferred":[
+        "L\u00e9rida"
+    ],
+    "name:nld_x_preferred":[
         "L\u00e9rida"
     ],
     "name:spa_x_preferred":[
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "L\u00e9rida"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u91cc\u9054"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1108701443,
-    "wof:lastmodified":1554489341,
+    "wof:lastmodified":1561759350,
     "wof:name":"L\u00e9rida",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

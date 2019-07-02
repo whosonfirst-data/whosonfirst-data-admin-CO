@@ -22,17 +22,17 @@
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5f17\u6d1b\u502b\u897f\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Florencia"
     ],
     "name:dan_x_preferred":[
         "Florencia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Florencia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03bf\u03c1\u03ad\u03bd\u03c4\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Florencia"
@@ -40,20 +40,17 @@
     "name:epo_x_preferred":[
         "Florencia"
     ],
+    "name:fas_x_preferred":[
+        "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Florencia"
     ],
-    "name:fre_x_preferred":[
-        "Florencia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Florencia"
     ],
     "name:gla_x_preferred":[
         "Florencia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03bf\u03c1\u03ad\u03bd\u03c4\u03c3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aab\u0acd\u0ab2\u0acb\u0ab0\u0ac7\u0aa8\u0acd\u0ab8\u0abf\u0aaf\u0abe"
@@ -85,17 +82,17 @@
     "name:mar_x_preferred":[
         "\u092b\u094d\u0932\u094b\u0930\u0947\u0902\u0938\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Florencia"
     ],
     "name:nan_x_preferred":[
         "Florencia"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Florencia"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0627"
+    "name:nob_x_preferred":[
+        "Florencia"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0627"
@@ -153,6 +150,9 @@
     ],
     "name:yor_x_preferred":[
         "Florencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u502b\u897f\u4e9e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":1141907595,
-    "wof:lastmodified":1534379258,
+    "wof:lastmodified":1561759591,
     "wof:name":"Florencia",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

@@ -36,10 +36,7 @@
     "name:cat_x_preferred":[
         "Ci\u00e9naga de Oro"
     ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u7d0d\u52a0\u5fb7\u5967\u7f85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ci\u00e9naga de Oro"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +47,10 @@
         "Ci\u00e9naga de Oro",
         "Ci\u00e9naga De Oro"
     ],
-    "name:fre_x_preferred":[
-        "Ci\u00e9naga de Oro"
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u06af\u0627 \u062f\u0647 \u0627\u0648\u0631\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10d4\u10dc\u10d0\u10d2\u10d0-\u10d3\u10d4-\u10dd\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ci\u00e9naga de Oro"
     ],
     "name:ita_x_preferred":[
@@ -65,14 +59,17 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30a8\u30ca\u30ac\u30fb\u30c7\u30fb\u30aa\u30ed"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10d4\u10dc\u10d0\u10d2\u10d0-\u10d3\u10d4-\u10dd\u10e0\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Ci\u00e9naga de Oro"
     ],
     "name:nan_x_preferred":[
         "Ci\u00e9naga de Oro"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0627\u06af\u0627 \u062f\u0647 \u0627\u0648\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Ci\u00e9naga de Oro"
     ],
     "name:por_x_preferred":[
         "Ci\u00e9naga de Oro"
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Ci\u00e9naga de Oro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u7d0d\u52a0\u5fb7\u5967\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1108700573,
-    "wof:lastmodified":1555047392,
+    "wof:lastmodified":1561759383,
     "wof:name":"Ci\u00e9naga De Oro",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

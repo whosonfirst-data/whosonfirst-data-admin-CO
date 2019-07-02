@@ -29,12 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u062a\u0634\u0648\u0643\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0549\u0578\u056f\u0578"
-    ],
-    "name:baq_x_preferred":[
-        "Choc\u00f3"
-    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0427\u0430\u043a\u043e"
     ],
@@ -56,12 +50,6 @@
     "name:ces_x_preferred":[
         "Choc\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u4e54\u79d1\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Choc\u00f3"
-    ],
     "name:dan_x_preferred":[
         "Choc\u00f3 Department"
     ],
@@ -71,8 +59,8 @@
     "name:diq_x_preferred":[
         "\u00c7oko"
     ],
-    "name:dut_x_preferred":[
-        "Choc\u00f3"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
         "Choc\u00f3"
@@ -83,26 +71,23 @@
     "name:est_x_preferred":[
         "Choc\u00f3 departemang"
     ],
+    "name:eus_x_preferred":[
+        "Choc\u00f3"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0648\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Choc\u00f3"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Choc\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10d9\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento del Choc\u00f3"
     ],
     "name:gla_x_preferred":[
         "Choc\u00f3"
     ],
     "name:glg_x_preferred":[
         "Choc\u00f3"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03ba\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0a95\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -119,6 +104,9 @@
     "name:hun_x_preferred":[
         "Choc\u00f3 megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u056f\u0578"
+    ],
     "name:ilo_x_preferred":[
         "Choc\u00f3"
     ],
@@ -134,6 +122,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0cca\u0c95\u0cca \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10d9\u10dd\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucd08\ucf54 \uc8fc"
     ],
@@ -146,10 +137,13 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u0915\u094b \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Choc\u00f3"
     ],
     "name:nan_x_preferred":[
+        "Choc\u00f3"
+    ],
+    "name:nld_x_preferred":[
         "Choc\u00f3"
     ],
     "name:nno_x_preferred":[
@@ -157,9 +151,6 @@
     ],
     "name:nob_x_preferred":[
         "Choc\u00f3"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0686\u0648\u06a9\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0686\u0648\u06a9\u0648 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -224,6 +215,9 @@
     ],
     "name:yor_x_preferred":[
         "Choc\u00f3 Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u79d1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -348,7 +342,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550451,
+    "wof:lastmodified":1561759224,
     "wof:name":"Choc\u00f3",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

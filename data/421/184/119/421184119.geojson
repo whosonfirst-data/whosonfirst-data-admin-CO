@@ -37,13 +37,10 @@
     "name:bel_x_preferred":[
         "\u0427\u044d\u0440\u044d\u0442\u044d"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u96f7\u7279"
-    ],
     "name:deu_x_preferred":[
         "Cerete"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Ceret\u00e9"
     ],
     "name:eng_x_preferred":[
@@ -59,16 +56,13 @@
     "name:eus_x_preferred":[
         "Cerete"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
         "Cerete"
     ],
-    "name:fre_x_preferred":[
-        "Ceret\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10e0\u10d4\u10e2\u10d4"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Ceret\u00e9"
     ],
     "name:hbs_x_preferred":[
@@ -89,6 +83,9 @@
     "name:jpn_x_preferred":[
         "\u30c1\u30a7\u30ec\u30fc\u30c6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10e0\u10d4\u10e2\u10d4"
+    ],
     "name:kaz_x_preferred":[
         "\u0427\u0435\u0440\u0435\u0442\u0435"
     ],
@@ -98,11 +95,11 @@
     "name:lmo_x_preferred":[
         "Ser\u00e9t"
     ],
-    "name:may_x_preferred":[
-        "Ceret\u00e9"
-    ],
     "name:msa_x_preferred":[
         "Cerete"
+    ],
+    "name:msa_x_variant":[
+        "Ceret\u00e9"
     ],
     "name:nan_x_preferred":[
         "Ceret\u00e9"
@@ -113,8 +110,8 @@
     "name:nld_x_preferred":[
         "Cerete"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0631\u062a\u0647"
+    "name:nld_x_variant":[
+        "Ceret\u00e9"
     ],
     "name:pms_x_preferred":[
         "Cerete"
@@ -163,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5207\u96f7\u6cf0"
+    ],
+    "name:zho_x_variant":[
+        "\u585e\u96f7\u7279"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -225,7 +225,7 @@
         }
     ],
     "wof:id":421184119,
-    "wof:lastmodified":1555037114,
+    "wof:lastmodified":1561759479,
     "wof:name":"Ceret\u00e9",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

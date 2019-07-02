@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Yolomb\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u7d04\u9686\u535a"
-    ],
-    "name:dut_x_preferred":[
-        "Yolomb\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Yolomb\u00f3"
     ],
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Yolomb\u00f3"
-    ],
-    "name:fre_x_preferred":[
-        "Yolomb\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dd\u10da\u10dd\u10db\u10d1\u10dd"
     ],
     "name:gla_x_preferred":[
         "Yolomb\u00f3"
@@ -49,9 +37,6 @@
     "name:kat_x_preferred":[
         "\u10d8\u10dd\u10da\u10dd\u10db\u10d1\u10dd"
     ],
-    "name:may_x_preferred":[
-        "Yolombo"
-    ],
     "name:msa_x_preferred":[
         "Yolombo"
     ],
@@ -61,13 +46,10 @@
     "name:nld_x_preferred":[
         "Yolomb\u00f3"
     ],
-    "name:per_x_preferred":[
-        "\u06cc\u0648\u0644\u0648\u0645\u0628\u0648"
-    ],
     "name:por_x_preferred":[
         "Yolomb\u00f3"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yolomb\u00f3"
     ],
     "name:rus_x_preferred":[
@@ -90,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Yolombo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u9686\u535a"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -138,7 +123,7 @@
         }
     ],
     "wof:id":421167783,
-    "wof:lastmodified":1553816355,
+    "wof:lastmodified":1561759440,
     "wof:name":"Yolomb\u00f3",
     "wof:parent_id":1108700045,
     "wof:placetype":"locality",

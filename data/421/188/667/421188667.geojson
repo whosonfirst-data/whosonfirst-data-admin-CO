@@ -40,12 +40,6 @@
     "name:ceb_x_preferred":[
         "Zipac\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u5e15\u5b54"
-    ],
-    "name:dut_x_preferred":[
-        "Zipac\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "Zipac\u00f3n"
     ],
@@ -56,20 +50,11 @@
     "name:fra_x_preferred":[
         "Zipac\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Zipac\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10de\u10d0\u10d9\u10dd\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Zipac\u00f3n"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10de\u10d0\u10d9\u10dd\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Zipac\u00f3n"
     ],
     "name:msa_x_preferred":[
         "Zipac\u00f3n"
@@ -97,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Zipac\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5e15\u5b54"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -159,7 +147,7 @@
         }
     ],
     "wof:id":421188667,
-    "wof:lastmodified":1554488975,
+    "wof:lastmodified":1561759461,
     "wof:name":"Zipac\u00f3n",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Tasco"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u65af\u79d1"
-    ],
-    "name:dut_x_preferred":[
-        "Tasco"
-    ],
     "name:eng_x_preferred":[
         "Tasco"
     ],
     "name:fra_x_preferred":[
         "Tasco"
     ],
-    "name:fre_x_preferred":[
-        "Tasco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10e1\u10d9\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Tasco"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10e1\u10d9\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Tasco"
     ],
     "name:msa_x_preferred":[
         "Tasco"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Tasco"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u65af\u79d1"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421180627,
-    "wof:lastmodified":1527716235,
+    "wof:lastmodified":1561759453,
     "wof:name":"Tasco",
     "wof:parent_id":1108700349,
     "wof:placetype":"locality",

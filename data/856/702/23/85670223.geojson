@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0645\u0627\u062c\u062f\u0627\u0644\u064a\u0646\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Magdalena"
-    ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
     ],
@@ -47,20 +44,20 @@
     "name:cat_x_preferred":[
         "Departament del Magdalena"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u683c\u8fbe\u83b1\u7eb3\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Magdalena"
     ],
     "name:dan_x_preferred":[
         "Magdalena Department"
     ],
+    "name:deu_x_preferred":[
+        "Departamento del Magdalena"
+    ],
     "name:diq_x_preferred":[
         "Magdalena"
     ],
-    "name:dut_x_preferred":[
-        "Magdalena"
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039c\u03b1\u03b3\u03ba\u03bd\u03c4\u03b1\u03bb\u03ad\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Magdalena"
@@ -68,26 +65,23 @@
     "name:epo_x_preferred":[
         "Magdalena"
     ],
+    "name:eus_x_preferred":[
+        "Magdalena"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u06af\u062f\u0627\u0644\u0646\u0627"
+    ],
     "name:fin_x_preferred":[
         "Magdalena"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Magdalena"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d2\u10d3\u10d0\u10da\u10d4\u10dc\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento del Magdalena"
     ],
     "name:gla_x_preferred":[
         "Magdalena"
     ],
     "name:glg_x_preferred":[
         "Magdalena"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039c\u03b1\u03b3\u03ba\u03bd\u03c4\u03b1\u03bb\u03ad\u03bd\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a97\u0acd\u0aa6\u0abe\u0ab2\u0ac7\u0aa8\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -119,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ccd\u0caf\u0cbe\u0c97\u0ccd\u0ca1\u0cb2\u0cc7\u0ca8\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d2\u10d3\u10d0\u10da\u10d4\u10dc\u10d0\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\uadf8\ub2ec\ub808\ub098 \uc8fc"
     ],
@@ -131,10 +128,13 @@
     "name:mar_x_preferred":[
         "\u092e\u0945\u0917\u094d\u0921\u093e\u0932\u0947\u0928\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Magdalena"
     ],
     "name:nan_x_preferred":[
+        "Magdalena"
+    ],
+    "name:nld_x_preferred":[
         "Magdalena"
     ],
     "name:nno_x_preferred":[
@@ -145,9 +145,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u00e6"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0627\u06af\u062f\u0627\u0644\u0646\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06af\u062f\u0627\u0644\u06cc\u0646\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -161,7 +158,7 @@
     "name:que_x_preferred":[
         "Magdalena suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Magdalena"
     ],
     "name:rus_x_preferred":[
@@ -217,6 +214,9 @@
     ],
     "name:yor_x_preferred":[
         "Magdalena Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u683c\u8fbe\u83b1\u7eb3\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -341,7 +341,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550410,
+    "wof:lastmodified":1561759229,
     "wof:name":"Magdalena",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

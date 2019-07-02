@@ -16,23 +16,14 @@
     "name:ast_x_preferred":[
         "Xinebra"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u5167\u592b\u62c9"
-    ],
     "name:deu_x_preferred":[
-        "Ginebra"
-    ],
-    "name:dut_x_preferred":[
         "Ginebra"
     ],
     "name:eng_x_preferred":[
         "Ginebra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ginebra"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d8\u10dc\u10d4\u10d1\u10e0\u10d0"
     ],
     "name:glg_x_preferred":[
         "Xenebra"
@@ -46,10 +37,16 @@
     "name:jpn_x_preferred":[
         "\u30d2\u30cd\u30d6\u30e9"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10dc\u10d4\u10d1\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Ginebra"
     ],
     "name:nan_x_preferred":[
+        "Ginebra"
+    ],
+    "name:nld_x_preferred":[
         "Ginebra"
     ],
     "name:por_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Ginebra"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u5167\u592b\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":421182091,
-    "wof:lastmodified":1553816371,
+    "wof:lastmodified":1561759493,
     "wof:name":"Ginebra",
     "wof:parent_id":421204845,
     "wof:placetype":"locality",

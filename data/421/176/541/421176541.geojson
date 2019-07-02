@@ -16,25 +16,13 @@
     "name:ceb_x_preferred":[
         "Buritic\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u6b66\u91cc\u8482\u5361"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Buritic\u00e1"
     ],
     "name:eng_x_preferred":[
         "Buritica"
     ],
     "name:fra_x_preferred":[
-        "Buritic\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Buritic\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e0\u10d8\u10e2\u10d8\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Buritic\u00e1"
     ],
     "name:hrv_x_preferred":[
@@ -49,9 +37,6 @@
     "name:kat_x_preferred":[
         "\u10d1\u10e3\u10e0\u10d8\u10e2\u10d8\u10d9\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Buritica"
-    ],
     "name:msa_x_preferred":[
         "Buritica"
     ],
@@ -64,7 +49,7 @@
     "name:por_x_preferred":[
         "Buritic\u00e1"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Buritica"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Buritica"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b66\u91cc\u8482\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -132,7 +120,7 @@
         }
     ],
     "wof:id":421176541,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1561759497,
     "wof:name":"Buritic\u00e1",
     "wof:parent_id":1108699933,
     "wof:placetype":"locality",

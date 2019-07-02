@@ -36,20 +36,11 @@
     "name:cat_x_preferred":[
         "Condoto"
     ],
-    "name:chi_x_preferred":[
-        "\u5b54\u591a\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Condoto"
-    ],
     "name:eng_x_preferred":[
         "Condoto"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Condoto"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d3\u10dd\u10e2\u10dd"
     ],
     "name:ita_x_preferred":[
         "Condoto"
@@ -57,10 +48,16 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30f3\u30c9\u30c8"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10dc\u10d3\u10dd\u10e2\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Condoto"
     ],
     "name:nan_x_preferred":[
+        "Condoto"
+    ],
+    "name:nld_x_preferred":[
         "Condoto"
     ],
     "name:por_x_preferred":[
@@ -83,6 +80,9 @@
     ],
     "name:war_x_preferred":[
         "Condoto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b54\u591a\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108700761,
-    "wof:lastmodified":1554489304,
+    "wof:lastmodified":1561759334,
     "wof:name":"Condoto",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

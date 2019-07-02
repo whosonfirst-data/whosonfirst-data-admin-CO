@@ -34,28 +34,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5e15\u65af\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Pasca"
-    ],
     "name:eng_x_preferred":[
         "Pasca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pasca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e1\u10d9\u10d0"
     ],
     "name:ita_x_preferred":[
         "Pasca"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e1\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Pasca"
     ],
     "name:nan_x_preferred":[
+        "Pasca"
+    ],
+    "name:nld_x_preferred":[
         "Pasca"
     ],
     "name:spa_x_preferred":[
@@ -72,6 +69,9 @@
     ],
     "name:war_x_preferred":[
         "Pasca"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u65af\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":421205089,
-    "wof:lastmodified":1555037045,
+    "wof:lastmodified":1561759451,
     "wof:name":"Pasca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

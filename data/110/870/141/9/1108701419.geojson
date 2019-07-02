@@ -33,12 +33,6 @@
     "mps:longitude":-75.073565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8f9b\u585e"
-    ],
-    "name:dut_x_preferred":[
-        "San Luis de Sinc\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Sinc\u00e9"
     ],
@@ -46,23 +40,26 @@
         "Since",
         "Sinc\u00e9"
     ],
-    "name:fre_x_preferred":[
-        "Sinc\u00e9"
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0633\u0647"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d8\u10dc\u10e1\u10d4"
+    "name:fra_x_preferred":[
+        "Sinc\u00e9"
     ],
     "name:ita_x_preferred":[
         "Sinc\u00e9"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d8\u10dc\u10e1\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "Sinc\u00e9"
     ],
     "name:nan_x_preferred":[
         "San Luis de Sinc\u00e9"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0633\u0647"
+    "name:nld_x_preferred":[
+        "San Luis de Sinc\u00e9"
     ],
     "name:spa_x_preferred":[
         "Sinc\u00e9"
@@ -75,6 +72,9 @@
     ],
     "name:war_x_preferred":[
         "Sinc\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u585e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -112,7 +112,7 @@
         }
     ],
     "wof:id":1108701419,
-    "wof:lastmodified":1554489340,
+    "wof:lastmodified":1561759392,
     "wof:name":"Sinc\u00e9",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

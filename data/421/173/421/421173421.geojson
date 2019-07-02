@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "Enciso"
     ],
-    "name:chi_x_preferred":[
-        "\u6069\u897f\u7d22"
-    ],
     "name:deu_x_preferred":[
-        "Enciso"
-    ],
-    "name:dut_x_preferred":[
         "Enciso"
     ],
     "name:eng_x_preferred":[
@@ -31,16 +25,13 @@
     "name:fra_x_preferred":[
         "Enciso"
     ],
-    "name:fre_x_preferred":[
-        "Enciso"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10e1\u10d8\u10e1\u10dd"
-    ],
     "name:ita_x_preferred":[
         "Enciso"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d4\u10dc\u10e1\u10d8\u10e1\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Enciso"
     ],
     "name:nan_x_preferred":[
@@ -66,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Enciso"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u897f\u7d22"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -114,7 +108,7 @@
         }
     ],
     "wof:id":421173421,
-    "wof:lastmodified":1527716259,
+    "wof:lastmodified":1561759459,
     "wof:name":"Enciso",
     "wof:parent_id":1108701249,
     "wof:placetype":"locality",

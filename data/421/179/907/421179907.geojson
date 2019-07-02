@@ -13,31 +13,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u840a\u74e6\u93ae"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Villa de Leyva"
     ],
     "name:eng_x_preferred":[
         "Villa de Leyva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "villa de Leyva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d3\u10d4-\u10da\u10d4\u10d8\u10d5\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Villa de Leyva"
     ],
     "name:ita_x_preferred":[
         "Villa de Leyva"
     ],
+    "name:kat_x_preferred":[
+        "\u10d5\u10d8\u10da\u10d8\u10d0-\u10d3\u10d4-\u10da\u10d4\u10d8\u10d5\u10d0"
+    ],
     "name:lit_x_preferred":[
         "Vilja de Lejva"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Villa de Leyva"
+    ],
+    "name:nld_x_preferred":[
         "Villa de Leyva"
     ],
     "name:por_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Villa de Leyva"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u74e6\u93ae"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":421179907,
-    "wof:lastmodified":1513944171,
+    "wof:lastmodified":1561759489,
     "wof:name":"Villa de Leyva",
     "wof:parent_id":421170589,
     "wof:placetype":"locality",

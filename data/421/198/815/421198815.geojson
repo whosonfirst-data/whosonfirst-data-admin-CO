@@ -13,28 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u585e\u8fb2"
-    ],
-    "name:dut_x_preferred":[
-        "San Zen\u00f3n"
-    ],
     "name:eng_x_preferred":[
         "San Zen\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Zen\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10e1\u10d4\u10dc\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "San Zen\u00f3n"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10e1\u10d4\u10dc\u10dd\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "San Zen\u00f3n"
     ],
     "name:nan_x_preferred":[
+        "San Zen\u00f3n"
+    ],
+    "name:nld_x_preferred":[
         "San Zen\u00f3n"
     ],
     "name:por_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "San Zen\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u585e\u8fb2"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421198815,
-    "wof:lastmodified":1513943562,
+    "wof:lastmodified":1561759470,
     "wof:name":"San Zen\u00f3n",
     "wof:parent_id":421202351,
     "wof:placetype":"locality",

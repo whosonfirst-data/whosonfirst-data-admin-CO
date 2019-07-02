@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "San Carlos"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5361\u6d1b\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Carlos"
-    ],
     "name:eng_x_preferred":[
         "San Carlos"
     ],
     "name:fra_x_preferred":[
         "San Carlos"
     ],
-    "name:fre_x_preferred":[
-        "San Carlos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "San Carlos"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10d9\u10d0\u10e0\u10da\u10dd\u10e1\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "San Carlos"
     ],
     "name:msa_x_preferred":[
         "San Carlos"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "San Carlos"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5361\u6d1b\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -122,7 +110,7 @@
         }
     ],
     "wof:id":421170899,
-    "wof:lastmodified":1527716474,
+    "wof:lastmodified":1561759486,
     "wof:name":"San Carlos",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",

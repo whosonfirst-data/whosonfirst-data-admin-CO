@@ -33,12 +33,6 @@
     "mps:longitude":-76.991766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u5854\u592b\u9686"
-    ],
-    "name:dut_x_preferred":[
-        "El Tabl\u00f3n de G\u00f3mez"
-    ],
     "name:eng_x_preferred":[
         "El Tabl\u00f3n"
     ],
@@ -46,19 +40,22 @@
         "El Tablon",
         "El Tabl\u00f3n de Gomez"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Tabl\u00f3n de G\u00f3mez"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10e2\u10d0\u10d1\u10da\u10dd\u10dc\u10d8"
     ],
     "name:ita_x_preferred":[
         "El Tabl\u00f3n de G\u00f3mez"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10e2\u10d0\u10d1\u10da\u10dd\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "El Tabl\u00f3n"
     ],
     "name:nan_x_preferred":[
+        "El Tabl\u00f3n de G\u00f3mez"
+    ],
+    "name:nld_x_preferred":[
         "El Tabl\u00f3n de G\u00f3mez"
     ],
     "name:por_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "El Tabl\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5854\u592b\u9686"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108701001,
-    "wof:lastmodified":1554489316,
+    "wof:lastmodified":1561759358,
     "wof:name":"El Tabl\u00f3n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

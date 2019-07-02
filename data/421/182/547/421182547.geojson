@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Gachal\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u67e5\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Gachal\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Gachal\u00e1"
     ],
     "name:fra_x_preferred":[
         "Gachal\u00e1"
-    ],
-    "name:fre_x_preferred":[
-        "Gachal\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10e9\u10d0\u10da\u10d0"
     ],
     "name:ita_x_preferred":[
         "Gachal\u00e1"
@@ -40,11 +28,11 @@
     "name:kat_x_preferred":[
         "\u10d2\u10d0\u10e9\u10d0\u10da\u10d0"
     ],
-    "name:may_x_preferred":[
-        "Gachala"
-    ],
     "name:msa_x_preferred":[
         "Gachal\u00e1"
+    ],
+    "name:msa_x_variant":[
+        "Gachala"
     ],
     "name:nan_x_preferred":[
         "Gachal\u00e1"
@@ -72,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Gachala"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u67e5\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +111,7 @@
         }
     ],
     "wof:id":421182547,
-    "wof:lastmodified":1513942161,
+    "wof:lastmodified":1561759494,
     "wof:name":"Gachal\u00e1",
     "wof:parent_id":421184953,
     "wof:placetype":"locality",

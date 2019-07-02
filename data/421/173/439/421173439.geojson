@@ -19,23 +19,11 @@
     "name:ceb_x_preferred":[
         "Pur\u00edsima"
     ],
-    "name:chi_x_preferred":[
-        "\u666e\u91cc\u897f\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Pur\u00edsima"
-    ],
     "name:eng_x_preferred":[
         "Pur\u00edsima"
     ],
     "name:fra_x_preferred":[
         "Pur\u00edsima de la Concepci\u00f3n"
-    ],
-    "name:fre_x_preferred":[
-        "Pur\u00edsima de la Concepci\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10e3\u10e0\u10d8\u10e1\u10d8\u10db\u10d0"
     ],
     "name:glg_x_preferred":[
         "Pur\u00edsima"
@@ -45,9 +33,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10e0\u10d8\u10e1\u10d8\u10db\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Pur\u00edsima"
     ],
     "name:msa_x_preferred":[
         "Pur\u00edsima"
@@ -75,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Pur\u00edsima"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u91cc\u897f\u99ac"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -124,7 +112,7 @@
         }
     ],
     "wof:id":421173439,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1561759458,
     "wof:name":"Pur\u00edsima",
     "wof:parent_id":1108700597,
     "wof:placetype":"locality",

@@ -34,32 +34,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u74dc\u99ac\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Guamal"
-    ],
     "name:eng_x_preferred":[
         "Guamal"
     ],
-    "name:fre_x_preferred":[
-        "Guamal"
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0622\u0645\u0627\u0644"
     ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10db\u10d0\u10da\u10d8"
+    "name:fra_x_preferred":[
+        "Guamal"
     ],
     "name:ita_x_preferred":[
         "Guamal"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10db\u10d0\u10da\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Guamal"
     ],
     "name:nan_x_preferred":[
         "Guamal"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0622\u0645\u0627\u0644"
+    "name:nld_x_preferred":[
+        "Guamal"
     ],
     "name:por_x_preferred":[
         "Guamal"
@@ -84,6 +81,9 @@
     ],
     "name:war_x_preferred":[
         "Guamal"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u99ac\u723e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":421194071,
-    "wof:lastmodified":1554489014,
+    "wof:lastmodified":1561759436,
     "wof:name":"Guamal",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

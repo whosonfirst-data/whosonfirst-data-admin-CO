@@ -37,10 +37,7 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0646\u0648\u0643\u0648\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u52aa\u57fa"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nuqu\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -50,13 +47,7 @@
         "Nuqui",
         "Nuqu\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Nuqu\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nuqu\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -65,10 +56,16 @@
     "name:jpn_x_preferred":[
         "\u30cc\u30ad"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d9\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Nuqu\u00ed"
     ],
     "name:nan_x_preferred":[
+        "Nuqu\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Nuqu\u00ed"
     ],
     "name:por_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Nuqu\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u57fa"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -153,7 +153,7 @@
         }
     ],
     "wof:id":421170617,
-    "wof:lastmodified":1555037157,
+    "wof:lastmodified":1561759481,
     "wof:name":"Nuqu\u00ed",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

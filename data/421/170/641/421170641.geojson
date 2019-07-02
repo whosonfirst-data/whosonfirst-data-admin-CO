@@ -34,25 +34,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5967\u8afe\u5f17\u96f7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Onofre"
     ],
     "name:eng_x_preferred":[
         "San Onofre"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u0648\u0646\u0648\u0641\u0631\u0647"
+    ],
     "name:fra_x_preferred":[
-        "San Onofre"
-    ],
-    "name:fre_x_preferred":[
-        "San Onofre"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10dd\u10dc\u10dd\u10e4\u10e0\u10d4"
-    ],
-    "name:ger_x_preferred":[
         "San Onofre"
     ],
     "name:hbs_x_preferred":[
@@ -61,14 +52,17 @@
     "name:ita_x_preferred":[
         "San Onofre"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10dd\u10dc\u10dd\u10e4\u10e0\u10d4"
+    ],
+    "name:msa_x_preferred":[
         "San Onofre"
     ],
     "name:nan_x_preferred":[
         "San Onofre"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u0627\u0648\u0646\u0648\u0641\u0631\u0647"
+    "name:nld_x_preferred":[
+        "San Onofre"
     ],
     "name:spa_x_preferred":[
         "San Onofre"
@@ -81,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "San Onofre"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5967\u8afe\u5f17\u96f7"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -143,7 +140,7 @@
         }
     ],
     "wof:id":421170641,
-    "wof:lastmodified":1555037156,
+    "wof:lastmodified":1561759485,
     "wof:name":"San Onofre",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

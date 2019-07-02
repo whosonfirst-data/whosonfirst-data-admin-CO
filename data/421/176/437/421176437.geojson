@@ -16,28 +16,13 @@
     "name:ceb_x_preferred":[
         "C\u00f3rdoba"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u723e\u591a\u74e6"
-    ],
     "name:deu_x_preferred":[
-        "C\u00f3rdoba"
-    ],
-    "name:dut_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:eng_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:fra_x_preferred":[
-        "C\u00f3rdoba"
-    ],
-    "name:fre_x_preferred":[
-        "C\u00f3rdoba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "C\u00f3rdoba"
     ],
     "name:ita_x_preferred":[
@@ -48,9 +33,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "C\u00f3rdoba"
     ],
     "name:msa_x_preferred":[
         "C\u00f3rdoba"
@@ -81,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "C\u00f3rdoba"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u723e\u591a\u74e6"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +115,7 @@
         }
     ],
     "wof:id":421176437,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561759495,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":421171829,
     "wof:placetype":"locality",

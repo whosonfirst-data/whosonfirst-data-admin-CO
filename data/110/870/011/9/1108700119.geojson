@@ -33,28 +33,25 @@
     "mps:longitude":-74.925997,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u74dc\u83ab"
-    ],
-    "name:dut_x_preferred":[
-        "El Guamo"
-    ],
     "name:eng_x_preferred":[
         "El Guamo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El Guamo"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da-\u10d2\u10e3\u10d0\u10db\u10dd"
     ],
     "name:ita_x_preferred":[
         "El Guamo"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10d2\u10e3\u10d0\u10db\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "El Guamo"
     ],
     "name:nan_x_preferred":[
+        "El Guamo"
+    ],
+    "name:nld_x_preferred":[
         "El Guamo"
     ],
     "name:por_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "El Guamo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u74dc\u83ab"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108700119,
-    "wof:lastmodified":1554489275,
+    "wof:lastmodified":1561759373,
     "wof:name":"El Guamo",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

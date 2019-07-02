@@ -19,28 +19,16 @@
     "name:ceb_x_preferred":[
         "Coper"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u4f69\u723e"
-    ],
-    "name:dut_x_preferred":[
-        "Coper"
-    ],
     "name:eng_x_preferred":[
         "Coper"
     ],
     "name:fra_x_preferred":[
         "Coper"
     ],
-    "name:fre_x_preferred":[
-        "Coper"
-    ],
     "name:glg_x_preferred":[
         "Coper"
     ],
     "name:ita_x_preferred":[
-        "Coper"
-    ],
-    "name:may_x_preferred":[
         "Coper"
     ],
     "name:msa_x_preferred":[
@@ -69,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Coper"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u4f69\u723e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":421196583,
-    "wof:lastmodified":1527716369,
+    "wof:lastmodified":1561759471,
     "wof:name":"Coper",
     "wof:parent_id":1108700223,
     "wof:placetype":"locality",

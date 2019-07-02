@@ -33,20 +33,14 @@
     "mps:longitude":-76.208987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4f0a\u65af\u8afe\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Isnos"
-    ],
     "name:eng_x_preferred":[
         "Isnos"
     ],
-    "name:fre_x_preferred":[
-        "Isnos"
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0633\u0646\u0648\u0633"
     ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10dc\u10dd\u10e1\u10d8"
+    "name:fra_x_preferred":[
+        "Isnos"
     ],
     "name:ita_x_preferred":[
         "Isnos"
@@ -54,14 +48,17 @@
     "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30ce\u30b9"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10dc\u10dd\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Isnos"
     ],
     "name:nan_x_preferred":[
         "Isnos"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0633\u0646\u0648\u0633"
+    "name:nld_x_preferred":[
+        "Isnos"
     ],
     "name:por_x_preferred":[
         "Isnos"
@@ -80,6 +77,9 @@
     ],
     "name:war_x_preferred":[
         "Isnos"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u65af\u8afe\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":1108700819,
-    "wof:lastmodified":1555037406,
+    "wof:lastmodified":1561759375,
     "wof:name":"Isnos",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

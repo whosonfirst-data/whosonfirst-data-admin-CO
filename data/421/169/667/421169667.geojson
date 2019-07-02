@@ -13,31 +13,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u6d1b\u65af\u6851\u6258\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Los Santos"
     ],
     "name:eng_x_preferred":[
         "Los Santos"
     ],
-    "name:fre_x_preferred":[
-        "Los Santos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10dc\u10e2\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Los Santos"
     ],
     "name:ita_x_preferred":[
         "Los Santos"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10da\u10dd\u10e1-\u10e1\u10d0\u10dc\u10e2\u10dd\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Los Santos"
     ],
     "name:nan_x_preferred":[
+        "Los Santos"
+    ],
+    "name:nld_x_preferred":[
         "Los Santos"
     ],
     "name:sco_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Los Santos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u6851\u6258\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":421169667,
-    "wof:lastmodified":1527716168,
+    "wof:lastmodified":1561759440,
     "wof:name":"Los Santos",
     "wof:parent_id":1108701289,
     "wof:placetype":"locality",

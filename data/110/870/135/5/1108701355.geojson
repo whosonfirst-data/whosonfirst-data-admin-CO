@@ -36,22 +36,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0648\u0631\u0648\u060c \u0633\u0627\u0646\u062a\u0627\u0646\u062f\u0631"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u79d1\u7f85"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Socorro"
     ],
     "name:eng_x_preferred":[
         "Socorro"
     ],
-    "name:fre_x_preferred":[
-        "Socorro"
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u06a9\u0648\u0631\u0648"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10d9\u10dd\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Socorro"
     ],
     "name:gla_x_preferred":[
@@ -63,14 +57,17 @@
     "name:jpn_x_preferred":[
         "\u30bd\u30b3\u30fc\u30ed"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10dd\u10d9\u10dd\u10e0\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Socorro"
     ],
     "name:nan_x_preferred":[
         "Socorro"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u06a9\u0648\u0631\u0648"
+    "name:nld_x_preferred":[
+        "Socorro"
     ],
     "name:por_x_preferred":[
         "Socorro"
@@ -86,6 +83,9 @@
     ],
     "name:war_x_preferred":[
         "Socorro"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u79d1\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":1108701355,
-    "wof:lastmodified":1555037377,
+    "wof:lastmodified":1561759316,
     "wof:name":"Socorro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

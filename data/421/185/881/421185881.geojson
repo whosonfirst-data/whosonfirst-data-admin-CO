@@ -22,14 +22,8 @@
     "name:ces_x_preferred":[
         "Darien"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5229\u99ac"
-    ],
     "name:deu_x_preferred":[
         "Darien"
-    ],
-    "name:dut_x_preferred":[
-        "Calima"
     ],
     "name:eng_x_preferred":[
         "Calima"
@@ -37,11 +31,8 @@
     "name:fra_x_preferred":[
         "Darien"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Calima el Dari\u00e9n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10da\u10d8\u10db\u10d0"
     ],
     "name:hbs_x_preferred":[
         "Derijen"
@@ -49,13 +40,16 @@
     "name:ita_x_preferred":[
         "Darien"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10d8\u10db\u10d0"
+    ],
     "name:kor_x_preferred":[
         "\ub300\ub9ac\uc5d4"
     ],
     "name:lit_x_preferred":[
         "Darjenas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Calima"
     ],
     "name:nan_x_preferred":[
@@ -63,6 +57,9 @@
     ],
     "name:nld_x_preferred":[
         "Darien"
+    ],
+    "name:nld_x_variant":[
+        "Calima"
     ],
     "name:nor_x_preferred":[
         "Darien"
@@ -96,6 +93,9 @@
     ],
     "name:war_x_preferred":[
         "Calima"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u99ac"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":421185881,
-    "wof:lastmodified":1527726503,
+    "wof:lastmodified":1561759498,
     "wof:name":"Dari\u00e9n",
     "wof:parent_id":1108701487,
     "wof:placetype":"locality",

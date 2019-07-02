@@ -40,13 +40,7 @@
     "name:ceb_x_preferred":[
         "Soledad"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u840a\u9054"
-    ],
     "name:deu_x_preferred":[
-        "Soledad"
-    ],
-    "name:dut_x_preferred":[
         "Soledad"
     ],
     "name:eng_x_preferred":[
@@ -64,15 +58,6 @@
     "name:fra_x_preferred":[
         "Soledad"
     ],
-    "name:fre_x_preferred":[
-        "Soledad"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10da\u10d4\u10d3\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Soledad"
-    ],
     "name:ita_x_preferred":[
         "Soledad"
     ],
@@ -82,17 +67,14 @@
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10da\u10d4\u10d3\u10d0\u10d3\u10d8"
     ],
-    "name:may_x_preferred":[
-        "Soledad"
-    ],
     "name:msa_x_preferred":[
         "Soledad"
     ],
     "name:nan_x_preferred":[
         "Soledad"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u0644\u062f\u0627\u062f"
+    "name:nld_x_preferred":[
+        "Soledad"
     ],
     "name:pol_x_preferred":[
         "Soledad"
@@ -123,6 +105,9 @@
     ],
     "name:war_x_preferred":[
         "Soledad"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u840a\u9054"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -186,7 +171,7 @@
         }
     ],
     "wof:id":421190815,
-    "wof:lastmodified":1555037081,
+    "wof:lastmodified":1561759472,
     "wof:name":"Soledad",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

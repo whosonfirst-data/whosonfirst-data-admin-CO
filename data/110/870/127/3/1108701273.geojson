@@ -33,28 +33,25 @@
     "mps:longitude":-73.364114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u963f\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Hato"
-    ],
     "name:eng_x_preferred":[
         "Hato"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hato"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10dd"
     ],
     "name:ita_x_preferred":[
         "Hato"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Hato"
     ],
     "name:nan_x_preferred":[
+        "Hato"
+    ],
+    "name:nld_x_preferred":[
         "Hato"
     ],
     "name:spa_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:war_x_preferred":[
         "Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108701273,
-    "wof:lastmodified":1554489332,
+    "wof:lastmodified":1561759348,
     "wof:name":"Hato",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

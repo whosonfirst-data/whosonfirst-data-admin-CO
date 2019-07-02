@@ -16,10 +16,7 @@
     "name:ceb_x_preferred":[
         "Repel\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u96f7\u4f69\u9686"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Repel\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -31,23 +28,11 @@
     "name:fra_x_preferred":[
         "Repel\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "Repel\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10d4\u10de\u10d4\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Repel\u00f3n"
-    ],
     "name:ita_x_preferred":[
         "Repel\u00f3n"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d4\u10de\u10d4\u10da\u10dd\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Repelon"
     ],
     "name:msa_x_preferred":[
         "Repelon"
@@ -57,9 +42,6 @@
     ],
     "name:nld_x_preferred":[
         "Repel\u00f3n"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u067e\u0644\u0648\u0646"
     ],
     "name:por_x_preferred":[
         "Repelon"
@@ -81,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Repel\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u96f7\u4f69\u9686"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -129,7 +114,7 @@
         }
     ],
     "wof:id":421168247,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561759433,
     "wof:name":"Repel\u00f3n",
     "wof:parent_id":1108700075,
     "wof:placetype":"locality",

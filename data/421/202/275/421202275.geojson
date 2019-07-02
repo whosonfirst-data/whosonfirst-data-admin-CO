@@ -46,10 +46,7 @@
     "name:cat_x_preferred":[
         "Leticia"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u8482\u897f\u4e9e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leticia"
     ],
     "name:dan_x_preferred":[
@@ -58,8 +55,11 @@
     "name:deu_x_preferred":[
         "Laetitia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Leticia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03c4\u03af\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Leticia"
@@ -67,23 +67,20 @@
     "name:epo_x_preferred":[
         "Leticia"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u062a\u06cc\u0633\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Let\u00edcia"
     ],
     "name:fra_x_preferred":[
         "L\u00e6titia"
     ],
-    "name:fre_x_preferred":[
-        "Leticia"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Leticia"
     ],
     "name:gla_x_preferred":[
         "Leticia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03c4\u03af\u03c3\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0a9f\u0ac0\u0ab8\u0abf\u0aaf\u0abe"
@@ -127,7 +124,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0947\u091f\u0940\u0936\u0940\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Leticia"
     ],
     "name:nah_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:nld_x_preferred":[
         "Laetitia"
+    ],
+    "name:nld_x_variant":[
+        "Leticia"
     ],
     "name:nno_x_preferred":[
         "Leticia"
@@ -144,9 +144,6 @@
     ],
     "name:oss_x_preferred":[
         "\u041b\u0435\u0442\u0438\u0441\u0438"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u062a\u06cc\u0633\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u062a\u06cc\u06a9\u06cc\u0627"
@@ -214,6 +211,9 @@
     "name:yor_x_preferred":[
         "Leticia"
     ],
+    "name:zho_x_preferred":[
+        "\u840a\u8482\u897f\u4e9e"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -274,7 +274,7 @@
         }
     ],
     "wof:id":421202275,
-    "wof:lastmodified":1554489037,
+    "wof:lastmodified":1561759449,
     "wof:name":"Leticia",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

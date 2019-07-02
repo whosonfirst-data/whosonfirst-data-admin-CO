@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Iza"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u85a9"
-    ],
-    "name:dut_x_preferred":[
-        "Iza"
-    ],
     "name:eng_x_preferred":[
         "Iza"
     ],
     "name:fra_x_preferred":[
         "Iza"
     ],
-    "name:fre_x_preferred":[
-        "Iza"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Iza"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10e1\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Iza"
     ],
     "name:msa_x_preferred":[
         "Iza"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Iza"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u85a9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421204265,
-    "wof:lastmodified":1527716186,
+    "wof:lastmodified":1561759445,
     "wof:name":"Iza",
     "wof:parent_id":421190203,
     "wof:placetype":"locality",

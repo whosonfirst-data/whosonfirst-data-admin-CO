@@ -17,22 +17,16 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0643\u0648\u064a\u0646\u0643\u0648\u064a\u0631\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u5947\u91d1\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chiquinquir\u00e1"
     ],
     "name:eng_x_preferred":[
         "Chiquinquir\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Chiquinquir\u00e1"
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u06a9\u06cc\u0646\u06a9\u06cc\u0631\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10d9\u10d8\u10dc\u10d9\u10d8\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiquinquir\u00e1"
     ],
     "name:gla_x_preferred":[
@@ -41,14 +35,17 @@
     "name:ita_x_preferred":[
         "Chiquinquir\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10d9\u10d8\u10dc\u10d9\u10d8\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Chiquinquir\u00e1"
     ],
     "name:nan_x_preferred":[
         "Chiquinquir\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u06a9\u06cc\u0646\u06a9\u06cc\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Chiquinquir\u00e1"
     ],
     "name:por_x_preferred":[
         "Chiquinquir\u00e1"
@@ -73,6 +70,9 @@
     ],
     "name:war_x_preferred":[
         "Chiquinquir\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u91d1\u57fa\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":421169143,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561759441,
     "wof:name":"Chiquinquir\u00e1",
     "wof:parent_id":421185355,
     "wof:placetype":"locality",

@@ -13,20 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5947\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Chima"
-    ],
     "name:eng_x_preferred":[
         "Chima"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chima"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d8\u10db\u10d0"
     ],
     "name:glg_x_preferred":[
         "Chima"
@@ -34,7 +25,10 @@
     "name:ita_x_preferred":[
         "Chima"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e9\u10d8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Chima"
     ],
     "name:nan_x_preferred":[
@@ -54,6 +48,9 @@
     ],
     "name:war_x_preferred":[
         "Chima"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u99ac"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -102,7 +99,7 @@
         }
     ],
     "wof:id":421197501,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561759473,
     "wof:name":"Chima",
     "wof:parent_id":1108701219,
     "wof:placetype":"locality",

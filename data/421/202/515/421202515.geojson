@@ -37,32 +37,17 @@
     "name:ceb_x_preferred":[
         "Aquitania"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u57fa\u5854\u5c3c\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Aquitania"
-    ],
     "name:eng_x_preferred":[
         "Aquitania"
     ],
     "name:fra_x_preferred":[
         "Aquitania"
     ],
-    "name:fre_x_preferred":[
-        "Aquitania"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10d9\u10d8\u10e2\u10d0\u10dc\u10d8\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Aquitania"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10d9\u10d8\u10e2\u10d0\u10dc\u10d8\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Aquitania"
     ],
     "name:msa_x_preferred":[
         "Aquitania"
@@ -93,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Aquitania"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u57fa\u5854\u5c3c\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -156,7 +144,7 @@
         }
     ],
     "wof:id":421202515,
-    "wof:lastmodified":1554489036,
+    "wof:lastmodified":1561759450,
     "wof:name":"Aquitania",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

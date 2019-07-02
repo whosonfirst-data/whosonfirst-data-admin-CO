@@ -33,28 +33,25 @@
     "mps:longitude":-73.948805,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u798f\u65af\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Fosca"
-    ],
     "name:eng_x_preferred":[
         "Fosca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fosca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10dd\u10e1\u10d9\u10d0"
     ],
     "name:ita_x_preferred":[
         "Fosca"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e4\u10dd\u10e1\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Fosca"
     ],
     "name:nan_x_preferred":[
+        "Fosca"
+    ],
+    "name:nld_x_preferred":[
         "Fosca"
     ],
     "name:spa_x_preferred":[
@@ -68,6 +65,9 @@
     ],
     "name:war_x_preferred":[
         "Fosca"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u65af\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108700645,
-    "wof:lastmodified":1554489297,
+    "wof:lastmodified":1561759344,
     "wof:name":"Fosca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

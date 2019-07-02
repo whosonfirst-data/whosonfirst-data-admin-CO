@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.94059,
-    "geom:area_square_m":23837811405.046158,
+    "geom:area_square_m":23837811405.045044,
     "geom:bbox":"-72.3683114193,6.03835143098,-69.4304667624,7.10438066499",
     "geom:latitude":6.569909,
     "geom:longitude":-70.968822,
@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0631\u0648\u0643\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Arauca"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cb\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -44,20 +41,20 @@
     "name:cat_x_preferred":[
         "Departament d'Arauca"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u52b3\u5361\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Arauca"
     ],
     "name:dan_x_preferred":[
         "Arauca"
     ],
+    "name:deu_x_preferred":[
+        "Departamento del Arauca"
+    ],
     "name:diq_x_preferred":[
         "Atlantiko"
     ],
-    "name:dut_x_preferred":[
-        "Arauca"
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03ac\u03bf\u03c5\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Arauca"
@@ -65,17 +62,17 @@
     "name:epo_x_preferred":[
         "Ara\u016dko"
     ],
+    "name:eus_x_preferred":[
+        "Arauca"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0631\u0627\u0626\u0648\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Arauca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arauca"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e0\u10d0\u10e3\u10d9\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento del Arauca"
     ],
     "name:gla_x_preferred":[
         "Arauca"
@@ -85,9 +82,6 @@
     ],
     "name:glg_x_preferred":[
         "Arauca"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03ac\u03bf\u03c5\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab0\u0acc\u0a95\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -119,6 +113,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0cb0\u0ccc\u0c95 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e0\u10d0\u10e3\u10d9\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ub77c\uc6b0\uce74 \uc8fc"
     ],
@@ -131,10 +128,13 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u094c\u0915\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Arauca"
     ],
     "name:nan_x_preferred":[
+        "Arauca"
+    ],
+    "name:nld_x_preferred":[
         "Arauca"
     ],
     "name:nno_x_preferred":[
@@ -142,9 +142,6 @@
     ],
     "name:nob_x_preferred":[
         "Arauca"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0622\u0631\u0627\u0626\u0648\u06a9\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0631\u0627\u0624\u06a9\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -158,7 +155,7 @@
     "name:que_x_preferred":[
         "Arauca suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Arauca"
     ],
     "name:rus_x_preferred":[
@@ -173,7 +170,7 @@
     "name:sin_x_preferred":[
         "\u0d85\u0dbb\u0dc0\u0dd4\u0d9a\u0dcf \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Arauca"
     ],
     "name:spa_x_preferred":[
@@ -214,6 +211,9 @@
     ],
     "name:yor_x_preferred":[
         "Arauca Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u52b3\u5361\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -338,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814741,
+    "wof:lastmodified":1561759226,
     "wof:name":"Arauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

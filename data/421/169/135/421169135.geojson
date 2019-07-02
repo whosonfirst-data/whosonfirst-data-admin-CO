@@ -20,23 +20,11 @@
     "name:ceb_x_preferred":[
         "Jurad\u00f3"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u62c9\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Jurad\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Jurad\u00f3"
     ],
     "name:fra_x_preferred":[
         "Jurad\u00f3"
-    ],
-    "name:fre_x_preferred":[
-        "Jurad\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10e0\u10d0\u10d3\u10dd"
     ],
     "name:ita_x_preferred":[
         "Jurad\u00f3"
@@ -46,9 +34,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10e3\u10e0\u10d0\u10d3\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Jurad\u00f3"
     ],
     "name:msa_x_preferred":[
         "Jurad\u00f3"
@@ -79,6 +64,9 @@
     ],
     "name:war_x_preferred":[
         "Jurad\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u62c9\u591a"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Colombia",
@@ -220,7 +208,7 @@
         }
     ],
     "wof:id":421169135,
-    "wof:lastmodified":1527716163,
+    "wof:lastmodified":1561759440,
     "wof:name":"Jurad\u00f3",
     "wof:parent_id":1108700769,
     "wof:placetype":"locality",

@@ -33,28 +33,25 @@
     "mps:longitude":-73.145154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u574e\u6ce2\u57c3\u723e\u83ab\u7d22"
-    ],
-    "name:dut_x_preferred":[
-        "Campohermoso"
-    ],
     "name:eng_x_preferred":[
         "Campohermoso"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Campohermoso"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10d0\u10db\u10de\u10dd\u10d4\u10e0\u10db\u10dd\u10e1\u10dd"
     ],
     "name:ita_x_preferred":[
         "Campohermoso"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10db\u10de\u10dd\u10d4\u10e0\u10db\u10dd\u10e1\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Campohermoso"
     ],
     "name:nan_x_preferred":[
+        "Campohermoso"
+    ],
+    "name:nld_x_preferred":[
         "Campohermoso"
     ],
     "name:por_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Campohermoso"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u6ce2\u57c3\u723e\u83ab\u7d22"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108700205,
-    "wof:lastmodified":1554489279,
+    "wof:lastmodified":1561759373,
     "wof:name":"Campohermoso",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

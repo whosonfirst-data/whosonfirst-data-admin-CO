@@ -40,14 +40,8 @@
     "name:cat_x_preferred":[
         "Savoia"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u6c83\u4e9e"
-    ],
     "name:deu_x_preferred":[
         "Savoia"
-    ],
-    "name:dut_x_preferred":[
-        "Saboy\u00e1"
     ],
     "name:eng_x_preferred":[
         "Saboy\u00e1"
@@ -59,11 +53,8 @@
     "name:eus_x_preferred":[
         "Savoia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saboy\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d1\u10dd\u10d8\u10d0"
     ],
     "name:glg_x_preferred":[
         "Savoia"
@@ -77,10 +68,16 @@
     "name:ita_x_preferred":[
         "Savoia"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d1\u10dd\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Saboy\u00e1"
     ],
     "name:nan_x_preferred":[
+        "Saboy\u00e1"
+    ],
+    "name:nld_x_preferred":[
         "Saboy\u00e1"
     ],
     "name:oci_x_preferred":[
@@ -112,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "Saboy\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6c83\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":421188641,
-    "wof:lastmodified":1554488970,
+    "wof:lastmodified":1561759462,
     "wof:name":"Saboy\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

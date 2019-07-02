@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "S\u00e1chica"
     ],
-    "name:chi_x_preferred":[
-        "\u85a9\u5947\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e1chica"
-    ],
     "name:eng_x_preferred":[
         "S\u00e1chica"
     ],
     "name:fra_x_preferred":[
         "S\u00e1chica"
     ],
-    "name:fre_x_preferred":[
-        "S\u00e1chica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10e9\u10d8\u10d9\u10d0"
-    ],
     "name:ita_x_preferred":[
         "S\u00e1chica"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e9\u10d8\u10d9\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "S\u00e1chica"
     ],
     "name:msa_x_preferred":[
         "S\u00e1chica"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "S\u00e1chica"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u5947\u5361"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +108,7 @@
         }
     ],
     "wof:id":421198031,
-    "wof:lastmodified":1513943750,
+    "wof:lastmodified":1561759469,
     "wof:name":"S\u00e1chica",
     "wof:parent_id":421188643,
     "wof:placetype":"locality",

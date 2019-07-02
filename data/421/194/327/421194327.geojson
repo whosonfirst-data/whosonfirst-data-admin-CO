@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "Imu\u00e9s"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u7a46\u57c3\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Imu\u00e9s"
-    ],
     "name:eng_x_preferred":[
         "Imu\u00e9s"
     ],
     "name:fra_x_preferred":[
         "Imu\u00e9s"
     ],
-    "name:fre_x_preferred":[
-        "Imu\u00e9s"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10db\u10e3\u10d4\u10e1\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Imu\u00e9s"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10db\u10e3\u10d4\u10e1\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Imues"
     ],
     "name:msa_x_preferred":[
         "Imues"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Imu\u00e9s"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u7a46\u57c3\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421194327,
-    "wof:lastmodified":1527716136,
+    "wof:lastmodified":1561759437,
     "wof:name":"Imu\u00e9s",
     "wof:parent_id":1108701017,
     "wof:placetype":"locality",

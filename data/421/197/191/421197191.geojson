@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Moniquir\u00e1"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u5c3c\u57fa\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Moniquir\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Moniquir\u00e1"
     ],
@@ -56,20 +50,11 @@
     "name:fra_x_preferred":[
         "Moniquir\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Moniquir\u00e1"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10d8\u10d9\u10d8\u10e0\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Moniquir\u00e1"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10d8\u10d9\u10d8\u10e0\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Moniquir\u00e1"
     ],
     "name:msa_x_preferred":[
         "Moniquir\u00e1"
@@ -79,9 +64,6 @@
     ],
     "name:nld_x_preferred":[
         "Moniquir\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u06cc\u06a9\u06cc\u0631\u0627"
     ],
     "name:por_x_preferred":[
         "Moniquir\u00e1"
@@ -100,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Moniquir\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5c3c\u57fa\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -163,7 +148,7 @@
         }
     ],
     "wof:id":421197191,
-    "wof:lastmodified":1554489022,
+    "wof:lastmodified":1561759473,
     "wof:name":"Moniquir\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

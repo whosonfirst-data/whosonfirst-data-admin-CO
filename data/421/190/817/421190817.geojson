@@ -34,12 +34,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5716\u74e6\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Tubar\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Tubar\u00e1"
     ],
@@ -47,11 +41,11 @@
         "Tubara",
         "Tubar\u00e1"
     ],
-    "name:fre_x_preferred":[
-        "Tubar\u00e1"
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0628\u0627\u0631\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10e3\u10d1\u10d0\u10e0\u10d0"
+    "name:fra_x_preferred":[
+        "Tubar\u00e1"
     ],
     "name:gla_x_preferred":[
         "Tubar\u00e1"
@@ -59,14 +53,17 @@
     "name:ita_x_preferred":[
         "Tubar\u00e1"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e2\u10e3\u10d1\u10d0\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Tubar\u00e1"
     ],
     "name:nan_x_preferred":[
         "Tubar\u00e1"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0628\u0627\u0631\u0627"
+    "name:nld_x_preferred":[
+        "Tubar\u00e1"
     ],
     "name:por_x_preferred":[
         "Tubar\u00e1"
@@ -88,6 +85,9 @@
     ],
     "name:war_x_preferred":[
         "Tubar\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u74e6\u62c9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -150,7 +150,7 @@
         }
     ],
     "wof:id":421190817,
-    "wof:lastmodified":1554488989,
+    "wof:lastmodified":1561759472,
     "wof:name":"Tubar\u00e1",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

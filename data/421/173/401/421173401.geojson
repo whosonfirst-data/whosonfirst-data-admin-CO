@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "C\u00e1cota"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u79d1\u5854"
-    ],
-    "name:dut_x_preferred":[
-        "C\u00e1cota"
-    ],
     "name:eng_x_preferred":[
         "C\u00e1cota"
     ],
     "name:fra_x_preferred":[
         "C\u00e1cota"
     ],
-    "name:fre_x_preferred":[
-        "C\u00e1cota"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d9\u10dd\u10e2\u10d0"
-    ],
     "name:ita_x_preferred":[
         "C\u00e1cota"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10d9\u10dd\u10e2\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "C\u00e1cota"
     ],
     "name:msa_x_preferred":[
         "C\u00e1cota"
@@ -72,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "C\u00e1cota"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u79d1\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421173401,
-    "wof:lastmodified":1527716255,
+    "wof:lastmodified":1561759458,
     "wof:name":"Cacota",
     "wof:parent_id":1108701093,
     "wof:placetype":"locality",

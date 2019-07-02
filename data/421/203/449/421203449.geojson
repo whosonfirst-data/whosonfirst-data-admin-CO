@@ -40,16 +40,13 @@
     "name:ces_x_preferred":[
         "Potos\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u6258\u897f"
-    ],
     "name:dan_x_preferred":[
         "Potosi"
     ],
     "name:deu_x_preferred":[
         "Potosi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Potos\u00ed"
     ],
     "name:eng_x_preferred":[
@@ -65,22 +62,16 @@
     "name:fra_x_preferred":[
         "Potos\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Potos\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10dd\u10e2\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Potos\u00ed"
-    ],
     "name:hbs_x_preferred":[
         "Potosi"
     ],
     "name:ita_x_preferred":[
         "Potosi"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10de\u10dd\u10e2\u10dd\u10e1\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Potos\u00ed"
     ],
     "name:nan_x_preferred":[
@@ -118,6 +109,9 @@
     ],
     "name:war_x_preferred":[
         "Potos\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6ce2\u6258\u897f"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -179,7 +173,7 @@
         }
     ],
     "wof:id":421203449,
-    "wof:lastmodified":1554489041,
+    "wof:lastmodified":1561759446,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

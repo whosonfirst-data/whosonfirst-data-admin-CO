@@ -16,10 +16,7 @@
     "name:ceb_x_preferred":[
         "La Uni\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u70cf\u5c3c\u7fc1"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:eng_x_preferred":[
@@ -28,23 +25,11 @@
     "name:fra_x_preferred":[
         "La Uni\u00f3n"
     ],
-    "name:fre_x_preferred":[
-        "La Uni\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10e3\u10dc\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "La Uni\u00f3n"
-    ],
     "name:ita_x_preferred":[
         "La Uni\u00f3n"
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d0-\u10e3\u10dc\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "La Uni\u00f3n"
     ],
     "name:msa_x_preferred":[
         "La Uni\u00f3n"
@@ -69,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "La Uni\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u70cf\u5c3c\u7fc1"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -118,7 +106,7 @@
         }
     ],
     "wof:id":421177781,
-    "wof:lastmodified":1527716486,
+    "wof:lastmodified":1561759488,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":1108701397,
     "wof:placetype":"locality",

@@ -16,32 +16,20 @@
     "name:ceb_x_preferred":[
         "Cu\u00edtiva"
     ],
-    "name:chi_x_preferred":[
-        "\u594e\u8482\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Cu\u00edtiva"
-    ],
     "name:eng_x_preferred":[
         "Cuitiva"
     ],
     "name:fra_x_preferred":[
         "Cu\u00edtiva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Cuitiva"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10e3\u10e2\u10d8\u10d5\u10d0"
     ],
     "name:ita_x_preferred":[
         "Cu\u00edtiva"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e3\u10e2\u10d8\u10d5\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Cuitiva"
     ],
     "name:msa_x_preferred":[
         "Cuitiva"
@@ -72,6 +60,9 @@
     ],
     "name:war_x_preferred":[
         "Cuitiva"
+    ],
+    "name:zho_x_preferred":[
+        "\u594e\u8482\u74e6"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -120,7 +111,7 @@
         }
     ],
     "wof:id":421199367,
-    "wof:lastmodified":1513941996,
+    "wof:lastmodified":1561759475,
     "wof:name":"Cu\u00edtiva",
     "wof:parent_id":421184109,
     "wof:placetype":"locality",

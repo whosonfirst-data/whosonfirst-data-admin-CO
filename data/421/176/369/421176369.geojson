@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "San Juan de Betulia"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u8c9d\u5716\u5229\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "San Juan de Betulia"
-    ],
     "name:eng_x_preferred":[
         "San Juan Betulia"
     ],
     "name:fra_x_preferred":[
         "San Juan de Betulia"
     ],
-    "name:fre_x_preferred":[
-        "San Juan de Betulia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d1\u10d4\u10e2\u10e3\u10da\u10d8\u10d0"
-    ],
     "name:ita_x_preferred":[
         "San Juan de Betulia"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10ee\u10e3\u10d0\u10dc-\u10d1\u10d4\u10e2\u10e3\u10da\u10d8\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "San Juan Betulia"
     ],
     "name:msa_x_preferred":[
         "San Juan Betulia"
@@ -51,6 +36,9 @@
     ],
     "name:nld_x_preferred":[
         "San Juan Betulia"
+    ],
+    "name:nld_x_variant":[
+        "San Juan de Betulia"
     ],
     "name:spa_x_preferred":[
         "San Juan de Betulia"
@@ -121,7 +109,7 @@
         }
     ],
     "wof:id":421176369,
-    "wof:lastmodified":1527726473,
+    "wof:lastmodified":1561759496,
     "wof:name":"San Juan de Betulia",
     "wof:parent_id":1108701413,
     "wof:placetype":"locality",

@@ -37,32 +37,17 @@
     "name:ceb_x_preferred":[
         "Tangua"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u74dc"
-    ],
-    "name:dut_x_preferred":[
-        "Tangua"
-    ],
     "name:eng_x_preferred":[
         "Tangua"
     ],
     "name:fra_x_preferred":[
         "Tangua"
     ],
-    "name:fre_x_preferred":[
-        "Tangua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10d0\u10dc\u10d2\u10e3\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Tangua"
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10dc\u10d2\u10e3\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Tangua"
     ],
     "name:msa_x_preferred":[
         "Tangua"
@@ -90,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Tangua"
+    ],
+    "name:zho_x_preferred":[
+        "\u5766\u74dc"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -153,7 +141,7 @@
         }
     ],
     "wof:id":421205099,
-    "wof:lastmodified":1554489052,
+    "wof:lastmodified":1561759451,
     "wof:name":"Tangua",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -49,20 +49,14 @@
     "name:ces_x_preferred":[
         "Mit\u00fa"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u56fe"
-    ],
-    "name:cze_x_preferred":[
-        "Mit\u00fa"
-    ],
     "name:dan_x_preferred":[
         "Mit\u00fa"
     ],
     "name:deu_x_preferred":[
         "Mit\u00fa"
     ],
-    "name:dut_x_preferred":[
-        "Mit\u00fa"
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Mit\u00fa"
@@ -80,17 +74,8 @@
     "name:fra_x_preferred":[
         "Mit\u00fa"
     ],
-    "name:fre_x_preferred":[
-        "Mit\u00fa"
-    ],
-    "name:ger_x_preferred":[
-        "Mit\u00fa"
-    ],
     "name:gla_x_preferred":[
         "Mit\u00fa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c4\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0a9f\u0ac1"
@@ -125,17 +110,17 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u091f\u0941"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mit\u00fa"
     ],
     "name:nan_x_preferred":[
         "Mit\u00fa"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Mit\u00fa"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u062a\u0648"
+    "name:nob_x_preferred":[
+        "Mit\u00fa"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u062a\u0648"
@@ -187,6 +172,9 @@
     ],
     "name:war_x_preferred":[
         "Mit\u00fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u56fe"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -247,7 +235,7 @@
         }
     ],
     "wof:id":421170241,
-    "wof:lastmodified":1554488754,
+    "wof:lastmodified":1561759484,
     "wof:name":"Mit\u00fa",
     "wof:parent_id":85670259,
     "wof:placetype":"county",

@@ -16,32 +16,17 @@
     "name:ceb_x_preferred":[
         "San Diego"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u5730\u4e9e\u54e5"
-    ],
-    "name:dut_x_preferred":[
-        "San Diego"
-    ],
     "name:eng_x_preferred":[
         "San Diego"
     ],
     "name:fra_x_preferred":[
         "San Diego"
     ],
-    "name:fre_x_preferred":[
-        "San Diego"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d3\u10d8\u10d4\u10d2\u10dd"
-    ],
     "name:ita_x_preferred":[
         "San Diego"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10dc-\u10d3\u10d8\u10d4\u10d2\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "San Diego"
     ],
     "name:msa_x_preferred":[
         "San Diego"
@@ -81,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u8fed\u6208"
+    ],
+    "name:zho_x_variant":[
+        "\u8056\u5730\u4e9e\u54e5"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -130,7 +118,7 @@
         }
     ],
     "wof:id":421198833,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561759469,
     "wof:name":"San Diego",
     "wof:parent_id":1108700557,
     "wof:placetype":"locality",

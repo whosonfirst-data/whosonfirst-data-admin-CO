@@ -46,14 +46,8 @@
     "name:ces_x_preferred":[
         "Helik\u00f3nie"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5229\u5b54\u4e9e"
-    ],
     "name:deu_x_preferred":[
         "Helikonien"
-    ],
-    "name:dut_x_preferred":[
-        "Heliconia"
     ],
     "name:eng_x_preferred":[
         "Heliconia"
@@ -63,12 +57,6 @@
     ],
     "name:fra_x_preferred":[
         "Heliconia"
-    ],
-    "name:fre_x_preferred":[
-        "Heliconia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d8\u10d9\u10dd\u10dc\u10d8\u10d0"
     ],
     "name:gla_x_preferred":[
         "Heliconia"
@@ -88,6 +76,9 @@
     "name:jpn_x_preferred":[
         "\u30aa\u30a6\u30e0\u30d0\u30ca\u79d1"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d8\u10d9\u10dd\u10dc\u10d8\u10d0"
+    ],
     "name:koi_x_preferred":[
         "\u0413\u0435\u043b\u0438\u043a\u043e\u043d\u0438\u044f"
     ],
@@ -100,9 +91,6 @@
     "name:mal_x_preferred":[
         "\u0d39\u0d46\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d23\u0d3f\u0d2f"
     ],
-    "name:may_x_preferred":[
-        "Heliconia"
-    ],
     "name:mhr_x_preferred":[
         "\u0413\u0435\u043b\u0438\u043a\u043e\u043d\u0438\u0439"
     ],
@@ -111,6 +99,9 @@
     ],
     "name:msa_x_preferred":[
         "Pokok Sepit Udang"
+    ],
+    "name:msa_x_variant":[
+        "Heliconia"
     ],
     "name:nan_x_preferred":[
         "Heliconia"
@@ -128,9 +119,6 @@
         "Helic\u00f4nia"
     ],
     "name:ron_x_preferred":[
-        "Heliconia"
-    ],
-    "name:rum_x_preferred":[
         "Heliconia"
     ],
     "name:rus_x_preferred":[
@@ -165,6 +153,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8d6b\u8549\u5c6c"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u5229\u5b54\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -227,7 +218,7 @@
         }
     ],
     "wof:id":421184085,
-    "wof:lastmodified":1554488942,
+    "wof:lastmodified":1561759479,
     "wof:name":"Heliconia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

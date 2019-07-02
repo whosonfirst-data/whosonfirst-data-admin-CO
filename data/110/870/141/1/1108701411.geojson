@@ -36,35 +36,32 @@
     "name:cat_x_preferred":[
         "San Benito Abad"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u8c9d\u5c3c\u6258\u963f\u74e6\u5fb7"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Benito Abad"
     ],
     "name:eng_x_preferred":[
         "San Benito Abad"
     ],
-    "name:fre_x_preferred":[
-        "San Benito Abad"
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u0646\u06cc\u062a\u0648 \u0622\u0628\u0627\u062f"
     ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc-\u10d1\u10d4\u10dc\u10d8\u10e2\u10dd-\u10d0\u10d1\u10d0\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Benito Abad"
     ],
     "name:ita_x_preferred":[
         "San Benito Abad"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc-\u10d1\u10d4\u10dc\u10d8\u10e2\u10dd-\u10d0\u10d1\u10d0\u10d3\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "San Benito Abad"
     ],
     "name:nan_x_preferred":[
         "San Benito Abad"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0627\u0646 \u0628\u0646\u06cc\u062a\u0648 \u0622\u0628\u0627\u062f"
+    "name:nld_x_preferred":[
+        "San Benito Abad"
     ],
     "name:spa_x_preferred":[
         "San Benito Abad"
@@ -77,6 +74,9 @@
     ],
     "name:war_x_preferred":[
         "San Benito Abad"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8c9d\u5c3c\u6258\u963f\u74e6\u5fb7"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108701411,
-    "wof:lastmodified":1554489340,
+    "wof:lastmodified":1561759392,
     "wof:name":"San Benito Abad",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

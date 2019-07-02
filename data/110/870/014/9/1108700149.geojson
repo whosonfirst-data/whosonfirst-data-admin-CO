@@ -36,12 +36,6 @@
     "name:cat_x_preferred":[
         "San Estanislao"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u57c3\u65af\u5854\u5c3c\u65af\u52de"
-    ],
-    "name:dut_x_preferred":[
-        "San Estanislao"
-    ],
     "name:eng_x_preferred":[
         "San Estanislao"
     ],
@@ -50,7 +44,7 @@
         "San Estanislao de Kostka",
         "San Estanislao"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Estanislao"
     ],
     "name:glg_x_preferred":[
@@ -59,10 +53,13 @@
     "name:ita_x_preferred":[
         "San Estanislao"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Estanislao"
     ],
     "name:nan_x_preferred":[
+        "San Estanislao"
+    ],
+    "name:nld_x_preferred":[
         "San Estanislao"
     ],
     "name:por_x_preferred":[
@@ -79,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "San Estanislao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u57c3\u65af\u5854\u5c3c\u65af\u52de"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1108700149,
-    "wof:lastmodified":1555047384,
+    "wof:lastmodified":1561759331,
     "wof:name":"San Estanislao",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

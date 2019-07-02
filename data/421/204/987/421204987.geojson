@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Sup\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u8607\u76ae\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Sup\u00eda"
-    ],
     "name:eng_x_preferred":[
         "Sup\u00eda"
     ],
@@ -31,20 +25,11 @@
     "name:fra_x_preferred":[
         "Sup\u00eda"
     ],
-    "name:fre_x_preferred":[
-        "Sup\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10de\u10d8\u10d0"
-    ],
     "name:ita_x_preferred":[
         "Sup\u00eda"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10de\u10d8\u10d0"
-    ],
-    "name:may_x_preferred":[
-        "Sup\u00eda"
     ],
     "name:msa_x_preferred":[
         "Sup\u00eda"
@@ -54,9 +39,6 @@
     ],
     "name:nld_x_preferred":[
         "Sup\u00eda"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u0648\u067e\u06cc\u0627"
     ],
     "name:por_x_preferred":[
         "Sup\u00eda"
@@ -72,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Sup\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u76ae\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -121,7 +106,7 @@
         }
     ],
     "wof:id":421204987,
-    "wof:lastmodified":1527716187,
+    "wof:lastmodified":1561759446,
     "wof:name":"Sup\u00eda",
     "wof:parent_id":1108700399,
     "wof:placetype":"locality",

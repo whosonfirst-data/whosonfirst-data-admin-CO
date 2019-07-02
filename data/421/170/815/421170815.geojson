@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Sopetr\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u4f69\u7279\u862d"
-    ],
-    "name:dut_x_preferred":[
-        "Sopetr\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Sopetr\u00e1n"
     ],
     "name:fra_x_preferred":[
         "Sopetr\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Sopetr\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10dd\u10de\u10d4\u10e2\u10e0\u10d0\u10dc\u10d8"
     ],
     "name:ile_x_preferred":[
         "Sopetr\u00e1n"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10de\u10d4\u10e2\u10e0\u10d0\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Sopetr\u00e1n"
     ],
     "name:msa_x_preferred":[
         "Sopetr\u00e1n"
@@ -58,7 +43,7 @@
     "name:por_x_preferred":[
         "Sopetr\u00e1n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sopetr\u00e1n"
     ],
     "name:rus_x_preferred":[
@@ -78,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Sopetr\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u4f69\u7279\u862d"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -125,7 +113,7 @@
         }
     ],
     "wof:id":421170815,
-    "wof:lastmodified":1513943705,
+    "wof:lastmodified":1561759485,
     "wof:name":"Sopetr\u00e1n",
     "wof:parent_id":1108699973,
     "wof:placetype":"locality",

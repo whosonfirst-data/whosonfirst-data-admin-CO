@@ -16,23 +16,11 @@
     "name:ceb_x_preferred":[
         "Ca\u00f1asgordas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5c3c\u4e9e\u65af\u6208\u9054\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Ca\u00f1asgordas"
-    ],
     "name:eng_x_preferred":[
         "Ca\u00f1asgordas"
     ],
     "name:fra_x_preferred":[
         "Ca\u00f1asgordas"
-    ],
-    "name:fre_x_preferred":[
-        "Ca\u00f1asgordas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10dc\u10d8\u10d0\u10e1\u10d2\u10dd\u10e0\u10d3\u10d0\u10e1\u10d8"
     ],
     "name:ile_x_preferred":[
         "Ca\u00f1asgordas"
@@ -42,9 +30,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10dc\u10d8\u10d0\u10e1\u10d2\u10dd\u10e0\u10d3\u10d0\u10e1\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Ca\u00f1asgordas"
     ],
     "name:msa_x_preferred":[
         "Ca\u00f1asgordas"
@@ -59,9 +44,6 @@
         "Ca\u00f1asgordas"
     ],
     "name:ron_x_preferred":[
-        "Ca\u00f1asgordas"
-    ],
-    "name:rum_x_preferred":[
         "Ca\u00f1asgordas"
     ],
     "name:rus_x_preferred":[
@@ -81,6 +63,9 @@
     ],
     "name:war_x_preferred":[
         "Ca\u00f1asgordas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5c3c\u4e9e\u65af\u6208\u9054\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -129,7 +114,7 @@
         }
     ],
     "wof:id":421194333,
-    "wof:lastmodified":1527716134,
+    "wof:lastmodified":1561759437,
     "wof:name":"Ca\u00f1asgordas",
     "wof:parent_id":1108699941,
     "wof:placetype":"locality",

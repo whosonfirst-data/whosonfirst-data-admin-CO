@@ -33,10 +33,7 @@
     "mps:longitude":-73.325984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u52a0\u862d"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:eng_x_preferred":[
@@ -46,22 +43,22 @@
         "Galan",
         "Gal\u00e1n"
     ],
-    "name:fre_x_preferred":[
-        "Gal\u00e1n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10da\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:ita_x_preferred":[
         "Gal\u00e1n"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10da\u10d0\u10dc\u10d8"
+    ],
+    "name:msa_x_preferred":[
         "Galan"
     ],
     "name:nan_x_preferred":[
+        "Gal\u00e1n"
+    ],
+    "name:nld_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:spa_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:war_x_preferred":[
         "Galan"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u862d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1108701255,
-    "wof:lastmodified":1555037384,
+    "wof:lastmodified":1561759393,
     "wof:name":"Gal\u00e1n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -37,12 +37,6 @@
     "name:ceb_x_preferred":[
         "Falan"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u862d"
-    ],
-    "name:dut_x_preferred":[
-        "Falan"
-    ],
     "name:eng_x_preferred":[
         "Falan"
     ],
@@ -53,20 +47,11 @@
     "name:fra_x_preferred":[
         "Falan"
     ],
-    "name:fre_x_preferred":[
-        "Falan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10da\u10d0\u10dc\u10d8"
-    ],
     "name:ita_x_preferred":[
         "Falan"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10d0\u10da\u10d0\u10dc\u10d8"
-    ],
-    "name:may_x_preferred":[
-        "Falan"
     ],
     "name:msa_x_preferred":[
         "Falan"
@@ -91,6 +76,9 @@
     ],
     "name:war_x_preferred":[
         "Falan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u862d"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -141,7 +129,7 @@
         }
     ],
     "wof:id":421184139,
-    "wof:lastmodified":1554488946,
+    "wof:lastmodified":1561759480,
     "wof:name":"Falan",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

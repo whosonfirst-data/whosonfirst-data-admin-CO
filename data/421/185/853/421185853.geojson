@@ -40,13 +40,7 @@
     "name:ceb_x_preferred":[
         "Montenegro"
     ],
-    "name:chi_x_preferred":[
-        "\u8499\u7279\u5167\u683c\u7f85"
-    ],
     "name:deu_x_preferred":[
-        "Montenegro"
-    ],
-    "name:dut_x_preferred":[
         "Montenegro"
     ],
     "name:eng_x_preferred":[
@@ -58,15 +52,6 @@
     "name:fra_x_preferred":[
         "Montenegro"
     ],
-    "name:fre_x_preferred":[
-        "Montenegro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10dd\u10dc\u10e2\u10d4\u10dc\u10d4\u10d2\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Montenegro"
-    ],
     "name:ita_x_preferred":[
         "Montenegro"
     ],
@@ -75,9 +60,6 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10dc\u10d4\u10d2\u10e0\u10dd"
-    ],
-    "name:may_x_preferred":[
-        "Montenegro"
     ],
     "name:msa_x_preferred":[
         "Montenegro"
@@ -94,9 +76,6 @@
     "name:nor_x_preferred":[
         "Montenegro"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u0646\u062a\u0646\u06af\u0631\u0648"
-    ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u043d\u0435\u0433\u0440\u043e"
     ],
@@ -111,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Montenegro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u7279\u5167\u683c\u7f85"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -174,7 +156,7 @@
         }
     ],
     "wof:id":421185853,
-    "wof:lastmodified":1555037105,
+    "wof:lastmodified":1561759499,
     "wof:name":"Montenegro",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

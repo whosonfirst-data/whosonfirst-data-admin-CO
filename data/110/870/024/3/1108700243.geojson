@@ -33,28 +33,25 @@
     "mps:longitude":-73.312838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u52a0\u62c9\u6208\u963f"
-    ],
-    "name:dut_x_preferred":[
-        "Garagoa"
-    ],
     "name:eng_x_preferred":[
         "Garagoa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Garagoa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10d0\u10e0\u10d0\u10d2\u10dd\u10d0"
     ],
     "name:ita_x_preferred":[
         "Garagoa"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d2\u10d0\u10e0\u10d0\u10d2\u10dd\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Garagoa"
     ],
     "name:nan_x_preferred":[
+        "Garagoa"
+    ],
+    "name:nld_x_preferred":[
         "Garagoa"
     ],
     "name:por_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Garagoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u62c9\u6208\u963f"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108700243,
-    "wof:lastmodified":1554489279,
+    "wof:lastmodified":1561759325,
     "wof:name":"Garagoa",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

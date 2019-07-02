@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u063a\u0648\u0627\u0641\u064a\u0627\u0631\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Guaviare"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09be\u09ad\u09bf\u09b0\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -47,17 +44,17 @@
     "name:ces_x_preferred":[
         "Guaviare"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u7ef4\u4e9a\u96f7\u7701"
-    ],
     "name:dan_x_preferred":[
         "Guaviare Department"
+    ],
+    "name:deu_x_preferred":[
+        "Guaviare"
     ],
     "name:diq_x_preferred":[
         "Guaviyare"
     ],
-    "name:dut_x_preferred":[
-        "Guaviare"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03b2\u03b9\u03ac\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Guaviare"
@@ -65,16 +62,16 @@
     "name:epo_x_preferred":[
         "G\u016davjaro"
     ],
+    "name:eus_x_preferred":[
+        "Guaviare"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0648\u0627\u0648\u06cc\u0631\u0647"
+    ],
     "name:fin_x_preferred":[
         "Guaviare"
     ],
-    "name:fre_x_preferred":[
-        "Guaviare"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10d0\u10d5\u10d8\u10d0\u10e0\u10d4\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Guaviare"
     ],
     "name:gla_x_preferred":[
@@ -82,9 +79,6 @@
     ],
     "name:glg_x_preferred":[
         "Guaviare"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b1\u03b2\u03b9\u03ac\u03c1\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0a86\u0ab5\u0abf\u0ab0\u0ac7 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -116,6 +110,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0cc1\u0cb5\u0cbe\u0cb5\u0cbf\u0cb0\u0cc6 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10d0\u10d5\u10d8\u10d0\u10e0\u10d4\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uacfc\ube44\uc544\ub808 \uc8fc"
     ],
@@ -128,7 +125,7 @@
     "name:mar_x_preferred":[
         "\u0917\u0941\u0906\u0935\u093f\u0930\u0947 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Guaviare"
     ],
     "name:nan_x_preferred":[
@@ -142,9 +139,6 @@
     ],
     "name:nob_x_preferred":[
         "Guaviare"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0648\u0627\u0648\u06cc\u0631\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u06af\u0648\u0627\u0648\u06cc\u0627\u0631\u06d2 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -209,6 +203,9 @@
     ],
     "name:yor_x_preferred":[
         "Guaviare Department"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u7ef4\u4e9a\u96f7\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COL",
@@ -333,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550545,
+    "wof:lastmodified":1561759223,
     "wof:name":"Guaviare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

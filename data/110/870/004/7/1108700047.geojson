@@ -33,12 +33,6 @@
     "mps:longitude":-74.152926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6c38\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Yond\u00f3"
-    ],
     "name:eng_x_preferred":[
         "Yond\u00f3"
     ],
@@ -47,11 +41,8 @@
         "Yond\u00f3",
         "Yond\u00f3 (Casabe)"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yond\u00f3"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10dd\u10dc\u10d3\u10dd"
     ],
     "name:ile_x_preferred":[
         "Yond\u00f3"
@@ -59,7 +50,10 @@
     "name:ita_x_preferred":[
         "Yond\u00f3"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d8\u10dd\u10dc\u10d3\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Yond\u00f3"
     ],
     "name:nah_x_preferred":[
@@ -68,10 +62,13 @@
     "name:nan_x_preferred":[
         "Yond\u00f3"
     ],
+    "name:nld_x_preferred":[
+        "Yond\u00f3"
+    ],
     "name:por_x_preferred":[
         "Yond\u00f3"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Yond\u00f3"
     ],
     "name:rus_x_preferred":[
@@ -91,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Yond\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u591a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":1108700047,
-    "wof:lastmodified":1555047382,
+    "wof:lastmodified":1561759379,
     "wof:name":"Yond\u00f3",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

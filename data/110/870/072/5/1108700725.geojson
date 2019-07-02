@@ -33,12 +33,6 @@
     "mps:longitude":-74.477481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u70cf\u8482\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "\u00datica"
-    ],
     "name:eng_x_preferred":[
         "\u00datica"
     ],
@@ -46,19 +40,22 @@
         "Utica",
         "\u00datica"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00datica"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e2\u10d8\u10d9\u10d0"
     ],
     "name:ita_x_preferred":[
         "\u00datica"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e3\u10e2\u10d8\u10d9\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "\u00datica"
     ],
     "name:nan_x_preferred":[
+        "\u00datica"
+    ],
+    "name:nld_x_preferred":[
         "\u00datica"
     ],
     "name:nob_x_preferred":[
@@ -81,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "\u00datica"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u8482\u5361"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -118,7 +118,7 @@
         }
     ],
     "wof:id":1108700725,
-    "wof:lastmodified":1555047393,
+    "wof:lastmodified":1561759376,
     "wof:name":"\u00datica",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

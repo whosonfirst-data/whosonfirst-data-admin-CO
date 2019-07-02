@@ -16,28 +16,25 @@
     "name:cat_x_preferred":[
         "Santa Mar\u00eda"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u99ac\u91cc\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Mar\u00eda"
-    ],
     "name:eng_x_preferred":[
         "Santa Mar\u00eda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Mar\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10db\u10d0\u10e0\u10d8\u10d0"
     ],
     "name:ita_x_preferred":[
         "Santa Mar\u00eda"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10db\u10d0\u10e0\u10d8\u10d0"
+    ],
+    "name:msa_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:nan_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:nld_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:por_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:war_x_preferred":[
         "Santa Mar\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u91cc\u4e9e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":421204983,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1561759445,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108700323,
     "wof:placetype":"locality",

@@ -13,32 +13,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u963f\u585e\u97cb\u591a"
-    ],
-    "name:dut_x_preferred":[
-        "Acevedo"
-    ],
     "name:eng_x_preferred":[
         "Acevedo"
     ],
-    "name:fre_x_preferred":[
-        "Acevedo"
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u0648\u062f\u0648\u060c \u0647\u0648\u06cc\u0644\u0627"
     ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e1\u10d4\u10d5\u10d4\u10d3\u10dd"
+    "name:fra_x_preferred":[
+        "Acevedo"
     ],
     "name:ita_x_preferred":[
         "Acevedo"
     ],
-    "name:may_x_preferred":[
+    "name:kat_x_preferred":[
+        "\u10d0\u10e1\u10d4\u10d5\u10d4\u10d3\u10dd"
+    ],
+    "name:msa_x_preferred":[
         "Acevedo"
     ],
     "name:nan_x_preferred":[
         "Acevedo"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u0648\u062f\u0648\u060c \u0647\u0648\u06cc\u0644\u0627"
+    "name:nld_x_preferred":[
+        "Acevedo"
     ],
     "name:por_x_preferred":[
         "Acevedo"
@@ -60,6 +57,9 @@
     ],
     "name:war_x_preferred":[
         "Acevedo"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u585e\u97cb\u591a"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421182619,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1561759493,
     "wof:name":"Acevedo",
     "wof:parent_id":1108700841,
     "wof:placetype":"locality",
