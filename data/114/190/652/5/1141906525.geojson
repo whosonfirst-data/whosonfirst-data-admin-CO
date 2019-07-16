@@ -21,10 +21,19 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mocoa"
+    ],
+    "name:aze_x_preferred":[
+        "Mokoa"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u0995\u09cb\u09af\u09bc\u09be"
     ],
     "name:cat_x_preferred":[
+        "Mocoa"
+    ],
+    "name:ceb_x_preferred":[
         "Mocoa"
     ],
     "name:dan_x_preferred":[
@@ -49,6 +58,9 @@
         "Mocoa"
     ],
     "name:fra_x_preferred":[
+        "Mocoa"
+    ],
+    "name:frr_x_preferred":[
         "Mocoa"
     ],
     "name:gla_x_preferred":[
@@ -102,6 +114,9 @@
     "name:nld_x_preferred":[
         "Mocoa"
     ],
+    "name:nno_x_preferred":[
+        "Mocoa"
+    ],
     "name:nob_x_preferred":[
         "Mocoa"
     ],
@@ -143,6 +158,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e42\u0e01\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Mocoa"
@@ -295,7 +313,7 @@
         }
     ],
     "wof:id":1141906525,
-    "wof:lastmodified":1561759591,
+    "wof:lastmodified":1563312273,
     "wof:name":"Mocoa",
     "wof:parent_id":421170259,
     "wof:placetype":"locality",

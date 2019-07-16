@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sahag\u00fan"
+    ],
     "name:ceb_x_preferred":[
         "Sahag\u00fan"
     ],
@@ -60,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06c1\u0627\u06af\u0646\u060c \u06a9\u0648\u0631\u0688\u0648\u0628\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06c1\u0627\u06af\u0646"
     ],
     "name:vie_x_preferred":[
         "Sahag\u00fan"
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421179465,
-    "wof:lastmodified":1561759490,
+    "wof:lastmodified":1563309505,
     "wof:name":"Sahag\u00fan",
     "wof:parent_id":1108700599,
     "wof:placetype":"locality",

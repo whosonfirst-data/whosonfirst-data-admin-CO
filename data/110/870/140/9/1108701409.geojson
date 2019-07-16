@@ -33,12 +33,20 @@
     "mps:longitude":-75.391501,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Sampu\u00e9s"
+    ],
+    "name:ceb_x_preferred":[
+        "Sampu\u00e9s"
+    ],
+    "name:deu_x_preferred":[
+        "Sampu\u00e9s"
+    ],
     "name:eng_x_preferred":[
         "Sampu\u00e9s"
     ],
     "name:eng_x_variant":[
-        "Sampues",
-        "Sampu\u00e9s"
+        "Sampues"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0645\u067e\u0648\u0626\u0633"
@@ -76,6 +84,9 @@
     "name:zho_x_preferred":[
         "\u6851\u666e\u57c3\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u8c9d\u7d0d\u8fea\u7d04"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -112,7 +123,7 @@
         }
     ],
     "wof:id":1108701409,
-    "wof:lastmodified":1561759395,
+    "wof:lastmodified":1563307689,
     "wof:name":"Sampu\u00e9s",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

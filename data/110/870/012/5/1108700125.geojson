@@ -33,6 +33,15 @@
     "mps:longitude":-75.183266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Mahates"
+    ],
+    "name:ceb_x_preferred":[
+        "Mahates"
+    ],
+    "name:deu_x_preferred":[
+        "Mahates"
+    ],
     "name:eng_x_preferred":[
         "Mahates"
     ],
@@ -59,6 +68,9 @@
     ],
     "name:por_x_preferred":[
         "Mahates"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0430\u0442\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Mahates"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108700125,
-    "wof:lastmodified":1561759326,
+    "wof:lastmodified":1563307306,
     "wof:name":"Mahates",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

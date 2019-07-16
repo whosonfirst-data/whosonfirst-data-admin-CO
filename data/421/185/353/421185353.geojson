@@ -34,15 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Boyac\u00e1"
+    ],
     "name:bre_x_preferred":[
         "Boyac\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Boyac\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ca\u03b1\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Boyac\u00e1"
     ],
     "name:eng_x_variant":[
-        "Boyaca",
-        "Boyac\u00e1"
+        "Boyaca"
     ],
     "name:fra_x_preferred":[
         "Boyac\u00e1"
@@ -64,6 +72,9 @@
     ],
     "name:por_x_preferred":[
         "Boyac\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u044f\u043a\u0430"
     ],
     "name:sco_x_preferred":[
         "Boyac\u00e1"
@@ -146,7 +157,7 @@
         }
     ],
     "wof:id":421185353,
-    "wof:lastmodified":1561759498,
+    "wof:lastmodified":1563309601,
     "wof:name":"Boyac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -33,6 +33,15 @@
     "mps:longitude":-74.177062,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ci\u00e9naga"
+    ],
+    "name:cat_x_preferred":[
+        "Ci\u00e9naga"
+    ],
+    "name:ceb_x_preferred":[
+        "Ci\u00e9naga"
+    ],
     "name:deu_x_preferred":[
         "Ci\u00e9naga"
     ],
@@ -42,8 +51,7 @@
     "name:eng_x_variant":[
         "Cienaga",
         "Ci\u00e9naga",
-        "Zona Bananera (Prado Sevilla)",
-        "Zona Bananera"
+        "Zona Bananera (Prado Sevilla)"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0646\u0627\u06af\u0627"
@@ -84,6 +92,9 @@
     "name:spa_x_preferred":[
         "Ci\u00e9naga de carlos florez"
     ],
+    "name:spa_x_variant":[
+        "Ci\u00e9naga"
+    ],
     "name:swe_x_preferred":[
         "Ci\u00e9naga"
     ],
@@ -123,7 +134,7 @@
         }
     ],
     "wof:id":1108700923,
-    "wof:lastmodified":1561759382,
+    "wof:lastmodified":1563307610,
     "wof:name":"Zona Bananera",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

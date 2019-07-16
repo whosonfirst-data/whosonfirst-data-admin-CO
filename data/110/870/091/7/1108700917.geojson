@@ -33,6 +33,12 @@
     "mps:longitude":-74.728748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Tenerife"
+    ],
+    "name:ceb_x_preferred":[
+        "Tenerife"
+    ],
     "name:eng_x_preferred":[
         "Tenerife"
     ],
@@ -60,6 +66,9 @@
     "name:por_x_preferred":[
         "Tenerife"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043d\u0435\u0440\u0438\u0444\u0435"
+    ],
     "name:sco_x_preferred":[
         "Tenerife"
     ],
@@ -71,6 +80,9 @@
     ],
     "name:tgl_x_preferred":[
         "Tenerife"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043d\u0435\u0440\u0438\u0444\u0435"
     ],
     "name:war_x_preferred":[
         "Tenerife"
@@ -102,7 +114,7 @@
         }
     ],
     "wof:id":1108700917,
-    "wof:lastmodified":1561759336,
+    "wof:lastmodified":1563307364,
     "wof:name":"Tenerife",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

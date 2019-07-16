@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Plata"
+    ],
     "name:ceb_x_preferred":[
         "La Plata"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0644\u0627\u0679\u0627\u060c \u06c1\u0648\u06cc\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u067e\u0644\u0627\u0679\u0627"
     ],
     "name:war_x_preferred":[
         "La Plata"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421181095,
-    "wof:lastmodified":1561759468,
+    "wof:lastmodified":1563309273,
     "wof:name":"La Plata",
     "wof:parent_id":1108700823,
     "wof:placetype":"locality",

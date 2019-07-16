@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0648\u0643\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Sucre"
+    ],
+    "name:aze_x_preferred":[
+        "Sukre"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u0995\u09cd\u09b0\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -56,6 +62,9 @@
     "name:eng_x_preferred":[
         "Sucre"
     ],
+    "name:eng_x_variant":[
+        "Sucre Department"
+    ],
     "name:epo_x_preferred":[
         "Sukreo"
     ],
@@ -69,6 +78,9 @@
         "Sucre"
     ],
     "name:fra_x_preferred":[
+        "Sucre"
+    ],
+    "name:frr_x_preferred":[
         "Sucre"
     ],
     "name:gla_x_preferred":[
@@ -85,6 +97,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0942\u0915\u094d\u0930 \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hin_x_variant":[
+        "\u0938\u0942\u0915\u094d\u0930\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hun_x_preferred":[
         "Sucre megye"
@@ -109,6 +124,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc218\ud06c\ub808 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc218\ud06c\ub808\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Sucre"
     ],
     "name:lav_x_preferred":[
         "Sukres departaments"
@@ -173,8 +194,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Sucre"
     ],
+    "name:tgl_x_variant":[
+        "Sucre"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e39\u0e40\u0e01\u0e23"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e39\u0e40\u0e01\u0e23"
     ],
     "name:tur_x_preferred":[
         "Sucre"
@@ -323,7 +350,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759222,
+    "wof:lastmodified":1563303864,
     "wof:name":"Sucre",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

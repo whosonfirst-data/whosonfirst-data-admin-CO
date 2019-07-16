@@ -16,6 +16,9 @@
     "name:arg_x_preferred":[
         "Mosquera"
     ],
+    "name:ast_x_preferred":[
+        "Mosquera"
+    ],
     "name:deu_x_preferred":[
         "Mosquera"
     ],
@@ -67,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u83ab\u65af\u514b\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u4f0a\u57fa\u62c9"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3674293,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421197735,
-    "wof:lastmodified":1561759474,
+    "wof:lastmodified":1563309350,
     "wof:name":"Mosquera",
     "wof:parent_id":1108701039,
     "wof:placetype":"locality",

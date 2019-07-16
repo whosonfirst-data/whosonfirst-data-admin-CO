@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Argentina"
+    ],
     "name:cat_x_preferred":[
         "La Argentina"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646\u060c \u06c1\u0648\u06cc\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
     ],
     "name:war_x_preferred":[
         "La Argentina"
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421179623,
-    "wof:lastmodified":1561759490,
+    "wof:lastmodified":1563309516,
     "wof:name":"La Argentina",
     "wof:parent_id":1108700821,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Venecia"
+    ],
     "name:ceb_x_preferred":[
         "Venecia"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:spa_x_preferred":[
         "Venecia"
+    ],
+    "name:spa_x_variant":[
+        "Regidor"
     ],
     "name:swe_x_preferred":[
         "Venecia"
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421180585,
-    "wof:lastmodified":1561759455,
+    "wof:lastmodified":1563309136,
     "wof:name":"Venecia",
     "wof:parent_id":1108700691,
     "wof:placetype":"locality",

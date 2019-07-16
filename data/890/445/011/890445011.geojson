@@ -15,6 +15,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Arroyohondo"
+    ],
+    "name:ceb_x_preferred":[
+        "Arroyohondo"
+    ],
     "name:eng_x_preferred":[
         "Arroyo Hondo"
     ],
@@ -38,6 +44,9 @@
     ],
     "name:por_x_preferred":[
         "Arroyo Hondo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0440\u043e\u0439\u043e\u043e\u043d\u0434\u043e"
     ],
     "name:spa_x_preferred":[
         "Arroyohondo"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890445011,
-    "wof:lastmodified":1561759504,
+    "wof:lastmodified":1563309694,
     "wof:name":"Arroyohondo",
     "wof:parent_id":1108700101,
     "wof:placetype":"locality",

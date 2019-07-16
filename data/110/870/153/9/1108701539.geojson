@@ -33,6 +33,12 @@
     "mps:longitude":-71.927683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pore"
+    ],
+    "name:ceb_x_preferred":[
+        "Pore"
+    ],
     "name:eng_x_preferred":[
         "Pore"
     ],
@@ -66,11 +72,17 @@
     "name:tgl_x_preferred":[
         "Pore"
     ],
+    "name:vie_x_preferred":[
+        "Pore"
+    ],
     "name:war_x_preferred":[
         "Pore"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u96f7"
+    ],
+    "name:zho_x_variant":[
+        "\u7c73\u65af\u7279\u62c9\u6258"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +120,7 @@
         }
     ],
     "wof:id":1108701539,
-    "wof:lastmodified":1561759352,
+    "wof:lastmodified":1563307464,
     "wof:name":"Pore",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

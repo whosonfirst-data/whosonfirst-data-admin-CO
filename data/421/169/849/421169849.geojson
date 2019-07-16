@@ -37,6 +37,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0628\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u0627\u0644\u064a\u062f\u0648\u0628\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Valledupar"
+    ],
+    "name:aze_x_preferred":[
+        "Valyedupar"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09cd\u09af\u09be\u09b2\u09c7\u09a6\u09c1\u09aa\u09be\u09b0"
     ],
@@ -47,6 +56,9 @@
         "\u0412\u0430\u043b\u0435\u0434\u0443\u043f\u0430\u0440"
     ],
     "name:cat_x_preferred":[
+        "Valledupar"
+    ],
+    "name:ceb_x_preferred":[
         "Valledupar"
     ],
     "name:ces_x_preferred":[
@@ -79,7 +91,13 @@
     "name:fra_x_preferred":[
         "Valledupar"
     ],
+    "name:frr_x_preferred":[
+        "Valledupar"
+    ],
     "name:gla_x_preferred":[
+        "Valledupar"
+    ],
+    "name:glg_x_preferred":[
         "Valledupar"
     ],
     "name:guj_x_preferred":[
@@ -90,6 +108,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u0947\u0933\u094d\u0933\u093e\u0921\u0941\u092a\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Valledupar"
     ],
     "name:ind_x_preferred":[
         "Valledupar"
@@ -160,6 +181,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0bbe\u0bb2\u0bcd\u0bb2\u0bc7\u0b9f\u0bc1\u0baa\u0bb0\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0412\u0430\u043b\u044c\u0435\u0434\u0443\u043f\u0430\u0440"
+    ],
     "name:tel_x_preferred":[
         "\u0c35\u0c32\u0c4d\u0c32\u0c46\u0c26\u0c41\u0c2a\u0c30\u0c4d"
     ],
@@ -168,6 +192,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e27\u0e31\u0e25\u0e40\u0e25\u0e22\u0e4c\u0e14\u0e39\u0e1b\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e40\u0e22\u0e14\u0e39\u0e1b\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Valledupar"
@@ -238,7 +265,7 @@
         }
     ],
     "wof:id":421169849,
-    "wof:lastmodified":1561759442,
+    "wof:lastmodified":1563309002,
     "wof:name":"Valledupar",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

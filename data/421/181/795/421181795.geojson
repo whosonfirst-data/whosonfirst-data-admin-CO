@@ -34,6 +34,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Zarzal"
+    ],
+    "name:ceb_x_preferred":[
+        "Zarzal"
+    ],
     "name:deu_x_preferred":[
         "Zarzal"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:ita_x_preferred":[
         "Zarzal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30eb\u30b5\u30eb"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10e0\u10e1\u10d0\u10da\u10d8"
@@ -66,6 +75,9 @@
     ],
     "name:spa_x_preferred":[
         "Zarzal"
+    ],
+    "name:spa_x_variant":[
+        "Casabe"
     ],
     "name:swe_x_preferred":[
         "Zarzal"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":421181795,
-    "wof:lastmodified":1561759468,
+    "wof:lastmodified":1563309270,
     "wof:name":"Zarzal",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

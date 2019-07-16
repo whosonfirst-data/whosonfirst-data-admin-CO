@@ -33,6 +33,15 @@
     "mps:longitude":-74.787711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ponedera"
+    ],
+    "name:ceb_x_preferred":[
+        "Ponedera"
+    ],
+    "name:deu_x_preferred":[
+        "Ponedera"
+    ],
     "name:eng_x_preferred":[
         "Ponedera"
     ],
@@ -56,6 +65,9 @@
     ],
     "name:por_x_preferred":[
         "Ponedera"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043d\u0435\u0434\u0435\u0440\u0430"
     ],
     "name:sco_x_preferred":[
         "Ponedera"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108700071,
-    "wof:lastmodified":1561759340,
+    "wof:lastmodified":1563307381,
     "wof:name":"Ponedera",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

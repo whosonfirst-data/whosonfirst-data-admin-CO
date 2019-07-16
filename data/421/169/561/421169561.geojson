@@ -19,11 +19,17 @@
     "name:arg_x_preferred":[
         "Lebrija"
     ],
+    "name:ast_x_preferred":[
+        "Lebrija"
+    ],
     "name:cat_x_preferred":[
         "Lebrija"
     ],
     "name:ceb_x_preferred":[
         "Lebrija"
+    ],
+    "name:ceb_x_variant":[
+        "Lebr\u00edja"
     ],
     "name:deu_x_preferred":[
         "Lebrija"
@@ -100,6 +106,9 @@
     "name:swe_x_preferred":[
         "Lebrija"
     ],
+    "name:swe_x_variant":[
+        "Lebr\u00edja"
+    ],
     "name:tgl_x_preferred":[
         "Lebrija"
     ],
@@ -174,7 +183,7 @@
         }
     ],
     "wof:id":421169561,
-    "wof:lastmodified":1561759440,
+    "wof:lastmodified":1563308986,
     "wof:name":"Lebrija",
     "wof:parent_id":1108701287,
     "wof:placetype":"locality",

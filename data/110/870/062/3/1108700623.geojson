@@ -33,15 +33,23 @@
     "mps:longitude":-74.410172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Arbel\u00e1ez"
+    ],
+    "name:ceb_x_preferred":[
+        "Arbel\u00e1ez"
+    ],
     "name:eng_x_preferred":[
         "Arbel\u00e1ez"
     ],
     "name:eng_x_variant":[
-        "Arbelaez",
-        "Arbel\u00e1ez"
+        "Arbelaez"
     ],
     "name:fra_x_preferred":[
         "Arbel\u00e1ez"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d1\u05dc\u05d0\u05e1"
     ],
     "name:ita_x_preferred":[
         "Arbel\u00e1ez"
@@ -112,7 +120,7 @@
         }
     ],
     "wof:id":1108700623,
-    "wof:lastmodified":1561759338,
+    "wof:lastmodified":1563307371,
     "wof:name":"Arbel\u00e1ez",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

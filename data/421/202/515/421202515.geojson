@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Aquitania"
+    ],
     "name:ceb_x_preferred":[
         "Aquitania"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:por_x_preferred":[
         "Aquitania"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0438\u0442\u0430\u043d\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "Aquitania"
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":421202515,
-    "wof:lastmodified":1561759450,
+    "wof:lastmodified":1563309082,
     "wof:name":"Aquitania",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

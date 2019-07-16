@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
     "name:ceb_x_preferred":[
         "Pe\u00f1ol"
     ],
@@ -42,13 +45,15 @@
     ],
     "name:eng_x_variant":[
         "Penol",
-        "Pe\u00f1ol",
         "El Pe\u00f1ol"
     ],
     "name:fra_x_preferred":[
         "El Pe\u00f1ol"
     ],
     "name:ile_x_preferred":[
+        "El Pe\u00f1ol"
+    ],
+    "name:ilo_x_preferred":[
         "El Pe\u00f1ol"
     ],
     "name:ita_x_preferred":[
@@ -161,7 +166,7 @@
         }
     ],
     "wof:id":421170569,
-    "wof:lastmodified":1561759481,
+    "wof:lastmodified":1563309430,
     "wof:name":"Pe\u00f1ol",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

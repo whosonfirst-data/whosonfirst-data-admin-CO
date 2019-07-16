@@ -34,13 +34,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Riosucio"
+    ],
     "name:cat_x_preferred":[
         "Riosucio"
     ],
-    "name:eng_x_preferred":[
+    "name:deu_x_preferred":[
         "Riosucio"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Riosucio"
     ],
     "name:fra_x_preferred":[
@@ -53,6 +56,9 @@
         "\u10e0\u10d8\u10dd\u10e1\u10e3\u10e1\u10d8\u10dd"
     ],
     "name:msa_x_preferred":[
+        "Riosucio"
+    ],
+    "name:nan_x_preferred":[
         "Riosucio"
     ],
     "name:nld_x_preferred":[
@@ -70,8 +76,20 @@
     "name:tgl_x_preferred":[
         "Riosucio"
     ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0456\u043e\u0441\u0443\u0441\u0456\u043e"
+    ],
     "name:unk_x_variant":[
         "R\u00edosucio"
+    ],
+    "name:vie_x_preferred":[
+        "Riosucio"
+    ],
+    "name:war_x_preferred":[
+        "Riosucio"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u8607\u897f\u5967"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -123,7 +141,7 @@
         }
     ],
     "wof:id":421205091,
-    "wof:lastmodified":1561759451,
+    "wof:lastmodified":1563309086,
     "wof:name":"Riosucio",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Guadalupe"
+    ],
     "name:ceb_x_preferred":[
         "Guadalupe"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u74dc\u9054\u76e7\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u666e\u57c3\u96f7\u65af"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421173427,
-    "wof:lastmodified":1561759459,
+    "wof:lastmodified":1563309177,
     "wof:name":"Guadalupe",
     "wof:parent_id":1108701265,
     "wof:placetype":"locality",

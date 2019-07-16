@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Potos\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Potosi"
     ],
@@ -53,8 +56,7 @@
         "Potos\u00ed"
     ],
     "name:eng_x_variant":[
-        "Potosi",
-        "Potos\u00ed"
+        "Potosi"
     ],
     "name:fin_x_preferred":[
         "Potosi"
@@ -67,6 +69,9 @@
     ],
     "name:ita_x_preferred":[
         "Potosi"
+    ],
+    "name:ita_x_variant":[
+        "Potos\u00ed"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10dd\u10e2\u10dd\u10e1\u10d8"
@@ -91,6 +96,9 @@
     ],
     "name:sco_x_preferred":[
         "Potosi"
+    ],
+    "name:sco_x_variant":[
+        "Potos\u00ed"
     ],
     "name:spa_x_preferred":[
         "Potos\u00ed"
@@ -173,7 +181,7 @@
         }
     ],
     "wof:id":421203449,
-    "wof:lastmodified":1561759446,
+    "wof:lastmodified":1563309051,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

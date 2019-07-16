@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Francisco"
+    ],
     "name:ceb_x_preferred":[
         "San Francisco"
     ],
@@ -67,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u8056\u5f17\u862d\u897f\u65af\u79d1"
     ],
+    "name:zho_x_variant":[
+        "\u62c9\u54c8\u74dc\u5fb7\u723e\u76ae\u62c9\u723e"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3669881,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421167791,
-    "wof:lastmodified":1561759439,
+    "wof:lastmodified":1563308973,
     "wof:name":"San Francisco",
     "wof:parent_id":1108701573,
     "wof:placetype":"locality",

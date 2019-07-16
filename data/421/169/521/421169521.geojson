@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Pedro"
+    ],
     "name:eng_x_preferred":[
         "San Pedro"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u5229"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":421169521,
-    "wof:lastmodified":1561759440,
+    "wof:lastmodified":1563308993,
     "wof:name":"San Pedro",
     "wof:parent_id":421184143,
     "wof:placetype":"locality",

@@ -33,17 +33,25 @@
     "mps:longitude":-76.973926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Bajo Baud\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Pizarro"
+    ],
     "name:eng_x_preferred":[
         "Medio Baud\u00f3"
     ],
     "name:eng_x_variant":[
         "Bajo Baudo (pizarro)",
         "Bajo Baud\u00f3",
-        "Medio Baud\u00f3 (Boca De Pep\u00e9)",
-        "Medio Baud\u00f3"
+        "Medio Baud\u00f3 (Boca De Pep\u00e9)"
     ],
     "name:fra_x_preferred":[
         "Bajo Baud\u00f3"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d7\u05d5 \u05d1\u05d0\u05d5\u05d3\u05d5"
     ],
     "name:ita_x_preferred":[
         "Bajo Baud\u00f3"
@@ -108,7 +116,7 @@
         }
     ],
     "wof:id":1108700777,
-    "wof:lastmodified":1561759329,
+    "wof:lastmodified":1563307315,
     "wof:name":"Medio Baud\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

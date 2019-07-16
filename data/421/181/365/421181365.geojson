@@ -17,8 +17,20 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0648\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "C\u00facuta"
+    ],
+    "name:aym_x_preferred":[
+        "C\u00facuta"
+    ],
+    "name:aze_x_preferred":[
+        "Kukuta"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0443\u043a\u0443\u0442\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0443\u043a\u0443\u0442\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u0995\u09c1\u099f\u09be"
@@ -62,6 +74,9 @@
     "name:fra_x_preferred":[
         "C\u00facuta"
     ],
+    "name:frr_x_preferred":[
+        "C\u00facuta"
+    ],
     "name:gla_x_preferred":[
         "C\u00facuta"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:lit_x_preferred":[
         "Kukuta"
+    ],
+    "name:ltz_x_preferred":[
+        "C\u00facuta"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0915\u0942\u091f\u093e"
@@ -163,6 +181,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0b9a\u0bc1\u0b9f\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u043a\u0443\u0442\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c41\u0c15\u0c41\u0c1f\u0c3e"
@@ -340,7 +361,7 @@
         }
     ],
     "wof:id":421181365,
-    "wof:lastmodified":1561759467,
+    "wof:lastmodified":1563309257,
     "wof:name":"C\u00facuta",
     "wof:parent_id":1108701087,
     "wof:placetype":"locality",

@@ -37,6 +37,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0632\u0627\u0644\u064a\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Manizales"
+    ],
+    "name:aym_x_preferred":[
+        "Manizales"
+    ],
+    "name:aze_x_preferred":[
+        "Manisales"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09bf\u099c\u09c7\u09b2\u09b8"
     ],
@@ -46,11 +55,17 @@
     "name:cat_x_preferred":[
         "Manizales"
     ],
+    "name:ceb_x_preferred":[
+        "Manizales"
+    ],
     "name:ces_x_preferred":[
         "Manizales"
     ],
     "name:cym_x_preferred":[
         "Manizales"
+    ],
+    "name:cym_x_variant":[
+        "Manizales,Colombia"
     ],
     "name:dan_x_preferred":[
         "Manizales"
@@ -76,7 +91,13 @@
     "name:fra_x_preferred":[
         "Manizales"
     ],
+    "name:frr_x_preferred":[
+        "Manizales"
+    ],
     "name:gla_x_preferred":[
+        "Manizales"
+    ],
+    "name:glg_x_preferred":[
         "Manizales"
     ],
     "name:guj_x_preferred":[
@@ -163,8 +184,14 @@
     "name:swe_x_preferred":[
         "Manizales"
     ],
+    "name:szl_x_preferred":[
+        "Manizales"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba3\u0bbf\u0b9a\u0bbe\u0bb2\u0bc7\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0441\u0430\u043b\u0435\u0441"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c23\u0c3f\u0c1c\u0c32\u0c47\u0c38\u0c4d"
@@ -263,7 +290,7 @@
         }
     ],
     "wof:id":421172405,
-    "wof:lastmodified":1561759464,
+    "wof:lastmodified":1563309230,
     "wof:name":"Manizales",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

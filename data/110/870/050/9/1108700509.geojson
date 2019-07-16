@@ -33,8 +33,14 @@
     "mps:longitude":-76.605006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Sotar\u00e1"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u043e\u0442\u0430\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Sotara"
     ],
     "name:deu_x_preferred":[
         "Sotar\u00e1"
@@ -44,7 +50,6 @@
     ],
     "name:eng_x_variant":[
         "Sotara",
-        "Sotar\u00e1",
         "Sotar\u00e1 (Paispamba)"
     ],
     "name:fra_x_preferred":[
@@ -83,6 +88,9 @@
     "name:zho_x_preferred":[
         "\u7d22\u5854\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u5229\u4f2f\u5854\u5fb7\u6e2f"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":1108700509,
-    "wof:lastmodified":1561759383,
+    "wof:lastmodified":1563307614,
     "wof:name":"Sotar\u00e1",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

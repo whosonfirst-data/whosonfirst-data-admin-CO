@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Regidor"
+    ],
+    "name:cat_x_preferred":[
+        "Regidor"
+    ],
     "name:ceb_x_preferred":[
         "Regidor"
     ],
@@ -40,6 +46,9 @@
     "name:por_x_preferred":[
         "Regidor"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0445\u0438\u0434\u043e\u0440"
+    ],
     "name:spa_x_preferred":[
         "Regidor"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Corregimiento Regidor"
+    ],
+    "name:vie_x_preferred":[
+        "Regidor"
     ],
     "name:war_x_preferred":[
         "Regidor"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":421180571,
-    "wof:lastmodified":1561759455,
+    "wof:lastmodified":1563309135,
     "wof:name":"Regidor",
     "wof:parent_id":1108700141,
     "wof:placetype":"locality",

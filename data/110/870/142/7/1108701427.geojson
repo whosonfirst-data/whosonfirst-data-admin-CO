@@ -33,8 +33,14 @@
     "mps:longitude":-74.831601,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Armero"
+    ],
     "name:cat_x_preferred":[
         "Armero"
+    ],
+    "name:ceb_x_preferred":[
+        "Guayabal"
     ],
     "name:ces_x_preferred":[
         "Armero"
@@ -47,7 +53,6 @@
     ],
     "name:eng_x_variant":[
         "Armero (guayabal)",
-        "Armero",
         "Armero (Guayabal)"
     ],
     "name:fra_x_preferred":[
@@ -70,6 +75,9 @@
     ],
     "name:jav_x_preferred":[
         "Armero"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30e1\u30ed"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub974\uba54\ub85c"
@@ -155,7 +163,7 @@
         }
     ],
     "wof:id":1108701427,
-    "wof:lastmodified":1561759346,
+    "wof:lastmodified":1563307423,
     "wof:name":"Armero",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

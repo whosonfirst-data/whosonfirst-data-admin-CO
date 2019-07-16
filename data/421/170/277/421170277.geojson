@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0643\u0648\u0645\u0628\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "La Cumbre"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0430-\u041a\u0443\u043c\u0431\u0440\u0430"
+    ],
     "name:cat_x_preferred":[
         "La Cumbre"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "La Cumbre"
+    ],
+    "name:eng_x_variant":[
+        "La Cumbre( la monta\u00f1a)"
     ],
     "name:epo_x_preferred":[
         "La Cumbre"
@@ -93,6 +102,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0648\u0645\u0628\u0631\u06cc\u060c \u0648\u0627\u0644\u06cc \u062f\u06cc\u0644 \u06a9\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u06a9\u0648\u0645\u0628\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
         "La Cumbre"
@@ -163,7 +175,7 @@
         }
     ],
     "wof:id":421170277,
-    "wof:lastmodified":1561759484,
+    "wof:lastmodified":1563309456,
     "wof:name":"La Cumbre",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

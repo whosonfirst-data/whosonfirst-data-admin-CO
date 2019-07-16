@@ -33,6 +33,12 @@
     "mps:longitude":-77.373539,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "La Florida"
+    ],
+    "name:ceb_x_preferred":[
+        "La Florida"
+    ],
     "name:eng_x_preferred":[
         "El Tambo"
     ],
@@ -71,6 +77,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0641\u0644\u0648\u0631\u0627\u06cc\u0688\u0627\u060c \u0646\u0627\u0631\u06cc\u0646\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0641\u0644\u0648\u0631\u0627\u06cc\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Florida"
     ],
     "name:war_x_preferred":[
         "La Florida"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108701003,
-    "wof:lastmodified":1561759358,
+    "wof:lastmodified":1563307479,
     "wof:name":"El Tambo",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

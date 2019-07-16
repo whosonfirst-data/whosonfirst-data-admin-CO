@@ -26,8 +26,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Quind\u00edo"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u064a\u0646\u062f\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Quind\u00edo"
+    ],
+    "name:aze_x_preferred":[
+        "Kindio"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u09a6\u09bf\u0993 \u09ac\u09bf\u09ad\u09be\u0997"
@@ -65,8 +74,14 @@
     "name:eng_x_preferred":[
         "Quind\u00edo"
     ],
+    "name:eng_x_variant":[
+        "Quind\u00edo Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Kindio"
+    ],
+    "name:epo_x_variant":[
+        "Kindio"
     ],
     "name:eus_x_preferred":[
         "Quind\u00edo"
@@ -78,6 +93,9 @@
         "Quind\u00edo"
     ],
     "name:fra_x_preferred":[
+        "Quind\u00edo"
+    ],
+    "name:frr_x_preferred":[
         "Quind\u00edo"
     ],
     "name:gla_x_preferred":[
@@ -94,6 +112,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0928\u0921\u093f\u092f\u094b \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:hin_x_variant":[
+        "\u0915\u093f\u0928\u094d\u0926\u093f\u092f\u094b \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:hrv_x_preferred":[
         "Quind\u00edo"
@@ -121,6 +142,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a8\ub514\uc624 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0a8\ub514\uc624\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Quind\u00edo"
     ],
     "name:lav_x_preferred":[
         "Kindio departaments"
@@ -192,8 +219,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Quind\u00edo"
     ],
+    "name:tgl_x_variant":[
+        "Quind\u00edo"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e27\u0e34\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e34\u0e19\u0e14\u0e34\u0e42\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Quind\u00edo"
@@ -342,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759206,
+    "wof:lastmodified":1563303823,
     "wof:name":"Quindio",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

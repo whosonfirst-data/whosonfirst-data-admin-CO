@@ -26,8 +26,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Bol\u00edvar"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u0648\u0644\u064a\u0641\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Bol\u00edvar"
+    ],
+    "name:aze_x_preferred":[
+        "Bolivar"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09b2\u09bf\u09ad\u09be\u09b0 \u09ac\u09bf\u09ad\u09be\u0997"
@@ -62,8 +71,14 @@
     "name:eng_x_preferred":[
         "Bol\u00edvar"
     ],
+    "name:eng_x_variant":[
+        "Bol\u00edvar Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Bolivaro"
+    ],
+    "name:epo_x_variant":[
+        "Bolivaro"
     ],
     "name:eus_x_preferred":[
         "Bol\u00edvar"
@@ -71,10 +86,16 @@
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u0644\u06cc\u0648\u0627\u0631\u060c \u06a9\u0644\u0645\u0628\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u0648\u0644\u06cc\u0648\u0627\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bol\u00edvar"
     ],
     "name:fra_x_preferred":[
+        "Bol\u00edvar"
+    ],
+    "name:frr_x_preferred":[
         "Bol\u00edvar"
     ],
     "name:gla_x_preferred":[
@@ -98,6 +119,9 @@
     "name:hun_x_preferred":[
         "Bol\u00edvar megye"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u056b\u057e\u0561\u0580"
+    ],
     "name:ilo_x_preferred":[
         "Bol\u00edvar"
     ],
@@ -118,6 +142,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubcfc\ub9ac\ubc14\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubcfc\ub9ac\ubc14\ub974\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Bolivar"
     ],
     "name:lav_x_preferred":[
         "Bolivara departaments"
@@ -186,8 +216,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Bol\u00edvar"
     ],
+    "name:tgl_x_variant":[
+        "Bol\u00edvar"
+    ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e25\u0e35\u0e27\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e1a\u0e25\u0e34\u0e1a\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Bol\u00edvar"
@@ -336,7 +372,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759225,
+    "wof:lastmodified":1563303871,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -33,6 +33,12 @@
     "mps:longitude":-76.755689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "La Sierra"
+    ],
+    "name:ceb_x_preferred":[
+        "La Sierra"
+    ],
     "name:eng_x_preferred":[
         "La Sierra"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u06cc\u0631\u0627\u060c \u06a9\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0633\u06cc\u0631\u0627"
     ],
     "name:war_x_preferred":[
         "La Sierra"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108700467,
-    "wof:lastmodified":1561759327,
+    "wof:lastmodified":1563307309,
     "wof:name":"La Sierra",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

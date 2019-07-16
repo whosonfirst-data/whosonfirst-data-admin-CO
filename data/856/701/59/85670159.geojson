@@ -26,8 +26,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Cundinamarca"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u0646\u062f\u064a\u0646\u0627\u0645\u0627\u0631\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Cundinamarca"
+    ],
+    "name:aze_x_preferred":[
+        "Kundinamarka"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a8\u09cd\u09a1\u09bf\u09a8\u09be\u09ae\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997"
@@ -59,6 +68,9 @@
     "name:eng_x_preferred":[
         "Cundinamarca"
     ],
+    "name:eng_x_variant":[
+        "Cundinamarca Department"
+    ],
     "name:epo_x_preferred":[
         "Kundinamarko"
     ],
@@ -72,6 +84,9 @@
         "Cundinamarca"
     ],
     "name:fra_x_preferred":[
+        "Cundinamarca"
+    ],
+    "name:frr_x_preferred":[
         "Cundinamarca"
     ],
     "name:gla_x_preferred":[
@@ -115,6 +130,12 @@
     ],
     "name:kor_x_preferred":[
         "\ucfe4\ub514\ub098\ub9c8\ub974\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucfe4\ub514\ub098\ub9c8\ub974\uce74\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Cundinamarca"
     ],
     "name:lav_x_preferred":[
         "Kundinamarkas departaments"
@@ -185,8 +206,14 @@
     "name:tgl_x_preferred":[
         "Departamento ng Cundinamarca"
     ],
+    "name:tgl_x_variant":[
+        "Cundinamarca"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e38\u0e19\u0e14\u0e35\u0e19\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e38\u0e19\u0e14\u0e34\u0e19\u0e32\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Cundinamarca"
@@ -335,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759205,
+    "wof:lastmodified":1563303821,
     "wof:name":"Cundinamarca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

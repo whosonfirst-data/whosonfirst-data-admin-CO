@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0645\u064a\u0631\u0627\u060c \u0641\u0627\u0644\u064a \u062f\u064a\u0644 \u0643\u0627\u0648\u0643\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0644\u0645\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Palmira"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2 \u09ae\u09bf\u09b0\u09be \u09ad\u09c7\u09b2 \u09a1\u09c7\u09b2 \u0995\u09be\u0989\u0995\u09be"
     ],
@@ -47,6 +53,9 @@
         "Palmira"
     ],
     "name:ceb_x_preferred":[
+        "Palmira"
+    ],
+    "name:cym_x_preferred":[
         "Palmira"
     ],
     "name:dan_x_preferred":[
@@ -142,6 +151,12 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbf\u0bb0\u0bbe"
     ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbf\u0bb0\u0bbe "
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c32\u0c4d\u0c2e\u0c3f\u0c30\u0c3e"
     ],
@@ -156,6 +171,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0645\u06cc\u0631\u0627\u060c \u0648\u06cc\u06d2 \u062f\u06cc\u0644 \u06a9\u0627\u0624\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
     ],
     "name:vie_x_preferred":[
         "Palmira"
@@ -234,7 +252,7 @@
         }
     ],
     "wof:id":421205105,
-    "wof:lastmodified":1561759450,
+    "wof:lastmodified":1563309083,
     "wof:name":"Palmira",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Falan"
+    ],
     "name:ceb_x_preferred":[
         "Falan"
     ],
@@ -41,7 +44,6 @@
         "Falan"
     ],
     "name:eng_x_variant":[
-        "Falan",
         "Fal\u00e1n"
     ],
     "name:fra_x_preferred":[
@@ -64,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Fal\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Falan"
     ],
     "name:swe_x_preferred":[
         "Falan"
@@ -129,7 +134,7 @@
         }
     ],
     "wof:id":421184139,
-    "wof:lastmodified":1561759480,
+    "wof:lastmodified":1563309422,
     "wof:name":"Falan",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

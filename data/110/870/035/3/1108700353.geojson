@@ -33,15 +33,20 @@
     "mps:longitude":-73.392987,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Tiban\u00e1"
+    ],
     "name:cat_x_preferred":[
+        "Tiban\u00e1"
+    ],
+    "name:ceb_x_preferred":[
         "Tiban\u00e1"
     ],
     "name:eng_x_preferred":[
         "Tiban\u00e1"
     ],
     "name:eng_x_variant":[
-        "Tibana",
-        "Tiban\u00e1"
+        "Tibana"
     ],
     "name:fra_x_preferred":[
         "Tiban\u00e1"
@@ -63,6 +68,9 @@
     ],
     "name:por_x_preferred":[
         "Tiban\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0438\u0431\u0430\u043d\u0430"
     ],
     "name:spa_x_preferred":[
         "Tiban\u00e1"
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108700353,
-    "wof:lastmodified":1561759380,
+    "wof:lastmodified":1563307598,
     "wof:name":"Tiban\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

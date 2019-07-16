@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pradera"
+    ],
     "name:ceb_x_preferred":[
         "Pradera"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:zho_x_preferred":[
         "\u666e\u62c9\u5fb7\u62c9"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u74dc\u8607\u723e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"ADM2",
@@ -147,7 +153,7 @@
         }
     ],
     "wof:id":421184339,
-    "wof:lastmodified":1561759479,
+    "wof:lastmodified":1563309412,
     "wof:name":"Pradera",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

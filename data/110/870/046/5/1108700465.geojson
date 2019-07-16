@@ -33,12 +33,17 @@
     "mps:longitude":-76.313025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Jambal\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Jambal\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Jambal\u00f3"
     ],
     "name:eng_x_variant":[
-        "Jambalo",
-        "Jambal\u00f3"
+        "Jambalo"
     ],
     "name:fra_x_preferred":[
         "Jambal\u00f3"
@@ -72,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0645\u0628\u0627\u0644\u0648\u060c \u06a9\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0645\u0628\u0627\u0644\u0648"
     ],
     "name:vie_x_preferred":[
         "Jambal\u00f3"
@@ -118,7 +126,7 @@
         }
     ],
     "wof:id":1108700465,
-    "wof:lastmodified":1561759328,
+    "wof:lastmodified":1563307311,
     "wof:name":"Jambal\u00f3",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

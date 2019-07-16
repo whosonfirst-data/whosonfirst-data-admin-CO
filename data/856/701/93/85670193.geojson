@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0646\u0627\u0631\u064a\u0646\u064a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:aze_x_preferred":[
+        "Narino"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b0\u09bf\u09a8\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,8 +65,14 @@
     "name:eng_x_preferred":[
         "Nari\u00f1o"
     ],
+    "name:eng_x_variant":[
+        "Nari\u00f1o Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Nari\u00f1o"
+    ],
+    "name:epo_x_variant":[
+        "Narino"
     ],
     "name:est_x_preferred":[
         "Nari\u00f1o departemang"
@@ -75,6 +87,9 @@
         "Nari\u00f1o"
     ],
     "name:fra_x_preferred":[
+        "Nari\u00f1o"
+    ],
+    "name:frr_x_preferred":[
         "Nari\u00f1o"
     ],
     "name:gla_x_preferred":[
@@ -118,6 +133,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub098\ub9ac\ub1e8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ub9ac\ub1e8\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Nari\u00f1o"
     ],
     "name:lav_x_preferred":[
         "Narinjo departaments"
@@ -192,8 +213,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Nari\u00f1o"
     ],
+    "name:tgl_x_variant":[
+        "Nari\u00f1o"
+    ],
     "name:tha_x_preferred":[
         "\u0e19\u0e32\u0e23\u0e34\u0e42\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e32\u0e23\u0e34\u0e0d\u0e42\u0e0d"
     ],
     "name:tur_x_preferred":[
         "Nari\u00f1o"
@@ -342,7 +369,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759208,
+    "wof:lastmodified":1563303826,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

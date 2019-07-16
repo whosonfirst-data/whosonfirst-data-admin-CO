@@ -26,8 +26,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Vaup\u00e9s"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0641\u0627\u0648\u0628\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Vaup\u00e9s"
+    ],
+    "name:aze_x_preferred":[
+        "Vaupes"
     ],
     "name:ben_x_preferred":[
         "\u09ad\u09c1\u09aa\u09cd\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
@@ -59,11 +68,20 @@
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c0\u03ad\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0392\u03b1\u03bf\u03c5\u03c0\u03ad\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Vaup\u00e9s"
     ],
+    "name:eng_x_variant":[
+        "Vaup\u00e9s Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Va\u016dpeso"
+    ],
+    "name:epo_x_variant":[
+        "Va\u016dpeso"
     ],
     "name:eus_x_preferred":[
         "Vaup\u00e9s"
@@ -75,6 +93,9 @@
         "Vaup\u00e9s"
     ],
     "name:fra_x_preferred":[
+        "Vaup\u00e9s"
+    ],
+    "name:frr_x_preferred":[
         "Vaup\u00e9s"
     ],
     "name:gla_x_preferred":[
@@ -115,6 +136,12 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc6b0\ud398\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc6b0\ud398\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Vaupes"
     ],
     "name:lav_x_preferred":[
         "Vaupesas departaments"
@@ -180,8 +207,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Vaup\u00e9s"
     ],
+    "name:tgl_x_variant":[
+        "Vaup\u00e9s"
+    ],
     "name:tha_x_preferred":[
         "\u0e32\u0e22\u0e38\u0e40\u0e1b\u0e2a \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1a\u0e32\u0e40\u0e1b\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Vaup\u00e9s"
@@ -330,7 +363,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759220,
+    "wof:lastmodified":1563303859,
     "wof:name":"Vaup\u00e9s",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

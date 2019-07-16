@@ -37,6 +37,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u0643\u0627\u0631\u064a\u0646\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0643\u0627\u0631\u064a\u0646\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Puerto Carre\u00f1o"
+    ],
+    "name:aze_x_preferred":[
+        "Puerto-Karreno"
+    ],
     "name:cat_x_preferred":[
         "Puerto Carre\u00f1o"
     ],
@@ -50,8 +59,10 @@
         "Puerto Carre\u00f1o"
     ],
     "name:eng_x_variant":[
-        "Puerto Carreno",
-        "Puerto Carre\u00f1o"
+        "Puerto Carreno"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u06a9\u0627\u0631\u0646\u0648"
     ],
     "name:fin_x_preferred":[
         "Puerto Carre\u00f1o"
@@ -59,8 +70,14 @@
     "name:fra_x_preferred":[
         "Puerto Carre\u00f1o"
     ],
+    "name:frr_x_preferred":[
+        "Puerto Carre\u00f1o"
+    ],
     "name:gla_x_preferred":[
         "Puerto Carre\u00f1o"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05d0\u05e8\u05d8\u05d5 \u05e7\u05e8\u05e0\u05d9\u05d5"
     ],
     "name:ita_x_preferred":[
         "Puerto Carre\u00f1o"
@@ -92,6 +109,9 @@
     "name:pnb_x_preferred":[
         "\u067e\u0648\u0631\u062a\u0648 \u06a9\u0627\u0631\u06cc\u0646\u0648"
     ],
+    "name:pol_x_preferred":[
+        "Puerto Carre\u00f1o"
+    ],
     "name:por_x_preferred":[
         "Puerto Carre\u00f1o"
     ],
@@ -112,6 +132,9 @@
     ],
     "name:tgl_x_preferred":[
         "Puerto Carre\u00f1o"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e01\u0e32\u0e23\u0e4c\u0e40\u0e23\u0e0d\u0e42\u0e0d"
     ],
     "name:tur_x_preferred":[
         "Puerto Carre\u00f1o"
@@ -188,7 +211,7 @@
         }
     ],
     "wof:id":421201569,
-    "wof:lastmodified":1561759476,
+    "wof:lastmodified":1563309382,
     "wof:name":"Puerto Carre\u00f1o",
     "wof:parent_id":85670263,
     "wof:placetype":"county",

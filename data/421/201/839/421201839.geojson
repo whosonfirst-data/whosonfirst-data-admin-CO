@@ -16,11 +16,17 @@
     "name:cat_x_preferred":[
         "Su\u00e1rez"
     ],
+    "name:ceb_x_preferred":[
+        "Su\u00e1rez"
+    ],
     "name:deu_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:eng_x_preferred":[
         "Su\u00e1rez"
+    ],
+    "name:eng_x_variant":[
+        "Su\u00e1rezds"
     ],
     "name:fra_x_preferred":[
         "Su\u00e1rez"
@@ -30,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Su\u00e1rez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30a2\u30ec\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e3\u10d0\u10e0\u10d4\u10e1\u10d8"
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":421201839,
-    "wof:lastmodified":1561759478,
+    "wof:lastmodified":1563309404,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":1108701471,
     "wof:placetype":"locality",

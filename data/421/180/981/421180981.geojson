@@ -34,7 +34,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Marsella"
+    ],
     "name:ceb_x_preferred":[
+        "Marsella"
+    ],
+    "name:deu_x_preferred":[
         "Marsella"
     ],
     "name:eng_x_preferred":[
@@ -59,8 +65,14 @@
     "name:msa_x_preferred":[
         "Marsella"
     ],
+    "name:nan_x_preferred":[
+        "Marsella"
+    ],
     "name:nld_x_preferred":[
         "Marsella"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0441\u0435\u043b\u043b\u0430"
     ],
     "name:spa_x_preferred":[
         "Marsella"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":421180981,
-    "wof:lastmodified":1561759456,
+    "wof:lastmodified":1563309138,
     "wof:name":"Marsella",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

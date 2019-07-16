@@ -33,6 +33,12 @@
     "mps:longitude":-75.247974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Corozal"
+    ],
+    "name:ceb_x_preferred":[
+        "Corozal"
+    ],
     "name:deu_x_preferred":[
         "Corozal"
     ],
@@ -78,6 +84,9 @@
     "name:zho_x_preferred":[
         "\u79d1\u7f85\u85a9\u723e"
     ],
+    "name:zho_x_variant":[
+        "\u79d1\u6d1b\u7d22"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":1108701383,
-    "wof:lastmodified":1561759359,
+    "wof:lastmodified":1563307485,
     "wof:name":"Corozal",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

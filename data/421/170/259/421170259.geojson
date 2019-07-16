@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Mocoa"
+    ],
+    "name:aze_x_preferred":[
+        "Mokoa"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u0995\u09cb\u09af\u09bc\u09be"
     ],
@@ -59,9 +65,7 @@
         "Mocoa"
     ],
     "name:eng_x_variant":[
-        "Mocoa",
-        "San Miguel de Mocoa",
-        "Mocoa"
+        "San Miguel de Mocoa"
     ],
     "name:eus_x_preferred":[
         "Mocoa"
@@ -73,6 +77,9 @@
         "Mocoa"
     ],
     "name:fra_x_preferred":[
+        "Mocoa"
+    ],
+    "name:frr_x_preferred":[
         "Mocoa"
     ],
     "name:gla_x_preferred":[
@@ -126,6 +133,9 @@
     "name:nld_x_preferred":[
         "Mocoa"
     ],
+    "name:nno_x_preferred":[
+        "Mocoa"
+    ],
     "name:nob_x_preferred":[
         "Mocoa"
     ],
@@ -170,6 +180,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e21\u0e42\u0e01\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Mocoa"
@@ -253,7 +266,7 @@
         }
     ],
     "wof:id":421170259,
-    "wof:lastmodified":1561759482,
+    "wof:lastmodified":1563309443,
     "wof:name":"Mocoa",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

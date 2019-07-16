@@ -33,6 +33,12 @@
     "mps:longitude":-76.333129,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Padilla"
+    ],
+    "name:ceb_x_preferred":[
+        "Padilla"
+    ],
     "name:eng_x_preferred":[
         "Padilla"
     ],
@@ -78,6 +84,9 @@
     "name:zho_x_preferred":[
         "\u5e15\u8fea\u4e9e"
     ],
+    "name:zho_x_variant":[
+        "\u76ae\u4e9e\u8499\u7279"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1108700481,
-    "wof:lastmodified":1561759328,
+    "wof:lastmodified":1563307313,
     "wof:name":"Padilla",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

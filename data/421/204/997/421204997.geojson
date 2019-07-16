@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "T\u00faquerres"
+    ],
     "name:ceb_x_preferred":[
         "T\u00faquerres"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "T\u00faquerres"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e7\u05e8\u05e1"
     ],
     "name:ita_x_preferred":[
         "T\u00faquerres"
@@ -49,6 +55,9 @@
     ],
     "name:por_x_preferred":[
         "Tuquerres"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043a\u0435\u0440\u0440\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "T\u00faquerres"
@@ -207,7 +216,7 @@
         }
     ],
     "wof:id":421204997,
-    "wof:lastmodified":1561759444,
+    "wof:lastmodified":1563309020,
     "wof:name":"T\u00faquerres",
     "wof:parent_id":421184335,
     "wof:placetype":"locality",

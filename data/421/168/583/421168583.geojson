@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Santuario"
+    ],
     "name:ceb_x_preferred":[
         "Santuario"
+    ],
+    "name:deu_x_preferred":[
+        "El Santuario"
     ],
     "name:eng_x_preferred":[
         "El Santuario"
@@ -26,6 +32,9 @@
         "El Santuario"
     ],
     "name:gla_x_preferred":[
+        "El Santuario"
+    ],
+    "name:ilo_x_preferred":[
         "El Santuario"
     ],
     "name:ita_x_preferred":[
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421168583,
-    "wof:lastmodified":1561759433,
+    "wof:lastmodified":1563308909,
     "wof:name":"Santuario",
     "wof:parent_id":1108700021,
     "wof:placetype":"locality",

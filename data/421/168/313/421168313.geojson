@@ -94,6 +94,9 @@
     "name:cdo_x_preferred":[
         "Tol\u00fa"
     ],
+    "name:ceb_x_preferred":[
+        "Tol\u00fa"
+    ],
     "name:ces_x_preferred":[
         "Tol\u00fa"
     ],
@@ -143,11 +146,13 @@
         "Tol\u00fa"
     ],
     "name:eng_x_variant":[
-        "Tolu",
-        "Tol\u00fa"
+        "Tolu"
     ],
     "name:epo_x_preferred":[
         "Tol\u00fa"
+    ],
+    "name:epo_x_variant":[
+        "Toluo"
     ],
     "name:est_x_preferred":[
         "Tol\u00fa"
@@ -698,7 +703,7 @@
         }
     ],
     "wof:id":421168313,
-    "wof:lastmodified":1561759432,
+    "wof:lastmodified":1563308905,
     "wof:name":"Tol\u00fa",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

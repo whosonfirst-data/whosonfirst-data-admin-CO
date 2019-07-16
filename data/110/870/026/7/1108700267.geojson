@@ -33,12 +33,17 @@
     "mps:longitude":-74.027742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Marip\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Marip\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Marip\u00ed"
     ],
     "name:eng_x_variant":[
-        "Maripi",
-        "Marip\u00ed"
+        "Maripi"
     ],
     "name:fra_x_preferred":[
         "Marip\u00ed"
@@ -60,6 +65,9 @@
     ],
     "name:por_x_preferred":[
         "Marip\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043f\u0438"
     ],
     "name:spa_x_preferred":[
         "Marip\u00ed"
@@ -103,7 +111,7 @@
         }
     ],
     "wof:id":1108700267,
-    "wof:lastmodified":1561759378,
+    "wof:lastmodified":1563307579,
     "wof:name":"Marip\u00ed",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

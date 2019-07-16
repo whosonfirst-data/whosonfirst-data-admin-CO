@@ -13,7 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Amalfi"
+    ],
     "name:ceb_x_preferred":[
+        "Amalfi"
+    ],
+    "name:cym_x_preferred":[
+        "Amalfi"
+    ],
+    "name:deu_x_preferred":[
         "Amalfi"
     ],
     "name:eng_x_preferred":[
@@ -22,10 +31,16 @@
     "name:fas_x_preferred":[
         "\u0627\u0645\u0627\u0644\u0641\u06cc\u060c \u0627\u0646\u062a\u06cc\u0648\u06a9\u0648\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0645\u0627\u0644\u0641\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Amalfi"
     ],
     "name:ile_x_preferred":[
+        "Amalfi"
+    ],
+    "name:ilo_x_preferred":[
         "Amalfi"
     ],
     "name:ita_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421199591,
-    "wof:lastmodified":1561759475,
+    "wof:lastmodified":1563309366,
     "wof:name":"Amalfi",
     "wof:parent_id":1108699905,
     "wof:placetype":"locality",
