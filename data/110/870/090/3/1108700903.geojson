@@ -33,6 +33,12 @@
     "mps:longitude":-74.581147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Remolino"
+    ],
+    "name:ceb_x_preferred":[
+        "Remolino"
+    ],
     "name:eng_x_preferred":[
         "Remolino"
     ],
@@ -57,6 +63,9 @@
     "name:por_x_preferred":[
         "Remolino"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043c\u043e\u043b\u0438\u043d\u043e"
+    ],
     "name:sco_x_preferred":[
         "Remolino"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:tgl_x_preferred":[
         "Remolino"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043c\u043e\u043b\u0456\u043d\u043e"
     ],
     "name:vie_x_preferred":[
         "Remolino"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108700903,
-    "wof:lastmodified":1561759343,
+    "wof:lastmodified":1563307405,
     "wof:name":"Remolino",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

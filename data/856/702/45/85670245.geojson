@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u063a\u0648\u0627\u0641\u064a\u0627\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Guaviare"
+    ],
+    "name:aze_x_preferred":[
+        "Quavyare"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09be\u09ad\u09bf\u09b0\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,6 +65,9 @@
     "name:eng_x_preferred":[
         "Guaviare"
     ],
+    "name:eng_x_variant":[
+        "Guaviare Department"
+    ],
     "name:epo_x_preferred":[
         "G\u016davjaro"
     ],
@@ -72,6 +81,9 @@
         "Guaviare"
     ],
     "name:fra_x_preferred":[
+        "Guaviare"
+    ],
+    "name:frr_x_preferred":[
         "Guaviare"
     ],
     "name:gla_x_preferred":[
@@ -116,11 +128,20 @@
     "name:kor_x_preferred":[
         "\uacfc\ube44\uc544\ub808 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uacfc\ube44\uc544\ub808\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Guaviare"
+    ],
     "name:lav_x_preferred":[
         "Guavjares departaments"
     ],
     "name:lit_x_preferred":[
         "Gvavjar\u0117"
+    ],
+    "name:lit_x_variant":[
+        "Guavjar\u0117s departamentas"
     ],
     "name:mar_x_preferred":[
         "\u0917\u0941\u0906\u0935\u093f\u0930\u0947 \u0935\u093f\u092d\u093e\u0917"
@@ -180,8 +201,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Guaviare"
     ],
+    "name:tgl_x_variant":[
+        "Guaviare"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e31\u0e27\u0e40\u0e27\u0e35\u0e22\u0e40\u0e23\u0e48 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e31\u0e27\u0e40\u0e1a\u0e35\u0e22\u0e40\u0e23"
     ],
     "name:tur_x_preferred":[
         "Guaviare"
@@ -330,7 +357,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759223,
+    "wof:lastmodified":1563303865,
     "wof:name":"Guaviare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Consac\u00e1"
+    ],
+    "name:ceb_x_preferred":[
+        "Consac\u00e1"
+    ],
     "name:eng_x_preferred":[
         "Consaca"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b54\u85a9\u5361"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5361\u6b66\u79d1"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421176441,
-    "wof:lastmodified":1561759495,
+    "wof:lastmodified":1563309561,
     "wof:name":"Consac\u00e1",
     "wof:parent_id":1108700983,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cu\u00edtiva"
+    ],
     "name:ceb_x_preferred":[
         "Cu\u00edtiva"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:fra_x_variant":[
         "Cuitiva"
+    ],
+    "name:glg_x_preferred":[
+        "Cu\u00edtiva"
     ],
     "name:ita_x_preferred":[
         "Cu\u00edtiva"
@@ -45,6 +51,12 @@
     ],
     "name:por_x_preferred":[
         "Cu\u00edtiva"
+    ],
+    "name:por_x_variant":[
+        "Cuitiva"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0438\u0442\u0438\u0432\u0430"
     ],
     "name:spa_x_preferred":[
         "Cu\u00edtiva"
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":421199367,
-    "wof:lastmodified":1561759475,
+    "wof:lastmodified":1563309366,
     "wof:name":"Cu\u00edtiva",
     "wof:parent_id":421184109,
     "wof:placetype":"locality",

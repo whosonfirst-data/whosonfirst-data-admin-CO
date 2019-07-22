@@ -36,8 +36,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0646\u0643\u0627\u0628\u064a\u0631\u0645\u064a\u062e\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Barrancabermeja"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0440\u0430\u043d\u043a\u0430\u0431\u0435\u0440\u043c\u0435\u0445\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Barrancabermeja"
     ],
     "name:ces_x_preferred":[
         "Barrancabermeja"
@@ -108,6 +114,9 @@
     "name:swe_x_preferred":[
         "Barrancabermeja"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0430\u043d\u043a\u0430\u0431\u0435\u0440\u043c\u0435\u0445\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Barrancabermeja"
     ],
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":1108701195,
-    "wof:lastmodified":1561759350,
+    "wof:lastmodified":1563307452,
     "wof:name":"Barrancabermeja",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

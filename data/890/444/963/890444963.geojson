@@ -15,6 +15,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "La Victoria"
+    ],
+    "name:ceb_x_preferred":[
+        "La Victoria"
+    ],
     "name:eng_x_preferred":[
         "La Victoria"
     ],
@@ -50,6 +56,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627\u060c \u0648\u06cc\u0644\u06cc \u0688\u06cc\u0644 \u06a9\u0648\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
     "name:war_x_preferred":[
         "La Victoria"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890444963,
-    "wof:lastmodified":1561759503,
+    "wof:lastmodified":1563309666,
     "wof:name":"La Victoria",
     "wof:parent_id":1108701497,
     "wof:placetype":"locality",

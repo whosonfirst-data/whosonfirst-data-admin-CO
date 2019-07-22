@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0641\u064a\u062a\u0634\u0627\u062f\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Vichada"
+    ],
+    "name:aze_x_preferred":[
+        "Vi\u00e7ada"
+    ],
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u0995\u09be\u09a6\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -56,6 +62,9 @@
     "name:eng_x_preferred":[
         "Vichada"
     ],
+    "name:eng_x_variant":[
+        "Vichada Department"
+    ],
     "name:epo_x_preferred":[
         "Vi\u0109ado"
     ],
@@ -69,6 +78,9 @@
         "Vichada"
     ],
     "name:fra_x_preferred":[
+        "Vichada"
+    ],
+    "name:frr_x_preferred":[
         "Vichada"
     ],
     "name:gla_x_preferred":[
@@ -109,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\ucc28\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\ucc28\ub2e4\uc8fc"
     ],
     "name:lad_x_preferred":[
         "Vichada"
@@ -176,8 +191,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Vichada"
     ],
+    "name:tgl_x_variant":[
+        "Vichada"
+    ],
     "name:tha_x_preferred":[
         "\u0e27\u0e34\u0e0a\u0e32\u0e14\u0e32 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e34\u0e0a\u0e32\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
         "Vichada"
@@ -326,7 +347,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759228,
+    "wof:lastmodified":1563303878,
     "wof:name":"Vichada",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

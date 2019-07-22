@@ -34,13 +34,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Argelia"
+    ],
     "name:deu_x_preferred":[
         "Argelia"
     ],
     "name:eng_x_preferred":[
-        "Argelia"
-    ],
-    "name:eng_x_variant":[
         "Argelia"
     ],
     "name:fra_x_preferred":[
@@ -61,7 +61,13 @@
     "name:spa_x_preferred":[
         "Argelia"
     ],
+    "name:swe_x_preferred":[
+        "Argelia"
+    ],
     "name:vie_x_preferred":[
+        "Argelia"
+    ],
+    "name:war_x_preferred":[
         "Argelia"
     ],
     "qs:gn_country":null,
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421183217,
-    "wof:lastmodified":1554488917,
+    "wof:lastmodified":1563309486,
     "wof:name":"Argelia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

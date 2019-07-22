@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u0631\u0648\u0643\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Arauca"
+    ],
+    "name:aze_x_preferred":[
+        "Arauka"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09cb\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,6 +65,9 @@
     "name:eng_x_preferred":[
         "Arauca"
     ],
+    "name:eng_x_variant":[
+        "Arauca Department"
+    ],
     "name:epo_x_preferred":[
         "Ara\u016dko"
     ],
@@ -72,6 +81,9 @@
         "Arauca"
     ],
     "name:fra_x_preferred":[
+        "Arauca"
+    ],
+    "name:frr_x_preferred":[
         "Arauca"
     ],
     "name:gla_x_preferred":[
@@ -118,6 +130,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ub77c\uc6b0\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub77c\uc6b0\uce74\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Arauca"
     ],
     "name:lav_x_preferred":[
         "Araukas departments"
@@ -188,8 +206,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Arauca"
     ],
+    "name:tgl_x_variant":[
+        "Arauca"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e23\u0e32\u0e27\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e40\u0e23\u0e32\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Arauca"
@@ -338,7 +362,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759226,
+    "wof:lastmodified":1563303873,
     "wof:name":"Arauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

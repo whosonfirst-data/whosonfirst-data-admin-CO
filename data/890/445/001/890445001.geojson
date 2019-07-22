@@ -22,11 +22,26 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0646\u0643\u0648\u064a\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0627\u0646\u0643\u064a\u0627"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0646\u0643\u064a\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Barranquilla"
+    ],
     "name:aym_x_preferred":[
         "Barranquilla"
     ],
+    "name:aze_x_preferred":[
+        "Barrankilya"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0440\u0430\u043d\u043a\u0456\u043b\u044c\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0440\u0430\u043d\u043a\u0456\u043b\u044c\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be\u09a8\u0995\u09c1\u0987\u09b2\u09be"
@@ -35,6 +50,9 @@
         "\u0411\u0430\u0440\u0430\u043d\u043a\u0438\u043b\u044f"
     ],
     "name:cat_x_preferred":[
+        "Barranquilla"
+    ],
+    "name:ceb_x_preferred":[
         "Barranquilla"
     ],
     "name:ces_x_preferred":[
@@ -52,11 +70,17 @@
     "name:deu_x_preferred":[
         "Barranquilla"
     ],
+    "name:dsb_x_preferred":[
+        "Barranquilla"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c1\u03c1\u03b1\u03bd\u03ba\u03af\u03b3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Barranquilla"
+    ],
+    "name:eng_x_variant":[
+        "Miami"
     ],
     "name:epo_x_preferred":[
         "Barranquilla"
@@ -74,6 +98,9 @@
         "Barranquilla"
     ],
     "name:fra_x_preferred":[
+        "Barranquilla"
+    ],
+    "name:frr_x_preferred":[
         "Barranquilla"
     ],
     "name:gla_x_preferred":[
@@ -100,6 +127,9 @@
     "name:hye_x_preferred":[
         "\u0532\u0561\u057c\u0561\u0576\u056f\u056b\u056c\u056b\u0561"
     ],
+    "name:hye_x_variant":[
+        "\u0532\u0561\u057c\u0561\u0576\u056f\u056b\u056c\u0575\u0561"
+    ],
     "name:ido_x_preferred":[
         "Barranquilla"
     ],
@@ -111,6 +141,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30f3\u30ad\u30fc\u30b8\u30e3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30e9\u30f3\u30ad\u30e4"
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cb0\u0cbe\u0ca8\u0ccd\u0c95\u0ccd\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cbe"
@@ -127,8 +160,14 @@
     "name:kor_x_preferred":[
         "\ubc14\ub791\ud0a4\uc57c"
     ],
+    "name:lad_x_preferred":[
+        "Barranquilla"
+    ],
     "name:lav_x_preferred":[
         "Barrankilja"
+    ],
+    "name:lin_x_preferred":[
+        "Barranquilla"
     ],
     "name:lit_x_preferred":[
         "Barankilija"
@@ -172,6 +211,9 @@
     "name:por_x_preferred":[
         "Barranquilha"
     ],
+    "name:por_x_variant":[
+        "Barranquilla"
+    ],
     "name:que_x_preferred":[
         "Barranquilla"
     ],
@@ -211,6 +253,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb1\u0bb1\u0b99\u0b95\u0bc1\u0baf\u0bbf\u0bb2\u0bcd\u0bb2\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u0440\u0440\u0430\u043d\u043a\u0438\u043b\u044c\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c30\u0c46\u0c28\u0c4d\u0c15\u0c3f\u0c32\u0c3e"
     ],
@@ -219,6 +264,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e32\u0e23\u0e4c\u0e23\u0e31\u0e07\u0e01\u0e35\u0e22\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e23\u0e31\u0e07\u0e01\u0e34\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Barranquilla"
@@ -236,6 +284,9 @@
         "Barrankilya"
     ],
     "name:vie_x_preferred":[
+        "Barranquilla"
+    ],
+    "name:vls_x_preferred":[
         "Barranquilla"
     ],
     "name:vol_x_preferred":[
@@ -381,7 +432,7 @@
         }
     ],
     "wof:id":890445001,
-    "wof:lastmodified":1561759504,
+    "wof:lastmodified":1563309693,
     "wof:name":"Barranquilla",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

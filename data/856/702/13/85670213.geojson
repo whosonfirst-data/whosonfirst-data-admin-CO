@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u064a\u0632\u0627\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Cesar"
+    ],
+    "name:aze_x_preferred":[
+        "Sesar"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u099c\u09be\u09b0 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,6 +65,9 @@
     "name:eng_x_preferred":[
         "Cesar"
     ],
+    "name:eng_x_variant":[
+        "Cesar Department"
+    ],
     "name:epo_x_preferred":[
         "Cezaro"
     ],
@@ -72,6 +81,9 @@
         "Cesar"
     ],
     "name:fra_x_preferred":[
+        "Cesar"
+    ],
+    "name:frr_x_preferred":[
         "Cesar"
     ],
     "name:gla_x_preferred":[
@@ -115,6 +127,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc138\uc0ac\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\uc0ac\ub974\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Cesar"
     ],
     "name:lav_x_preferred":[
         "Sesaras departaments"
@@ -179,8 +197,14 @@
     "name:tgl_x_preferred":[
         "Departamento ng Cesar"
     ],
+    "name:tgl_x_variant":[
+        "Cesar"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e0b\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0b\u0e0b\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Cesar"
@@ -329,7 +353,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759230,
+    "wof:lastmodified":1563303886,
     "wof:name":"Cesar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

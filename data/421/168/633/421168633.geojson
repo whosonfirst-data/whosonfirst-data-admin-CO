@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tame"
+    ],
     "name:ceb_x_preferred":[
         "Tame"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05de\u05d4"
+    ],
+    "name:ilo_x_preferred":[
+        "Tame"
     ],
     "name:ita_x_preferred":[
         "Tame"
@@ -58,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043c"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u0430\u043c\u0435"
     ],
     "name:spa_x_preferred":[
         "Tame"
@@ -220,7 +229,7 @@
         }
     ],
     "wof:id":421168633,
-    "wof:lastmodified":1561759432,
+    "wof:lastmodified":1563308903,
     "wof:name":"Tame",
     "wof:parent_id":421181799,
     "wof:placetype":"locality",

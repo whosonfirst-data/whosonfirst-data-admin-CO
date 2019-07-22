@@ -33,6 +33,12 @@
     "mps:longitude":-74.908221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Su\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Suan"
+    ],
     "name:eng_x_preferred":[
         "Suan"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:por_x_preferred":[
         "Suan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Su\u00e1n"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108700085,
-    "wof:lastmodified":1561759344,
+    "wof:lastmodified":1563307410,
     "wof:name":"Suan",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

@@ -33,6 +33,15 @@
     "mps:longitude":-73.097933,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pesca"
+    ],
+    "name:ceb_x_preferred":[
+        "Pesca"
+    ],
+    "name:dan_x_preferred":[
+        "Pesca"
+    ],
     "name:eng_x_preferred":[
         "Pesca"
     ],
@@ -62,6 +71,9 @@
     ],
     "name:por_x_preferred":[
         "Pesca"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0441\u043a\u0430"
     ],
     "name:spa_x_preferred":[
         "Pesca"
@@ -120,7 +132,7 @@
         }
     ],
     "wof:id":1108700297,
-    "wof:lastmodified":1561759374,
+    "wof:lastmodified":1563307555,
     "wof:name":"Pesca",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

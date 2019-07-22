@@ -33,6 +33,12 @@
     "mps:longitude":-74.480683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "La Mesa"
+    ],
+    "name:ceb_x_preferred":[
+        "La Mesa"
+    ],
     "name:deu_x_preferred":[
         "La Mesa"
     ],
@@ -74,6 +80,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0645\u06cc\u0633\u0627\u060c \u06a9\u0648\u0644\u0648\u0645\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0645\u06cc\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Mesa"
     ],
     "name:war_x_preferred":[
         "La Mesa"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":1108700669,
-    "wof:lastmodified":1561759381,
+    "wof:lastmodified":1563307606,
     "wof:name":"La Mesa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

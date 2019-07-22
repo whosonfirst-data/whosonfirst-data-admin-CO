@@ -13,11 +13,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Los Andes"
+    ],
     "name:ceb_x_preferred":[
         "Sotomayor"
     ],
+    "name:deu_x_preferred":[
+        "Los Andes"
+    ],
     "name:eng_x_preferred":[
         "Los Andes"
+    ],
+    "name:eng_x_variant":[
+        "Los Andeichon"
     ],
     "name:fra_x_preferred":[
         "Los Andes Sotomayor"
@@ -50,6 +59,9 @@
         "Los Andes"
     ],
     "name:unk_x_variant":[
+        "Los Andes"
+    ],
+    "name:vie_x_preferred":[
         "Los Andes"
     ],
     "name:war_x_preferred":[
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421173449,
-    "wof:lastmodified":1561759458,
+    "wof:lastmodified":1563309156,
     "wof:name":"Sotomayor",
     "wof:parent_id":1108701033,
     "wof:placetype":"locality",

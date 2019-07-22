@@ -33,14 +33,22 @@
     "mps:longitude":-74.983651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Manat\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Manat\u00ed"
     ],
     "name:eng_x_variant":[
-        "Manati",
-        "Manat\u00ed"
+        "Manati"
     ],
     "name:fra_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ilo_x_preferred":[
         "Manat\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +69,9 @@
     "name:por_x_preferred":[
         "Manat\u00ed"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0438"
+    ],
     "name:spa_x_preferred":[
         "Manat\u00ed"
     ],
@@ -72,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "Manat\u00ed"
+    ],
+    "name:vie_x_variant":[
+        "Malambo"
     ],
     "name:war_x_preferred":[
         "Manat\u00ed"
@@ -103,7 +117,7 @@
         }
     ],
     "wof:id":1108700063,
-    "wof:lastmodified":1561759345,
+    "wof:lastmodified":1563307419,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

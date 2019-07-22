@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062e\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Tunja"
+    ],
+    "name:aze_x_preferred":[
+        "Tunxa"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u099e\u09cd\u099c\u09be"
     ],
@@ -26,6 +32,9 @@
         "\u0422\u0443\u043d\u0445\u0430"
     ],
     "name:cat_x_preferred":[
+        "Tunja"
+    ],
+    "name:ceb_x_preferred":[
         "Tunja"
     ],
     "name:ces_x_preferred":[
@@ -61,10 +70,16 @@
     "name:fra_x_preferred":[
         "Tunja"
     ],
+    "name:frr_x_preferred":[
+        "Tunja"
+    ],
     "name:gla_x_preferred":[
         "Tunja"
     ],
     "name:gle_x_preferred":[
+        "Tunja"
+    ],
+    "name:glg_x_preferred":[
         "Tunja"
     ],
     "name:guj_x_preferred":[
@@ -75,6 +90,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u0902\u091c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Tunja"
     ],
     "name:ind_x_preferred":[
         "Tunja"
@@ -90,6 +108,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud230\ud558"
+    ],
+    "name:kor_x_variant":[
+        "\ud241\ud558"
+    ],
+    "name:lad_x_preferred":[
+        "Tunja"
     ],
     "name:lav_x_preferred":[
         "Tunha"
@@ -148,6 +172,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0b9e\u0bcd\u0b9a\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u0443\u043d\u0445\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c02\u0c1c\u0c3e"
     ],
@@ -156,6 +183,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e15\u0e38\u0e19\u0e08\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e15\u0e38\u0e07\u0e2e\u0e32"
     ],
     "name:tur_x_preferred":[
         "Tunja"
@@ -309,7 +339,7 @@
         }
     ],
     "wof:id":890444921,
-    "wof:lastmodified":1561759503,
+    "wof:lastmodified":1563309679,
     "wof:name":"Tunja",
     "wof:parent_id":421188623,
     "wof:placetype":"locality",

@@ -33,14 +33,22 @@
     "mps:longitude":-73.159628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Zetaquira"
+    ],
+    "name:ceb_x_preferred":[
+        "Zetaquira"
+    ],
     "name:eng_x_preferred":[
         "Zetaquira"
     ],
     "name:eng_x_variant":[
-        "Zetaquira",
         "Zetaquir\u00e1"
     ],
     "name:fra_x_preferred":[
+        "Zetaquir\u00e1"
+    ],
+    "name:glg_x_preferred":[
         "Zetaquir\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -60,6 +68,9 @@
     ],
     "name:por_x_preferred":[
         "Zetaquira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0442\u0430\u043a\u0438\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Zetaquira"
@@ -115,7 +126,7 @@
         }
     ],
     "wof:id":1108700373,
-    "wof:lastmodified":1561759344,
+    "wof:lastmodified":1563307411,
     "wof:name":"Zetaquira",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -64,6 +64,9 @@
     "name:cat_x_preferred":[
         "Cali"
     ],
+    "name:ceb_x_preferred":[
+        "Cali"
+    ],
     "name:ces_x_preferred":[
         "Cali"
     ],
@@ -86,9 +89,7 @@
         "Cali"
     ],
     "name:eng_x_variant":[
-        "Cali",
-        "Santiago de Cali",
-        "Cali"
+        "Santiago de Cali"
     ],
     "name:epo_x_preferred":[
         "Santiago de Cali"
@@ -108,6 +109,12 @@
     "name:fra_x_preferred":[
         "Cali"
     ],
+    "name:frr_x_preferred":[
+        "Cali"
+    ],
+    "name:fry_x_preferred":[
+        "Cali"
+    ],
     "name:gla_x_preferred":[
         "Cali"
     ],
@@ -117,17 +124,26 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab2\u0ac0"
     ],
+    "name:hat_x_preferred":[
+        "Cali"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05e0\u05d8\u05d9\u05d0\u05d2\u05d5 \u05d3\u05d4 \u05e7\u05d0\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0932\u0940"
     ],
+    "name:hin_x_variant":[
+        "\u0915\u0948\u0932\u0940"
+    ],
     "name:hun_x_preferred":[
         "Cali"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056c\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0561\u056c\u056b"
     ],
     "name:ido_x_preferred":[
         "Cali"
@@ -167,6 +183,9 @@
     ],
     "name:lav_x_preferred":[
         "Kali"
+    ],
+    "name:lij_x_preferred":[
+        "Cali"
     ],
     "name:lin_x_preferred":[
         "Cali"
@@ -231,7 +250,13 @@
     "name:slk_x_preferred":[
         "Cali"
     ],
+    "name:slv_x_preferred":[
+        "Cali"
+    ],
     "name:spa_x_preferred":[
+        "Cali"
+    ],
+    "name:sqi_x_preferred":[
         "Cali"
     ],
     "name:srp_x_preferred":[
@@ -240,14 +265,23 @@
     "name:swe_x_preferred":[
         "Cali"
     ],
+    "name:szl_x_preferred":[
+        "Cali"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bb2\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u043b\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c32\u0c40"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e25\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e25\u0e34"
     ],
     "name:tur_x_preferred":[
         "Santiago de Cali"
@@ -258,14 +292,26 @@
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0644\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u06a9\u06cc\u0644\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Kali"
+    ],
     "name:vie_x_preferred":[
         "Santiago de Cali"
+    ],
+    "name:vls_x_preferred":[
+        "Cali"
     ],
     "name:vol_x_preferred":[
         "Santiago de Cali"
     ],
     "name:war_x_preferred":[
         "Santiago de Cali"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u5229"
     ],
     "name:zho_x_preferred":[
         "\u5361\u5229"
@@ -331,7 +377,7 @@
         }
     ],
     "wof:id":421170643,
-    "wof:lastmodified":1561759481,
+    "wof:lastmodified":1563309434,
     "wof:name":"Cali",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

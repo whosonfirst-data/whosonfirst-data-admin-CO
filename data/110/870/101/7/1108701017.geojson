@@ -33,12 +33,17 @@
     "mps:longitude":-77.496696,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Imu\u00e9s"
+    ],
+    "name:ceb_x_preferred":[
+        "Imu\u00e9s"
+    ],
     "name:eng_x_preferred":[
         "Imu\u00e9s"
     ],
     "name:eng_x_variant":[
-        "Imues",
-        "Imu\u00e9s"
+        "Imues"
     ],
     "name:fra_x_preferred":[
         "Imu\u00e9s"
@@ -115,7 +120,7 @@
         }
     ],
     "wof:id":1108701017,
-    "wof:lastmodified":1561759365,
+    "wof:lastmodified":1563307504,
     "wof:name":"Imu\u00e9s",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

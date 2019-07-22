@@ -33,6 +33,12 @@
     "mps:longitude":-73.045233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "San Eduardo"
+    ],
+    "name:ceb_x_preferred":[
+        "San Eduardo"
+    ],
     "name:eng_x_preferred":[
         "San Eduardo"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:por_x_preferred":[
         "San Eduardo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u042d\u0434\u0443\u0430\u0440\u0434\u043e"
     ],
     "name:spa_x_preferred":[
         "San Eduardo"
@@ -99,7 +108,7 @@
         }
     ],
     "wof:id":1108700309,
-    "wof:lastmodified":1561759344,
+    "wof:lastmodified":1563307407,
     "wof:name":"San Eduardo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

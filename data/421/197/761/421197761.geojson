@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Fresno"
+    ],
     "name:cat_x_preferred":[
         "Fresno"
     ],
     "name:ceb_x_preferred":[
+        "Fresno"
+    ],
+    "name:deu_x_preferred":[
         "Fresno"
     ],
     "name:eng_x_preferred":[
@@ -63,6 +69,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5f17\u96f7\u65af\u8afe"
+    ],
+    "name:zho_x_variant":[
+        "\u8c50\u85a9"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421197761,
-    "wof:lastmodified":1561759474,
+    "wof:lastmodified":1563309351,
     "wof:name":"Fresno",
     "wof:parent_id":421177935,
     "wof:placetype":"locality",

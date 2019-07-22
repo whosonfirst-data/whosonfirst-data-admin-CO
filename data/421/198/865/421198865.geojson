@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Maceo"
+    ],
     "name:ceb_x_preferred":[
         "Maceo"
     ],
@@ -23,6 +26,9 @@
         "Maceo"
     ],
     "name:ile_x_preferred":[
+        "Maceo"
+    ],
+    "name:ilo_x_preferred":[
         "Maceo"
     ],
     "name:ita_x_preferred":[
@@ -60,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0633\u06cc\u0648\u060c \u0627\u0646\u062a\u06cc\u0648\u06a9\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0633\u06cc\u0648"
     ],
     "name:war_x_preferred":[
         "Maceo"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421198865,
-    "wof:lastmodified":1561759470,
+    "wof:lastmodified":1563309311,
     "wof:name":"Maceo",
     "wof:parent_id":1108699975,
     "wof:placetype":"locality",

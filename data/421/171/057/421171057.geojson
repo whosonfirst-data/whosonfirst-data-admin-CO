@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Berbeo"
+    ],
     "name:ceb_x_preferred":[
+        "Berbeo"
+    ],
+    "name:eng_x_preferred":[
         "Berbeo"
     ],
     "name:fra_x_preferred":[
@@ -28,11 +34,17 @@
     "name:msa_x_preferred":[
         "Berbeo"
     ],
+    "name:nan_x_preferred":[
+        "Berbeo"
+    ],
     "name:nld_x_preferred":[
         "Berbeo"
     ],
     "name:por_x_preferred":[
         "Berbeo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0431\u0435\u043e"
     ],
     "name:spa_x_preferred":[
         "Berbeo"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421171057,
-    "wof:lastmodified":1527726496,
+    "wof:lastmodified":1563309599,
     "wof:name":"Berbeo",
     "wof:parent_id":1108700191,
     "wof:placetype":"locality",

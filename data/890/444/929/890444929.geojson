@@ -15,6 +15,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Sutamarch\u00e1n"
+    ],
+    "name:ceb_x_preferred":[
+        "Sutamarch\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "Sutamarch\u00e1n"
     ],
@@ -38,6 +44,9 @@
     ],
     "name:por_x_preferred":[
         "Sutamarchan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0442\u0430\u043c\u0430\u0440\u0447\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Sutamarch\u00e1n"
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":890444929,
-    "wof:lastmodified":1561759503,
+    "wof:lastmodified":1563309676,
     "wof:name":"Sutamarch\u00e1n",
     "wof:parent_id":421188635,
     "wof:placetype":"locality",

@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Coper"
+    ],
     "name:cat_x_preferred":[
         "Coper"
     ],
     "name:ceb_x_preferred":[
+        "Coper"
+    ],
+    "name:deu_x_preferred":[
         "Coper"
     ],
     "name:eng_x_preferred":[
@@ -42,6 +48,9 @@
     ],
     "name:por_x_preferred":[
         "Coper"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0435\u0440"
     ],
     "name:spa_x_preferred":[
         "Coper"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421196583,
-    "wof:lastmodified":1561759471,
+    "wof:lastmodified":1563309320,
     "wof:name":"Coper",
     "wof:parent_id":1108700223,
     "wof:placetype":"locality",

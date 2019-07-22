@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gal\u00e1n"
+    ],
     "name:bos_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:ceb_x_preferred":[
         "Cerro Gal\u00e1n"
+    ],
+    "name:ceb_x_variant":[
+        "Gal\u00e1n"
     ],
     "name:deu_x_preferred":[
         "Gal\u00e1n"
@@ -60,6 +66,9 @@
     ],
     "name:spa_x_preferred":[
         "Cerro Gal\u00e1n"
+    ],
+    "name:spa_x_variant":[
+        "Gal\u00e1n"
     ],
     "name:swe_x_preferred":[
         "Gal\u00e1n"
@@ -123,7 +132,7 @@
         }
     ],
     "wof:id":421180649,
-    "wof:lastmodified":1561759455,
+    "wof:lastmodified":1563309126,
     "wof:name":"Gal\u00e1n",
     "wof:parent_id":1108701255,
     "wof:placetype":"locality",

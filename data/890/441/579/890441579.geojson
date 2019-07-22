@@ -15,6 +15,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Granada"
+    ],
+    "name:ceb_x_preferred":[
+        "Granada"
+    ],
     "name:eng_x_preferred":[
         "Granada"
     ],
@@ -22,6 +28,9 @@
         "Granada"
     ],
     "name:ile_x_preferred":[
+        "Granada"
+    ],
+    "name:ilo_x_preferred":[
         "Granada"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +53,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0440\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:spa_x_preferred":[
         "Granada"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":890441579,
-    "wof:lastmodified":1561759500,
+    "wof:lastmodified":1563309636,
     "wof:name":"Granada",
     "wof:parent_id":421184973,
     "wof:placetype":"locality",

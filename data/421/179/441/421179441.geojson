@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Turmequ\u00e9"
+    ],
     "name:ceb_x_preferred":[
         "Turmequ\u00e9"
     ],
@@ -45,6 +48,12 @@
     ],
     "name:por_x_preferred":[
         "Turmequ\u00e9"
+    ],
+    "name:por_x_variant":[
+        "Turmeque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043c\u0435\u043a\u0435"
     ],
     "name:spa_x_preferred":[
         "Turmequ\u00e9"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421179441,
-    "wof:lastmodified":1561759489,
+    "wof:lastmodified":1563309502,
     "wof:name":"Turmequ\u00e9",
     "wof:parent_id":1108700365,
     "wof:placetype":"locality",

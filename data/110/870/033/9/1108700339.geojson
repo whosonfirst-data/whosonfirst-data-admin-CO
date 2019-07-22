@@ -33,6 +33,12 @@
     "mps:longitude":-72.682199,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Socha"
+    ],
+    "name:ceb_x_preferred":[
+        "Socha"
+    ],
     "name:eng_x_preferred":[
         "Socha"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:ita_x_preferred":[
         "Socha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30c1\u30e3"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10e9\u10d0"
@@ -56,6 +65,9 @@
     ],
     "name:por_x_preferred":[
         "Socha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0447\u0430"
     ],
     "name:spa_x_preferred":[
         "Socha"
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":1108700339,
-    "wof:lastmodified":1561759384,
+    "wof:lastmodified":1563307623,
     "wof:name":"Socha",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

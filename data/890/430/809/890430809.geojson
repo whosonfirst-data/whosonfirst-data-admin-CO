@@ -15,6 +15,15 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Sampu\u00e9s"
+    ],
+    "name:ceb_x_preferred":[
+        "Sampu\u00e9s"
+    ],
+    "name:deu_x_preferred":[
+        "Sampu\u00e9s"
+    ],
     "name:eng_x_preferred":[
         "Sampu\u00e9s"
     ],
@@ -54,6 +63,9 @@
     "name:zho_x_preferred":[
         "\u6851\u666e\u57c3\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u666e\u57c3\u592b\u6d1b\u91cc\u79d1"
+    ],
     "qs:name":"Sampu\u00e9s",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":890430809,
-    "wof:lastmodified":1561759501,
+    "wof:lastmodified":1563309642,
     "wof:name":"Sampu\u00e9s",
     "wof:parent_id":1108701409,
     "wof:placetype":"locality",

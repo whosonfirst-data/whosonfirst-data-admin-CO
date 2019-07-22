@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Gigante"
+    ],
     "name:ceb_x_preferred":[
+        "Gigante"
+    ],
+    "name:deu_x_preferred":[
         "Gigante"
     ],
     "name:eng_x_preferred":[
@@ -67,6 +73,9 @@
     "name:zho_x_preferred":[
         "\u5e0c\u7518\u7279"
     ],
+    "name:zho_x_variant":[
+        "\u6cd5\u5361\u5854\u8482\u74e6"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3682047,
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421179515,
-    "wof:lastmodified":1561759492,
+    "wof:lastmodified":1563309528,
     "wof:name":"Gigante",
     "wof:parent_id":421193651,
     "wof:placetype":"locality",

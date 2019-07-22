@@ -13,7 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Morales"
+    ],
     "name:ceb_x_preferred":[
+        "Morales"
+    ],
+    "name:deu_x_preferred":[
         "Morales"
     ],
     "name:eng_x_preferred":[
@@ -64,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u83ab\u62c9\u840a\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u74dc\u9054\u76e7\u666e"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3674412,
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421173473,
-    "wof:lastmodified":1561759459,
+    "wof:lastmodified":1563309178,
     "wof:name":"Morales",
     "wof:parent_id":1108700135,
     "wof:placetype":"locality",

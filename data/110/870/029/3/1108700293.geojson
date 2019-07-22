@@ -33,6 +33,12 @@
     "mps:longitude":-74.001529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pauna"
+    ],
+    "name:ceb_x_preferred":[
+        "Pauna"
+    ],
     "name:eng_x_preferred":[
         "Pauna"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:por_x_preferred":[
         "Pauna"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0443\u043d\u0430"
     ],
     "name:sco_x_preferred":[
         "Pauna"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":1108700293,
-    "wof:lastmodified":1561759374,
+    "wof:lastmodified":1563307556,
     "wof:name":"Pauna",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

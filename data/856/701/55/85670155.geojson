@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0627\u0644\u062f\u0627\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Caldas"
+    ],
+    "name:aze_x_preferred":[
+        "Kaldas"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09a1\u09be\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,6 +65,9 @@
     "name:eng_x_preferred":[
         "Caldas"
     ],
+    "name:eng_x_variant":[
+        "Caldas Department"
+    ],
     "name:epo_x_preferred":[
         "Kaldaso"
     ],
@@ -72,6 +81,9 @@
         "Caldas"
     ],
     "name:fra_x_preferred":[
+        "Caldas"
+    ],
+    "name:frr_x_preferred":[
         "Caldas"
     ],
     "name:gla_x_preferred":[
@@ -115,6 +127,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce7c\ub2e4\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce7c\ub2e4\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Caldas"
     ],
     "name:lav_x_preferred":[
         "Kaldasas departaments"
@@ -182,8 +200,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Caldas"
     ],
+    "name:tgl_x_variant":[
+        "Caldas"
+    ],
     "name:tha_x_preferred":[
         "\u0e14\u0e32\u0e25\u0e14\u0e32\u0e2a \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e31\u0e25\u0e14\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Caldas"
@@ -332,7 +356,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759213,
+    "wof:lastmodified":1563303840,
     "wof:name":"Caldas",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

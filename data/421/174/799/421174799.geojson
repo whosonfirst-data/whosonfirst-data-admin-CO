@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Guayat\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Guayat\u00e1"
     ],
@@ -39,6 +42,12 @@
     ],
     "name:por_x_preferred":[
         "Guayat\u00e1"
+    ],
+    "name:por_x_variant":[
+        "Guayata"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u044f\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Guayat\u00e1"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421174799,
-    "wof:lastmodified":1561759452,
+    "wof:lastmodified":1563309097,
     "wof:name":"Guayat\u00e1",
     "wof:parent_id":1108700249,
     "wof:placetype":"locality",

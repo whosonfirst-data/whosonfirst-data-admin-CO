@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Betulia"
+    ],
+    "name:ceb_x_preferred":[
+        "Betulia"
+    ],
     "name:eng_x_preferred":[
         "Betulia"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8c9d\u5716\u5229\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "Tobia"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421180607,
-    "wof:lastmodified":1561759455,
+    "wof:lastmodified":1563309133,
     "wof:name":"Betulia",
     "wof:parent_id":1108701197,
     "wof:placetype":"locality",

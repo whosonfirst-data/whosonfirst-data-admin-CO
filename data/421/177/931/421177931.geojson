@@ -34,11 +34,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Zaragoza"
+    ],
+    "name:ceb_x_preferred":[
+        "Zaragoza"
+    ],
+    "name:deu_x_preferred":[
+        "Zaragoza"
+    ],
     "name:eng_x_preferred":[
         "Zaragoza"
     ],
     "name:eng_x_variant":[
-        "Zaragoza",
         "Zaragoza Municipality"
     ],
     "name:fas_x_preferred":[
@@ -48,6 +56,9 @@
         "Zaragoza"
     ],
     "name:ile_x_preferred":[
+        "Zaragoza"
+    ],
+    "name:ilo_x_preferred":[
         "Zaragoza"
     ],
     "name:ita_x_preferred":[
@@ -155,7 +166,7 @@
         }
     ],
     "wof:id":421177931,
-    "wof:lastmodified":1561759487,
+    "wof:lastmodified":1563309471,
     "wof:name":"Zaragoza",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

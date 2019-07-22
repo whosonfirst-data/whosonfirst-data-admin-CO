@@ -43,14 +43,23 @@
     "name:arz_x_preferred":[
         "\u0645\u064a\u062f\u064a\u0644\u0644\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:aym_x_preferred":[
         "Medell\u00edn"
     ],
     "name:aze_x_preferred":[
         "Medellin"
     ],
+    "name:bar_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0435\u0434\u044d\u043b\u044c\u0456\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0435\u0434\u044d\u043b\u044c\u0456\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09a6\u09c7\u09af\u09bc\u09bf\u09a8"
@@ -64,6 +73,9 @@
     "name:cat_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:ceb_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:ces_x_preferred":[
         "Medell\u00edn"
     ],
@@ -73,11 +85,20 @@
     "name:cym_x_preferred":[
         "Antioquia - Medell\u00edn"
     ],
+    "name:cym_x_variant":[
+        "Medell\u00edn"
+    ],
     "name:dan_x_preferred":[
         "Medell\u00edn"
     ],
     "name:deu_x_preferred":[
         "Medell\u00edn"
+    ],
+    "name:diq_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:dsb_x_preferred":[
+        "Medellin"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03b4\u03b5\u03b3\u03af\u03bd"
@@ -86,8 +107,7 @@
         "Medell\u00edn"
     ],
     "name:eng_x_variant":[
-        "Medellin",
-        "Medell\u00edn"
+        "Medellin"
     ],
     "name:epo_x_preferred":[
         "Mede\u011dino"
@@ -104,6 +124,12 @@
     "name:fra_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:frr_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:fry_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:gla_x_preferred":[
         "Medell\u00edn"
     ],
@@ -113,8 +139,17 @@
     "name:glg_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:grn_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa1\u0ac7\u0ab2\u0abf\u0aa8"
+    ],
+    "name:hat_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:hau_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d3\u05d9\u05d9\u05df"
@@ -170,6 +205,9 @@
     "name:kor_x_preferred":[
         "\uba54\ub370\uc778"
     ],
+    "name:kur_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:lad_x_preferred":[
         "Medell\u00edn"
     ],
@@ -178,6 +216,9 @@
     ],
     "name:lav_x_preferred":[
         "Medeljina"
+    ],
+    "name:lij_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:lit_x_preferred":[
         "Medeljinas"
@@ -195,6 +236,9 @@
         "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
     ],
     "name:msa_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:mwl_x_preferred":[
         "Medell\u00edn"
     ],
     "name:nah_x_preferred":[
@@ -257,11 +301,20 @@
     "name:srp_x_preferred":[
         "\u041c\u0435\u0434\u0435\u0459\u0438\u043d"
     ],
+    "name:sun_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:swe_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:szl_x_preferred":[
         "Medell\u00edn"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc6\u0ba4\u0bc6\u0bb2\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c46\u0c21\u0c46\u0c32\u0c3f\u0c28\u0c4d"
@@ -281,6 +334,9 @@
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0688\u06cc\u0644\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0688\u06cc\u0626\u0646"
+    ],
     "name:uzb_x_preferred":[
         "Medelin"
     ],
@@ -288,6 +344,9 @@
         "Medel'jin"
     ],
     "name:vie_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:vls_x_preferred":[
         "Medell\u00edn"
     ],
     "name:vol_x_preferred":[
@@ -298,6 +357,9 @@
     ],
     "name:yor_x_preferred":[
         "Medell\u00edn"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ea5\u5fb7\u9023"
     ],
     "name:zea_x_preferred":[
         "Medell\u00edn"
@@ -366,7 +428,7 @@
         }
     ],
     "wof:id":421205069,
-    "wof:lastmodified":1561759452,
+    "wof:lastmodified":1563309095,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

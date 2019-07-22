@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mallama"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0438\u0435\u0434\u0440\u0430\u043d\u0447\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Piedrancha"
     ],
     "name:eng_x_preferred":[
         "Mallama"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1125894949,
-    "wof:lastmodified":1561759505,
+    "wof:lastmodified":1563309720,
     "wof:name":"Piedrancha",
     "wof:parent_id":1108701037,
     "wof:placetype":"locality",

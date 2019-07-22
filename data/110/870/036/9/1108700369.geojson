@@ -33,13 +33,18 @@
     "mps:longitude":-73.467735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "\u00dambita"
+    ],
+    "name:ceb_x_preferred":[
+        "Umbita"
+    ],
     "name:eng_x_preferred":[
         "\u00daMbita"
     ],
     "name:eng_x_variant":[
         "Umbita",
-        "\u00dambita",
-        "\u00daMbita"
+        "\u00dambita"
     ],
     "name:fra_x_preferred":[
         "\u00dambita"
@@ -61,6 +66,9 @@
     ],
     "name:por_x_preferred":[
         "\u00dambita"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u0431\u0438\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "\u00dambita"
@@ -116,7 +124,7 @@
         }
     ],
     "wof:id":1108700369,
-    "wof:lastmodified":1561759340,
+    "wof:lastmodified":1563307388,
     "wof:name":"\u00daMbita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

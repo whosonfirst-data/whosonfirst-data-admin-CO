@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u062a\u0634\u0648\u0643\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Choc\u00f3"
+    ],
+    "name:aze_x_preferred":[
+        "\u00c7oko"
+    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0427\u0430\u043a\u043e"
     ],
@@ -65,8 +71,14 @@
     "name:eng_x_preferred":[
         "Choc\u00f3"
     ],
+    "name:eng_x_variant":[
+        "Choc\u00f3 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento \u0108okoo"
+    ],
+    "name:epo_x_variant":[
+        "\u0108okoo"
     ],
     "name:est_x_preferred":[
         "Choc\u00f3 departemang"
@@ -81,6 +93,9 @@
         "Choc\u00f3"
     ],
     "name:fra_x_preferred":[
+        "Choc\u00f3"
+    ],
+    "name:frr_x_preferred":[
         "Choc\u00f3"
     ],
     "name:gla_x_preferred":[
@@ -127,6 +142,12 @@
     ],
     "name:kor_x_preferred":[
         "\ucd08\ucf54 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucd08\ucf54\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Choc\u00f3"
     ],
     "name:lav_x_preferred":[
         "\u010coko departaments"
@@ -191,6 +212,9 @@
     ],
     "name:tgl_x_preferred":[
         "Departamento ng Choc\u00f3"
+    ],
+    "name:tgl_x_variant":[
+        "Choc\u00f3"
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e0a\u0e42\u0e01"
@@ -342,7 +366,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759224,
+    "wof:lastmodified":1563303868,
     "wof:name":"Choc\u00f3",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -16,8 +16,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u0627\u060c \u0643\u0648\u0644\u0648\u0645\u0628\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0634\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Ch\u00eda"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09af\u09bc\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Ch\u00eda"
     ],
     "name:dan_x_preferred":[
         "Ch\u00eda"
@@ -31,6 +40,9 @@
     "name:eng_x_preferred":[
         "Ch\u00eda"
     ],
+    "name:epo_x_preferred":[
+        "Ch\u00eda"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u06cc\u0627"
     ],
@@ -41,6 +53,9 @@
         "Ch\u00eda"
     ],
     "name:gla_x_preferred":[
+        "Ch\u00eda"
+    ],
+    "name:glg_x_preferred":[
         "Ch\u00eda"
     ],
     "name:guj_x_preferred":[
@@ -182,7 +197,7 @@
         }
     ],
     "wof:id":421185805,
-    "wof:lastmodified":1561759499,
+    "wof:lastmodified":1563309609,
     "wof:name":"Ch\u00eda",
     "wof:parent_id":421200725,
     "wof:placetype":"locality",

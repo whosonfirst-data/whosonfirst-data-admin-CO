@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cimitarra"
+    ],
     "name:ceb_x_preferred":[
         "Cimitarra"
     ],
@@ -67,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u932b\u7c73\u5854\u62c9"
     ],
+    "name:zho_x_variant":[
+        "\u963f\u62c9\u6258\u5361"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3686255,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421176449,
-    "wof:lastmodified":1561759495,
+    "wof:lastmodified":1563309557,
     "wof:name":"Cimitarra",
     "wof:parent_id":1108701223,
     "wof:placetype":"locality",

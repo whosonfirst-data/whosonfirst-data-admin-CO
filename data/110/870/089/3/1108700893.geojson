@@ -33,6 +33,12 @@
     "mps:longitude":-74.832551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Pedraza"
+    ],
+    "name:ceb_x_preferred":[
+        "Pedraza"
+    ],
     "name:eng_x_preferred":[
         "Pedraza"
     ],
@@ -57,6 +63,9 @@
     "name:por_x_preferred":[
         "Pedraza"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u0430\u0441\u0430"
+    ],
     "name:sco_x_preferred":[
         "Pedraza"
     ],
@@ -68,6 +77,9 @@
     ],
     "name:tgl_x_preferred":[
         "Pedraza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0434\u0440\u0430\u0441\u0430"
     ],
     "name:vie_x_preferred":[
         "Pedraza"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":1108700893,
-    "wof:lastmodified":1561759368,
+    "wof:lastmodified":1563307519,
     "wof:name":"Pedraza",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

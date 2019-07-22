@@ -33,16 +33,20 @@
     "mps:longitude":-75.204684,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "San Estanislao"
+    ],
     "name:cat_x_preferred":[
+        "San Estanislao"
+    ],
+    "name:ceb_x_preferred":[
         "San Estanislao"
     ],
     "name:eng_x_preferred":[
         "San Estanislao"
     ],
     "name:eng_x_variant":[
-        "San Estanislao",
-        "San Estanislao de Kostka",
-        "San Estanislao"
+        "San Estanislao de Kostka"
     ],
     "name:fra_x_preferred":[
         "San Estanislao"
@@ -64,6 +68,9 @@
     ],
     "name:por_x_preferred":[
         "San Estanislao"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u042d\u0441\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u043e"
     ],
     "name:spa_x_preferred":[
         "San Estanislao"
@@ -116,7 +123,7 @@
         }
     ],
     "wof:id":1108700149,
-    "wof:lastmodified":1561759331,
+    "wof:lastmodified":1563307325,
     "wof:name":"San Estanislao",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9618541.124615,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.58902,6.254086,-75.58902,6.254086",
     "geom:latitude":6.254086,
     "geom:longitude":-75.58902,
@@ -34,14 +34,29 @@
     "name:bre_x_preferred":[
         "Libertadores"
     ],
+    "name:eng_x_preferred":[
+        "Libertadores"
+    ],
+    "name:fra_x_preferred":[
+        "Libertadores"
+    ],
     "name:hin_x_preferred":[
         "\u0932\u093f\u092c\u0930\u091f\u093e\u0921\u094b\u0930\u094d\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "Libertadores"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30d9\u30eb\u30bf\u30c9\u30fc\u30ec\u30b9"
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ubca0\ub974\ud0c0\ub3c4\ub974"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ubca0\ub974\ud0c0\ub3c4\ub808\uc2a4"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0442\u0430\u0434\u043e\u0440\u0438"
     ],
     "name:nld_x_preferred":[
         "Libertadores"
@@ -59,11 +74,17 @@
     "name:srp_x_preferred":[
         "\u0411\u043e\u0440\u0446\u0438 \u0437\u0430 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u043d\u043e\u0441\u0442 \u041b\u0430\u0442\u0438\u043d\u0441\u043a\u0435 \u0410\u043c\u0435\u0440\u0438\u043a\u0435"
     ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0438\u0437\u0432\u043e\u043b\u0438\u0442\u0435\u043b\u0456"
+    ],
     "name:unk_x_variant":[
         "Libertadores"
     ],
     "name:war_x_preferred":[
         "Libertadores"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u4e01\u7f8e\u6d32\u89e3\u653e\u8005"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -144,7 +165,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1563303806,
     "wof:name":"Libertadores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

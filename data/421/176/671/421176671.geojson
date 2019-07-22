@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Usiacur\u00ed"
+    ],
     "name:ceb_x_preferred":[
         "Usiacur\u00ed"
     ],
@@ -24,6 +27,9 @@
     ],
     "name:ita_x_preferred":[
         "Usiacur\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b7\u30a2\u30af\u30ea"
     ],
     "name:kat_x_preferred":[
         "\u10e3\u10e1\u10d8\u10d0\u10d9\u10e3\u10e0\u10d8"
@@ -39,6 +45,9 @@
     ],
     "name:por_x_preferred":[
         "Usiacur\u00ed"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0441\u044c\u044f\u043a\u0443\u0440\u0438"
     ],
     "name:spa_x_preferred":[
         "Usiacur\u00ed"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421176671,
-    "wof:lastmodified":1561759496,
+    "wof:lastmodified":1563309578,
     "wof:name":"Usiacur\u00ed",
     "wof:parent_id":1108700087,
     "wof:placetype":"locality",

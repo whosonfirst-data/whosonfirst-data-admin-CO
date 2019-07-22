@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Guacar\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Guacar\u00ed"
+    ],
+    "name:deu_x_preferred":[
+        "Guacar\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Guacar\u00ed"
     ],
@@ -61,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u74dc\u5361\u91cc"
     ],
+    "name:zho_x_variant":[
+        "\u7c73\u56fe"
+    ],
     "qs_pg:aaroncc":"CO",
     "qs_pg:gn_country":"CO",
     "qs_pg:gn_fcode":"PPL",
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1125791367,
-    "wof:lastmodified":1561759506,
+    "wof:lastmodified":1563309740,
     "wof:name":"Guacar\u00ed",
     "wof:parent_id":421193653,
     "wof:placetype":"locality",

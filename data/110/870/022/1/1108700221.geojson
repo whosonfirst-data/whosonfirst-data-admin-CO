@@ -33,6 +33,12 @@
     "mps:longitude":-73.283299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ci\u00e9nega"
+    ],
+    "name:ceb_x_preferred":[
+        "Ci\u00e9nega"
+    ],
     "name:eng_x_preferred":[
         "Ci\u00e9nega"
     ],
@@ -61,6 +67,9 @@
     "name:por_x_preferred":[
         "Ci\u00e9nega"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u0435\u043d\u0435\u0433\u0430"
+    ],
     "name:sco_x_preferred":[
         "Ci\u00e9nega"
     ],
@@ -81,6 +90,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8b1d\u7d0d\u52a0"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u74e6\u62c9\u6070"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1108700221,
-    "wof:lastmodified":1561759331,
+    "wof:lastmodified":1563307328,
     "wof:name":"Ci\u00e9nega",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

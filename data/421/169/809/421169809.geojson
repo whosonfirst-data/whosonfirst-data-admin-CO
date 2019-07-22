@@ -13,10 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ceb_x_preferred":[
+        "Manat\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Manat\u00ed"
     ],
     "name:fra_x_preferred":[
+        "Manat\u00ed"
+    ],
+    "name:ilo_x_preferred":[
         "Manat\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -37,6 +46,9 @@
     "name:por_x_preferred":[
         "Manat\u00ed"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0442\u0438"
+    ],
     "name:spa_x_preferred":[
         "Manat\u00ed"
     ],
@@ -54,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u8482"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u5167"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":421169809,
-    "wof:lastmodified":1561759443,
+    "wof:lastmodified":1563309004,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":1108700063,
     "wof:placetype":"locality",

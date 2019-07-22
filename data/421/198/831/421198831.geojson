@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Paz"
+    ],
     "name:eng_x_preferred":[
         "La Paz"
     ],
@@ -52,6 +55,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0627\u0632\u060c \u0633\u0627\u0646\u0679\u0627\u0646\u0688\u06cc\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u067e\u0627\u0632"
+    ],
     "name:vie_x_preferred":[
         "La Paz"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5e15\u8332"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5305\u591a"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":421198831,
-    "wof:lastmodified":1561759470,
+    "wof:lastmodified":1563309310,
     "wof:name":"La Paz",
     "wof:parent_id":1108701285,
     "wof:placetype":"locality",

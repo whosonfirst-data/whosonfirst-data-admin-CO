@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "La Florida"
+    ],
+    "name:ceb_x_preferred":[
+        "La Florida"
+    ],
     "name:eng_x_preferred":[
         "La Florida"
     ],
@@ -51,6 +57,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0641\u0644\u0648\u0631\u0627\u06cc\u0688\u0627\u060c \u0646\u0627\u0631\u06cc\u0646\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0641\u0644\u0648\u0631\u0627\u06cc\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Florida"
     ],
     "name:war_x_preferred":[
         "La Florida"
@@ -105,7 +117,7 @@
         }
     ],
     "wof:id":421176415,
-    "wof:lastmodified":1561759495,
+    "wof:lastmodified":1563309561,
     "wof:name":"La Florida",
     "wof:parent_id":421170941,
     "wof:placetype":"locality",

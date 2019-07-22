@@ -32,11 +32,26 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u062a\u064a\u0648\u0643\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u062f\u0627\u0631\u0629 \u0623\u0646\u062a\u064a\u0648\u0643\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Antioquia"
+    ],
+    "name:aze_x_preferred":[
+        "Antokiya"
+    ],
     "name:bel_x_preferred":[
         "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0410\u043d\u0442'\u0451\u043a\u0456\u044f"
     ],
+    "name:bel_x_variant":[
+        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0410\u043d\u0442\u2019\u0451\u043a\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u099f\u09bf\u0995\u09c1\u0987\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:ben_x_variant":[
+        "\u0986\u09a8\u09cd\u09a4\u09bf\u0993\u0995\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bre_x_preferred":[
         "Antioquia"
@@ -61,6 +76,9 @@
     ],
     "name:eng_x_preferred":[
         "Antioquia"
+    ],
+    "name:eng_x_variant":[
+        "Antioquia Department"
     ],
     "name:epo_x_preferred":[
         "Antjokio"
@@ -128,6 +146,12 @@
     "name:kor_x_preferred":[
         "\uc548\ud2f0\uc624\ud0a4\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc548\ud2f0\uc624\ud0a4\uc544\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Antioquia"
+    ],
     "name:lav_x_preferred":[
         "Antjokijas departaments"
     ],
@@ -176,6 +200,9 @@
     "name:ron_x_preferred":[
         "Departamentul Antioquia"
     ],
+    "name:ron_x_variant":[
+        "Antioquia"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043d\u0442\u044c\u043e\u043a\u0438\u044f"
     ],
@@ -206,8 +233,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Antioquia"
     ],
+    "name:tgl_x_variant":[
+        "Antioquia"
+    ],
     "name:tha_x_preferred":[
         "\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e42\u0e2d\u0e01\u0e31\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e19\u0e15\u0e34\u0e42\u0e2d\u0e40\u0e01\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "Antioquia"
@@ -359,7 +392,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759211,
+    "wof:lastmodified":1563303831,
     "wof:name":"Antioquia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

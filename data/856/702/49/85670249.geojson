@@ -29,6 +29,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u063a\u0648\u0627\u064a\u0646\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Guain\u00eda"
+    ],
+    "name:aze_x_preferred":[
+        "Quayniya"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09af\u09bc\u09be\u0987\u09a8\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -59,8 +65,14 @@
     "name:eng_x_preferred":[
         "Guain\u00eda"
     ],
+    "name:eng_x_variant":[
+        "Guain\u00eda Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Gvajnio"
+    ],
+    "name:epo_x_variant":[
+        "Gvajnio"
     ],
     "name:eus_x_preferred":[
         "Guain\u00eda"
@@ -72,6 +84,9 @@
         "Guain\u00eda"
     ],
     "name:fra_x_preferred":[
+        "Guain\u00eda"
+    ],
+    "name:frr_x_preferred":[
         "Guain\u00eda"
     ],
     "name:gla_x_preferred":[
@@ -115,6 +130,12 @@
     ],
     "name:kor_x_preferred":[
         "\uacfc\uc774\ub2c8\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uacfc\uc774\ub2c8\uc544\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Guain\u00eda"
     ],
     "name:lav_x_preferred":[
         "Gvainijas departaments"
@@ -180,8 +201,14 @@
     "name:tgl_x_preferred":[
         "Kagawaran ng Guain\u00eda"
     ],
+    "name:tgl_x_variant":[
+        "Guain\u00eda"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e31\u0e27\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e27\u0e22\u0e19\u0e34\u0e2d\u0e32"
     ],
     "name:tur_x_preferred":[
         "Guain\u00eda"
@@ -330,7 +357,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561759230,
+    "wof:lastmodified":1563303884,
     "wof:name":"Guain\u00eda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

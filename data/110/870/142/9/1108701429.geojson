@@ -33,6 +33,12 @@
     "mps:longitude":-75.587282,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ast_x_preferred":[
+        "Ataco"
+    ],
+    "name:ceb_x_preferred":[
+        "Ataco"
+    ],
     "name:deu_x_preferred":[
         "Ataco"
     ],
@@ -62,6 +68,9 @@
     ],
     "name:spa_x_preferred":[
         "Ataco"
+    ],
+    "name:spa_x_variant":[
+        "Prado"
     ],
     "name:swe_x_preferred":[
         "Ataco"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":1108701429,
-    "wof:lastmodified":1561759346,
+    "wof:lastmodified":1563307422,
     "wof:name":"Ataco",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

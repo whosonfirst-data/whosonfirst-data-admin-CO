@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tena"
+    ],
     "name:ceb_x_preferred":[
         "Tena"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7279\u7d0d"
+    ],
+    "name:zho_x_variant":[
+        "\u5361\u62c9\u66fc\u5854"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421199371,
-    "wof:lastmodified":1561759475,
+    "wof:lastmodified":1563309360,
     "wof:name":"Tena",
     "wof:parent_id":1108700715,
     "wof:placetype":"locality",

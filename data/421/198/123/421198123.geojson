@@ -14,10 +14,16 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Girardot"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0438\u0440\u0430\u0440\u0434\u043e\u0442"
     ],
     "name:cat_x_preferred":[
+        "Girardot"
+    ],
+    "name:ceb_x_preferred":[
         "Girardot"
     ],
     "name:deu_x_preferred":[
@@ -49,6 +55,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10ee\u10d8\u10e0\u10d0\u10e0\u10d3\u10dd\u10e2\u10d8"
+    ],
+    "name:lit_x_preferred":[
+        "Chirardotas"
     ],
     "name:msa_x_preferred":[
         "Girardot"
@@ -221,7 +230,7 @@
         }
     ],
     "wof:id":421198123,
-    "wof:lastmodified":1561759470,
+    "wof:lastmodified":1563309314,
     "wof:name":"Girardot",
     "wof:parent_id":421172115,
     "wof:placetype":"locality",
