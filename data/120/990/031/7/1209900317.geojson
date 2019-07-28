@@ -26,6 +26,9 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Los Milagros"
+    ],
     "name:spa_x_preferred":[
         "Los Milagros"
     ],
@@ -33,6 +36,9 @@
         "Acevedo",
         "Milagros",
         "Los Milagros"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u7c73\u62c9\u683c\u7f57\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209900317,
-    "wof:lastmodified":1537618473,
+    "wof:lastmodified":1564291526,
     "wof:name":"Los Milagros",
     "wof:parent_id":1108700441,
     "wof:placetype":"locality",

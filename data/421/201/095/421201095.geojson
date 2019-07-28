@@ -16,6 +16,9 @@
     "name:bre_x_preferred":[
         "Norte"
     ],
+    "name:ceb_x_preferred":[
+        "Norte"
+    ],
     "name:deu_x_preferred":[
         "Norte"
     ],
@@ -40,6 +43,12 @@
     "name:spa_x_preferred":[
         "Norte"
     ],
+    "name:swe_x_preferred":[
+        "Norte"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u0442\u0435"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3673802,
@@ -61,10 +70,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":102,
     "wof:belongsto":[
+        85670141,
         102191577,
         85632519,
-        1108701181,
-        85670141
+        1108701181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":421201095,
-    "wof:lastmodified":1531858786,
+    "wof:lastmodified":1564294726,
     "wof:name":"Norte",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -26,6 +26,21 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marfil"
+    ],
+    "name:glg_x_preferred":[
+        "Marfil"
+    ],
+    "name:spa_x_preferred":[
+        "Marfil"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0444\u0438\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Marfil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +50,7 @@
         "gn:id":7630238
     },
     "wof:country":"CO",
-    "wof:geomhash":"d820fb6fa33a0a2685c136cc4ff33a43",
+    "wof:geomhash":"6fe32095f28ea327bd1f131aabeb3a4d",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209309875,
-    "wof:lastmodified":1536291066,
+    "wof:lastmodified":1564291470,
     "wof:name":"Marfil",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +69,9 @@
 },
   "bbox": [
     -77.4455,
-    2.7835400000000003,
+    2.78354,
     -77.4455,
-    2.7835400000000003
+    2.78354
 ],
   "geometry": {"coordinates":[-77.4455,2.78354],"type":"Point"}
 }

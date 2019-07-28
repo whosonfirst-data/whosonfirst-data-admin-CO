@@ -26,6 +26,30 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "Intermedio"
+    ],
+    "name:fin_x_preferred":[
+        "Intermedio"
+    ],
+    "name:ita_x_preferred":[
+        "Intermedio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e55\u9593\u5287"
+    ],
+    "name:nor_x_preferred":[
+        "Intermedio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0442\u0435\u0440\u043c\u0435\u0434\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Intermedio"
+    ],
+    "name:vie_x_preferred":[
+        "Intermedio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209658015,
-    "wof:lastmodified":1536280363,
+    "wof:lastmodified":1564291404,
     "wof:name":"Intermedio",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

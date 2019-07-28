@@ -26,6 +26,15 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pescadero"
+    ],
+    "name:spa_x_preferred":[
+        "Pescadero"
+    ],
+    "name:swe_x_preferred":[
+        "Pescadero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +44,7 @@
         "gn:id":3672425
     },
     "wof:country":"CO",
-    "wof:geomhash":"4fddf99f7dbb8af189f0f24262148987",
+    "wof:geomhash":"533e09566f01f1495d8ee6a5d5eec7fa",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209672043,
-    "wof:lastmodified":1536279886,
+    "wof:lastmodified":1564291974,
     "wof:name":"Pescadero",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +63,9 @@
 },
   "bbox": [
     -72.99065,
-    6.824389999999998,
+    6.82439,
     -72.99065,
-    6.824389999999998
+    6.82439
 ],
   "geometry": {"coordinates":[-72.99065,6.82439],"type":"Point"}
 }

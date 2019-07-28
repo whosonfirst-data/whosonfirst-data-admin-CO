@@ -26,9 +26,39 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Calima"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10da\u10d8\u10db\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Calima"
+    ],
+    "name:nld_x_preferred":[
+        "Calima"
+    ],
+    "name:sco_x_preferred":[
+        "Calima"
+    ],
+    "name:spa_x_preferred":[
+        "Dari\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Calima"
+    ],
     "name:und_x_variant":[
         "Bajo Calima",
         "Calima"
+    ],
+    "name:vie_x_preferred":[
+        "Calima"
+    ],
+    "name:war_x_preferred":[
+        "Calima"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5229\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +84,7 @@
         }
     ],
     "wof:id":1259930503,
-    "wof:lastmodified":1537618702,
+    "wof:lastmodified":1564296156,
     "wof:name":"Calima",
     "wof:parent_id":421190219,
     "wof:placetype":"locality",

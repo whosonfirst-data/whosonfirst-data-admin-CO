@@ -26,6 +26,24 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:fra_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:spa_x_preferred":[
+        "Llano Grande"
+    ],
+    "name:swe_x_preferred":[
+        "Llano Grande"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +53,7 @@
         "gn:id":3676493
     },
     "wof:country":"CO",
-    "wof:geomhash":"23855ddbb277b9f808a1301f9ea9958d",
+    "wof:geomhash":"722f4922cffcb0525745689b2d9eaaa1",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +61,7 @@
         }
     ],
     "wof:id":1209379143,
-    "wof:lastmodified":1536288845,
+    "wof:lastmodified":1564291490,
     "wof:name":"Llano Grande",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +72,9 @@
 },
   "bbox": [
     -72.63333,
-    7.1833300000000015,
+    7.18333,
     -72.63333,
-    7.1833300000000015
+    7.18333
 ],
   "geometry": {"coordinates":[-72.63333,7.18333],"type":"Point"}
 }

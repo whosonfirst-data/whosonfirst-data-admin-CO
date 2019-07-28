@@ -26,6 +26,21 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Rodeo"
+    ],
+    "name:deu_x_preferred":[
+        "El Rodeo"
+    ],
+    "name:spa_x_preferred":[
+        "El Rodeo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0420\u043e\u0434\u0435\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Rodeo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +50,7 @@
         "gn:id":3787038
     },
     "wof:country":"CO",
-    "wof:geomhash":"589bffbb2e693502d98c4e44cf3acb07",
+    "wof:geomhash":"2fadae9d0b592450f74879dd9e0617a6",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209426799,
-    "wof:lastmodified":1536287357,
+    "wof:lastmodified":1564292211,
     "wof:name":"El Rodeo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +69,9 @@
 },
   "bbox": [
     -75.57778,
-    6.803889999999999,
+    6.80389,
     -75.57778,
-    6.803889999999999
+    6.80389
 ],
   "geometry": {"coordinates":[-75.57778,6.80389],"type":"Point"}
 }

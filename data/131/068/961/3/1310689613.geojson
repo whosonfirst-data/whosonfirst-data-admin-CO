@@ -27,9 +27,18 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Pantano"
+    ],
+    "name:spa_x_preferred":[
+        "El Pantano"
+    ],
     "name:und_x_variant":[
         "Caser\u00edo El Pantano",
         "El Pantano"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5c14\u6f58\u5854\u8bfa"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310689613,
-    "wof:lastmodified":1537618579,
+    "wof:lastmodified":1564293933,
     "wof:name":"El Pantano",
     "wof:parent_id":421169849,
     "wof:placetype":"locality",

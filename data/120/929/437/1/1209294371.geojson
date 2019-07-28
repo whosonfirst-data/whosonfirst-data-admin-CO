@@ -26,6 +26,69 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "San-\u0130sidro"
+    ],
+    "name:cat_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ceb_x_preferred":[
+        "San Isidro"
+    ],
+    "name:deu_x_preferred":[
+        "San Isidro"
+    ],
+    "name:eus_x_preferred":[
+        "San Isidro"
+    ],
+    "name:fra_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ilo_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ita_x_preferred":[
+        "San Isidro"
+    ],
+    "name:lit_x_preferred":[
+        "San Isidras"
+    ],
+    "name:mlg_x_preferred":[
+        "San Isidro"
+    ],
+    "name:nds_x_preferred":[
+        "San Isidro"
+    ],
+    "name:nld_x_preferred":[
+        "San Isidro"
+    ],
+    "name:pol_x_preferred":[
+        "San Isidro"
+    ],
+    "name:por_x_preferred":[
+        "San Isidro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "San Isidro"
+    ],
+    "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d \u0418\u0441\u0438\u0434\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "San Isidro"
+    ],
+    "name:vie_x_preferred":[
+        "San Isidro"
+    ],
+    "name:war_x_preferred":[
+        "San Isidro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +98,7 @@
         "gn:id":3783419
     },
     "wof:country":"CO",
-    "wof:geomhash":"daa1bd1ae37c90e2075b0b8580d7d015",
+    "wof:geomhash":"d841607cf8b1682b7adadd432c1df6ed",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +106,7 @@
         }
     ],
     "wof:id":1209294371,
-    "wof:lastmodified":1536291582,
+    "wof:lastmodified":1564292100,
     "wof:name":"San Isidro",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +117,9 @@
 },
   "bbox": [
     -75.89333,
-    8.578330000000001,
+    8.57833,
     -75.89333,
-    8.578330000000001
+    8.57833
 ],
   "geometry": {"coordinates":[-75.89333000000001,8.57833],"type":"Point"}
 }

@@ -33,12 +33,57 @@
     "mps:longitude":-73.370405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Motavita"
+    ],
     "name:eng_x_preferred":[
         "Motavita"
     ],
     "name:eng_x_variant":[
         "Combita",
         "C\u00f3mbita"
+    ],
+    "name:fra_x_preferred":[
+        "Motavita"
+    ],
+    "name:ita_x_preferred":[
+        "Motavita"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10e2\u10d0\u10d5\u10d8\u10e2\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Motavita"
+    ],
+    "name:nld_x_preferred":[
+        "Motavita"
+    ],
+    "name:por_x_preferred":[
+        "Motavita"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0442\u0430\u0432\u0438\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Motavita"
+    ],
+    "name:swe_x_preferred":[
+        "Motavita"
+    ],
+    "name:tgl_x_preferred":[
+        "Motavita"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0442\u0430\u0432\u0456\u0442\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Motavita"
+    ],
+    "name:war_x_preferred":[
+        "Motavita"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u5854\u7dad\u5854"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -63,7 +108,7 @@
         }
     ],
     "wof:id":1108700275,
-    "wof:lastmodified":1555047386,
+    "wof:lastmodified":1564293240,
     "wof:name":"Motavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

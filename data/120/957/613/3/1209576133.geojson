@@ -26,6 +26,18 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Retiro"
+    ],
+    "name:glg_x_preferred":[
+        "O Retiro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u043b \u0420\u0435\u0442\u0438\u0440\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "El Retiro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +47,7 @@
         "gn:id":3683229
     },
     "wof:country":"CO",
-    "wof:geomhash":"09ceb40393fb8fd19ac4a098e41e7978",
+    "wof:geomhash":"7cc331e5533990947aaa609ae53ed84d",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209576133,
-    "wof:lastmodified":1536282933,
+    "wof:lastmodified":1564291839,
     "wof:name":"El Retiro",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +66,9 @@
 },
   "bbox": [
     -75.92889,
-    4.1811099999999985,
+    4.18111,
     -75.92889,
-    4.1811099999999985
+    4.18111
 ],
   "geometry": {"coordinates":[-75.92889,4.18111],"type":"Point"}
 }

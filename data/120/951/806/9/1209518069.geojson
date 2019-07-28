@@ -26,6 +26,21 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Congo"
+    ],
+    "name:ita_x_preferred":[
+        "El Congo"
+    ],
+    "name:por_x_preferred":[
+        "El Congo"
+    ],
+    "name:spa_x_preferred":[
+        "El Congo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5b54\u6208"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +50,7 @@
         "gn:id":3785323
     },
     "wof:country":"CO",
-    "wof:geomhash":"20e183b3912dc81f2e7b6adf1b02c86d",
+    "wof:geomhash":"05bcb7537ea423807cfc42be83147d92",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1209518069,
-    "wof:lastmodified":1536284668,
+    "wof:lastmodified":1564292049,
     "wof:name":"El Congo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +69,9 @@
 },
   "bbox": [
     -76.59861,
-    7.664169999999999,
+    7.66417,
     -76.59861,
-    7.664169999999999
+    7.66417
 ],
   "geometry": {"coordinates":[-76.59860999999999,7.66417],"type":"Point"}
 }

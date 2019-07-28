@@ -26,6 +26,27 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:deu_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:ita_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:sco_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:spa_x_preferred":[
+        "La Esmeralda"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u0415\u0441\u043c\u0435\u0440\u0430\u043b\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Esmeralda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +56,7 @@
         "gn:id":3738032
     },
     "wof:country":"CO",
-    "wof:geomhash":"3f322e6df4069396a1bfd80554bcb807",
+    "wof:geomhash":"aecd544eaf01497bcf346e521196a4c8",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +64,7 @@
         }
     ],
     "wof:id":1209065233,
-    "wof:lastmodified":1536298826,
+    "wof:lastmodified":1564291464,
     "wof:name":"La Esmeralda",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +75,9 @@
 },
   "bbox": [
     -73.27906999999998,
-    8.372539999999999,
+    8.37254,
     -73.27906999999998,
-    8.372539999999999
+    8.37254
 ],
   "geometry": {"coordinates":[-73.27906999999998,8.37254],"type":"Point"}
 }

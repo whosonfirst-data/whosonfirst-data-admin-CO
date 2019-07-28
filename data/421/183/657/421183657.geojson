@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Bellavista"
     ],
+    "name:ceb_x_preferred":[
+        "Bellavista"
+    ],
     "name:deu_x_preferred":[
         "Bellavista"
     ],
@@ -46,6 +49,9 @@
     "name:srp_x_preferred":[
         "Bellavista"
     ],
+    "name:swe_x_preferred":[
+        "Bellavista"
+    ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":3688933,
@@ -66,10 +72,10 @@
     "qs:woe_id":351349,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670207,
         102191577,
         85632519,
-        1108700049,
-        85670207
+        1108700049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421183657,
-    "wof:lastmodified":1531858502,
+    "wof:lastmodified":1564294736,
     "wof:name":"Bellavista",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

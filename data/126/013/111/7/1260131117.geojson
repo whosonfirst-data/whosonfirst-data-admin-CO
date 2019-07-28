@@ -26,9 +26,33 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kat_x_preferred":[
+        "\u10de\u10d8\u10dc\u10e2\u10dd"
+    ],
+    "name:msa_x_preferred":[
+        "Pinto"
+    ],
+    "name:por_x_preferred":[
+        "Pinto"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430-\u0434\u0435-\u041f\u0438\u043d\u0442\u043e"
+    ],
+    "name:sco_x_preferred":[
+        "Pinto"
+    ],
+    "name:tgl_x_preferred":[
+        "Pinto"
+    ],
     "name:und_x_variant":[
         "Corregimiento Pinto",
         "Pinto"
+    ],
+    "name:war_x_preferred":[
+        "Pinto"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e73\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1260131117,
-    "wof:lastmodified":1537618432,
+    "wof:lastmodified":1564292835,
     "wof:name":"Pinto",
     "wof:parent_id":1108700913,
     "wof:placetype":"locality",

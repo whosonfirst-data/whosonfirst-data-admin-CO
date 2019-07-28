@@ -18,6 +18,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ita_x_preferred":[
+        "Villa Hermosa"
+    ],
+    "name:por_x_preferred":[
+        "Villa Hermosa"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Hermosa"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u83ab\u85a9\u93ae"
+    ],
     "qs_pg:aaroncc":"CO",
     "qs_pg:gn_country":"CO",
     "qs_pg:gn_fcode":"PPLX",
@@ -45,10 +57,10 @@
     "woe:name_adm1":"Antioquia",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +82,7 @@
         }
     ],
     "wof:id":1126090875,
-    "wof:lastmodified":1509411641,
+    "wof:lastmodified":1564294768,
     "wof:name":"Villa Hermosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

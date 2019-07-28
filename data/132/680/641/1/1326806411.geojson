@@ -26,6 +26,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Paradero"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u5fb7\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326806411,
-    "wof:lastmodified":1537082883,
+    "wof:lastmodified":1564287498,
     "wof:name":"Paradero",
     "wof:parent_id":1108700853,
     "wof:placetype":"locality",

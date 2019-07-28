@@ -26,8 +26,14 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Velu"
+    ],
     "name:spa_x_preferred":[
         "Vel\u00fa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0435\u043b\u044e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309753409,
-    "wof:lastmodified":1537618845,
+    "wof:lastmodified":1564294653,
     "wof:name":"Velu",
     "wof:parent_id":1108701447,
     "wof:placetype":"locality",

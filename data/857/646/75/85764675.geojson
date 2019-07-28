@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9465631.141126,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.803307,11.019779,-74.803307,11.019779",
     "geom:latitude":11.019779,
     "geom:longitude":-74.803307,
@@ -28,6 +28,12 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:deu_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "La Concepci\u00f3n"
     ],
@@ -41,6 +47,9 @@
         "La Concepcion"
     ],
     "name:spa_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
         "La Concepci\u00f3n"
     ],
     "name:unk_x_variant":[
@@ -126,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1564289411,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

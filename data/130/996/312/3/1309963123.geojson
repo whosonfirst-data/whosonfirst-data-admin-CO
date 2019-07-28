@@ -26,10 +26,34 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:deu_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:fra_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:nds_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:sco_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:spa_x_preferred":[
+        "Pueblo Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Pueblo Viejo"
+    ],
     "name:und_x_variant":[
         "Old Town",
         "Pueblo Viojo",
         "Old Tawn",
+        "Pueblo Viejo"
+    ],
+    "name:vie_x_preferred":[
         "Pueblo Viejo"
     ],
     "src:geom":"geonames",
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1309963123,
-    "wof:lastmodified":1537618425,
+    "wof:lastmodified":1564294368,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":421192867,
     "wof:placetype":"locality",
