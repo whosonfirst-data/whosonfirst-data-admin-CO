@@ -29,6 +29,9 @@
     "name:spa_x_preferred":[
         "El Patio"
     ],
+    "name:spa_x_variant":[
+        "El patio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276629625,
-    "wof:lastmodified":1537618794,
+    "wof:lastmodified":1564291234,
     "wof:name":"El Patio",
     "wof:parent_id":421184135,
     "wof:placetype":"locality",

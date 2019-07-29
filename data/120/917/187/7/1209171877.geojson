@@ -26,6 +26,18 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Risaralda"
+    ],
+    "name:ita_x_preferred":[
+        "Risaralda"
+    ],
+    "name:nld_x_preferred":[
+        "Risaralda"
+    ],
+    "name:spa_x_preferred":[
+        "Risaralda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +47,7 @@
         "gn:id":3785259
     },
     "wof:country":"CO",
-    "wof:geomhash":"2286fc820115c6164f7d00fb8e3e2fd5",
+    "wof:geomhash":"83490320666b779ba781f90a27baf545",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +55,7 @@
         }
     ],
     "wof:id":1209171877,
-    "wof:lastmodified":1536295552,
+    "wof:lastmodified":1564292280,
     "wof:name":"Risaralda",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +66,9 @@
 },
   "bbox": [
     -75.85611,
-    5.4833300000000005,
+    5.48333,
     -75.85611,
-    5.4833300000000005
+    5.48333
 ],
   "geometry": {"coordinates":[-75.85611,5.48333],"type":"Point"}
 }

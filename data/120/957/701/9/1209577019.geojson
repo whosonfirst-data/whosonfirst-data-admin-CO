@@ -26,6 +26,147 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Hispanien"
+    ],
+    "name:ara_x_preferred":[
+        "\u0647\u0633\u0628\u0627\u0646\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Hispania"
+    ],
+    "name:aze_x_preferred":[
+        "Hispaniya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u043c\u0441\u043a\u0430\u044f \u0406\u0441\u043f\u0430\u043d\u0456\u044f"
+    ],
+    "name:bre_x_preferred":[
+        "Hispania"
+    ],
+    "name:cat_x_preferred":[
+        "Hisp\u00e0nia"
+    ],
+    "name:ces_x_preferred":[
+        "Hisp\u00e1nie"
+    ],
+    "name:cym_x_preferred":[
+        "Hispania"
+    ],
+    "name:dan_x_preferred":[
+        "Hispania"
+    ],
+    "name:deu_x_preferred":[
+        "Hispanien"
+    ],
+    "name:epo_x_preferred":[
+        "Hispanio"
+    ],
+    "name:eus_x_preferred":[
+        "Hispania"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0633\u067e\u0627\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Hispania"
+    ],
+    "name:fra_x_preferred":[
+        "Hispanie"
+    ],
+    "name:fry_x_preferred":[
+        "Hispanje"
+    ],
+    "name:glg_x_preferred":[
+        "Hispania"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05e1\u05e4\u05e0\u05d9\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Hispanija"
+    ],
+    "name:hun_x_preferred":[
+        "Hispania"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u057c\u0578\u0574\u0565\u0561\u056f\u0561\u0576 \u053b\u057d\u057a\u0561\u0576\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Hispania"
+    ],
+    "name:ita_x_preferred":[
+        "Spagna romana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d2\u30b9\u30d1\u30cb\u30a2"
+    ],
+    "name:kor_x_preferred":[
+        "\ud788\uc2a4\ud30c\ub2c8\uc544"
+    ],
+    "name:kur_x_preferred":[
+        "Hispania"
+    ],
+    "name:lfn_x_preferred":[
+        "Hispania"
+    ],
+    "name:lit_x_preferred":[
+        "Rom\u0117ni\u0161koji Ispanija"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0438\u0441\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Hispania"
+    ],
+    "name:nld_x_preferred":[
+        "Hispania"
+    ],
+    "name:nor_x_preferred":[
+        "Hispania"
+    ],
+    "name:oci_x_preferred":[
+        "Isp\u00e0nia"
+    ],
+    "name:por_x_preferred":[
+        "Hisp\u00e2nia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043c\u0441\u043a\u0430\u044f \u0418\u0441\u043f\u0430\u043d\u0438\u044f"
+    ],
+    "name:slk_x_preferred":[
+        "Hisp\u00e1nia"
+    ],
+    "name:spa_x_preferred":[
+        "Hispania"
+    ],
+    "name:sqi_x_preferred":[
+        "Hispania"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u0441\u043f\u0430\u043d\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Hispania"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e34\u0e2a\u0e40\u0e1b\u0e40\u0e19\u0e35\u0e22"
+    ],
+    "name:tur_x_preferred":[
+        "Hispania"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043c\u0441\u044c\u043a\u0430 \u0406\u0441\u043f\u0430\u043d\u0456\u044f"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0633\u067e\u0627\u0646\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Hispania"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u73ed\u7259"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -43,7 +184,7 @@
         }
     ],
     "wof:id":1209577019,
-    "wof:lastmodified":1536282905,
+    "wof:lastmodified":1564291823,
     "wof:name":"Hispania",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

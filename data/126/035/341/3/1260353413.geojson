@@ -26,6 +26,114 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Comarca"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u0627\u0631\u0643\u0627"
+    ],
+    "name:arg_x_preferred":[
+        "Comarca"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0645\u0627\u0631\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Comarca"
+    ],
+    "name:bar_x_preferred":[
+        "Comarca"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0430\u043c\u0430\u0440\u043a\u0430"
+    ],
+    "name:bre_x_preferred":[
+        "Komark"
+    ],
+    "name:cat_x_preferred":[
+        "Comarca"
+    ],
+    "name:ces_x_preferred":[
+        "Comarca"
+    ],
+    "name:deu_x_preferred":[
+        "Comarca"
+    ],
+    "name:epo_x_preferred":[
+        "Komarko"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0631\u06a9\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Comarca"
+    ],
+    "name:fra_x_preferred":[
+        "Comarque"
+    ],
+    "name:frr_x_preferred":[
+        "Comarca"
+    ],
+    "name:gla_x_preferred":[
+        "Ce\u00e0rn"
+    ],
+    "name:glg_x_preferred":[
+        "Comarca"
+    ],
+    "name:hrv_x_preferred":[
+        "Njema\u010dki okruzi"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0574\u0561\u0580\u056f\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Comarca"
+    ],
+    "name:ita_x_preferred":[
+        "Comarca"
+    ],
+    "name:lat_x_preferred":[
+        "Commarca"
+    ],
+    "name:lmo_x_preferred":[
+        "Comarca"
+    ],
+    "name:nld_x_preferred":[
+        "Comarca"
+    ],
+    "name:nor_x_preferred":[
+        "Comarca"
+    ],
+    "name:oci_x_preferred":[
+        "Par\u00e7an"
+    ],
+    "name:pol_x_preferred":[
+        "Comarca"
+    ],
+    "name:por_x_preferred":[
+        "Comarca"
+    ],
+    "name:ron_x_preferred":[
+        "Comarc\u0103"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043a\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Comarca"
+    ],
+    "name:spa_x_preferred":[
+        "Comarca"
+    ],
+    "name:swe_x_preferred":[
+        "Comarca"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u0440\u043a\u0430"
+    ],
+    "name:vls_x_preferred":[
+        "Comarca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +157,7 @@
         }
     ],
     "wof:id":1260353413,
-    "wof:lastmodified":1536616040,
+    "wof:lastmodified":1564293066,
     "wof:name":"Comarca",
     "wof:parent_id":1108701147,
     "wof:placetype":"locality",

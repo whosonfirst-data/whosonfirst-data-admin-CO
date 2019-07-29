@@ -33,12 +33,51 @@
     "mps:longitude":-75.762675,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Cotorra"
+    ],
     "name:eng_x_preferred":[
         "Cotorra"
     ],
     "name:eng_x_variant":[
         "Lorica",
         "Santa Cruz de Lorica"
+    ],
+    "name:fra_x_preferred":[
+        "Cotorra"
+    ],
+    "name:ita_x_preferred":[
+        "Cotorra"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e2\u10dd\u10e0\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "Cotorra"
+    ],
+    "name:nld_x_preferred":[
+        "Cotorra"
+    ],
+    "name:por_x_preferred":[
+        "Cotorra"
+    ],
+    "name:spa_x_preferred":[
+        "Cotorra"
+    ],
+    "name:swe_x_preferred":[
+        "Cotorra"
+    ],
+    "name:tgl_x_preferred":[
+        "Cotorra"
+    ],
+    "name:vie_x_preferred":[
+        "Cotorra"
+    ],
+    "name:war_x_preferred":[
+        "Cotorra"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6258\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -63,7 +102,7 @@
         }
     ],
     "wof:id":1108700575,
-    "wof:lastmodified":1555047392,
+    "wof:lastmodified":1564293261,
     "wof:name":"Cotorra",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

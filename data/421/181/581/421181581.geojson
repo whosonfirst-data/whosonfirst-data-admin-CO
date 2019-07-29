@@ -13,8 +13,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Los Andes"
+    ],
+    "name:deu_x_preferred":[
+        "Los Andes"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u057d \u0531\u0576\u0564\u0565\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Los Andes"
+    ],
+    "name:nld_x_preferred":[
+        "Los Andes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0441-\u0410\u043d\u0434\u0435\u0441"
+    ],
+    "name:sco_x_preferred":[
+        "Los Andes"
+    ],
+    "name:slk_x_preferred":[
+        "Los Andes"
+    ],
+    "name:swe_x_preferred":[
+        "Los Andes"
+    ],
     "name:unk_x_variant":[
         "Andes"
+    ],
+    "name:war_x_preferred":[
+        "Los Andes"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPLX",
@@ -36,10 +66,10 @@
     "qs:woe_id":361381,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670207,
         102191577,
         85632519,
-        1108700049,
-        85670207
+        1108700049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +91,7 @@
         }
     ],
     "wof:id":421181581,
-    "wof:lastmodified":1531858467,
+    "wof:lastmodified":1564294712,
     "wof:name":"Los Andes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

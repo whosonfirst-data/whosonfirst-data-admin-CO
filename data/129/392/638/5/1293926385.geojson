@@ -26,6 +26,21 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Divisa"
+    ],
+    "name:ceb_x_preferred":[
+        "Divisa"
+    ],
+    "name:ita_x_preferred":[
+        "Divisa"
+    ],
+    "name:por_x_preferred":[
+        "Divisa"
+    ],
+    "name:spa_x_preferred":[
+        "Divisa"
+    ],
     "name:und_x_variant":[
         "Hacienda Divisa",
         "Divisa"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293926385,
-    "wof:lastmodified":1537618607,
+    "wof:lastmodified":1564289921,
     "wof:name":"Divisa",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

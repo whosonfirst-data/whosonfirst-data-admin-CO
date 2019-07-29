@@ -26,6 +26,36 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:deu_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:fra_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:ita_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:nds_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:nld_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:pol_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:por_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:swe_x_preferred":[
+        "San Joaquin"
+    ],
+    "name:war_x_preferred":[
+        "San Joaquin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +65,7 @@
         "gn:id":3787760
     },
     "wof:country":"CO",
-    "wof:geomhash":"e1618e27091b1c2a2b2095b073ffeb83",
+    "wof:geomhash":"5caff8d69760487db06abbd9f3dee7ec",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +73,7 @@
         }
     ],
     "wof:id":1209527423,
-    "wof:lastmodified":1536284391,
+    "wof:lastmodified":1564291546,
     "wof:name":"San Joaquin",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +84,9 @@
 },
   "bbox": [
     -75.70194000000002,
-    6.6677800000000005,
+    6.66778,
     -75.70194000000002,
-    6.6677800000000005
+    6.66778
 ],
   "geometry": {"coordinates":[-75.70194000000002,6.66778],"type":"Point"}
 }

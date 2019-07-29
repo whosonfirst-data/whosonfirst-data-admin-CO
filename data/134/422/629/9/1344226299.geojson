@@ -26,13 +26,46 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "La Argentina"
+    ],
+    "name:fra_x_preferred":[
+        "La Argentina"
+    ],
+    "name:ita_x_preferred":[
+        "La Argentina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10d0\u10e0\u10ee\u10d4\u10dc\u10e2\u10d8\u10dc\u10d0"
+    ],
+    "name:msa_x_preferred":[
+        "La Argentina"
+    ],
+    "name:nld_x_preferred":[
+        "La Argentina"
+    ],
+    "name:por_x_preferred":[
+        "La Argentina"
+    ],
     "name:spa_x_preferred":[
+        "La Argentina"
+    ],
+    "name:tgl_x_preferred":[
         "La Argentina"
     ],
     "name:und_x_variant":[
         "Plata Vieja",
         "Argentina",
         "La Argentina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+    ],
+    "name:war_x_preferred":[
+        "La Argentina"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u963f\u6839\u5ef7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1344226299,
-    "wof:lastmodified":1537618536,
+    "wof:lastmodified":1564288561,
     "wof:name":"La Argentina",
     "wof:parent_id":1108700821,
     "wof:placetype":"locality",

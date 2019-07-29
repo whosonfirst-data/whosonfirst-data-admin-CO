@@ -26,6 +26,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u044c\u0442\u043e-\u041b\u0443\u0441\u0435\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Alto Lucero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343231029,
-    "wof:lastmodified":1537074487,
+    "wof:lastmodified":1564288814,
     "wof:name":"Alto Lucero",
     "wof:parent_id":421188685,
     "wof:placetype":"locality",

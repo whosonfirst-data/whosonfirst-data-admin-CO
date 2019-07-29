@@ -26,6 +26,42 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ceb_x_preferred":[
+        "Miraflores"
+    ],
+    "name:deu_x_preferred":[
+        "Miraflores"
+    ],
+    "name:fra_x_preferred":[
+        "Miraflores"
+    ],
+    "name:glg_x_preferred":[
+        "Miraflores"
+    ],
+    "name:ita_x_preferred":[
+        "Miraflores"
+    ],
+    "name:nld_x_preferred":[
+        "Miraflores"
+    ],
+    "name:pol_x_preferred":[
+        "Miraflores"
+    ],
+    "name:por_x_preferred":[
+        "Miraflores"
+    ],
+    "name:spa_x_preferred":[
+        "Miraflores"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0444\u043b\u043e\u0440\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Miraflores"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +71,7 @@
         "gn:id":3830147
     },
     "wof:country":"CO",
-    "wof:geomhash":"613a43b77bff1f8ea8ee44fd0e35df79",
+    "wof:geomhash":"54469d479a56e08c9867882da4fff71f",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +79,7 @@
         }
     ],
     "wof:id":1209371389,
-    "wof:lastmodified":1536289095,
+    "wof:lastmodified":1564291490,
     "wof:name":"Miraflores",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +90,9 @@
 },
   "bbox": [
     -73.5902,
-    6.778110000000002,
+    6.77811,
     -73.5902,
-    6.778110000000002
+    6.77811
 ],
   "geometry": {"coordinates":[-73.5902,6.77811],"type":"Point"}
 }

@@ -33,11 +33,20 @@
     "mps:longitude":-75.831717,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pital"
+    ],
     "name:eng_x_preferred":[
         "Pital"
     ],
     "name:eng_x_variant":[
         "Agrado"
+    ],
+    "name:spa_x_preferred":[
+        "Pital"
+    ],
+    "name:swe_x_preferred":[
+        "Pital"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1108700835,
-    "wof:lastmodified":1555047397,
+    "wof:lastmodified":1564293177,
     "wof:name":"Pital",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

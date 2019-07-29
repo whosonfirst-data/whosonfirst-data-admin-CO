@@ -26,8 +26,35 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Neira"
+    ],
+    "name:deu_x_preferred":[
+        "Neira"
+    ],
+    "name:fra_x_preferred":[
+        "Neira"
+    ],
+    "name:glg_x_preferred":[
+        "Neira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0439\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Neira"
+    ],
+    "name:swe_x_preferred":[
+        "Neira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0435\u0439\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Santa Ana",
+        "Neira"
+    ],
+    "name:vie_x_preferred":[
         "Neira"
     ],
     "src:geom":"geonames",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1309767823,
-    "wof:lastmodified":1537618451,
+    "wof:lastmodified":1564294515,
     "wof:name":"Neira",
     "wof:parent_id":1108701017,
     "wof:placetype":"locality",

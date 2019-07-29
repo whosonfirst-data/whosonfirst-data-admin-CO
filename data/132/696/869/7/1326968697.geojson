@@ -27,10 +27,22 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "La Sonrisa"
+    ],
+    "name:deu_x_preferred":[
+        "La Sonrisa"
+    ],
+    "name:fra_x_preferred":[
+        "La Sonrisa"
+    ],
     "name:und_x_variant":[
         "Hacienda La Sonrisa",
         "La Sonrrisa",
         "La Sonrisa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u0648\u0646\u0631\u06cc\u0633\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326968697,
-    "wof:lastmodified":1537618492,
+    "wof:lastmodified":1564288119,
     "wof:name":"La Sonrisa",
     "wof:parent_id":1108700913,
     "wof:placetype":"locality",

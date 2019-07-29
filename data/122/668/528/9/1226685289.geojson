@@ -26,6 +26,18 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Janeiro"
+    ],
+    "name:fra_x_preferred":[
+        "Janeiro"
+    ],
+    "name:por_x_preferred":[
+        "Janeiro"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043d\u0435\u0439\u0440\u0443"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226685289,
-    "wof:lastmodified":1536802515,
+    "wof:lastmodified":1564296852,
     "wof:name":"Janeiro",
     "wof:parent_id":421172405,
     "wof:placetype":"locality",

@@ -26,8 +26,26 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lozania"
+    ],
+    "name:por_x_preferred":[
+        "Lozania"
+    ],
     "name:spa_x_preferred":[
         "Lozan\u00eda"
+    ],
+    "name:spa_x_variant":[
+        "Lozania"
+    ],
+    "name:swe_x_preferred":[
+        "Lozania"
+    ],
+    "name:vie_x_preferred":[
+        "Lozania"
+    ],
+    "name:war_x_preferred":[
+        "Lozania"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1242652039,
-    "wof:lastmodified":1537618781,
+    "wof:lastmodified":1564295558,
     "wof:name":"Lozania",
     "wof:parent_id":1108700951,
     "wof:placetype":"locality",

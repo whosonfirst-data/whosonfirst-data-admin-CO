@@ -26,6 +26,48 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Provid\u00e8ncia"
+    ],
+    "name:ceb_x_preferred":[
+        "Providencia"
+    ],
+    "name:deu_x_preferred":[
+        "Providencia"
+    ],
+    "name:fra_x_preferred":[
+        "Providencia"
+    ],
+    "name:ita_x_preferred":[
+        "Providencia"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub85c\ube44\ub374\uc2dc\uc544"
+    ],
+    "name:nld_x_preferred":[
+        "Providencia"
+    ],
+    "name:pol_x_preferred":[
+        "Providencia"
+    ],
+    "name:por_x_preferred":[
+        "Provid\u00eancia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441\u0438\u044f"
+    ],
+    "name:sco_x_preferred":[
+        "Providencia"
+    ],
+    "name:spa_x_preferred":[
+        "Providencia"
+    ],
+    "name:swe_x_preferred":[
+        "Providencia"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u7f85\u7dad\u767b\u897f\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +77,7 @@
         "gn:id":3731954
     },
     "wof:country":"CO",
-    "wof:geomhash":"01c805e3f362a899e12dceac1f93d6a1",
+    "wof:geomhash":"93b317a2c638a2f8b5b5bbae9d2e524b",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +85,7 @@
         }
     ],
     "wof:id":1209572067,
-    "wof:lastmodified":1536283052,
+    "wof:lastmodified":1564291842,
     "wof:name":"Providencia",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +96,9 @@
 },
   "bbox": [
     -73.30306999999998,
-    7.0358800000000015,
+    7.03588,
     -73.30306999999998,
-    7.0358800000000015
+    7.03588
 ],
   "geometry": {"coordinates":[-73.30306999999998,7.03588],"type":"Point"}
 }

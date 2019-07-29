@@ -26,8 +26,14 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Miel"
+    ],
     "name:spa_x_preferred":[
         "La Miel"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7c73\u57c3\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276175067,
-    "wof:lastmodified":1537618675,
+    "wof:lastmodified":1564290524,
     "wof:name":"La Miel",
     "wof:parent_id":1108701425,
     "wof:placetype":"locality",

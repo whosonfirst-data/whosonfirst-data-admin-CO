@@ -26,8 +26,14 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "El Hato"
+    ],
     "name:spa_x_preferred":[
         "El Hato"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u6258"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309701579,
-    "wof:lastmodified":1537618809,
+    "wof:lastmodified":1564294443,
     "wof:name":"El Hato",
     "wof:parent_id":1108700507,
     "wof:placetype":"locality",

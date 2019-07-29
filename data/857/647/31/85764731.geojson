@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6257083.95954,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.538849,6.248836,-75.538849,6.248836",
     "geom:latitude":6.248836,
     "geom:longitude":-75.538849,
@@ -28,11 +28,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Limoncito"
+    ],
+    "name:deu_x_preferred":[
+        "Limoncito"
+    ],
     "name:spa_x_preferred":[
         "Limoncito"
     ],
     "name:unk_x_variant":[
         "Limoncito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u8499\u897f\u6258"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -111,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1564289404,
     "wof:name":"Limoncito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -18,6 +18,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ceb_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:deu_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:ita_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:nld_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:spa_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:swe_x_preferred":[
+        "Las Nieves"
+    ],
     "qs_pg:aaroncc":"CO",
     "qs_pg:gn_country":"CO",
     "qs_pg:gn_fcode":"PPL",
@@ -45,10 +63,10 @@
     "woe:name_adm1":"Antioquia",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":1126064347,
-    "wof:lastmodified":1509410349,
+    "wof:lastmodified":1564294762,
     "wof:name":"Las Nieves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

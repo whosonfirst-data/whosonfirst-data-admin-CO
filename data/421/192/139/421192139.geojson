@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Las Nieves"
+    ],
     "name:deu_x_preferred":[
         "Las Nieves"
     ],
@@ -26,6 +29,9 @@
         "Las Nieves"
     ],
     "name:spa_x_preferred":[
+        "Las Nieves"
+    ],
+    "name:swe_x_preferred":[
         "Las Nieves"
     ],
     "qs:gn_country":"CO",
@@ -48,10 +54,10 @@
     "qs:woe_id":360944,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670207,
         102191577,
         85632519,
-        1108700049,
-        85670207
+        1108700049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421192139,
-    "wof:lastmodified":1531858674,
+    "wof:lastmodified":1564294682,
     "wof:name":"Las Nieves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4343865.500416,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.546166,10.428008,-75.546166,10.428008",
     "geom:latitude":10.428008,
     "geom:longitude":-75.546166,
@@ -27,6 +27,9 @@
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
         "El Cabrero"
+    ],
+    "name:spa_x_variant":[
+        "Barrio El Cabrero"
     ],
     "name:unk_x_variant":[
         "El Cabrero"
@@ -61,10 +64,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670209,
         102191577,
         85632519,
-        1108700093,
-        85670209
+        1108700093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -88,7 +91,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858924,
+    "wof:lastmodified":1564289415,
     "wof:name":"El Cabrero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

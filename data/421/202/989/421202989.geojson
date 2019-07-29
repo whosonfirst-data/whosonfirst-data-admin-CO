@@ -16,6 +16,9 @@
     "name:bre_x_preferred":[
         "Lucero"
     ],
+    "name:ceb_x_preferred":[
+        "Lucero"
+    ],
     "name:deu_x_preferred":[
         "Lucero"
     ],
@@ -29,6 +32,9 @@
         "Lucero"
     ],
     "name:spa_x_preferred":[
+        "Lucero"
+    ],
+    "name:swe_x_preferred":[
         "Lucero"
     ],
     "qs:gn_country":"CO",
@@ -52,10 +58,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":72,
     "wof:belongsto":[
+        85670207,
         102191577,
         85632519,
-        1108700049,
-        85670207
+        1108700049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421202989,
-    "wof:lastmodified":1531858810,
+    "wof:lastmodified":1564294698,
     "wof:name":"Lucero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

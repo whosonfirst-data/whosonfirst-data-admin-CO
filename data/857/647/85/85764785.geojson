@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2296022.087831,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526018,3.443773,-76.526018,3.443773",
     "geom:latitude":3.443773,
     "geom:longitude":-76.526018,
@@ -25,6 +25,39 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:bre_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:ceb_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:deu_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:epo_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:fra_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e0\u05d9\u05e7\u05d5\u05dc\u05d0\u05e1"
+    ],
+    "name:ilo_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:ita_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:por_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041d\u0438\u043a\u043e\u043b\u0430\u0441"
+    ],
     "name:spa_x_colloquial":[
         "S Nicolas",
         "S. Nicolas",
@@ -36,6 +69,12 @@
     "name:spa_x_variant":[
         "S Nicol\u00e1s",
         "S. Nicol\u00e1s"
+    ],
+    "name:swe_x_preferred":[
+        "San Nicol\u00e1s"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041d\u0456\u043a\u043e\u043b\u0430\u0441"
     ],
     "name:unk_x_variant":[
         "San Nicol\u00e1s"
@@ -70,10 +109,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85670203,
         102191577,
         85632519,
-        421170643,
-        85670203
+        421170643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +136,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858953,
+    "wof:lastmodified":1564289408,
     "wof:name":"San Nicol\u00e1s",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

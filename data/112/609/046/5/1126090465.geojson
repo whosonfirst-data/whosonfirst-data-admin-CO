@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "El Pueblo"
+    ],
     "name:ceb_x_preferred":[
         "El Pueblo"
     ],
@@ -32,6 +35,9 @@
     "name:spa_x_preferred":[
         "El Pueblo",
         "El pueblo"
+    ],
+    "name:swe_x_preferred":[
+        "El Pueblo"
     ],
     "name:unk_x_variant":[
         "El Pueblo"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1126090465,
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1564294767,
     "wof:name":"El Pueblo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -27,10 +27,19 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Guinea"
+    ],
+    "name:spa_x_preferred":[
+        "La Guinea"
+    ],
     "name:und_x_variant":[
         "La Gineo",
         "La Guineo",
         "La Guinea"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e7e\u5167\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1309720379,
-    "wof:lastmodified":1537618519,
+    "wof:lastmodified":1564294662,
     "wof:name":"La Guinea",
     "wof:parent_id":1108699999,
     "wof:placetype":"locality",

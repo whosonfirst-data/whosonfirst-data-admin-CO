@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7147901.87426,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.122096,4.597936,-74.122096,4.597936",
     "geom:latitude":4.597936,
     "geom:longitude":-74.122096,
@@ -28,10 +28,34 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:ceb_x_preferred":[
+        "Restrepo"
+    ],
+    "name:deu_x_preferred":[
+        "Restrepo"
+    ],
+    "name:fra_x_preferred":[
+        "Restrepo"
+    ],
+    "name:ita_x_preferred":[
+        "Restrepo"
+    ],
+    "name:nld_x_preferred":[
+        "Restrepo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u0441\u0442\u0440\u0435\u043f\u043e"
+    ],
     "name:spa_x_preferred":[
         "Restrepo"
     ],
+    "name:tgl_x_preferred":[
+        "Restrepo"
+    ],
     "name:unk_x_variant":[
+        "Restrepo"
+    ],
+    "name:vie_x_preferred":[
         "Restrepo"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -111,7 +135,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1564289403,
     "wof:name":"Restrepo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

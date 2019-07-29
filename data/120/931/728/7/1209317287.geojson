@@ -26,6 +26,12 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Ceja"
+    ],
+    "name:swe_x_preferred":[
+        "La Ceja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +41,7 @@
         "gn:id":3731474
     },
     "wof:country":"CO",
-    "wof:geomhash":"86559d297060140b390c9171ad569e17",
+    "wof:geomhash":"a2fbf7d61787b6c405f1db58a37414c6",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209317287,
-    "wof:lastmodified":1536290819,
+    "wof:lastmodified":1564291352,
     "wof:name":"La Ceja",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +60,9 @@
 },
   "bbox": [
     -75.87528,
-    7.3372199999999985,
+    7.33722,
     -75.87528,
-    7.3372199999999985
+    7.33722
 ],
   "geometry": {"coordinates":[-75.87528,7.33722],"type":"Point"}
 }

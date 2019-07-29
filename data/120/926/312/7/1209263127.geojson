@@ -25,10 +25,16 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Agustina"
+    ],
     "name:und_x_variant":[
         "Agustina",
         "La Angustia",
         "La Agustina"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u06af\u0648\u0633\u0679\u06cc\u0646\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209263127,
-    "wof:lastmodified":1537618537,
+    "wof:lastmodified":1564292236,
     "wof:name":"La Agustina",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

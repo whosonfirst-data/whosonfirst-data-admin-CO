@@ -26,8 +26,14 @@
     "iso:country":"CO",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Veladero"
+    ],
     "name:spa_x_preferred":[
         "Veladero"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u62c9\u5fb7\u7f57"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343668901,
-    "wof:lastmodified":1537618364,
+    "wof:lastmodified":1564288953,
     "wof:name":"Veladero",
     "wof:parent_id":1108701515,
     "wof:placetype":"locality",

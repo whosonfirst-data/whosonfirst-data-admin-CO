@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8216687.781672,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.231481,11.223627,-74.231481,11.223627",
     "geom:latitude":11.223627,
     "geom:longitude":-74.231481,
@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Manzanares"
     ],
+    "name:ces_x_preferred":[
+        "Manzanares"
+    ],
     "name:deu_x_preferred":[
         "Manzanares"
     ],
@@ -49,8 +52,14 @@
     "name:ita_x_preferred":[
         "Manzanares"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30b5\u30ca\u30fc\u30ec\u30b9"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928\u094d\u091d\u093e\u0928\u093e\u0930\u0947\u0938 \u0928\u0926\u0940"
+    ],
+    "name:mlg_x_preferred":[
+        "Manzanares"
     ],
     "name:msa_x_preferred":[
         "Manzanares"
@@ -72,6 +81,12 @@
     ],
     "name:spa_x_variant":[
         "Barrio Manzanares"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0437\u0430\u043d\u0430\u0440\u0435\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Manzanares"
     ],
     "name:unk_x_variant":[
         "Barrio Manzanares",
@@ -161,7 +176,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1564289402,
     "wof:name":"Manzanares",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
