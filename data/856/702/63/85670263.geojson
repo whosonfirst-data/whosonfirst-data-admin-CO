@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VD"
+    ],
     "lbl:latitude":4.883522,
     "lbl:longitude":-69.231175,
     "meso:name_local":"Vichada",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85670263,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303878,
+    "wof:lastmodified":1565670394,
     "wof:name":"Vichada",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

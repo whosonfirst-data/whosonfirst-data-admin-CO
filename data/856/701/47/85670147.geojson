@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LG"
+    ],
     "lbl:latitude":11.45007,
     "lbl:longitude":-72.449429,
     "meso:name_local":"La Guajira",
@@ -335,16 +338,13 @@
         }
     ],
     "wof:id":85670147,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303850,
+    "wof:lastmodified":1565670381,
     "wof:name":"La Guajira",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

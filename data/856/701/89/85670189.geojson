@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HU"
+    ],
     "lbl:latitude":2.647118,
     "lbl:longitude":-75.47747,
     "meso:name_local":"Huila",
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85670189,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303833,
+    "wof:lastmodified":1565670375,
     "wof:name":"Huila",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

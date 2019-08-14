@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "capital district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DC"
+    ],
     "lbl:latitude":4.602053,
     "lbl:longitude":-74.102589,
     "meso:name_local":"Bogota",
@@ -749,16 +752,13 @@
         }
     ],
     "wof:id":85670165,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303837,
+    "wof:lastmodified":1565670377,
     "wof:name":"Bogota",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":12.537868,
     "lbl:longitude":-81.720548,
     "meso:name_local":"San Andr\u00e9s y Providencia",
@@ -360,16 +363,13 @@
         }
     ],
     "wof:id":85670151,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303824,
+    "wof:lastmodified":1565670370,
     "wof:name":"San Andr\u00e9s y Providencia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

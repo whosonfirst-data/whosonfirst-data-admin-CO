@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":3.930386,
     "lbl:longitude":-75.243368,
     "meso:name_local":"Tolima",
@@ -350,16 +353,13 @@
         }
     ],
     "wof:id":85670175,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303836,
+    "wof:lastmodified":1565670376,
     "wof:name":"Tolima",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CQ"
+    ],
     "lbl:latitude":0.65008,
     "lbl:longitude":-74.001041,
     "meso:name_local":"Caquet\u00e1",
@@ -360,16 +363,13 @@
         }
     ],
     "wof:id":85670179,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303843,
+    "wof:lastmodified":1565670379,
     "wof:name":"Caquet\u00e1",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

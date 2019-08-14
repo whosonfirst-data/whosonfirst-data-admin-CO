@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GV"
+    ],
     "lbl:latitude":1.96343,
     "lbl:longitude":-72.127059,
     "meso:name_local":"Guaviare",
@@ -348,16 +351,13 @@
         }
     ],
     "wof:id":85670245,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303865,
+    "wof:lastmodified":1565670389,
     "wof:name":"Guaviare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

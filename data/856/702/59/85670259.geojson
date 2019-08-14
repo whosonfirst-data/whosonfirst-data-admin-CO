@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VP"
+    ],
     "lbl:latitude":0.78945,
     "lbl:longitude":-70.779526,
     "meso:name_local":"Vaup\u00e9s",
@@ -354,16 +357,13 @@
         }
     ],
     "wof:id":85670259,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303859,
+    "wof:lastmodified":1565670385,
     "wof:name":"Vaup\u00e9s",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

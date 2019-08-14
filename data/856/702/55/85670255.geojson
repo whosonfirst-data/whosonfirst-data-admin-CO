@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":3.32996,
     "lbl:longitude":-73.433265,
     "meso:name_local":"Meta",
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85670255,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303876,
+    "wof:lastmodified":1565670393,
     "wof:name":"Meta",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

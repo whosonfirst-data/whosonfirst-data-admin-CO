@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":6.619788,
     "lbl:longitude":-75.410934,
     "meso:name_local":"Antioquia",
@@ -383,16 +386,13 @@
         }
     ],
     "wof:id":85670129,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303831,
+    "wof:lastmodified":1565670374,
     "wof:name":"Antioquia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

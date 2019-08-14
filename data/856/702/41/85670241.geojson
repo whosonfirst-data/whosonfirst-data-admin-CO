@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":5.42627,
     "lbl:longitude":-71.601866,
     "meso:name_local":"Casanare",
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85670241,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303880,
+    "wof:lastmodified":1565670395,
     "wof:name":"Casanare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":5.285408,
     "lbl:longitude":-75.423319,
     "meso:name_local":"Caldas",
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85670155,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303840,
+    "wof:lastmodified":1565670377,
     "wof:name":"Caldas",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

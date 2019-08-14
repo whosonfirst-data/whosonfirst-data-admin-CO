@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "lbl:latitude":5.275739,
     "lbl:longitude":-75.987105,
     "meso:name_local":"Risaralda",
@@ -349,16 +352,13 @@
         }
     ],
     "wof:id":85670173,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303834,
+    "wof:lastmodified":1565670375,
     "wof:name":"Risaralda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

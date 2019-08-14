@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":9.882069,
     "lbl:longitude":-73.42306,
     "meso:name_local":"Cesar",
@@ -344,16 +347,13 @@
         }
     ],
     "wof:id":85670213,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303886,
+    "wof:lastmodified":1565670397,
     "wof:name":"Cesar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

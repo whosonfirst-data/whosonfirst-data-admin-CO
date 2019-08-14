@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "VC"
+    ],
     "lbl:latitude":3.679421,
     "lbl:longitude":-76.378822,
     "meso:name_local":"Valle del Cauca",
@@ -350,16 +353,13 @@
         }
     ],
     "wof:id":85670203,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303863,
+    "wof:lastmodified":1565670387,
     "wof:name":"Valle del Cauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

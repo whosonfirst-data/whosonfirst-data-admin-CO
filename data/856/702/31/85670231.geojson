@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":6.623843,
     "lbl:longitude":-70.940554,
     "meso:name_local":"Arauca",
@@ -353,16 +356,13 @@
         }
     ],
     "wof:id":85670231,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303873,
+    "wof:lastmodified":1565670392,
     "wof:name":"Arauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

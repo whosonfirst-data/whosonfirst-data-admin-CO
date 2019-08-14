@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PU"
+    ],
     "lbl:latitude":0.418541,
     "lbl:longitude":-75.585028,
     "meso:name_local":"Putumayo",
@@ -341,16 +344,13 @@
         }
     ],
     "wof:id":85670197,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303841,
+    "wof:lastmodified":1565670378,
     "wof:name":"Putumayo",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

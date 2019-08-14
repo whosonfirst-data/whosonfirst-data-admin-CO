@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QD"
+    ],
     "lbl:latitude":4.50643,
     "lbl:longitude":-75.711043,
     "meso:name_local":"Quindio",
@@ -366,16 +369,13 @@
         }
     ],
     "wof:id":85670169,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303823,
+    "wof:lastmodified":1565670370,
     "wof:name":"Quindio",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

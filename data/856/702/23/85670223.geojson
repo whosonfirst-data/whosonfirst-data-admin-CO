@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":10.250191,
     "lbl:longitude":-74.446167,
     "meso:name_local":"Magdalena",
@@ -359,16 +362,13 @@
         }
     ],
     "wof:id":85670223,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303882,
+    "wof:lastmodified":1565670395,
     "wof:name":"Magdalena",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

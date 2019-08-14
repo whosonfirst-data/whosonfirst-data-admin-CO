@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":5.089656,
     "lbl:longitude":-74.341269,
     "meso:name_local":"Cundinamarca",
@@ -353,16 +356,13 @@
         }
     ],
     "wof:id":85670159,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303821,
+    "wof:lastmodified":1565670369,
     "wof:name":"Cundinamarca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

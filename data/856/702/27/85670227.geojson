@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SU"
+    ],
     "lbl:latitude":8.785932,
     "lbl:longitude":-74.924747,
     "meso:name_local":"Sucre",
@@ -341,16 +344,13 @@
         }
     ],
     "wof:id":85670227,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303864,
+    "wof:lastmodified":1565670388,
     "wof:name":"Sucre",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":8.188397,
     "lbl:longitude":-72.868532,
     "meso:name_local":"Norte de Santander",
@@ -348,16 +351,13 @@
         }
     ],
     "wof:id":85670237,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303874,
+    "wof:lastmodified":1565670392,
     "wof:name":"Norte de Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

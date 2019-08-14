@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":6.676329,
     "lbl:longitude":-73.416147,
     "meso:name_local":"Santander",
@@ -340,16 +343,13 @@
         }
     ],
     "wof:id":85670141,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563303845,
+    "wof:lastmodified":1565670380,
     "wof:name":"Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
