@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.99454,10.9649,-72.95454,11.0049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309782001,
-    "wof:lastmodified":1536965255,
+    "wof:lastmodified":1566707874,
     "wof:name":"Dos Caminos",
     "wof:parent_id":1108700857,
     "wof:placetype":"locality",

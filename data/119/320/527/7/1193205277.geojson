@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.21287,4.45196,-73.17287,4.49196",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Raya"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193205277,
-    "wof:lastmodified":1564292639,
+    "wof:lastmodified":1566707317,
     "wof:name":"La Raya",
     "wof:parent_id":1108700695,
     "wof:placetype":"locality",

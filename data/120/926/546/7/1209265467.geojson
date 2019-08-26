@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.33111,4.03833,-75.29111,4.07833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3786539
     },
     "wof:country":"CO",
-    "wof:geomhash":"bd41d0304291e196aa3636c325d1f0b9",
+    "wof:geomhash":"42c9093d278354354bde4bc8d5b0deb8",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209265467,
-    "wof:lastmodified":1536292548,
+    "wof:lastmodified":1566707226,
     "wof:name":"Alto del Cielo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.31111,
-    4.0583300000000015,
+    4.05833,
     -75.31111,
-    4.0583300000000015
+    4.05833
 ],
   "geometry": {"coordinates":[-75.31111,4.05833],"type":"Point"}
 }

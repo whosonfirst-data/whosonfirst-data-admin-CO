@@ -10,8 +10,12 @@
     "geom:latitude":10.25,
     "geom:longitude":-74.0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.02,10.23,-73.98,10.27",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ariguan\u00ed"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3689589,
         "gp:id":368648,
-        "qs:id":150152,
+        "qs_pg:id":150152,
         "wd:id":"Q1392520"
     },
     "wof:country":"CO",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421179557,
-    "wof:lastmodified":1563309496,
+    "wof:lastmodified":1566708046,
     "wof:name":"Ariguan\u00ed",
     "wof:parent_id":1108700535,
     "wof:placetype":"locality",

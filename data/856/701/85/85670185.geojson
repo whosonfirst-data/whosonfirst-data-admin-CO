@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.597868,
     "lbl:longitude":-76.827893,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cauca",
     "mps:latitude":2.519277,
     "mps:longitude":-76.92587,
@@ -150,7 +151,7 @@
         "Kaukos departamentas"
     ],
     "name:mar_x_preferred":[
-        "\u0915\u093e\u090a\u091a\u0902  \u0935\u093f\u092d\u093e\u0917"
+        "\u0915\u093e\u090a\u091a\u0902 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Cauca"
@@ -224,7 +225,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento del Cauca"
     ],
     "name:urd_x_preferred":[
@@ -314,9 +315,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"29,308",
     "statoids:area_mi":"11,316",
     "statoids:as_of_date":"2005-05-22",
@@ -340,7 +341,7 @@
         "gp:id":2345055,
         "hasc:id":"CO.CA",
         "iso:id":"CO-CAU",
-        "qs:id":890040,
+        "qs_pg:id":890040,
         "wd:id":"Q230602",
         "wk:page":"Cauca Department"
     },
@@ -360,11 +361,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670380,
+    "wof:lastmodified":1566706546,
     "wof:name":"Cauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1182022,
     "wof:population_rank":12,

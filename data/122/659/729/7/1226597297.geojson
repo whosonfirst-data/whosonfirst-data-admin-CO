@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.97,10.03,-74.93,10.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Turqu\u00eda",
         "Turqu\u00eda"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226597297,
-    "wof:lastmodified":1537618367,
+    "wof:lastmodified":1566708568,
     "wof:name":"Turquia",
     "wof:parent_id":1108700119,
     "wof:placetype":"locality",

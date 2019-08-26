@@ -10,8 +10,12 @@
     "geom:latitude":11.03194,
     "geom:longitude":-74.86361,
     "iso:country":"CO",
+    "lbl:bbox":"-74.88361,11.01194,-74.84361,11.05194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Playa"
@@ -28,7 +32,7 @@
     "name:swe_x_preferred":[
         "La Playa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Playa"
     ],
     "qs:gn_country":"CO",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3678079,
         "gp:id":359736,
-        "qs:id":1284777
+        "qs_pg:id":1284777
     },
     "wof:country":"CO",
     "wof:created":1459008912,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421171927,
-    "wof:lastmodified":1564294742,
+    "wof:lastmodified":1566708063,
     "wof:name":"La Playa",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

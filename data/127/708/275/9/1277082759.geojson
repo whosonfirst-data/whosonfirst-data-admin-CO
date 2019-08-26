@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.20528,6.73611,-76.16528,6.77611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Musinguita",
         "Musinga"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277082759,
-    "wof:lastmodified":1537618452,
+    "wof:lastmodified":1566706804,
     "wof:name":"Musinga",
     "wof:parent_id":1108699961,
     "wof:placetype":"locality",

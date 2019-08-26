@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.38317,3.22396,-76.34317,3.26396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Los Tulipanes"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226426505,
-    "wof:lastmodified":1537618565,
+    "wof:lastmodified":1566708508,
     "wof:name":"Los Tulipanes",
     "wof:parent_id":1108700477,
     "wof:placetype":"locality",

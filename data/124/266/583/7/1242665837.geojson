@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.65333,9.33,-73.61333,9.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242665837,
-    "wof:lastmodified":1537618460,
+    "wof:lastmodified":1566708145,
     "wof:name":"Medellin",
     "wof:parent_id":1108700533,
     "wof:placetype":"locality",

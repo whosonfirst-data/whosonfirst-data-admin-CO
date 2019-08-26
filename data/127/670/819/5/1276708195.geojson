@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.10333,9.08,-75.06333,9.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento El Sitio",
         "El Sitio"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276708195,
-    "wof:lastmodified":1537618569,
+    "wof:lastmodified":1566706968,
     "wof:name":"El Sitio",
     "wof:parent_id":1108701419,
     "wof:placetype":"locality",

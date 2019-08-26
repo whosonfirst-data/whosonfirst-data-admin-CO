@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.72828,6.17193,-75.68828,6.21193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Roble"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1326942159,
-    "wof:lastmodified":1564287564,
+    "wof:lastmodified":1566706110,
     "wof:name":"El Roble",
     "wof:parent_id":421184085,
     "wof:placetype":"locality",

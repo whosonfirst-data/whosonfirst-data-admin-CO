@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.987798,
     "lbl:longitude":-73.18974,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Gir\u00f3n",
     "meso:gadm_hasc2":"CO.ST.GI",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.18974,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Gir\u00f3n"
     ],
@@ -103,9 +106,9 @@
         "\u5e0c\u9f8d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"681",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Gir\u00f3n",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108701259,
-    "wof:lastmodified":1563307674,
+    "wof:lastmodified":1566707599,
     "wof:name":"Gir\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

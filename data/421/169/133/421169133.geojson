@@ -10,6 +10,9 @@
     "geom:latitude":5.7125,
     "geom:longitude":-77.27083,
     "iso:country":"CO",
+    "lbl:bbox":"-77.29083,5.6925,-77.25083,5.7325",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -68,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Nuqu\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nugui"
     ],
     "name:vie_x_preferred":[
@@ -202,7 +205,7 @@
     "wof:concordances":{
         "gn:id":3673690,
         "gp:id":368354,
-        "qs:id":274501,
+        "qs_pg:id":274501,
         "wd:id":"Q1577833",
         "wk:page":"Nuqu\u00ed"
     },
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421169133,
-    "wof:lastmodified":1563308987,
+    "wof:lastmodified":1566707940,
     "wof:name":"Nuqu\u00ed",
     "wof:parent_id":421170617,
     "wof:placetype":"locality",

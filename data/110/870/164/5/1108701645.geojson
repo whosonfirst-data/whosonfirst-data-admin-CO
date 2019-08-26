@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.025194,
     "lbl:longitude":-70.618796,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Vichada",
     "meso:gadm_admin":"Santa Rosal\u00eda",
     "meso:gadm_hasc2":"CO.VD.SR",
@@ -33,6 +35,7 @@
     "mps:longitude":-70.618796,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Santa Rosal\u00eda"
     ],
@@ -77,9 +80,9 @@
         "\u8056\u7f85\u85a9\u5229\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"2018",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Santa Rosal\u00eda",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108701645,
-    "wof:lastmodified":1561759362,
+    "wof:lastmodified":1566707531,
     "wof:name":"Santa Rosal\u00eda",
     "wof:parent_id":85670263,
     "wof:placetype":"county",

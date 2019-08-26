@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.87746,6.92472,-70.83746,6.96472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3675132
     },
     "wof:country":"CO",
-    "wof:geomhash":"4adaad305d94809431f6decaff0c99e3",
+    "wof:geomhash":"8f515d5fdebed59cb739c0af5ee1ed7e",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209421387,
-    "wof:lastmodified":1536287519,
+    "wof:lastmodified":1566707218,
     "wof:name":"Matalarga",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -70.85746,
-    6.9447199999999984,
+    6.94472,
     -70.85746,
-    6.9447199999999984
+    6.94472
 ],
   "geometry": {"coordinates":[-70.85746,6.94472],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":5.79211,
     "geom:longitude":-75.78601,
     "iso:country":"CO",
+    "lbl:bbox":"-75.80601,5.77211,-75.76601,5.81211",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jeric\u00f3"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3680317,
         "gp:id":357641,
-        "qs:id":211153,
+        "qs_pg:id":211153,
         "wd:id":"Q1525982",
         "wk:page":"Jeric\u00f3"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421201353,
-    "wof:lastmodified":1563309384,
+    "wof:lastmodified":1566708021,
     "wof:name":"Jeric\u00f3",
     "wof:parent_id":421204269,
     "wof:placetype":"locality",

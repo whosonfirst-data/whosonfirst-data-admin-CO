@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.28791,2.27148,-78.24791,2.31148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Canuto"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209690149,
-    "wof:lastmodified":1564292031,
+    "wof:lastmodified":1566707181,
     "wof:name":"Canuto",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

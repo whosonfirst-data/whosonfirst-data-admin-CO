@@ -10,8 +10,12 @@
     "geom:latitude":5.27123,
     "geom:longitude":-75.49044,
     "iso:country":"CO",
+    "lbl:bbox":"-75.51044,5.25123,-75.47044,5.29123",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Aranzazu"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3689740,
         "gp:id":368260,
-        "qs:id":150156,
+        "qs_pg:id":150156,
         "wd:id":"Q1525243"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421179559,
-    "wof:lastmodified":1563309496,
+    "wof:lastmodified":1566708046,
     "wof:name":"Aranzazu",
     "wof:parent_id":1108700377,
     "wof:placetype":"locality",

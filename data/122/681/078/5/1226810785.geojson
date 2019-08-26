@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.35222,1.69139,-77.31222,1.73139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Piedcegrande",
         "Piezagrande"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226810785,
-    "wof:lastmodified":1537618676,
+    "wof:lastmodified":1566708484,
     "wof:name":"Piezagrande",
     "wof:parent_id":1108700999,
     "wof:placetype":"locality",

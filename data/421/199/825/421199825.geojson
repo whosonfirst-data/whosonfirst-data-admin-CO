@@ -10,8 +10,12 @@
     "geom:latitude":5.03132,
     "geom:longitude":-73.10327,
     "iso:country":"CO",
+    "lbl:bbox":"-73.12327,5.01132,-73.08327,5.05132",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Campohermoso"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3687751,
         "gp:id":369615,
-        "qs:id":495383,
+        "qs_pg:id":495383,
         "wd:id":"Q1656329"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421199825,
-    "wof:lastmodified":1563309368,
+    "wof:lastmodified":1566708017,
     "wof:name":"Campohermoso",
     "wof:parent_id":1108700205,
     "wof:placetype":"locality",

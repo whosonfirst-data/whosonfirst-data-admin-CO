@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.54802,5.97078,-75.50802,6.01078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Luz"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243457137,
-    "wof:lastmodified":1537618689,
+    "wof:lastmodified":1566708308,
     "wof:name":"La Luz",
     "wof:parent_id":421200813,
     "wof:placetype":"locality",

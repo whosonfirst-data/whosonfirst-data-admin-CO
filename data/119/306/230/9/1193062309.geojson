@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.45223,9.39736,-74.41223,9.43736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Colegio"
     ],
@@ -63,8 +67,7 @@
         "El Colegio"
     ],
     "name:und_x_variant":[
-        "Hacienda El Colegio",
-        "El Colegio"
+        "Hacienda El Colegio"
     ],
     "name:vie_x_preferred":[
         "El Colegio"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1193062309,
-    "wof:lastmodified":1564292464,
+    "wof:lastmodified":1566707275,
     "wof:name":"El Colegio",
     "wof:parent_id":1108700911,
     "wof:placetype":"locality",

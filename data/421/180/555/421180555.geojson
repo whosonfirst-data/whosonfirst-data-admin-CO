@@ -10,8 +10,12 @@
     "geom:latitude":8.38944,
     "geom:longitude":-73.37989,
     "iso:country":"CO",
+    "lbl:bbox":"-73.39989,8.36944,-73.35989,8.40944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Gonz\u00e1lez"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Gonz\u00e1lez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gonz\u00e1les"
     ],
     "name:war_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3681990,
         "gp:id":356693,
-        "qs:id":1206227,
+        "qs_pg:id":1206227,
         "wd:id":"Q1577059"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421180555,
-    "wof:lastmodified":1563309120,
+    "wof:lastmodified":1566707968,
     "wof:name":"Gonz\u00e1lez",
     "wof:parent_id":1108700543,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":2.95,
     "geom:longitude":-75.65,
     "iso:country":"CO",
+    "lbl:bbox":"-75.67,2.93,-75.63,2.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Santa Mar\u00eda"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3668635,
         "gp:id":369431,
-        "qs:id":1206677,
+        "qs_pg:id":1206677,
         "wd:id":"Q1575656",
         "wk:page":"Santa Mar\u00eda, Huila"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421180661,
-    "wof:lastmodified":1563309115,
+    "wof:lastmodified":1566707967,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108700839,
     "wof:placetype":"locality",

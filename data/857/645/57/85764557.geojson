@@ -9,14 +9,16 @@
     "geom:bbox":"-75.521393,10.41337,-75.521393,10.41337",
     "geom:latitude":10.41337,
     "geom:longitude":-75.521393,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.41667,
     "gn:longitude":-75.51667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.526393,10.40837,-75.516393,10.41837",
     "lbl:latitude":10.41337,
     "lbl:longitude":-75.521393,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.413795,
     "mps:longitude":-75.520957,
     "mz:hierarchy_label":0,
@@ -439,9 +441,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0441\u0442\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Boston"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0633\u0679\u0646"
     ],
@@ -526,7 +525,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670209,
         102191577,
@@ -537,7 +536,6 @@
     "wof:concordances":{
         "gn:id":3688559,
         "gp:id":351643,
-        "qs:id":887582,
         "qs_pg:id":887582
     },
     "wof:country":"CO",
@@ -556,7 +554,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289392,
+    "wof:lastmodified":1566706527,
     "wof:name":"Boston",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

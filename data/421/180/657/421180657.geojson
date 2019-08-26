@@ -10,8 +10,12 @@
     "geom:latitude":3.71161,
     "geom:longitude":-73.24344,
     "iso:country":"CO",
+    "lbl:bbox":"-73.26344,3.69161,-73.22344,3.73161",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Carlos de Guaroa"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "San Carlos de Guaroa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Carlos de Guarda"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3669987,
         "gp:id":369374,
-        "qs:id":1206668,
+        "qs_pg:id":1206668,
         "wd:id":"Q955327",
         "wk:page":"San Carlos de Guaroa"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421180657,
-    "wof:lastmodified":1561759454,
+    "wof:lastmodified":1566707967,
     "wof:name":"San Carlos de Guaroa",
     "wof:parent_id":1108700957,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.463911,
     "lbl:longitude":-73.245175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Socorro",
     "meso:gadm_hasc2":"CO.ST.SO",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.245175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0643\u0648\u0631\u0648\u060c \u0633\u0627\u0646\u062a\u0627\u0646\u062f\u0631"
     ],
@@ -100,9 +103,9 @@
         "\u7d22\u79d1\u7f85"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"136",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Socorro",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108701355,
-    "wof:lastmodified":1563307259,
+    "wof:lastmodified":1566707439,
     "wof:name":"Socorro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.12,10.78,-75.08,10.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Azuzena"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1259382689,
-    "wof:lastmodified":1564295768,
+    "wof:lastmodified":1566708323,
     "wof:name":"Azucena",
     "wof:parent_id":1108700059,
     "wof:placetype":"locality",

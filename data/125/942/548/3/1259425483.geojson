@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.62552,9.67522,-74.58552,9.71522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda El Ancla",
         "El Ancla"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259425483,
-    "wof:lastmodified":1537618605,
+    "wof:lastmodified":1566708448,
     "wof:name":"El Ancla",
     "wof:parent_id":1108700899,
     "wof:placetype":"locality",

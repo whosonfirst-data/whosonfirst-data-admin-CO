@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.36437,3.90662,-74.32437,3.94662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1327075229,
-    "wof:lastmodified":1536698965,
+    "wof:lastmodified":1566706071,
     "wof:name":"Concepcion",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

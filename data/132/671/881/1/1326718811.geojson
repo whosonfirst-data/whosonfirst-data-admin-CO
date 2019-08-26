@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.74042,7.99145,-73.70042,8.03145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barranca Lebrija",
         "Barranca",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326718811,
-    "wof:lastmodified":1537618650,
+    "wof:lastmodified":1566706189,
     "wof:name":"Barranca de Lebrija",
     "wof:parent_id":421185023,
     "wof:placetype":"locality",

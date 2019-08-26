@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.40333,2.49667,-78.36333,2.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0627\u062c\u0627\u0631\u062a\u064a\u0631\u0627"
     ],
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1226407027,
-    "wof:lastmodified":1564297107,
+    "wof:lastmodified":1566708630,
     "wof:name":"Lagartera",
     "wof:parent_id":1108701039,
     "wof:placetype":"locality",

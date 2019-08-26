@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.75693,8.3107,-74.71693,8.3507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Victoria"
     ],
@@ -60,8 +64,7 @@
         "La Victoria"
     ],
     "name:und_x_variant":[
-        "Hacienda La Victoria",
-        "La Victoria"
+        "Hacienda La Victoria"
     ],
     "name:vie_x_preferred":[
         "La Victoria"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1225799353,
-    "wof:lastmodified":1564297461,
+    "wof:lastmodified":1566708713,
     "wof:name":"La Victoria",
     "wof:parent_id":1108701395,
     "wof:placetype":"locality",

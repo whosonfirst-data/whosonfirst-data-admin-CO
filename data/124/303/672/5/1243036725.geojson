@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.40464,0.28313,-75.36464,0.32313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243036725,
-    "wof:lastmodified":1536899263,
+    "wof:lastmodified":1566708215,
     "wof:name":"Puerto Antonio",
     "wof:parent_id":1108701569,
     "wof:placetype":"locality",

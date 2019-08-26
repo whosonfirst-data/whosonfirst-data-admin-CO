@@ -10,8 +10,12 @@
     "geom:latitude":6.43809,
     "geom:longitude":-75.33136,
     "iso:country":"CO",
+    "lbl:bbox":"-75.35136,6.41809,-75.31136,6.45809",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Barbosa"
@@ -131,7 +135,7 @@
     "wof:concordances":{
         "gn:id":3689205,
         "gp:id":368661,
-        "qs:id":899477,
+        "qs_pg:id":899477,
         "wd:id":"Q1946659",
         "wk:page":"Barbosa, Antioquia"
     },
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":421174805,
-    "wof:lastmodified":1563309100,
+    "wof:lastmodified":1566707964,
     "wof:name":"Barbosa",
     "wof:parent_id":421204267,
     "wof:placetype":"locality",

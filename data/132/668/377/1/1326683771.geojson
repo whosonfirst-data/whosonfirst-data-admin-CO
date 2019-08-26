@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.73106,4.2921,-74.69106,4.3321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Monos",
         "Caser\u00edo de Los Monos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326683771,
-    "wof:lastmodified":1537618626,
+    "wof:lastmodified":1566706133,
     "wof:name":"Caserio de Los Monos",
     "wof:parent_id":421188803,
     "wof:placetype":"locality",

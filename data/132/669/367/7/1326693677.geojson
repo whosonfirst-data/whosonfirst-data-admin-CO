@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.21141,11.7895,-72.17141,11.8295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326693677,
-    "wof:lastmodified":1536751349,
+    "wof:lastmodified":1566706108,
     "wof:name":"Orocho",
     "wof:parent_id":421187819,
     "wof:placetype":"locality",

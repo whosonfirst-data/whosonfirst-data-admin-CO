@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.3152,1.4969,-75.2752,1.5369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corea"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1260375901,
-    "wof:lastmodified":1564292923,
+    "wof:lastmodified":1566707380,
     "wof:name":"Corea",
     "wof:parent_id":1108700411,
     "wof:placetype":"locality",

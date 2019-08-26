@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.67752,7.08673,-73.63752,7.12673",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Silencio"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226509059,
-    "wof:lastmodified":1564296870,
+    "wof:lastmodified":1566708576,
     "wof:name":"El Silencio",
     "wof:parent_id":1108701195,
     "wof:placetype":"locality",

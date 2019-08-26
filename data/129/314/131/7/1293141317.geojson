@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.0667,9.99056,-75.0267,10.03056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Desconsolado",
         "Desconsolados",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293141317,
-    "wof:lastmodified":1537618608,
+    "wof:lastmodified":1566706675,
     "wof:name":"San Pedro Consolado",
     "wof:parent_id":1108700155,
     "wof:placetype":"locality",

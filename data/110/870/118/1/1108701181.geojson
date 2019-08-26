@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.151221,
     "lbl:longitude":-73.105408,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Bucaramanga",
     "meso:gadm_hasc2":"CO.ST.BU",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.105408,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0627\u0631\u0627\u0645\u0627\u0646\u063a\u0627"
     ],
@@ -232,9 +235,9 @@
         "\u5e03\u5361\u62c9\u66fc\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"154",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Bucaramanga",
@@ -267,7 +270,7 @@
         }
     ],
     "wof:id":1108701181,
-    "wof:lastmodified":1563307433,
+    "wof:lastmodified":1566707504,
     "wof:name":"Bucaramanga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

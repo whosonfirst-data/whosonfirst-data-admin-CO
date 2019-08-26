@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.188397,
     "lbl:longitude":-72.868532,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Norte de Santander",
     "mps:latitude":8.196128,
     "mps:longitude":-72.886792,
@@ -195,7 +196,7 @@
         "Norte de Santander"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd  \u0b9f\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd   \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0ba8\u0bcb\u0bb0\u0bcd\u0b9f\u0bcd \u0b9f\u0bbf \u0b9a\u0ba8\u0bcd\u0ba4\u0bbe\u0ba3\u0bcd\u0b9f\u0bc7\u0bb0\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c1f\u0c4d \u0c21\u0c3f \u0c38\u0c3e\u0c02\u0c1f\u0c3e\u0c02\u0c21\u0c30\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -215,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0440\u0442\u0435-\u0434\u0435-\u0421\u0430\u043d\u0442\u0430\u043d\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento de Santander del Norte"
     ],
     "name:urd_x_preferred":[
@@ -308,9 +309,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"21,658",
     "statoids:area_mi":"8,362",
     "statoids:as_of_date":"2005-05-22",
@@ -336,7 +337,7 @@
         "gp:id":2345066,
         "hasc:id":"CO.NS",
         "iso:id":"CO-NSA",
-        "qs:id":894865,
+        "qs_pg:id":894865,
         "unlc:id":"CO-NSA",
         "wd:id":"Q233058",
         "wk:page":"Norte de Santander Department"
@@ -357,11 +358,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670392,
+    "wof:lastmodified":1566706559,
     "wof:name":"Norte de Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1208336,
     "wof:population_rank":12,

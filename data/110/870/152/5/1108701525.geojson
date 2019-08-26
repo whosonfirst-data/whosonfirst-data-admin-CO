@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.033591,
     "lbl:longitude":-71.603512,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Casanare",
     "meso:gadm_admin":"Hato Corozal",
     "meso:gadm_hasc2":"CO.CS.HA",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.603512,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Hato Corozal"
     ],
@@ -85,9 +88,9 @@
         "\u963f\u6258\u79d1\u7f85\u85a9\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"56",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Hato Corozal",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108701525,
-    "wof:lastmodified":1563307498,
+    "wof:lastmodified":1566707537,
     "wof:name":"Hato Corozal",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

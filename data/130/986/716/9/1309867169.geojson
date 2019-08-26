@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.31462,9.53483,-75.27462,9.57483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Simpatico",
         "Simp\u00e1tico"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309867169,
-    "wof:lastmodified":1537618380,
+    "wof:lastmodified":1566707923,
     "wof:name":"Simpatico",
     "wof:parent_id":1108701389,
     "wof:placetype":"locality",

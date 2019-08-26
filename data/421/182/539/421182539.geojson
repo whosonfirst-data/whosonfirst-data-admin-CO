@@ -10,8 +10,12 @@
     "geom:latitude":5.06052,
     "geom:longitude":-73.97925,
     "iso:country":"CO",
+    "lbl:bbox":"-73.99925,5.04052,-73.95925,5.08052",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cogua"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3686134,
         "gp:id":353186,
-        "qs:id":1341707,
+        "qs_pg:id":1341707,
         "wd:id":"Q1524844",
         "wk:page":"Cogua"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421182539,
-    "wof:lastmodified":1563309540,
+    "wof:lastmodified":1566708054,
     "wof:name":"Cogua",
     "wof:parent_id":421172419,
     "wof:placetype":"locality",

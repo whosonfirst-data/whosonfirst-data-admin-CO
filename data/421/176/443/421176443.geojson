@@ -10,8 +10,12 @@
     "geom:latitude":6.39408,
     "geom:longitude":-75.2583,
     "iso:country":"CO",
+    "lbl:bbox":"-75.2783,6.37408,-75.2383,6.41408",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Concepci\u00f3n"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3686028,
         "gp:id":368797,
-        "qs:id":1046371,
+        "qs_pg:id":1046371,
         "wd:id":"Q2279494",
         "wk:page":"Concepci\u00f3n, Antioquia"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421176443,
-    "wof:lastmodified":1563309578,
+    "wof:lastmodified":1566708060,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":421185017,
     "wof:placetype":"locality",

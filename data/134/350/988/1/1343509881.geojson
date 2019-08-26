@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.59261,4.62698,-74.55261,4.66698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Virgin",
         "La Virgen"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343509881,
-    "wof:lastmodified":1537618484,
+    "wof:lastmodified":1566706427,
     "wof:name":"La Virgen",
     "wof:parent_id":1108700705,
     "wof:placetype":"locality",

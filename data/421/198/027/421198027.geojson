@@ -10,8 +10,11 @@
     "geom:latitude":10.96667,
     "geom:longitude":-74.78333,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78833,10.96167,-74.77833,10.97167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPLX",
@@ -33,16 +36,16 @@
     "qs:woe_id":364730,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85670207,
         102191577,
         85632519,
-        1108700049,
-        85670207
+        1108700049
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3670939,
         "gp:id":364730,
-        "qs:id":298934
+        "qs_pg:id":298934
     },
     "wof:country":"CO",
     "wof:created":1459009934,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":421198027,
-    "wof:lastmodified":1531858755,
+    "wof:lastmodified":1566708004,
     "wof:name":"Rebolo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

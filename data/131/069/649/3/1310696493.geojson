@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.74043,0.24651,-71.70043,0.28651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310696493,
-    "wof:lastmodified":1536640477,
+    "wof:lastmodified":1566707767,
     "wof:name":"Puerto Penalito",
     "wof:parent_id":1108700425,
     "wof:placetype":"locality",

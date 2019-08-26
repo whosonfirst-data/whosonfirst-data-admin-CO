@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.16839,6.13801,-73.12839,6.17801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243034727,
-    "wof:lastmodified":1536902242,
+    "wof:lastmodified":1566708216,
     "wof:name":"Anacal",
     "wof:parent_id":1108701247,
     "wof:placetype":"locality",

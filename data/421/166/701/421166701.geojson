@@ -10,8 +10,12 @@
     "geom:latitude":2.74193,
     "geom:longitude":-75.56738,
     "iso:country":"CO",
+    "lbl:bbox":"-75.58738,2.72193,-75.54738,2.76193",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Teruel"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Teruel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Retiro"
     ],
     "name:war_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3667247,
         "gp:id":368595,
-        "qs:id":269803,
+        "qs_pg:id":269803,
         "wd:id":"Q641800",
         "wk:page":"Teruel, Huila"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421166701,
-    "wof:lastmodified":1563308910,
+    "wof:lastmodified":1566707925,
     "wof:name":"Teruel",
     "wof:parent_id":1108700851,
     "wof:placetype":"locality",

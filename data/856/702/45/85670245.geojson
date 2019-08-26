@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":1.96343,
     "lbl:longitude":-72.127059,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Guaviare",
     "mps:latitude":1.875723,
     "mps:longitude":-72.148386,
@@ -219,7 +220,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0430\u0432'\u044f\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comisar\u00eda del Guaviare"
     ],
     "name:urd_x_preferred":[
@@ -309,9 +310,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"42,327",
     "statoids:area_mi":"16,343",
     "statoids:as_of_date":"2005-05-22",
@@ -337,7 +338,7 @@
         "gp:id":2345059,
         "hasc:id":"CO.GV",
         "iso:id":"CO-GUV",
-        "qs:id":1134999,
+        "qs_pg:id":1134999,
         "unlc:id":"CO-GUV",
         "wd:id":"Q272885"
     },
@@ -357,11 +358,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670389,
+    "wof:lastmodified":1566706555,
     "wof:name":"Guaviare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":56758,
     "wof:population_rank":8,

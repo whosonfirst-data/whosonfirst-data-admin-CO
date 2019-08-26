@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.36284,
     "lbl:longitude":-73.416461,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Chim\u00e1",
     "meso:gadm_hasc2":"CO.ST.CM",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.416461,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Chima"
     ],
@@ -56,9 +59,9 @@
         "Chima"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"152",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Chim\u00e1",
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108701219,
-    "wof:lastmodified":1564293213,
+    "wof:lastmodified":1566707508,
     "wof:name":"Chima",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

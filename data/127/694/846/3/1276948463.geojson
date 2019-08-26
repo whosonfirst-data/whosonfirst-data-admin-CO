@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.00664,2.77551,-71.96664,2.81551",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Charr\u00e0s"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1276948463,
-    "wof:lastmodified":1564290718,
+    "wof:lastmodified":1566706875,
     "wof:name":"Charras",
     "wof:parent_id":421203263,
     "wof:placetype":"locality",

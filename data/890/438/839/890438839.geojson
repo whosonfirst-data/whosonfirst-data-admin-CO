@@ -11,10 +11,14 @@
     "geom:longitude":-76.31372,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":38390,
+    "gn:population":38390,
     "iso:country":"CO",
+    "lbl:bbox":"-76.33372,3.66549,-76.29372,3.70549",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "El Cerrito"
     ],
@@ -90,7 +94,7 @@
     "name:tat_x_preferred":[
         "\u042d\u043b \u0421\u0435\u0440\u0440\u0438\u0442\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cerrito"
     ],
     "name:war_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3684615,
         "gp:id":368199,
-        "qs:id":1046348,
+        "qs_pg:id":1046348,
         "wd:id":"Q1093505",
         "wk:page":"Cerrito"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890438839,
-    "wof:lastmodified":1563309661,
+    "wof:lastmodified":1566708073,
     "wof:name":"El Cerrito",
     "wof:parent_id":421170275,
     "wof:placetype":"locality",

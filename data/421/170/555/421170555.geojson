@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.011093,
     "lbl:longitude":-75.154534,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Cocorn\u00e1",
     "meso:gadm_hasc2":"CO.AN.CO",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.154534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cocorn\u00e1"
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"210",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Cocorn\u00e1",
@@ -146,7 +149,7 @@
         "gn:id":3686159,
         "gp:id":26796644,
         "hasc:id":"CO.AN.CO",
-        "qs:id":1194318,
+        "qs_pg:id":1194318,
         "wd:id":"Q1946669",
         "wk:page":"Cocorn\u00e1"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":421170555,
-    "wof:lastmodified":1563309451,
+    "wof:lastmodified":1566708036,
     "wof:name":"Cocorn\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

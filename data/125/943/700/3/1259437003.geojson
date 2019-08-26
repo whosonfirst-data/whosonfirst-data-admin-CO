@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.55457,9.63303,-75.51457,9.67303",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Santa Maria"
     ],
@@ -132,8 +136,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u041c\u0430\u0440\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Hacienda Santa Mar\u00eda",
-        "Santa Mar\u00eda"
+        "Hacienda Santa Mar\u00eda"
     ],
     "name:vol_x_preferred":[
         "Santa Maria"
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1259437003,
-    "wof:lastmodified":1564296339,
+    "wof:lastmodified":1566708458,
     "wof:name":"Santa Maria",
     "wof:parent_id":421168313,
     "wof:placetype":"locality",

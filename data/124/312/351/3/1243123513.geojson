@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.44066,9.86861,-74.40066,9.90861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Continente",
         "Hacienda El Continente",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243123513,
-    "wof:lastmodified":1537618596,
+    "wof:lastmodified":1566708182,
     "wof:name":"El Continente",
     "wof:parent_id":1108700891,
     "wof:placetype":"locality",

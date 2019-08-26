@@ -9,14 +9,16 @@
     "geom:bbox":"-74.222107,11.217618,-74.222107,11.217618",
     "geom:latitude":11.217618,
     "geom:longitude":-74.222107,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.23333,
     "gn:longitude":-74.21667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.227107,11.212618,-74.217107,11.222618",
     "lbl:latitude":11.217618,
     "lbl:longitude":-74.222107,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.197263,
     "mps:longitude":-74.22637,
     "mz:hierarchy_label":0,
@@ -42,10 +44,6 @@
     ],
     "name:swe_x_preferred":[
         "El Prado"
-    ],
-    "name:unk_x_variant":[
-        "El Prado",
-        "Barrio El Prado"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -95,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
         85670223,
@@ -107,7 +105,6 @@
     "wof:concordances":{
         "gn:id":3683338,
         "gp:id":355594,
-        "qs:id":53709,
         "qs_pg:id":53709
     },
     "wof:country":"CO",
@@ -126,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289390,
+    "wof:lastmodified":1566706526,
     "wof:name":"El Prado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.35659,8.34643,-73.31659,8.38643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chamizo"
     ],
@@ -48,8 +52,7 @@
         "Chamizo"
     ],
     "name:und_x_variant":[
-        "El Chamizo",
-        "Chamizo"
+        "El Chamizo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1309676269,
-    "wof:lastmodified":1564294571,
+    "wof:lastmodified":1566707897,
     "wof:name":"Chamizo",
     "wof:parent_id":421188685,
     "wof:placetype":"locality",

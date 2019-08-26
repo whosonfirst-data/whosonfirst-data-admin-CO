@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.79745,7.30522,-73.75745,7.34522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento San Claver",
         "Kil\u00f3metro 16",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309860417,
-    "wof:lastmodified":1537618403,
+    "wof:lastmodified":1566707921,
     "wof:name":"San Claver",
     "wof:parent_id":1108701325,
     "wof:placetype":"locality",

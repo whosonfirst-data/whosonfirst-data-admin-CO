@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.44419,6.61469,-75.40419,6.65469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malambo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276771499,
-    "wof:lastmodified":1564291153,
+    "wof:lastmodified":1566706979,
     "wof:name":"Malambo",
     "wof:parent_id":421184087,
     "wof:placetype":"locality",

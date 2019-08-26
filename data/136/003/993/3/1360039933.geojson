@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.78667,6.11333,-73.74667,6.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0641\u0644\u0648\u0631\u064a\u0633"
     ],
@@ -181,8 +185,7 @@
         "\u0424\u043b\u043e\u0440\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Fl\u00f3rez",
-        "Flores"
+        "Fl\u00f3rez"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0633"
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":1360039933,
-    "wof:lastmodified":1564294300,
+    "wof:lastmodified":1566707833,
     "wof:name":"Flores",
     "wof:parent_id":1108701199,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":10.14168,
     "geom:longitude":-75.68472,
     "iso:country":"CO",
+    "lbl:bbox":"-75.70472,10.12168,-75.66472,10.16168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corregimiento Baru"
     ],
     "qs:gn_country":"CO",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3689089,
         "gp:id":368665,
-        "qs:id":489583
+        "qs_pg:id":489583
     },
     "wof:country":"CO",
     "wof:created":1459009294,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421181387,
-    "wof:lastmodified":1501268589,
+    "wof:lastmodified":1566708000,
     "wof:name":"Bar\u00fa",
     "wof:parent_id":1108700093,
     "wof:placetype":"locality",

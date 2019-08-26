@@ -10,6 +10,9 @@
     "geom:latitude":2.934469,
     "geom:longitude":-75.289134,
     "iso:country":"CO",
+    "lbl:bbox":"-75.309134,2.914469,-75.269134,2.954469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -315,9 +318,11 @@
     "wof:concordances":{
         "gn:id":3673899,
         "gp:id":368165,
-        "qs:id":239326,
-        "qs_pg:id":274502,
+        "qs_pg:id":239326,
         "wd:id":"Q638260"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":274502
     },
     "wof:country":"CO",
     "wof:created":1459010182,
@@ -332,7 +337,7 @@
         }
     ],
     "wof:id":421204341,
-    "wof:lastmodified":1563309026,
+    "wof:lastmodified":1566707947,
     "wof:name":"Neiva",
     "wof:parent_id":421167923,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.26425,
     "geom:longitude":-75.93085,
     "iso:country":"CO",
+    "lbl:bbox":"-75.95085,4.24425,-75.91085,4.28425",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sevilla"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3668132,
         "gp:id":368237,
-        "qs:id":150008,
+        "qs_pg:id":150008,
         "wd:id":"Q2263673"
     },
     "wof:country":"CO",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421179449,
-    "wof:lastmodified":1563309499,
+    "wof:lastmodified":1566708047,
     "wof:name":"Sevilla",
     "wof:parent_id":421188713,
     "wof:placetype":"locality",

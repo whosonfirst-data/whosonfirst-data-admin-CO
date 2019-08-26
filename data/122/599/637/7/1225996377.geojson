@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.25278,5.51972,-74.21278,5.55972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225996377,
-    "wof:lastmodified":1536796664,
+    "wof:lastmodified":1566708595,
     "wof:name":"Toncanal Narino",
     "wof:parent_id":1108700261,
     "wof:placetype":"locality",

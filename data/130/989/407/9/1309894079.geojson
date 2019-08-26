@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.51686,10.17597,-73.47686,10.21597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Villa Caro"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1309894079,
-    "wof:lastmodified":1564294635,
+    "wof:lastmodified":1566707910,
     "wof:name":"Villa Caro",
     "wof:parent_id":421169849,
     "wof:placetype":"locality",

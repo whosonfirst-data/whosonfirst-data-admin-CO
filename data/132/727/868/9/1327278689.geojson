@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.04353,8.94214,-74.00353,8.98214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento Juana Sanchez",
         "Juan S\u00e1nchez",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327278689,
-    "wof:lastmodified":1537618539,
+    "wof:lastmodified":1566706282,
     "wof:name":"Juana Sanchez",
     "wof:parent_id":1108700123,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.35536,8.31407,-73.31536,8.35407",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Uvito"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226003495,
-    "wof:lastmodified":1564297371,
+    "wof:lastmodified":1566708691,
     "wof:name":"El Uvito",
     "wof:parent_id":421188685,
     "wof:placetype":"locality",

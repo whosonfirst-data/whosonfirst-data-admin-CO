@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.77087,8.10173,-76.73087,8.14173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293295483,
-    "wof:lastmodified":1537061102,
+    "wof:lastmodified":1566706754,
     "wof:name":"Bocas De Rio Turbo",
     "wof:parent_id":421190195,
     "wof:placetype":"locality",

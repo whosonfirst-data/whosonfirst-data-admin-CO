@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.90333,3.73,-74.86333,3.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boqueron",
         "Boquer\u00f3n de Tena"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259744423,
-    "wof:lastmodified":1537618643,
+    "wof:lastmodified":1566708443,
     "wof:name":"Boqueron de Tena",
     "wof:parent_id":1108701455,
     "wof:placetype":"locality",

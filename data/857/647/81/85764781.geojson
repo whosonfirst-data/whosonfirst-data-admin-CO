@@ -9,14 +9,16 @@
     "geom:bbox":"-73.094788,7.076362,-73.094788,7.076362",
     "geom:latitude":7.076362,
     "geom:longitude":-73.094788,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":7.09889,
     "gn:longitude":-73.10722,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-73.099788,7.071362,-73.089788,7.081362",
     "lbl:latitude":7.076362,
     "lbl:longitude":-73.094788,
+    "lbl:max_zoom":18.0,
     "mps:latitude":7.074965,
     "mps:longitude":-73.093527,
     "mz:hierarchy_label":0,
@@ -125,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u041c\u0456\u0433\u0435\u043b\u044c"
     ],
-    "name:unk_x_variant":[
-        "San Miguel"
-    ],
     "name:war_x_preferred":[
         "San Miguel"
     ],
@@ -178,7 +177,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670141,
         102191577,
@@ -189,7 +188,6 @@
     "wof:concordances":{
         "gn:id":3669253,
         "gp:id":365829,
-        "qs:id":1165288,
         "qs_pg:id":1165288
     },
     "wof:country":"CO",
@@ -208,7 +206,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289404,
+    "wof:lastmodified":1566706529,
     "wof:name":"San Miguel",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

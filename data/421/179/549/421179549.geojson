@@ -10,8 +10,12 @@
     "geom:latitude":4.3539,
     "geom:longitude":-75.71782,
     "iso:country":"CO",
+    "lbl:bbox":"-75.73782,4.3339,-75.69782,4.3739",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Buenavista"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Buenavista"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Tolr\u00e1"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3688433,
         "gp:id":351783,
-        "qs:id":150145,
+        "qs_pg:id":150145,
         "wd:id":"Q607290",
         "wk:page":"Buenavista, Quind\u00edo"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179549,
-    "wof:lastmodified":1563309525,
+    "wof:lastmodified":1566708051,
     "wof:name":"Buenavista",
     "wof:parent_id":421188821,
     "wof:placetype":"locality",

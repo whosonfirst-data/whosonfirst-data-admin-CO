@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.04002,4.58778,-74.00002,4.62778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quebrada Honda"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276714677,
-    "wof:lastmodified":1537618753,
+    "wof:lastmodified":1566706952,
     "wof:name":"Quebrada Honda",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

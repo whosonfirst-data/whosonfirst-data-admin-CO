@@ -11,10 +11,14 @@
     "geom:longitude":-75.21906,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":4097,
+    "gn:population":4097,
     "iso:country":"CO",
+    "lbl:bbox":"-75.23906,6.66178,-75.19906,6.70178",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "G\u00f3mez Plata"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3681997,
         "gp:id":368313,
-        "qs:id":1046325,
+        "qs_pg:id":1046325,
         "wd:id":"Q1576474",
         "wk:page":"G\u00f3mez Plata"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890435491,
-    "wof:lastmodified":1563309704,
+    "wof:lastmodified":1566708078,
     "wof:name":"G\u00f3mez Plata",
     "wof:parent_id":1108699963,
     "wof:placetype":"locality",

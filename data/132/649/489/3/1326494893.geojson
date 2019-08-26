@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.43749,1.49091,-77.39749,1.53091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326494893,
-    "wof:lastmodified":1537036365,
+    "wof:lastmodified":1566706188,
     "wof:name":"Plan de Mosquera",
     "wof:parent_id":1108700997,
     "wof:placetype":"locality",

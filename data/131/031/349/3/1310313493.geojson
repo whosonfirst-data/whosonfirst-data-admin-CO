@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.07,5.71333,-75.03,5.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Argentina"
     ],
@@ -784,7 +788,7 @@
         }
     ],
     "wof:id":1310313493,
-    "wof:lastmodified":1564293549,
+    "wof:lastmodified":1566707669,
     "wof:name":"Argentina",
     "wof:parent_id":421183217,
     "wof:placetype":"locality",

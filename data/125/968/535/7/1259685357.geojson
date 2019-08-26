@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.50396,6.81326,-70.46396,6.85326",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Feliciano"
     ],
@@ -48,8 +52,7 @@
         "Feliciano"
     ],
     "name:und_x_variant":[
-        "Inspecci\u00f3n de Polic\u00eda Feliciano",
-        "Feliciano"
+        "Inspecci\u00f3n de Polic\u00eda Feliciano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259685357,
-    "wof:lastmodified":1564296092,
+    "wof:lastmodified":1566708397,
     "wof:name":"Feliciano",
     "wof:parent_id":421170653,
     "wof:placetype":"locality",

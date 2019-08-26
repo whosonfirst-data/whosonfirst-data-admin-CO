@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.28667,4.73,-72.24667,4.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Bere\u00f1os",
         "Los Brenos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344017303,
-    "wof:lastmodified":1537618478,
+    "wof:lastmodified":1566706357,
     "wof:name":"Los Brenos",
     "wof:parent_id":1108701529,
     "wof:placetype":"locality",

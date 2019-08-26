@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.640795,
     "lbl:longitude":-75.522847,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huila",
     "meso:gadm_admin":"Yaguar\u00e1",
     "meso:gadm_hasc2":"CO.HU.YA",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.522847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yaguar\u00e1"
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"389",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Yaguar\u00e1",
@@ -129,7 +132,7 @@
         "gn:id":3665804,
         "gp:id":26797218,
         "hasc:id":"CO.HU.YA",
-        "qs:id":483624,
+        "qs_pg:id":483624,
         "wd:id":"Q1577431"
     },
     "wof:country":"CO",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421180985,
-    "wof:lastmodified":1561759454,
+    "wof:lastmodified":1566707967,
     "wof:name":"Yaguar\u00e1",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

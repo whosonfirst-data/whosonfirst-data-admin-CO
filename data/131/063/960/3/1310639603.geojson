@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.01275,5.4579,-74.97275,5.4979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Convenio"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310639603,
-    "wof:lastmodified":1537618710,
+    "wof:lastmodified":1566707675,
     "wof:name":"El Convenio",
     "wof:parent_id":421188653,
     "wof:placetype":"locality",

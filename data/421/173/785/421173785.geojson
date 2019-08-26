@@ -10,8 +10,12 @@
     "geom:latitude":4.78405,
     "geom:longitude":-74.76268,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78268,4.76405,-74.74268,4.80405",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ambalema"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3689979,
         "gp:id":368452,
-        "qs:id":299489,
+        "qs_pg:id":299489,
         "wd:id":"Q1574897",
         "wk:page":"Ambalema"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421173785,
-    "wof:lastmodified":1563309167,
+    "wof:lastmodified":1566707977,
     "wof:name":"Ambalema",
     "wof:parent_id":421204843,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.23667,10.16333,-74.19667,10.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Todos Los Santos",
         "Todos Los Santos"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210055105,
-    "wof:lastmodified":1537618372,
+    "wof:lastmodified":1566707254,
     "wof:name":"Todos Los Santos",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

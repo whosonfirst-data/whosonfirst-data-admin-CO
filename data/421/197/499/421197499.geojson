@@ -10,8 +10,12 @@
     "geom:latitude":8.81136,
     "geom:longitude":-74.72084,
     "iso:country":"CO",
+    "lbl:bbox":"-74.74084,8.79136,-74.70084,8.83136",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sucre"
@@ -64,7 +68,7 @@
     "name:swe_x_preferred":[
         "Sucre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boca de Granada"
     ],
     "name:vie_x_preferred":[
@@ -109,9 +113,11 @@
     "wof:concordances":{
         "gn:id":3667731,
         "gp:id":366996,
-        "qs:id":288245,
-        "qs_pg:id":1046174,
+        "qs_pg:id":288245,
         "wd:id":"Q1442422"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1046174
     },
     "wof:country":"CO",
     "wof:created":1459009915,
@@ -126,7 +132,7 @@
         }
     ],
     "wof:id":421197499,
-    "wof:lastmodified":1563309342,
+    "wof:lastmodified":1566708013,
     "wof:name":"Sucre",
     "wof:parent_id":421188689,
     "wof:placetype":"locality",

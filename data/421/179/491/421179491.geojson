@@ -10,8 +10,12 @@
     "geom:latitude":5.0194,
     "geom:longitude":-75.62242,
     "iso:country":"CO",
+    "lbl:bbox":"-75.64242,4.9994,-75.60242,5.0394",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Palestina"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3673269,
         "gp:id":363243,
-        "qs:id":150074,
+        "qs_pg:id":150074,
         "wd:id":"Q1524756"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421179491,
-    "wof:lastmodified":1563309505,
+    "wof:lastmodified":1566708048,
     "wof:name":"Palestina",
     "wof:parent_id":421172407,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.7254,8.64719,-74.6854,8.68719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pisa"
     ],
@@ -306,9 +310,7 @@
         "\u041f\u0456\u0437\u0430"
     ],
     "name:und_x_variant":[
-        "Corregimiento de Pisa",
-        "Piza",
-        "Pisa"
+        "Corregimiento de Pisa"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0633\u0627"
@@ -354,7 +356,7 @@
         }
     ],
     "wof:id":1326977567,
-    "wof:lastmodified":1564288103,
+    "wof:lastmodified":1566706232,
     "wof:name":"Pisa",
     "wof:parent_id":1108701401,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.70592,
     "geom:longitude":-74.23021,
     "iso:country":"CO",
+    "lbl:bbox":"-74.25021,4.68592,-74.21021,4.72592",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Mosquera"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3674292,
         "gp:id":362779,
-        "qs:id":1174622,
+        "qs_pg:id":1174622,
         "wd:id":"Q2432909"
     },
     "wof:country":"CO",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421194437,
-    "wof:lastmodified":1563308936,
+    "wof:lastmodified":1566707932,
     "wof:name":"Mosquera",
     "wof:parent_id":421205083,
     "wof:placetype":"locality",

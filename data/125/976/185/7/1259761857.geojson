@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.83994,8.09633,-73.79994,8.13633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259761857,
-    "wof:lastmodified":1536954418,
+    "wof:lastmodified":1566708396,
     "wof:name":"Nuevo Zelandia",
     "wof:parent_id":1108700135,
     "wof:placetype":"locality",

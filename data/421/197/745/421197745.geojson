@@ -10,8 +10,12 @@
     "geom:latitude":6.21826,
     "geom:longitude":-73.81121,
     "iso:country":"CO",
+    "lbl:bbox":"-73.83121,6.19826,-73.79121,6.23826",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Land\u00e1zuri"
@@ -54,9 +58,6 @@
     ],
     "name:tgl_x_preferred":[
         "Landazuri"
-    ],
-    "name:unk_x_variant":[
-        "Land\u00e1zuri"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0646\u0688\u0627\u0632\u0648\u0631\u06cc"
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3678328,
         "gp:id":369066,
-        "qs:id":150110,
+        "qs_pg:id":150110,
         "wd:id":"Q612555",
         "wk:page":"Landazuri"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421197745,
-    "wof:lastmodified":1563309356,
+    "wof:lastmodified":1566708015,
     "wof:name":"Landazuri",
     "wof:parent_id":1108701283,
     "wof:placetype":"locality",

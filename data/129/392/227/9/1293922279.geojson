@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.12009,10.21245,-74.08009,10.25245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Costarica",
         "Hacienda Costarrica",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293922279,
-    "wof:lastmodified":1537618613,
+    "wof:lastmodified":1566706682,
     "wof:name":"Costarrica",
     "wof:parent_id":421203427,
     "wof:placetype":"locality",

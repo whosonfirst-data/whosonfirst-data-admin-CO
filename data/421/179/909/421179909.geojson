@@ -10,8 +10,12 @@
     "geom:latitude":-3.77028,
     "geom:longitude":-70.38306,
     "iso:country":"CO",
+    "lbl:bbox":"-70.40306,-3.79028,-70.36306,-3.75028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Nari\u00f1o"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3671387,
         "gp:id":364456,
-        "qs:id":240964,
+        "qs_pg:id":240964,
         "wd:id":"Q767738",
         "wk:page":"Puerto Nari\u00f1o"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421179909,
-    "wof:lastmodified":1563309493,
+    "wof:lastmodified":1566708045,
     "wof:name":"Puerto Nari\u00f1o",
     "wof:parent_id":421202279,
     "wof:placetype":"locality",

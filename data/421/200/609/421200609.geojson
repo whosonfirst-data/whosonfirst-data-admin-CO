@@ -10,8 +10,12 @@
     "geom:latitude":7.88752,
     "geom:longitude":-72.79749,
     "iso:country":"CO",
+    "lbl:bbox":"-72.81749,7.86752,-72.77749,7.90752",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Gramalote"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3681966,
         "gp:id":368502,
-        "qs:id":888775,
+        "qs_pg:id":888775,
         "wd:id":"Q1576677",
         "wk:page":"Gramalote"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421200609,
-    "wof:lastmodified":1563309380,
+    "wof:lastmodified":1566708019,
     "wof:name":"Gramalote",
     "wof:parent_id":1108701115,
     "wof:placetype":"locality",

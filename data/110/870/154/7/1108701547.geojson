@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.274322,
     "lbl:longitude":-71.786955,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Casanare",
     "meso:gadm_admin":"San Luis de Palenque",
     "meso:gadm_hasc2":"CO.CS.SL",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.786955,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "San Luis de Palenque"
     ],
@@ -86,9 +89,9 @@
         "\u8056\u8def\u6613\u65af\u5fb7\u5e15\u502b\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"3057",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"San Luis de Palenque",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108701547,
-    "wof:lastmodified":1561759354,
+    "wof:lastmodified":1566707516,
     "wof:name":"San Luis De Palenque",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

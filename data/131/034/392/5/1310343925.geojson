@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.78904,9.6152,-74.74904,9.6552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento San Antonio del Rio",
         "San Antonio de Rio",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310343925,
-    "wof:lastmodified":1537618404,
+    "wof:lastmodified":1566707754,
     "wof:name":"San Antonio del Rio",
     "wof:parent_id":1108700899,
     "wof:placetype":"locality",

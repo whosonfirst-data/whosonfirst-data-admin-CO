@@ -10,8 +10,12 @@
     "geom:latitude":2.47691,
     "geom:longitude":-78.11049,
     "iso:country":"CO",
+    "lbl:bbox":"-78.13049,2.45691,-78.09049,2.49691",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Charco"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "El Charco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Charco"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3684579,
         "gp:id":354236,
-        "qs:id":1206217,
+        "qs_pg:id":1206217,
         "wd:id":"Q1441184",
         "wk:page":"El Charco"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421171067,
-    "wof:lastmodified":1563309600,
+    "wof:lastmodified":1566708063,
     "wof:name":"El Charco",
     "wof:parent_id":1108700995,
     "wof:placetype":"locality",

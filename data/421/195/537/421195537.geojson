@@ -10,8 +10,12 @@
     "geom:latitude":8.66372,
     "geom:longitude":-77.36506,
     "iso:country":"CO",
+    "lbl:bbox":"-77.38506,8.64372,-77.34506,8.68372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sapzurro"
@@ -20,9 +24,6 @@
         "Sapzurro"
     ],
     "name:spa_x_preferred":[
-        "Sapzurro"
-    ],
-    "name:unk_x_variant":[
         "Sapzurro"
     ],
     "name:zho_x_preferred":[
@@ -58,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3665580,
         "gp:id":368120,
-        "qs:id":501210,
+        "qs_pg:id":501210,
         "wd:id":"Q6121708",
         "wk:page":"Sapzurro"
     },
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":421195537,
-    "wof:lastmodified":1563308929,
+    "wof:lastmodified":1566707930,
     "wof:name":"Zapzurro",
     "wof:parent_id":421172119,
     "wof:placetype":"locality",

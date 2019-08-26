@@ -10,8 +10,12 @@
     "geom:latitude":10.89693,
     "geom:longitude":-72.8861,
     "iso:country":"CO",
+    "lbl:bbox":"-72.9061,10.87693,-72.8661,10.91693",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Distracci\u00f3n"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3685200,
         "gp:id":353652,
-        "qs:id":1206208,
+        "qs_pg:id":1206208,
         "wd:id":"Q1525662",
         "wk:page":"Distracci\u00f3n, La Guajira"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421194485,
-    "wof:lastmodified":1563308935,
+    "wof:lastmodified":1566707932,
     "wof:name":"Distracci\u00f3n",
     "wof:parent_id":1108700857,
     "wof:placetype":"locality",

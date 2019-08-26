@@ -10,8 +10,12 @@
     "geom:latitude":5.57782,
     "geom:longitude":-74.88521,
     "iso:country":"CO",
+    "lbl:bbox":"-74.90521,5.55782,-74.86521,5.59782",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Norcasia"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "Norcasia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Norcacia"
     ],
     "name:vie_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3673811,
         "gp:id":362956,
-        "qs:id":924742,
+        "qs_pg:id":924742,
         "wd:id":"Q921734",
         "wk:page":"Norcasia, Caldas"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421182615,
-    "wof:lastmodified":1563309546,
+    "wof:lastmodified":1566708056,
     "wof:name":"Norcasia",
     "wof:parent_id":1108700391,
     "wof:placetype":"locality",

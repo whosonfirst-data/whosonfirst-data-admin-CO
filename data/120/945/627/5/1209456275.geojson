@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.76942,4.47418,-74.72942,4.51418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Gusano"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209456275,
-    "wof:lastmodified":1537618782,
+    "wof:lastmodified":1566707220,
     "wof:name":"El Gusano",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

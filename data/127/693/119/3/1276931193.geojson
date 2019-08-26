@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.34745,6.19532,-73.30745,6.23532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
     ],
@@ -634,7 +638,7 @@
         }
     ],
     "wof:id":1276931193,
-    "wof:lastmodified":1564290758,
+    "wof:lastmodified":1566706883,
     "wof:name":"Buenos Aires",
     "wof:parent_id":1108701305,
     "wof:placetype":"locality",

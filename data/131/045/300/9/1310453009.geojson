@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.11344,9.97075,-74.07344,10.01075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Rosacercada",
         "Rosacercada"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310453009,
-    "wof:lastmodified":1537618411,
+    "wof:lastmodified":1566707695,
     "wof:name":"Rosacercada",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

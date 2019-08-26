@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.166653,
     "lbl:longitude":-74.781594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"Honda",
     "meso:gadm_hasc2":"CO.TO.HO",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.781594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Honda"
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"310",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Honda",
@@ -161,7 +164,7 @@
         "gn:id":3680841,
         "gp:id":26797539,
         "hasc:id":"CO.TO.HO",
-        "qs:id":1103752,
+        "qs_pg:id":1103752,
         "wd:id":"Q932513",
         "wk:page":"Honda, Tolima"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":421188697,
-    "wof:lastmodified":1563309213,
+    "wof:lastmodified":1566707987,
     "wof:name":"Honda",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

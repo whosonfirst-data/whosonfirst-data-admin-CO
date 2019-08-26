@@ -10,8 +10,12 @@
     "geom:latitude":6.18461,
     "geom:longitude":-75.59913,
     "iso:country":"CO",
+    "lbl:bbox":"-75.61913,6.16461,-75.57913,6.20461",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Itag\u00fc\u00ed"
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":3680450,
         "gp:id":368212,
-        "qs:id":150113,
+        "qs_pg:id":150113,
         "wd:id":"Q1527934",
         "wk:page":"Itag\u00fc\u00ed"
     },
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":421197749,
-    "wof:lastmodified":1563309345,
+    "wof:lastmodified":1566708013,
     "wof:name":"Itag\u00fc\u00ed",
     "wof:parent_id":421188619,
     "wof:placetype":"locality",

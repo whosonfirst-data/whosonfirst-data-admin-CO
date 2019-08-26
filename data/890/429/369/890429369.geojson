@@ -11,10 +11,14 @@
     "geom:longitude":-73.34435,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":742,
+    "gn:population":742,
     "iso:country":"CO",
+    "lbl:bbox":"-73.36435,5.92597,-73.32435,5.96597",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "G\u00e1mbita"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3682178,
         "gp:id":368946,
-        "qs:id":96332,
+        "qs_pg:id":96332,
         "wd:id":"Q1655623",
         "wk:page":"G\u00e1mbita"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890429369,
-    "wof:lastmodified":1563309681,
+    "wof:lastmodified":1566708076,
     "wof:name":"G\u00e1mbita",
     "wof:parent_id":1108701257,
     "wof:placetype":"locality",

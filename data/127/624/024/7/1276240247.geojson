@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.33496,7.22678,-75.29496,7.26678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palermo"
     ],
@@ -406,7 +410,7 @@
         }
     ],
     "wof:id":1276240247,
-    "wof:lastmodified":1564291074,
+    "wof:lastmodified":1566706960,
     "wof:name":"Palermo",
     "wof:parent_id":1108700031,
     "wof:placetype":"locality",

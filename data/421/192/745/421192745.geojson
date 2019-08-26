@@ -10,8 +10,12 @@
     "geom:latitude":5.38541,
     "geom:longitude":-73.36364,
     "iso:country":"CO",
+    "lbl:bbox":"-73.38364,5.36541,-73.34364,5.40541",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jenesano"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Jenesano"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Piranguata"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3680335,
         "gp:id":368513,
-        "qs:id":1174631,
+        "qs_pg:id":1174631,
         "wd:id":"Q1577759",
         "wk:page":"Jenesano"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421192745,
-    "wof:lastmodified":1563308926,
+    "wof:lastmodified":1566707929,
     "wof:name":"Jenesano",
     "wof:parent_id":1108700251,
     "wof:placetype":"locality",

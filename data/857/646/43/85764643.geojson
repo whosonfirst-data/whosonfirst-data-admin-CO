@@ -9,14 +9,16 @@
     "geom:bbox":"-75.51536,10.411988,-75.51536,10.411988",
     "geom:latitude":10.411988,
     "geom:longitude":-75.51536,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.41667,
     "gn:longitude":-75.51667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.52036,10.406988,-75.51036,10.416988",
     "lbl:latitude":10.411988,
     "lbl:longitude":-75.51536,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.414376,
     "mps:longitude":-75.512342,
     "mz:hierarchy_label":0,
@@ -82,9 +84,6 @@
     "name:tgl_x_preferred":[
         "Esperanza"
     ],
-    "name:unk_x_variant":[
-        "Esperanza"
-    ],
     "name:vie_x_preferred":[
         "Esperanza"
     ],
@@ -139,7 +138,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670209,
         102191577,
@@ -150,7 +149,6 @@
     "wof:concordances":{
         "gn:id":3682577,
         "gp:id":356383,
-        "qs:id":235287,
         "qs_pg:id":235287
     },
     "wof:country":"CO",
@@ -169,7 +167,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289411,
+    "wof:lastmodified":1566706531,
     "wof:name":"Esperanza",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

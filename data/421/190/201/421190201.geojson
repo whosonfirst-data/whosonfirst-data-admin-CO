@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.922957,
     "lbl:longitude":-74.449764,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Puerto Boyac\u00e1",
     "meso:gadm_hasc2":"CO.BY.PB",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.449764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Boyac\u00e1"
@@ -94,7 +97,7 @@
     "name:tgl_x_preferred":[
         "Puerto Boyac\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Territorio V\u00e1squez"
     ],
     "name:vie_x_preferred":[
@@ -128,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Puerto Boyac\u00e1",
@@ -152,7 +155,7 @@
         "gn:id":3671533,
         "gp:id":26796870,
         "hasc:id":"CO.BY.PB",
-        "qs:id":1118966,
+        "qs_pg:id":1118966,
         "wd:id":"Q2335098",
         "wk:page":"Puerto Boyac\u00e1"
     },
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421190201,
-    "wof:lastmodified":1563309335,
+    "wof:lastmodified":1566708012,
     "wof:name":"Puerto Boyac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

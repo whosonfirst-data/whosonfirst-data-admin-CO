@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.617448,
     "lbl:longitude":-72.969561,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Sogamoso",
     "meso:gadm_hasc2":"CO.BY.SG",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.969561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Iza"
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Sogamoso",
@@ -128,7 +131,7 @@
         "gn:id":3680427,
         "gp:id":26796840,
         "hasc:id":"CO.BY.SG",
-        "qs:id":1118967,
+        "qs_pg:id":1118967,
         "wd:id":"Q564660"
     },
     "wof:country":"CO",
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421190203,
-    "wof:lastmodified":1563309328,
+    "wof:lastmodified":1566708010,
     "wof:name":"Iza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.83306,4.88778,-75.79306,4.92778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3811723
     },
     "wof:country":"CO",
-    "wof:geomhash":"8e655a2121cadab2e337bd2b98900c02",
+    "wof:geomhash":"9a64f63555faff4d8a2662e0c4d084b8",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209470603,
-    "wof:lastmodified":1536286092,
+    "wof:lastmodified":1566707115,
     "wof:name":"Puerto Pereira",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.81306,
-    4.907780000000002,
+    4.90778,
     -75.81306,
-    4.907780000000002
+    4.90778
 ],
   "geometry": {"coordinates":[-75.81305999999999,4.90778],"type":"Point"}
 }

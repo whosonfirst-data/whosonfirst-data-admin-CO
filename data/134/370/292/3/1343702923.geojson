@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.48896,4.68471,-73.44896,4.72471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Batatas",
         "Puente Batatas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343702923,
-    "wof:lastmodified":1537618650,
+    "wof:lastmodified":1566706383,
     "wof:name":"Puente Batatas",
     "wof:parent_id":421184953,
     "wof:placetype":"locality",

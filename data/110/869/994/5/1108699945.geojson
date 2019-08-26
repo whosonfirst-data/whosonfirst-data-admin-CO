@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.768078,
     "lbl:longitude":-76.701738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Carepa",
     "meso:gadm_hasc2":"CO.AN.CP",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.701738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0628\u0627"
     ],
@@ -112,9 +115,9 @@
         "\u5361\u96f7\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"380",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Carepa",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108699945,
-    "wof:lastmodified":1563307255,
+    "wof:lastmodified":1566707438,
     "wof:name":"Carepa",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

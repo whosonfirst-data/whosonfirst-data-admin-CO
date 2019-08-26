@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.6984,7.15818,-74.6584,7.19818",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1292911797,
-    "wof:lastmodified":1536620758,
+    "wof:lastmodified":1566706736,
     "wof:name":"Alto de Tigre",
     "wof:parent_id":421184089,
     "wof:placetype":"locality",

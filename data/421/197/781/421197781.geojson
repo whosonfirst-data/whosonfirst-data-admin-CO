@@ -10,8 +10,12 @@
     "geom:latitude":5.33278,
     "geom:longitude":-75.79111,
     "iso:country":"CO",
+    "lbl:bbox":"-75.81111,5.31278,-75.77111,5.35278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Anserma"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3689833,
         "gp:id":368177,
-        "qs:id":150158,
+        "qs_pg:id":150158,
         "wd:id":"Q547678"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421197781,
-    "wof:lastmodified":1563309353,
+    "wof:lastmodified":1566708015,
     "wof:name":"Anserma",
     "wof:parent_id":421184591,
     "wof:placetype":"locality",

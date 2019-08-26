@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.603877,
     "lbl:longitude":-77.274651,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choc\u00f3",
     "meso:gadm_admin":"Nuqu\u00ed",
     "meso:gadm_hasc2":"CO.CH.NU",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.274651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0646\u0648\u0643\u0648\u064a"
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"958",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Nuqu\u00ed",
@@ -146,7 +149,7 @@
         "gn:id":3673691,
         "gp:id":26797176,
         "hasc:id":"CO.CH.NU",
-        "qs:id":1194637,
+        "qs_pg:id":1194637,
         "wd:id":"Q1577833"
     },
     "wof:country":"CO",
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421170617,
-    "wof:lastmodified":1563309435,
+    "wof:lastmodified":1566708032,
     "wof:name":"Nuqu\u00ed",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.72294,8.59877,-75.68294,8.63877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293668963,
-    "wof:lastmodified":1537021740,
+    "wof:lastmodified":1566706687,
     "wof:name":"La Infanta",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",

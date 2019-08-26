@@ -10,8 +10,12 @@
     "geom:latitude":7.02122,
     "geom:longitude":-75.90926,
     "iso:country":"CO",
+    "lbl:bbox":"-75.92926,7.00122,-75.88926,7.04122",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Peque"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3672512,
         "gp:id":369224,
-        "qs:id":288454,
+        "qs_pg:id":288454,
         "wd:id":"Q1577164",
         "wk:page":"Peque, Antioquia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421173475,
-    "wof:lastmodified":1563309175,
+    "wof:lastmodified":1566707978,
     "wof:name":"Peque",
     "wof:parent_id":1108699987,
     "wof:placetype":"locality",

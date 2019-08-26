@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.096612,
     "lbl:longitude":-73.312838,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Garagoa",
     "meso:gadm_hasc2":"CO.BY.GG",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.312838,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Garagoa"
     ],
@@ -85,9 +88,9 @@
         "\u52a0\u62c9\u6208\u963f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"79",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Garagoa",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108700243,
-    "wof:lastmodified":1563307300,
+    "wof:lastmodified":1566707462,
     "wof:name":"Garagoa",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

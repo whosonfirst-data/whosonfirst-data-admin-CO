@@ -10,8 +10,12 @@
     "geom:latitude":10.03155,
     "geom:longitude":-74.97612,
     "iso:country":"CO",
+    "lbl:bbox":"-74.99612,10.01155,-74.95612,10.05155",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Guamo"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "El Guamo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guamo"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3684115,
         "gp:id":368490,
-        "qs:id":194641,
+        "qs_pg:id":194641,
         "wd:id":"Q1576366"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421199585,
-    "wof:lastmodified":1563309370,
+    "wof:lastmodified":1566708017,
     "wof:name":"El Guamo",
     "wof:parent_id":1108700119,
     "wof:placetype":"locality",

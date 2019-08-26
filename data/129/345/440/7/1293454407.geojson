@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.36908,1.49848,-77.32908,1.53848",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majuando",
         "Majuado"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293454407,
-    "wof:lastmodified":1537618466,
+    "wof:lastmodified":1566706760,
     "wof:name":"Majuado",
     "wof:parent_id":421205097,
     "wof:placetype":"locality",

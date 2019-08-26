@@ -10,8 +10,12 @@
     "geom:latitude":5.75463,
     "geom:longitude":-73.43669,
     "iso:country":"CO",
+    "lbl:bbox":"-73.45669,5.73463,-73.41669,5.77463",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Arcabuco"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3689689,
         "gp:id":368459,
-        "qs:id":1046431,
+        "qs_pg:id":1046431,
         "wd:id":"Q1654728",
         "wk:page":"Arcabuco"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421176479,
-    "wof:lastmodified":1563309560,
+    "wof:lastmodified":1566708057,
     "wof:name":"Arcabuco",
     "wof:parent_id":1108700187,
     "wof:placetype":"locality",

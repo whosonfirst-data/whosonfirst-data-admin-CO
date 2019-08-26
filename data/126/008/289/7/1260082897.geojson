@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.74042,8.61396,-76.70042,8.65396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mulato",
         "Mulatos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260082897,
-    "wof:lastmodified":1537618453,
+    "wof:lastmodified":1566707375,
     "wof:name":"Mulatos",
     "wof:parent_id":421188793,
     "wof:placetype":"locality",

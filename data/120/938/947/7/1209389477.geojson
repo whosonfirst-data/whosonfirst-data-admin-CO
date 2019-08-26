@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.66294,4.15768,-73.62294,4.19768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Beiere"
     ],
@@ -478,7 +482,7 @@
         }
     ],
     "wof:id":1209389477,
-    "wof:lastmodified":1564291362,
+    "wof:lastmodified":1566707034,
     "wof:name":"Bavaria",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

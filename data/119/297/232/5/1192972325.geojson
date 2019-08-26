@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.53667,4.64667,-74.49667,4.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Baltimore"
     ],
@@ -337,8 +341,7 @@
         "\u0411\u0430\u043b\u0442\u0438\u043c\u043e\u0440"
     ],
     "name:und_x_variant":[
-        "Baltimores",
-        "Baltimore"
+        "Baltimores"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u0679\u06cc\u0645\u0648\u0631"
@@ -393,7 +396,7 @@
         }
     ],
     "wof:id":1192972325,
-    "wof:lastmodified":1564292614,
+    "wof:lastmodified":1566707310,
     "wof:name":"Baltimore",
     "wof:parent_id":1108700669,
     "wof:placetype":"locality",

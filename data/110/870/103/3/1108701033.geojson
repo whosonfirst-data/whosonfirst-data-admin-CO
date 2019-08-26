@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.733779,
     "lbl:longitude":-77.750714,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"Los Andes",
     "meso:gadm_hasc2":"CO.NA.LO",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.750714,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Los Andes"
     ],
@@ -89,7 +92,7 @@
         "\u6d1b\u65af\u5b89\u7b2c\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108701033,
-    "wof:lastmodified":1563307267,
+    "wof:lastmodified":1566707443,
     "wof:name":"Los Andes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

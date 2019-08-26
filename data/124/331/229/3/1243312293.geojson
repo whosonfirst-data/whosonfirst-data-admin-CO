@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.09684,5.20835,-72.05684,5.24835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243312293,
-    "wof:lastmodified":1536998316,
+    "wof:lastmodified":1566708090,
     "wof:name":"El Paso",
     "wof:parent_id":421190211,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.79694,7.43778,-75.75694,7.47778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293665965,
-    "wof:lastmodified":1537025892,
+    "wof:lastmodified":1566706687,
     "wof:name":"Montanita",
     "wof:parent_id":1108700023,
     "wof:placetype":"locality",

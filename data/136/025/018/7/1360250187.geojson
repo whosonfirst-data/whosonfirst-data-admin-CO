@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.72316,4.00788,-72.68316,4.04788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Florida"
     ],
@@ -562,7 +566,7 @@
         }
     ],
     "wof:id":1360250187,
-    "wof:lastmodified":1564294179,
+    "wof:lastmodified":1566707804,
     "wof:name":"Florida",
     "wof:parent_id":421179663,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.35333,10.41333,-75.31333,10.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Helena"
     ],
@@ -61,8 +65,7 @@
         "Santa Helena"
     ],
     "name:und_x_variant":[
-        "Hacienda Santa Helena",
-        "Santa Helena"
+        "Hacienda Santa Helena"
     ],
     "name:vol_x_preferred":[
         "Santa Helena"
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1226086679,
-    "wof:lastmodified":1564297246,
+    "wof:lastmodified":1566708665,
     "wof:name":"Santa Helena",
     "wof:parent_id":1108700165,
     "wof:placetype":"locality",

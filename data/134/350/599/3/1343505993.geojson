@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.85454,9.11642,-74.81454,9.15642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento San Anto\u00f1ito",
         "San Anto\u00f1ito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343505993,
-    "wof:lastmodified":1537618404,
+    "wof:lastmodified":1566706425,
     "wof:name":"San Antonito",
     "wof:parent_id":421184105,
     "wof:placetype":"locality",

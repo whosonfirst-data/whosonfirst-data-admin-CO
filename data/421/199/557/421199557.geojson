@@ -10,8 +10,12 @@
     "geom:latitude":5.63333,
     "geom:longitude":-73.31667,
     "iso:country":"CO",
+    "lbl:bbox":"-73.33667,5.61333,-73.29667,5.65333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "C\u00f3mbita"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3686051,
         "gp:id":353236,
-        "qs:id":194471,
+        "qs_pg:id":194471,
         "wd:id":"Q1525695"
     },
     "wof:country":"CO",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421199557,
-    "wof:lastmodified":1563309358,
+    "wof:lastmodified":1566708016,
     "wof:name":"Combita",
     "wof:parent_id":421184107,
     "wof:placetype":"locality",

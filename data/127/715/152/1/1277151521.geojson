@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.93772,3.54141,-73.89772,3.58141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277151521,
-    "wof:lastmodified":1537618830,
+    "wof:lastmodified":1566706918,
     "wof:name":"San Jose",
     "wof:parent_id":1108700931,
     "wof:placetype":"locality",

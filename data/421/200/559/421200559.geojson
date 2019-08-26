@@ -10,8 +10,12 @@
     "geom:latitude":5.55456,
     "geom:longitude":-73.86567,
     "iso:country":"CO",
+    "lbl:bbox":"-73.88567,5.53456,-73.84567,5.57456",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Caldas"
@@ -106,9 +110,11 @@
     "wof:concordances":{
         "gn:id":3687952,
         "gp:id":352070,
-        "qs:id":887330,
         "qs_pg:id":279876,
         "wd:id":"Q2430634"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":887330
     },
     "wof:country":"CO",
     "wof:created":1459010029,
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421200559,
-    "wof:lastmodified":1563309373,
+    "wof:lastmodified":1566708018,
     "wof:name":"Caldas",
     "wof:parent_id":1108700203,
     "wof:placetype":"locality",

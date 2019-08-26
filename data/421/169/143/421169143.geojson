@@ -10,6 +10,9 @@
     "geom:latitude":5.61637,
     "geom:longitude":-73.81748,
     "iso:country":"CO",
+    "lbl:bbox":"-73.83748,5.59637,-73.79748,5.63637",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":3686513,
         "gp:id":368285,
-        "qs:id":489536,
+        "qs_pg:id":489536,
         "wd:id":"Q951897"
     },
     "wof:country":"CO",
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":421169143,
-    "wof:lastmodified":1563308996,
+    "wof:lastmodified":1566707941,
     "wof:name":"Chiquinquir\u00e1",
     "wof:parent_id":421185355,
     "wof:placetype":"locality",

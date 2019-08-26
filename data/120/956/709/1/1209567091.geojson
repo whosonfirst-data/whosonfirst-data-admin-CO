@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.28096,5.62292,-73.24096,5.66292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3685018
     },
     "wof:country":"CO",
-    "wof:geomhash":"4912fe95f6e9554215f2a96bd7176abc",
+    "wof:geomhash":"31d0a14dc587e24ff7e2236363f8c073",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209567091,
-    "wof:lastmodified":1536283206,
+    "wof:lastmodified":1566707176,
     "wof:name":"El Alcaparro",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -73.26096,
-    5.642919999999998,
+    5.64292,
     -73.26096,
-    5.642919999999998
+    5.64292
 ],
   "geometry": {"coordinates":[-73.26096,5.64292],"type":"Point"}
 }

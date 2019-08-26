@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.55343,1.5707,-75.51343,1.6107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0415\u0440\u043c\u0430\u043d\u0442\u04d9\u044b\u043b\u0430"
     ],
@@ -757,7 +761,7 @@
         }
     ],
     "wof:id":1326815473,
-    "wof:lastmodified":1564287446,
+    "wof:lastmodified":1566706080,
     "wof:name":"Armenia",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.58361,5.91153,-75.54361,5.95153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pombal"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1326733035,
-    "wof:lastmodified":1564287516,
+    "wof:lastmodified":1566706097,
     "wof:name":"Pombal",
     "wof:parent_id":421191861,
     "wof:placetype":"locality",

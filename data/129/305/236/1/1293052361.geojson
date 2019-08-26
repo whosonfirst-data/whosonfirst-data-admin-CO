@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.24056,9.34497,-74.20056,9.38497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Oase"
     ],
@@ -277,7 +281,7 @@
         }
     ],
     "wof:id":1293052361,
-    "wof:lastmodified":1564290108,
+    "wof:lastmodified":1566706726,
     "wof:name":"Oasis",
     "wof:parent_id":1108700909,
     "wof:placetype":"locality",

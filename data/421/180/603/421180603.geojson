@@ -10,8 +10,12 @@
     "geom:latitude":6.62711,
     "geom:longitude":-72.62625,
     "iso:country":"CO",
+    "lbl:bbox":"-72.64625,6.60711,-72.60625,6.64711",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Carcas\u00ed"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3687394,
         "gp:id":368474,
-        "qs:id":1206527,
+        "qs_pg:id":1206527,
         "wd:id":"Q1656695",
         "wk:page":"Carcasi"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421180603,
-    "wof:lastmodified":1563309114,
+    "wof:lastmodified":1566707967,
     "wof:name":"Carcas\u00ed",
     "wof:parent_id":1108701209,
     "wof:placetype":"locality",

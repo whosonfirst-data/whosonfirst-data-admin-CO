@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.72275,3.29321,-74.68275,3.33321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Legiosa",
         "La Legiosa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326602031,
-    "wof:lastmodified":1537618483,
+    "wof:lastmodified":1566706112,
     "wof:name":"La Legiosa",
     "wof:parent_id":1108700809,
     "wof:placetype":"locality",

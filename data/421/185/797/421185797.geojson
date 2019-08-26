@@ -10,8 +10,12 @@
     "geom:latitude":5.08236,
     "geom:longitude":-73.36334,
     "iso:country":"CO",
+    "lbl:bbox":"-73.38334,5.06236,-73.34334,5.10236",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Garagoa"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3682160,
         "gp:id":368311,
-        "qs:id":1046327,
+        "qs_pg:id":1046327,
         "wd:id":"Q1524837",
         "wk:page":"Garagoa, Boyac\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421185797,
-    "wof:lastmodified":1563309600,
+    "wof:lastmodified":1566708064,
     "wof:name":"Garagoa",
     "wof:parent_id":1108700243,
     "wof:placetype":"locality",

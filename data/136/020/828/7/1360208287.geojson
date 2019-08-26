@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.78729,10.81408,-74.74729,10.85408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Villamar\u00eda",
         "Villa Mar\u00eda",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360208287,
-    "wof:lastmodified":1537618362,
+    "wof:lastmodified":1566707815,
     "wof:name":"Villamaria",
     "wof:parent_id":1108700061,
     "wof:placetype":"locality",

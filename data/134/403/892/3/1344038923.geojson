@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.41646,2.72902,-75.37646,2.76902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Betania",
         "La Jagua"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344038923,
-    "wof:lastmodified":1537618517,
+    "wof:lastmodified":1566706485,
     "wof:name":"La Jagua",
     "wof:parent_id":421170437,
     "wof:placetype":"locality",

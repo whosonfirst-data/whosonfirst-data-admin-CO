@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.334083,
     "lbl:longitude":-71.13143,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Casanare",
     "meso:gadm_admin":"Trinidad",
     "meso:gadm_hasc2":"CO.CS.TR",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.13143,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Trinidad"
     ],
@@ -79,9 +82,9 @@
         "\u7279\u7acb\u5c3c\u9054"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"2991",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Trinidad",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108701555,
-    "wof:lastmodified":1563307494,
+    "wof:lastmodified":1566707535,
     "wof:name":"Trinidad",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

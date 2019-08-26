@@ -10,8 +10,12 @@
     "geom:latitude":5.45948,
     "geom:longitude":-74.33823,
     "iso:country":"CO",
+    "lbl:bbox":"-74.35823,5.43948,-74.31823,5.47948",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Yacop\u00ed"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3665813,
         "gp:id":368443,
-        "qs:id":1206514,
+        "qs_pg:id":1206514,
         "wd:id":"Q1525351",
         "wk:page":"Yacop\u00ed"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421198843,
-    "wof:lastmodified":1563309286,
+    "wof:lastmodified":1566708003,
     "wof:name":"Yacop\u00ed",
     "wof:parent_id":1108700737,
     "wof:placetype":"locality",

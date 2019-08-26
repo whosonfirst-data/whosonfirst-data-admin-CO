@@ -10,8 +10,12 @@
     "geom:latitude":5.46304,
     "geom:longitude":-74.65436,
     "iso:country":"CO",
+    "lbl:bbox":"-74.67436,5.44304,-74.63436,5.48304",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Salgar"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Puerto Salgar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salgar"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3671330,
         "gp:id":368368,
-        "qs:id":1174630,
+        "qs_pg:id":1174630,
         "wd:id":"Q1524761"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421192743,
-    "wof:lastmodified":1563308925,
+    "wof:lastmodified":1566707929,
     "wof:name":"Puerto Salgar",
     "wof:parent_id":1108700697,
     "wof:placetype":"locality",

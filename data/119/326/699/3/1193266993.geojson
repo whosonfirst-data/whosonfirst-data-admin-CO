@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.06275,10.33008,-73.02275,10.37008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Bocas",
         "La Boca",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193266993,
-    "wof:lastmodified":1537618398,
+    "wof:lastmodified":1566707337,
     "wof:name":"San Jose de Oriente",
     "wof:parent_id":1108700553,
     "wof:placetype":"locality",

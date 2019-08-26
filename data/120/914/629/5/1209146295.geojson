@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.37,10.39667,-75.33,10.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Atascosos",
         "Atescos",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209146295,
-    "wof:lastmodified":1537618654,
+    "wof:lastmodified":1566707134,
     "wof:name":"Atascosas",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

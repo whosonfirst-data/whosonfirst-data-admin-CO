@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.77,7.04667,-72.73,7.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259341759,
-    "wof:lastmodified":1537059826,
+    "wof:lastmodified":1566708431,
     "wof:name":"Colorados",
     "wof:parent_id":1108701149,
     "wof:placetype":"locality",

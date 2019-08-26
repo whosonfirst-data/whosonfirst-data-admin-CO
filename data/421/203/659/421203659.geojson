@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.486781,
     "lbl:longitude":-72.640299,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Norte de Santander",
     "meso:gadm_admin":"Pamplonita",
     "meso:gadm_hasc2":"CO.NS.PT",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.640299,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pamplonita"
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"176",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Pamplonita",
@@ -131,7 +134,7 @@
         "gn:id":3673042,
         "gp:id":26797367,
         "hasc:id":"CO.NS.PT",
-        "qs:id":1002130,
+        "qs_pg:id":1002130,
         "wd:id":"Q1655477",
         "wk:page":"Pamplonita"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421203659,
-    "wof:lastmodified":1563309054,
+    "wof:lastmodified":1566707951,
     "wof:name":"Pamplonita",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

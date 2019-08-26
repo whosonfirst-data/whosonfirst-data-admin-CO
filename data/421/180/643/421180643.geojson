@@ -10,8 +10,12 @@
     "geom:latitude":7.13781,
     "geom:longitude":-72.66456,
     "iso:country":"CO",
+    "lbl:bbox":"-72.68456,7.11781,-72.64456,7.15781",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Chitag\u00e1"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3686460,
         "gp:id":368786,
-        "qs:id":1206590,
+        "qs_pg:id":1206590,
         "wd:id":"Q1576762",
         "wk:page":"Chitag\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421180643,
-    "wof:lastmodified":1563309109,
+    "wof:lastmodified":1566707966,
     "wof:name":"Chitag\u00e1",
     "wof:parent_id":1108701101,
     "wof:placetype":"locality",

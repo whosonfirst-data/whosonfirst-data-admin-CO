@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2885309.769557,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.569261,6.266684,-75.569261,6.266684",
     "geom:latitude":6.266684,
     "geom:longitude":-75.569261,
     "iso:country":"CO",
+    "lbl:bbox":"-75.574261,6.261684,-75.564261,6.271684",
     "lbl:latitude":6.266684,
     "lbl:longitude":-75.569261,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.264473,
     "mps:longitude":-75.573563,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Los Angeles"
     ],
     "name:spa_x_preferred":[
-        "Los \u00c1ngeles"
-    ],
-    "name:unk_x_variant":[
         "Los \u00c1ngeles"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858944,
+    "wof:lastmodified":1566706530,
     "wof:name":"Los \u00c1ngeles",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

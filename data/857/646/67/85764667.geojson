@@ -9,14 +9,16 @@
     "geom:bbox":"-76.51464,3.465998,-76.51464,3.465998",
     "geom:latitude":3.465998,
     "geom:longitude":-76.51464,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":3.46687,
     "gn:longitude":-76.51611,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-76.51964,3.460998,-76.50964,3.470998",
     "lbl:latitude":3.465998,
     "lbl:longitude":-76.51464,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.486245,
     "mps:longitude":-76.516824,
     "mz:hierarchy_label":0,
@@ -109,9 +111,6 @@
     "name:tgl_x_preferred":[
         "Jorge Isaacs - Colombia"
     ],
-    "name:unk_x_variant":[
-        "Jorge Isaacs"
-    ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3687925,
@@ -160,7 +159,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1108,
     "wof:belongsto":[
         85670203,
@@ -172,7 +171,6 @@
     "wof:concordances":{
         "gn:id":3680226,
         "gp:id":357689,
-        "qs:id":1082707,
         "qs_pg:id":1082707,
         "wd:id":"Q1703852"
     },
@@ -192,7 +190,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563303813,
+    "wof:lastmodified":1566706531,
     "wof:name":"Jorge Isaacs",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

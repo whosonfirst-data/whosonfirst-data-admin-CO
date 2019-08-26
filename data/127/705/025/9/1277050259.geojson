@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.51278,4.04013,-73.47278,4.08013",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marsella"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1277050259,
-    "wof:lastmodified":1564290929,
+    "wof:lastmodified":1566706922,
     "wof:name":"Marsella",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

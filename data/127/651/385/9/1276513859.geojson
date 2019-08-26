@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.07049,7.22348,-73.03049,7.26348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Palmas"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1276513859,
-    "wof:lastmodified":1564290689,
+    "wof:lastmodified":1566706869,
     "wof:name":"Palmas",
     "wof:parent_id":1108701217,
     "wof:placetype":"locality",

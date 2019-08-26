@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.64861,9.44889,-74.60861,9.48889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Verdun"
     ],
@@ -220,7 +224,7 @@
         }
     ],
     "wof:id":1293043655,
-    "wof:lastmodified":1564289960,
+    "wof:lastmodified":1566706692,
     "wof:name":"Verdun",
     "wof:parent_id":1108700913,
     "wof:placetype":"locality",

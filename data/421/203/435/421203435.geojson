@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.776991,
     "lbl:longitude":-72.940178,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Floresta",
     "meso:gadm_hasc2":"CO.BY.FL",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.940178,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Nobsa"
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":229,
     "wof:belongsto":[
         102191577,
@@ -131,7 +134,7 @@
         "gn:id":3673830,
         "gp:id":26796856,
         "hasc:id":"CO.BY.FL",
-        "qs:id":231615,
+        "qs_pg:id":231615,
         "wd:id":"Q1524817"
     },
     "wof:country":"CO",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421203435,
-    "wof:lastmodified":1563309058,
+    "wof:lastmodified":1566707953,
     "wof:name":"Nobsa",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

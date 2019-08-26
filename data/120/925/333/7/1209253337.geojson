@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.27966,10.55935,-74.23966,10.59935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -123,8 +127,7 @@
         "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e"
     ],
     "name:und_x_variant":[
-        "Hacienda San Pedro",
-        "San Pedro"
+        "Hacienda San Pedro"
     ],
     "name:war_x_preferred":[
         "San Pedro"
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":1209253337,
-    "wof:lastmodified":1564291786,
+    "wof:lastmodified":1566707133,
     "wof:name":"San Pedro",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

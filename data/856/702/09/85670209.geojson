@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.646141,
     "lbl:longitude":-74.198658,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bol\u00edvar",
     "mps:latitude":8.645679,
     "mps:longitude":-74.205684,
@@ -211,7 +212,7 @@
         "Bol\u00edvar"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bca\u0bb2\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0baa\u0bca\u0bb2\u0bbf\u0bb5\u0bbe\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c32\u0c3f\u0c35\u0c30\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -233,9 +234,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u043b\u0456\u0432\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Bol\u00edvar"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0648\u0627\u0631 \u0645\u062d\u06a9\u0645\u06c1"
@@ -324,9 +322,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"25,978",
     "statoids:area_mi":"10,030",
     "statoids:as_of_date":"2005-05-22",
@@ -351,7 +349,7 @@
         "gp:id":2345051,
         "hasc:id":"CO.BL",
         "iso:id":"CO-BOL",
-        "qs:id":913456,
+        "qs_pg:id":913456,
         "unlc:id":"CO-BOL",
         "wd:id":"Q230597",
         "wk:page":"Bol\u00edvar Department"
@@ -372,11 +370,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670391,
+    "wof:lastmodified":1566706558,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1836640,
     "wof:population_rank":12,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.495359,
     "lbl:longitude":-74.659926,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Magdalena",
     "meso:gadm_admin":"Santa Ana",
     "meso:gadm_hasc2":"CO.MA.SA",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.659926,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Santa Ana"
     ],
@@ -91,7 +94,7 @@
         "\u8056\u5b89\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108700913,
-    "wof:lastmodified":1563307366,
+    "wof:lastmodified":1566707482,
     "wof:name":"Santa Barbara De Pinto",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.87464,6.7533,-72.83464,6.7933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1277041893,
-    "wof:lastmodified":1536823161,
+    "wof:lastmodified":1566706932,
     "wof:name":"Carabali",
     "wof:parent_id":1108701331,
     "wof:placetype":"locality",

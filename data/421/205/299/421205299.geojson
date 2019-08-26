@@ -10,8 +10,12 @@
     "geom:latitude":10.65225,
     "geom:longitude":-72.92405,
     "iso:country":"CO",
+    "lbl:bbox":"-72.94405,10.63225,-72.90405,10.67225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Molino"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "El Molino"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Molino"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3683778,
         "gp:id":368885,
-        "qs:id":260550,
+        "qs_pg:id":260550,
         "wd:id":"Q1574943",
         "wk:page":"El Molino, La Guajira"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421205299,
-    "wof:lastmodified":1563309096,
+    "wof:lastmodified":1566707963,
     "wof:name":"El Molino",
     "wof:parent_id":1108700859,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.30844,
     "geom:longitude":-73.6166,
     "iso:country":"CO",
+    "lbl:bbox":"-73.6366,8.28844,-73.5966,8.32844",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Aguachica"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Aguachica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aquach\u00eda"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":3690465,
         "gp:id":368157,
-        "qs:id":150165,
+        "qs_pg:id":150165,
         "wd:id":"Q2309010",
         "wk:page":"Aguachica"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421179567,
-    "wof:lastmodified":1563309495,
+    "wof:lastmodified":1566708046,
     "wof:name":"Aguachica",
     "wof:parent_id":421185023,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.011435,
     "lbl:longitude":-73.80218,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Sesquil\u00e9",
     "meso:gadm_hasc2":"CO.CU.SE",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.80218,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sesquil\u00e9"
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Sesquil\u00e9",
@@ -131,7 +134,7 @@
         "gn:id":3668139,
         "gp:id":26797128,
         "hasc:id":"CO.CU.SE",
-        "qs:id":241664,
+        "qs_pg:id":241664,
         "wd:id":"Q1576281"
     },
     "wof:country":"CO",
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421204553,
-    "wof:lastmodified":1563309036,
+    "wof:lastmodified":1566707948,
     "wof:name":"Sesquil\u00e9",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

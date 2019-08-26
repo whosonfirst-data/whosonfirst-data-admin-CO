@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.14433,2.66053,-76.10433,2.70053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276323199,
-    "wof:lastmodified":1536792640,
+    "wof:lastmodified":1566706886,
     "wof:name":"Vereda De Patalo",
     "wof:parent_id":1108700483,
     "wof:placetype":"locality",

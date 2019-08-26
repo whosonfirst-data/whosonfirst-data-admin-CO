@@ -10,8 +10,12 @@
     "geom:latitude":7.75849,
     "geom:longitude":-76.65254,
     "iso:country":"CO",
+    "lbl:bbox":"-76.67254,7.73849,-76.63254,7.77849",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u0628\u0627"
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":3792375,
         "gp:id":26797690,
-        "qs:id":62139,
+        "qs_pg:id":62139,
         "wd:id":"Q1946648",
         "wk:page":"Carepa"
     },
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":421203389,
-    "wof:lastmodified":1563309060,
+    "wof:lastmodified":1566707954,
     "wof:name":"Carepa",
     "wof:parent_id":1108699945,
     "wof:placetype":"locality",

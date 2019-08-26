@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":4.602053,
     "lbl:longitude":-74.102589,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bogota",
     "mps:latitude":4.604548,
     "mps:longitude":-74.110513,
@@ -579,7 +580,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0433\u043e\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Distrito Especial de Bogot\u00e1"
     ],
     "name:urd_x_preferred":[
@@ -711,9 +712,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"1,732",
     "statoids:area_mi":"669",
     "statoids:as_of_date":"2005-05-22",
@@ -739,7 +740,7 @@
         "gp:id":2345079,
         "hasc:id":"CO.DC",
         "iso:id":"CO-DC",
-        "qs:id":96348,
+        "qs_pg:id":96348,
         "wd:id":"Q2841"
     },
     "wof:country":"CO",
@@ -758,11 +759,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670377,
+    "wof:lastmodified":1566706541,
     "wof:name":"Bogota",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"capital district",
     "wof:population":6778691,
     "wof:population_rank":13,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.42,9.92421,-74.38,9.96421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "El Totumo"
     ],
@@ -45,8 +49,7 @@
         "Volc\u00e1n del Totumo"
     ],
     "name:und_x_variant":[
-        "Hacienda El Totumo",
-        "El Totumo"
+        "Hacienda El Totumo"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u6258\u5716\u83ab\u706b\u5c71"
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1293826827,
-    "wof:lastmodified":1564289833,
+    "wof:lastmodified":1566706662,
     "wof:name":"El Totumo",
     "wof:parent_id":1108700891,
     "wof:placetype":"locality",

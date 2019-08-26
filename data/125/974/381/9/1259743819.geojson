@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.09389,3.70611,-76.05389,3.74611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Tenerife"
     ],
@@ -343,7 +347,7 @@
         }
     ],
     "wof:id":1259743819,
-    "wof:lastmodified":1564296288,
+    "wof:lastmodified":1566708444,
     "wof:name":"Tenerife",
     "wof:parent_id":421170275,
     "wof:placetype":"locality",

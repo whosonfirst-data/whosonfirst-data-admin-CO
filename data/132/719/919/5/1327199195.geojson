@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.23198,4.12982,-73.19198,4.16982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Casa Verde"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327199195,
-    "wof:lastmodified":1564288204,
+    "wof:lastmodified":1566706254,
     "wof:name":"Casa Verde",
     "wof:parent_id":421188675,
     "wof:placetype":"locality",

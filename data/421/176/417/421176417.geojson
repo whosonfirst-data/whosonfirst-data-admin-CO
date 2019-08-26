@@ -10,6 +10,9 @@
     "geom:latitude":2.57082,
     "geom:longitude":-77.88542,
     "iso:country":"CO",
+    "lbl:bbox":"-77.90542,2.55082,-77.86542,2.59082",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -66,9 +69,6 @@
         "Guapi"
     ],
     "name:tgl_x_preferred":[
-        "Guapi"
-    ],
-    "name:unk_x_variant":[
         "Guapi"
     ],
     "name:vie_x_preferred":[
@@ -202,7 +202,7 @@
     "wof:concordances":{
         "gn:id":3681505,
         "gp:id":368505,
-        "qs:id":1046301,
+        "qs_pg:id":1046301,
         "wd:id":"Q2432113"
     },
     "wof:country":"CO",
@@ -218,7 +218,7 @@
         }
     ],
     "wof:id":421176417,
-    "wof:lastmodified":1563309577,
+    "wof:lastmodified":1566708060,
     "wof:name":"Guap\u00ed",
     "wof:parent_id":1108700461,
     "wof:placetype":"locality",

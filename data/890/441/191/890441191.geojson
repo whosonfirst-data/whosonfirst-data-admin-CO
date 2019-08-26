@@ -11,10 +11,14 @@
     "geom:longitude":-72.75724,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":4313,
+    "gn:population":4313,
     "iso:country":"CO",
+    "lbl:bbox":"-72.77724,2.60206,-72.73724,2.64206",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Puerto Concordia"
     ],
@@ -57,7 +61,7 @@
     "name:tgl_x_preferred":[
         "Puerto Concordia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concordia"
     ],
     "name:war_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3792395,
         "gp:id":368901,
-        "qs:id":150322,
+        "qs_pg:id":150322,
         "wd:id":"Q1525869",
         "wk:page":"Puerto Concordia"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890441191,
-    "wof:lastmodified":1563309632,
+    "wof:lastmodified":1566708069,
     "wof:name":"Puerto Concordia",
     "wof:parent_id":1108700949,
     "wof:placetype":"locality",

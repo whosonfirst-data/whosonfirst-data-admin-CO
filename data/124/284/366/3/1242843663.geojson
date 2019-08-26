@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.0046,1.89515,-75.9646,1.93515",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tobo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1242843663,
-    "wof:lastmodified":1564295422,
+    "wof:lastmodified":1566708250,
     "wof:name":"Tobo",
     "wof:parent_id":421185277,
     "wof:placetype":"locality",

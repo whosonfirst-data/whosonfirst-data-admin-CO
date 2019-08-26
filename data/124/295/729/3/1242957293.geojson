@@ -24,12 +24,13 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.55008,1.547,-76.51008,1.587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
-        "Play\u00f3n"
-    ],
-    "name:und_x_variant":[
         "Play\u00f3n"
     ],
     "src:geom":"geonames",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1242957293,
-    "wof:lastmodified":1537618430,
+    "wof:lastmodified":1566708150,
     "wof:name":"Playon",
     "wof:parent_id":1108700503,
     "wof:placetype":"locality",

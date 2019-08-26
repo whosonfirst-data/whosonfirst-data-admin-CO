@@ -11,10 +11,14 @@
     "geom:longitude":-76.84418,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":9070,
+    "gn:population":9070,
     "iso:country":"CO",
+    "lbl:bbox":"-76.86418,2.48949,-76.82418,2.52949",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Villa Rica"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3770955,
         "gp:id":368304,
-        "qs:id":150308,
+        "qs_pg:id":150308,
         "wd:id":"Q413347",
         "wk:page":"Villa Rica"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890435189,
-    "wof:lastmodified":1563309704,
+    "wof:lastmodified":1566708078,
     "wof:name":"Villa Rica",
     "wof:parent_id":1108700455,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.80529,1.76646,-78.76529,1.80646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259444657,
-    "wof:lastmodified":1536915229,
+    "wof:lastmodified":1566708452,
     "wof:name":"Chapilar",
     "wof:parent_id":1108701083,
     "wof:placetype":"locality",

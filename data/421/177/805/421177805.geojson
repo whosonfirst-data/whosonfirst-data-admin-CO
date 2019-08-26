@@ -10,8 +10,12 @@
     "geom:latitude":8.94597,
     "geom:longitude":-74.10647,
     "iso:country":"CO",
+    "lbl:bbox":"-74.12647,8.92597,-74.08647,8.96597",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Barranco de Loba"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "Barranco de Loba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barranco"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3689157,
         "gp:id":368269,
-        "qs:id":1206454,
+        "qs_pg:id":1206454,
         "wd:id":"Q1525685",
         "wk:page":"Barranco de Loba"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421177805,
-    "wof:lastmodified":1563309476,
+    "wof:lastmodified":1566708042,
     "wof:name":"Barranco de Loba",
     "wof:parent_id":1108700103,
     "wof:placetype":"locality",

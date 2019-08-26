@@ -9,16 +9,19 @@
     "geom:bbox":"-75.51667,10.4,-75.51667,10.4",
     "geom:latitude":10.4,
     "geom:longitude":-75.51667,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.4,
     "gn:longitude":-75.51667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.52167,10.395,-75.51167,10.405",
     "lbl:latitude":10.4,
     "lbl:longitude":-75.51667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:abk_x_preferred":[
         "\u0415\u0440\u043c\u0430\u043d\u0442\u04d9\u044b\u043b\u0430"
@@ -677,9 +680,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0440\u043c\u0435\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Armenia"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"
     ],
@@ -752,7 +752,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":350980,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Bolivar",
@@ -767,7 +767,6 @@
     "wof:concordances":{
         "gn:id":3689554,
         "gp:id":350980,
-        "qs:id":887580,
         "qs_pg:id":887580
     },
     "wof:country":"CO",
@@ -784,7 +783,7 @@
         }
     ],
     "wof:id":1126088635,
-    "wof:lastmodified":1564294760,
+    "wof:lastmodified":1566708082,
     "wof:name":"Armenia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

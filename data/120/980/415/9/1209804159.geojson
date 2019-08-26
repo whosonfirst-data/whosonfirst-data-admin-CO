@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.90097,9.21461,-73.86097,9.25461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209804159,
-    "wof:lastmodified":1536389363,
+    "wof:lastmodified":1566707212,
     "wof:name":"La Estacion",
     "wof:parent_id":1108700531,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.96973,9.60536,-73.92973,9.64536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Villa Maria"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293528037,
-    "wof:lastmodified":1564289584,
+    "wof:lastmodified":1566706605,
     "wof:name":"Villa Maria",
     "wof:parent_id":1108700895,
     "wof:placetype":"locality",

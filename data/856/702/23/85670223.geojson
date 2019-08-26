@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":10.250191,
     "lbl:longitude":-74.446167,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Magdalena",
     "mps:latitude":10.289014,
     "mps:longitude":-74.439779,
@@ -230,9 +231,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0491\u0434\u0430\u043b\u0435\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Departamento del Magdalena"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u06af\u062f\u0627\u0644\u06cc\u0646\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -320,9 +318,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"23,188",
     "statoids:area_mi":"8,953",
     "statoids:as_of_date":"2005-05-22",
@@ -347,7 +345,7 @@
         "gp:id":2345063,
         "hasc:id":"CO.MA",
         "iso:id":"CO-MAG",
-        "qs:id":890043,
+        "qs_pg:id":890043,
         "unlc:id":"CO-MAG",
         "wd:id":"Q199910",
         "wk:page":"Magdalena Department"
@@ -368,11 +366,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670395,
+    "wof:lastmodified":1566706564,
     "wof:name":"Magdalena",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1136819,
     "wof:population_rank":12,

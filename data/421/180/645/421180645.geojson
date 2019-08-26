@@ -10,8 +10,12 @@
     "geom:latitude":8.51064,
     "geom:longitude":-73.44776,
     "iso:country":"CO",
+    "lbl:bbox":"-73.46776,8.49064,-73.42776,8.53064",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Carmen"
@@ -46,7 +50,7 @@
     "name:tgl_x_preferred":[
         "El Carmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmen"
     ],
     "name:war_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3684683,
         "gp:id":368856,
-        "qs:id":1206597,
+        "qs_pg:id":1206597,
         "wd:id":"Q1525675"
     },
     "wof:country":"CO",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421180645,
-    "wof:lastmodified":1563309111,
+    "wof:lastmodified":1566707966,
     "wof:name":"El Carmen",
     "wof:parent_id":1108701109,
     "wof:placetype":"locality",

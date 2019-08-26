@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.07778,4.41417,-76.03778,4.45417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Helena"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1276174417,
-    "wof:lastmodified":1564290518,
+    "wof:lastmodified":1566706826,
     "wof:name":"Santa Helena",
     "wof:parent_id":421181795,
     "wof:placetype":"locality",

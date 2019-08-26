@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.94417,4.79361,-72.90417,4.83361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1309947477,
-    "wof:lastmodified":1536727328,
+    "wof:lastmodified":1566707902,
     "wof:name":"Brisas del Llano",
     "wof:parent_id":421181801,
     "wof:placetype":"locality",

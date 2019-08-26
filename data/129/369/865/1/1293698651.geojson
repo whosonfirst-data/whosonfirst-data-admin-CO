@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.80525,7.12647,-74.76525,7.16647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Granja"
     ],
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":1293698651,
-    "wof:lastmodified":1564290006,
+    "wof:lastmodified":1566706703,
     "wof:name":"La Granja",
     "wof:parent_id":421184089,
     "wof:placetype":"locality",

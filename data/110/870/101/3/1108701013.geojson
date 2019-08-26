@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.928194,
     "lbl:longitude":-77.580689,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"Contadero",
     "meso:gadm_hasc2":"CO.NA.CN",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.580689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gualmat\u00e1n"
     ],
@@ -79,7 +82,7 @@
         "\u74dc\u723e\u99ac\u5766"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1108701013,
-    "wof:lastmodified":1564293228,
+    "wof:lastmodified":1566707539,
     "wof:name":"Gualmat\u00e1n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

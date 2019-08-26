@@ -10,6 +10,9 @@
     "geom:latitude":5.71434,
     "geom:longitude":-72.93391,
     "iso:country":"CO",
+    "lbl:bbox":"-72.95391,5.69434,-72.91391,5.73434",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":3667873,
         "gp:id":368238,
-        "qs:id":1341930,
+        "qs_pg:id":1341930,
         "wd:id":"Q989996",
         "wk:page":"Sogamoso"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421182545,
-    "wof:lastmodified":1563309539,
+    "wof:lastmodified":1566708054,
     "wof:name":"Sogamoso",
     "wof:parent_id":421188647,
     "wof:placetype":"locality",

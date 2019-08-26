@@ -10,8 +10,12 @@
     "geom:latitude":5.66034,
     "geom:longitude":-74.06212,
     "iso:country":"CO",
+    "lbl:bbox":"-74.08212,5.64034,-74.04212,5.68034",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pablo de Borbur"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "San Pablo de Borbur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barbur"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3669173,
         "gp:id":368573,
-        "qs:id":214714,
+        "qs_pg:id":214714,
         "wd:id":"Q1575910"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421201829,
-    "wof:lastmodified":1561759477,
+    "wof:lastmodified":1566708021,
     "wof:name":"San Pablo de Borbur",
     "wof:parent_id":1108700319,
     "wof:placetype":"locality",

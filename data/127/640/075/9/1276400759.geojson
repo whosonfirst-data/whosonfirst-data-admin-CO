@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.13667,9.48,-75.09667,9.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda El Brujal",
         "El Brujal"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276400759,
-    "wof:lastmodified":1537618602,
+    "wof:lastmodified":1566706955,
     "wof:name":"El Brujal",
     "wof:parent_id":421204839,
     "wof:placetype":"locality",

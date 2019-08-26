@@ -11,10 +11,14 @@
     "geom:longitude":-73.91778,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":810,
+    "gn:population":810,
     "iso:country":"CO",
+    "lbl:bbox":"-73.93778,5.74139,-73.89778,5.78139",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Albania"
     ],
@@ -60,7 +64,7 @@
     "name:tgl_x_preferred":[
         "Albania"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Chevre"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3690257,
         "gp:id":368449,
-        "qs:id":96358,
+        "qs_pg:id":96358,
         "wd:id":"Q1655535",
         "wk:page":"Albania"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890420245,
-    "wof:lastmodified":1563309685,
+    "wof:lastmodified":1566708076,
     "wof:name":"Albania",
     "wof:parent_id":1108701185,
     "wof:placetype":"locality",

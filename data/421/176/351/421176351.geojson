@@ -10,8 +10,12 @@
     "geom:latitude":5.30933,
     "geom:longitude":-73.81574,
     "iso:country":"CO",
+    "lbl:bbox":"-73.83574,5.28933,-73.79574,5.32933",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ubat\u00e9"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3666519,
         "gp:id":368434,
-        "qs:id":1046164,
+        "qs_pg:id":1046164,
         "wd:id":"Q2219816",
         "wk:page":"Ubat\u00e9"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421176351,
-    "wof:lastmodified":1563309574,
+    "wof:lastmodified":1566708059,
     "wof:name":"Ubat\u00e9",
     "wof:parent_id":421193017,
     "wof:placetype":"locality",

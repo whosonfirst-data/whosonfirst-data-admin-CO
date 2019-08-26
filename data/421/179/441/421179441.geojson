@@ -10,8 +10,12 @@
     "geom:latitude":5.3236,
     "geom:longitude":-73.49067,
     "iso:country":"CO",
+    "lbl:bbox":"-73.51067,5.3036,-73.47067,5.3436",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Turmequ\u00e9"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Turmequ\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Turmequ\u00f3"
     ],
     "name:urd_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3666562,
         "gp:id":367548,
-        "qs:id":149980,
+        "qs_pg:id":149980,
         "wd:id":"Q927087",
         "wk:page":"Turmequ\u00e9"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421179441,
-    "wof:lastmodified":1563309502,
+    "wof:lastmodified":1566708047,
     "wof:name":"Turmequ\u00e9",
     "wof:parent_id":1108700365,
     "wof:placetype":"locality",

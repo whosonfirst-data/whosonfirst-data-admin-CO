@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.385026,
     "lbl:longitude":-73.693968,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Guachet\u00e1",
     "meso:gadm_hasc2":"CO.CU.GC",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.693968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Gachet\u00e1"
@@ -83,9 +86,6 @@
     "name:tgl_x_preferred":[
         "Gacheta"
     ],
-    "name:unk_x_variant":[
-        "Gachet\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Gachet\u00e1"
     ],
@@ -117,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Guachet\u00e1",
@@ -141,7 +141,7 @@
         "gn:id":3682259,
         "gp:id":26797079,
         "hasc:id":"CO.CU.GC",
-        "qs:id":1103721,
+        "qs_pg:id":1103721,
         "wd:id":"Q1577746",
         "wk:page":"Gachet\u00e1"
     },
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":421188663,
-    "wof:lastmodified":1563309213,
+    "wof:lastmodified":1566707988,
     "wof:name":"Guachet\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

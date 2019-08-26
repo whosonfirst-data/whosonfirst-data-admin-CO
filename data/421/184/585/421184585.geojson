@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.332073,
     "lbl:longitude":-75.781586,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Eb\u00e9jico",
     "meso:gadm_hasc2":"CO.AN.EJ",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.781586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Eb\u00e9jico"
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"235",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Eb\u00e9jico",
@@ -155,7 +158,7 @@
         "gn:id":3685059,
         "gp:id":26796650,
         "hasc:id":"CO.AN.EJ",
-        "qs:id":1002126,
+        "qs_pg:id":1002126,
         "wd:id":"Q1525223"
     },
     "wof:country":"CO",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421184585,
-    "wof:lastmodified":1563309426,
+    "wof:lastmodified":1566708029,
     "wof:name":"Eb\u00e9jico",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

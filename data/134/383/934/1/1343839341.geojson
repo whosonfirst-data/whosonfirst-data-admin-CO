@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.06537,1.73678,-76.02537,1.77678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343839341,
-    "wof:lastmodified":1536697309,
+    "wof:lastmodified":1566706378,
     "wof:name":"Divino Nino",
     "wof:parent_id":421193617,
     "wof:placetype":"locality",

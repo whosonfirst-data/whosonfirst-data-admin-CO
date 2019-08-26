@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.93956,3.48585,-74.89956,3.52585",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cerro Gordo"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1327106679,
-    "wof:lastmodified":1564288258,
+    "wof:lastmodified":1566706265,
     "wof:name":"Cerro Gordo",
     "wof:parent_id":1108701437,
     "wof:placetype":"locality",

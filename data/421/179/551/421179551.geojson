@@ -10,8 +10,12 @@
     "geom:latitude":6.63572,
     "geom:longitude":-73.22282,
     "iso:country":"CO",
+    "lbl:bbox":"-73.24282,6.61572,-73.20282,6.65572",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Barichara"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3689187,
         "gp:id":368267,
-        "qs:id":150146,
+        "qs_pg:id":150146,
         "wd:id":"Q1576773",
         "wk:page":"Barichara"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421179551,
-    "wof:lastmodified":1563309493,
+    "wof:lastmodified":1566708046,
     "wof:name":"Barichara",
     "wof:parent_id":1108701193,
     "wof:placetype":"locality",

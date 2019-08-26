@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.510224,
     "lbl:longitude":-75.718848,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quindio",
     "meso:gadm_admin":"Armenia",
     "meso:gadm_hasc2":"CO.QD.AA",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.718848,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0631\u0645\u064a\u0646\u064a\u0627"
@@ -245,7 +248,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1814,
     "wof:belongsto":[
         102191577,
@@ -257,7 +260,7 @@
         "gn:id":3689563,
         "gp:id":26797381,
         "hasc:id":"CO.QD.AA",
-        "qs:id":221408,
+        "qs_pg:id":221408,
         "wd:id":"Q328518",
         "wk:page":"Armenia, Colombia"
     },
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421202353,
-    "wof:lastmodified":1563309065,
+    "wof:lastmodified":1566707956,
     "wof:name":"Armenia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

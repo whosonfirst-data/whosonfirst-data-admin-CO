@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.20745,2.88084,-71.16745,2.92084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Charco Caiman"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260155415,
-    "wof:lastmodified":1537618735,
+    "wof:lastmodified":1566707351,
     "wof:name":"Charco Caiman",
     "wof:parent_id":1108700941,
     "wof:placetype":"locality",

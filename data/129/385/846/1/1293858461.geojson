@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.85155,3.61516,-73.81155,3.65516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Agua Bonita"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293858461,
-    "wof:lastmodified":1537618832,
+    "wof:lastmodified":1566706656,
     "wof:name":"Agua Bonita",
     "wof:parent_id":1108700931,
     "wof:placetype":"locality",

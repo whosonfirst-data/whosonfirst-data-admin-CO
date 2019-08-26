@@ -10,8 +10,12 @@
     "geom:latitude":7.37599,
     "geom:longitude":-73.91963,
     "iso:country":"CO",
+    "lbl:bbox":"-73.93963,7.35599,-73.89963,7.39599",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cantagallo"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Cantagallo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caser\u00edo Cantagallo"
     ],
     "name:war_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3687541,
         "gp:id":352381,
-        "qs:id":886481,
+        "qs_pg:id":886481,
         "wd:id":"Q1576351",
         "wk:page":"Cantagallo, Bol\u00edvar"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421174545,
-    "wof:lastmodified":1563309101,
+    "wof:lastmodified":1566707964,
     "wof:name":"Cantagallo",
     "wof:parent_id":1108700107,
     "wof:placetype":"locality",

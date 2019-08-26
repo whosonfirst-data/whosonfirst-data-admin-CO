@@ -10,8 +10,12 @@
     "geom:latitude":2.7717,
     "geom:longitude":-77.66536,
     "iso:country":"CO",
+    "lbl:bbox":"-77.68536,2.7517,-77.64536,2.7917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Timbiqu\u00ed"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Timbiqui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa B\u00e1rbara"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3667070,
         "gp:id":368597,
-        "qs:id":269802,
+        "qs_pg:id":269802,
         "wd:id":"Q1787517",
         "wk:page":"Timbiqui, Cauca"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421166699,
-    "wof:lastmodified":1563308916,
+    "wof:lastmodified":1566707926,
     "wof:name":"Timbiqu\u00ed",
     "wof:parent_id":1108700517,
     "wof:placetype":"locality",

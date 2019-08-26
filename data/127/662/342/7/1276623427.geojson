@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.82,7.89667,-72.78,7.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Rosario"
     ],
@@ -64,8 +68,7 @@
         "El Rosario"
     ],
     "name:und_x_variant":[
-        "Rosario",
-        "El Rosario"
+        "Rosario"
     ],
     "name:vie_x_preferred":[
         "El Rosario"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1276623427,
-    "wof:lastmodified":1564291240,
+    "wof:lastmodified":1566707003,
     "wof:name":"El Rosario",
     "wof:parent_id":1108701115,
     "wof:placetype":"locality",

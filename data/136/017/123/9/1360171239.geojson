@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.66705,8.80406,-75.62705,8.84406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Palmitas"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Palmitas",
-        "Palmitos",
-        "Las Palmitas"
+        "Palmitos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1360171239,
-    "wof:lastmodified":1564294259,
+    "wof:lastmodified":1566707824,
     "wof:name":"Las Palmitas",
     "wof:parent_id":1108700573,
     "wof:placetype":"locality",

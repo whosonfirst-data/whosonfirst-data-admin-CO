@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.40651,7.01546,-71.36651,7.05546",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Capilla"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1293693881,
-    "wof:lastmodified":1564290010,
+    "wof:lastmodified":1566706704,
     "wof:name":"La Capilla",
     "wof:parent_id":421190785,
     "wof:placetype":"locality",

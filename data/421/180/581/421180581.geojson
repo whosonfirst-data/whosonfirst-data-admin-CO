@@ -10,8 +10,12 @@
     "geom:latitude":6.22978,
     "geom:longitude":-72.6901,
     "iso:country":"CO",
+    "lbl:bbox":"-72.7101,6.20978,-72.6701,6.24978",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Susac\u00f3n"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3667660,
         "gp:id":367019,
-        "qs:id":1206365,
+        "qs_pg:id":1206365,
         "wd:id":"Q1656233",
         "wk:page":"Susac\u00f3n"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421180581,
-    "wof:lastmodified":1563309117,
+    "wof:lastmodified":1566707967,
     "wof:name":"Susac\u00f3n",
     "wof:parent_id":1108700345,
     "wof:placetype":"locality",

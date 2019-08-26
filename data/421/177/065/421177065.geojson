@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.434677,
     "lbl:longitude":-74.957387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"Coello",
     "meso:gadm_hasc2":"CO.TO.CL",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.957387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Piedras"
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":51,
     "wof:belongsto":[
         102191577,
@@ -122,7 +125,7 @@
         "gn:id":3672292,
         "gp:id":26797548,
         "hasc:id":"CO.TO.CL",
-        "qs:id":401574,
+        "qs_pg:id":401574,
         "wd:id":"Q1655981",
         "wk:page":"Piedras"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":421177065,
-    "wof:lastmodified":1563309474,
+    "wof:lastmodified":1566708042,
     "wof:name":"Piedras",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

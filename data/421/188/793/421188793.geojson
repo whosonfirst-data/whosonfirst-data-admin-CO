@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.495869,
     "lbl:longitude":-76.670738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Necocl\u00ed",
     "meso:gadm_hasc2":"CO.AN.NC",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.670738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u064a\u0643\u0648\u0643\u0644\u064a"
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"1361",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Necocl\u00ed",
@@ -154,7 +157,7 @@
     "wof:concordances":{
         "gp:id":26796679,
         "hasc:id":"CO.AN.NC",
-        "qs:id":1104156,
+        "qs_pg:id":1104156,
         "wd:id":"Q976938"
     },
     "wof:country":"CO",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421188793,
-    "wof:lastmodified":1563309204,
+    "wof:lastmodified":1566707985,
     "wof:name":"Necocl\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

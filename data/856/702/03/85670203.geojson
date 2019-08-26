@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.679421,
     "lbl:longitude":-76.378822,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Valle del Cauca",
     "mps:latitude":3.704119,
     "mps:longitude":-76.42316,
@@ -201,7 +202,7 @@
         "Valle del Cauca"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7  \u0b9f\u0bc7\u0bb2\u0bcd  \u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bbe  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0bb5\u0bb2\u0bcd\u0bb2\u0bc7 \u0b9f\u0bc7\u0bb2\u0bcd \u0b95\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c32\u0c4d\u0c32\u0c46 \u0c21\u0c46\u0c32\u0c4d \u0c15\u0c3e\u0c15\u0c3e"
@@ -221,7 +222,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0454-\u0434\u0435\u043b\u044c-\u041a\u0430\u0443\u043a\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Valle"
     ],
     "name:urd_x_preferred":[
@@ -311,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"22,140",
     "statoids:area_mi":"8,548",
     "statoids:as_of_date":"2005-05-22",
@@ -338,7 +339,7 @@
         "gp:id":2345074,
         "hasc:id":"CO.VC",
         "iso:id":"CO-VAC",
-        "qs:id":235572,
+        "qs_pg:id":235572,
         "unlc:id":"CO-VAC",
         "wd:id":"Q13990",
         "wk:page":"Valle del Cauca Department"
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670387,
+    "wof:lastmodified":1566706554,
     "wof:name":"Valle del Cauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":4052535,
     "wof:population_rank":12,

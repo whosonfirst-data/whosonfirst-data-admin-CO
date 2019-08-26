@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.62,7.74667,-72.58,7.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3674352
     },
     "wof:country":"CO",
-    "wof:geomhash":"0eec30815fcbcb8ee5e358f7b8dcd88e",
+    "wof:geomhash":"4f70a96d4274113cd724704b9103b1f3",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209178487,
-    "wof:lastmodified":1536295340,
+    "wof:lastmodified":1566707233,
     "wof:name":"Morreton",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -72.6,
-    7.766669999999999,
+    7.76667,
     -72.6,
-    7.766669999999999
+    7.76667
 ],
   "geometry": {"coordinates":[-72.59999999999999,7.76667],"type":"Point"}
 }

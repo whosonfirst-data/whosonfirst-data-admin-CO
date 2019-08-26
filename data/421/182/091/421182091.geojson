@@ -10,8 +10,12 @@
     "geom:latitude":3.72461,
     "geom:longitude":-76.26675,
     "iso:country":"CO",
+    "lbl:bbox":"-76.28675,3.70461,-76.24675,3.74461",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Xinebra"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3682039,
         "gp:id":356669,
-        "qs:id":887587,
+        "qs_pg:id":887587,
         "wd:id":"Q1525670"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421182091,
-    "wof:lastmodified":1563309537,
+    "wof:lastmodified":1566708054,
     "wof:name":"Ginebra",
     "wof:parent_id":421204845,
     "wof:placetype":"locality",

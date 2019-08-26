@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.99354,
     "lbl:longitude":-76.183298,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"C\u00f3rdoba",
     "meso:gadm_admin":"Puerto Escondido",
     "meso:gadm_hasc2":"CO.CO.PE",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.183298,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Escondido"
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"417",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Puerto Escondido",
@@ -137,7 +140,7 @@
         "gn:id":3671471,
         "gp:id":26797036,
         "hasc:id":"CO.CO.PE",
-        "qs:id":1068750,
+        "qs_pg:id":1068750,
         "wd:id":"Q1441033",
         "wk:page":"Puerto Escondido, C\u00f3rdoba"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421186429,
-    "wof:lastmodified":1563309250,
+    "wof:lastmodified":1566707995,
     "wof:name":"Puerto Escondido",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.97805,3.01215,-74.93805,3.05215",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Monserrate"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209496535,
-    "wof:lastmodified":1564291736,
+    "wof:lastmodified":1566707122,
     "wof:name":"Monserrate",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

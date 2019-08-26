@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.55333,2.34667,-76.51333,2.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Olaya Herrera"
     ],
@@ -61,8 +65,7 @@
         "Olaya Herrera"
     ],
     "name:und_x_variant":[
-        "Poblaz\u00f3n",
-        "Olaya Herrera"
+        "Poblaz\u00f3n"
     ],
     "name:vie_x_preferred":[
         "Olaya Herrera"
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1243538741,
-    "wof:lastmodified":1564294816,
+    "wof:lastmodified":1566708097,
     "wof:name":"Olaya Herrera",
     "wof:parent_id":1108700431,
     "wof:placetype":"locality",

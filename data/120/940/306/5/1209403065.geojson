@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.71636,8.34579,-73.67636,8.38579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3671156
     },
     "wof:country":"CO",
-    "wof:geomhash":"0ccae715aa4addd169f2b69660eb68f9",
+    "wof:geomhash":"abee2559900d8eaf8414382cf1d3e1fc",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209403065,
-    "wof:lastmodified":1536288082,
+    "wof:lastmodified":1566707106,
     "wof:name":"Quebrada Seca",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -73.69636,
-    8.365789999999999,
+    8.36579,
     -73.69636,
-    8.365789999999999
+    8.36579
 ],
   "geometry": {"coordinates":[-73.69636,8.36579],"type":"Point"}
 }

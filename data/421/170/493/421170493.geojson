@@ -10,8 +10,12 @@
     "geom:latitude":1.917,
     "geom:longitude":-76.85233,
     "iso:country":"CO",
+    "lbl:bbox":"-76.87233,1.897,-76.83233,1.937",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Almaguer"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3690136,
         "gp:id":350659,
-        "qs:id":251933,
+        "qs_pg:id":251933,
         "wd:id":"Q2308989",
         "wk:page":"Almaguer, Cauca"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421170493,
-    "wof:lastmodified":1563309462,
+    "wof:lastmodified":1566708039,
     "wof:name":"Almaguer",
     "wof:parent_id":1108700435,
     "wof:placetype":"locality",

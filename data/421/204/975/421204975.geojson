@@ -10,8 +10,12 @@
     "geom:latitude":5.1665,
     "geom:longitude":-75.52001,
     "iso:country":"CO",
+    "lbl:bbox":"-75.54001,5.1465,-75.50001,5.1865",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Neira"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3673902,
         "gp:id":368353,
-        "qs:id":251730,
+        "qs_pg:id":251730,
         "wd:id":"Q1393029"
     },
     "wof:country":"CO",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421204975,
-    "wof:lastmodified":1563309049,
+    "wof:lastmodified":1566707950,
     "wof:name":"Neira",
     "wof:parent_id":421184113,
     "wof:placetype":"locality",

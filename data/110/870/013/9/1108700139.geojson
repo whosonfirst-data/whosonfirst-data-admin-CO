@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.912769,
     "lbl:longitude":-74.405329,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bol\u00edvar",
     "meso:gadm_admin":"Pinillos",
     "meso:gadm_hasc2":"CO.BL.PI",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.405329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Pinillos"
     ],
@@ -97,7 +100,7 @@
         "\u76ae\u5c3c\u7565\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108700139,
-    "wof:lastmodified":1563307323,
+    "wof:lastmodified":1566707471,
     "wof:name":"Pinillos",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

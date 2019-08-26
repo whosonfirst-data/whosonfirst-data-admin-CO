@@ -10,8 +10,12 @@
     "geom:latitude":11.23092,
     "geom:longitude":-74.12259,
     "iso:country":"CO",
+    "lbl:bbox":"-74.14259,11.21092,-74.10259,11.25092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0646\u062f\u0627"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3688619,
         "gp:id":368698,
-        "qs:id":1082733,
+        "qs_pg:id":1082733,
         "wd:id":"Q2742493"
     },
     "wof:country":"CO",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421187347,
-    "wof:lastmodified":1563309145,
+    "wof:lastmodified":1566707973,
     "wof:name":"Bonda",
     "wof:parent_id":1108700871,
     "wof:placetype":"locality",

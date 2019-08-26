@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.1675,3.29972,-75.1275,3.33972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Casazinc"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209888199,
-    "wof:lastmodified":1537618677,
+    "wof:lastmodified":1566707239,
     "wof:name":"Hacienda Casazinc",
     "wof:parent_id":421182355,
     "wof:placetype":"locality",

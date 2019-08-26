@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.88286,3.66723,-74.84286,3.70723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "El Pedregal"
     ],
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1276508049,
-    "wof:lastmodified":1564290847,
+    "wof:lastmodified":1566706904,
     "wof:name":"El Pedregal",
     "wof:parent_id":1108701455,
     "wof:placetype":"locality",

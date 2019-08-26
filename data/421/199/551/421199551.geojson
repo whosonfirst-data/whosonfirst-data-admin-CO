@@ -10,8 +10,12 @@
     "geom:latitude":5.34862,
     "geom:longitude":-73.90168,
     "iso:country":"CO",
+    "lbl:bbox":"-73.92168,5.32862,-73.88168,5.36862",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carmen de Carupa"
@@ -46,7 +50,7 @@
     "name:tgl_x_preferred":[
         "Carmen de Carupa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carupa"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3687321,
         "gp:id":352507,
-        "qs:id":194450,
+        "qs_pg:id":194450,
         "wd:id":"Q639256",
         "wk:page":"Carmen de Carupa"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421199551,
-    "wof:lastmodified":1561759474,
+    "wof:lastmodified":1566708015,
     "wof:name":"Carmen de Carupa",
     "wof:parent_id":1108700637,
     "wof:placetype":"locality",

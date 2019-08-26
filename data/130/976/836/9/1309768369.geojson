@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.68482,3.73621,-73.64482,3.77621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Yataro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309768369,
-    "wof:lastmodified":1537618836,
+    "wof:lastmodified":1566707887,
     "wof:name":"El Yataro",
     "wof:parent_id":421203183,
     "wof:placetype":"locality",

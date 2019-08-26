@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.382349,
     "lbl:longitude":-75.671239,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Caquet\u00e1",
     "meso:gadm_admin":"Florencia",
     "meso:gadm_hasc2":"CO.CQ.FL",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.671239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0644\u064a\u0627"
     ],
@@ -208,7 +211,7 @@
         "\u83ab\u96f7\u5229\u4e9a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":1108700419,
-    "wof:lastmodified":1564293174,
+    "wof:lastmodified":1566707467,
     "wof:name":"Morelia",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

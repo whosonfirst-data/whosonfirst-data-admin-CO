@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.075051,
     "lbl:longitude":-74.399049,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Nocaima",
     "meso:gadm_hasc2":"CO.CU.NO",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.399049,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Nocaima"
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Nocaima",
@@ -137,7 +140,7 @@
         "gn:id":3673827,
         "gp:id":26797108,
         "hasc:id":"CO.CU.NO",
-        "qs:id":1311354,
+        "qs_pg:id":1311354,
         "wd:id":"Q1577029"
     },
     "wof:country":"CO",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421172457,
-    "wof:lastmodified":1563309231,
+    "wof:lastmodified":1566707992,
     "wof:name":"Nocaima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

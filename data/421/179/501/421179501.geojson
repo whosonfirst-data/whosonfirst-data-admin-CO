@@ -10,8 +10,12 @@
     "geom:latitude":7.24407,
     "geom:longitude":-76.43564,
     "iso:country":"CO",
+    "lbl:bbox":"-76.45564,7.22407,-76.41564,7.26407",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Mutat\u00e1"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3674130,
         "gp:id":369165,
-        "qs:id":150086,
+        "qs_pg:id":150086,
         "wd:id":"Q1525997",
         "wk:page":"Mutat\u00e1"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421179501,
-    "wof:lastmodified":1563309511,
+    "wof:lastmodified":1566708048,
     "wof:name":"Mutat\u00e1",
     "wof:parent_id":421194381,
     "wof:placetype":"locality",

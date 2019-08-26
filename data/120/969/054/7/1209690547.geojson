@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.89565,3.25793,-72.85565,3.29793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":7017915
     },
     "wof:country":"CO",
-    "wof:geomhash":"639b4c8bb8b66c0be864b3d1dc5c5e51",
+    "wof:geomhash":"920d4fad550063e77688ccb92a4aa6ae",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209690547,
-    "wof:lastmodified":1536279258,
+    "wof:lastmodified":1566707181,
     "wof:name":"Cachama",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -72.87565,
-    3.2779300000000005,
+    3.27793,
     -72.87565,
-    3.2779300000000005
+    3.27793
 ],
   "geometry": {"coordinates":[-72.87564999999999,3.27793],"type":"Point"}
 }

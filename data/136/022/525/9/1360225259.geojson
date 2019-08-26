@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.8729,9.15889,-74.8329,9.19889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Barranca"
     ],
@@ -57,8 +61,7 @@
         "Caser\u00edo Barranca",
         "Barranco",
         "Berranca",
-        "Barranco de Yuca",
-        "Barranca"
+        "Barranco de Yuca"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1360225259,
-    "wof:lastmodified":1564294167,
+    "wof:lastmodified":1566707802,
     "wof:name":"Barranca",
     "wof:parent_id":421184105,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.921431,
     "lbl:longitude":-76.644074,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Calima",
     "meso:gadm_hasc2":"CO.VC.CM",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.644074,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Dari\u00e9n"
     ],
@@ -43,8 +46,7 @@
         "Calima"
     ],
     "name:eng_x_variant":[
-        "Calima  (darien)",
-        "Calima (El Dari\u00e9n)"
+        "Calima (darien)"
     ],
     "name:fra_x_preferred":[
         "Calima el Dari\u00e9n"
@@ -83,9 +85,9 @@
         "\u5361\u5229\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"219",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Darien",
@@ -118,7 +120,7 @@
         }
     ],
     "wof:id":1108701487,
-    "wof:lastmodified":1563307665,
+    "wof:lastmodified":1566707595,
     "wof:name":"Calima",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

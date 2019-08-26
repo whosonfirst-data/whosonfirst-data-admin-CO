@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.672836,
     "lbl:longitude":-75.676772,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quindio",
     "meso:gadm_admin":"Filandia",
     "meso:gadm_hasc2":"CO.QD.FI",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.676772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0646\u0644\u0646\u062f\u064a\u0627"
@@ -233,9 +236,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"109",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Filandia",
@@ -255,7 +258,7 @@
     "wof:concordances":{
         "gp:id":26797386,
         "hasc:id":"CO.QD.FI",
-        "qs:id":1063130,
+        "qs_pg:id":1063130,
         "wd:id":"Q1525384"
     },
     "wof:country":"CO",
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421176667,
-    "wof:lastmodified":1563309564,
+    "wof:lastmodified":1566708058,
     "wof:name":"Filandia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

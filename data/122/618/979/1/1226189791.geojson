@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.42809,9.38198,-75.38809,9.42198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Los Altos"
     ],
@@ -78,8 +82,7 @@
         "\u041b\u043e\u0441-\u0410\u043b\u044c\u0442\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Los Altos",
-        "Los Altos"
+        "Caser\u00edo Los Altos"
     ],
     "name:zho_x_preferred":[
         "\u6d1b\u65af\u963f\u723e\u6258\u65af"
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1226189791,
-    "wof:lastmodified":1564296608,
+    "wof:lastmodified":1566708520,
     "wof:name":"Los Altos",
     "wof:parent_id":1108701421,
     "wof:placetype":"locality",

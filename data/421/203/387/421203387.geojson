@@ -10,8 +10,12 @@
     "geom:latitude":1.49766,
     "geom:longitude":-77.13587,
     "iso:country":"CO",
+    "lbl:bbox":"-77.15587,1.47766,-77.11587,1.51766",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Arboleda"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Arboleda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Berruacos"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3688875,
         "gp:id":26797685,
-        "qs:id":62138,
+        "qs_pg:id":62138,
         "wd:id":"Q1579470"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421203387,
-    "wof:lastmodified":1563309062,
+    "wof:lastmodified":1566707956,
     "wof:name":"Arboleda",
     "wof:parent_id":1108700971,
     "wof:placetype":"locality",

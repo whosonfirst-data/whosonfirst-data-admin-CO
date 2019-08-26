@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.2286,12.16508,-71.1886,12.20508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rancher\u00eda Buenavista",
         "Buenavista"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226716553,
-    "wof:lastmodified":1537618641,
+    "wof:lastmodified":1566708625,
     "wof:name":"Rancheria Buenavista",
     "wof:parent_id":421187819,
     "wof:placetype":"locality",

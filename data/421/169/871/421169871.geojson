@@ -10,8 +10,12 @@
     "geom:latitude":5.25264,
     "geom:longitude":-74.29069,
     "iso:country":"CO",
+    "lbl:bbox":"-74.31069,5.23264,-74.27069,5.27264",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Pe\u00f1\u00f3n"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "El Pe\u00f1\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pe\u00f1on"
     ],
     "name:war_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3683501,
         "gp:id":355400,
-        "qs:id":1206220,
+        "qs_pg:id":1206220,
         "wd:id":"Q1908008"
     },
     "wof:country":"CO",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421169871,
-    "wof:lastmodified":1563309003,
+    "wof:lastmodified":1566707943,
     "wof:name":"El Pe\u00f1\u00f3n",
     "wof:parent_id":1108700643,
     "wof:placetype":"locality",

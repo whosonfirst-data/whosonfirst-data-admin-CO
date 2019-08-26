@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.90222,4.00333,-70.86222,4.04333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3829400
     },
     "wof:country":"CO",
-    "wof:geomhash":"e5e376f81e1a7a917d823dbcc730cc82",
+    "wof:geomhash":"b33dfdec3bea26211d58dc16242c2a88",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209251963,
-    "wof:lastmodified":1536292976,
+    "wof:lastmodified":1566707132,
     "wof:name":"Limacaos",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -70.88221999999998,
-    4.0233300000000005,
+    4.02333,
     -70.88221999999998,
-    4.0233300000000005
+    4.02333
 ],
   "geometry": {"coordinates":[-70.88221999999998,4.02333],"type":"Point"}
 }

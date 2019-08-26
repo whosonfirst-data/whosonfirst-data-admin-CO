@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.12,9.48,-75.08,9.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
     ],
@@ -568,8 +572,7 @@
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
     ],
     "name:und_x_variant":[
-        "Hacienda Buenos Aires",
-        "Buenos Aires"
+        "Hacienda Buenos Aires"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u0646\u0633 \u0622\u0626\u0631\u0633"
@@ -639,7 +642,7 @@
         }
     ],
     "wof:id":1309967515,
-    "wof:lastmodified":1564294375,
+    "wof:lastmodified":1566707851,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421204839,
     "wof:placetype":"locality",

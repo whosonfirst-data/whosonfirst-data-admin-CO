@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.62413,6.36493,-75.58413,6.40493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Minita"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310603801,
-    "wof:lastmodified":1537618767,
+    "wof:lastmodified":1566707776,
     "wof:name":"La Minita",
     "wof:parent_id":421205075,
     "wof:placetype":"locality",

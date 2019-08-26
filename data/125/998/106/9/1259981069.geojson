@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.26855,6.93623,-70.22855,6.97623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Caracaro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259981069,
-    "wof:lastmodified":1537618814,
+    "wof:lastmodified":1566708334,
     "wof:name":"Caracaro",
     "wof:parent_id":421170653,
     "wof:placetype":"locality",

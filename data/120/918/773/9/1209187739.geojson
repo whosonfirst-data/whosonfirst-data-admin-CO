@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.35531,2.68449,-72.31531,2.72449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3830432
     },
     "wof:country":"CO",
-    "wof:geomhash":"72dee315d06c51b6128e549aba335065",
+    "wof:geomhash":"7737761a543558701ab6c4967def0bd7",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209187739,
-    "wof:lastmodified":1536295041,
+    "wof:lastmodified":1566707207,
     "wof:name":"El Yare",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -72.33530999999998,
-    2.7044900000000003,
+    2.70449,
     -72.33530999999998,
-    2.7044900000000003
+    2.70449
 ],
   "geometry": {"coordinates":[-72.33530999999998,2.70449],"type":"Point"}
 }

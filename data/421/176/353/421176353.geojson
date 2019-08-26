@@ -10,8 +10,12 @@
     "geom:latitude":5.06097,
     "geom:longitude":-74.2372,
     "iso:country":"CO",
+    "lbl:bbox":"-74.2572,5.04097,-74.2172,5.08097",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Supat\u00e1"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3667701,
         "gp:id":368588,
-        "qs:id":1046172,
+        "qs_pg:id":1046172,
         "wd:id":"Q1654867",
         "wk:page":"Supat\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421176353,
-    "wof:lastmodified":1563309551,
+    "wof:lastmodified":1566708056,
     "wof:name":"Supat\u00e1",
     "wof:parent_id":1108700713,
     "wof:placetype":"locality",

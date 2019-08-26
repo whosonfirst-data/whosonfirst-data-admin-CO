@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.22146,11.95132,-72.18146,11.99132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Solipa",
         "Yahata",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1243239563,
-    "wof:lastmodified":1537618378,
+    "wof:lastmodified":1566708176,
     "wof:name":"Soripa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

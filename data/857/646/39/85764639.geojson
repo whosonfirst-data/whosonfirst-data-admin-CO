@@ -10,8 +10,10 @@
     "geom:latitude":6.234249,
     "geom:longitude":-75.568186,
     "iso:country":"CO",
+    "lbl:bbox":"-75.573186,6.229249,-75.563186,6.239249",
     "lbl:latitude":6.234249,
     "lbl:longitude":-75.568186,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.22809,
     "mps:longitude":-75.55994,
     "mz:hierarchy_label":0,
@@ -539,9 +541,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
     ],
-    "name:unk_x_variant":[
-        "El Salvador"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
     ],
@@ -619,7 +618,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -646,7 +645,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289414,
+    "wof:lastmodified":1566706531,
     "wof:name":"El Salvador",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

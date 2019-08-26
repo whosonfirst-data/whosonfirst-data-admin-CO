@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.930386,
     "lbl:longitude":-75.243368,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Tolima",
     "mps:latitude":3.925512,
     "mps:longitude":-75.249314,
@@ -42,7 +43,7 @@
         "Tolima"
     ],
     "name:ben_x_preferred":[
-        "\u099f\u09cb\u09b2\u09bf\u09ae\u09be  \u09ac\u09bf\u09ad\u09be\u0997"
+        "\u099f\u09cb\u09b2\u09bf\u09ae\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bre_x_preferred":[
         "Tolima"
@@ -221,7 +222,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u043e\u043b\u0456\u043c\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento de Tolima"
     ],
     "name:urd_x_preferred":[
@@ -311,9 +312,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"23,562",
     "statoids:area_mi":"9,097",
     "statoids:as_of_date":"2005-05-22",
@@ -338,7 +339,7 @@
         "gp:id":2345073,
         "hasc:id":"CO.TO",
         "iso:id":"CO-TOL",
-        "qs:id":423662,
+        "qs_pg:id":423662,
         "unlc:id":"CO-TOL",
         "wd:id":"Q234501",
         "wk:page":"Tolima Department"
@@ -359,11 +360,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670376,
+    "wof:lastmodified":1566706540,
     "wof:name":"Tolima",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1312304,
     "wof:population_rank":12,

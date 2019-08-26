@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.5178,5.83557,-74.4778,5.87557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3774792
     },
     "wof:country":"CO",
-    "wof:geomhash":"109505a1888ea1ec8fbc75e9016fa942",
+    "wof:geomhash":"f79cbe5debf71235f9a13132c6426cfb",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209567077,
-    "wof:lastmodified":1536283206,
+    "wof:lastmodified":1566707176,
     "wof:name":"El Venado",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -74.4978,
-    5.855569999999998,
+    5.85557,
     -74.4978,
-    5.855569999999998
+    5.85557
 ],
   "geometry": {"coordinates":[-74.4978,5.85557],"type":"Point"}
 }

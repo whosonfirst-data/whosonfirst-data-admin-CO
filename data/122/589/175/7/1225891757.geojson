@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.96972,3.67,-74.92972,3.71",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u043d\u0430"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1225891757,
-    "wof:lastmodified":1564296913,
+    "wof:lastmodified":1566708585,
     "wof:name":"Primavera",
     "wof:parent_id":1108701455,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.63046,6.37823,-75.59046,6.41823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Meseta"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343563753,
-    "wof:lastmodified":1537618767,
+    "wof:lastmodified":1566706436,
     "wof:name":"La Meseta",
     "wof:parent_id":421205075,
     "wof:placetype":"locality",

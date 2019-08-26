@@ -9,14 +9,16 @@
     "geom:bbox":"-75.535484,10.405228,-75.535484,10.405228",
     "geom:latitude":10.405228,
     "geom:longitude":-75.535484,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.41667,
     "gn:longitude":-75.53333,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.540484,10.400228,-75.530484,10.410228",
     "lbl:latitude":10.405228,
     "lbl:longitude":-75.535484,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.406955,
     "mps:longitude":-75.531933,
     "mz:hierarchy_label":0,
@@ -286,9 +288,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0491\u0430"
     ],
-    "name:unk_x_variant":[
-        "Manga"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u06af\u0627"
     ],
@@ -361,7 +360,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191577
     ],
@@ -369,7 +368,6 @@
     "wof:concordances":{
         "gn:id":3675468,
         "gp:id":362051,
-        "qs:id":1082711,
         "qs_pg:id":1082711
     },
     "wof:country":"CO",
@@ -387,7 +385,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289407,
+    "wof:lastmodified":1566706530,
     "wof:name":"Manga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":4.51952,
     "geom:longitude":-74.59293,
     "iso:country":"CO",
+    "lbl:bbox":"-74.61293,4.49952,-74.57293,4.53952",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Apulo"
@@ -46,7 +50,7 @@
     "name:tgl_x_preferred":[
         "Apulo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rafael Reyes"
     ],
     "name:war_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3671020,
         "gp:id":364695,
-        "qs:id":1341815,
+        "qs_pg:id":1341815,
         "wd:id":"Q1574840"
     },
     "wof:country":"CO",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421201243,
-    "wof:lastmodified":1563309390,
+    "wof:lastmodified":1566708022,
     "wof:name":"Apulo",
     "wof:parent_id":421203443,
     "wof:placetype":"locality",

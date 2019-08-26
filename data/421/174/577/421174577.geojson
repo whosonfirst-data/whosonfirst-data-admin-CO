@@ -10,6 +10,9 @@
     "geom:latitude":9.24202,
     "geom:longitude":-74.75467,
     "iso:country":"CO",
+    "lbl:bbox":"-74.77467,9.22202,-74.73467,9.26202",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -77,7 +80,7 @@
     "name:tgl_x_preferred":[
         "Magangu\u00e9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mangue"
     ],
     "name:vie_x_preferred":[
@@ -214,7 +217,7 @@
     "wof:concordances":{
         "gn:id":3675692,
         "gp:id":368217,
-        "qs:id":887576,
+        "qs_pg:id":887576,
         "wd:id":"Q1011196",
         "wk:page":"Magangu\u00e9"
     },
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":421174577,
-    "wof:lastmodified":1563309105,
+    "wof:lastmodified":1566707965,
     "wof:name":"Magangu\u00e9",
     "wof:parent_id":421184105,
     "wof:placetype":"locality",

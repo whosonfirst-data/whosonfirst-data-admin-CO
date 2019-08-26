@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.89681,3.65018,-73.85681,3.69018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mosc\u00fa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326792829,
-    "wof:lastmodified":1537618831,
+    "wof:lastmodified":1566706204,
     "wof:name":"Moscu",
     "wof:parent_id":1108700931,
     "wof:placetype":"locality",

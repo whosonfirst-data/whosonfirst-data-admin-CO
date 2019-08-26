@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.48806,3.76056,-76.44806,3.80056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cachimba",
         "Cachimbal"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259343449,
-    "wof:lastmodified":1537618638,
+    "wof:lastmodified":1566708433,
     "wof:name":"Cachimbal",
     "wof:parent_id":421194365,
     "wof:placetype":"locality",

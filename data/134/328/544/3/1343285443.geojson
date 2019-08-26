@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.95511,10.99726,-74.91511,11.03726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puerto Salgar"
     ],
@@ -57,8 +61,7 @@
         "Puerto Salgar"
     ],
     "name:und_x_variant":[
-        "Salgar",
-        "Puerto Salgar"
+        "Salgar"
     ],
     "name:vie_x_preferred":[
         "Puerto Salgar"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1343285443,
-    "wof:lastmodified":1564289309,
+    "wof:lastmodified":1566706509,
     "wof:name":"Puerto Salgar",
     "wof:parent_id":421170585,
     "wof:placetype":"locality",

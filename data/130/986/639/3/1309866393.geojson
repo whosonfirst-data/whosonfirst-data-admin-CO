@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.41449,3.63083,-76.37449,3.67083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santa Rosa",
         "Santa Rosa de Tapias"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309866393,
-    "wof:lastmodified":1537618385,
+    "wof:lastmodified":1566707923,
     "wof:name":"Santa Rosa de Tapias",
     "wof:parent_id":421205105,
     "wof:placetype":"locality",

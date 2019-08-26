@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.418541,
     "lbl:longitude":-75.585028,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Putumayo",
     "mps:latitude":0.463805,
     "mps:longitude":-75.688396,
@@ -192,7 +193,7 @@
         "Putumayo"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0baf\u0bcb  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0baa\u0bc1\u0ba4\u0bc1\u0bae\u0bc8\u0baf\u0bcb \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c41\u0c1f\u0c41\u0c2e\u0c3e\u0c2f\u0c4b \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -212,7 +213,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0443\u043c\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comisar\u00eda del Putumayo"
     ],
     "name:urd_x_preferred":[
@@ -302,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"24,885",
     "statoids:area_mi":"9,608",
     "statoids:as_of_date":"2005-05-22",
@@ -329,7 +330,7 @@
         "gp:id":2345067,
         "hasc:id":"CO.PU",
         "iso:id":"CO-PUT",
-        "qs:id":894866,
+        "qs_pg:id":894866,
         "unlc:id":"CO-PUT",
         "wd:id":"Q232953",
         "wk:page":"Putumayo Department"
@@ -350,11 +351,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670378,
+    "wof:lastmodified":1566706543,
     "wof:name":"Putumayo",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":237197,
     "wof:population_rank":10,

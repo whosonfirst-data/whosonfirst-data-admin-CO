@@ -10,8 +10,12 @@
     "geom:latitude":1.84966,
     "geom:longitude":-76.04785,
     "iso:country":"CO",
+    "lbl:bbox":"-76.06785,1.82966,-76.02785,1.86966",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pitalito"
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3672110,
         "gp:id":368226,
-        "qs:id":475165,
+        "qs_pg:id":475165,
         "wd:id":"Q1014922",
         "wk:page":"Pitalito"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421199373,
-    "wof:lastmodified":1563309370,
+    "wof:lastmodified":1566708017,
     "wof:name":"Pitalito",
     "wof:parent_id":421193617,
     "wof:placetype":"locality",

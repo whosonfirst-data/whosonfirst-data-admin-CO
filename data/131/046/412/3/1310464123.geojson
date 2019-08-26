@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.54981,4.18176,-73.50981,4.22176",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puerto Alegre"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310464123,
-    "wof:lastmodified":1537618726,
+    "wof:lastmodified":1566707613,
     "wof:name":"Puerto Alegre",
     "wof:parent_id":421188675,
     "wof:placetype":"locality",

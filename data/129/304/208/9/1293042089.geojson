@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.7056,4.2543,-74.6656,4.2943",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Sonora"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293042089,
-    "wof:lastmodified":1537618783,
+    "wof:lastmodified":1566706696,
     "wof:name":"La Sonora",
     "wof:parent_id":1108700689,
     "wof:placetype":"locality",

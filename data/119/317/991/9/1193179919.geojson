@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.37147,10.16193,-74.33147,10.20193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0437\u0432\u043e\u0440\u044a\u0442"
     ],
@@ -64,8 +68,7 @@
     ],
     "name:und_x_variant":[
         "Manantial",
-        "Caser\u00edo Manantial",
-        "El Manantial"
+        "Caser\u00edo Manantial"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1193179919,
-    "wof:lastmodified":1564292683,
+    "wof:lastmodified":1566707326,
     "wof:name":"El Manantial",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

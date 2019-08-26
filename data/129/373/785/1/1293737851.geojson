@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.35333,4.78,-74.31333,4.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293737851,
-    "wof:lastmodified":1536924104,
+    "wof:lastmodified":1566706766,
     "wof:name":"El Tesoro",
     "wof:parent_id":421170607,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.95333,8.94667,-72.91333,8.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Salado",
         "Puerto Salado"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326594147,
-    "wof:lastmodified":1537618418,
+    "wof:lastmodified":1566706124,
     "wof:name":"Puerto Salado",
     "wof:parent_id":1108701155,
     "wof:placetype":"locality",

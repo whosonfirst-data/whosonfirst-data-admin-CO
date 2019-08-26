@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.22362,3.37958,-76.18362,3.41958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":9253841
     },
     "wof:country":"CO",
-    "wof:geomhash":"311409fb32bda10e88b8dac14617012a",
+    "wof:geomhash":"1e227d1656dd1f74c72b1770a7e0f8a7",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209161191,
-    "wof:lastmodified":1536295892,
+    "wof:lastmodified":1566707194,
     "wof:name":"El Recreo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -76.20362,
-    3.3995800000000003,
+    3.39958,
     -76.20362,
-    3.3995800000000003
+    3.39958
 ],
   "geometry": {"coordinates":[-76.20362,3.39958],"type":"Point"}
 }

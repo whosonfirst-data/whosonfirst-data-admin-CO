@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.81805,5.02345,-75.77805,5.06345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209153409,
-    "wof:lastmodified":1536296134,
+    "wof:lastmodified":1566707104,
     "wof:name":"La Habana",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

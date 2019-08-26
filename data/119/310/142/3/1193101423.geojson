@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.42859,8.19562,-72.38859,8.23562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Moros"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1193101423,
-    "wof:lastmodified":1564292702,
+    "wof:lastmodified":1566707330,
     "wof:name":"Moros",
     "wof:parent_id":1108701087,
     "wof:placetype":"locality",

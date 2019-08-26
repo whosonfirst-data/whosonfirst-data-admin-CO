@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.88642,1.64983,-75.84642,1.68983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Estrella"
     ],
@@ -65,8 +69,7 @@
         "Estrella"
     ],
     "name:und_x_variant":[
-        "Estralla",
-        "Estrella"
+        "Estralla"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1344138253,
-    "wof:lastmodified":1564288590,
+    "wof:lastmodified":1566706343,
     "wof:name":"Estrella",
     "wof:parent_id":1108700405,
     "wof:placetype":"locality",

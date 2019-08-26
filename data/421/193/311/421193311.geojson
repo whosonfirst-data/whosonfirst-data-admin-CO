@@ -10,8 +10,12 @@
     "geom:latitude":5.55823,
     "geom:longitude":-73.28198,
     "iso:country":"CO",
+    "lbl:bbox":"-73.30198,5.53823,-73.26198,5.57823",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Chivat\u00e1"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3686453,
         "gp:id":353027,
-        "qs:id":887331,
+        "qs_pg:id":887331,
         "wd:id":"Q1654780",
         "wk:page":"Chivat\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421193311,
-    "wof:lastmodified":1563308971,
+    "wof:lastmodified":1566707937,
     "wof:name":"Chivat\u00e1",
     "wof:parent_id":1108700219,
     "wof:placetype":"locality",

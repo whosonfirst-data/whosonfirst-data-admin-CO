@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.18667,10.73,-74.14667,10.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Campamento La Paulina",
         "La Paulina"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260223059,
-    "wof:lastmodified":1537618509,
+    "wof:lastmodified":1566707365,
     "wof:name":"La Paulina",
     "wof:parent_id":1108700923,
     "wof:placetype":"locality",

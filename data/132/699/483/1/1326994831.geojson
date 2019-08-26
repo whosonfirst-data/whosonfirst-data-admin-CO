@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.36655,1.55859,-77.32655,1.59859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Granada"
     ],
@@ -300,8 +304,7 @@
         "\u0413\u0440\u0430\u043d\u0430\u0434\u0430"
     ],
     "name:und_x_variant":[
-        "C\u00f3rdoba",
-        "Granada"
+        "C\u00f3rdoba"
     ],
     "name:urd_x_preferred":[
         "\u063a\u0631\u0646\u0627\u0637\u06c1"
@@ -347,7 +350,7 @@
         }
     ],
     "wof:id":1326994831,
-    "wof:lastmodified":1564288051,
+    "wof:lastmodified":1566706221,
     "wof:name":"Granada",
     "wof:parent_id":421205097,
     "wof:placetype":"locality",

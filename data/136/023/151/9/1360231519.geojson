@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.3289,4.41819,-76.2889,4.45819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Betania"
     ],
@@ -60,8 +64,7 @@
         "Betania"
     ],
     "name:und_x_variant":[
-        "Bethania",
-        "Betania"
+        "Bethania"
     ],
     "name:war_x_preferred":[
         "Betania"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1360231519,
-    "wof:lastmodified":1564294067,
+    "wof:lastmodified":1566707781,
     "wof:name":"Betania",
     "wof:parent_id":1108701485,
     "wof:placetype":"locality",

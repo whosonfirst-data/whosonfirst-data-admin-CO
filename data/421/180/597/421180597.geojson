@@ -10,8 +10,12 @@
     "geom:latitude":6.34434,
     "geom:longitude":-72.81726,
     "iso:country":"CO",
+    "lbl:bbox":"-72.83726,6.32434,-72.79726,6.36434",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Onzaga"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3673590,
         "gp:id":368355,
-        "qs:id":1206491,
+        "qs_pg:id":1206491,
         "wd:id":"Q2245327",
         "wk:page":"Onzaga"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421180597,
-    "wof:lastmodified":1563309122,
+    "wof:lastmodified":1566707968,
     "wof:name":"Onzaga",
     "wof:parent_id":1108701307,
     "wof:placetype":"locality",

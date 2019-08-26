@@ -10,8 +10,12 @@
     "geom:latitude":6.15639,
     "geom:longitude":-75.78722,
     "iso:country":"CO",
+    "lbl:bbox":"-75.80722,6.13639,-75.76722,6.17639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Armenia"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Armenia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Armenia Mantequilla"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3689559,
         "gp:id":350985,
-        "qs:id":1206150,
+        "qs_pg:id":1206150,
         "wd:id":"Q934767",
         "wk:page":"Armenia, Antioquia"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421198789,
-    "wof:lastmodified":1563309315,
+    "wof:lastmodified":1566708006,
     "wof:name":"Armenia",
     "wof:parent_id":1108699919,
     "wof:placetype":"locality",

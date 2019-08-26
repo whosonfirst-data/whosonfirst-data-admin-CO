@@ -10,8 +10,12 @@
     "geom:latitude":8.55644,
     "geom:longitude":-74.26331,
     "iso:country":"CO",
+    "lbl:bbox":"-74.28331,8.53644,-74.24331,8.57644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Puerto Rico"
@@ -412,7 +416,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corregimiento Puerto Rico"
     ],
     "name:urd_x_preferred":[
@@ -480,7 +484,7 @@
     "wof:concordances":{
         "gn:id":3671339,
         "gp:id":364497,
-        "qs:id":911125
+        "qs_pg:id":911125
     },
     "wof:country":"CO",
     "wof:created":1459010051,
@@ -495,7 +499,7 @@
         }
     ],
     "wof:id":421201093,
-    "wof:lastmodified":1564294729,
+    "wof:lastmodified":1566708023,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108700175,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.61203,
     "geom:longitude":-72.9793,
     "iso:country":"CO",
+    "lbl:bbox":"-72.9993,5.59203,-72.9593,5.63203",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Iza"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3680426,
         "gp:id":357570,
-        "qs:id":238941,
+        "qs_pg:id":238941,
         "wd:id":"Q1655524",
         "wk:page":"Iza, Boyac\u00e1"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421204265,
-    "wof:lastmodified":1563309039,
+    "wof:lastmodified":1566707949,
     "wof:name":"Iza",
     "wof:parent_id":421190203,
     "wof:placetype":"locality",

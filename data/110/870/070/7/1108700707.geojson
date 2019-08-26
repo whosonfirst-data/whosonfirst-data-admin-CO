@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.136698,
     "lbl:longitude":-74.378484,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"San Bernardo",
     "meso:gadm_hasc2":"CO.CU.SB",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.378484,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "San Bernardo"
     ],
@@ -94,9 +97,9 @@
         "San Bernardo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"San Bernardo",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1108700707,
-    "wof:lastmodified":1564293178,
+    "wof:lastmodified":1566707471,
     "wof:name":"San Bernardo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

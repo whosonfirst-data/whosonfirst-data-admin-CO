@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.76667,7.305,-75.72667,7.345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Pr\u00edmavena",
         "La Primavera"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225952583,
-    "wof:lastmodified":1537618671,
+    "wof:lastmodified":1566708477,
     "wof:name":"La Primavera",
     "wof:parent_id":1108699969,
     "wof:placetype":"locality",

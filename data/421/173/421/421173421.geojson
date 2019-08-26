@@ -10,8 +10,12 @@
     "geom:latitude":6.66808,
     "geom:longitude":-72.69986,
     "iso:country":"CO",
+    "lbl:bbox":"-72.71986,6.64808,-72.67986,6.68808",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Enciso"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3682653,
         "gp:id":356347,
-        "qs:id":288107,
+        "qs_pg:id":288107,
         "wd:id":"Q1654246"
     },
     "wof:country":"CO",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421173421,
-    "wof:lastmodified":1563309173,
+    "wof:lastmodified":1566707977,
     "wof:name":"Enciso",
     "wof:parent_id":1108701249,
     "wof:placetype":"locality",

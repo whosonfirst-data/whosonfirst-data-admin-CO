@@ -10,8 +10,12 @@
     "geom:latitude":9.31505,
     "geom:longitude":-75.29283,
     "iso:country":"CO",
+    "lbl:bbox":"-75.31283,9.29505,-75.27283,9.33505",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Corozal"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3685823,
         "gp:id":353342,
-        "qs:id":214698,
+        "qs_pg:id":214698,
         "wd:id":"Q2431720",
         "wk:page":"Corozal, Sucre"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421201817,
-    "wof:lastmodified":1563309388,
+    "wof:lastmodified":1566708021,
     "wof:name":"Corozal",
     "wof:parent_id":1108701383,
     "wof:placetype":"locality",

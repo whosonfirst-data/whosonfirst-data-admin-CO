@@ -11,11 +11,15 @@
     "geom:longitude":-71.7717,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":4607,
+    "gn:population":4607,
     "iso:country":"CO",
+    "lbl:bbox":"-71.7917,6.77277,-71.7517,6.81277",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Fortoul"
     ],
     "qs:name":"Municipio de Fortul",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3682361,
         "gp:id":369345,
-        "qs:id":1046333
+        "qs_pg:id":1046333
     },
     "wof:country":"CO",
     "wof:created":1469052489,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444969,
-    "wof:lastmodified":1505343602,
+    "wof:lastmodified":1566708075,
     "wof:name":"Municipio de Fortul",
     "wof:parent_id":1108701517,
     "wof:placetype":"locality",

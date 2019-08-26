@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.31779,10.46313,-74.27779,10.50313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Mata de Guineo",
         "Mata de Guineo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242716727,
-    "wof:lastmodified":1537618462,
+    "wof:lastmodified":1566708267,
     "wof:name":"Mata de Guineo",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",

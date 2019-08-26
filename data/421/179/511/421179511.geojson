@@ -10,8 +10,12 @@
     "geom:latitude":8.53886,
     "geom:longitude":-74.62038,
     "iso:country":"CO",
+    "lbl:bbox":"-74.64038,8.51886,-74.60038,8.55886",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Majagual"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Majagual"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Majagul"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3675637,
         "gp:id":368526,
-        "qs:id":150098,
+        "qs_pg:id":150098,
         "wd:id":"Q2173993"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421179511,
-    "wof:lastmodified":1563309509,
+    "wof:lastmodified":1566708048,
     "wof:name":"Majagual",
     "wof:parent_id":1108701401,
     "wof:placetype":"locality",

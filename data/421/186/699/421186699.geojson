@@ -10,8 +10,12 @@
     "geom:latitude":11.501276,
     "geom:longitude":-72.952751,
     "iso:country":"CO",
+    "lbl:bbox":"-72.972751,11.481276,-72.932751,11.521276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Riohacha"
@@ -178,7 +182,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e\u0430\u0447\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Riochacha"
     ],
     "name:urd_x_preferred":[
@@ -225,9 +229,11 @@
     "wof:concordances":{
         "gn:id":3670745,
         "gp:id":368559,
-        "qs:id":1075543,
         "qs_pg:id":1046202,
         "wd:id":"Q826566"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075543
     },
     "wof:country":"CO",
     "wof:created":1459009488,
@@ -242,7 +248,7 @@
         }
     ],
     "wof:id":421186699,
-    "wof:lastmodified":1563309250,
+    "wof:lastmodified":1566707995,
     "wof:name":"R\u00edohacha",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

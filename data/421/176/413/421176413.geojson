@@ -10,8 +10,12 @@
     "geom:latitude":9.56228,
     "geom:longitude":-73.33405,
     "iso:country":"CO",
+    "lbl:bbox":"-73.35405,9.54228,-73.31405,9.58228",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Jagua de Ibirico"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "La Jagua de Ibirico"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jagua"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3678674,
         "gp:id":369034,
-        "qs:id":1046293,
+        "qs_pg:id":1046293,
         "wd:id":"Q950053",
         "wk:page":"La Jagua de Ibirico, Cesar"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421176413,
-    "wof:lastmodified":1563309559,
+    "wof:lastmodified":1566708057,
     "wof:name":"La Jagua de Ibirico",
     "wof:parent_id":421177921,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":6.60519,
     "geom:longitude":-73.06809,
     "iso:country":"CO",
+    "lbl:bbox":"-73.08809,6.58519,-73.04809,6.62519",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Curit\u00ed"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "Curiti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Curuti"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3685345,
         "gp:id":353588,
-        "qs:id":298623,
+        "qs_pg:id":298623,
         "wd:id":"Q1575978"
     },
     "wof:country":"CO",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421173767,
-    "wof:lastmodified":1563309170,
+    "wof:lastmodified":1566707977,
     "wof:name":"Curit\u00ed",
     "wof:parent_id":1108701235,
     "wof:placetype":"locality",

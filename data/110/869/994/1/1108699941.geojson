@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.828447,
     "lbl:longitude":-76.042304,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Ca\u00f1asgordas",
     "meso:gadm_hasc2":"CO.AN.CG",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.042304,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Ca\u00f1asgordas"
     ],
@@ -97,7 +100,7 @@
         "\u5361\u5c3c\u4e9e\u65af\u6208\u9054\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108699941,
-    "wof:lastmodified":1563307254,
+    "wof:lastmodified":1566707438,
     "wof:name":"Ca\u00f1asgordas",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

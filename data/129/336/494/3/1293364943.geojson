@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.09549,4.21723,-72.05549,4.25723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293364943,
-    "wof:lastmodified":1536963610,
+    "wof:lastmodified":1566706574,
     "wof:name":"La Venturosa",
     "wof:parent_id":421169181,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-72.62765,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":3362,
+    "gn:population":3362,
     "iso:country":"CO",
+    "lbl:bbox":"-72.64765,2.31022,-72.60765,2.35022",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "El Retorno"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3792387,
         "gp:id":26797696,
-        "qs:id":1046696,
+        "qs_pg:id":1046696,
         "wd:id":"Q1526156",
         "wk:page":"El Retorno"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890435777,
-    "wof:lastmodified":1563309705,
+    "wof:lastmodified":1566708078,
     "wof:name":"El Retorno",
     "wof:parent_id":1108701627,
     "wof:placetype":"locality",

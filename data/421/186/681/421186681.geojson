@@ -10,8 +10,12 @@
     "geom:latitude":7.175497,
     "geom:longitude":-73.08655,
     "iso:country":"CO",
+    "lbl:bbox":"-73.10655,7.155497,-73.06655,7.195497",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":366551,
-        "qs:id":1075471
+        "qs_pg:id":1075471
     },
     "wof:country":"CO",
     "wof:created":1459009488,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421186681,
-    "wof:lastmodified":1499968317,
+    "wof:lastmodified":1566707993,
     "wof:name":"Santa Rita Hacienda",
     "wof:parent_id":1108701181,
     "wof:placetype":"locality",

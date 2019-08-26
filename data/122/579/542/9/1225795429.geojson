@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.13722,4.46111,-76.09722,4.50111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u0644\u064a\u0627"
     ],
@@ -175,8 +179,7 @@
         "\u041c\u043e\u0440\u0435\u043b\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Higuer\u00f3n",
-        "Morelia"
+        "Higuer\u00f3n"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u06cc\u0644\u06cc\u0627"
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":1225795429,
-    "wof:lastmodified":1564297459,
+    "wof:lastmodified":1566708712,
     "wof:name":"Morelia",
     "wof:parent_id":421170649,
     "wof:placetype":"locality",

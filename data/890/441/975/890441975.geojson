@@ -11,10 +11,14 @@
     "geom:longitude":-74.35389,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":1577,
+    "gn:population":1577,
     "iso:country":"CO",
+    "lbl:bbox":"-74.37389,4.59889,-74.33389,4.63889",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Antonio del Tequendama"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3792404,
         "gp:id":365237,
-        "qs:id":150324,
+        "qs_pg:id":150324,
         "wd:id":"Q1525530",
         "wk:page":"San Antonio del Tequendama"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890441975,
-    "wof:lastmodified":1563309637,
+    "wof:lastmodified":1566708069,
     "wof:name":"San Antonio del Tequendama",
     "wof:parent_id":421187901,
     "wof:placetype":"locality",

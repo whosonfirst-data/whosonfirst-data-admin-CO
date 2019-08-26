@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.72954,9.40501,-74.68954,9.44501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10de\u10d8\u10dc\u10e2\u10dd"
     ],
@@ -45,8 +49,7 @@
         "Pinto"
     ],
     "name:und_x_variant":[
-        "Corregimiento Pinto",
-        "Pinto"
+        "Corregimiento Pinto"
     ],
     "name:war_x_preferred":[
         "Pinto"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1260131117,
-    "wof:lastmodified":1564292835,
+    "wof:lastmodified":1566707358,
     "wof:name":"Pinto",
     "wof:parent_id":1108700913,
     "wof:placetype":"locality",

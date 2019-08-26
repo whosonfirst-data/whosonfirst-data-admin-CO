@@ -10,8 +10,12 @@
     "geom:latitude":9.36238,
     "geom:longitude":-73.60314,
     "iso:country":"CO",
+    "lbl:bbox":"-73.62314,9.34238,-73.58314,9.38238",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Chiriguayork"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3686479,
         "gp:id":368193,
-        "qs:id":1206424,
+        "qs_pg:id":1206424,
         "wd:id":"Q1440741",
         "wk:page":"Chiriguan\u00e1"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421198819,
-    "wof:lastmodified":1563309285,
+    "wof:lastmodified":1566708003,
     "wof:name":"Chiriguan\u00e1",
     "wof:parent_id":1108700533,
     "wof:placetype":"locality",

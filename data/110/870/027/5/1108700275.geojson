@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.593929,
     "lbl:longitude":-73.370405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"C\u00f3mbita",
     "meso:gadm_hasc2":"CO.BY.CB",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.370405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Motavita"
     ],
@@ -86,7 +89,7 @@
         "\u83ab\u5854\u7dad\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108700275,
-    "wof:lastmodified":1564293240,
+    "wof:lastmodified":1566707553,
     "wof:name":"Motavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

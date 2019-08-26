@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.747042,
     "lbl:longitude":-77.461295,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"Policarpa",
     "meso:gadm_hasc2":"CO.NA.PC",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.461295,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Policarpa"
     ],
@@ -79,9 +82,9 @@
         "\u6ce2\u5229\u5361\u723e\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"467",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Policarpa",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108701051,
-    "wof:lastmodified":1563307285,
+    "wof:lastmodified":1566707452,
     "wof:name":"Policarpa",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

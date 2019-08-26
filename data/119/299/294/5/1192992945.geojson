@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.81958,3.56375,-73.77958,3.60375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Floresta"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1192992945,
-    "wof:lastmodified":1564292626,
+    "wof:lastmodified":1566707314,
     "wof:name":"La Floresta",
     "wof:parent_id":1108700931,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.09419,
     "geom:longitude":-74.77573,
     "iso:country":"CO",
+    "lbl:bbox":"-74.79573,8.07419,-74.75573,8.11419",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Nech\u00ed"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3673976,
         "gp:id":369173,
-        "qs:id":150080,
+        "qs_pg:id":150080,
         "wd:id":"Q1441743",
         "wk:page":"Nech\u00ed"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421179499,
-    "wof:lastmodified":1563309504,
+    "wof:lastmodified":1566708047,
     "wof:name":"Nech\u00ed",
     "wof:parent_id":1108699985,
     "wof:placetype":"locality",

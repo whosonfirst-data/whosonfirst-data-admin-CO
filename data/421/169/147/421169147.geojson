@@ -10,6 +10,9 @@
     "geom:latitude":4.53389,
     "geom:longitude":-75.68111,
     "iso:country":"CO",
+    "lbl:bbox":"-75.70111,4.51389,-75.66111,4.55389",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -313,7 +316,7 @@
     "wof:concordances":{
         "gn:id":3689560,
         "gp:id":368158,
-        "qs:id":489509,
+        "qs_pg:id":489509,
         "wd:id":"Q328518"
     },
     "wof:country":"CO",
@@ -329,7 +332,7 @@
         }
     ],
     "wof:id":421169147,
-    "wof:lastmodified":1563309011,
+    "wof:lastmodified":1566707945,
     "wof:name":"Armenia",
     "wof:parent_id":421202353,
     "wof:placetype":"locality",

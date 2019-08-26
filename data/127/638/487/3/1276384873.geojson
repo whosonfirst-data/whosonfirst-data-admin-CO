@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.95833,3.89889,-75.91833,3.93889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1276384873,
-    "wof:lastmodified":1564291296,
+    "wof:lastmodified":1566707017,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108701505,
     "wof:placetype":"locality",

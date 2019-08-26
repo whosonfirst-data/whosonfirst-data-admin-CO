@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.42165,
     "lbl:longitude":-75.494369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"Cajamarca",
     "meso:gadm_hasc2":"CO.TO.CJ",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.494369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cajamarca"
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"520",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Cajamarca",
@@ -131,7 +134,7 @@
         "gn:id":3688022,
         "gp:id":26797525,
         "hasc:id":"CO.TO.CJ",
-        "qs:id":233544,
+        "qs_pg:id":233544,
         "wd:id":"Q1441115",
         "wk:page":"Cajamarca, Tolima"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421170271,
-    "wof:lastmodified":1563309461,
+    "wof:lastmodified":1566708039,
     "wof:name":"Cajamarca",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

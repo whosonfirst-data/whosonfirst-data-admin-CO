@@ -10,6 +10,9 @@
     "geom:latitude":10.91843,
     "geom:longitude":-74.76459,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78459,10.89843,-74.74459,10.93843",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -227,7 +230,7 @@
     "wof:concordances":{
         "gn:id":3667849,
         "gp:id":368239,
-        "qs:id":1341929,
+        "qs_pg:id":1341929,
         "wd:id":"Q767071"
     },
     "wof:country":"CO",
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":421201245,
-    "wof:lastmodified":1563309387,
+    "wof:lastmodified":1566708021,
     "wof:name":"Soledad",
     "wof:parent_id":421190815,
     "wof:placetype":"locality",

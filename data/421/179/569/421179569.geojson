@@ -10,8 +10,12 @@
     "geom:latitude":3.98695,
     "geom:longitude":-73.75797,
     "iso:country":"CO",
+    "lbl:bbox":"-73.77797,3.96695,-73.73797,4.00695",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Acac\u00edas"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3690577,
         "gp:id":368250,
-        "qs:id":150167,
+        "qs_pg:id":150167,
         "wd:id":"Q2429780",
         "wk:page":"Acac\u00edas"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421179569,
-    "wof:lastmodified":1563309494,
+    "wof:lastmodified":1566708046,
     "wof:name":"Acac\u00edas",
     "wof:parent_id":421170629,
     "wof:placetype":"locality",

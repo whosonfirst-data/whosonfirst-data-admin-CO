@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.882531,
     "lbl:longitude":-74.595723,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Magdalena",
     "meso:gadm_admin":"Barranquilla",
     "meso:gadm_hasc2":"CO.AT.BQ",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.595723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sitionuevo"
     ],
@@ -43,8 +46,7 @@
         "Sitionuevo"
     ],
     "name:eng_x_variant":[
-        "Barranquilla  (dist.port.",
-        "Barranquilla"
+        "Barranquilla (dist.port."
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u062a\u06cc\u0648\u0646\u0648\u0626\u0648\u0648"
@@ -92,7 +94,7 @@
         "\u932b\u8482\u5967\u52aa\u57c3\u6c83"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -114,7 +116,7 @@
         }
     ],
     "wof:id":1108700915,
-    "wof:lastmodified":1564293187,
+    "wof:lastmodified":1566707483,
     "wof:name":"Sitionuevo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.29675,11.12248,-72.25675,11.16248",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Syerra-Maestra"
     ],
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1293356897,
-    "wof:lastmodified":1564289990,
+    "wof:lastmodified":1566706699,
     "wof:name":"Sierra Maestra",
     "wof:parent_id":421170625,
     "wof:placetype":"locality",

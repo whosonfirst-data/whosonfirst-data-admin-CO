@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.63159,8.52281,-75.59159,8.56281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Placeres",
         "Placeres"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259462875,
-    "wof:lastmodified":1537618471,
+    "wof:lastmodified":1566708379,
     "wof:name":"Placeres",
     "wof:parent_id":1108700589,
     "wof:placetype":"locality",

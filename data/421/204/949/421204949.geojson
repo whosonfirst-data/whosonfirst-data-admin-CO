@@ -10,8 +10,12 @@
     "geom:latitude":6.0575,
     "geom:longitude":-73.48112,
     "iso:country":"CO",
+    "lbl:bbox":"-73.50112,6.0375,-73.46112,6.0775",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Santana"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3668594,
         "gp:id":366665,
-        "qs:id":251713,
+        "qs_pg:id":251713,
         "wd:id":"Q1575506",
         "wk:page":"Santana, Boyac\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421204949,
-    "wof:lastmodified":1563309029,
+    "wof:lastmodified":1566707948,
     "wof:name":"Santana",
     "wof:parent_id":1108700321,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.77333,4.56167,-75.73333,4.60167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblorrico"
     ],
@@ -70,8 +74,7 @@
         "Pueblorrico"
     ],
     "name:und_x_variant":[
-        "Pueblorico",
-        "Pueblorrico"
+        "Pueblorico"
     ],
     "name:vie_x_preferred":[
         "Pueblorrico"
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1327202339,
-    "wof:lastmodified":1564288318,
+    "wof:lastmodified":1566706279,
     "wof:name":"Pueblorrico",
     "wof:parent_id":421194731,
     "wof:placetype":"locality",

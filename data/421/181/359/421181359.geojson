@@ -10,8 +10,12 @@
     "geom:latitude":5.04492,
     "geom:longitude":-75.5146,
     "iso:country":"CO",
+    "lbl:bbox":"-75.5346,5.02492,-75.4946,5.06492",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villamar\u00eda"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3665973,
         "gp:id":367937,
-        "qs:id":489502,
+        "qs_pg:id":489502,
         "wd:id":"Q961399"
     },
     "wof:country":"CO",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421181359,
-    "wof:lastmodified":1563309267,
+    "wof:lastmodified":1566707998,
     "wof:name":"Villamar\u00eda",
     "wof:parent_id":421170595,
     "wof:placetype":"locality",

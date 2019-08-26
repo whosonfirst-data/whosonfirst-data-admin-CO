@@ -10,8 +10,12 @@
     "geom:latitude":4.93658,
     "geom:longitude":-73.83314,
     "iso:country":"CO",
+    "lbl:bbox":"-73.85314,4.91658,-73.81314,4.95658",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Guatavita"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3681360,
         "gp:id":356985,
-        "qs:id":1082704,
+        "qs_pg:id":1082704,
         "wd:id":"Q1576750",
         "wk:page":"Guatavita"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421187325,
-    "wof:lastmodified":1563309145,
+    "wof:lastmodified":1566707973,
     "wof:name":"Guatavita",
     "wof:parent_id":421202347,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.81556,4.27861,-70.77556,4.31861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226175693,
-    "wof:lastmodified":1537033135,
+    "wof:lastmodified":1566708499,
     "wof:name":"El Oso",
     "wof:parent_id":1108701647,
     "wof:placetype":"locality",

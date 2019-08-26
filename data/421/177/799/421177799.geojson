@@ -10,8 +10,12 @@
     "geom:latitude":5.78928,
     "geom:longitude":-75.42725,
     "iso:country":"CO",
+    "lbl:bbox":"-75.44725,5.76928,-75.40725,5.80928",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Abejorral"
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3690592,
         "gp:id":368175,
-        "qs:id":1206407,
+        "qs_pg:id":1206407,
         "wd:id":"Q1441947",
         "wk:page":"Abejorral"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":421177799,
-    "wof:lastmodified":1563309472,
+    "wof:lastmodified":1566708041,
     "wof:name":"Abejorral",
     "wof:parent_id":1108699899,
     "wof:placetype":"locality",

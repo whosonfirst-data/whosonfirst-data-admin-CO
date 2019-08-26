@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.33417,9.76889,-74.29417,9.80889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Venecia"
     ],
@@ -49,8 +53,7 @@
         "Venecia"
     ],
     "name:und_x_variant":[
-        "Hacienda Venecia",
-        "Venecia"
+        "Hacienda Venecia"
     ],
     "name:war_x_preferred":[
         "Venecia"
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1293528021,
-    "wof:lastmodified":1564289586,
+    "wof:lastmodified":1566706606,
     "wof:name":"Venecia",
     "wof:parent_id":1108700891,
     "wof:placetype":"locality",

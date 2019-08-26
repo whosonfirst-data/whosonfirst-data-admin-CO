@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4271348.846655,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.567964,6.292783,-75.567964,6.292783",
     "geom:latitude":6.292783,
     "geom:longitude":-75.567964,
     "iso:country":"CO",
+    "lbl:bbox":"-75.572964,6.287783,-75.562964,6.297783",
     "lbl:latitude":6.292783,
     "lbl:longitude":-75.567964,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.305771,
     "mps:longitude":-75.570216,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Campo Valdes"
     ],
     "name:spa_x_preferred":[
-        "Campo Vald\u00e9s"
-    ],
-    "name:unk_x_variant":[
         "Campo Vald\u00e9s"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858917,
+    "wof:lastmodified":1566706528,
     "wof:name":"Campo Vald\u00e9s",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

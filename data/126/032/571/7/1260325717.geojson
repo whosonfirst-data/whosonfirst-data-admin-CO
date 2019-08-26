@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.10656,9.78107,-74.06656,9.82107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u043e\u043b\u0438\u0432\u0438\u0430"
     ],
@@ -703,7 +707,7 @@
         }
     ],
     "wof:id":1260325717,
-    "wof:lastmodified":1564293061,
+    "wof:lastmodified":1566707412,
     "wof:name":"Bolivia",
     "wof:parent_id":1108700875,
     "wof:placetype":"locality",

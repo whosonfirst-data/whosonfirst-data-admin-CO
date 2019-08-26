@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.51272,3.54549,-76.47272,3.58549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Isaacs",
         "Puerto Isa\u00e1c",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243214135,
-    "wof:lastmodified":1537618421,
+    "wof:lastmodified":1566708313,
     "wof:name":"Puerto Isaacs",
     "wof:parent_id":421186433,
     "wof:placetype":"locality",

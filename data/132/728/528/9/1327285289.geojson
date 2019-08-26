@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.65787,10.23662,-74.61787,10.27662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Monter\u00eda",
         "Monter\u00eda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327285289,
-    "wof:lastmodified":1537618455,
+    "wof:lastmodified":1566706262,
     "wof:name":"Monteria",
     "wof:parent_id":1108700885,
     "wof:placetype":"locality",

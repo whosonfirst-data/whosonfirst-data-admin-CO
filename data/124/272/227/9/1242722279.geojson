@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.64996,6.33114,-72.60996,6.37114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242722279,
-    "wof:lastmodified":1536854295,
+    "wof:lastmodified":1566708126,
     "wof:name":"Chorrera",
     "wof:parent_id":421176079,
     "wof:placetype":"locality",

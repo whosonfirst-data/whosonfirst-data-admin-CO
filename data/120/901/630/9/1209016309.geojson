@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.50411,8.72009,-76.46411,8.76009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3779427
     },
     "wof:country":"CO",
-    "wof:geomhash":"1c38032e992293aaea394c1191954402",
+    "wof:geomhash":"ec7c589002e9050b5933380b76d47118",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209016309,
-    "wof:lastmodified":1536300288,
+    "wof:lastmodified":1566707052,
     "wof:name":"El Africa",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -76.48411,
-    8.740089999999999,
+    8.74009,
     -76.48411,
-    8.740089999999999
+    8.74009
 ],
   "geometry": {"coordinates":[-76.48411,8.74009],"type":"Point"}
 }

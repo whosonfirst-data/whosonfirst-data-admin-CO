@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.893329,
     "lbl:longitude":-76.815384,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choc\u00f3",
     "meso:gadm_admin":"Istmina",
     "meso:gadm_hasc2":"CO.CH.IS",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.815384,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Istmina"
     ],
@@ -101,9 +104,9 @@
         "\u4f0a\u65af\u7279\u7c73\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"2480",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Istmina",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108700779,
-    "wof:lastmodified":1563307314,
+    "wof:lastmodified":1566707468,
     "wof:name":"Medio San Juan",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

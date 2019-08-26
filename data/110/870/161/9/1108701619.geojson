@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.036477,
     "lbl:longitude":-69.131634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Guain\u00eda",
     "meso:gadm_admin":"Pana Pana",
     "meso:gadm_hasc2":"CO.GN.PA",
@@ -33,6 +35,7 @@
     "mps:longitude":-69.131634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Pana Pana"
     ],
@@ -46,9 +49,9 @@
         "Pana Pana"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Campo Alegre",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1108701619,
-    "wof:lastmodified":1555091996,
+    "wof:lastmodified":1566707447,
     "wof:name":"C.D Pan\u00e1 Pan\u00e1 (Campo Alegre)",
     "wof:parent_id":85670249,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.02495,9.36362,-74.98495,9.40362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda El Ed\u00e9n",
         "El Ed\u00e9n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226389975,
-    "wof:lastmodified":1537618592,
+    "wof:lastmodified":1566708693,
     "wof:name":"El Eden",
     "wof:parent_id":1108701417,
     "wof:placetype":"locality",

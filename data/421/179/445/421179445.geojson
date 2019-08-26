@@ -10,8 +10,12 @@
     "geom:latitude":4.48425,
     "geom:longitude":-74.24499,
     "iso:country":"CO",
+    "lbl:bbox":"-74.26499,4.46425,-74.22499,4.50425",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sibat\u00e9"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3668087,
         "gp:id":366838,
-        "qs:id":150006,
+        "qs_pg:id":150006,
         "wd:id":"Q1391630",
         "wk:page":"Sibat\u00e9"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421179445,
-    "wof:lastmodified":1563309518,
+    "wof:lastmodified":1566708049,
     "wof:name":"Sibat\u00e9",
     "wof:parent_id":421178291,
     "wof:placetype":"locality",

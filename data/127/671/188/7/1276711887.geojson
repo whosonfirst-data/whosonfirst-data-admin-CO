@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.27,3.88,-75.23,3.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pozos de la Texas",
         "Pozo de Texas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276711887,
-    "wof:lastmodified":1537618428,
+    "wof:lastmodified":1566706950,
     "wof:name":"Pozo de Texas",
     "wof:parent_id":1108701449,
     "wof:placetype":"locality",

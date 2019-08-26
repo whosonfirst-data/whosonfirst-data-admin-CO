@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.04062,11.07638,-73.00062,11.11638",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343921537,
-    "wof:lastmodified":1537073210,
+    "wof:lastmodified":1566706420,
     "wof:name":"Cascajalito",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

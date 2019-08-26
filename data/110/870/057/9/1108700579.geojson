@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.052764,
     "lbl:longitude":-75.290117,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"C\u00f3rdoba",
     "meso:gadm_admin":"Ayapel",
     "meso:gadm_hasc2":"CO.CO.AY",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.290117,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "La Apartada"
     ],
@@ -82,7 +85,7 @@
         "\u62c9\u963f\u5e15\u723e\u5854\u9054"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108700579,
-    "wof:lastmodified":1564293261,
+    "wof:lastmodified":1566707577,
     "wof:name":"La Apartada",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

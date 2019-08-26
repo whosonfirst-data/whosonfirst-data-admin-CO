@@ -10,8 +10,12 @@
     "geom:latitude":8.50633,
     "geom:longitude":-77.27784,
     "iso:country":"CO",
+    "lbl:bbox":"-77.29784,8.48633,-77.25784,8.52633",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Acand\u00ed"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Acand\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Acanti"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3690572,
         "gp:id":368445,
-        "qs:id":1342013,
+        "qs_pg:id":1342013,
         "wd:id":"Q1575935",
         "wk:page":"Acand\u00ed"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421182557,
-    "wof:lastmodified":1563309534,
+    "wof:lastmodified":1566708053,
     "wof:name":"Acand\u00ed",
     "wof:parent_id":421172119,
     "wof:placetype":"locality",

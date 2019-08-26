@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.93583,6.59972,-75.89583,6.63972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Llano"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1293591931,
-    "wof:lastmodified":1564289905,
+    "wof:lastmodified":1566706680,
     "wof:name":"El Llano",
     "wof:parent_id":1108699913,
     "wof:placetype":"locality",

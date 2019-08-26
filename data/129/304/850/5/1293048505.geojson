@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.47,9.88,-75.43,9.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Angola",
         "Sabanas de Angola"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293048505,
-    "wof:lastmodified":1537618409,
+    "wof:lastmodified":1566706693,
     "wof:name":"Sabanas de Angola",
     "wof:parent_id":1108700131,
     "wof:placetype":"locality",

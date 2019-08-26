@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.17565,10.67349,-74.13565,10.71349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guamanchito",
         "Guamachito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243010995,
-    "wof:lastmodified":1537618552,
+    "wof:lastmodified":1566708106,
     "wof:name":"Guamachito",
     "wof:parent_id":1108700923,
     "wof:placetype":"locality",

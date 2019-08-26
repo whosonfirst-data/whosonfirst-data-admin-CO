@@ -10,6 +10,9 @@
     "geom:latitude":5.08583,
     "geom:longitude":-75.78833,
     "iso:country":"CO",
+    "lbl:bbox":"-75.80833,5.06583,-75.76833,5.10583",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -185,7 +188,7 @@
     "wof:concordances":{
         "gn:id":3669623,
         "gp:id":365590,
-        "qs:id":1046194,
+        "qs_pg:id":1046194,
         "wd:id":"Q1574774",
         "wk:page":"San Jos\u00e9, Caldas"
     },
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421176367,
-    "wof:lastmodified":1563309575,
+    "wof:lastmodified":1566708059,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":1108700395,
     "wof:placetype":"locality",

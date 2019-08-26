@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.27351,11.22592,-72.23351,11.26592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310381485,
-    "wof:lastmodified":1537092671,
+    "wof:lastmodified":1566707655,
     "wof:name":"Anuariachom",
     "wof:parent_id":421170625,
     "wof:placetype":"locality",

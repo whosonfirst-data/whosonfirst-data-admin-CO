@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.82,7.94667,-74.78,7.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guamo",
         "Guamo de Zaragoza"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259891723,
-    "wof:lastmodified":1537618551,
+    "wof:lastmodified":1566708445,
     "wof:name":"Guamo de Zaragoza",
     "wof:parent_id":1108699957,
     "wof:placetype":"locality",

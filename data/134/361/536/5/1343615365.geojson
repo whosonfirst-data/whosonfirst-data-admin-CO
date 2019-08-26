@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.53667,4.66333,-74.49667,4.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Manzanares"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1343615365,
-    "wof:lastmodified":1564288921,
+    "wof:lastmodified":1566706414,
     "wof:name":"Manzanares",
     "wof:parent_id":1108700705,
     "wof:placetype":"locality",

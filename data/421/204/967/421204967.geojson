@@ -10,8 +10,12 @@
     "geom:latitude":2.52295,
     "geom:longitude":-75.31492,
     "iso:country":"CO",
+    "lbl:bbox":"-75.33492,2.50295,-75.29492,2.54295",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Algeciras"
@@ -62,7 +66,7 @@
     "name:tgl_x_preferred":[
         "Algeciras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juanito"
     ],
     "name:war_x_preferred":[
@@ -105,7 +109,7 @@
     "wof:concordances":{
         "gn:id":3690160,
         "gp:id":368254,
-        "qs:id":251720,
+        "qs_pg:id":251720,
         "wd:id":"Q1441055",
         "wk:page":"Algeciras, Huila"
     },
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421204967,
-    "wof:lastmodified":1563309034,
+    "wof:lastmodified":1566707948,
     "wof:name":"Algeciras",
     "wof:parent_id":1108700801,
     "wof:placetype":"locality",

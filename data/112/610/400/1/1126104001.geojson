@@ -9,16 +9,19 @@
     "geom:bbox":"-75.5,10.41667,-75.5,10.41667",
     "geom:latitude":10.41667,
     "geom:longitude":-75.5,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.41667,
     "gn:longitude":-75.5,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.505,10.41167,-75.495,10.42167",
     "lbl:latitude":10.41667,
     "lbl:longitude":-75.5,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0643\u064a\u0627\u0645\u0646"
@@ -129,10 +132,6 @@
     "name:ukr_x_preferred":[
         "Caimaninae"
     ],
-    "name:unk_x_variant":[
-        "Caim\u00e1n",
-        "Barrio Caiman"
-    ],
     "name:vie_x_preferred":[
         "Caimaninae"
     ],
@@ -157,7 +156,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":352019,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Bolivar",
@@ -172,7 +171,6 @@
     "wof:concordances":{
         "gn:id":3688066,
         "gp:id":352019,
-        "qs:id":238580,
         "qs_pg:id":238580,
         "wd:id":"Q478759"
     },
@@ -190,7 +188,7 @@
         }
     ],
     "wof:id":1126104001,
-    "wof:lastmodified":1563309714,
+    "wof:lastmodified":1566708079,
     "wof:name":"Caim\u00e1n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

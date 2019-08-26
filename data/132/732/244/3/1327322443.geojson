@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.83667,8.61333,-73.79667,8.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sagoc",
         "Puerto Sagoc"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327322443,
-    "wof:lastmodified":1537618418,
+    "wof:lastmodified":1566706177,
     "wof:name":"Puerto Sagoc",
     "wof:parent_id":1108700545,
     "wof:placetype":"locality",

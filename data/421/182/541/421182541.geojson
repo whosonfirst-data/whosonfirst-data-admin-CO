@@ -10,8 +10,12 @@
     "geom:latitude":5.24779,
     "geom:longitude":-73.85238,
     "iso:country":"CO",
+    "lbl:bbox":"-73.87238,5.22779,-73.83238,5.26779",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sumatansa"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3667649,
         "gp:id":367025,
-        "qs:id":1341860,
+        "qs_pg:id":1341860,
         "wd:id":"Q1654822",
         "wk:page":"Sutatausa"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421182541,
-    "wof:lastmodified":1563309549,
+    "wof:lastmodified":1566708056,
     "wof:name":"Sutatausa",
     "wof:parent_id":421184129,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.83047,
     "geom:longitude":-72.88419,
     "iso:country":"CO",
+    "lbl:bbox":"-72.90419,5.81047,-72.86419,5.85047",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Busbanz\u00e1"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3688214,
         "gp:id":351945,
-        "qs:id":288057,
+        "qs_pg:id":288057,
         "wd:id":"Q1654742",
         "wk:page":"Busbanz\u00e1"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421197497,
-    "wof:lastmodified":1563309340,
+    "wof:lastmodified":1566708013,
     "wof:name":"Busbanz\u00e1",
     "wof:parent_id":1108700201,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.636018,
     "lbl:longitude":-74.695369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Caldas",
     "meso:gadm_admin":"La Dorada",
     "meso:gadm_hasc2":"CO.CL.LD",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.695369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Dorada"
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"574",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"La Dorada",
@@ -155,7 +158,7 @@
         "gn:id":3679279,
         "gp:id":26796927,
         "hasc:id":"CO.CL.LD",
-        "qs:id":231616,
+        "qs_pg:id":231616,
         "wd:id":"Q2279516",
         "wk:page":"La Dorada, Caldas"
     },
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":421203437,
-    "wof:lastmodified":1563309054,
+    "wof:lastmodified":1566707951,
     "wof:name":"La Dorada",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

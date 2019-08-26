@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.31448,9.54129,-74.27448,9.58129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nds_x_preferred":[
         "Corozalito"
     ],
     "name:und_x_variant":[
-        "Hacienda Corozalito",
-        "Corozalito"
+        "Hacienda Corozalito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242912027,
-    "wof:lastmodified":1564295551,
+    "wof:lastmodified":1566708277,
     "wof:name":"Corozalito",
     "wof:parent_id":1108700911,
     "wof:placetype":"locality",

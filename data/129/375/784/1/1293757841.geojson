@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.52414,0.87842,-77.48414,0.91842",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293757841,
-    "wof:lastmodified":1536894230,
+    "wof:lastmodified":1566706787,
     "wof:name":"El Escritorio",
     "wof:parent_id":1108701055,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.039832,
     "lbl:longitude":-75.667616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Caldas",
     "meso:gadm_admin":"Palestina",
     "meso:gadm_hasc2":"CO.CL.PL",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.667616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Palestina"
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"118",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Palestina",
@@ -140,7 +143,7 @@
         "gn:id":3673276,
         "gp:id":26796935,
         "hasc:id":"CO.CL.PL",
-        "qs:id":1310412,
+        "qs_pg:id":1310412,
         "wd:id":"Q1524756",
         "wk:page":"Palestina, Caldas"
     },
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421172407,
-    "wof:lastmodified":1563309220,
+    "wof:lastmodified":1566707989,
     "wof:name":"Palestina",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

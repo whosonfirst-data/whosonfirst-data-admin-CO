@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.35972,8.36694,-73.31972,8.40694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Convenci\u00f3n"
     ],
@@ -54,9 +58,6 @@
         "Convenci\u00f3n"
     ],
     "name:tgl_x_preferred":[
-        "Convenci\u00f3n"
-    ],
-    "name:und_x_variant":[
         "Convenci\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1309975085,
-    "wof:lastmodified":1564294396,
+    "wof:lastmodified":1566707855,
     "wof:name":"Convencion",
     "wof:parent_id":421188685,
     "wof:placetype":"locality",

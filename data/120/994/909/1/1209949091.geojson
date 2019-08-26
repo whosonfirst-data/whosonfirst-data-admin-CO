@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.8463,11.02036,-74.8063,11.06036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Las Flores"
     ],
@@ -64,8 +68,7 @@
     ],
     "name:und_x_variant":[
         "Campamento Las Flores",
-        "Las Floras",
-        "Las Flores"
+        "Las Floras"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1209949091,
-    "wof:lastmodified":1564292005,
+    "wof:lastmodified":1566707175,
     "wof:name":"Las Flores",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

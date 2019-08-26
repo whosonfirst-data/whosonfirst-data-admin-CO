@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.16705,9.99796,-74.12705,10.03796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Horqueta"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327372429,
-    "wof:lastmodified":1564287338,
+    "wof:lastmodified":1566706055,
     "wof:name":"La Horqueta",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

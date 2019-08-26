@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.30226,5.98743,-73.26226,6.02743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Coruntujo",
         "Corontunjo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276728963,
-    "wof:lastmodified":1537618613,
+    "wof:lastmodified":1566706812,
     "wof:name":"Corontunjo",
     "wof:parent_id":1108701257,
     "wof:placetype":"locality",

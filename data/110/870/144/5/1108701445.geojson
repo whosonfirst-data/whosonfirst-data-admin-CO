@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.840344,
     "lbl:longitude":-75.206977,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"Murillo",
     "meso:gadm_hasc2":"CO.TO.MU",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.206977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Murillo"
     ],
@@ -70,7 +73,7 @@
         "\u7a46\u91cc\u6d1b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1108701445,
-    "wof:lastmodified":1563307448,
+    "wof:lastmodified":1566707508,
     "wof:name":"Murillo",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

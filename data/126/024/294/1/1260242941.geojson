@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.67833,3.53472,-75.63833,3.57472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260242941,
-    "wof:lastmodified":1536767387,
+    "wof:lastmodified":1566707342,
     "wof:name":"El Diamante",
     "wof:parent_id":1108701457,
     "wof:placetype":"locality",

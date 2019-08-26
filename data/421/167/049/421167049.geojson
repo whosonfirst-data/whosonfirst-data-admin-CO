@@ -10,8 +10,12 @@
     "geom:latitude":6.28046,
     "geom:longitude":-75.44354,
     "iso:country":"CO",
+    "lbl:bbox":"-75.46354,6.26046,-75.42354,6.30046",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Guarne"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3681429,
         "gp:id":356945,
-        "qs:id":279871,
+        "qs_pg:id":279871,
         "wd:id":"Q2088069"
     },
     "wof:country":"CO",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421167049,
-    "wof:lastmodified":1563308975,
+    "wof:lastmodified":1566707938,
     "wof:name":"Guarne",
     "wof:parent_id":421190187,
     "wof:placetype":"locality",

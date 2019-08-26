@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-69.86735,3.43639,-69.82735,3.47639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3793990
     },
     "wof:country":"CO",
-    "wof:geomhash":"5279c701a7f847630b5cb01d6a1e9112",
+    "wof:geomhash":"a9495388556dea99cd8d84728cc1357e",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209384995,
-    "wof:lastmodified":1536288655,
+    "wof:lastmodified":1566707034,
     "wof:name":"El Cesar",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -69.84735,
-    3.4563900000000003,
+    3.45639,
     -69.84735,
-    3.4563900000000003
+    3.45639
 ],
   "geometry": {"coordinates":[-69.84735000000001,3.45639],"type":"Point"}
 }

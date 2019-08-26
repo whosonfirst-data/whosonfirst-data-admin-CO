@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.02778,6.87139,-75.98778,6.91139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Las Cruces"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1226050995,
-    "wof:lastmodified":1564296712,
+    "wof:lastmodified":1566708540,
     "wof:name":"Las Cruces",
     "wof:parent_id":1108699941,
     "wof:placetype":"locality",

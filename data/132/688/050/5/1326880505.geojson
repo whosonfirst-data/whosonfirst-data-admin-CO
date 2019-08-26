@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.15111,3.92417,-76.11111,3.96417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Esmeraldas"
     ],
@@ -79,8 +83,7 @@
         "Esmeraldas"
     ],
     "name:und_x_variant":[
-        "La Esmeralda",
-        "Esmeraldas"
+        "La Esmeralda"
     ],
     "name:vie_x_preferred":[
         "Esmeraldas"
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1326880505,
-    "wof:lastmodified":1564287457,
+    "wof:lastmodified":1566706083,
     "wof:name":"Esmeraldas",
     "wof:parent_id":421184143,
     "wof:placetype":"locality",

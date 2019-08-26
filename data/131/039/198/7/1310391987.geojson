@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.85763,8.72295,-75.81763,8.76295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:por_x_preferred":[
         "Los Pericos"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "La Perica",
-        "Perico",
-        "Los Pericos"
+        "Perico"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310391987,
-    "wof:lastmodified":1564293661,
+    "wof:lastmodified":1566707690,
     "wof:name":"Los Pericos",
     "wof:parent_id":421172417,
     "wof:placetype":"locality",

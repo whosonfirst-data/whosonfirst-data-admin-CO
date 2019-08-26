@@ -10,8 +10,12 @@
     "geom:latitude":5.11705,
     "geom:longitude":-75.01732,
     "iso:country":"CO",
+    "lbl:bbox":"-75.03732,5.09705,-74.99732,5.13705",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Palocabildo"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3673126,
         "gp:id":363365,
-        "qs:id":1046255,
+        "qs_pg:id":1046255,
         "wd:id":"Q1575427",
         "wk:page":"Palocabildo"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421168253,
-    "wof:lastmodified":1563308908,
+    "wof:lastmodified":1566707925,
     "wof:name":"Palocabildo",
     "wof:parent_id":1108701451,
     "wof:placetype":"locality",

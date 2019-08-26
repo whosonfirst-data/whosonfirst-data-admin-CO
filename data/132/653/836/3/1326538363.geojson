@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.63506,6.26635,-75.59506,6.30635",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0420\u0438\u043e-\u0434\u0435-\u0416\u0430\u043d\u0435\u0438\u0440\u043e"
     ],
@@ -325,7 +329,7 @@
         }
     ],
     "wof:id":1326538363,
-    "wof:lastmodified":1564288172,
+    "wof:lastmodified":1566706247,
     "wof:name":"Rio de Janeiro",
     "wof:parent_id":421205069,
     "wof:placetype":"locality",

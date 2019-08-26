@@ -10,8 +10,12 @@
     "geom:latitude":5.37073,
     "geom:longitude":-76.6044,
     "iso:country":"CO",
+    "lbl:bbox":"-76.6244,5.35073,-76.5844,5.39073",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "C\u00e9rtegui"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "C\u00e9rtegui"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Certigui"
     ],
     "name:war_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3686883,
         "gp:id":352821,
-        "qs:id":1206192,
+        "qs_pg:id":1206192,
         "wd:id":"Q610657",
         "wk:page":"C\u00e9rtegui"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421193119,
-    "wof:lastmodified":1563308960,
+    "wof:lastmodified":1566707936,
     "wof:name":"C\u00e9rtegui",
     "wof:parent_id":1108700759,
     "wof:placetype":"locality",

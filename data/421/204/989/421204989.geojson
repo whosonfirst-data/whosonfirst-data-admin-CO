@@ -10,8 +10,12 @@
     "geom:latitude":6.33369,
     "geom:longitude":-72.68283,
     "iso:country":"CO",
+    "lbl:bbox":"-72.70283,6.31369,-72.66283,6.35369",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Soat\u00e1"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3667901,
         "gp:id":368415,
-        "qs:id":251740,
+        "qs_pg:id":251740,
         "wd:id":"Q1577643"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421204989,
-    "wof:lastmodified":1563309043,
+    "wof:lastmodified":1566707949,
     "wof:name":"Soat\u00e1",
     "wof:parent_id":1108700335,
     "wof:placetype":"locality",

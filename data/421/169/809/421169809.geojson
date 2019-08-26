@@ -10,8 +10,12 @@
     "geom:latitude":10.44589,
     "geom:longitude":-74.95869,
     "iso:country":"CO",
+    "lbl:bbox":"-74.97869,10.42589,-74.93869,10.46589",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Manat\u00ed"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3675512,
         "gp:id":368339,
-        "qs:id":251724,
+        "qs_pg:id":251724,
         "wd:id":"Q2432352"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421169809,
-    "wof:lastmodified":1563309004,
+    "wof:lastmodified":1566707944,
     "wof:name":"Manat\u00ed",
     "wof:parent_id":1108700063,
     "wof:placetype":"locality",

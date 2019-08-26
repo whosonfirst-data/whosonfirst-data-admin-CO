@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1100062.573603,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.565566,6.270918,-75.565566,6.270918",
     "geom:latitude":6.270918,
     "geom:longitude":-75.565566,
     "iso:country":"CO",
+    "lbl:bbox":"-75.570566,6.265918,-75.560566,6.275918",
     "lbl:latitude":6.270918,
     "lbl:longitude":-75.565566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.275379,
     "mps:longitude":-75.567184,
     "mz:hierarchy_label":0,
@@ -27,9 +29,6 @@
         "Perez Triana"
     ],
     "name:spa_x_preferred":[
-        "P\u00e9rez Triana"
-    ],
-    "name:unk_x_variant":[
         "P\u00e9rez Triana"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -58,12 +57,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +84,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858947,
+    "wof:lastmodified":1566706529,
     "wof:name":"P\u00e9rez Triana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

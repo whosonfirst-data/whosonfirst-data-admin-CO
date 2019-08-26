@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1548422.801265,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.517497,3.450787,-76.517497,3.450787",
     "geom:latitude":3.450787,
     "geom:longitude":-76.517497,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":3.45426,
     "gn:longitude":-76.47035,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-76.522497,3.445787,-76.512497,3.455787",
     "lbl:latitude":3.450787,
     "lbl:longitude":-76.517497,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.453502,
     "mps:longitude":-76.520519,
     "mz:hierarchy_label":0,
@@ -39,9 +41,6 @@
     "name:spa_x_variant":[
         "Sta. Luc\u00eda",
         "Sta Luc\u00eda"
-    ],
-    "name:unk_x_variant":[
-        "Santa Luc\u00eda"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -91,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670203,
         102191577,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":3668654,
         "gp:id":366438,
-        "qs:id":238587,
         "qs_pg:id":238587
     },
     "wof:country":"CO",
@@ -121,7 +119,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1566706530,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

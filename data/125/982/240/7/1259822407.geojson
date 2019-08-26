@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.53794,5.53316,-75.49794,5.57316",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u064a\u062a\u0627"
     ],
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":1259822407,
-    "wof:lastmodified":1564296077,
+    "wof:lastmodified":1566708393,
     "wof:name":"Arrieta",
     "wof:parent_id":1108700393,
     "wof:placetype":"locality",

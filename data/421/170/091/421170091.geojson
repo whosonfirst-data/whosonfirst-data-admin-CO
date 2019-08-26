@@ -10,8 +10,12 @@
     "geom:latitude":4.153395,
     "geom:longitude":-73.642902,
     "iso:country":"CO",
+    "lbl:bbox":"-73.662902,4.133395,-73.622902,4.173395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0641\u064a\u0633\u0646\u0633\u064a\u0648"
@@ -209,7 +213,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":368174,
-        "qs:id":215695,
+        "qs_pg:id":215695,
         "wd:id":"Q749224"
     },
     "wof:country":"CO",
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":421170091,
-    "wof:lastmodified":1563309441,
+    "wof:lastmodified":1566708034,
     "wof:name":"Villavicencio",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

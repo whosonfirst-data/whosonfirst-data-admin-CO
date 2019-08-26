@@ -11,10 +11,14 @@
     "geom:longitude":-74.62083,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":1117,
+    "gn:population":1117,
     "iso:country":"CO",
+    "lbl:bbox":"-74.64083,4.28604,-74.60083,4.32604",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nilo"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3673849,
         "gp:id":362935,
-        "qs:id":150079,
+        "qs_pg:id":150079,
         "wd:id":"Q1524825",
         "wk:page":"Nilo"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890430853,
-    "wof:lastmodified":1563309643,
+    "wof:lastmodified":1566708070,
     "wof:name":"Nilo",
     "wof:parent_id":1108700689,
     "wof:placetype":"locality",

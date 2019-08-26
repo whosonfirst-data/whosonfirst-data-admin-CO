@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.15395,9.89115,-74.11395,9.93115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Gardenia"
     ],
@@ -144,8 +148,7 @@
         "\u0413\u0430\u0440\u0434\u0435\u043d\u0456\u044f"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Gardenia",
-        "Gardenia"
+        "Caser\u00edo Gardenia"
     ],
     "name:uzb_x_preferred":[
         "Gardeniya"
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1276282111,
-    "wof:lastmodified":1564290508,
+    "wof:lastmodified":1566706822,
     "wof:name":"Gardenia",
     "wof:parent_id":1108700875,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.18766,10.59284,-74.14766,10.63284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0442\u0440\u043e\u043b"
     ],
@@ -102,8 +106,7 @@
         "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "Hacienda Control",
-        "Control"
+        "Hacienda Control"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1310056907,
-    "wof:lastmodified":1564293968,
+    "wof:lastmodified":1566707760,
     "wof:name":"Control",
     "wof:parent_id":1108700873,
     "wof:placetype":"locality",

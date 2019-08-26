@@ -10,8 +10,12 @@
     "geom:latitude":8.04139,
     "geom:longitude":-72.44389,
     "iso:country":"CO",
+    "lbl:bbox":"-72.46389,8.02139,-72.42389,8.06139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Palmira"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3757446,
         "gp:id":468543,
-        "qs:id":228690,
+        "qs_pg:id":228690,
         "wd:id":"Q2937176"
     },
     "wof:country":"CO",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421202953,
-    "wof:lastmodified":1561759449,
+    "wof:lastmodified":1566707956,
     "wof:name":"Palmira",
     "wof:parent_id":1108701087,
     "wof:placetype":"locality",

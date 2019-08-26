@@ -9,14 +9,16 @@
     "geom:bbox":"-75.538849,6.248836,-75.538849,6.248836",
     "geom:latitude":6.248836,
     "geom:longitude":-75.538849,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.25,
     "gn:longitude":-75.55,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.543849,6.243836,-75.533849,6.253836",
     "lbl:latitude":6.248836,
     "lbl:longitude":-75.538849,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.251655,
     "mps:longitude":-75.53542,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Limoncito"
     ],
     "name:spa_x_preferred":[
-        "Limoncito"
-    ],
-    "name:unk_x_variant":[
         "Limoncito"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -101,7 +100,6 @@
     "wof:concordances":{
         "gn:id":3676560,
         "gp:id":361201,
-        "qs:id":475101,
         "qs_pg:id":475101
     },
     "wof:country":"CO",
@@ -120,7 +118,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289404,
+    "wof:lastmodified":1566706529,
     "wof:name":"Limoncito",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

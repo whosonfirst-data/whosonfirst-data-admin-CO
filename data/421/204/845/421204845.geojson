@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.746565,
     "lbl:longitude":-76.179329,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Ginebra",
     "meso:gadm_hasc2":"CO.VC.GI",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.179329,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ginebra"
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"463",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Ginebra",
@@ -131,7 +134,7 @@
         "gn:id":3682040,
         "gp:id":26797583,
         "hasc:id":"CO.VC.GI",
-        "qs:id":249579,
+        "qs_pg:id":249579,
         "wd:id":"Q1525670",
         "wk:page":"Ginebra, Valle del Cauca"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421204845,
-    "wof:lastmodified":1563309021,
+    "wof:lastmodified":1566707946,
     "wof:name":"Ginebra",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

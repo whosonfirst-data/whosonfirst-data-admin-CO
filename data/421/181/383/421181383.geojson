@@ -10,8 +10,12 @@
     "geom:latitude":4.91857,
     "geom:longitude":-74.02799,
     "iso:country":"CO",
+    "lbl:bbox":"-74.04799,4.89857,-74.00799,4.93857",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cajic\u00e1"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3688006,
         "gp:id":368471,
-        "qs:id":489560,
+        "qs_pg:id":489560,
         "wd:id":"Q1093182"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421181383,
-    "wof:lastmodified":1563309263,
+    "wof:lastmodified":1566707997,
     "wof:name":"Cajic\u00e1",
     "wof:parent_id":421188655,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.20528,7.35694,-73.16528,7.39694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3732221
     },
     "wof:country":"CO",
-    "wof:geomhash":"7044e545bd4520ec1fdaf50c0798dee0",
+    "wof:geomhash":"57beac8d3b9d1d51a4ab2d93d8101b3d",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209369413,
-    "wof:lastmodified":1536289159,
+    "wof:lastmodified":1566707030,
     "wof:name":"Puerto Arturo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -73.18528,
-    7.3769399999999985,
+    7.37694,
     -73.18528,
-    7.3769399999999985
+    7.37694
 ],
   "geometry": {"coordinates":[-73.18528000000001,7.37694],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":1.19374,
     "geom:longitude":-77.26661,
     "iso:country":"CO",
+    "lbl:bbox":"-77.28661,1.17374,-77.24661,1.21374",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerres"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3671576,
         "gp:id":364300,
-        "qs:id":288201,
+        "qs_pg:id":288201,
         "wd:id":"Q948935"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421173429,
-    "wof:lastmodified":1563309177,
+    "wof:lastmodified":1566707978,
     "wof:name":"Puerres",
     "wof:parent_id":421179665,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":8.04335,
     "geom:longitude":-77.09453,
     "iso:country":"CO",
+    "lbl:bbox":"-77.11453,8.02335,-77.07453,8.06335",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ungu\u00eda"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Ungu\u00eda"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arquia"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3666475,
         "gp:id":369511,
-        "qs:id":50327,
+        "qs_pg:id":50327,
         "wd:id":"Q1525509",
         "wk:page":"Ungu\u00eda"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421197229,
-    "wof:lastmodified":1563309340,
+    "wof:lastmodified":1566708013,
     "wof:name":"Ungu\u00eda",
     "wof:parent_id":421201681,
     "wof:placetype":"locality",

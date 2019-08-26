@@ -10,8 +10,12 @@
     "geom:latitude":9.0181,
     "geom:longitude":-76.26413,
     "iso:country":"CO",
+    "lbl:bbox":"-76.28413,8.9981,-76.24413,9.0381",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Escondido"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Puerto Escondido"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Escondito"
     ],
     "name:vie_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":3671470,
         "gp:id":368367,
-        "qs:id":150066,
+        "qs_pg:id":150066,
         "wd:id":"Q1441033"
     },
     "wof:country":"CO",
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421172303,
-    "wof:lastmodified":1563309225,
+    "wof:lastmodified":1566707990,
     "wof:name":"Puerto Escondido",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

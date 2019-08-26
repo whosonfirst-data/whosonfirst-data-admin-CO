@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.785932,
     "lbl:longitude":-74.924747,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sucre",
     "mps:latitude":8.789883,
     "mps:longitude":-74.962534,
@@ -141,7 +142,7 @@
         "Sukr\u0117s departamentas"
     ],
     "name:mar_x_preferred":[
-        "\u0938\u0941\u0915\u094d\u0930\u0947  \u0935\u093f\u092d\u093e\u0917"
+        "\u0938\u0941\u0915\u094d\u0930\u0947 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Sucre"
@@ -211,9 +212,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Sucre"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u06a9\u0631\u06d2 \u0645\u062d\u06a9\u0645\u06c1"
@@ -302,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"10,917",
     "statoids:area_mi":"4,215",
     "statoids:as_of_date":"2005-05-22",
@@ -329,7 +327,7 @@
         "gp:id":2345072,
         "hasc:id":"CO.SU",
         "iso:id":"CO-SUC",
-        "qs:id":890044,
+        "qs_pg:id":890044,
         "unlc:id":"CO-SUC",
         "wd:id":"Q235188",
         "wk:page":"Sucre Department"
@@ -350,11 +348,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670388,
+    "wof:lastmodified":1566706554,
     "wof:name":"Sucre",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":762263,
     "wof:population_rank":11,

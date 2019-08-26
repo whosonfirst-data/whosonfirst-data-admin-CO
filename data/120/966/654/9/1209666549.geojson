@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.22,10.04667,-74.18,10.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Atrato"
     ],
@@ -58,8 +62,7 @@
         "Atrato"
     ],
     "name:und_x_variant":[
-        "Hacienda Atrato",
-        "Atrato"
+        "Hacienda Atrato"
     ],
     "name:vie_x_preferred":[
         "Atrato"
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1209666549,
-    "wof:lastmodified":1564291897,
+    "wof:lastmodified":1566707152,
     "wof:name":"Atrato",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":6.81148,
     "geom:longitude":-72.84929,
     "iso:country":"CO",
+    "lbl:bbox":"-72.86929,6.79148,-72.82929,6.83148",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Andr\u00e9s"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3670224,
         "gp:id":368384,
-        "qs:id":924799,
+        "qs_pg:id":924799,
         "wd:id":"Q964241",
         "wk:page":"San Andr\u00e9s, Santander"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421182625,
-    "wof:lastmodified":1563309545,
+    "wof:lastmodified":1566708055,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":1108701331,
     "wof:placetype":"locality",

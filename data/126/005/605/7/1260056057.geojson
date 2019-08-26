@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.55683,11.18078,-72.51683,11.22078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Vega"
     ],
@@ -63,8 +67,7 @@
         "La Vega"
     ],
     "name:und_x_variant":[
-        "La Vaga",
-        "La Vega"
+        "La Vaga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1260056057,
-    "wof:lastmodified":1564293115,
+    "wof:lastmodified":1566707425,
     "wof:name":"La Vega",
     "wof:parent_id":1108700853,
     "wof:placetype":"locality",

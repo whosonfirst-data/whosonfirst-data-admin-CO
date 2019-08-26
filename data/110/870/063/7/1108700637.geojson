@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.360284,
     "lbl:longitude":-73.92731,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Carmen de Carupa",
     "meso:gadm_hasc2":"CO.CU.CC",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.92731,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Carmen De Carupa"
     ],
@@ -74,9 +77,9 @@
         "\u5361\u9580\u5fb7\u5361\u9b6f\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Carmen de Carupa",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108700637,
-    "wof:lastmodified":1561759342,
+    "wof:lastmodified":1566707494,
     "wof:name":"Carmen De Carupa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

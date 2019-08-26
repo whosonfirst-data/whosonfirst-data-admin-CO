@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.17,3.91333,-76.13,3.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pocitos"
     ],
@@ -46,8 +50,7 @@
         "Pocitos"
     ],
     "name:und_x_variant":[
-        "Positos",
-        "Pocitos"
+        "Positos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1277126915,
-    "wof:lastmodified":1564290929,
+    "wof:lastmodified":1566706921,
     "wof:name":"Pocitos",
     "wof:parent_id":421184143,
     "wof:placetype":"locality",

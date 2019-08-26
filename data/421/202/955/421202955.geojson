@@ -10,8 +10,12 @@
     "geom:latitude":6.02505,
     "geom:longitude":-73.57313,
     "iso:country":"CO",
+    "lbl:bbox":"-73.59313,6.00505,-73.55313,6.04505",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "G\u00fcepsa"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3681234,
         "gp:id":357064,
-        "qs:id":53265,
+        "qs_pg:id":53265,
         "wd:id":"Q1560045",
         "wk:page":"G\u00fcepsa"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421202955,
-    "wof:lastmodified":1563309067,
+    "wof:lastmodified":1566707956,
     "wof:name":"G\u00fcepsa",
     "wof:parent_id":1108701271,
     "wof:placetype":"locality",

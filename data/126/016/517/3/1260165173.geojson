@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.33917,2.49951,-76.29917,2.53951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":1260165173,
-    "wof:lastmodified":1564292972,
+    "wof:lastmodified":1566707391,
     "wof:name":"San Pedro",
     "wof:parent_id":1108700521,
     "wof:placetype":"locality",

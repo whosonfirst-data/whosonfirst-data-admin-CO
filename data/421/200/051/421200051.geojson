@@ -10,8 +10,12 @@
     "geom:latitude":7.20524,
     "geom:longitude":-72.75639,
     "iso:country":"CO",
+    "lbl:bbox":"-72.77639,7.18524,-72.73639,7.22524",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Silos"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3668033,
         "gp:id":369612,
-        "qs:id":1263557,
+        "qs_pg:id":1263557,
         "wd:id":"Q1655140",
         "wk:page":"Silos, Norte de Santander"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421200051,
-    "wof:lastmodified":1561759476,
+    "wof:lastmodified":1566708019,
     "wof:name":"Silos",
     "wof:parent_id":1108701149,
     "wof:placetype":"locality",

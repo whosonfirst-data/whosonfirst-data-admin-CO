@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.25317,4.24138,-74.21317,4.28138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Corrales"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1193205287,
-    "wof:lastmodified":1564292637,
+    "wof:lastmodified":1566707317,
     "wof:name":"Corrales",
     "wof:parent_id":421205089,
     "wof:placetype":"locality",

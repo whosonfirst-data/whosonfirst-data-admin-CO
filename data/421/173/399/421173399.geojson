@@ -10,8 +10,12 @@
     "geom:latitude":8.81229,
     "geom:longitude":-75.41066,
     "iso:country":"CO",
+    "lbl:bbox":"-75.43066,8.79229,-75.39066,8.83229",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Caimito"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3688030,
         "gp:id":352034,
-        "qs:id":288064,
+        "qs_pg:id":288064,
         "wd:id":"Q738108"
     },
     "wof:country":"CO",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421173399,
-    "wof:lastmodified":1563309153,
+    "wof:lastmodified":1566707975,
     "wof:name":"Caimito",
     "wof:parent_id":1108700599,
     "wof:placetype":"locality",

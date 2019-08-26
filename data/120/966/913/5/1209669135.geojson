@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.4975,5.72361,-74.4575,5.76361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3775484
     },
     "wof:country":"CO",
-    "wof:geomhash":"80d93857157ba746956eb6746f0d2256",
+    "wof:geomhash":"02abc8337ebb6866530c1730b41d379e",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209669135,
-    "wof:lastmodified":1536279988,
+    "wof:lastmodified":1566707150,
     "wof:name":"Villa Tranquile",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -74.4775,
-    5.7436099999999985,
+    5.74361,
     -74.4775,
-    5.7436099999999985
+    5.74361
 ],
   "geometry": {"coordinates":[-74.47750000000001,5.74361],"type":"Point"}
 }

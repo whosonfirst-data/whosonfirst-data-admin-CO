@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.71944,4.9625,-75.67944,5.0025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Represa",
         "El Tr\u00e9bol"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293540963,
-    "wof:lastmodified":1537618565,
+    "wof:lastmodified":1566706583,
     "wof:name":"El Trebol",
     "wof:parent_id":421188639,
     "wof:placetype":"locality",

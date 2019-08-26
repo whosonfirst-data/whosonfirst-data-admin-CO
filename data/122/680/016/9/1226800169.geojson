@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.66694,3.40694,-75.62694,3.44694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u62c9\u7c73\u862d\u9054\u5c71"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226800169,
-    "wof:lastmodified":1564296577,
+    "wof:lastmodified":1566708513,
     "wof:name":"La Miranda",
     "wof:parent_id":1108701429,
     "wof:placetype":"locality",

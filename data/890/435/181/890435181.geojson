@@ -11,10 +11,14 @@
     "geom:longitude":-72.24321,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":130348,
+    "gn:population":130348,
     "iso:country":"CO",
+    "lbl:bbox":"-72.26321,11.36321,-72.22321,11.40321",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u064a\u0643\u0627\u0648"
     ],
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3675657,
         "gp:id":12523627,
-        "qs:id":150099,
+        "qs_pg:id":150099,
         "wd:id":"Q1937427",
         "wk:page":"Maicao"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890435181,
-    "wof:lastmodified":1563309704,
+    "wof:lastmodified":1566708078,
     "wof:name":"Maicao",
     "wof:parent_id":421170625,
     "wof:placetype":"locality",

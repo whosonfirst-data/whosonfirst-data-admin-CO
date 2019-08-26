@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.3961,4.28709,-76.3561,4.32709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dos Quebradas"
     ],
@@ -78,9 +82,7 @@
         "Dosquebradas"
     ],
     "name:und_x_variant":[
-        "Pueblo Nuevo",
-        "Dos Quebradas",
-        "Dosquebradas"
+        "Pueblo Nuevo"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0633\u06a9\u06d2\u0628\u0631\u0627\u062f\u0627\u0633"
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1243132807,
-    "wof:lastmodified":1564295207,
+    "wof:lastmodified":1566708191,
     "wof:name":"Dosquebradas",
     "wof:parent_id":1108701503,
     "wof:placetype":"locality",

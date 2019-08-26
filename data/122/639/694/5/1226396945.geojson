@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.24436,6.21264,-73.20436,6.25264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Platanillo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226396945,
-    "wof:lastmodified":1564297280,
+    "wof:lastmodified":1566708673,
     "wof:name":"Platanillo",
     "wof:parent_id":1108701305,
     "wof:placetype":"locality",

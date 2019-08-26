@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.33429,1.19151,-75.29429,1.23151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Mateguadua"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260278065,
-    "wof:lastmodified":1537618706,
+    "wof:lastmodified":1566707387,
     "wof:name":"Mateguadua",
     "wof:parent_id":1108700413,
     "wof:placetype":"locality",

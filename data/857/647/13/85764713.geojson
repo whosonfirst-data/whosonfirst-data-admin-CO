@@ -12,8 +12,10 @@
     "gn:latitude":6.23539,
     "gn:longitude":-75.67577,
     "iso:country":"CO",
+    "lbl:bbox":"-75.55624,6.264077,-75.54624,6.274077",
     "lbl:latitude":6.269077,
     "lbl:longitude":-75.55124,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.280383,
     "mps:longitude":-75.528777,
     "mz:hierarchy_label":0,
@@ -43,9 +45,6 @@
     "name:swe_x_preferred":[
         "Las Nieves"
     ],
-    "name:unk_x_variant":[
-        "Las Nieves"
-    ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":3674962,
@@ -73,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -84,7 +83,7 @@
     "wof:concordances":{
         "gn:id":8336648,
         "gp:id":360945,
-        "qs:id":1165285
+        "qs_pg:id":1165285
     },
     "wof:country":"CO",
     "wof:geomhash":"c956c84ad6566376c3617c1562699c0b",
@@ -102,7 +101,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289410,
+    "wof:lastmodified":1566706530,
     "wof:name":"Las Nieves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

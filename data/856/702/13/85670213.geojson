@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.882069,
     "lbl:longitude":-73.42306,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Cesar",
     "mps:latitude":9.939203,
     "mps:longitude":-73.430962,
@@ -192,7 +193,7 @@
         "Cesar"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc0\u0b9a\u0bb0\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b9a\u0bc0\u0b9a\u0bb0\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c40\u0c38\u0c30\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -214,9 +215,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0441\u0430\u0440"
-    ],
-    "name:unk_x_variant":[
-        "Departamento del Cesar"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0632\u0627\u0631 \u0645\u062d\u06a9\u0645\u06c1"
@@ -305,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"22,905",
     "statoids:area_mi":"8,844",
     "statoids:as_of_date":"2005-05-22",
@@ -332,7 +330,7 @@
         "gp:id":2345056,
         "hasc:id":"CO.CE",
         "iso:id":"CO-CES",
-        "qs:id":423641,
+        "qs_pg:id":423641,
         "unlc:id":"CO-CES",
         "wd:id":"Q234916",
         "wk:page":"Cesar Department"
@@ -353,11 +351,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670397,
+    "wof:lastmodified":1566706566,
     "wof:name":"Cesar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":878437,
     "wof:population_rank":11,

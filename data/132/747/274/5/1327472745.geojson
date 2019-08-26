@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.99204,5.33569,-74.95204,5.37569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Miel"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327472745,
-    "wof:lastmodified":1564287750,
+    "wof:lastmodified":1566706153,
     "wof:name":"La Miel",
     "wof:parent_id":421188653,
     "wof:placetype":"locality",

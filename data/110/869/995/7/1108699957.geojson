@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.725565,
     "lbl:longitude":-74.643474,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"El Bagre",
     "meso:gadm_hasc2":"CO.AN.EB",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.643474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "El Bagre"
     ],
@@ -106,7 +109,7 @@
         "\u57c3\u723e\u5df4\u683c\u840a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108699957,
-    "wof:lastmodified":1563307246,
+    "wof:lastmodified":1566707436,
     "wof:name":"El Bagre",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

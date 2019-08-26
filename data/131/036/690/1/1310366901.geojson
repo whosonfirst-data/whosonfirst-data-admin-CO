@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.43968,9.59708,-75.39968,9.63708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Ca\u00f1ito",
         "El Ca\u00f1ito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310366901,
-    "wof:lastmodified":1537618601,
+    "wof:lastmodified":1566707668,
     "wof:name":"El Canito",
     "wof:parent_id":1108701421,
     "wof:placetype":"locality",

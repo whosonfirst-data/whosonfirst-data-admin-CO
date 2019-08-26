@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.713703,
     "lbl:longitude":-73.830608,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Meta",
     "meso:gadm_admin":"San Luis de Cubarral",
     "meso:gadm_hasc2":"CO.ME.CB",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.830608,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
@@ -191,7 +194,7 @@
         "\u9ec3\u91d1\u570b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1108700933,
-    "wof:lastmodified":1564293271,
+    "wof:lastmodified":1566707584,
     "wof:name":"El Dorado",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

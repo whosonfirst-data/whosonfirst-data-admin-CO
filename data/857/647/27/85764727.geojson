@@ -9,14 +9,16 @@
     "geom:bbox":"-75.58902,6.254086,-75.58902,6.254086",
     "geom:latitude":6.254086,
     "geom:longitude":-75.58902,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.25203,
     "gn:longitude":-75.58236,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.59402,6.249086,-75.58402,6.259086",
     "lbl:latitude":6.254086,
     "lbl:longitude":-75.58902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.251693,
     "mps:longitude":-75.592238,
     "mz:hierarchy_label":0,
@@ -77,9 +79,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0437\u0432\u043e\u043b\u0438\u0442\u0435\u043b\u0456"
     ],
-    "name:unk_x_variant":[
-        "Libertadores"
-    ],
     "name:war_x_preferred":[
         "Libertadores"
     ],
@@ -133,7 +132,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":390,
     "wof:belongsto":[
         85670129,
@@ -145,7 +144,6 @@
     "wof:concordances":{
         "gn:id":3676594,
         "gp:id":361187,
-        "qs:id":1082710,
         "qs_pg:id":1082710,
         "wd:id":"Q1377288"
     },
@@ -165,7 +163,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1563303806,
+    "wof:lastmodified":1566706529,
     "wof:name":"Libertadores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

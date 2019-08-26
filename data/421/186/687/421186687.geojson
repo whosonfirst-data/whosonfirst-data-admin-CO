@@ -11,13 +11,16 @@
     "geom:longitude":-74.181741,
     "gn:country":"CO",
     "gn:fcode":"PPLC",
-    "gn:pop":7102602,
+    "gn:population":7102602,
     "iso:country":"CO",
     "lbl:latitude":4.635456,
     "lbl:longitude":-74.08768,
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Bogota"
@@ -664,13 +667,13 @@
     "wof:concordances":{
         "gn:id":3688689,
         "gp:id":368148,
-        "qs:id":1075499,
+        "qs_pg:id":1075499,
         "wd:id":"Q2841",
         "wk:page":"Bogot\u00e1"
     },
     "wof:concordances_alt":{
         "gp:id":56125958,
-        "qs:id":1046404
+        "qs_pg:id":1046404
     },
     "wof:country":"CO",
     "wof:created":1459009488,
@@ -685,7 +688,7 @@
         }
     ],
     "wof:id":421186687,
-    "wof:lastmodified":1563309242,
+    "wof:lastmodified":1566707993,
     "wof:name":"Bogot\u00e1",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

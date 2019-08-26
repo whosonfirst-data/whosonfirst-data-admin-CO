@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.50333,6.11333,-73.46333,6.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mutiscua"
     ],
@@ -58,8 +62,7 @@
         "Mutiscua"
     ],
     "name:und_x_variant":[
-        "Mutisgua",
-        "Mutiscua"
+        "Mutisgua"
     ],
     "name:vie_x_preferred":[
         "Mutiscua"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1259538139,
-    "wof:lastmodified":1564295811,
+    "wof:lastmodified":1566708331,
     "wof:name":"Mutiscua",
     "wof:parent_id":1108701357,
     "wof:placetype":"locality",

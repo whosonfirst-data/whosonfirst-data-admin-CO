@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.33445,10.43524,-74.29445,10.47524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Modelo"
     ],
@@ -60,8 +64,7 @@
         "Modelo"
     ],
     "name:und_x_variant":[
-        "La Modelo",
-        "Modelo"
+        "La Modelo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1259734647,
-    "wof:lastmodified":1564296250,
+    "wof:lastmodified":1566708436,
     "wof:name":"Modelo",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",

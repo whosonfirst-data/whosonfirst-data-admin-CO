@@ -10,8 +10,12 @@
     "geom:latitude":5.43056,
     "geom:longitude":-71.63111,
     "iso:country":"CO",
+    "lbl:bbox":"-71.65111,5.41056,-71.61111,5.45056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Trinidad"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "Trinidad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Parroquia"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3666719,
         "gp:id":369505,
-        "qs:id":1046165,
+        "qs_pg:id":1046165,
         "wd:id":"Q1575575"
     },
     "wof:country":"CO",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421194297,
-    "wof:lastmodified":1563308948,
+    "wof:lastmodified":1566707934,
     "wof:name":"Trinidad",
     "wof:parent_id":1108701555,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":4.9825,
     "geom:longitude":-75.60361,
     "iso:country":"CO",
+    "lbl:bbox":"-75.62361,4.9625,-75.58361,5.0025",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Chinchin\u00e1"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3686561,
         "gp:id":368191,
-        "qs:id":489513,
+        "qs_pg:id":489513,
         "wd:id":"Q1073678"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421173091,
-    "wof:lastmodified":1563309164,
+    "wof:lastmodified":1566707976,
     "wof:name":"Chinchin\u00e1",
     "wof:parent_id":421188639,
     "wof:placetype":"locality",

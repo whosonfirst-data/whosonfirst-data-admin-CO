@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.80333,10.38,-74.76333,10.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palot\u00f3n Dentro",
         "Palotal de Adentro"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226294081,
-    "wof:lastmodified":1537618441,
+    "wof:lastmodified":1566708527,
     "wof:name":"Palotal de Adentro",
     "wof:parent_id":1108700885,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.87081,9.31722,-75.83081,9.35722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Soledad",
         "Puerto de Soledad"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310382329,
-    "wof:lastmodified":1537618422,
+    "wof:lastmodified":1566707654,
     "wof:name":"Puerto de Soledad",
     "wof:parent_id":421202521,
     "wof:placetype":"locality",

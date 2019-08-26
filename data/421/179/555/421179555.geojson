@@ -10,8 +10,12 @@
     "geom:latitude":5.41164,
     "geom:longitude":-76.4152,
     "iso:country":"CO",
+    "lbl:bbox":"-76.4352,5.39164,-76.3952,5.43164",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Bagad\u00f3"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3689336,
         "gp:id":368461,
-        "qs:id":150151,
+        "qs_pg:id":150151,
         "wd:id":"Q1576654",
         "wk:page":"Bagad\u00f3"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421179555,
-    "wof:lastmodified":1563309511,
+    "wof:lastmodified":1566708048,
     "wof:name":"Bagad\u00f3",
     "wof:parent_id":1108700745,
     "wof:placetype":"locality",

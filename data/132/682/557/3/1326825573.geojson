@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.19144,2.21757,-76.15144,2.25757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Leticia"
     ],
     "name:und_x_variant":[
-        "Moscop\u00e1n",
-        "Santa Leticia"
+        "Moscop\u00e1n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326825573,
-    "wof:lastmodified":1537618388,
+    "wof:lastmodified":1566706183,
     "wof:name":"Santa Leticia",
     "wof:parent_id":1108700495,
     "wof:placetype":"locality",

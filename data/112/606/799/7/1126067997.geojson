@@ -9,16 +9,19 @@
     "geom:bbox":"-74.83333,11.0,-74.83333,11.0",
     "geom:latitude":11.0,
     "geom:longitude":-74.83333,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.0,
     "gn:longitude":-74.83333,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.83833,10.995,-74.82833,11.005",
     "lbl:latitude":11.0,
     "lbl:longitude":-74.83333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "La Mina"
@@ -44,9 +47,6 @@
     "name:spa_x_preferred":[
         "La Mina"
     ],
-    "name:unk_x_variant":[
-        "La Mina"
-    ],
     "qs_pg:aaroncc":"CO",
     "qs_pg:gn_country":"CO",
     "qs_pg:gn_fcode":"PPLX",
@@ -68,7 +68,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":359462,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Atlantico",
@@ -83,7 +83,6 @@
     "wof:concordances":{
         "gn:id":3678382,
         "gp:id":359462,
-        "qs:id":982698,
         "qs_pg:id":982698,
         "wd:id":"Q3820986"
     },
@@ -101,7 +100,7 @@
         }
     ],
     "wof:id":1126067997,
-    "wof:lastmodified":1563309730,
+    "wof:lastmodified":1566708082,
     "wof:name":"La Mina",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

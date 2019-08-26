@@ -10,8 +10,12 @@
     "geom:latitude":6.15769,
     "geom:longitude":-75.64317,
     "iso:country":"CO",
+    "lbl:bbox":"-75.66317,6.13769,-75.62317,6.17769",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Estrella"
@@ -76,7 +80,7 @@
     "name:tgl_x_preferred":[
         "La Estrella"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Estrella"
     ],
     "name:urd_x_preferred":[
@@ -125,7 +129,7 @@
     "wof:concordances":{
         "gn:id":3679065,
         "gp:id":358787,
-        "qs:id":240965,
+        "qs_pg:id":240965,
         "wd:id":"Q932102"
     },
     "wof:country":"CO",
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":421179911,
-    "wof:lastmodified":1563309525,
+    "wof:lastmodified":1566708051,
     "wof:name":"La Estrella",
     "wof:parent_id":421170567,
     "wof:placetype":"locality",

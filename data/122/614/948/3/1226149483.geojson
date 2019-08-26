@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.12,6.44667,-71.08,6.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ca\u00f1os",
         "Los Ca\u00f1os"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226149483,
-    "wof:lastmodified":1537618477,
+    "wof:lastmodified":1566708606,
     "wof:name":"Los Canos",
     "wof:parent_id":1108701519,
     "wof:placetype":"locality",

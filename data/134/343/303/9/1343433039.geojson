@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.86222,2.21528,-75.82222,2.25528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Los Colorados"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1343433039,
-    "wof:lastmodified":1564289382,
+    "wof:lastmodified":1566706525,
     "wof:name":"Los Colorados",
     "wof:parent_id":1108700835,
     "wof:placetype":"locality",

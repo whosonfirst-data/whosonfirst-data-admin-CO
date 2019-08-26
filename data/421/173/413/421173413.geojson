@@ -10,8 +10,12 @@
     "geom:latitude":2.77411,
     "geom:longitude":-72.86834,
     "iso:country":"CO",
+    "lbl:bbox":"-72.88834,2.75411,-72.84834,2.79411",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
@@ -193,7 +197,7 @@
     "wof:concordances":{
         "gn:id":3733434,
         "gp:id":354574,
-        "qs:id":288084
+        "qs_pg:id":288084
     },
     "wof:country":"CO",
     "wof:created":1459008981,
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":421173413,
-    "wof:lastmodified":1564294703,
+    "wof:lastmodified":1566707976,
     "wof:name":"El Dorado",
     "wof:parent_id":1108700953,
     "wof:placetype":"locality",

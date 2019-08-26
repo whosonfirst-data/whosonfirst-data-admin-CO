@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.036526,
     "lbl:longitude":-72.760399,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Paz de R\u00edo",
     "meso:gadm_hasc2":"CO.BY.PR",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.760399,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Paz del R\u00edo"
@@ -80,7 +83,7 @@
     "name:tgl_x_preferred":[
         "Paz de R\u00edo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paz del Rio"
     ],
     "name:vie_x_preferred":[
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Paz de R\u00edo",
@@ -137,7 +140,7 @@
         "gn:id":3672652,
         "gp:id":26796867,
         "hasc:id":"CO.BY.PR",
-        "qs:id":259793,
+        "qs_pg:id":259793,
         "wd:id":"Q2279482"
     },
     "wof:country":"CO",
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421205237,
-    "wof:lastmodified":1563309093,
+    "wof:lastmodified":1566707963,
     "wof:name":"Paz De Rio",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

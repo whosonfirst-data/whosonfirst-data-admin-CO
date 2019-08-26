@@ -9,14 +9,16 @@
     "geom:bbox":"-74.793373,10.979816,-74.793373,10.979816",
     "geom:latitude":10.979816,
     "geom:longitude":-74.793373,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.98333,
     "gn:longitude":-74.8,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.798373,10.974816,-74.788373,10.984816",
     "lbl:latitude":10.979816,
     "lbl:longitude":-74.793373,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.980246,
     "mps:longitude":-74.787403,
     "mz:hierarchy_label":0,
@@ -88,9 +90,6 @@
     "name:tgl_x_preferred":[
         "Chiquinquir\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Chiquinquir\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Chiquinquir\u00e1"
     ],
@@ -147,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670207,
         102191577,
@@ -158,7 +157,6 @@
     "wof:concordances":{
         "gn:id":3686510,
         "gp:id":353008,
-        "qs:id":277769,
         "qs_pg:id":277769
     },
     "wof:country":"CO",
@@ -177,7 +175,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289399,
+    "wof:lastmodified":1566706527,
     "wof:name":"Chiquinquir\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

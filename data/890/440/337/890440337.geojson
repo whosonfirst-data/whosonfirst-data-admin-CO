@@ -11,8 +11,11 @@
     "geom:longitude":-73.62664,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":321717,
+    "gn:population":321717,
     "iso:country":"CO",
+    "lbl:bbox":"-73.64664,4.122,-73.60664,4.162",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -175,7 +178,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u044f\u0432\u0456\u0441\u0435\u043d\u0441\u0456\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caserio Villavicencio"
     ],
     "name:urd_x_preferred":[
@@ -301,7 +304,7 @@
     "wof:concordances":{
         "gn:id":3665900,
         "gp:id":368174,
-        "qs:id":279857,
+        "qs_pg:id":279857,
         "wd:id":"Q749224",
         "wk:page":"Villavicencio"
     },
@@ -318,7 +321,7 @@
         }
     ],
     "wof:id":890440337,
-    "wof:lastmodified":1563309623,
+    "wof:lastmodified":1566708068,
     "wof:name":"Villavicencio",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

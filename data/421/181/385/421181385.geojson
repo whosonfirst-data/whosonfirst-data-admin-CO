@@ -10,8 +10,12 @@
     "geom:latitude":4.20475,
     "geom:longitude":-74.64075,
     "iso:country":"CO",
+    "lbl:bbox":"-74.66075,4.18475,-74.62075,4.22475",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Melgar"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3674885,
         "gp:id":369129,
-        "qs:id":489575,
+        "qs_pg:id":489575,
         "wd:id":"Q1257259"
     },
     "wof:country":"CO",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421181385,
-    "wof:lastmodified":1563309264,
+    "wof:lastmodified":1566707998,
     "wof:name":"Melgar",
     "wof:parent_id":421194737,
     "wof:placetype":"locality",

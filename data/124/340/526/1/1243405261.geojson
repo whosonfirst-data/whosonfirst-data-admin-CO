@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.88355,3.68371,-74.84355,3.72371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Agua Buena"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243405261,
-    "wof:lastmodified":1537618789,
+    "wof:lastmodified":1566708188,
     "wof:name":"Aguabuena",
     "wof:parent_id":1108701455,
     "wof:placetype":"locality",

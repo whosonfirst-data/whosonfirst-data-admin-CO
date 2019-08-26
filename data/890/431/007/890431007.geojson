@@ -11,10 +11,14 @@
     "geom:longitude":-72.89879,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":7759,
+    "gn:population":7759,
     "iso:country":"CO",
+    "lbl:bbox":"-72.91879,4.85206,-72.87879,4.89206",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Monterrey"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3769932,
         "gp:id":369151,
-        "qs:id":150303,
+        "qs_pg:id":150303,
         "wd:id":"Q1525276",
         "wk:page":"Monterrey"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890431007,
-    "wof:lastmodified":1563309654,
+    "wof:lastmodified":1566708072,
     "wof:name":"Monterrey",
     "wof:parent_id":421181801,
     "wof:placetype":"locality",

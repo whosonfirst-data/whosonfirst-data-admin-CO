@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.80806,6.74361,-75.76806,6.78361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3787455
     },
     "wof:country":"CO",
-    "wof:geomhash":"c5f221904d1c80c78311f5425a7b27d3",
+    "wof:geomhash":"3334f24c09b846a73bd592598bd6b7e1",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209326457,
-    "wof:lastmodified":1536290518,
+    "wof:lastmodified":1566707159,
     "wof:name":"Labraderos",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.78806,
-    6.763610000000001,
+    6.76361,
     -75.78806,
-    6.763610000000001
+    6.76361
 ],
   "geometry": {"coordinates":[-75.78806,6.76361],"type":"Point"}
 }

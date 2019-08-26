@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.83572,9.18218,-73.79572,9.22218",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293478195,
-    "wof:lastmodified":1536800550,
+    "wof:lastmodified":1566706669,
     "wof:name":"Pozo de Barro",
     "wof:parent_id":1108700531,
     "wof:placetype":"locality",

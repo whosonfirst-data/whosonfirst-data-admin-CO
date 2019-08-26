@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.12,5.84667,-76.08,5.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Manza",
         "La Mansa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226826807,
-    "wof:lastmodified":1537618513,
+    "wof:lastmodified":1566708614,
     "wof:name":"La Mansa",
     "wof:parent_id":1108700763,
     "wof:placetype":"locality",

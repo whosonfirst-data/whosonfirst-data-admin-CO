@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.44682,9.32126,-74.40682,9.36126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cabrera"
     ],
@@ -91,8 +95,7 @@
     ],
     "name:und_x_variant":[
         "Caserio Cabrera",
-        "Cabrero",
-        "Cabrera"
+        "Cabrero"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1209049379,
-    "wof:lastmodified":1564291955,
+    "wof:lastmodified":1566707164,
     "wof:name":"Cabrera",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

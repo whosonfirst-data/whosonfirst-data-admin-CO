@@ -9,21 +9,21 @@
     "geom:bbox":"-73.10722,7.11444,-73.10722,7.11444",
     "geom:latitude":7.11444,
     "geom:longitude":-73.10722,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":7.11444,
     "gn:longitude":-73.10722,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-73.11222,7.10944,-73.10222,7.11944",
     "lbl:latitude":7.11444,
     "lbl:longitude":-73.10722,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
-        "Cabecera del Llano"
-    ],
-    "name:unk_x_variant":[
         "Cabecera del Llano"
     ],
     "qs_pg:aaroncc":"CO",
@@ -47,7 +47,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":351956,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Santander",
@@ -62,7 +62,6 @@
     "wof:concordances":{
         "gn:id":3688197,
         "gp:id":351956,
-        "qs:id":238579,
         "qs_pg:id":238579
     },
     "wof:country":"CO",
@@ -79,7 +78,7 @@
         }
     ],
     "wof:id":1126068009,
-    "wof:lastmodified":1534379261,
+    "wof:lastmodified":1566708083,
     "wof:name":"Cabecera del Llano",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

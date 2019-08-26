@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.17611,4.47139,-75.13611,4.51139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243415463,
-    "wof:lastmodified":1536849180,
+    "wof:lastmodified":1566708170,
     "wof:name":"Alto de Miradorcito",
     "wof:parent_id":421190207,
     "wof:placetype":"locality",

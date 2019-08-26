@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.37697,11.50087,-72.33697,11.54087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242837883,
-    "wof:lastmodified":1536688974,
+    "wof:lastmodified":1566708255,
     "wof:name":"Tachon",
     "wof:parent_id":421170625,
     "wof:placetype":"locality",

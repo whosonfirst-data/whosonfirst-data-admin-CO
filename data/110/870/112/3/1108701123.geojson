@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.232545,
     "lbl:longitude":-72.508961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Norte de Santander",
     "meso:gadm_admin":"Toledo",
     "meso:gadm_hasc2":"CO.NS.TO",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.508961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Labateca"
     ],
@@ -82,7 +85,7 @@
         "\u62c9\u5df4\u7279\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1108701123,
-    "wof:lastmodified":1564293274,
+    "wof:lastmodified":1566707592,
     "wof:name":"Labateca",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.969959,
     "lbl:longitude":-71.739475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Guajira",
     "meso:gadm_admin":"Uribia",
     "meso:gadm_hasc2":"CO.LG.UB",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.739475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Uribia"
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"7905",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Uribia",
@@ -149,7 +152,7 @@
         "gn:id":3666412,
         "gp:id":26797227,
         "hasc:id":"CO.LG.UB",
-        "qs:id":1086196,
+        "qs_pg:id":1086196,
         "wd:id":"Q2215403",
         "wk:page":"Uribia, La Guajira"
     },
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":421187819,
-    "wof:lastmodified":1563309142,
+    "wof:lastmodified":1566707972,
     "wof:name":"Uribia",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

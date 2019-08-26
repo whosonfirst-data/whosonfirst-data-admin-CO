@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.63696,6.31997,-73.59696,6.35997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Helena del Op\u00f3n"
     ],
@@ -51,9 +55,6 @@
         "Santa Helena del Op\u00f3n"
     ],
     "name:tgl_x_preferred":[
-        "Santa Helena del Op\u00f3n"
-    ],
-    "name:und_x_variant":[
         "Santa Helena del Op\u00f3n"
     ],
     "name:war_x_preferred":[
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1293055619,
-    "wof:lastmodified":1564290096,
+    "wof:lastmodified":1566706723,
     "wof:name":"Santa Helena del Opon",
     "wof:parent_id":1108701349,
     "wof:placetype":"locality",

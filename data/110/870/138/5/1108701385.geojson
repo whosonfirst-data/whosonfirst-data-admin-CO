@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.386132,
     "lbl:longitude":-75.669879,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sucre",
     "meso:gadm_admin":"Tol\u00fa",
     "meso:gadm_hasc2":"CO.SU.TO",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.669879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cove\u00f1as"
     ],
@@ -77,7 +80,7 @@
         "\u79d1\u97cb\u5c3c\u4e9e\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108701385,
-    "wof:lastmodified":1564293223,
+    "wof:lastmodified":1566707526,
     "wof:name":"Cove\u00f1as",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.597417,
     "lbl:longitude":-75.950735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Obando",
     "meso:gadm_hasc2":"CO.VC.OB",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.950735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Obando"
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"171",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Obando",
@@ -128,7 +131,7 @@
         "gn:id":3673678,
         "gp:id":26797589,
         "hasc:id":"CO.VC.OB",
-        "qs:id":54960,
+        "qs_pg:id":54960,
         "wd:id":"Q676377",
         "wk:page":"Obando, Valle del Cauca"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421182987,
-    "wof:lastmodified":1563309548,
+    "wof:lastmodified":1566708056,
     "wof:name":"Obando",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

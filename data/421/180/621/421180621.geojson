@@ -10,8 +10,12 @@
     "geom:latitude":5.10112,
     "geom:longitude":-73.05122,
     "iso:country":"CO",
+    "lbl:bbox":"-73.07122,5.08112,-73.03122,5.12112",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "P\u00e1ez"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3673397,
         "gp:id":368541,
-        "qs:id":1206554,
+        "qs_pg:id":1206554,
         "wd:id":"Q2433466",
         "wk:page":"P\u00e1ez, Boyac\u00e1"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421180621,
-    "wof:lastmodified":1563309110,
+    "wof:lastmodified":1566707966,
     "wof:name":"P\u00e1ez",
     "wof:parent_id":1108700287,
     "wof:placetype":"locality",

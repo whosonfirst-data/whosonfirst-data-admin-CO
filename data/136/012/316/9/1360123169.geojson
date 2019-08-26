@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.73278,10.06694,-74.69278,10.10694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Los Lirios",
         "Los Lirios"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360123169,
-    "wof:lastmodified":1537618473,
+    "wof:lastmodified":1566707790,
     "wof:name":"Los Lirios",
     "wof:parent_id":1108700921,
     "wof:placetype":"locality",

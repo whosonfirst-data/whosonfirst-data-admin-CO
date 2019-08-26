@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.18083,1.92444,-77.14083,1.96444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galindez"
     ],
@@ -41,8 +45,7 @@
     "name:und_x_variant":[
         "Manguita",
         "Galindes",
-        "La Manguita",
-        "Gal\u00edndez"
+        "La Manguita"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293707507,
-    "wof:lastmodified":1564289737,
+    "wof:lastmodified":1566706642,
     "wof:name":"Galindez",
     "wof:parent_id":1108700485,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.00172,
     "geom:longitude":-76.26722,
     "iso:country":"CO",
+    "lbl:bbox":"-76.28722,6.98172,-76.24722,7.02172",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Dabeiba"
@@ -73,7 +77,7 @@
     "name:tgl_x_preferred":[
         "Dabeiba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dabelba"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":3685295,
         "gp:id":368486,
-        "qs:id":150136,
+        "qs_pg:id":150136,
         "wd:id":"Q1441773"
     },
     "wof:country":"CO",
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":421179531,
-    "wof:lastmodified":1563309512,
+    "wof:lastmodified":1566708049,
     "wof:name":"Dabeiba",
     "wof:parent_id":421184581,
     "wof:placetype":"locality",

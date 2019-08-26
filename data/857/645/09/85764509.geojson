@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9658727.309058,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.580354,6.219491,-75.580354,6.219491",
     "geom:latitude":6.219491,
     "geom:longitude":-75.580354,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.24468,
     "gn:longitude":-75.57597,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.585354,6.214491,-75.575354,6.224491",
     "lbl:latitude":6.219491,
     "lbl:longitude":-75.580354,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.213065,
     "mps:longitude":-75.582268,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:swe_x_preferred":[
         "Alpujarras"
     ],
-    "name:unk_x_variant":[
-        "Alpujarra"
-    ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":3674962,
@@ -124,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1226,
     "wof:belongsto":[
         85670129,
@@ -136,7 +135,6 @@
     "wof:concordances":{
         "gn:id":3690122,
         "gp:id":350664,
-        "qs:id":1082688,
         "qs_pg:id":1082688
     },
     "wof:country":"CO",
@@ -155,7 +153,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1566706528,
     "wof:name":"Alpujarra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

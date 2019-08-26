@@ -10,8 +10,12 @@
     "geom:latitude":9.3533,
     "geom:longitude":-75.95244,
     "iso:country":"CO",
+    "lbl:bbox":"-75.97244,9.3333,-75.93244,9.3733",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Bernardo del Viento"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "San Bernardo del Viento"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Bernardo"
     ],
     "name:vie_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3670018,
         "gp:id":368388,
-        "qs:id":924797,
+        "qs_pg:id":924797,
         "wd:id":"Q2433835",
         "wk:page":"San Bernardo del Viento"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421186513,
-    "wof:lastmodified":1563309253,
+    "wof:lastmodified":1566707995,
     "wof:name":"San Bernardo del Viento",
     "wof:parent_id":421192873,
     "wof:placetype":"locality",

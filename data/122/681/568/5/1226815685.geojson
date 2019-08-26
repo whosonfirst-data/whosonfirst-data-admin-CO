@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.23379,11.22911,-73.19379,11.26911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Campana"
     ],
@@ -87,8 +91,7 @@
         "\u041a\u0430\u043c\u043f\u0430\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Caser\u00edo Campana",
-        "Campana"
+        "Caser\u00edo Campana"
     ],
     "name:vol_x_preferred":[
         "Campana"
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1226815685,
-    "wof:lastmodified":1564296438,
+    "wof:lastmodified":1566708483,
     "wof:name":"Campana",
     "wof:parent_id":421202543,
     "wof:placetype":"locality",

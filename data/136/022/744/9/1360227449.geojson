@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.19262,10.4698,-74.15262,10.5098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Lorena"
     ],
@@ -72,8 +76,7 @@
         "Lorena"
     ],
     "name:und_x_variant":[
-        "Hacienda Lorena",
-        "Lorena"
+        "Hacienda Lorena"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1360227449,
-    "wof:lastmodified":1564294165,
+    "wof:lastmodified":1566707801,
     "wof:name":"Lorena",
     "wof:parent_id":1108700889,
     "wof:placetype":"locality",

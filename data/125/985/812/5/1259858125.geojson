@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.97,9.96333,-73.93,10.00333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo La Trocha",
         "La Trocha"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259858125,
-    "wof:lastmodified":1537618487,
+    "wof:lastmodified":1566708387,
     "wof:name":"La Trocha",
     "wof:parent_id":421188173,
     "wof:placetype":"locality",

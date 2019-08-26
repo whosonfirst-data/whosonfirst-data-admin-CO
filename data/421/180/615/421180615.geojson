@@ -10,8 +10,12 @@
     "geom:latitude":4.68116,
     "geom:longitude":-74.71406,
     "iso:country":"CO",
+    "lbl:bbox":"-74.73406,4.66116,-74.69406,4.70116",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pul\u00ed"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3671279,
         "gp:id":368553,
-        "qs:id":1206551,
+        "qs_pg:id":1206551,
         "wd:id":"Q1656309",
         "wk:page":"Pul\u00ed, Cundinamarca"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421180615,
-    "wof:lastmodified":1563309127,
+    "wof:lastmodified":1566707969,
     "wof:name":"Pul\u00ed",
     "wof:parent_id":1108700699,
     "wof:placetype":"locality",

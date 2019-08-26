@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.6478,0.8368,-77.6078,0.8768",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Concordia"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1276186361,
-    "wof:lastmodified":1564290624,
+    "wof:lastmodified":1566706851,
     "wof:name":"La Concordia",
     "wof:parent_id":1108701057,
     "wof:placetype":"locality",

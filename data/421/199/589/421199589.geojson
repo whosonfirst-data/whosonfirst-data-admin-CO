@@ -10,8 +10,12 @@
     "geom:latitude":1.2703,
     "geom:longitude":-77.51575,
     "iso:country":"CO",
+    "lbl:bbox":"-77.53575,1.2503,-77.49575,1.2903",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ancuy\u00e1"
@@ -58,9 +62,6 @@
     "name:tgl_x_preferred":[
         "Ancuya"
     ],
-    "name:unk_x_variant":[
-        "Ancuya"
-    ],
     "name:vie_x_preferred":[
         "Ancuy\u00e1"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3689915,
         "gp:id":368453,
-        "qs:id":194643,
+        "qs_pg:id":194643,
         "wd:id":"Q1575668",
         "wk:page":"Ancuya"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421199589,
-    "wof:lastmodified":1563309361,
+    "wof:lastmodified":1566708016,
     "wof:name":"Ancuy\u00e1",
     "wof:parent_id":1108700969,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.89852,9.07899,-74.85852,9.11899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caserio Puerto Franco",
         "Puerto Franco"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293537097,
-    "wof:lastmodified":1537618421,
+    "wof:lastmodified":1566706585,
     "wof:name":"Puerto Franco",
     "wof:parent_id":1108701411,
     "wof:placetype":"locality",

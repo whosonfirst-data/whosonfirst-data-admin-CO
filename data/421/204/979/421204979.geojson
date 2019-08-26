@@ -10,8 +10,12 @@
     "geom:latitude":3.62057,
     "geom:longitude":-75.09415,
     "iso:country":"CO",
+    "lbl:bbox":"-75.11415,3.60057,-75.07415,3.64057",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Natagaima"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Natagaima"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Matagaima"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3674010,
         "gp:id":368352,
-        "qs:id":251731,
+        "qs_pg:id":251731,
         "wd:id":"Q258673"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421204979,
-    "wof:lastmodified":1563309027,
+    "wof:lastmodified":1566707947,
     "wof:name":"Natagaima",
     "wof:parent_id":1108701447,
     "wof:placetype":"locality",

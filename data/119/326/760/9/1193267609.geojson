@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.06465,2.15424,-77.02465,2.19424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1193267609,
-    "wof:lastmodified":1536374158,
+    "wof:lastmodified":1566707336,
     "wof:name":"Sajandi",
     "wof:parent_id":1108700485,
     "wof:placetype":"locality",

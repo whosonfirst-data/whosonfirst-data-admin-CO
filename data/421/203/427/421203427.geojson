@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.274573,
     "lbl:longitude":-74.113154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Magdalena",
     "meso:gadm_admin":"Fundaci\u00f3n",
     "meso:gadm_hasc2":"CO.MA.FU",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.113154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Algarrobo"
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wd:wordcount":58,
     "wof:belongsto":[
@@ -118,7 +121,7 @@
         "gn:id":3690173,
         "gp:id":28358182,
         "hasc:id":"CO.MA.FU",
-        "qs:id":64631,
+        "qs_pg:id":64631,
         "wd:id":"Q354527"
     },
     "wof:country":"CO",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421203427,
-    "wof:lastmodified":1563309056,
+    "wof:lastmodified":1566707952,
     "wof:name":"Algarrobo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

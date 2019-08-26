@@ -10,8 +10,12 @@
     "geom:latitude":5.47843,
     "geom:longitude":-75.59267,
     "iso:country":"CO",
+    "lbl:bbox":"-75.61267,5.45843,-75.57267,5.49843",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Marmato"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3675242,
         "gp:id":362178,
-        "qs:id":228639,
+        "qs_pg:id":228639,
         "wd:id":"Q1577890"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421202897,
-    "wof:lastmodified":1563309080,
+    "wof:lastmodified":1566707960,
     "wof:name":"Marmato",
     "wof:parent_id":1108700385,
     "wof:placetype":"locality",

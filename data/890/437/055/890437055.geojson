@@ -11,11 +11,15 @@
     "geom:longitude":-71.76372,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2640,
+    "gn:population":2640,
     "iso:country":"CO",
+    "lbl:bbox":"-71.78372,6.13676,-71.74372,6.17676",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hato del Corozal"
     ],
     "qs:name":"Municipio Hato Corozal",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3681008,
         "gp:id":368976,
-        "qs:id":1046312
+        "qs_pg:id":1046312
     },
     "wof:country":"CO",
     "wof:created":1469052136,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437055,
-    "wof:lastmodified":1505343557,
+    "wof:lastmodified":1566708071,
     "wof:name":"Municipio Hato Corozal",
     "wof:parent_id":1108701525,
     "wof:placetype":"locality",

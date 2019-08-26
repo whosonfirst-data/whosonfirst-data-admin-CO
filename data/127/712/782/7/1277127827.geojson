@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.30013,9.91905,-74.26013,9.95905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Isla"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1277127827,
-    "wof:lastmodified":1564290921,
+    "wof:lastmodified":1566706920,
     "wof:name":"La Isla",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

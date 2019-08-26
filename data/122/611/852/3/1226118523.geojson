@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.70676,11.46394,-72.66676,11.50394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Cabra"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1226118523,
-    "wof:lastmodified":1564296680,
+    "wof:lastmodified":1566708534,
     "wof:name":"Cabra",
     "wof:parent_id":421195937,
     "wof:placetype":"locality",

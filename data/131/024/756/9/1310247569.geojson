@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.97119,9.2271,-73.93119,9.2671",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u041f\u0438\u0435\u0434\u0440\u0430\u0441"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1310247569,
-    "wof:lastmodified":1564293290,
+    "wof:lastmodified":1566707606,
     "wof:name":"Las Piedras",
     "wof:parent_id":421170439,
     "wof:placetype":"locality",
