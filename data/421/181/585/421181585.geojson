@@ -10,8 +10,12 @@
     "geom:latitude":9.10426,
     "geom:longitude":-75.80371,
     "iso:country":"CO",
+    "lbl:bbox":"-75.82371,9.08426,-75.78371,9.12426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tierralta"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Tierralta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caser\u00edo Tierralta"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3667157,
         "gp:id":367280,
-        "qs:id":495241,
+        "qs_pg:id":495241,
         "wd:id":"Q2434756"
     },
     "wof:country":"CO",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421181585,
-    "wof:lastmodified":1563309274,
+    "wof:lastmodified":1566708000,
     "wof:name":"Tierralta",
     "wof:parent_id":421192871,
     "wof:placetype":"locality",

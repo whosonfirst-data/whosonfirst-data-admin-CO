@@ -10,8 +10,12 @@
     "geom:latitude":6.44255,
     "geom:longitude":-72.45882,
     "iso:country":"CO",
+    "lbl:bbox":"-72.47882,6.42255,-72.43882,6.46255",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Panqueba"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3672981,
         "gp:id":363445,
-        "qs:id":228637,
+        "qs_pg:id":228637,
         "wd:id":"Q1656207",
         "wk:page":"Panqueba"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421202893,
-    "wof:lastmodified":1563309073,
+    "wof:lastmodified":1566707958,
     "wof:name":"Panqueba",
     "wof:parent_id":421190197,
     "wof:placetype":"locality",

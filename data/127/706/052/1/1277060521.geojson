@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.41437,3.15267,-76.37437,3.19267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Obando"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1277060521,
-    "wof:lastmodified":1564290435,
+    "wof:lastmodified":1566706802,
     "wof:name":"Obando",
     "wof:parent_id":1108700459,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.83957,3.05579,-73.79957,3.09579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Casa El Jard\u00edn"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276414891,
-    "wof:lastmodified":1564291096,
+    "wof:lastmodified":1566706966,
     "wof:name":"El Jardin",
     "wof:parent_id":1108700963,
     "wof:placetype":"locality",

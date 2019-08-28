@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.87,6.04667,-75.83,6.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00edbano",
         "El L\u00edbano"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326641867,
-    "wof:lastmodified":1537618585,
+    "wof:lastmodified":1566706225,
     "wof:name":"El Libano",
     "wof:parent_id":421184093,
     "wof:placetype":"locality",

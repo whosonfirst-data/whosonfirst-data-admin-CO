@@ -11,10 +11,14 @@
     "geom:longitude":-72.16333,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2007,
+    "gn:population":2007,
     "iso:country":"CO",
+    "lbl:bbox":"-72.18333,5.80972,-72.14333,5.84972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "T\u00e1mara"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3667516,
         "gp:id":367089,
-        "qs:id":150003,
+        "qs_pg:id":150003,
         "wd:id":"Q529835",
         "wk:page":"Tamara"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890441935,
-    "wof:lastmodified":1563309633,
+    "wof:lastmodified":1566708069,
     "wof:name":"Tamara",
     "wof:parent_id":1108701551,
     "wof:placetype":"locality",

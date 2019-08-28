@@ -10,8 +10,11 @@
     "geom:latitude":10.96667,
     "geom:longitude":-74.8,
     "iso:country":"CO",
+    "lbl:bbox":"-74.805,10.96167,-74.795,10.97167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aze_x_preferred":[
         "San-\u0130sidro"
@@ -108,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3669745,
         "gp:id":365447,
-        "qs:id":495223
+        "qs_pg:id":495223
     },
     "wof:country":"CO",
     "wof:created":1459009121,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421176829,
-    "wof:lastmodified":1564294738,
+    "wof:lastmodified":1566708057,
     "wof:name":"San Isidro",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

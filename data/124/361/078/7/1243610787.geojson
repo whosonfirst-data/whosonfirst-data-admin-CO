@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.25282,6.43165,-73.21282,6.47165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Honda",
         "La Honda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243610787,
-    "wof:lastmodified":1537618518,
+    "wof:lastmodified":1566708205,
     "wof:name":"La Honda",
     "wof:parent_id":1108701355,
     "wof:placetype":"locality",

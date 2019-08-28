@@ -10,8 +10,12 @@
     "geom:latitude":5.69636,
     "geom:longitude":-73.76932,
     "iso:country":"CO",
+    "lbl:bbox":"-73.78932,5.67636,-73.74932,5.71636",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Saboy\u00e1"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3670447,
         "gp:id":365012,
-        "qs:id":150036,
+        "qs_pg:id":150036,
         "wd:id":"Q1525813",
         "wk:page":"Saboy\u00e1"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421179467,
-    "wof:lastmodified":1563309519,
+    "wof:lastmodified":1566708050,
     "wof:name":"Saboy\u00e1",
     "wof:parent_id":421188641,
     "wof:placetype":"locality",

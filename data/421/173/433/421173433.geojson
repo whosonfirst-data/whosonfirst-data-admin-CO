@@ -10,8 +10,12 @@
     "geom:latitude":3.19698,
     "geom:longitude":-75.64506,
     "iso:country":"CO",
+    "lbl:bbox":"-75.66506,3.17698,-75.62506,3.21698",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Planadas"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3672077,
         "gp:id":363927,
-        "qs:id":288205,
+        "qs_pg:id":288205,
         "wd:id":"Q1964548"
     },
     "wof:country":"CO",
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421173433,
-    "wof:lastmodified":1563309181,
+    "wof:lastmodified":1566707979,
     "wof:name":"Planadas",
     "wof:parent_id":1108701453,
     "wof:placetype":"locality",

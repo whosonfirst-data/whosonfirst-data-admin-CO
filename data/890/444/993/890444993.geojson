@@ -11,8 +11,11 @@
     "geom:longitude":-73.1198,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":571820,
+    "gn:population":571820,
     "iso:country":"CO",
+    "lbl:bbox":"-73.1398,7.10539,-73.0998,7.14539",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -324,7 +327,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3688465,
-        "qs:id":1046403,
+        "qs_pg:id":1046403,
         "wd:id":"Q243766",
         "wk:page":"Bucaramanga"
     },
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":890444993,
-    "wof:lastmodified":1563309674,
+    "wof:lastmodified":1566708075,
     "wof:name":"Bucaramanga",
     "wof:parent_id":1108701181,
     "wof:placetype":"locality",

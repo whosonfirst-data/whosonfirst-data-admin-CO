@@ -10,8 +10,12 @@
     "geom:latitude":2.79225,
     "geom:longitude":-76.32258,
     "iso:country":"CO",
+    "lbl:bbox":"-76.34258,2.77225,-76.30258,2.81225",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jambal\u00f3"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3680393,
         "gp:id":368512,
-        "qs:id":1046299,
+        "qs_pg:id":1046299,
         "wd:id":"Q1525285"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421168403,
-    "wof:lastmodified":1563308909,
+    "wof:lastmodified":1566707925,
     "wof:name":"Jambal\u00f3",
     "wof:parent_id":1108700465,
     "wof:placetype":"locality",

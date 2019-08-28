@@ -11,10 +11,14 @@
     "geom:longitude":-76.02083,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2432,
+    "gn:population":2432,
     "iso:country":"CO",
+    "lbl:bbox":"-76.04083,3.7025,-76.00083,3.7425",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "La Cumbre"
     ],
@@ -232,7 +236,7 @@
     "wof:concordances":{
         "gn:id":3778835,
         "gp:id":359051,
-        "qs:id":150311,
+        "qs_pg:id":150311,
         "wd:id":"Q414791",
         "wk:page":"La Cumbre"
     },
@@ -249,7 +253,7 @@
         }
     ],
     "wof:id":890435215,
-    "wof:lastmodified":1563309705,
+    "wof:lastmodified":1566708078,
     "wof:name":"La Cumbre",
     "wof:parent_id":421170275,
     "wof:placetype":"locality",

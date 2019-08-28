@@ -10,8 +10,12 @@
     "geom:latitude":1.48747,
     "geom:longitude":-75.72581,
     "iso:country":"CO",
+    "lbl:bbox":"-75.74581,1.46747,-75.70581,1.50747",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Morelia"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "Morelia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moralia"
     ],
     "name:war_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3674393,
         "gp:id":369154,
-        "qs:id":1046270,
+        "qs_pg:id":1046270,
         "wd:id":"Q1654632",
         "wk:page":"Morelia, Caquet\u00e1"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421176389,
-    "wof:lastmodified":1563309589,
+    "wof:lastmodified":1566708062,
     "wof:name":"Morelia",
     "wof:parent_id":1108700419,
     "wof:placetype":"locality",

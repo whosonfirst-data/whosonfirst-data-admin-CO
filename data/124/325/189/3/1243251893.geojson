@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.22618,10.35838,-73.18618,10.39838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243251893,
-    "wof:lastmodified":1537082823,
+    "wof:lastmodified":1566708204,
     "wof:name":"Hacienda Palmarito",
     "wof:parent_id":1108700553,
     "wof:placetype":"locality",

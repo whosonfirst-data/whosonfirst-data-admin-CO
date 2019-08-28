@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.70524,4.79219,-73.66524,4.83219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "La Vega"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1293924841,
-    "wof:lastmodified":1564289914,
+    "wof:lastmodified":1566706683,
     "wof:name":"La Vega",
     "wof:parent_id":1108700665,
     "wof:placetype":"locality",

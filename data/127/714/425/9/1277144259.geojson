@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-81.37,13.33,-81.33,13.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rocky Point"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Punta Rocky",
-        "Punta Rocosa",
-        "Rocky Point"
+        "Punta Rocosa"
     ],
     "name:vol_x_preferred":[
         "Rocky Point"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1277144259,
-    "wof:lastmodified":1564290877,
+    "wof:lastmodified":1566706912,
     "wof:name":"Rocky Point",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

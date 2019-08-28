@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.69194,6.28278,-74.65194,6.32278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Mesa"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1243272443,
-    "wof:lastmodified":1564295643,
+    "wof:lastmodified":1566708297,
     "wof:name":"La Mesa",
     "wof:parent_id":421191273,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.28473,9.02933,-75.24473,9.06933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bartolo"
     ],
@@ -51,8 +55,7 @@
         "\u0411\u0430\u0440\u0442\u043e\u043b\u043e"
     ],
     "name:und_x_variant":[
-        "Hacienda Bartolo",
-        "Bartolo"
+        "Hacienda Bartolo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243349999,
-    "wof:lastmodified":1564295375,
+    "wof:lastmodified":1566708237,
     "wof:name":"Bartolo",
     "wof:parent_id":1108700571,
     "wof:placetype":"locality",

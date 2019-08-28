@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.66845,5.28012,-74.62845,5.32012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Quebrada El Guaduero"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259737087,
-    "wof:lastmodified":1537618717,
+    "wof:lastmodified":1566708435,
     "wof:name":"Quebrada El Guaduero",
     "wof:parent_id":421188659,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":2.25462,
     "geom:longitude":-76.61086,
     "iso:country":"CO",
+    "lbl:bbox":"-76.63086,2.23462,-76.59086,2.27462",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sotar\u00e1"
@@ -58,9 +62,6 @@
     "name:tgl_x_preferred":[
         "Sotara"
     ],
-    "name:unk_x_variant":[
-        "Sotar\u00e1"
-    ],
     "name:war_x_preferred":[
         "Sotara"
     ],
@@ -100,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3673368,
         "gp:id":363183,
-        "qs:id":150075,
+        "qs_pg:id":150075,
         "wd:id":"Q2434321"
     },
     "wof:country":"CO",
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421179493,
-    "wof:lastmodified":1563309519,
+    "wof:lastmodified":1566708049,
     "wof:name":"Pa\u00eds Pamba",
     "wof:parent_id":1108700509,
     "wof:placetype":"locality",

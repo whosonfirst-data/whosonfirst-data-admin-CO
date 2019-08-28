@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.57501,4.28459,-72.53501,4.32459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0637\u0645\u0627\u0637\u0629"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1259558191,
-    "wof:lastmodified":1564295948,
+    "wof:lastmodified":1566708363,
     "wof:name":"Matamata",
     "wof:parent_id":421179663,
     "wof:placetype":"locality",

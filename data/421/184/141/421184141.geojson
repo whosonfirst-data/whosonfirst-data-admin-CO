@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.585845,
     "lbl:longitude":-76.730953,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Dagua",
     "meso:gadm_hasc2":"CO.VC.DA",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.730953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Dagua"
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"940",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Dagua",
@@ -140,7 +143,7 @@
         "gn:id":3685293,
         "gp:id":26797577,
         "hasc:id":"CO.VC.DA",
-        "qs:id":989522,
+        "qs_pg:id":989522,
         "wd:id":"Q2406018"
     },
     "wof:country":"CO",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421184141,
-    "wof:lastmodified":1563309429,
+    "wof:lastmodified":1566708030,
     "wof:name":"Dagua",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

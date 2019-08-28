@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.727537,
     "lbl:longitude":-68.811118,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Guain\u00eda",
     "mps:latitude":2.720558,
     "mps:longitude":-68.813569,
@@ -219,7 +220,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0443\u0430\u0439\u043d\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comisar\u00eda del Guain\u00eda"
     ],
     "name:urd_x_preferred":[
@@ -309,9 +310,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"72,238",
     "statoids:area_mi":"27,891",
     "statoids:as_of_date":"2005-05-22",
@@ -336,7 +337,7 @@
         "gp:id":2345060,
         "hasc:id":"CO.GN",
         "iso:id":"CO-GUA",
-        "qs:id":894869,
+        "qs_pg:id":894869,
         "unlc:id":"CO-GUA",
         "wd:id":"Q238645",
         "wk:page":"Guain\u00eda Department"
@@ -357,11 +358,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670396,
+    "wof:lastmodified":1566706565,
     "wof:name":"Guain\u00eda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":18797,
     "wof:population_rank":6,

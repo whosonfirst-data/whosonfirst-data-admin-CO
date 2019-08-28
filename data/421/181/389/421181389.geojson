@@ -10,8 +10,12 @@
     "geom:latitude":5.87262,
     "geom:longitude":-74.64029,
     "iso:country":"CO",
+    "lbl:bbox":"-74.66029,5.85262,-74.62029,5.89262",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Triunfo"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3671308,
         "gp:id":369310,
-        "qs:id":489601,
+        "qs_pg:id":489601,
         "wd:id":"Q932785",
         "wk:page":"Puerto Triunfo"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421181389,
-    "wof:lastmodified":1563309275,
+    "wof:lastmodified":1566708000,
     "wof:name":"Puerto Triunfo",
     "wof:parent_id":421202227,
     "wof:placetype":"locality",

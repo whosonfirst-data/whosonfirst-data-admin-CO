@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.5825,10.33222,-74.5425,10.37222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -112,8 +116,7 @@
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "Hacienda San Carlos",
-        "San Carlos"
+        "Hacienda San Carlos"
     ],
     "name:vol_x_preferred":[
         "San Carlos"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1309957051,
-    "wof:lastmodified":1564294555,
+    "wof:lastmodified":1566707894,
     "wof:name":"San Carlos",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.53167,6.86861,-75.49167,6.90861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3787004
     },
     "wof:country":"CO",
-    "wof:geomhash":"c5d2f576cb92585a914e2d4626a3d5b3",
+    "wof:geomhash":"d7f98cc04d61946cadd80cd687dce1f5",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209317297,
-    "wof:lastmodified":1536290819,
+    "wof:lastmodified":1566707033,
     "wof:name":"El Penol",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.51167,
-    6.888610000000001,
+    6.88861,
     -75.51167,
-    6.888610000000001
+    6.88861
 ],
   "geometry": {"coordinates":[-75.51167,6.88861],"type":"Point"}
 }

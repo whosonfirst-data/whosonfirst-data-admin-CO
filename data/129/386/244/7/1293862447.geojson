@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.70806,9.10278,-73.66806,9.14278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caserio Mata de Guillin",
         "Mata de Dijim",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293862447,
-    "wof:lastmodified":1537618462,
+    "wof:lastmodified":1566706790,
     "wof:name":"Mata de Guillin",
     "wof:parent_id":1108700531,
     "wof:placetype":"locality",

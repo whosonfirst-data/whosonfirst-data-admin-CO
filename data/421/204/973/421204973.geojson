@@ -10,8 +10,12 @@
     "geom:latitude":2.89167,
     "geom:longitude":-75.4375,
     "iso:country":"CO",
+    "lbl:bbox":"-75.4575,2.87167,-75.4175,2.91167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Palermo"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Palermo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosal\u00eda de Guagua"
     ],
     "name:war_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3673286,
         "gp:id":368358,
-        "qs:id":251729,
+        "qs_pg:id":251729,
         "wd:id":"Q1442359",
         "wk:page":"Palermo, Huila"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421204973,
-    "wof:lastmodified":1563309042,
+    "wof:lastmodified":1566707949,
     "wof:name":"Palermo",
     "wof:parent_id":421170437,
     "wof:placetype":"locality",

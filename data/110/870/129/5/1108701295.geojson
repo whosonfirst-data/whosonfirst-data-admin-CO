@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.302447,
     "lbl:longitude":-73.062056,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Matanza",
     "meso:gadm_hasc2":"CO.ST.MZ",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.062056,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Matanza"
     ],
@@ -79,9 +82,9 @@
         "\u99ac\u5766\u85a9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"184",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Matanza",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108701295,
-    "wof:lastmodified":1563307427,
+    "wof:lastmodified":1566707503,
     "wof:name":"Matanza",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

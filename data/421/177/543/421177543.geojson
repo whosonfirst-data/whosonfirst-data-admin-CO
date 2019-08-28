@@ -10,8 +10,12 @@
     "geom:latitude":5.57655,
     "geom:longitude":-73.36696,
     "iso:country":"CO",
+    "lbl:bbox":"-73.38696,5.55655,-73.34696,5.59655",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Motavita"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3674280,
         "gp:id":362786,
-        "qs:id":1341803,
+        "qs_pg:id":1341803,
         "wd:id":"Q1577790",
         "wk:page":"Motavita"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421177543,
-    "wof:lastmodified":1563309477,
+    "wof:lastmodified":1566708043,
     "wof:name":"Motavita",
     "wof:parent_id":1108700275,
     "wof:placetype":"locality",

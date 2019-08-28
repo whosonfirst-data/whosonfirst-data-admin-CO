@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.15333,1.29667,-78.11333,1.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paramo",
         "El P\u00e1ramo"
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209379533,
-    "wof:lastmodified":1537618578,
+    "wof:lastmodified":1566707066,
     "wof:name":"El Paramo",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

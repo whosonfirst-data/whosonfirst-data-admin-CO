@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.115767,
     "lbl:longitude":-75.564999,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Brice\u00f1o",
     "meso:gadm_hasc2":"CO.AN.BR",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.564999,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Brice\u00f1o"
     ],
@@ -68,9 +71,9 @@
         "Brice\u00f1o"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"401",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Brice\u00f1o",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108699931,
-    "wof:lastmodified":1564293154,
+    "wof:lastmodified":1566707437,
     "wof:name":"Brice\u00f1o",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.33271,1.68524,-77.29271,1.72524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Salada de Mayo",
         "El Saladero de Mayo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310394881,
-    "wof:lastmodified":1537618676,
+    "wof:lastmodified":1566707690,
     "wof:name":"El Saladero de Mayo",
     "wof:parent_id":1108700475,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.612135,
     "lbl:longitude":-75.791364,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Quindio",
     "meso:gadm_admin":"Quimbaya",
     "meso:gadm_hasc2":"CO.QD.QU",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.791364,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Quimbaya"
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"127",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Quimbaya",
@@ -140,7 +143,7 @@
         "gn:id":3671099,
         "gp:id":26797391,
         "hasc:id":"CO.QD.QU",
-        "qs:id":902679,
+        "qs_pg:id":902679,
         "wd:id":"Q2433472",
         "wk:page":"Quimbaya, Quind\u00edo"
     },
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":421194731,
-    "wof:lastmodified":1563308935,
+    "wof:lastmodified":1566707932,
     "wof:name":"Quimbaya",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.62,1.28,-77.58,1.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerchago",
         "Puechag"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259757407,
-    "wof:lastmodified":1537618425,
+    "wof:lastmodified":1566708463,
     "wof:name":"Puechag",
     "wof:parent_id":1108701065,
     "wof:placetype":"locality",

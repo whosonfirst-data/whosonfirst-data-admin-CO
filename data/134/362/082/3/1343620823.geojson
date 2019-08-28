@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.20611,4.80833,-72.16611,4.84833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438\u043d"
     ],
@@ -751,7 +755,7 @@
         }
     ],
     "wof:id":1343620823,
-    "wof:lastmodified":1564288418,
+    "wof:lastmodified":1566706302,
     "wof:name":"Berlin",
     "wof:parent_id":1108701529,
     "wof:placetype":"locality",

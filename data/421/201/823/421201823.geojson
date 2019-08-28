@@ -10,8 +10,12 @@
     "geom:latitude":5.615,
     "geom:longitude":-75.62422,
     "iso:country":"CO",
+    "lbl:bbox":"-75.64422,5.595,-75.60422,5.635",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u0628\u0627\u0631\u0627\u064a\u0633\u0648"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3666287,
         "gp:id":367674,
-        "qs:id":214710,
+        "qs_pg:id":214710,
         "wd:id":"Q600927",
         "wk:page":"Valpara\u00edso, Antioquia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421201823,
-    "wof:lastmodified":1563309397,
+    "wof:lastmodified":1566708022,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":1108700033,
     "wof:placetype":"locality",

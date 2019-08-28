@@ -11,8 +11,11 @@
     "geom:longitude":-81.70056,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":58257,
+    "gn:population":58257,
     "iso:country":"CO",
+    "lbl:bbox":"-81.72056,12.56472,-81.68056,12.60472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -271,10 +274,12 @@
     "wof:concordances":{
         "gn:id":3670218,
         "gp:id":365117,
-        "qs:id":274497,
-        "qs_pg:id":1075445,
+        "qs_pg:id":274497,
         "wd:id":"Q134678",
         "wk:page":"San Andr\u00e9s"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075445
     },
     "wof:country":"CO",
     "wof:created":1469052351,
@@ -289,7 +294,7 @@
         }
     ],
     "wof:id":890442151,
-    "wof:lastmodified":1563309688,
+    "wof:lastmodified":1566708076,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":890452015,
     "wof:placetype":"locality",

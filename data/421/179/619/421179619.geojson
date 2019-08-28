@@ -10,8 +10,12 @@
     "geom:latitude":5.5194,
     "geom:longitude":-74.17765,
     "iso:country":"CO",
+    "lbl:bbox":"-74.19765,5.4994,-74.15765,5.5394",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Qu\u00edpama"
@@ -64,9 +68,6 @@
     "name:tgl_x_preferred":[
         "Quipama"
     ],
-    "name:unk_x_variant":[
-        "Qu\u00edpama"
-    ],
     "name:vie_x_preferred":[
         "Qu\u00edpama"
     ],
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3775262,
         "gp:id":364678,
-        "qs:id":150310,
+        "qs_pg:id":150310,
         "wd:id":"Q1575472",
         "wk:page":"Qu\u00edpama"
     },
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":421179619,
-    "wof:lastmodified":1563309500,
+    "wof:lastmodified":1566708047,
     "wof:name":"Quipama",
     "wof:parent_id":1108700301,
     "wof:placetype":"locality",

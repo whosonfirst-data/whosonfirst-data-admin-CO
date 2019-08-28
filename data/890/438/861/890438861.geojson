@@ -11,10 +11,14 @@
     "geom:longitude":-72.58505,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":3749,
+    "gn:population":3749,
     "iso:country":"CO",
+    "lbl:bbox":"-72.60505,6.31031,-72.56505,6.35031",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Boavita"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3688775,
         "gp:id":368271,
-        "qs:id":1046415,
+        "qs_pg:id":1046415,
         "wd:id":"Q1576227",
         "wk:page":"Boavita"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890438861,
-    "wof:lastmodified":1563309657,
+    "wof:lastmodified":1566708073,
     "wof:name":"Boavita",
     "wof:parent_id":421176079,
     "wof:placetype":"locality",

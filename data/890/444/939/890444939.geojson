@@ -11,10 +11,14 @@
     "geom:longitude":-73.00314,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":26848,
+    "gn:population":26848,
     "iso:country":"CO",
+    "lbl:bbox":"-73.02314,10.75108,-72.98314,10.79108",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "San Juan del Cesar"
     ],
@@ -69,7 +73,7 @@
     "name:tgl_x_preferred":[
         "San Juan del Cesar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan de C\u00e9sar"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3669469,
         "gp:id":12523705,
-        "qs:id":1046196,
+        "qs_pg:id":1046196,
         "wd:id":"Q1256394",
         "wk:page":"San Juan del Cesar"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890444939,
-    "wof:lastmodified":1563309665,
+    "wof:lastmodified":1566708074,
     "wof:name":"San Juan del Cesar",
     "wof:parent_id":421176067,
     "wof:placetype":"locality",

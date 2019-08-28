@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.49652,4.01053,-73.45652,4.05053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Santa Rosa de R\u00edonegro",
         "Santa Rosa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226417171,
-    "wof:lastmodified":1537618386,
+    "wof:lastmodified":1566708642,
     "wof:name":"Santa Rosa de Rionegro",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

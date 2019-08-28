@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.82,8.76333,-73.78,8.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El N\u00edspero"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "N\u00edsperos",
-        "N\u00edspero",
-        "El N\u00edspero"
+        "N\u00edspero"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5c3c\u65af\u4f69\u7f85"
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1209594207,
-    "wof:lastmodified":1564291929,
+    "wof:lastmodified":1566707158,
     "wof:name":"El Nispero",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

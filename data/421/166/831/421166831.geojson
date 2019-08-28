@@ -10,8 +10,12 @@
     "geom:latitude":5.94806,
     "geom:longitude":-75.5275,
     "iso:country":"CO",
+    "lbl:bbox":"-75.5475,5.92806,-75.5075,5.96806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Montebello"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3674519,
         "gp:id":362646,
-        "qs:id":194517,
+        "qs_pg:id":194517,
         "wd:id":"Q1577236"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421166831,
-    "wof:lastmodified":1563308916,
+    "wof:lastmodified":1566707926,
     "wof:name":"Montebello",
     "wof:parent_id":1108699977,
     "wof:placetype":"locality",

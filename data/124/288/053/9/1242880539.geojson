@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.32959,6.27041,-70.28959,6.31041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Margaritas"
     ],
@@ -51,8 +55,7 @@
         "Las Margaritas"
     ],
     "name:und_x_variant":[
-        "Margaritas",
-        "Las Margaritas"
+        "Margaritas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1242880539,
-    "wof:lastmodified":1564294897,
+    "wof:lastmodified":1566708123,
     "wof:name":"Las Margaritas",
     "wof:parent_id":1108701515,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.22675,
     "geom:longitude":-73.12608,
     "iso:country":"CO",
+    "lbl:bbox":"-73.14608,5.20675,-73.10608,5.24675",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Berbeo"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Berbeo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Eduardo"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3688909,
         "gp:id":351403,
-        "qs:id":1206160,
+        "qs_pg:id":1206160,
         "wd:id":"Q1656286"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421171057,
-    "wof:lastmodified":1563309599,
+    "wof:lastmodified":1566708063,
     "wof:name":"Berbeo",
     "wof:parent_id":1108700191,
     "wof:placetype":"locality",

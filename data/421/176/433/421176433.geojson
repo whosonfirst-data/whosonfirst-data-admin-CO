@@ -10,8 +10,12 @@
     "geom:latitude":4.06004,
     "geom:longitude":-74.69212,
     "iso:country":"CO",
+    "lbl:bbox":"-74.71212,4.04004,-74.67212,4.08004",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cunday"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Cunday"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parroquia Vieja"
     ],
     "name:vie_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3685418,
         "gp:id":368298,
-        "qs:id":1046354,
+        "qs_pg:id":1046354,
         "wd:id":"Q577597"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421176433,
-    "wof:lastmodified":1563309586,
+    "wof:lastmodified":1566708061,
     "wof:name":"Cunday",
     "wof:parent_id":1108701435,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.31393,10.18913,-74.27393,10.22913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Esmeralda"
     ],
@@ -48,8 +52,7 @@
         "La Esmeralda"
     ],
     "name:und_x_variant":[
-        "Hacienda Esmeralda",
-        "La Esmeralda"
+        "Hacienda Esmeralda"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1225883113,
-    "wof:lastmodified":1564296905,
+    "wof:lastmodified":1566708584,
     "wof:name":"La Esmeralda",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

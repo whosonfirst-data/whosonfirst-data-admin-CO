@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.42419,1.08323,-75.38419,1.12323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Antonio de Getucha"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360075553,
-    "wof:lastmodified":1537618406,
+    "wof:lastmodified":1566707807,
     "wof:name":"San Antonio de Getucha",
     "wof:parent_id":1108700417,
     "wof:placetype":"locality",

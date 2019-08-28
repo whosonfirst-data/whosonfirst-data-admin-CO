@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.40333,6.46333,-70.36333,6.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hato Los Gara\u00f1os",
         "Los Gara\u00f1os"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293007651,
-    "wof:lastmodified":1537618475,
+    "wof:lastmodified":1566706570,
     "wof:name":"Los Garanos",
     "wof:parent_id":1108701515,
     "wof:placetype":"locality",

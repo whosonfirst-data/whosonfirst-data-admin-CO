@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5753091.683876,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.759216,10.952877,-74.759216,10.952877",
     "geom:latitude":10.952877,
     "geom:longitude":-74.759216,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":10.96667,
     "gn:longitude":-74.76667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.764216,10.947877,-74.754216,10.957877",
     "lbl:latitude":10.952877,
     "lbl:longitude":-74.759216,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.953532,
     "mps:longitude":-74.75941,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "La Luz"
-    ],
-    "name:unk_x_variant":[
         "La Luz"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670207,
         102191577,
@@ -92,7 +91,6 @@
     "wof:concordances":{
         "gn:id":3678522,
         "gp:id":359332,
-        "qs:id":267361,
         "qs_pg:id":267361
     },
     "wof:country":"CO",
@@ -111,7 +109,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1566706531,
     "wof:name":"La Luz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

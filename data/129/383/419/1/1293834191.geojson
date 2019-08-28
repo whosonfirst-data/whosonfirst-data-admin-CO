@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.50813,3.69485,-76.46813,3.73485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villa Mar\u00eda",
         "Villamar\u00eda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293834191,
-    "wof:lastmodified":1537618362,
+    "wof:lastmodified":1566706637,
     "wof:name":"Villamaria",
     "wof:parent_id":421194365,
     "wof:placetype":"locality",

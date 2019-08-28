@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.60279,1.56362,-75.56279,1.60362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Campo Alegre"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343848513,
-    "wof:lastmodified":1537618761,
+    "wof:lastmodified":1566706387,
     "wof:name":"Hacienda Campo Alegre",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

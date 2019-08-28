@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.99871,8.45049,-73.95871,8.49049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Propinsi La Union"
     ],
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1226690629,
-    "wof:lastmodified":1564296725,
+    "wof:lastmodified":1566708546,
     "wof:name":"La Union",
     "wof:parent_id":1108700099,
     "wof:placetype":"locality",

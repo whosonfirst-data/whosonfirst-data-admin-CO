@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.44657,3.32952,-76.40657,3.36952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tiple",
         "El Tiple"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326680313,
-    "wof:lastmodified":1537618566,
+    "wof:lastmodified":1566706133,
     "wof:name":"El Tiple",
     "wof:parent_id":421181791,
     "wof:placetype":"locality",

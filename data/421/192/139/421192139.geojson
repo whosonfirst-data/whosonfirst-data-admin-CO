@@ -10,8 +10,11 @@
     "geom:latitude":10.95,
     "geom:longitude":-74.78333,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78833,10.945,-74.77833,10.955",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Nieves"
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3677270,
         "gp:id":360944,
-        "qs:id":1165281
+        "qs_pg:id":1165281
     },
     "wof:country":"CO",
     "wof:created":1459009727,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421192139,
-    "wof:lastmodified":1564294682,
+    "wof:lastmodified":1566707929,
     "wof:name":"Las Nieves",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

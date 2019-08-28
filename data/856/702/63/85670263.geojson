@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.883522,
     "lbl:longitude":-69.231175,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Vichada",
     "mps:latitude":4.89001,
     "mps:longitude":-69.189546,
@@ -209,7 +210,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0447\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comisar\u00eda del Vichada"
     ],
     "name:urd_x_preferred":[
@@ -299,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"100,242",
     "statoids:area_mi":"38,704",
     "statoids:as_of_date":"2005-05-22",
@@ -326,7 +327,7 @@
         "gp:id":2345076,
         "hasc:id":"CO.VD",
         "iso:id":"CO-VID",
-        "qs:id":423663,
+        "qs_pg:id":423663,
         "unlc:id":"CO-VID",
         "wd:id":"Q268729",
         "wk:page":"Vichada Department"
@@ -347,11 +348,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670394,
+    "wof:lastmodified":1566706562,
     "wof:name":"Vichada",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":44592,
     "wof:population_rank":7,

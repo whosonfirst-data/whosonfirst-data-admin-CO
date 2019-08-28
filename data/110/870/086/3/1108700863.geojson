@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":10.470261,
     "lbl:longitude":-73.072334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Guajira",
     "meso:gadm_admin":"Urumita",
     "meso:gadm_hasc2":"CO.LG.UM",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.072334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Jagua Del Pilar"
     ],
@@ -40,7 +43,7 @@
         "Urumita"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108700863,
-    "wof:lastmodified":1555047397,
+    "wof:lastmodified":1566707560,
     "wof:name":"La Jagua Del Pilar",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

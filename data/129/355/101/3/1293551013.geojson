@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.37442,1.71611,-77.33442,1.75611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "San-\u0130sidro"
     ],
@@ -84,8 +88,7 @@
         "San Isidro"
     ],
     "name:und_x_variant":[
-        "San Sidro",
-        "San Isidro"
+        "San Sidro"
     ],
     "name:vie_x_preferred":[
         "San Isidro"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1293551013,
-    "wof:lastmodified":1564289599,
+    "wof:lastmodified":1566706610,
     "wof:name":"San Isidro",
     "wof:parent_id":1108700999,
     "wof:placetype":"locality",

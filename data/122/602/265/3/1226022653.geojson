@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.36048,5.2067,-77.32048,5.2467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Catripa",
         "Catripe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226022653,
-    "wof:lastmodified":1537618625,
+    "wof:lastmodified":1566708539,
     "wof:name":"Catripe",
     "wof:parent_id":1108700749,
     "wof:placetype":"locality",

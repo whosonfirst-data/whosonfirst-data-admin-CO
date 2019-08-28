@@ -10,8 +10,12 @@
     "geom:latitude":2.75701,
     "geom:longitude":-76.61723,
     "iso:country":"CO",
+    "lbl:bbox":"-76.63723,2.73701,-76.59723,2.77701",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Morales"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3770718,
         "gp:id":368349,
-        "qs:id":194609,
+        "qs_pg:id":194609,
         "wd:id":"Q615597"
     },
     "wof:country":"CO",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421199581,
-    "wof:lastmodified":1563309359,
+    "wof:lastmodified":1566708016,
     "wof:name":"Morales",
     "wof:parent_id":1108700479,
     "wof:placetype":"locality",

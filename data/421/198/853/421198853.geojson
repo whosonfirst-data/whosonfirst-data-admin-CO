@@ -10,8 +10,12 @@
     "geom:latitude":1.41814,
     "geom:longitude":-77.39678,
     "iso:country":"CO",
+    "lbl:bbox":"-77.41678,1.39814,-77.37678,1.43814",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Tambo"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "El Tambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tambo"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3682965,
         "gp:id":368493,
-        "qs:id":1206531,
+        "qs_pg:id":1206531,
         "wd:id":"Q2431847"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421198853,
-    "wof:lastmodified":1563309311,
+    "wof:lastmodified":1566708005,
     "wof:name":"El Tambo",
     "wof:parent_id":1108701003,
     "wof:placetype":"locality",

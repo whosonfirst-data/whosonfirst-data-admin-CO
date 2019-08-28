@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.364031,
     "lbl:longitude":-76.284152,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Urrao",
     "meso:gadm_hasc2":"CO.AN.UO",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.284152,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Urrao"
     ],
@@ -121,9 +124,9 @@
         "\u70cf\u52de"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"2556",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Urrao",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108700029,
-    "wof:lastmodified":1563307628,
+    "wof:lastmodified":1566707580,
     "wof:name":"Urrao",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.14098,3.04069,-75.10098,3.08069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Angel"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293362459,
-    "wof:lastmodified":1537618842,
+    "wof:lastmodified":1566706573,
     "wof:name":"San Angel",
     "wof:parent_id":1108700849,
     "wof:placetype":"locality",

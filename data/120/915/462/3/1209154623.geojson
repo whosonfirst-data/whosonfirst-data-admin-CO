@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.23916,5.74376,-73.19916,5.78376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Ocusa",
         "Ocus\u00e1"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209154623,
-    "wof:lastmodified":1537618448,
+    "wof:lastmodified":1566707103,
     "wof:name":"Ocusa",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

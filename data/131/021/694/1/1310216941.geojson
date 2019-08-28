@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.72659,6.34753,-75.68659,6.38753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Rosal"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310216941,
-    "wof:lastmodified":1564293831,
+    "wof:lastmodified":1566707731,
     "wof:name":"El Rosal",
     "wof:parent_id":421205069,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.14526,4.10296,-76.10526,4.14296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Llanada"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1293239015,
-    "wof:lastmodified":1564289776,
+    "wof:lastmodified":1566706650,
     "wof:name":"La Llanada",
     "wof:parent_id":421188703,
     "wof:placetype":"locality",

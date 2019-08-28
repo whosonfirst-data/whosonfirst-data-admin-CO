@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.945142,
     "lbl:longitude":-73.722726,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Guavat\u00e1",
     "meso:gadm_hasc2":"CO.ST.GV",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.722726,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Guavat\u00e1"
     ],
@@ -82,9 +85,9 @@
         "\u74dc\u74e6\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"58",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Guavat\u00e1",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108701269,
-    "wof:lastmodified":1563307453,
+    "wof:lastmodified":1566707510,
     "wof:name":"Guavat\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

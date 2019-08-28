@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.21411,4.49025,-72.17411,4.53025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Buenavista"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1243121125,
-    "wof:lastmodified":1564295167,
+    "wof:lastmodified":1566708183,
     "wof:name":"Buenavista",
     "wof:parent_id":1108701529,
     "wof:placetype":"locality",

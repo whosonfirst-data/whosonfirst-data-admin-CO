@@ -10,8 +10,12 @@
     "geom:latitude":4.7193,
     "geom:longitude":-74.92918,
     "iso:country":"CO",
+    "lbl:bbox":"-74.94918,4.6993,-74.90918,4.7393",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Venadillo"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3666226,
         "gp:id":368437,
-        "qs:id":251738,
+        "qs_pg:id":251738,
         "wd:id":"Q1525428"
     },
     "wof:country":"CO",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421204985,
-    "wof:lastmodified":1563309028,
+    "wof:lastmodified":1566707947,
     "wof:name":"Venadillo",
     "wof:parent_id":1108701475,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.32195,8.94687,-76.28195,8.98687",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cerro Pelado"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226024691,
-    "wof:lastmodified":1564296709,
+    "wof:lastmodified":1566708539,
     "wof:name":"Cerro Pelado",
     "wof:parent_id":421186429,
     "wof:placetype":"locality",

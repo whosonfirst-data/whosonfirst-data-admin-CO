@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.63488,8.51369,-75.59488,8.55369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Florida"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1276312853,
-    "wof:lastmodified":1564291304,
+    "wof:lastmodified":1566707019,
     "wof:name":"La Florida",
     "wof:parent_id":1108700589,
     "wof:placetype":"locality",

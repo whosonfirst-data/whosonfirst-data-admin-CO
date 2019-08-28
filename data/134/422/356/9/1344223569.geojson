@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.97096,10.44822,-72.93096,10.48822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344223569,
-    "wof:lastmodified":1536639349,
+    "wof:lastmodified":1566706338,
     "wof:name":"Nueva Idea",
     "wof:parent_id":1108700867,
     "wof:placetype":"locality",

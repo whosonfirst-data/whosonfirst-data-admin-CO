@@ -11,10 +11,14 @@
     "geom:longitude":-75.50888,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":49169,
+    "gn:population":49169,
     "iso:country":"CO",
+    "lbl:bbox":"-75.52888,6.32633,-75.48888,6.36633",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Copacabana"
     ],
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":3685949,
         "gp:id":368293,
-        "qs:id":1046363,
+        "qs_pg:id":1046363,
         "wd:id":"Q285891"
     },
     "wof:country":"CO",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890444981,
-    "wof:lastmodified":1563309679,
+    "wof:lastmodified":1566708075,
     "wof:name":"Municipio de Copacabana",
     "wof:parent_id":421188617,
     "wof:placetype":"locality",

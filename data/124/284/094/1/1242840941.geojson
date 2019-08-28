@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-71.68551,12.04791,-71.64551,12.08791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242840941,
-    "wof:lastmodified":1536684432,
+    "wof:lastmodified":1566708251,
     "wof:name":"Murujurepure",
     "wof:parent_id":421187819,
     "wof:placetype":"locality",

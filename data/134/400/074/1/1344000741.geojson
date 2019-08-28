@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.69281,10.54819,-74.65281,10.58819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo Aserradero",
         "Aserradero"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344000741,
-    "wof:lastmodified":1537618654,
+    "wof:lastmodified":1566706368,
     "wof:name":"Aserradero",
     "wof:parent_id":1108700907,
     "wof:placetype":"locality",

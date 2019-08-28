@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.85333,11.39667,-72.81333,11.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palmarito"
     ],
     "name:und_x_variant":[
-        "Tornito",
-        "Palmarito"
+        "Tornito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226218495,
-    "wof:lastmodified":1564296526,
+    "wof:lastmodified":1566708501,
     "wof:name":"Palmarito",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

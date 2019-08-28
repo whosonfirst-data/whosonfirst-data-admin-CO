@@ -10,8 +10,12 @@
     "geom:latitude":6.15515,
     "geom:longitude":-75.37371,
     "iso:country":"CO",
+    "lbl:bbox":"-75.39371,6.13515,-75.35371,6.17515",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648\u0646\u064a\u063a\u0631\u0648"
@@ -163,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u043e\u043d\u0435\u0433\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Rionegro"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0646\u06cc\u062c\u0631\u0648"
     ],
@@ -211,7 +212,7 @@
     "wof:concordances":{
         "gn:id":3670730,
         "gp:id":368232,
-        "qs:id":150050,
+        "qs_pg:id":150050,
         "wd:id":"Q1774644"
     },
     "wof:country":"CO",
@@ -227,7 +228,7 @@
         }
     ],
     "wof:id":421197729,
-    "wof:lastmodified":1563309356,
+    "wof:lastmodified":1566708015,
     "wof:name":"R\u00edonegro",
     "wof:parent_id":421187809,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.32966,3.73333,-76.28966,3.77333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242724679,
-    "wof:lastmodified":1536850893,
+    "wof:lastmodified":1566708129,
     "wof:name":"La Esneda",
     "wof:parent_id":421193653,
     "wof:placetype":"locality",

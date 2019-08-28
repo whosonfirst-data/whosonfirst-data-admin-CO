@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.70806,3.96496,-74.66806,4.00496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Isabel"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1209863253,
-    "wof:lastmodified":1564292362,
+    "wof:lastmodified":1566707249,
     "wof:name":"Santa Isabel",
     "wof:parent_id":1108701435,
     "wof:placetype":"locality",

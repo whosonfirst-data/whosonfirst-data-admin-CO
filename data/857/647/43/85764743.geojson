@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":345145.896278,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.581835,6.262063,-75.581835,6.262063",
     "geom:latitude":6.262063,
     "geom:longitude":-75.581835,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.26718,
     "gn:longitude":-75.5852,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.586835,6.257063,-75.576835,6.267063",
     "lbl:latitude":6.262063,
     "lbl:longitude":-75.581835,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.263045,
     "mps:longitude":-75.583474,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "Otra Banda"
     ],
     "name:swe_x_preferred":[
-        "Otra Banda"
-    ],
-    "name:unk_x_variant":[
         "Otra Banda"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -87,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":21,
     "wof:belongsto":[
         85670129,
@@ -99,7 +98,6 @@
     "wof:concordances":{
         "gn:id":3673469,
         "gp:id":363148,
-        "qs:id":211159,
         "qs_pg:id":211159
     },
     "wof:country":"CO",
@@ -118,7 +116,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379259,
+    "wof:lastmodified":1566706529,
     "wof:name":"Otra Banda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

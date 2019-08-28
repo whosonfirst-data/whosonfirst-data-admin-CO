@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.58191,6.76234,-75.54191,6.80234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Aragonien"
     ],
@@ -343,8 +347,7 @@
     ],
     "name:und_x_variant":[
         "Tierra Adentro",
-        "Tierradentro",
-        "Arag\u00f3n"
+        "Tierradentro"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0627\u06af\u0648\u0646"
@@ -390,7 +393,7 @@
         }
     ],
     "wof:id":1327142789,
-    "wof:lastmodified":1564287736,
+    "wof:lastmodified":1566706148,
     "wof:name":"Aragon",
     "wof:parent_id":421184087,
     "wof:placetype":"locality",

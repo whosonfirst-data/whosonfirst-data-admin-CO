@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.14302,2.8587,-75.10302,2.8987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Xinebra"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293261481,
-    "wof:lastmodified":1564290361,
+    "wof:lastmodified":1566706785,
     "wof:name":"Ginebra",
     "wof:parent_id":421167923,
     "wof:placetype":"locality",

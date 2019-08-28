@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.589941,
     "lbl:longitude":-72.929632,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Iz\u00e1",
     "meso:gadm_hasc2":"CO.BY.IZ",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.929632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cu\u00edtiva"
@@ -118,9 +121,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"34",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Iz\u00e1",
@@ -142,7 +145,7 @@
         "gn:id":3685483,
         "gp:id":26796825,
         "hasc:id":"CO.BY.IZ",
-        "qs:id":989504,
+        "qs_pg:id":989504,
         "wd:id":"Q1654830"
     },
     "wof:country":"CO",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421184109,
-    "wof:lastmodified":1563309420,
+    "wof:lastmodified":1566708027,
     "wof:name":"Cu\u00edtiva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

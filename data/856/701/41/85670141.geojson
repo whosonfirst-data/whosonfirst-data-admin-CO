@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.676329,
     "lbl:longitude":-73.416147,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Santander",
     "mps:latitude":6.700777,
     "mps:longitude":-73.389979,
@@ -212,9 +213,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430\u043d\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Santander"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0627\u0646\u062f\u0631 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -302,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"30,537",
     "statoids:area_mi":"11,790",
     "statoids:as_of_date":"2005-05-22",
@@ -329,7 +327,7 @@
         "hasc:id":"CO.ST",
         "iso:id":"CO-SAN",
         "loc:id":"n81084493",
-        "qs:id":1083814,
+        "qs_pg:id":1083814,
         "wd:id":"Q235166",
         "wk:page":"Santander Department"
     },
@@ -349,11 +347,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670380,
+    "wof:lastmodified":1566706545,
     "wof:name":"Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1913444,
     "wof:population_rank":12,

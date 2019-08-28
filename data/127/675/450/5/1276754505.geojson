@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.56757,1.56188,-75.52757,1.60188",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "La Mina"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276754505,
-    "wof:lastmodified":1564290480,
+    "wof:lastmodified":1566706814,
     "wof:name":"La Mina",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

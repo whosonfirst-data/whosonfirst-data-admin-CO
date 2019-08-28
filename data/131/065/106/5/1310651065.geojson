@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.33028,3.71278,-76.29028,3.75278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "El Carmen"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1310651065,
-    "wof:lastmodified":1564293456,
+    "wof:lastmodified":1566707648,
     "wof:name":"El Carmen",
     "wof:parent_id":421204845,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-75.88322,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":6263,
+    "gn:population":6263,
     "iso:country":"CO",
+    "lbl:bbox":"-75.90322,5.2773,-75.86322,5.3173",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Mistrat\u00f3"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3674678,
         "gp:id":369137,
-        "qs:id":150092,
+        "qs_pg:id":150092,
         "wd:id":"Q923166",
         "wk:page":"Mistrato"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890441949,
-    "wof:lastmodified":1563309632,
+    "wof:lastmodified":1566708069,
     "wof:name":"Mistrat\u00f3",
     "wof:parent_id":1108701175,
     "wof:placetype":"locality",

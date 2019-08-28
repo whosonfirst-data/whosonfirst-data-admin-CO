@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.85278,3.96139,-75.81278,4.00139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Campo Alegre"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1326791219,
-    "wof:lastmodified":1564287967,
+    "wof:lastmodified":1566706203,
     "wof:name":"Campo Alegre",
     "wof:parent_id":421188713,
     "wof:placetype":"locality",

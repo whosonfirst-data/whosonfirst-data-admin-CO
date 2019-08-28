@@ -10,8 +10,12 @@
     "geom:latitude":10.75773,
     "geom:longitude":-74.75451,
     "iso:country":"CO",
+    "lbl:bbox":"-74.77451,10.73773,-74.73451,10.77773",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Santo Tom\u00e1s"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3668332,
         "gp:id":368410,
-        "qs:id":251735,
+        "qs_pg:id":251735,
         "wd:id":"Q2434309"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421204981,
-    "wof:lastmodified":1563309049,
+    "wof:lastmodified":1566707950,
     "wof:name":"Santo Tom\u00e1s",
     "wof:parent_id":1108700083,
     "wof:placetype":"locality",

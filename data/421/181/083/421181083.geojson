@@ -10,8 +10,12 @@
     "geom:latitude":5.60412,
     "geom:longitude":-73.48518,
     "iso:country":"CO",
+    "lbl:bbox":"-73.50518,5.58412,-73.46518,5.62412",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ch\u00edquiza"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Chiquiza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chiquisa"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3686495,
         "gp:id":353014,
-        "qs:id":475081,
+        "qs_pg:id":475081,
         "wd:id":"Q1575485",
         "wk:page":"Ch\u00edquiza"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421181083,
-    "wof:lastmodified":1563309260,
+    "wof:lastmodified":1566707997,
     "wof:name":"Ch\u00edquiza",
     "wof:parent_id":421194369,
     "wof:placetype":"locality",

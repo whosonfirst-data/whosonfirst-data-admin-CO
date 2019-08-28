@@ -10,6 +10,9 @@
     "geom:latitude":2.68489,
     "geom:longitude":-75.32311,
     "iso:country":"CO",
+    "lbl:bbox":"-75.34311,2.66489,-75.30311,2.70489",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -74,7 +77,7 @@
     "name:tgl_x_preferred":[
         "Campoalegre"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sevilla"
     ],
     "name:vie_x_preferred":[
@@ -212,7 +215,7 @@
     "wof:concordances":{
         "gn:id":3687806,
         "gp:id":368280,
-        "qs:id":1046391,
+        "qs_pg:id":1046391,
         "wd:id":"Q2327412",
         "wk:page":"Campoalegre"
     },
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421176473,
-    "wof:lastmodified":1563309581,
+    "wof:lastmodified":1566708060,
     "wof:name":"Campoalegre",
     "wof:parent_id":1108700807,
     "wof:placetype":"locality",

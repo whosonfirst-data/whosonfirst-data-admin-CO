@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.47111,5.69222,-74.43111,5.73222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Teran"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276271345,
-    "wof:lastmodified":1564290632,
+    "wof:lastmodified":1566706853,
     "wof:name":"Teran",
     "wof:parent_id":1108700737,
     "wof:placetype":"locality",

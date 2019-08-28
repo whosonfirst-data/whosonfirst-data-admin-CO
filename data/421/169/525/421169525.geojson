@@ -10,8 +10,12 @@
     "geom:latitude":6.13735,
     "geom:longitude":-73.09847,
     "iso:country":"CO",
+    "lbl:bbox":"-73.11847,6.11735,-73.07847,6.15735",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Encino"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3682656,
         "gp:id":368927,
-        "qs:id":194672,
+        "qs_pg:id":194672,
         "wd:id":"Q1654297",
         "wk:page":"Encino, Santander"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421169525,
-    "wof:lastmodified":1563309006,
+    "wof:lastmodified":1566707944,
     "wof:name":"Encino",
     "wof:parent_id":1108701247,
     "wof:placetype":"locality",

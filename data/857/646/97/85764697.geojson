@@ -9,14 +9,16 @@
     "geom:bbox":"-74.069949,4.587768,-74.069949,4.587768",
     "geom:latitude":4.587768,
     "geom:longitude":-74.069949,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":4.583,
     "gn:longitude":-74.06667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.074949,4.582768,-74.064949,4.592768",
     "lbl:latitude":4.587768,
     "lbl:longitude":-74.069949,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.57563,
     "mps:longitude":-74.058913,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
         "La Pe\u00f1a"
     ],
     "name:swe_x_preferred":[
-        "La Pe\u00f1a"
-    ],
-    "name:unk_x_variant":[
         "La Pe\u00f1a"
     ],
     "name:war_x_preferred":[
@@ -118,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670165,
         102191577,
@@ -129,7 +128,6 @@
     "wof:concordances":{
         "gn:id":3678156,
         "gp:id":359674,
-        "qs:id":887588,
         "qs_pg:id":887588
     },
     "wof:country":"CO",
@@ -148,7 +146,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289415,
+    "wof:lastmodified":1566706531,
     "wof:name":"La Pe\u00f1a",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

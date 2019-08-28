@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.73027,6.03977,-75.69027,6.07977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Gual\u00ed"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209417673,
-    "wof:lastmodified":1537618776,
+    "wof:lastmodified":1566707102,
     "wof:name":"Guali",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

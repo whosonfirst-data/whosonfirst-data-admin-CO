@@ -10,8 +10,12 @@
     "geom:latitude":9.3741,
     "geom:longitude":-75.75891,
     "iso:country":"CO",
+    "lbl:bbox":"-75.77891,9.3541,-75.73891,9.3941",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Antero"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3670199,
         "gp:id":368385,
-        "qs:id":924798,
+        "qs_pg:id":924798,
         "wd:id":"Q1442369",
         "wk:page":"San Antero"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421194793,
-    "wof:lastmodified":1563308942,
+    "wof:lastmodified":1566707933,
     "wof:name":"San Antero",
     "wof:parent_id":421202521,
     "wof:placetype":"locality",

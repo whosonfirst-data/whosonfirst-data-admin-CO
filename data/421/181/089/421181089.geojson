@@ -10,8 +10,12 @@
     "geom:latitude":4.4582,
     "geom:longitude":-74.63434,
     "iso:country":"CO",
+    "lbl:bbox":"-74.65434,4.4382,-74.61434,4.4782",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tocaima"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3667003,
         "gp:id":367327,
-        "qs:id":475155,
+        "qs_pg:id":475155,
         "wd:id":"Q1525235"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421181089,
-    "wof:lastmodified":1563309270,
+    "wof:lastmodified":1566707999,
     "wof:name":"Tocaima",
     "wof:parent_id":421188671,
     "wof:placetype":"locality",

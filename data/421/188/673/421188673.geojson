@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.013311,
     "lbl:longitude":-74.489014,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Villeta",
     "meso:gadm_hasc2":"CO.CU.VL",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.489014,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villeta"
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Villeta",
@@ -143,7 +146,7 @@
         "gn:id":3665896,
         "gp:id":26797157,
         "hasc:id":"CO.CU.VL",
-        "qs:id":1103728,
+        "qs_pg:id":1103728,
         "wd:id":"Q1440837",
         "wk:page":"Villeta, Cundinamarca"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":421188673,
-    "wof:lastmodified":1563309196,
+    "wof:lastmodified":1566707983,
     "wof:name":"Villeta",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

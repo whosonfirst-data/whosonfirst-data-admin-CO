@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.69306,6.47139,-74.65306,6.51139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242585939,
-    "wof:lastmodified":1537049443,
+    "wof:lastmodified":1566708160,
     "wof:name":"Farallones",
     "wof:parent_id":1108699975,
     "wof:placetype":"locality",

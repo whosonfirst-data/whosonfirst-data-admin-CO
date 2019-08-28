@@ -11,8 +11,11 @@
     "geom:longitude":-67.48588,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":10216,
+    "gn:population":10216,
     "iso:country":"CO",
+    "lbl:bbox":"-67.50588,6.16903,-67.46588,6.20903",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -241,7 +244,7 @@
     "wof:concordances":{
         "gn:id":3671519,
         "gp:id":395718,
-        "qs:id":150063,
+        "qs_pg:id":150063,
         "wd:id":"Q130304",
         "wk:page":"Puerto Carre\u00f1o"
     },
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890451737,
-    "wof:lastmodified":1563309700,
+    "wof:lastmodified":1566708077,
     "wof:name":"Puerto Carre\u00f1o",
     "wof:parent_id":421201569,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-76.53499,
     "gn:country":"CO",
     "gn:fcode":"PPLA2",
-    "gn:pop":44833,
+    "gn:population":44833,
     "iso:country":"CO",
+    "lbl:bbox":"-76.55499,3.24074,-76.51499,3.28074",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ast_x_preferred":[
         "Jamund\u00ed"
     ],
@@ -75,7 +79,7 @@
     "name:swe_x_preferred":[
         "Jamund\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Rosario"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3680387,
         "gp:id":368213,
-        "qs:id":279868,
+        "qs_pg:id":279868,
         "wd:id":"Q1681497",
         "wk:page":"Jamund\u00ed"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890433265,
-    "wof:lastmodified":1563309702,
+    "wof:lastmodified":1566708077,
     "wof:name":"Jamund\u00ed",
     "wof:parent_id":421190209,
     "wof:placetype":"locality",

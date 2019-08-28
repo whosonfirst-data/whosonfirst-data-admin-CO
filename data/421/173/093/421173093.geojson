@@ -10,8 +10,12 @@
     "geom:latitude":4.52949,
     "geom:longitude":-75.64091,
     "iso:country":"CO",
+    "lbl:bbox":"-75.66091,4.50949,-75.62091,4.54949",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Calarc\u00e1"
@@ -70,9 +74,6 @@
     "name:tgl_x_preferred":[
         "Calarc\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Calarca"
-    ],
     "name:vie_x_preferred":[
         "Calarc\u00e1"
     ],
@@ -112,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3687964,
         "gp:id":368185,
-        "qs:id":489514,
+        "qs_pg:id":489514,
         "wd:id":"Q2240918"
     },
     "wof:country":"CO",
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421173093,
-    "wof:lastmodified":1563309184,
+    "wof:lastmodified":1566707979,
     "wof:name":"Calarc\u00e1",
     "wof:parent_id":421170155,
     "wof:placetype":"locality",

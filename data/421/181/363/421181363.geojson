@@ -10,8 +10,12 @@
     "geom:latitude":4.96531,
     "geom:longitude":-73.91301,
     "iso:country":"CO",
+    "lbl:bbox":"-73.93301,4.94531,-73.89301,4.98531",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tocancip\u00e1"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3666997,
         "gp:id":367328,
-        "qs:id":489503,
+        "qs_pg:id":489503,
         "wd:id":"Q1442348",
         "wk:page":"Tocancip\u00e1"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421181363,
-    "wof:lastmodified":1563309259,
+    "wof:lastmodified":1566707997,
     "wof:name":"Tocancip\u00e1",
     "wof:parent_id":421187813,
     "wof:placetype":"locality",

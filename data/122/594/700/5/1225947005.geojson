@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.84043,5.79919,-75.80043,5.83919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225947005,
-    "wof:lastmodified":1536866209,
+    "wof:lastmodified":1566708471,
     "wof:name":"Villa Rocio",
     "wof:parent_id":421204269,
     "wof:placetype":"locality",

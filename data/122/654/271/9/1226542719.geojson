@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.80139,5.93444,-75.76139,5.97444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Loma"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226542719,
-    "wof:lastmodified":1564297352,
+    "wof:lastmodified":1566708688,
     "wof:name":"La Loma",
     "wof:parent_id":421188621,
     "wof:placetype":"locality",

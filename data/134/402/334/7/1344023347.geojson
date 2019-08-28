@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.26394,1.9582,-74.22394,1.9982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Los Lobos"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1344023347,
-    "wof:lastmodified":1564289204,
+    "wof:lastmodified":1566706483,
     "wof:name":"Los Lobos",
     "wof:parent_id":421169199,
     "wof:placetype":"locality",

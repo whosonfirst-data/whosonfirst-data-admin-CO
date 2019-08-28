@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.91924,11.28987,-72.87924,11.32987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Abra"
     ],
@@ -47,8 +51,7 @@
     "name:und_x_variant":[
         "Caser\u00edo El Abra",
         "Abras",
-        "Abra",
-        "El Abra"
+        "Abra"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1260258743,
-    "wof:lastmodified":1564292875,
+    "wof:lastmodified":1566707368,
     "wof:name":"El Abra",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

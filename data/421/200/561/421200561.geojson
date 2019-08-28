@@ -10,8 +10,11 @@
     "geom:latitude":11.25,
     "geom:longitude":-74.2,
     "iso:country":"CO",
+    "lbl:bbox":"-74.205,11.245,-74.195,11.255",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Barrio Obrero"
@@ -37,16 +40,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":14,
     "wof:belongsto":[
+        85670223,
         102191577,
         85632519,
-        1108700871,
-        85670223
+        1108700871
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3689124,
         "gp:id":351246,
-        "qs:id":887581
+        "qs_pg:id":887581
     },
     "wof:country":"CO",
     "wof:created":1459010029,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421200561,
-    "wof:lastmodified":1531858776,
+    "wof:lastmodified":1566708018,
     "wof:name":"Barrio Obrero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

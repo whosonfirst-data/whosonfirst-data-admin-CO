@@ -10,8 +10,12 @@
     "geom:latitude":3.92922,
     "geom:longitude":-75.01517,
     "iso:country":"CO",
+    "lbl:bbox":"-75.03517,3.90922,-74.99517,3.94922",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Salda\u00f1a"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3670357,
         "gp:id":369355,
-        "qs:id":1063410,
+        "qs_pg:id":1063410,
         "wd:id":"Q1525454",
         "wk:page":"Salda\u00f1a, Colombia"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421186309,
-    "wof:lastmodified":1563309236,
+    "wof:lastmodified":1566707993,
     "wof:name":"Salda\u00f1a",
     "wof:parent_id":1108701465,
     "wof:placetype":"locality",

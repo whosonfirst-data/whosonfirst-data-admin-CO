@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.577732,
     "lbl:longitude":-72.633866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Casanare",
     "meso:gadm_admin":"Tauramena",
     "meso:gadm_hasc2":"CO.CS.TN",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.633866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tauramena"
     ],
@@ -82,9 +85,9 @@
         "\u9676\u62c9\u6885\u7d0d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"2391",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Tauramena",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108701553,
-    "wof:lastmodified":1564293225,
+    "wof:lastmodified":1566707534,
     "wof:name":"Tauramena",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

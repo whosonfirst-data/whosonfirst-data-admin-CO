@@ -10,8 +10,12 @@
     "geom:latitude":7.06222,
     "geom:longitude":-73.08644,
     "iso:country":"CO",
+    "lbl:bbox":"-73.10644,7.04222,-73.06644,7.08222",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Floridablanca"
@@ -85,7 +89,7 @@
     "name:tgl_x_preferred":[
         "Floridablanca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Florida"
     ],
     "name:urd_x_preferred":[
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":3682385,
         "gp:id":368934,
-        "qs:id":1301530,
+        "qs_pg:id":1301530,
         "wd:id":"Q1006661"
     },
     "wof:country":"CO",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":421200379,
-    "wof:lastmodified":1563309376,
+    "wof:lastmodified":1566708018,
     "wof:name":"Floridablanca",
     "wof:parent_id":1108701253,
     "wof:placetype":"locality",

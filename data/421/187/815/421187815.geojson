@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.965709,
     "lbl:longitude":-74.165451,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Subachoque",
     "meso:gadm_hasc2":"CO.CU.SQ",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.165451,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Subachoque"
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
         102191577,
@@ -125,7 +128,7 @@
         "gn:id":3667761,
         "gp:id":26797134,
         "hasc:id":"CO.CU.SQ",
-        "qs:id":1086194,
+        "qs_pg:id":1086194,
         "wd:id":"Q959079"
     },
     "wof:country":"CO",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421187815,
-    "wof:lastmodified":1563309147,
+    "wof:lastmodified":1566707974,
     "wof:name":"Subachoque",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.393426,
     "lbl:longitude":-75.558475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Caldas",
     "meso:gadm_admin":"La Merced",
     "meso:gadm_hasc2":"CO.CL.LM",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.558475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "La Merced"
     ],
@@ -85,9 +88,9 @@
         "\u62c9\u6885\u723e\u585e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"43",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"La Merced",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108700381,
-    "wof:lastmodified":1563307379,
+    "wof:lastmodified":1566707488,
     "wof:name":"La Merced",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

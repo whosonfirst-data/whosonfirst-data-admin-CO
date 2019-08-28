@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.40333,8.98,-74.36333,9.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Cajita",
         "Las Cajitas"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277027031,
-    "wof:lastmodified":1537618501,
+    "wof:lastmodified":1566706926,
     "wof:name":"Las Cajitas",
     "wof:parent_id":1108700123,
     "wof:placetype":"locality",

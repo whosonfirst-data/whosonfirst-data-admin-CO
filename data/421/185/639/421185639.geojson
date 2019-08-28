@@ -10,6 +10,9 @@
     "geom:latitude":6.96321,
     "geom:longitude":-75.41738,
     "iso:country":"CO",
+    "lbl:bbox":"-75.43738,6.94321,-75.39738,6.98321",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -218,7 +221,7 @@
     "wof:concordances":{
         "gn:id":3665741,
         "gp:id":368244,
-        "qs:id":899376,
+        "qs_pg:id":899376,
         "wd:id":"Q972405"
     },
     "wof:country":"CO",
@@ -234,7 +237,7 @@
         }
     ],
     "wof:id":421185639,
-    "wof:lastmodified":1563309619,
+    "wof:lastmodified":1566708067,
     "wof:name":"Yarumal",
     "wof:parent_id":1108700043,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-75.14083,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":8067,
+    "gn:population":8067,
     "iso:country":"CO",
+    "lbl:bbox":"-75.16083,10.37306,-75.12083,10.41306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Soplaviento"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3667811,
         "gp:id":368569,
-        "qs:id":1046180,
+        "qs_pg:id":1046180,
         "wd:id":"Q1575590",
         "wk:page":"Soplaviento"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890444933,
-    "wof:lastmodified":1563309675,
+    "wof:lastmodified":1566708075,
     "wof:name":"Soplaviento",
     "wof:parent_id":1108700149,
     "wof:placetype":"locality",

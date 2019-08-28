@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.44502,1.33626,-77.40502,1.37626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Robles",
         "Santa Cruz",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344032027,
-    "wof:lastmodified":1537618391,
+    "wof:lastmodified":1566706486,
     "wof:name":"Santacruz de Robles",
     "wof:parent_id":421170941,
     "wof:placetype":"locality",

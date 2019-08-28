@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.85333,5.54667,-72.81333,5.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3666900
     },
     "wof:country":"CO",
-    "wof:geomhash":"161c1831a10b4e4ebb889aaccbcfb29e",
+    "wof:geomhash":"3620c83d8a78bd07c520432a41e2c076",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209459259,
-    "wof:lastmodified":1536286436,
+    "wof:lastmodified":1566707220,
     "wof:name":"Toquilla",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -72.83333,
-    5.5666699999999985,
+    5.56667,
     -72.83333,
-    5.5666699999999985
+    5.56667
 ],
   "geometry": {"coordinates":[-72.83333,5.56667],"type":"Point"}
 }

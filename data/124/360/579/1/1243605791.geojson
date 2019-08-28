@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.52806,5.95396,-73.48806,5.99396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "El Alto"
     ],
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":1243605791,
-    "wof:lastmodified":1564295374,
+    "wof:lastmodified":1566708236,
     "wof:name":"El Alto",
     "wof:parent_id":1108700357,
     "wof:placetype":"locality",

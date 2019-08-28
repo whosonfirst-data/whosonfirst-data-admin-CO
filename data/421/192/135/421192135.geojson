@@ -10,8 +10,12 @@
     "geom:latitude":6.75427,
     "geom:longitude":-72.9744,
     "iso:country":"CO",
+    "lbl:bbox":"-72.9944,6.73427,-72.9544,6.77427",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cepit\u00e1"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3686925,
         "gp:id":352798,
-        "qs:id":1165261,
+        "qs_pg:id":1165261,
         "wd:id":"Q963127",
         "wk:page":"Cepita"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421192135,
-    "wof:lastmodified":1563308919,
+    "wof:lastmodified":1566707927,
     "wof:name":"Cepit\u00e1",
     "wof:parent_id":1108701211,
     "wof:placetype":"locality",

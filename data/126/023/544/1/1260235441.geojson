@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.4559,9.38538,-75.4159,9.42538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Floral",
         "El Floral"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260235441,
-    "wof:lastmodified":1537618590,
+    "wof:lastmodified":1566707347,
     "wof:name":"El Floral",
     "wof:parent_id":1108701421,
     "wof:placetype":"locality",

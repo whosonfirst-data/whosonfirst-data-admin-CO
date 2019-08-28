@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.26174,9.74492,-74.22174,9.78492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0412\u044f\u0441\u043d\u0430"
     ],
@@ -87,8 +91,7 @@
         "\u0412\u0435\u0441\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Hacienda Primavera",
-        "Primavera"
+        "Hacienda Primavera"
     ],
     "name:vol_x_preferred":[
         "Primavera"
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1276927667,
-    "wof:lastmodified":1564290803,
+    "wof:lastmodified":1566706893,
     "wof:name":"Primavera",
     "wof:parent_id":1108700875,
     "wof:placetype":"locality",

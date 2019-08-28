@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.29756,4.53028,-76.25756,4.57028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sirimanda",
         "Sirimunda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327483939,
-    "wof:lastmodified":1537618380,
+    "wof:lastmodified":1566706169,
     "wof:name":"Sirimunda",
     "wof:parent_id":1108701493,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.971157,
     "lbl:longitude":-73.295344,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Macanal",
     "meso:gadm_hasc2":"CO.BY.MC",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.295344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Macanal"
     ],
@@ -88,7 +91,7 @@
         "\u99ac\u5361\u7d0d\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108700265,
-    "wof:lastmodified":1563307581,
+    "wof:lastmodified":1566707566,
     "wof:name":"Macanal",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

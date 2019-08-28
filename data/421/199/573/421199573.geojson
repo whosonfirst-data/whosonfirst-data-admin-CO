@@ -10,8 +10,12 @@
     "geom:latitude":4.74778,
     "geom:longitude":-72.53694,
     "iso:country":"CO",
+    "lbl:bbox":"-72.55694,4.72778,-72.51694,4.76778",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ubal\u00e1"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3666526,
         "gp:id":367565,
-        "qs:id":194560,
+        "qs_pg:id":194560,
         "wd:id":"Q1525790",
         "wk:page":"Ubal\u00e1"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421199573,
-    "wof:lastmodified":1563309362,
+    "wof:lastmodified":1566708016,
     "wof:name":"Ubal\u00e1",
     "wof:parent_id":1108701529,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":10.85953,
     "geom:longitude":-74.77386,
     "iso:country":"CO",
+    "lbl:bbox":"-74.79386,10.83953,-74.75386,10.87953",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Malambo"
@@ -119,7 +123,7 @@
     "wof:concordances":{
         "gn:id":3675595,
         "gp:id":368528,
-        "qs:id":888779,
+        "qs_pg:id":888779,
         "wd:id":"Q568597"
     },
     "wof:country":"CO",
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":421194007,
-    "wof:lastmodified":1563308937,
+    "wof:lastmodified":1566707932,
     "wof:name":"Malambo",
     "wof:parent_id":1108700061,
     "wof:placetype":"locality",

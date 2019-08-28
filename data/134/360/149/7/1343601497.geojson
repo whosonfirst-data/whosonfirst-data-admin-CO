@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.18044,5.01532,-73.14044,5.05532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bellavista"
     ],
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":1343601497,
-    "wof:lastmodified":1564289067,
+    "wof:lastmodified":1566706451,
     "wof:name":"Bellavista",
     "wof:parent_id":1108700205,
     "wof:placetype":"locality",

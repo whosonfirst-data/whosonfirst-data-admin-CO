@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.69964,7.32852,-73.65964,7.36852",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento Pradilla",
         "Pradilla"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259638123,
-    "wof:lastmodified":1537618427,
+    "wof:lastmodified":1566708350,
     "wof:name":"Pradilla",
     "wof:parent_id":1108701325,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.226761,
     "lbl:longitude":-73.78505,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Cucunub\u00e1",
     "meso:gadm_hasc2":"CO.CU.CU",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.78505,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cucunub\u00e1"
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Cucunub\u00e1",
@@ -140,7 +143,7 @@
         "gn:id":3685541,
         "gp:id":26797068,
         "hasc:id":"CO.CU.CU",
-        "qs:id":231618,
+        "qs_pg:id":231618,
         "wd:id":"Q1575538"
     },
     "wof:country":"CO",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":421203441,
-    "wof:lastmodified":1563309052,
+    "wof:lastmodified":1566707951,
     "wof:name":"Cucunub\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

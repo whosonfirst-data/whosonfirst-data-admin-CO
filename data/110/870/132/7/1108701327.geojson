@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.324486,
     "lbl:longitude":-73.193112,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Rionegro",
     "meso:gadm_hasc2":"CO.ST.RI",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.193112,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0631\u064a\u0648\u0646\u064a\u063a\u0631\u0648"
     ],
@@ -121,9 +124,9 @@
         "\u91cc\u5967\u5167\u683c\u7f85"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"1064",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Rionegro",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1108701327,
-    "wof:lastmodified":1564293157,
+    "wof:lastmodified":1566707440,
     "wof:name":"Rionegro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

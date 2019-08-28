@@ -10,8 +10,12 @@
     "geom:latitude":3.34639,
     "geom:longitude":-73.88944,
     "iso:country":"CO",
+    "lbl:bbox":"-73.90944,3.32639,-73.86944,3.36639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan de Arama"
@@ -49,7 +53,7 @@
     "name:tgl_x_preferred":[
         "San Juan de Arama"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Municipio Juan de Arama"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3669482,
         "gp:id":369399,
-        "qs:id":1046198,
+        "qs_pg:id":1046198,
         "wd:id":"Q1575316",
         "wk:page":"San Juan de Arama"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421194307,
-    "wof:lastmodified":1563308930,
+    "wof:lastmodified":1566707931,
     "wof:name":"San Juan de Arama",
     "wof:parent_id":1108700959,
     "wof:placetype":"locality",

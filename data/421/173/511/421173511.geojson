@@ -10,8 +10,12 @@
     "geom:latitude":6.65149,
     "geom:longitude":-74.05734,
     "iso:country":"CO",
+    "lbl:bbox":"-74.07734,6.63149,-74.03734,6.67149",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Parra"
@@ -50,9 +54,6 @@
         "Puerto Parra"
     ],
     "name:tgl_x_preferred":[
-        "Puerto Parra"
-    ],
-    "name:unk_x_variant":[
         "Puerto Parra"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3671371,
         "gp:id":420010,
-        "qs:id":289652,
+        "qs_pg:id":289652,
         "wd:id":"Q1575386",
         "wk:page":"Puerto Parra"
     },
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421173511,
-    "wof:lastmodified":1563309169,
+    "wof:lastmodified":1566707977,
     "wof:name":"Puerto Carare",
     "wof:parent_id":1108701323,
     "wof:placetype":"locality",

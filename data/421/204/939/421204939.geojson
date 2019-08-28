@@ -10,8 +10,12 @@
     "geom:latitude":4.97214,
     "geom:longitude":-73.31959,
     "iso:country":"CO",
+    "lbl:bbox":"-73.33959,4.95214,-73.29959,4.99214",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Macanal"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3675791,
         "gp:id":361895,
-        "qs:id":251698,
+        "qs_pg:id":251698,
         "wd:id":"Q1656366"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421204939,
-    "wof:lastmodified":1563309018,
+    "wof:lastmodified":1566707945,
     "wof:name":"Macanal",
     "wof:parent_id":1108700265,
     "wof:placetype":"locality",

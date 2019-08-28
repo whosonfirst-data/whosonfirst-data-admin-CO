@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.23659,8.3175,-77.19659,8.3575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343438799,
-    "wof:lastmodified":1536778095,
+    "wof:lastmodified":1566706525,
     "wof:name":"Chidima",
     "wof:parent_id":421172119,
     "wof:placetype":"locality",

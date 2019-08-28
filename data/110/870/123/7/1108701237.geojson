@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.661827,
     "lbl:longitude":-73.560877,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"El Carmen de Chucur\u00ed",
     "meso:gadm_hasc2":"CO.ST.EC",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.560877,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "El Carmen de Chucuri"
     ],
@@ -42,9 +45,9 @@
         "El Carmen de Chucuri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"914",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"El Carmen de Chucur\u00ed",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1108701237,
-    "wof:lastmodified":1555047407,
+    "wof:lastmodified":1566707594,
     "wof:name":"El Carmen de Chucuri",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

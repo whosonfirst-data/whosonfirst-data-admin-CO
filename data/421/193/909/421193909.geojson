@@ -10,8 +10,12 @@
     "geom:latitude":8.21043,
     "geom:longitude":-72.46399,
     "iso:country":"CO",
+    "lbl:bbox":"-72.48399,8.19043,-72.44399,8.23043",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Esperanza"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3679130,
         "gp:id":369022,
-        "qs:id":288394
+        "qs_pg:id":288394
     },
     "wof:country":"CO",
     "wof:created":1459009787,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421193909,
-    "wof:lastmodified":1564294685,
+    "wof:lastmodified":1566707935,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108701087,
     "wof:placetype":"locality",

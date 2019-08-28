@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.82114,9.08524,-74.78114,9.12524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento Tocasaluma",
         "Tacasa Luna",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226187007,
-    "wof:lastmodified":1537618377,
+    "wof:lastmodified":1566708519,
     "wof:name":"Tacasaluma",
     "wof:parent_id":421184105,
     "wof:placetype":"locality",

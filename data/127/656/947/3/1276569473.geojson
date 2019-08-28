@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.37739,2.72979,-76.33739,2.76979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Toguengo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276569473,
-    "wof:lastmodified":1537618808,
+    "wof:lastmodified":1566706873,
     "wof:name":"Toguengo",
     "wof:parent_id":1108700507,
     "wof:placetype":"locality",

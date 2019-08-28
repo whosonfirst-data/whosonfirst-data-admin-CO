@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.3775,3.55111,-74.3375,3.59111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Hoya de Varela"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226620807,
-    "wof:lastmodified":1537618670,
+    "wof:lastmodified":1566708681,
     "wof:name":"La Hoya de Varela",
     "wof:parent_id":1108700945,
     "wof:placetype":"locality",

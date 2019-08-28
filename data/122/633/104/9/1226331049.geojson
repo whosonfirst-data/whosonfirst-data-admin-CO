@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.60513,8.32543,-73.56513,8.36543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Guaro"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226331049,
-    "wof:lastmodified":1537618749,
+    "wof:lastmodified":1566708535,
     "wof:name":"El Guaro",
     "wof:parent_id":421185023,
     "wof:placetype":"locality",

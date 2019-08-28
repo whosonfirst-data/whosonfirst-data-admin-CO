@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.26899,9.05665,-75.22899,9.09665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ceja del Mango",
         "Caser\u00edo La Ceja del Mango",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225898583,
-    "wof:lastmodified":1537618531,
+    "wof:lastmodified":1566708585,
     "wof:name":"La Ceja del Mango",
     "wof:parent_id":1108701409,
     "wof:placetype":"locality",

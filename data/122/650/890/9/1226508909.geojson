@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.62216,11.11301,-72.58216,11.15301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226508909,
-    "wof:lastmodified":1537049174,
+    "wof:lastmodified":1566708577,
     "wof:name":"El Ejemplo",
     "wof:parent_id":421188817,
     "wof:placetype":"locality",

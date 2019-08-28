@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":3.420497,
     "lbl:longitude":-73.166783,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":3.420497,
     "mps:longitude":-73.166783,
     "mz:hierarchy_label":1,
@@ -832,16 +834,9 @@
     "name:und_x_colloquial":[
         "Kolombia"
     ],
-    "name:und_x_preferred":[
-        "Kolumbia",
-        "Kolumbija"
-    ],
     "name:und_x_variant":[
         "K\u00f3lomb\u00eda",
         "Republika Kolumbija"
-    ],
-    "name:unk_x_variant":[
-        "Rep\u00fablica de Colombia"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
@@ -1006,7 +1001,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"57",
     "statoids:ds":"CO",
@@ -1050,7 +1045,7 @@
         "mzb:id":"colombia",
         "ne:adm0_a3":"COL",
         "nyt:id":"N7998362261849978901",
-        "qs:id":479710,
+        "qs_pg:id":479710,
         "uncrt:id":"CO",
         "wd:id":"Q739",
         "wk:page":"Colombia",
@@ -1072,7 +1067,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670383,
+    "wof:lastmodified":1566706548,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",

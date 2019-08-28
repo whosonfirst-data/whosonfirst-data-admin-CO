@@ -12,8 +12,10 @@
     "gn:latitude":10.43333,
     "gn:longitude":-75.55,
     "iso:country":"CO",
+    "lbl:bbox":"-75.551166,10.423008,-75.541166,10.433008",
     "lbl:latitude":10.428008,
     "lbl:longitude":-75.546166,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.437836,
     "mps:longitude":-75.558636,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:spa_x_variant":[
         "Barrio El Cabrero"
-    ],
-    "name:unk_x_variant":[
-        "El Cabrero"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -62,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670209,
         102191577,
@@ -73,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3684809,
         "gp:id":353980,
-        "qs:id":240957
+        "qs_pg:id":240957
     },
     "wof:country":"CO",
     "wof:geomhash":"644156e87577c63c09ae9ef5199932c9",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289415,
+    "wof:lastmodified":1566706532,
     "wof:name":"El Cabrero",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

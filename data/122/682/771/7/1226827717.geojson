@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.6307,9.17915,-73.5907,9.21915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corregimiento Sabanagrande",
         "Sabanagrande"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226827717,
-    "wof:lastmodified":1537618410,
+    "wof:lastmodified":1566708615,
     "wof:name":"Sabanagrande",
     "wof:parent_id":421188175,
     "wof:placetype":"locality",

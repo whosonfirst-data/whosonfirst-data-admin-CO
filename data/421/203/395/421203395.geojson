@@ -10,8 +10,12 @@
     "geom:latitude":0.49389,
     "geom:longitude":-69.66694,
     "iso:country":"CO",
+    "lbl:bbox":"-69.68694,0.47389,-69.64694,0.51389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Taraira"
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":3792402,
         "gp:id":26797697,
-        "qs:id":62143,
+        "qs_pg:id":62143,
         "wd:id":"Q1655173",
         "wk:page":"Taraira"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421203395,
-    "wof:lastmodified":1563309055,
+    "wof:lastmodified":1566707952,
     "wof:name":"Taraira",
     "wof:parent_id":404550289,
     "wof:placetype":"locality",

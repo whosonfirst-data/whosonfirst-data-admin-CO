@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.584343,
     "lbl:longitude":-77.036628,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"La Cruz",
     "meso:gadm_hasc2":"CO.NA.LC",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.036628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "La Cruz"
     ],
@@ -85,7 +88,7 @@
         "\u62c9\u514b\u9b6f\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108700977,
-    "wof:lastmodified":1563307402,
+    "wof:lastmodified":1566707495,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

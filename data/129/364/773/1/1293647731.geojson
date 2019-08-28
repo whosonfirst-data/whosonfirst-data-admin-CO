@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.61346,1.02912,-76.57346,1.06912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Salto Del Indio"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293647731,
-    "wof:lastmodified":1537618741,
+    "wof:lastmodified":1566706619,
     "wof:name":"El Salto Del Indio",
     "wof:parent_id":421170259,
     "wof:placetype":"locality",

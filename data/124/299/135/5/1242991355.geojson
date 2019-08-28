@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.62968,2.76604,-76.58968,2.80604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Pedro",
         "Carpintero"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242991355,
-    "wof:lastmodified":1537618629,
+    "wof:lastmodified":1566708293,
     "wof:name":"Carpintero",
     "wof:parent_id":1108700479,
     "wof:placetype":"locality",

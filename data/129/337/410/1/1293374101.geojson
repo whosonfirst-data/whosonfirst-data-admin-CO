@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.49683,1.03078,-76.45683,1.07078",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guayuyaco",
         "N\u00e1poles"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293374101,
-    "wof:lastmodified":1537618452,
+    "wof:lastmodified":1566706593,
     "wof:name":"Napoles",
     "wof:parent_id":1108700489,
     "wof:placetype":"locality",

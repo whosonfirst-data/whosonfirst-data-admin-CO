@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.25951,6.65894,-73.21951,6.69894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Guane"
     ],
@@ -57,8 +61,7 @@
         "Guane"
     ],
     "name:und_x_variant":[
-        "Guarne",
-        "Guane"
+        "Guarne"
     ],
     "name:vie_x_preferred":[
         "Guane"
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1209772261,
-    "wof:lastmodified":1564291580,
+    "wof:lastmodified":1566707087,
     "wof:name":"Guane",
     "wof:parent_id":1108701193,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.46556,9.89543,-74.42556,9.93543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Casimira",
         "Casimira"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226084585,
-    "wof:lastmodified":1537618626,
+    "wof:lastmodified":1566708666,
     "wof:name":"Casimira",
     "wof:parent_id":1108700899,
     "wof:placetype":"locality",

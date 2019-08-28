@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.44444,8.29778,-72.40444,8.33778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Cairo"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1326494481,
-    "wof:lastmodified":1564287885,
+    "wof:lastmodified":1566706185,
     "wof:name":"El Cairo",
     "wof:parent_id":1108701133,
     "wof:placetype":"locality",

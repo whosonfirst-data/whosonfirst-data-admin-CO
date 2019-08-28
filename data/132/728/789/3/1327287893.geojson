@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.66822,4.35721,-74.62822,4.39721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u06cc\u0628\u0627\u0646\u0632"
     ],
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1327287893,
-    "wof:lastmodified":1564288251,
+    "wof:lastmodified":1566706265,
     "wof:name":"Ibanez",
     "wof:parent_id":1108700617,
     "wof:placetype":"locality",

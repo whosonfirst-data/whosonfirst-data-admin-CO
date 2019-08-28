@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.89861,9.43417,-73.85861,9.47417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "El Encanto"
     ],
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":1276419239,
-    "wof:lastmodified":1564291091,
+    "wof:lastmodified":1566706964,
     "wof:name":"El Encanto",
     "wof:parent_id":1108700527,
     "wof:placetype":"locality",

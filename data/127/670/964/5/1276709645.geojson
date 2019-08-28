@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.58199,4.32757,-72.54199,4.36757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tunepe",
         "Tunupe"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276709645,
-    "wof:lastmodified":1537618368,
+    "wof:lastmodified":1566706968,
     "wof:name":"Tunupe",
     "wof:parent_id":1108701553,
     "wof:placetype":"locality",

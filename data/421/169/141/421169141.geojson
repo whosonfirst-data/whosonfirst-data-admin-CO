@@ -10,6 +10,9 @@
     "geom:latitude":11.00703,
     "geom:longitude":-74.24765,
     "iso:country":"CO",
+    "lbl:bbox":"-74.26765,10.98703,-74.22765,11.02703",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -77,7 +80,7 @@
     "name:tgl_x_preferred":[
         "Ci\u00e9naga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan de Ci\u00e9naga"
     ],
     "name:vie_x_preferred":[
@@ -212,7 +215,7 @@
     "wof:concordances":{
         "gn:id":3686279,
         "gp:id":368162,
-        "qs:id":489521,
+        "qs_pg:id":489521,
         "wd:id":"Q1092797"
     },
     "wof:country":"CO",
@@ -228,7 +231,7 @@
         }
     ],
     "wof:id":421169141,
-    "wof:lastmodified":1563309007,
+    "wof:lastmodified":1566707944,
     "wof:name":"Ci\u00e9naga",
     "wof:parent_id":421187821,
     "wof:placetype":"locality",

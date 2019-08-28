@@ -10,8 +10,12 @@
     "geom:latitude":5.27372,
     "geom:longitude":-74.19614,
     "iso:country":"CO",
+    "lbl:bbox":"-74.21614,5.25372,-74.17614,5.29372",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villag\u00f3mez"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3665991,
         "gp:id":367934,
-        "qs:id":924780,
+        "qs_pg:id":924780,
         "wd:id":"Q1655514",
         "wk:page":"Villag\u00f3mez"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421175109,
-    "wof:lastmodified":1563309279,
+    "wof:lastmodified":1566708001,
     "wof:name":"Villag\u00f3mez",
     "wof:parent_id":1108700731,
     "wof:placetype":"locality",

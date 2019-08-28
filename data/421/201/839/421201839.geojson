@@ -10,8 +10,12 @@
     "geom:latitude":4.04906,
     "geom:longitude":-74.83198,
     "iso:country":"CO",
+    "lbl:bbox":"-74.85198,4.02906,-74.81198,4.06906",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Su\u00e1rez"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Su\u00e1rez"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Rosa"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3667772,
         "gp:id":369469,
-        "qs:id":214758,
+        "qs_pg:id":214758,
         "wd:id":"Q2104427"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421201839,
-    "wof:lastmodified":1563309404,
+    "wof:lastmodified":1566708023,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":1108701471,
     "wof:placetype":"locality",

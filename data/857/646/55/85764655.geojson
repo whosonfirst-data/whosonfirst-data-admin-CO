@@ -9,14 +9,16 @@
     "geom:bbox":"-73.144226,7.121334,-73.144226,7.121334",
     "geom:latitude":7.121334,
     "geom:longitude":-73.144226,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":7.12287,
     "gn:longitude":-73.13534,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-73.149226,7.116334,-73.139226,7.126334",
     "lbl:latitude":7.121334,
     "lbl:longitude":-73.144226,
+    "lbl:max_zoom":18.0,
     "mps:latitude":7.119971,
     "mps:longitude":-73.147789,
     "mz:hierarchy_label":0,
@@ -57,9 +59,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0440\u0430\u0440\u0434\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Girardot"
     ],
     "name:vie_x_preferred":[
         "Girardot"
@@ -111,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670141,
         102191577,
@@ -122,7 +121,6 @@
     "wof:concordances":{
         "gn:id":3682027,
         "gp:id":356674,
-        "qs:id":501168,
         "qs_pg:id":501168
     },
     "wof:country":"CO",
@@ -141,7 +139,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289415,
+    "wof:lastmodified":1566706531,
     "wof:name":"Girardot",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

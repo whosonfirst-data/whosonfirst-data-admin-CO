@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.13857,10.97251,-73.09857,11.01251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Reparo",
         "El Reparo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326493699,
-    "wof:lastmodified":1537618573,
+    "wof:lastmodified":1566706187,
     "wof:name":"El Reparo",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

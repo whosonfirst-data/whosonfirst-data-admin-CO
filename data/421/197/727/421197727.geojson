@@ -10,8 +10,12 @@
     "geom:latitude":5.42164,
     "geom:longitude":-75.70318,
     "iso:country":"CO",
+    "lbl:bbox":"-75.72318,5.40164,-75.68318,5.44164",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Riosucio"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Riosucio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ruiosucio"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3670719,
         "gp:id":368233,
-        "qs:id":150049,
+        "qs_pg:id":150049,
         "wd:id":"Q1093015",
         "wk:page":"Riosucio, Caldas"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421197727,
-    "wof:lastmodified":1563309356,
+    "wof:lastmodified":1566708015,
     "wof:name":"R\u00edosucio",
     "wof:parent_id":421202519,
     "wof:placetype":"locality",

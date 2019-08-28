@@ -10,8 +10,12 @@
     "geom:latitude":8.95652,
     "geom:longitude":-73.62548,
     "iso:country":"CO",
+    "lbl:bbox":"-73.64548,8.93652,-73.60548,8.97652",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pailitas"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3673379,
         "gp:id":369194,
-        "qs:id":1046259,
+        "qs_pg:id":1046259,
         "wd:id":"Q1525724",
         "wk:page":"Pailitas"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421176383,
-    "wof:lastmodified":1563309568,
+    "wof:lastmodified":1566708059,
     "wof:name":"Pailitas",
     "wof:parent_id":421188171,
     "wof:placetype":"locality",

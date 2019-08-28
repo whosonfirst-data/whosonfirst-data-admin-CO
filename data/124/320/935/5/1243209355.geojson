@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-69.72,6.01333,-69.68,6.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -94,8 +98,7 @@
         "San Rafael"
     ],
     "name:und_x_variant":[
-        "Ruinas de San Rafael",
-        "San Rafael"
+        "Ruinas de San Rafael"
     ],
     "name:vie_x_preferred":[
         "San Rafael"
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1243209355,
-    "wof:lastmodified":1564295626,
+    "wof:lastmodified":1566708294,
     "wof:name":"San Rafael",
     "wof:parent_id":1108701643,
     "wof:placetype":"locality",

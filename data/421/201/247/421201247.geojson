@@ -10,8 +10,12 @@
     "geom:latitude":6.3152,
     "geom:longitude":-76.1342,
     "iso:country":"CO",
+    "lbl:bbox":"-76.1542,6.2952,-76.1142,6.3352",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Urrao"
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":3666395,
         "gp:id":368242,
-        "qs:id":1341928,
+        "qs_pg:id":1341928,
         "wd:id":"Q1026557",
         "wk:page":"Urrao"
     },
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":421201247,
-    "wof:lastmodified":1563309398,
+    "wof:lastmodified":1566708023,
     "wof:name":"Urrao",
     "wof:parent_id":1108700029,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":2000,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.0415,4.64779,-74.0015,4.68779",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:spa_x_colloquial":[
         "San Luis v\u00eda La Calera"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343702747,
-    "wof:lastmodified":1537618813,
+    "wof:lastmodified":1566706382,
     "wof:name":"Barrio San Luis",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

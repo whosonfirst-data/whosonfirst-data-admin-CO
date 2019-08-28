@@ -10,8 +10,12 @@
     "geom:latitude":4.40569,
     "geom:longitude":-73.94683,
     "iso:country":"CO",
+    "lbl:bbox":"-73.96683,4.38569,-73.92683,4.42569",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "C\u00e1queza"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3687476,
         "gp:id":352425,
-        "qs:id":1341701,
+        "qs_pg:id":1341701,
         "wd:id":"Q577538",
         "wk:page":"C\u00e1queza"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421182537,
-    "wof:lastmodified":1563309539,
+    "wof:lastmodified":1566708054,
     "wof:name":"C\u00e1queza",
     "wof:parent_id":421184951,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":2.10194,
     "geom:longitude":-78.72167,
     "iso:country":"CO",
+    "lbl:bbox":"-78.74167,2.08194,-78.70167,2.12194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Francisco Pizarro"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "Francisco Pizarro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pizarro"
     ],
     "name:war_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3672087,
         "gp:id":420002,
-        "qs:id":289655,
+        "qs_pg:id":289655,
         "wd:id":"Q1578185",
         "wk:page":"Francisco Pizarro, Nari\u00f1o"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421173515,
-    "wof:lastmodified":1563309189,
+    "wof:lastmodified":1566707980,
     "wof:name":"Francisco Pizarro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

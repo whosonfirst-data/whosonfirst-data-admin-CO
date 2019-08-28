@@ -10,8 +10,12 @@
     "geom:latitude":2.95395,
     "geom:longitude":-76.69644,
     "iso:country":"CO",
+    "lbl:bbox":"-76.71644,2.93395,-76.67644,2.97395",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Su\u00e1rez"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3667773,
         "gp:id":369468,
-        "qs:id":214759,
+        "qs_pg:id":214759,
         "wd:id":"Q2203425",
         "wk:page":"Suarez, Cauca"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":421201841,
-    "wof:lastmodified":1563309396,
+    "wof:lastmodified":1566708022,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":1108700511,
     "wof:placetype":"locality",

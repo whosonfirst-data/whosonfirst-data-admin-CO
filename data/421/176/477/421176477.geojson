@@ -10,8 +10,12 @@
     "geom:latitude":5.03103,
     "geom:longitude":-74.88682,
     "iso:country":"CO",
+    "lbl:bbox":"-74.90682,5.01103,-74.86682,5.05103",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Armero"
@@ -94,9 +98,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u043c\u0435\u0440\u043e"
     ],
-    "name:unk_x_variant":[
-        "Armero"
-    ],
     "name:vie_x_preferred":[
         "Armero"
     ],
@@ -136,7 +137,7 @@
     "wof:concordances":{
         "gn:id":3689551,
         "gp:id":56122722,
-        "qs:id":1046429,
+        "qs_pg:id":1046429,
         "wd:id":"Q584880",
         "wk:page":"Armero"
     },
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421176477,
-    "wof:lastmodified":1563309560,
+    "wof:lastmodified":1566708057,
     "wof:name":"Armero-Guayabal",
     "wof:parent_id":1108701427,
     "wof:placetype":"locality",

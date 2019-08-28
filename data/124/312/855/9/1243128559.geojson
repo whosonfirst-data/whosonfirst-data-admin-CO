@@ -24,12 +24,13 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.44364,0.71404,-75.40364,0.75404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
-        "Inspecci\u00f3n de Polic\u00eda Mayoyoque"
-    ],
-    "name:und_x_variant":[
         "Inspecci\u00f3n de Polic\u00eda Mayoyoque"
     ],
     "src:geom":"geonames",
@@ -55,7 +56,7 @@
         }
     ],
     "wof:id":1243128559,
-    "wof:lastmodified":1537618707,
+    "wof:lastmodified":1566708183,
     "wof:name":"Inspeccion de Policia Mayoyoque",
     "wof:parent_id":1108701565,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.58233,9.47137,-74.54233,9.51137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1259634707,
-    "wof:lastmodified":1564295881,
+    "wof:lastmodified":1566708349,
     "wof:name":"Belen",
     "wof:parent_id":1108700913,
     "wof:placetype":"locality",

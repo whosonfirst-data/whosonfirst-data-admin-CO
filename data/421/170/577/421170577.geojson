@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.464111,
     "lbl:longitude":-75.554223,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"San Pedro de los Milagros",
     "meso:gadm_hasc2":"CO.AN.SP",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.554223,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pedro"
@@ -91,9 +94,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"229",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"San Pedro",
@@ -114,7 +117,7 @@
         "gn:id":3669168,
         "gp:id":26796701,
         "hasc:id":"CO.AN.SP",
-        "qs:id":1194394,
+        "qs_pg:id":1194394,
         "wd:id":"Q1441754",
         "wk:page":"San Pedro de los Milagros"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421170577,
-    "wof:lastmodified":1563309469,
+    "wof:lastmodified":1566708041,
     "wof:name":"San Pedro",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

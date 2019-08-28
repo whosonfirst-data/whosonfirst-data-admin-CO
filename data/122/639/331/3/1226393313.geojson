@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.1825,4.31417,-75.1425,4.35417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Combiema",
         "Llano de Combeima"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226393313,
-    "wof:lastmodified":1537618616,
+    "wof:lastmodified":1566708673,
     "wof:name":"Llano de Combeima",
     "wof:parent_id":421190207,
     "wof:placetype":"locality",

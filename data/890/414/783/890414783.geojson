@@ -11,11 +11,14 @@
     "geom:longitude":-76.54117,
     "gn:country":"CO",
     "gn:fcode":"DPOF",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"CO",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Estacion de servicio | Texaco",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":8394399,
         "gp:id":365353,
-        "qs:id":768701
+        "qs_pg:id":768701
     },
     "wof:country":"CO",
     "wof:created":1469051061,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890414783,
-    "wof:lastmodified":1505343422,
+    "wof:lastmodified":1566708068,
     "wof:name":"Estacion de servicio | Texaco",
     "wof:parent_id":421170643,
     "wof:placetype":"locality",

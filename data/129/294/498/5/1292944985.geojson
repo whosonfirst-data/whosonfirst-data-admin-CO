@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.13361,5.74972,-74.09361,5.78972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1292944985,
-    "wof:lastmodified":1537069019,
+    "wof:lastmodified":1566706628,
     "wof:name":"Muchales",
     "wof:parent_id":1108700283,
     "wof:placetype":"locality",

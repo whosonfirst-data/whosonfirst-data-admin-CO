@@ -10,8 +10,12 @@
     "geom:latitude":10.51667,
     "geom:longitude":-73.08333,
     "iso:country":"CO",
+    "lbl:bbox":"-73.10333,10.49667,-73.06333,10.53667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Jagua del Pilar"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "La Jagua del Pilar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Jagua"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3678672,
         "gp:id":359158,
-        "qs:id":924738,
+        "qs_pg:id":924738,
         "wd:id":"Q1656023",
         "wk:page":"La Jagua del Pilar"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421193577,
-    "wof:lastmodified":1563308973,
+    "wof:lastmodified":1566707938,
     "wof:name":"La Jagua del Pilar",
     "wof:parent_id":1108700863,
     "wof:placetype":"locality",

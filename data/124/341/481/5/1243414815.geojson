@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.37722,4.02972,-76.33722,4.06972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Vado"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1243414815,
-    "wof:lastmodified":1564295112,
+    "wof:lastmodified":1566708170,
     "wof:name":"Vado",
     "wof:parent_id":421181797,
     "wof:placetype":"locality",

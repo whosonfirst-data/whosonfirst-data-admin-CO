@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.38154,10.14441,-73.34154,10.18441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda El Toco",
         "El Toco"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310093805,
-    "wof:lastmodified":1537618566,
+    "wof:lastmodified":1566707663,
     "wof:name":"El Toco",
     "wof:parent_id":1108700557,
     "wof:placetype":"locality",

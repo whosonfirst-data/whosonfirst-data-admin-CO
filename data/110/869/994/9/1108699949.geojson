@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.893344,
     "lbl:longitude":-75.052108,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Caucasia",
     "meso:gadm_hasc2":"CO.AN.CU",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.052108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Caucasia"
     ],
@@ -112,9 +115,9 @@
         "\u8003\u5361\u897f\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"1411",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Caucasia",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1108699949,
-    "wof:lastmodified":1563307253,
+    "wof:lastmodified":1566707438,
     "wof:name":"Caucasia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

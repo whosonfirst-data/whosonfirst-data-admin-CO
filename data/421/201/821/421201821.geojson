@@ -10,8 +10,12 @@
     "geom:latitude":6.50563,
     "geom:longitude":-72.7331,
     "iso:country":"CO",
+    "lbl:bbox":"-72.7531,6.48563,-72.7131,6.52563",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Covarach\u00eda"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3792381,
         "gp:id":353410,
-        "qs:id":214703,
+        "qs_pg:id":214703,
         "wd:id":"Q1654501",
         "wk:page":"Covarach\u00eda"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421201821,
-    "wof:lastmodified":1563309389,
+    "wof:lastmodified":1566708021,
     "wof:name":"Covarach\u00eda",
     "wof:parent_id":1108700227,
     "wof:placetype":"locality",

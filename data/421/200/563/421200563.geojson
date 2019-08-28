@@ -10,8 +10,11 @@
     "geom:latitude":10.95,
     "geom:longitude":-74.78333,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78833,10.945,-74.77833,10.955",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Boyac\u00e1"
@@ -63,7 +66,7 @@
     "wof:concordances":{
         "gn:id":3688537,
         "gp:id":351660,
-        "qs:id":887589
+        "qs_pg:id":887589
     },
     "wof:country":"CO",
     "wof:created":1459010030,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421200563,
-    "wof:lastmodified":1564294724,
+    "wof:lastmodified":1566708018,
     "wof:name":"Boyac\u00e1",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

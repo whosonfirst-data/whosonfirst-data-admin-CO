@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.5732,9.76337,-73.5332,9.80337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360173369,
-    "wof:lastmodified":1536817491,
+    "wof:lastmodified":1566707823,
     "wof:name":"Todos no Van",
     "wof:parent_id":1108700525,
     "wof:placetype":"locality",

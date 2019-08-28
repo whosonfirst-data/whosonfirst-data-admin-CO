@@ -10,8 +10,12 @@
     "geom:latitude":10.02502,
     "geom:longitude":-74.62279,
     "iso:country":"CO",
+    "lbl:bbox":"-74.64279,10.00502,-74.60279,10.04502",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Chibolo"
@@ -70,9 +74,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u0438\u0431\u043e\u043b\u043e"
     ],
-    "name:unk_x_variant":[
-        "Chibolo"
-    ],
     "name:vie_x_preferred":[
         "Chivolo"
     ],
@@ -116,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3686445,
         "gp:id":368787,
-        "qs:id":1206589,
+        "qs_pg:id":1206589,
         "wd:id":"Q1525439",
         "wk:page":"Chibolo"
     },
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421167975,
-    "wof:lastmodified":1563308984,
+    "wof:lastmodified":1566707939,
     "wof:name":"Chivolo",
     "wof:parent_id":1108700879,
     "wof:placetype":"locality",

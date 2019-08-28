@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.9222,2.10377,-75.8822,2.14377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Cedro"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1360054743,
-    "wof:lastmodified":1564294328,
+    "wof:lastmodified":1566707841,
     "wof:name":"El Cedro",
     "wof:parent_id":1108700843,
     "wof:placetype":"locality",

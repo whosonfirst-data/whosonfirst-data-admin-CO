@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.647118,
     "lbl:longitude":-75.47747,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Huila",
     "mps:latitude":2.772904,
     "mps:longitude":-75.457542,
@@ -192,7 +193,7 @@
         "Huila"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0bc1\u0b87\u0bb2\u0bbe  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0bb9\u0bc1\u0b87\u0bb2\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c2f\u0c3f\u0c32\u0c3e \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -215,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u0457\u043b\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Departamento del Huila"
     ],
     "name:urd_x_preferred":[
@@ -305,9 +306,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"19,890",
     "statoids:area_mi":"7,680",
     "statoids:as_of_date":"2005-05-22",
@@ -332,7 +333,7 @@
         "gp:id":2345061,
         "hasc:id":"CO.HU",
         "iso:id":"CO-HUI",
-        "qs:id":894862,
+        "qs_pg:id":894862,
         "unlc:id":"CO-HUI",
         "wd:id":"Q234920",
         "wk:page":"Huila Department"
@@ -353,11 +354,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670375,
+    "wof:lastmodified":1566706539,
     "wof:name":"Huila",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1001476,
     "wof:population_rank":12,

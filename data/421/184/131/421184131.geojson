@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.325964,
     "lbl:longitude":-74.480226,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Tibacuy",
     "meso:gadm_hasc2":"CO.CU.TY",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.480226,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tibacuy"
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Tibacuy",
@@ -128,7 +131,7 @@
         "gn:id":3667223,
         "gp:id":26797143,
         "hasc:id":"CO.CU.TY",
-        "qs:id":989516,
+        "qs_pg:id":989516,
         "wd:id":"Q1654475",
         "wk:page":"Tibacuy"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":421184131,
-    "wof:lastmodified":1563309419,
+    "wof:lastmodified":1566708027,
     "wof:name":"Tibacuy",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

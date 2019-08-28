@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.448211,
     "lbl:longitude":-72.879699,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Aquitania",
     "meso:gadm_hasc2":"CO.BY.AQ",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.879699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Aquitania"
@@ -79,7 +82,7 @@
     "name:tgl_x_preferred":[
         "Aquitania"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puebloviejo"
     ],
     "name:war_x_preferred":[
@@ -110,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"876",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Aquitania",
@@ -134,7 +137,7 @@
         "gn:id":3689772,
         "gp:id":26796799,
         "hasc:id":"CO.BY.AQ",
-        "qs:id":224052,
+        "qs_pg:id":224052,
         "wd:id":"Q1526099",
         "wk:page":"Aquitania, Boyac\u00e1"
     },
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421202515,
-    "wof:lastmodified":1563309082,
+    "wof:lastmodified":1566707960,
     "wof:name":"Aquitania",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

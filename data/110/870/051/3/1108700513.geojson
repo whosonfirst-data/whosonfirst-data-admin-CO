@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.046411,
     "lbl:longitude":-76.917707,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cauca",
     "meso:gadm_admin":"La Vega",
     "meso:gadm_hasc2":"CO.CA.LV",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.917707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ady_x_preferred":[
         "\u0421\u0443\u043a\u0440\u0435"
     ],
@@ -358,7 +361,7 @@
         "\u82cf\u514b\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -380,7 +383,7 @@
         }
     ],
     "wof:id":1108700513,
-    "wof:lastmodified":1564293268,
+    "wof:lastmodified":1566707583,
     "wof:name":"Sucre",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

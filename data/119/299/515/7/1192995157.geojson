@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.93298,8.06191,-74.89298,8.10191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1192995157,
-    "wof:lastmodified":1536376666,
+    "wof:lastmodified":1566707315,
     "wof:name":"El Polvillo",
     "wof:parent_id":1108699985,
     "wof:placetype":"locality",

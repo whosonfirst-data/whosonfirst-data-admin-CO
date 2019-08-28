@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.30521,8.44934,-76.26521,8.48934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3793919
     },
     "wof:country":"CO",
-    "wof:geomhash":"40805324ee2418a5bcfd945e0b89cf38",
+    "wof:geomhash":"8fdc3ca574aff97d26f973df067f6a10",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209518087,
-    "wof:lastmodified":1536284667,
+    "wof:lastmodified":1566707184,
     "wof:name":"Las Naranjitas",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -76.28520999999998,
-    8.469339999999999,
+    8.46934,
     -76.28520999999998,
-    8.469339999999999
+    8.46934
 ],
   "geometry": {"coordinates":[-76.28520999999998,8.46934],"type":"Point"}
 }

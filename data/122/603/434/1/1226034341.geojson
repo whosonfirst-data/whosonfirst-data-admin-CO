@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.31198,3.21121,-76.27198,3.25121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Tierradura"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226034341,
-    "wof:lastmodified":1537618373,
+    "wof:lastmodified":1566708559,
     "wof:name":"Tierradura",
     "wof:parent_id":1108700477,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.63153,8.0514,-73.59153,8.0914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360263785,
-    "wof:lastmodified":1536687958,
+    "wof:lastmodified":1566707828,
     "wof:name":"San Julian",
     "wof:parent_id":1108700551,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.61161,
     "geom:longitude":-75.45624,
     "iso:country":"CO",
+    "lbl:bbox":"-75.47624,5.59161,-75.43624,5.63161",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Aguadas"
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":3690431,
         "gp:id":368176,
-        "qs:id":1046440,
+        "qs_pg:id":1046440,
         "wd:id":"Q1442012",
         "wk:page":"Aguadas, Caldas"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":421176491,
-    "wof:lastmodified":1563309567,
+    "wof:lastmodified":1566708059,
     "wof:name":"Aguadas",
     "wof:parent_id":421188637,
     "wof:placetype":"locality",

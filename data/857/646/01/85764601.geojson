@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6322786.971042,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.094466,4.619204,-74.094466,4.619204",
     "geom:latitude":4.619204,
     "geom:longitude":-74.094466,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":4.61667,
     "gn:longitude":-74.1,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.099466,4.614204,-74.089466,4.624204",
     "lbl:latitude":4.619204,
     "lbl:longitude":-74.094466,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.617491,
     "mps:longitude":-74.09949,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Cundinamarca"
-    ],
-    "name:unk_x_variant":[
         "Cundinamarca"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -81,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":79,
     "wof:belongsto":[
         85670165,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3685414,
         "gp:id":353556,
-        "qs:id":1082694,
         "qs_pg:id":1082694
     },
     "wof:country":"CO",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1566706531,
     "wof:name":"Cundinamarca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

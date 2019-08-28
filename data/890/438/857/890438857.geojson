@@ -11,10 +11,14 @@
     "geom:longitude":-73.77021,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2230,
+    "gn:population":2230,
     "iso:country":"CO",
+    "lbl:bbox":"-73.79021,5.96943,-73.75021,6.00943",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Bol\u00edvar"
     ],
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3688656,
         "gp:id":368695,
-        "qs:id":1046413,
+        "qs_pg:id":1046413,
         "wd:id":"Q2430208"
     },
     "wof:country":"CO",
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890438857,
-    "wof:lastmodified":1563309657,
+    "wof:lastmodified":1566708073,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":1108701199,
     "wof:placetype":"locality",

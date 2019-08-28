@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.76618,6.18988,-73.72618,6.22988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bajo Jordan",
         "Jord\u00e1n Bajo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209770185,
-    "wof:lastmodified":1537618540,
+    "wof:lastmodified":1566707089,
     "wof:name":"Jordan Bajo",
     "wof:parent_id":1108701283,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":2.5513,
     "geom:longitude":-76.06546,
     "iso:country":"CO",
+    "lbl:bbox":"-76.08546,2.5313,-76.04546,2.5713",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Inz\u00e1"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3680554,
         "gp:id":368510,
-        "qs:id":240972,
+        "qs_pg:id":240972,
         "wd:id":"Q1441907",
         "wk:page":"Inza, Cauca"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421179913,
-    "wof:lastmodified":1563309510,
+    "wof:lastmodified":1566708048,
     "wof:name":"Inz\u00e1",
     "wof:parent_id":1108700463,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":3.4501,
     "gn:longitude":-76.51638,
     "iso:country":"CO",
+    "lbl:bbox":"-76.52426,3.43767,-76.51426,3.44767",
     "lbl:latitude":3.44267,
     "lbl:longitude":-76.51926,
+    "lbl:max_zoom":18.0,
     "mps:latitude":3.438953,
     "mps:longitude":-76.502884,
     "mz:hierarchy_label":0,
@@ -52,9 +54,6 @@
     "name:swe_x_preferred":[
         "Belalc\u00e1zar"
     ],
-    "name:unk_x_variant":[
-        "Belalc\u00e1zar"
-    ],
     "name:war_x_preferred":[
         "Belalc\u00e1zar"
     ],
@@ -86,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670203,
         102191577,
@@ -97,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3689011,
         "gp:id":351303,
-        "qs:id":219453
+        "qs_pg:id":219453
     },
     "wof:country":"CO",
     "wof:geomhash":"b8507783f4181b4db9fd9e0178455426",
@@ -115,7 +114,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289401,
+    "wof:lastmodified":1566706528,
     "wof:name":"Belalc\u00e1zar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

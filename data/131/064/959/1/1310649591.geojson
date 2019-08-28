@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.78908,4.34942,-72.74908,4.38942",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310649591,
-    "wof:lastmodified":1536709473,
+    "wof:lastmodified":1566707678,
     "wof:name":"El Pisga",
     "wof:parent_id":1108701557,
     "wof:placetype":"locality",

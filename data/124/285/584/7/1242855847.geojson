@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.78276,3.42529,-74.74276,3.46529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0644\u0627\u0633 \u067e\u0627\u0644\u0645\u0627\u0633"
     ],
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":1242855847,
-    "wof:lastmodified":1564295494,
+    "wof:lastmodified":1566708267,
     "wof:name":"Las Palmas",
     "wof:parent_id":1108700809,
     "wof:placetype":"locality",

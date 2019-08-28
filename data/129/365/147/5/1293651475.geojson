@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.05087,4.52563,-73.01087,4.56563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Venecia"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293651475,
-    "wof:lastmodified":1564289475,
+    "wof:lastmodified":1566706580,
     "wof:name":"Venecia",
     "wof:parent_id":1108700925,
     "wof:placetype":"locality",

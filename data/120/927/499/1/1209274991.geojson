@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.20123,3.52418,-76.16123,3.56418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3687878
     },
     "wof:country":"CO",
-    "wof:geomhash":"6d187c3bcc2b2f5a4483bb26b88f9a6b",
+    "wof:geomhash":"39e3598de25b2442726c34b5f99eb8f0",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209274991,
-    "wof:lastmodified":1536292228,
+    "wof:lastmodified":1566707203,
     "wof:name":"Caluce",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -76.18123,
-    3.5441800000000003,
+    3.54418,
     -76.18123,
-    3.5441800000000003
+    3.54418
 ],
   "geometry": {"coordinates":[-76.18123,3.54418],"type":"Point"}
 }

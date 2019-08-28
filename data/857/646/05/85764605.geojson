@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12139382.740379,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059665,4.602969,-74.059665,4.602969",
     "geom:latitude":4.602969,
     "geom:longitude":-74.059665,
     "gn:latitude":4.59662,
     "gn:longitude":-74.0713,
     "iso:country":"CO",
+    "lbl:bbox":"-74.064665,4.597969,-74.054665,4.607969",
     "lbl:latitude":4.602969,
     "lbl:longitude":-74.059665,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.593947,
     "mps:longitude":-74.05031,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:spa_x_preferred":[
-        "Egipto"
-    ],
-    "name:unk_x_variant":[
         "Egipto"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -58,18 +57,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670165,
         102191577,
         85632519,
-        1108700089,
-        85670165
+        1108700089
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3685049,
         "gp:id":353716,
-        "qs:id":1082695
+        "qs_pg:id":1082695
     },
     "wof:country":"CO",
     "wof:geomhash":"1c8fe99500d9d028f580a80c58faf614",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858922,
+    "wof:lastmodified":1566706531,
     "wof:name":"Egipto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

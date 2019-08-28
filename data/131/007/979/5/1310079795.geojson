@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.77408,0.82621,-77.73408,0.86621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Carchi",
         "Carchi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310079795,
-    "wof:lastmodified":1537618630,
+    "wof:lastmodified":1566707657,
     "wof:name":"Carchi",
     "wof:parent_id":421180457,
     "wof:placetype":"locality",

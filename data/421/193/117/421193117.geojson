@@ -10,8 +10,12 @@
     "geom:latitude":5.40867,
     "geom:longitude":-73.29572,
     "iso:country":"CO",
+    "lbl:bbox":"-73.31572,5.38867,-73.27572,5.42867",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ci\u00e9nega"
@@ -58,9 +62,6 @@
     "name:tgl_x_preferred":[
         "Ci\u00e9naga"
     ],
-    "name:unk_x_variant":[
-        "Ci\u00e9naga"
-    ],
     "name:vie_x_preferred":[
         "Ci\u00e9naga"
     ],
@@ -104,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3686262,
         "gp:id":353117,
-        "qs:id":1206190,
+        "qs_pg:id":1206190,
         "wd:id":"Q2431058",
         "wk:page":"Ci\u00e9nega, Boyac\u00e1"
     },
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421193117,
-    "wof:lastmodified":1563308963,
+    "wof:lastmodified":1566707936,
     "wof:name":"Ci\u00e9nega",
     "wof:parent_id":1108700221,
     "wof:placetype":"locality",

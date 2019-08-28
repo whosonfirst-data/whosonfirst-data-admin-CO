@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.426548,
     "lbl:longitude":-75.994157,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Caicedo",
     "meso:gadm_hasc2":"CO.AN.CD",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.994157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Caicedo"
     ],
@@ -94,9 +97,9 @@
         "\u51f1\u585e\u591a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"221",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Caicedo",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108699937,
-    "wof:lastmodified":1563307251,
+    "wof:lastmodified":1566707437,
     "wof:name":"Caicedo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.051361,
     "lbl:longitude":-72.444256,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Chita",
     "meso:gadm_hasc2":"CO.BY.CA",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.444256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Chita"
     ],
@@ -94,9 +97,9 @@
         "\u5947\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"614",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Chita",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108700213,
-    "wof:lastmodified":1563307584,
+    "wof:lastmodified":1566707567,
     "wof:name":"Chita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

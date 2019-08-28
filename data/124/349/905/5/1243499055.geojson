@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.31197,9.15938,-74.27197,9.19938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0443\u0440\u044b\u043b\u044c\u044f"
     ],
@@ -69,8 +73,7 @@
     ],
     "name:und_x_variant":[
         "Corregimiento Murillo",
-        "Morillo",
-        "Murillo"
+        "Morillo"
     ],
     "name:vie_x_preferred":[
         "Murillo"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1243499055,
-    "wof:lastmodified":1564295172,
+    "wof:lastmodified":1566708185,
     "wof:name":"Murillo",
     "wof:parent_id":421194071,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.33543,10.31838,-75.29543,10.35838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cuatro caminos"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326771121,
-    "wof:lastmodified":1564288013,
+    "wof:lastmodified":1566706213,
     "wof:name":"Cuatro Caminos",
     "wof:parent_id":421199647,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.77648,8.33241,-73.73648,8.37241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Pradilla"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260368893,
-    "wof:lastmodified":1537618748,
+    "wof:lastmodified":1566707372,
     "wof:name":"Pradilla",
     "wof:parent_id":1108700135,
     "wof:placetype":"locality",

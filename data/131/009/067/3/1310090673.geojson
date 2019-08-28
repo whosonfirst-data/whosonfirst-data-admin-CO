@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.94083,2.32056,-74.90083,2.36056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Vargas"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1310090673,
-    "wof:lastmodified":1564293522,
+    "wof:lastmodified":1566707663,
     "wof:name":"Vargas",
     "wof:parent_id":1108700423,
     "wof:placetype":"locality",

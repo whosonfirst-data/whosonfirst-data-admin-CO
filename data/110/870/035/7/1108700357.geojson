@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.923908,
     "lbl:longitude":-73.495835,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"Chitaraque",
     "meso:gadm_hasc2":"CO.BY.CR",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.495835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Togu\u00ed"
     ],
@@ -40,7 +43,7 @@
         "Chitaraque"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108700357,
-    "wof:lastmodified":1555047388,
+    "wof:lastmodified":1566707570,
     "wof:name":"Togu\u00ed",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

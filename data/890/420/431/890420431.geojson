@@ -11,10 +11,14 @@
     "geom:longitude":-73.51126,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":7029,
+    "gn:population":7029,
     "iso:country":"CO",
+    "lbl:bbox":"-73.53126,7.98151,-73.49126,8.02151",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Mart\u00edn"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3792385,
         "gp:id":353379,
-        "qs:id":96580,
+        "qs_pg:id":96580,
         "wd:id":"Q545257",
         "wk:page":"San Mart\u00edn"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890420431,
-    "wof:lastmodified":1563309687,
+    "wof:lastmodified":1566708076,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":1108700561,
     "wof:placetype":"locality",

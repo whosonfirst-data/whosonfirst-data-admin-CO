@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.788303,
     "lbl:longitude":-76.03723,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Cartago",
     "meso:gadm_hasc2":"CO.VC.CR",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.03723,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ansermanuevo"
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":32,
     "wof:belongsto":[
         102191577,
@@ -119,7 +122,7 @@
         "gn:id":3689832,
         "gp:id":26797567,
         "hasc:id":"CO.VC.CR",
-        "qs:id":504655,
+        "qs_pg:id":504655,
         "wd:id":"Q1441179"
     },
     "wof:country":"CO",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421181789,
-    "wof:lastmodified":1563309276,
+    "wof:lastmodified":1566708001,
     "wof:name":"Ansermanuevo",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

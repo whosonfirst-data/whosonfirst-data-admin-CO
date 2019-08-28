@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.419008,
     "lbl:longitude":-73.180084,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Valle de San Jos\u00e9",
     "meso:gadm_hasc2":"CO.ST.VS",
@@ -33,13 +35,12 @@
     "mps:longitude":-73.180084,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "P\u00e1ramo"
     ],
     "name:eng_x_variant":[
-        "Valle De  San Jose",
-        "Valle de San Jos\u00e9",
-        "P\u00e1ramo"
+        "Valle De San Jose"
     ],
     "name:fra_x_preferred":[
         "Valle de San Jos\u00e9"
@@ -78,7 +79,7 @@
         "\u5df4\u5217\u8056\u4f55\u585e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108701313,
-    "wof:lastmodified":1561759358,
+    "wof:lastmodified":1566707522,
     "wof:name":"P\u00e1ramo",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

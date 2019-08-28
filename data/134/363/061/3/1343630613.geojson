@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.34691,1.91967,-76.30691,1.95967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343630613,
-    "wof:lastmodified":1536997463,
+    "wof:lastmodified":1566706327,
     "wof:name":"El Jabon",
     "wof:parent_id":421187817,
     "wof:placetype":"locality",

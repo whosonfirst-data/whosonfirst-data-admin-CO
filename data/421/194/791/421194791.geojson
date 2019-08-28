@@ -10,8 +10,12 @@
     "geom:latitude":5.35642,
     "geom:longitude":-73.20918,
     "iso:country":"CO",
+    "lbl:bbox":"-73.22918,5.33642,-73.18918,5.37642",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Rond\u00f3n"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "Rond\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Rafael"
     ],
     "name:vie_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3670624,
         "gp:id":364897,
-        "qs:id":924753,
+        "qs_pg:id":924753,
         "wd:id":"Q1654613"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421194791,
-    "wof:lastmodified":1563308934,
+    "wof:lastmodified":1566707931,
     "wof:name":"Rond\u00f3n",
     "wof:parent_id":1108700305,
     "wof:placetype":"locality",

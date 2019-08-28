@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.637269,
     "lbl:longitude":-75.622738,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Aguadas",
     "meso:gadm_hasc2":"CO.CL.AG",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.622738,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:abk_x_preferred":[
         "\u0412\u0430\u043b\u043f\u0430\u0440\u0430\u0438\u0441\u043e"
     ],
@@ -703,7 +706,7 @@
         "IValparaiso"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -725,7 +728,7 @@
         }
     ],
     "wof:id":1108700033,
-    "wof:lastmodified":1564293254,
+    "wof:lastmodified":1566707568,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

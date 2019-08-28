@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.79067,2.76839,-76.75067,2.80839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343550551,
-    "wof:lastmodified":1536613865,
+    "wof:lastmodified":1566706325,
     "wof:name":"El Limon",
     "wof:parent_id":1108700479,
     "wof:placetype":"locality",

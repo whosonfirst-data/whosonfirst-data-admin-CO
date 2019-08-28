@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.51167,3.96667,-75.47167,4.00667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Joaquin"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1225895353,
-    "wof:lastmodified":1564296908,
+    "wof:lastmodified":1566708584,
     "wof:name":"San Joaquin",
     "wof:parent_id":1108701467,
     "wof:placetype":"locality",

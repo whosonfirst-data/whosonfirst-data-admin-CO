@@ -10,8 +10,12 @@
     "geom:latitude":5.65672,
     "geom:longitude":-74.18249,
     "iso:country":"CO",
+    "lbl:bbox":"-74.20249,5.63672,-74.16249,5.67672",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Otanche"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3673475,
         "gp:id":368539,
-        "qs:id":288293,
+        "qs_pg:id":288293,
         "wd:id":"Q1577588"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421173461,
-    "wof:lastmodified":1563309182,
+    "wof:lastmodified":1566707979,
     "wof:name":"Otanche",
     "wof:parent_id":1108700283,
     "wof:placetype":"locality",

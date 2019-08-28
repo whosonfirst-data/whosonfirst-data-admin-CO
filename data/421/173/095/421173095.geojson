@@ -10,6 +10,9 @@
     "geom:latitude":10.46314,
     "geom:longitude":-73.25322,
     "iso:country":"CO",
+    "lbl:bbox":"-73.27322,10.44314,-73.23322,10.48314",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -329,7 +332,7 @@
         "gn:id":3666304,
         "gp:id":368173,
         "loc:id":"n83205549",
-        "qs:id":489511,
+        "qs_pg:id":489511,
         "wd:id":"Q376903",
         "wk:page":"Valledupar"
     },
@@ -346,7 +349,7 @@
         }
     ],
     "wof:id":421173095,
-    "wof:lastmodified":1563309181,
+    "wof:lastmodified":1566707978,
     "wof:name":"Valledupar",
     "wof:parent_id":421169849,
     "wof:placetype":"locality",

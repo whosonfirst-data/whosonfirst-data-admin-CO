@@ -10,8 +10,12 @@
     "geom:latitude":4.74806,
     "geom:longitude":-74.56306,
     "iso:country":"CO",
+    "lbl:bbox":"-74.58306,4.72806,-74.54306,4.76806",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Quipile"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3671072,
         "gp:id":364679,
-        "qs:id":1206320,
+        "qs_pg:id":1206320,
         "wd:id":"Q941367",
         "wk:page":"Quipile"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421180573,
-    "wof:lastmodified":1563309120,
+    "wof:lastmodified":1566707968,
     "wof:name":"Quipile",
     "wof:parent_id":1108700705,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":7.98288,
     "geom:longitude":-75.42293,
     "iso:country":"CO",
+    "lbl:bbox":"-75.44293,7.96288,-75.40293,8.00288",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Montel\u00edbano"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3674470,
         "gp:id":369150,
-        "qs:id":269822,
+        "qs_pg:id":269822,
         "wd:id":"Q1787546",
         "wk:page":"Montel\u00edbano"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421169837,
-    "wof:lastmodified":1563309005,
+    "wof:lastmodified":1566707944,
     "wof:name":"Montel\u00edbano",
     "wof:parent_id":1108700585,
     "wof:placetype":"locality",

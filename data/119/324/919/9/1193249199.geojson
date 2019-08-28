@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.74918,2.55366,-72.70918,2.59366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193249199,
-    "wof:lastmodified":1536369959,
+    "wof:lastmodified":1566707280,
     "wof:name":"Puerto Antioquia",
     "wof:parent_id":421203263,
     "wof:placetype":"locality",

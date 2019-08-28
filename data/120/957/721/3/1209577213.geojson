@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.58052,1.21313,-77.54052,1.25313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":8626747
     },
     "wof:country":"CO",
-    "wof:geomhash":"f17c5655f3d7102300db25a63c68fe7a",
+    "wof:geomhash":"0decaad1ea6afdca43decca127c4f562",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209577213,
-    "wof:lastmodified":1536282899,
+    "wof:lastmodified":1566707142,
     "wof:name":"La Soledad",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -77.56052,
-    1.2331299999999998,
+    1.23313,
     -77.56052,
-    1.2331299999999998
+    1.23313
 ],
   "geometry": {"coordinates":[-77.56052,1.23313],"type":"Point"}
 }

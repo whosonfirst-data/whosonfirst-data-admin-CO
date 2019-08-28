@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.14713,9.85396,-75.10713,9.89396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Brasil",
         "Hacienda El Brasil",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226183007,
-    "wof:lastmodified":1537618603,
+    "wof:lastmodified":1566708517,
     "wof:name":"El Brasil",
     "wof:parent_id":421192869,
     "wof:placetype":"locality",

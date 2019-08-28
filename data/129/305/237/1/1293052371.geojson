@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.43302,9.89849,-74.39302,9.93849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Los Mangos",
         "Los Mangos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293052371,
-    "wof:lastmodified":1537618473,
+    "wof:lastmodified":1566706726,
     "wof:name":"Los Mangos",
     "wof:parent_id":1108700891,
     "wof:placetype":"locality",

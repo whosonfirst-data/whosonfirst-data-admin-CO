@@ -10,10 +10,14 @@
     "geom:latitude":7.02806,
     "geom:longitude":-73.89012,
     "iso:country":"CO",
+    "lbl:bbox":"-73.91012,7.00806,-73.87012,7.04806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Casabe"
     ],
     "qs:gn_country":"CO",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3687215,
         "gp:id":368760,
-        "qs:id":495325
+        "qs_pg:id":495325
     },
     "wof:country":"CO",
     "wof:created":1459009301,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421181591,
-    "wof:lastmodified":1501268577,
+    "wof:lastmodified":1566707999,
     "wof:name":"Casabe",
     "wof:parent_id":1108700047,
     "wof:placetype":"locality",

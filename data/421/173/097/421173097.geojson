@@ -10,8 +10,12 @@
     "geom:latitude":6.81532,
     "geom:longitude":-73.26768,
     "iso:country":"CO",
+    "lbl:bbox":"-73.28768,6.79532,-73.24768,6.83532",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Zapatoca"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3665587,
         "gp:id":368444,
-        "qs:id":489546,
+        "qs_pg:id":489546,
         "wd:id":"Q1574792",
         "wk:page":"Zapatoca"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421173097,
-    "wof:lastmodified":1563309166,
+    "wof:lastmodified":1566707976,
     "wof:name":"Zapatoca",
     "wof:parent_id":1108701375,
     "wof:placetype":"locality",

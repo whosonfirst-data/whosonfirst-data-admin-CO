@@ -10,8 +10,12 @@
     "geom:latitude":3.5251,
     "geom:longitude":-74.02156,
     "iso:country":"CO",
+    "lbl:bbox":"-74.04156,3.5051,-74.00156,3.5451",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Lejan\u00edas"
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3732964,
         "gp:id":361148,
-        "qs:id":288158,
+        "qs_pg:id":288158,
         "wd:id":"Q1577508",
         "wk:page":"Lejan\u00edas"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":421193903,
-    "wof:lastmodified":1563308964,
+    "wof:lastmodified":1566707936,
     "wof:name":"Lejan\u00edas",
     "wof:parent_id":1108700947,
     "wof:placetype":"locality",

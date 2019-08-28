@@ -10,8 +10,12 @@
     "geom:latitude":8.27515,
     "geom:longitude":-76.37641,
     "iso:country":"CO",
+    "lbl:bbox":"-76.39641,8.25515,-76.35641,8.29515",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Pedro de Urab\u00e1"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "San Pedro de Urab\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pedro de Uraba"
     ],
     "name:vie_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3669087,
         "gp:id":366012,
-        "qs:id":1206339,
+        "qs_pg:id":1206339,
         "wd:id":"Q1391914",
         "wk:page":"San Pedro de Urab\u00e1"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421198813,
-    "wof:lastmodified":1561759470,
+    "wof:lastmodified":1566708005,
     "wof:name":"San Pedro de Urab\u00e1",
     "wof:parent_id":1108700013,
     "wof:placetype":"locality",

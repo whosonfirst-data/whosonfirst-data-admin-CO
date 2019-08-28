@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.85333,3.26278,-75.81333,3.30278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3736985
     },
     "wof:country":"CO",
-    "wof:geomhash":"08cd6029822526c20c4dffb606dc8fae",
+    "wof:geomhash":"0c0e244d7f5c930f91b86fdf762720e3",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209376135,
-    "wof:lastmodified":1536288944,
+    "wof:lastmodified":1566707068,
     "wof:name":"La Camelia",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.83333,
-    3.2827800000000003,
+    3.28278,
     -75.83333,
-    3.2827800000000003
+    3.28278
 ],
   "geometry": {"coordinates":[-75.83333,3.28278],"type":"Point"}
 }

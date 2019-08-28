@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2434126.879109,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.556205,6.252491,-75.556205,6.252491",
     "geom:latitude":6.252491,
     "geom:longitude":-75.556205,
     "gn:latitude":6.25726,
     "gn:longitude":-75.5497,
     "iso:country":"CO",
+    "lbl:bbox":"-75.561205,6.247491,-75.551205,6.257491",
     "lbl:latitude":6.252491,
     "lbl:longitude":-75.556205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.253189,
     "mps:longitude":-75.553161,
     "mz:hierarchy_label":0,
@@ -36,9 +38,6 @@
     ],
     "name:spa_x_variant":[
         "Hermosa"
-    ],
-    "name:unk_x_variant":[
-        "Villa Hermosa"
     ],
     "name:zho_min_nan_x_preferred":[
         "Villa Hermosa"
@@ -73,19 +72,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":39,
     "wof:belongsto":[
+        85670129,
         102191577,
         85632519,
-        421205069,
-        85670129
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3665985,
         "gp:id":367866,
-        "qs:id":211167
+        "qs_pg:id":211167
     },
     "wof:country":"CO",
     "wof:geomhash":"a6c44d620c010c9942cfbda7649c0b3a",
@@ -103,7 +102,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858959,
+    "wof:lastmodified":1566706532,
     "wof:name":"Villa Hermosa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

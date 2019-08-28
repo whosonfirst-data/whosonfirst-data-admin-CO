@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.13647,6.23905,-70.09647,6.27905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cacho",
         "El Cacho"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326931809,
-    "wof:lastmodified":1537618602,
+    "wof:lastmodified":1566706122,
     "wof:name":"El Cacho",
     "wof:parent_id":1108701515,
     "wof:placetype":"locality",

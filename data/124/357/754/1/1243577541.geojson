@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.83742,10.86906,-74.79742,10.90906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243577541,
-    "wof:lastmodified":1536614318,
+    "wof:lastmodified":1566708213,
     "wof:name":"Malambo Viejo",
     "wof:parent_id":421190815,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.16658,
     "lbl:longitude":-74.951742,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Huila",
     "meso:gadm_admin":"Baraya",
     "meso:gadm_hasc2":"CO.HU.BA",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.951742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Baraya"
     ],
@@ -85,9 +88,9 @@
         "\u5df4\u62c9\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"737",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Baraya",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108700805,
-    "wof:lastmodified":1563307543,
+    "wof:lastmodified":1566707552,
     "wof:name":"Baraya",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

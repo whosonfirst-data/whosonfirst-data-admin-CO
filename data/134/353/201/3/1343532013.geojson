@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.21152,2.785,-72.17152,2.825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puerto Nare"
     ],
@@ -69,8 +73,7 @@
         "Puerto Nare"
     ],
     "name:und_x_variant":[
-        "Nare",
-        "Puerto Nare"
+        "Nare"
     ],
     "name:vie_x_preferred":[
         "Puerto Nare"
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1343532013,
-    "wof:lastmodified":1564288451,
+    "wof:lastmodified":1566706313,
     "wof:name":"Puerto Nare",
     "wof:parent_id":421203263,
     "wof:placetype":"locality",

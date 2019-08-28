@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.13667,5.66333,-72.09667,5.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3682998
     },
     "wof:country":"CO",
-    "wof:geomhash":"cfd5e779fdb3ef082a4102129f200d43",
+    "wof:geomhash":"44b40f214a330a2bee530427022a435e",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209048153,
-    "wof:lastmodified":1536299329,
+    "wof:lastmodified":1566707164,
     "wof:name":"El Sural",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -72.11667,
-    5.6833300000000015,
+    5.68333,
     -72.11667,
-    5.6833300000000015
+    5.68333
 ],
   "geometry": {"coordinates":[-72.11667,5.68333],"type":"Point"}
 }

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.128342,
     "lbl:longitude":-76.849477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Putumayo",
     "meso:gadm_admin":"San Francisco",
     "meso:gadm_hasc2":"CO.PU.SF",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.849477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -517,7 +520,7 @@
         "\u65e7\u91d1\u5c71"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -539,7 +542,7 @@
         }
     ],
     "wof:id":1108701573,
-    "wof:lastmodified":1564293161,
+    "wof:lastmodified":1566707444,
     "wof:name":"San Francisco",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-76.04335,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":1662,
+    "gn:population":1662,
     "iso:country":"CO",
+    "lbl:bbox":"-76.06335,1.97244,-76.02335,2.01244",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Saladoblanco"
     ],
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3670383,
         "gp:id":365032,
-        "qs:id":150034,
+        "qs_pg:id":150034,
         "wd:id":"Q1579483",
         "wk:page":"Saladoblanco"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890441945,
-    "wof:lastmodified":1563309634,
+    "wof:lastmodified":1566708069,
     "wof:name":"Saladoblanco",
     "wof:parent_id":1108700837,
     "wof:placetype":"locality",

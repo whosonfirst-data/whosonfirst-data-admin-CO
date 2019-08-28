@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.21011,9.15576,-75.17011,9.19576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1225991945,
-    "wof:lastmodified":1536802716,
+    "wof:lastmodified":1566708593,
     "wof:name":"Hato Nuevo",
     "wof:parent_id":1108701383,
     "wof:placetype":"locality",

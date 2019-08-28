@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.21958,10.08346,-75.17958,10.12346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Basilio",
         "San Basillo de Palenque",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193072627,
-    "wof:lastmodified":1537618404,
+    "wof:lastmodified":1566707260,
     "wof:name":"San Basilio del Palenque",
     "wof:parent_id":1108700125,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.5763,
     "lbl:longitude":-75.818996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Jard\u00edn",
     "meso:gadm_hasc2":"CO.AN.JA",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.818996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jard\u00edn"
@@ -134,9 +137,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"224",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Jard\u00edn",
@@ -158,7 +161,7 @@
         "gn:id":3680367,
         "gp:id":26796667,
         "hasc:id":"CO.AN.JA",
-        "qs:id":1118962,
+        "qs_pg:id":1118962,
         "wd:id":"Q1525138",
         "wk:page":"Jard\u00edn"
     },
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421190191,
-    "wof:lastmodified":1563309331,
+    "wof:lastmodified":1566708010,
     "wof:name":"Jard\u00edn",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

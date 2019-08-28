@@ -10,6 +10,9 @@
     "geom:latitude":1.613746,
     "geom:longitude":-75.613059,
     "iso:country":"CO",
+    "lbl:bbox":"-75.633059,1.593746,-75.593059,1.633746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -322,9 +325,11 @@
     "wof:concordances":{
         "gn:id":3682426,
         "gp:id":368201,
-        "qs:id":1075502,
         "qs_pg:id":279874,
         "wd:id":"Q849859"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1075502
     },
     "wof:country":"CO",
     "wof:created":1459009488,
@@ -339,7 +344,7 @@
         }
     ],
     "wof:id":421186693,
-    "wof:lastmodified":1563309243,
+    "wof:lastmodified":1566707994,
     "wof:name":"Florencia",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

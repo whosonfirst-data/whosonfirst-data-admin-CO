@@ -10,8 +10,12 @@
     "geom:latitude":4.35111,
     "geom:longitude":-72.45639,
     "iso:country":"CO",
+    "lbl:bbox":"-72.47639,4.33111,-72.43639,4.37111",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tibacuy"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3792406,
         "gp:id":26797692,
-        "qs:id":1097215
+        "qs_pg:id":1097215
     },
     "wof:country":"CO",
     "wof:created":1459009132,
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177083,
-    "wof:lastmodified":1564294734,
+    "wof:lastmodified":1566708042,
     "wof:name":"Tibacuy",
     "wof:parent_id":1108701553,
     "wof:placetype":"locality",

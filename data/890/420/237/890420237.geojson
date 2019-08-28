@@ -11,10 +11,14 @@
     "geom:longitude":-72.24808,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":743,
+    "gn:population":743,
     "iso:country":"CO",
+    "lbl:bbox":"-72.26808,6.07892,-72.22808,6.11892",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "S\u00e1cama"
     ],
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3670443,
         "gp:id":365014,
-        "qs:id":96299,
+        "qs_pg:id":96299,
         "wd:id":"Q1654723",
         "wk:page":"S\u00e1cama"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890420237,
-    "wof:lastmodified":1563309688,
+    "wof:lastmodified":1566708076,
     "wof:name":"S\u00e1cama",
     "wof:parent_id":1108701545,
     "wof:placetype":"locality",

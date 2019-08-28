@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.53833,4.4686,-74.49833,4.5086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Vereda Santana"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343515403,
-    "wof:lastmodified":1537618785,
+    "wof:lastmodified":1566706441,
     "wof:name":"Vereda Santana",
     "wof:parent_id":421203443,
     "wof:placetype":"locality",

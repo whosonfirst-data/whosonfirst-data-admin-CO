@@ -9,25 +9,24 @@
     "geom:bbox":"-74.81667,11.0,-74.81667,11.0",
     "geom:latitude":11.0,
     "geom:longitude":-74.81667,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.0,
     "gn:longitude":-74.81667,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.82167,10.995,-74.81167,11.005",
     "lbl:latitude":11.0,
     "lbl:longitude":-74.81667,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "El Granadillo"
     ],
     "name:spa_x_variant":[
-        "Granadillo"
-    ],
-    "name:unk_x_variant":[
-        "El Granadillo",
         "Granadillo"
     ],
     "qs_pg:aaroncc":"CO",
@@ -51,7 +50,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":354710,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Atlantico",
@@ -66,7 +65,6 @@
     "wof:concordances":{
         "gn:id":3684138,
         "gp:id":354710,
-        "qs:id":1082696,
         "qs_pg:id":1082696
     },
     "wof:country":"CO",
@@ -83,7 +81,7 @@
         }
     ],
     "wof:id":1126090453,
-    "wof:lastmodified":1534379261,
+    "wof:lastmodified":1566708084,
     "wof:name":"El Granadillo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

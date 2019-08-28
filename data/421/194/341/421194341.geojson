@@ -10,8 +10,12 @@
     "geom:latitude":2.62271,
     "geom:longitude":-76.57039,
     "iso:country":"CO",
+    "lbl:bbox":"-76.59039,2.60271,-76.55039,2.64271",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cajib\u00edo"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3688009,
         "gp:id":368729,
-        "qs:id":1046397,
+        "qs_pg:id":1046397,
         "wd:id":"Q1256885",
         "wk:page":"Cajibio, Cauca"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421194341,
-    "wof:lastmodified":1563308939,
+    "wof:lastmodified":1566707932,
     "wof:name":"Cajib\u00edo",
     "wof:parent_id":1108700445,
     "wof:placetype":"locality",

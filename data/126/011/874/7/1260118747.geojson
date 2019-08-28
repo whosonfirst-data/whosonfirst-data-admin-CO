@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.34849,10.49416,-74.30849,10.53416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda La Mar\u00eda",
         "La Mar\u00eda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260118747,
-    "wof:lastmodified":1537618513,
+    "wof:lastmodified":1566707389,
     "wof:name":"La Maria",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",

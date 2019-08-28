@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.24114,9.34949,-74.20114,9.38949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Fortuna"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1293934819,
-    "wof:lastmodified":1564290057,
+    "wof:lastmodified":1566706714,
     "wof:name":"La Fortuna",
     "wof:parent_id":1108700909,
     "wof:placetype":"locality",

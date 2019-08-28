@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.08998,4.57825,-74.04998,4.61825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309846999,
-    "wof:lastmodified":1536870598,
+    "wof:lastmodified":1566707865,
     "wof:name":"Sede P CUN",
     "wof:parent_id":1108700089,
     "wof:placetype":"locality",

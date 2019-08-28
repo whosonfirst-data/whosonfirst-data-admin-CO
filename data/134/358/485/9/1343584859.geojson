@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.87,10.94667,-74.83,10.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343584859,
-    "wof:lastmodified":1537061529,
+    "wof:lastmodified":1566706441,
     "wof:name":"Comando",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

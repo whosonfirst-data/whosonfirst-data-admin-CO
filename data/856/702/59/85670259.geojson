@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.78945,
     "lbl:longitude":-70.779526,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Vaup\u00e9s",
     "mps:latitude":0.942607,
     "mps:longitude":-70.720055,
@@ -225,7 +226,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0443\u043f\u0435\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Comisar\u00eda del Vaup\u00e9s"
     ],
     "name:urd_x_preferred":[
@@ -315,9 +316,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"65,268",
     "statoids:area_mi":"25,200",
     "statoids:as_of_date":"2005-05-22",
@@ -342,7 +343,7 @@
         "gp:id":2345075,
         "hasc:id":"CO.VP",
         "iso:id":"CO-VAU",
-        "qs:id":984073,
+        "qs_pg:id":984073,
         "unlc:id":"CO-VAU",
         "wd:id":"Q234505",
         "wk:page":"Vaup\u00e9s Department"
@@ -363,11 +364,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670385,
+    "wof:lastmodified":1566706551,
     "wof:name":"Vaup\u00e9s",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":19943,
     "wof:population_rank":6,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.11463,3.87643,-77.07463,3.91643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Arrieral"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209053269,
-    "wof:lastmodified":1537618752,
+    "wof:lastmodified":1566707189,
     "wof:name":"El Arrieral",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.00886,
     "geom:longitude":-74.47226,
     "iso:country":"CO",
+    "lbl:bbox":"-74.49226,4.98886,-74.45226,5.02886",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villeta"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3665895,
         "gp:id":368440,
-        "qs:id":1046149,
+        "qs_pg:id":1046149,
         "wd:id":"Q1440837"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421194291,
-    "wof:lastmodified":1563308946,
+    "wof:lastmodified":1566707934,
     "wof:name":"Villeta",
     "wof:parent_id":421188673,
     "wof:placetype":"locality",

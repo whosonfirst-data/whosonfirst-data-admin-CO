@@ -11,10 +11,14 @@
     "geom:longitude":-73.56142,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":7511,
+    "gn:population":7511,
     "iso:country":"CO",
+    "lbl:bbox":"-73.58142,4.23833,-73.54142,4.27833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Restrepo"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3670855,
         "gp:id":368556,
-        "qs:id":279862,
+        "qs_pg:id":279862,
         "wd:id":"Q2042902",
         "wk:page":"Restrepo"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890433263,
-    "wof:lastmodified":1563309703,
+    "wof:lastmodified":1566708077,
     "wof:name":"Restrepo",
     "wof:parent_id":421188675,
     "wof:placetype":"locality",

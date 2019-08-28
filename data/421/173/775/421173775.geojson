@@ -10,8 +10,12 @@
     "geom:latitude":5.76483,
     "geom:longitude":-73.24758,
     "iso:country":"CO",
+    "lbl:bbox":"-73.26758,5.74483,-73.22758,5.78483",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sotaquir\u00e1"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3667796,
         "gp:id":366972,
-        "qs:id":299061,
+        "qs_pg:id":299061,
         "wd:id":"Q1579502",
         "wk:page":"Sotaquir\u00e1"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421173775,
-    "wof:lastmodified":1563309185,
+    "wof:lastmodified":1566707979,
     "wof:name":"Sotaquir\u00e1",
     "wof:parent_id":421183883,
     "wof:placetype":"locality",

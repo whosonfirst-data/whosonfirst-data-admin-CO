@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17489840.466216,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.513598,10.449632,-75.513598,10.449632",
     "geom:latitude":10.449632,
     "geom:longitude":-75.513598,
     "gn:latitude":10.43944,
     "gn:longitude":-75.51889,
     "iso:country":"CO",
+    "lbl:bbox":"-75.518598,10.444632,-75.508598,10.454632",
     "lbl:latitude":10.449632,
     "lbl:longitude":-75.513598,
+    "lbl:max_zoom":18.0,
     "mps:latitude":10.458969,
     "mps:longitude":-75.508013,
     "mz:hierarchy_label":0,
@@ -32,9 +34,8 @@
         "Barrio de Crespo",
         "Juli\u00e1n Bourdeu"
     ],
-    "name:unk_x_variant":[
-        "Barrio Crespo",
-        "Barrio de Crespo"
+    "name:und_x_variant":[
+        "Barrio Crespo"
     ],
     "qs:gn_adm0_cc":"CO",
     "qs:gn_fcode":"PPLX",
@@ -64,18 +65,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85670209,
         102191577,
         85632519,
-        1108700093,
-        85670209
+        1108700093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3830549,
         "gp:id":351247,
-        "qs:id":228628
+        "qs_pg:id":228628
     },
     "wof:country":"CO",
     "wof:geomhash":"fb0221e48af66a4045d76199198d91c0",
@@ -93,7 +94,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1531858910,
+    "wof:lastmodified":1566706527,
     "wof:name":"Barrio de Crespo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

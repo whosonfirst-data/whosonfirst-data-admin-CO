@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.10241,5.17444,-75.06241,5.21444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tablazo",
         "El Tablazo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343309325,
-    "wof:lastmodified":1537618568,
+    "wof:lastmodified":1566706315,
     "wof:name":"El Tablazo",
     "wof:parent_id":421177935,
     "wof:placetype":"locality",

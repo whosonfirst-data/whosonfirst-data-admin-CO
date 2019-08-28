@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.041898,
     "lbl:longitude":-72.737769,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Amazonas",
     "meso:gadm_admin":"La Chorrera",
     "meso:gadm_hasc2":"CO.AM.LC",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.737769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "C.D El Encanto"
     ],
@@ -40,7 +43,7 @@
         "La Chorrera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108701583,
-    "wof:lastmodified":1555091991,
+    "wof:lastmodified":1566707459,
     "wof:name":"C.D El Encanto",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

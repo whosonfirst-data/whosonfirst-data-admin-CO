@@ -11,10 +11,14 @@
     "geom:longitude":-75.98255,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":1617,
+    "gn:population":1617,
     "iso:country":"CO",
+    "lbl:bbox":"-76.00255,6.38511,-75.96255,6.42511",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Caicedo"
     ],
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3688072,
         "gp:id":368470,
-        "qs:id":1046399,
+        "qs_pg:id":1046399,
         "wd:id":"Q1579442",
         "wk:page":"Caicedo"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890438847,
-    "wof:lastmodified":1563309660,
+    "wof:lastmodified":1566708073,
     "wof:name":"Caicedo",
     "wof:parent_id":1108699937,
     "wof:placetype":"locality",

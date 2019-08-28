@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.94344,1.83239,-76.90344,1.87239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Jos\u00e9 del Morro"
     ],
     "name:und_x_variant":[
-        "El Morro",
-        "San Jos\u00e9 del Morro"
+        "El Morro"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1309889911,
-    "wof:lastmodified":1537618399,
+    "wof:lastmodified":1566707912,
     "wof:name":"San Jose del Morro",
     "wof:parent_id":1108700441,
     "wof:placetype":"locality",

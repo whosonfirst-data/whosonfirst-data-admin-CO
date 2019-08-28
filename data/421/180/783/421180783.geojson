@@ -10,8 +10,12 @@
     "geom:latitude":6.293245,
     "geom:longitude":-75.546455,
     "iso:country":"CO",
+    "lbl:bbox":"-75.566455,6.273245,-75.526455,6.313245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":359715,
-        "qs:id":460914
+        "qs_pg:id":460914
     },
     "wof:country":"CO",
     "wof:created":1459009271,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421180783,
-    "wof:lastmodified":1499968070,
+    "wof:lastmodified":1566707968,
     "wof:name":"La Pi\u00f1uela",
     "wof:parent_id":421205069,
     "wof:placetype":"locality",

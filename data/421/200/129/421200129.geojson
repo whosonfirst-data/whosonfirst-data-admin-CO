@@ -10,8 +10,12 @@
     "geom:latitude":5.74867,
     "geom:longitude":-75.60626,
     "iso:country":"CO",
+    "lbl:bbox":"-75.62626,5.72867,-75.58626,5.76867",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "La Pintada"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3678118,
         "gp:id":359714,
-        "qs:id":1284769,
+        "qs_pg:id":1284769,
         "wd:id":"Q1576562",
         "wk:page":"La Pintada, Colombia"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421200129,
-    "wof:lastmodified":1563309377,
+    "wof:lastmodified":1566708018,
     "wof:name":"La Pintada",
     "wof:parent_id":1108699971,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.60037,8.87249,-73.56037,8.91249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Barbara"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1193006887,
-    "wof:lastmodified":1564292406,
+    "wof:lastmodified":1566707261,
     "wof:name":"Santa Barbara",
     "wof:parent_id":421188171,
     "wof:placetype":"locality",

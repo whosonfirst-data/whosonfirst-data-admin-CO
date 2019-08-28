@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.69175,5.45896,-74.65175,5.49896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Palanquero"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343415017,
-    "wof:lastmodified":1537618445,
+    "wof:lastmodified":1566706375,
     "wof:name":"Palanquero",
     "wof:parent_id":421203437,
     "wof:placetype":"locality",

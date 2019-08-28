@@ -10,8 +10,12 @@
     "geom:latitude":8.17361,
     "geom:longitude":-76.05917,
     "iso:country":"CO",
+    "lbl:bbox":"-76.07917,8.15361,-76.03917,8.19361",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tierralta"
@@ -70,7 +74,7 @@
     "name:tgl_x_preferred":[
         "Tierralta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Los Bongos"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3667158,
         "gp:id":368424,
-        "qs:id":1263223,
+        "qs_pg:id":1263223,
         "wd:id":"Q2434756"
     },
     "wof:country":"CO",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421200043,
-    "wof:lastmodified":1563309378,
+    "wof:lastmodified":1566708019,
     "wof:name":"Tierralta",
     "wof:parent_id":1108700609,
     "wof:placetype":"locality",

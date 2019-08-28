@@ -10,8 +10,12 @@
     "geom:latitude":5.24958,
     "geom:longitude":-73.7661,
     "iso:country":"CO",
+    "lbl:bbox":"-73.7861,5.22958,-73.7461,5.26958",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cucunub\u00e1"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3685540,
         "gp:id":353505,
-        "qs:id":1341706,
+        "qs_pg:id":1341706,
         "wd:id":"Q1575538",
         "wk:page":"Cucunub\u00e1"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421201235,
-    "wof:lastmodified":1563309391,
+    "wof:lastmodified":1566708022,
     "wof:name":"Cucunub\u00e1",
     "wof:parent_id":421203441,
     "wof:placetype":"locality",

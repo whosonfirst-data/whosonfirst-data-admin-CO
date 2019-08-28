@@ -10,8 +10,12 @@
     "geom:latitude":8.4021,
     "geom:longitude":-73.20737,
     "iso:country":"CO",
+    "lbl:bbox":"-73.22737,8.3821,-73.18737,8.4221",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Calixto"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3670011,
         "gp:id":368389,
-        "qs:id":1206494,
+        "qs_pg:id":1206494,
         "wd:id":"Q2348501",
         "wk:page":"San Calixto"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421198835,
-    "wof:lastmodified":1563309288,
+    "wof:lastmodified":1566708003,
     "wof:name":"San Calixto",
     "wof:parent_id":1108701141,
     "wof:placetype":"locality",

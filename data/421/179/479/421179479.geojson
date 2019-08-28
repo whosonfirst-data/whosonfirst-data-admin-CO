@@ -10,8 +10,12 @@
     "geom:latitude":8.36361,
     "geom:longitude":-72.4063,
     "iso:country":"CO",
+    "lbl:bbox":"-72.4263,8.34361,-72.3863,8.38361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Santander"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "Puerto Santander"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santander"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3671325,
         "gp:id":369305,
-        "qs:id":150055,
+        "qs_pg:id":150055,
         "wd:id":"Q1575400",
         "wk:page":"Puerto Santander"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179479,
-    "wof:lastmodified":1563309501,
+    "wof:lastmodified":1566708047,
     "wof:name":"Puerto Santander",
     "wof:parent_id":1108701133,
     "wof:placetype":"locality",

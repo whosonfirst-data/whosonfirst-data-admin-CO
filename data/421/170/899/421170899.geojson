@@ -10,8 +10,12 @@
     "geom:latitude":8.79577,
     "geom:longitude":-75.69947,
     "iso:country":"CO",
+    "lbl:bbox":"-75.71947,8.77577,-75.67947,8.81577",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Carlos"
@@ -98,10 +102,12 @@
     "wof:concordances":{
         "gn:id":3669998,
         "gp:id":368391,
-        "qs:id":269801,
         "qs_pg:id":96293,
         "wd:id":"Q1440812",
         "wk:page":"San Carlos, C\u00f3rdoba"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":269801
     },
     "wof:country":"CO",
     "wof:created":1459008873,
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421170899,
-    "wof:lastmodified":1563309464,
+    "wof:lastmodified":1566708040,
     "wof:name":"San Carlos",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",

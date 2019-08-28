@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.64244,3.10318,-76.60244,3.14318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Timba"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1292951199,
-    "wof:lastmodified":1564289661,
+    "wof:lastmodified":1566706624,
     "wof:name":"Timba",
     "wof:parent_id":421190209,
     "wof:placetype":"locality",

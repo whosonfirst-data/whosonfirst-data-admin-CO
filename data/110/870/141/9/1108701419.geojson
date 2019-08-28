@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.265606,
     "lbl:longitude":-75.073565,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sucre",
     "meso:gadm_admin":"Sinc\u00e9",
     "meso:gadm_hasc2":"CO.SU.SI",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.073565,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Sinc\u00e9"
     ],
@@ -85,9 +88,9 @@
         "\u8f9b\u585e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"407",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Sinc\u00e9",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108701419,
-    "wof:lastmodified":1563307667,
+    "wof:lastmodified":1566707596,
     "wof:name":"Sinc\u00e9",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

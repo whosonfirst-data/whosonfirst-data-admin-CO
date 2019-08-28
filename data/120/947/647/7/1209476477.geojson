@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.13394,8.96254,-75.09394,9.00254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Boquerones"
     ],
     "name:und_x_variant":[
-        "Boquerones",
-        "Los Boquerones"
+        "Boquerones"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209476477,
-    "wof:lastmodified":1564291702,
+    "wof:lastmodified":1566707114,
     "wof:name":"Los Boquerones",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.9758,1.72604,-75.9358,1.76604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Calle"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226123885,
-    "wof:lastmodified":1564297146,
+    "wof:lastmodified":1566708638,
     "wof:name":"Calle",
     "wof:parent_id":1108700795,
     "wof:placetype":"locality",

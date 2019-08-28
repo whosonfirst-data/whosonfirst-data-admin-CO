@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.850039,
     "lbl:longitude":-74.098416,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Meta",
     "meso:gadm_admin":"San Luis de Cubarral",
     "meso:gadm_hasc2":"CO.ME.CB",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.098416,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Cumaral"
@@ -77,9 +80,6 @@
     "name:tgl_x_preferred":[
         "Cumaral"
     ],
-    "name:unk_x_variant":[
-        "Cumaral"
-    ],
     "name:vie_x_preferred":[
         "Cumaral"
     ],
@@ -114,7 +114,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191577,
@@ -126,7 +126,7 @@
         "gn:id":3685446,
         "gp:id":26797257,
         "hasc:id":"CO.ME.CB",
-        "qs:id":54853,
+        "qs_pg:id":54853,
         "wd:id":"Q1525841",
         "wk:page":"Cumaral"
     },
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":421182875,
-    "wof:lastmodified":1563309536,
+    "wof:lastmodified":1566708054,
     "wof:name":"Cubarral",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

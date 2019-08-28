@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.99931,4.31882,-73.95931,4.35882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pueblo Viejo"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1277125279,
-    "wof:lastmodified":1564290922,
+    "wof:lastmodified":1566706920,
     "wof:name":"Pueblo Viejo",
     "wof:parent_id":1108700645,
     "wof:placetype":"locality",

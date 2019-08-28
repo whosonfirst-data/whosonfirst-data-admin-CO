@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.802976,
     "lbl:longitude":-75.783104,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Risaralda",
     "meso:gadm_admin":"Santa Rosa de Cabal",
     "meso:gadm_hasc2":"CO.RI.SR",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.783104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0631\u0627"
@@ -261,7 +264,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":3540,
     "wof:belongsto":[
         102191577,
@@ -273,7 +276,7 @@
         "gn:id":3672487,
         "gp:id":26797393,
         "hasc:id":"CO.RI.SR",
-        "qs:id":1086198,
+        "qs_pg:id":1086198,
         "wd:id":"Q51111",
         "wk:page":"Pereira, Colombia"
     },
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421187825,
-    "wof:lastmodified":1563309148,
+    "wof:lastmodified":1566707974,
     "wof:name":"Pereira",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

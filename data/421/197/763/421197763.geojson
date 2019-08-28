@@ -10,8 +10,12 @@
     "geom:latitude":2.45199,
     "geom:longitude":-76.81029,
     "iso:country":"CO",
+    "lbl:bbox":"-76.83029,2.43199,-76.79029,2.47199",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Tambo"
@@ -58,7 +62,7 @@
     "name:tgl_x_preferred":[
         "El Tambo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tambo"
     ],
     "name:vie_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3682963,
         "gp:id":368304,
-        "qs:id":150126,
+        "qs_pg:id":150126,
         "wd:id":"Q961294",
         "wk:page":"El Tambo, Cauca"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421197763,
-    "wof:lastmodified":1563309336,
+    "wof:lastmodified":1566708012,
     "wof:name":"El Tambo",
     "wof:parent_id":1108700455,
     "wof:placetype":"locality",

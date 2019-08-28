@@ -10,8 +10,12 @@
     "geom:latitude":4.48668,
     "geom:longitude":-73.93748,
     "iso:country":"CO",
+    "lbl:bbox":"-73.95748,4.46668,-73.91748,4.50668",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ubaque"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3666522,
         "gp:id":367567,
-        "qs:id":495249,
+        "qs_pg:id":495249,
         "wd:id":"Q1574736",
         "wk:page":"Ubaque"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421181587,
-    "wof:lastmodified":1563309266,
+    "wof:lastmodified":1566707998,
     "wof:name":"Ubaque",
     "wof:parent_id":421193615,
     "wof:placetype":"locality",

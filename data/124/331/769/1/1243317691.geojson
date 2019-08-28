@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.10789,9.19147,-75.06789,9.23147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Chapinero"
     ],
@@ -54,8 +58,7 @@
         "Chapinero"
     ],
     "name:und_x_variant":[
-        "Hacienda Chapinero",
-        "Chapinero"
+        "Hacienda Chapinero"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1243317691,
-    "wof:lastmodified":1564294797,
+    "wof:lastmodified":1566708092,
     "wof:name":"Chapinero",
     "wof:parent_id":1108701419,
     "wof:placetype":"locality",

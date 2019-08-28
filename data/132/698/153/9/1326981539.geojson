@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.57636,5.25953,-75.53636,5.29953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aguadita",
         "La Aguadita"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326981539,
-    "wof:lastmodified":1537618537,
+    "wof:lastmodified":1566706242,
     "wof:name":"La Aguadita",
     "wof:parent_id":421180107,
     "wof:placetype":"locality",

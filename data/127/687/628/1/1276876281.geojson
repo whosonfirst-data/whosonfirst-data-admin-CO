@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.48667,0.38,-73.44667,0.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Palermo"
     ],
@@ -348,8 +352,7 @@
         "\u041f\u0430\u043b\u0435\u0440\u043c\u043e"
     ],
     "name:und_x_variant":[
-        "Piedras",
-        "Palermo"
+        "Piedras"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u0631\u0645\u0648"
@@ -410,7 +413,7 @@
         }
     ],
     "wof:id":1276876281,
-    "wof:lastmodified":1564290597,
+    "wof:lastmodified":1566706846,
     "wof:name":"Palermo",
     "wof:parent_id":1108700425,
     "wof:placetype":"locality",

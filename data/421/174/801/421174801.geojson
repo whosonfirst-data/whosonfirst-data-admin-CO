@@ -10,8 +10,12 @@
     "geom:latitude":3.86048,
     "geom:longitude":-76.38364,
     "iso:country":"CO",
+    "lbl:bbox":"-76.40364,3.84048,-76.36364,3.88048",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Yotoco"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Yotoco"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yataco"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3665678,
         "gp:id":368613,
-        "qs:id":899475,
+        "qs_pg:id":899475,
         "wd:id":"Q543996",
         "wk:page":"Yotoco"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421174801,
-    "wof:lastmodified":1563309104,
+    "wof:lastmodified":1566707965,
     "wof:name":"Yotoco",
     "wof:parent_id":421181797,
     "wof:placetype":"locality",

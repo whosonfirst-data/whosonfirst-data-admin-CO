@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.15333,2.09667,-78.11333,2.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0644"
     ],
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":1343822597,
-    "wof:lastmodified":1564288850,
+    "wof:lastmodified":1566706403,
     "wof:name":"Cuil",
     "wof:parent_id":1108700995,
     "wof:placetype":"locality",

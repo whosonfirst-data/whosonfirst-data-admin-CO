@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.556781,
     "lbl:longitude":-75.077783,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"Cisneros",
     "meso:gadm_hasc2":"CO.AN.CI",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.077783,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Cisneros"
     ],
@@ -94,9 +97,9 @@
         "\u932b\u65af\u5167\u7f85\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"46",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Cisneros",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108699953,
-    "wof:lastmodified":1563307247,
+    "wof:lastmodified":1566707436,
     "wof:name":"Cisneros",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

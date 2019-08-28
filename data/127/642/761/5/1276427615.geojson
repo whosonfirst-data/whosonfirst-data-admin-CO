@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.3989,8.48661,-75.3589,8.52661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Florencia"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1276427615,
-    "wof:lastmodified":1564290574,
+    "wof:lastmodified":1566706840,
     "wof:name":"Florencia",
     "wof:parent_id":1108700591,
     "wof:placetype":"locality",

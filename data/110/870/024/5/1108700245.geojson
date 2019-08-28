@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.447344,
     "lbl:longitude":-72.516411,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Boyac\u00e1",
     "meso:gadm_admin":"El Espino",
     "meso:gadm_hasc2":"CO.BY.EE",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.516411,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "El Espino"
     ],
@@ -85,9 +88,9 @@
         "\u57c3\u723e\u57c3\u65af\u76ae\u8afe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"238",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"El Espino",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108700245,
-    "wof:lastmodified":1563307300,
+    "wof:lastmodified":1566707462,
     "wof:name":"Guacamayas",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

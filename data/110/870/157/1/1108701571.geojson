@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.223527,
     "lbl:longitude":-76.911148,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Putumayo",
     "meso:gadm_admin":"San Francisco",
     "meso:gadm_hasc2":"CO.PU.SF",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.911148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sibundoy"
     ],
@@ -85,7 +88,7 @@
         "\u932b\u672c\u591a\u4f0a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108701571,
-    "wof:lastmodified":1564293158,
+    "wof:lastmodified":1566707444,
     "wof:name":"Sibundoy",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

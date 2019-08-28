@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.52885,9.5197,-74.48885,9.5597",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda El Congreso",
         "El Congreso"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276595389,
-    "wof:lastmodified":1537618596,
+    "wof:lastmodified":1566706888,
     "wof:name":"El Congreso",
     "wof:parent_id":1108700911,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.42068,7.56358,-75.38068,7.60358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taraz\u00e1"
     ],
@@ -74,9 +78,6 @@
     "name:tgl_x_preferred":[
         "Taraz\u00e1"
     ],
-    "name:und_x_variant":[
-        "Taraz\u00e1"
-    ],
     "name:vie_x_preferred":[
         "Taraz\u00e1"
     ],
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1310108493,
-    "wof:lastmodified":1564293812,
+    "wof:lastmodified":1566707725,
     "wof:name":"Taraza",
     "wof:parent_id":1108700023,
     "wof:placetype":"locality",

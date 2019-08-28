@@ -10,8 +10,12 @@
     "geom:latitude":5.16054,
     "geom:longitude":-76.68397,
     "iso:country":"CO",
+    "lbl:bbox":"-76.70397,5.14054,-76.66397,5.18054",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Istmina"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "Istmina"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Istmia"
     ],
     "name:vie_x_preferred":[
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3680453,
         "gp:id":368319,
-        "qs:id":251727,
+        "qs_pg:id":251727,
         "wd:id":"Q1441410",
         "wk:page":"Istmina"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421169815,
-    "wof:lastmodified":1563309001,
+    "wof:lastmodified":1566707943,
     "wof:name":"Istmina",
     "wof:parent_id":1108700767,
     "wof:placetype":"locality",

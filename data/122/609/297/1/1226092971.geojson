@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.76278,3.68139,-74.72278,3.72139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palmalosa"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226092971,
-    "wof:lastmodified":1537618785,
+    "wof:lastmodified":1566708702,
     "wof:name":"Palmalosa",
     "wof:parent_id":1108701437,
     "wof:placetype":"locality",

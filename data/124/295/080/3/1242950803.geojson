@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.30914,5.39732,-76.26914,5.43732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242950803,
-    "wof:lastmodified":1537022217,
+    "wof:lastmodified":1566708148,
     "wof:name":"Cuchado",
     "wof:parent_id":1108700745,
     "wof:placetype":"locality",

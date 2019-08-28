@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.16259,9.12313,-75.12259,9.16313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caserio Cayo de Palma",
         "Cayo de Palma"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259545013,
-    "wof:lastmodified":1537618625,
+    "wof:lastmodified":1566708326,
     "wof:name":"Cayo de Palma",
     "wof:parent_id":1108701391,
     "wof:placetype":"locality",

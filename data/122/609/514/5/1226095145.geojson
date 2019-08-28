@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.12,9.54667,-75.08,9.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0627\u0644\u0629"
     ],
@@ -118,8 +122,7 @@
         "\u0410\u0440\u0435\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Caserio Arena",
-        "Arena"
+        "Caserio Arena"
     ],
     "name:zho_x_preferred":[
         "\u7ade\u6280\u573a"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1226095145,
-    "wof:lastmodified":1564297427,
+    "wof:lastmodified":1566708703,
     "wof:name":"Arena",
     "wof:parent_id":1108700117,
     "wof:placetype":"locality",

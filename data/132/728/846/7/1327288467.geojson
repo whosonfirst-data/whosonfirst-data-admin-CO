@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.76444,7.18917,-73.72444,7.22917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Andes"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1327288467,
-    "wof:lastmodified":1564288238,
+    "wof:lastmodified":1566706263,
     "wof:name":"Los Andes",
     "wof:parent_id":1108701195,
     "wof:placetype":"locality",

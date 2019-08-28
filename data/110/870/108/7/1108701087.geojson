@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.107506,
     "lbl:longitude":-72.458321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Norte de Santander",
     "meso:gadm_admin":"San Jos\u00e9 de C\u00facuta",
     "meso:gadm_hasc2":"CO.NS.CC",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.458321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0643\u0648\u062a\u0627"
     ],
@@ -237,9 +240,9 @@
         "\u5e93\u5e93\u5854"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"1142",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"C\u00facuta",
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":1108701087,
-    "wof:lastmodified":1563307509,
+    "wof:lastmodified":1566707540,
     "wof:name":"C\u00facuta",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

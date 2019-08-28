@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.65333,11.39667,-72.61333,11.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Analipe",
         "Analipa"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343436973,
-    "wof:lastmodified":1537618659,
+    "wof:lastmodified":1566706525,
     "wof:name":"Analipa",
     "wof:parent_id":421170625,
     "wof:placetype":"locality",

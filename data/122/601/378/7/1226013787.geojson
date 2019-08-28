@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.50928,7.50268,-72.46928,7.54268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226013787,
-    "wof:lastmodified":1536771943,
+    "wof:lastmodified":1566708678,
     "wof:name":"Bagalal",
     "wof:parent_id":1108701121,
     "wof:placetype":"locality",

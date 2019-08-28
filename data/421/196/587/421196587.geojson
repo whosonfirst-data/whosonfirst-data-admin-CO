@@ -10,8 +10,12 @@
     "geom:latitude":6.54302,
     "geom:longitude":-73.30826,
     "iso:country":"CO",
+    "lbl:bbox":"-73.32826,6.52302,-73.28826,6.56302",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Hato"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3681025,
         "gp:id":369604,
-        "qs:id":1206710,
+        "qs_pg:id":1206710,
         "wd:id":"Q1655700"
     },
     "wof:country":"CO",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421196587,
-    "wof:lastmodified":1563309316,
+    "wof:lastmodified":1566708006,
     "wof:name":"Hato",
     "wof:parent_id":1108701273,
     "wof:placetype":"locality",

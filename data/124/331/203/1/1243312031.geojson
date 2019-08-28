@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.156,4.45317,-75.116,4.49317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Esperanza"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1243312031,
-    "wof:lastmodified":1564294794,
+    "wof:lastmodified":1566708091,
     "wof:name":"Esperanza",
     "wof:parent_id":421190207,
     "wof:placetype":"locality",

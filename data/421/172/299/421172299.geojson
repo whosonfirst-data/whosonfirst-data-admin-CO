@@ -10,8 +10,12 @@
     "geom:latitude":8.85221,
     "geom:longitude":-73.81229,
     "iso:country":"CO",
+    "lbl:bbox":"-73.83229,8.83221,-73.79229,8.87221",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tamalameque"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3667528,
         "gp:id":368590,
-        "qs:id":150004,
+        "qs_pg:id":150004,
         "wd:id":"Q1524857"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421172299,
-    "wof:lastmodified":1563309233,
+    "wof:lastmodified":1566707992,
     "wof:name":"Tamalameque",
     "wof:parent_id":1108700563,
     "wof:placetype":"locality",

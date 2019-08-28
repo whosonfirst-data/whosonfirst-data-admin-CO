@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.70775,2.49098,-76.66775,2.53098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "San Alfredo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1209799591,
-    "wof:lastmodified":1564291620,
+    "wof:lastmodified":1566707095,
     "wof:name":"San Alfredo",
     "wof:parent_id":1108700431,
     "wof:placetype":"locality",

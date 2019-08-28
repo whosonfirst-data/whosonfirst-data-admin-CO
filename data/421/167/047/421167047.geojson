@@ -10,8 +10,12 @@
     "geom:latitude":10.82813,
     "geom:longitude":-75.03341,
     "iso:country":"CO",
+    "lbl:bbox":"-75.05341,10.80813,-75.01341,10.84813",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Juan de Acosta"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3680176,
         "gp:id":368996,
-        "qs:id":279867,
+        "qs_pg:id":279867,
         "wd:id":"Q2320402",
         "wk:page":"Juan de Acosta"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167047,
-    "wof:lastmodified":1563308975,
+    "wof:lastmodified":1566707938,
     "wof:name":"Juan de Acosta",
     "wof:parent_id":1108700059,
     "wof:placetype":"locality",

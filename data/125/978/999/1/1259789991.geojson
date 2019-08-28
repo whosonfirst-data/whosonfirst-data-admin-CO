@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-70.49399,6.90896,-70.45399,6.94896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Panchera"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259789991,
-    "wof:lastmodified":1537618509,
+    "wof:lastmodified":1566708382,
     "wof:name":"La Panchera",
     "wof:parent_id":421170653,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.35333,6.71333,-72.31333,6.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u041c\u0435\u043d\u0434\u0435\u0437"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226686577,
-    "wof:lastmodified":1564296852,
+    "wof:lastmodified":1566708572,
     "wof:name":"Mendez",
     "wof:parent_id":1108700211,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.066277,
     "lbl:longitude":-76.769515,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cauca",
     "meso:gadm_admin":"La Vega",
     "meso:gadm_hasc2":"CO.CA.LV",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.769515,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "La Vega"
     ],
@@ -76,7 +79,7 @@
         "La Vega"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191577,
         85632519,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108700471,
-    "wof:lastmodified":1564293184,
+    "wof:lastmodified":1566707481,
     "wof:name":"La Vega",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

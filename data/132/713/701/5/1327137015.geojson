@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.59889,6.55333,-75.55889,6.59333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327137015,
-    "wof:lastmodified":1536606543,
+    "wof:lastmodified":1566706146,
     "wof:name":"El Comun",
     "wof:parent_id":421205073,
     "wof:placetype":"locality",

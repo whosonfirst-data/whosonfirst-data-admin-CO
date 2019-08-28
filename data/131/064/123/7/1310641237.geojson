@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.41655,9.9654,-75.37655,10.0054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Flamenco"
     ],
@@ -240,8 +244,7 @@
         "\u0424\u043b\u0430\u043c\u0435\u043d\u043a\u043e"
     ],
     "name:und_x_variant":[
-        "Corregimiento Flamenco",
-        "Flamenco"
+        "Corregimiento Flamenco"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0644\u0627\u0645\u0646\u06a9\u0648"
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1310641237,
-    "wof:lastmodified":1564293603,
+    "wof:lastmodified":1566707679,
     "wof:name":"Flamenco",
     "wof:parent_id":1108700131,
     "wof:placetype":"locality",

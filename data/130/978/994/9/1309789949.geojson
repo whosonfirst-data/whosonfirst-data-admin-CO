@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.34973,3.16375,-76.30973,3.20375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Brisas de Arizona"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309789949,
-    "wof:lastmodified":1537618802,
+    "wof:lastmodified":1566707872,
     "wof:name":"Brisas de Arizona",
     "wof:parent_id":1108700481,
     "wof:placetype":"locality",

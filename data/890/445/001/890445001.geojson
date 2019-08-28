@@ -11,8 +11,11 @@
     "geom:longitude":-74.79639,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":1380425,
+    "gn:population":1380425,
     "iso:country":"CO",
+    "lbl:bbox":"-74.81639,10.94389,-74.77639,10.98389",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -274,7 +277,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0440\u0430\u043d\u043a\u0456\u043b\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barrancas de San Nicol\u00e1s"
     ],
     "name:urd_x_preferred":[
@@ -412,12 +415,12 @@
     "wof:concordances":{
         "gn:id":3689147,
         "gp:id":368151,
-        "qs:id":1046406,
+        "qs_pg:id":1046406,
         "wd:id":"Q62823",
         "wk:page":"Barranquilla"
     },
     "wof:concordances_alt":{
-        "qs:id":1075491
+        "qs_pg:id":1075491
     },
     "wof:country":"CO",
     "wof:created":1469052490,
@@ -432,7 +435,7 @@
         }
     ],
     "wof:id":890445001,
-    "wof:lastmodified":1563309693,
+    "wof:lastmodified":1566708077,
     "wof:name":"Barranquilla",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

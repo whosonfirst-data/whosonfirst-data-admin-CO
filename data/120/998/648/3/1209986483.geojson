@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-68.30333,3.36333,-68.26333,3.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209986483,
-    "wof:lastmodified":1536388372,
+    "wof:lastmodified":1566707041,
     "wof:name":"Juan Viejo",
     "wof:parent_id":1108701605,
     "wof:placetype":"locality",

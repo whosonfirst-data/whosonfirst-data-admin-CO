@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.99302,7.36678,-75.95302,7.40678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242952959,
-    "wof:lastmodified":1537019245,
+    "wof:lastmodified":1566708147,
     "wof:name":"El Algarrobo",
     "wof:parent_id":1108700585,
     "wof:placetype":"locality",

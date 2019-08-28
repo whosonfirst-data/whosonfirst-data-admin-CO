@@ -10,8 +10,12 @@
     "geom:latitude":7.17117,
     "geom:longitude":-75.76404,
     "iso:country":"CO",
+    "lbl:bbox":"-75.78404,7.15117,-75.74404,7.19117",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ituango"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3680434,
         "gp:id":368992,
-        "qs:id":1024333,
+        "qs_pg:id":1024333,
         "wd:id":"Q1441937",
         "wk:page":"Ituango"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421185409,
-    "wof:lastmodified":1563309608,
+    "wof:lastmodified":1566708065,
     "wof:name":"Ituango",
     "wof:parent_id":1108699969,
     "wof:placetype":"locality",

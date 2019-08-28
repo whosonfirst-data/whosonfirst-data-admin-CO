@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.9999,2.17762,-75.9599,2.21762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Argentina"
     ],
@@ -55,8 +59,7 @@
     ],
     "name:und_x_variant":[
         "Plata Vieja",
-        "Argentina",
-        "La Argentina"
+        "Argentina"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1344226299,
-    "wof:lastmodified":1564288561,
+    "wof:lastmodified":1566706338,
     "wof:name":"La Argentina",
     "wof:parent_id":1108700821,
     "wof:placetype":"locality",

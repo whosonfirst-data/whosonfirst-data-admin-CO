@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.73239,6.23772,-75.69239,6.27772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0648\u0627\u0633"
     ],
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1310513325,
-    "wof:lastmodified":1564294004,
+    "wof:lastmodified":1566707768,
     "wof:name":"Canoas",
     "wof:parent_id":421184085,
     "wof:placetype":"locality",

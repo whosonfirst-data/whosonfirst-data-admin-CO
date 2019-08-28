@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.50162,10.34374,-73.46162,10.38374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Arizona"
     ],
@@ -583,7 +587,7 @@
         }
     ],
     "wof:id":1259868353,
-    "wof:lastmodified":1564296383,
+    "wof:lastmodified":1566708469,
     "wof:name":"Arizona",
     "wof:parent_id":421197011,
     "wof:placetype":"locality",

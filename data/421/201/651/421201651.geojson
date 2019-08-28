@@ -10,8 +10,12 @@
     "geom:latitude":5.39056,
     "geom:longitude":-73.51667,
     "iso:country":"CO",
+    "lbl:bbox":"-73.53667,5.37056,-73.49667,5.41056",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tog\u00fc\u00ed"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3666964,
         "gp:id":367348,
-        "qs:id":924769,
+        "qs_pg:id":924769,
         "wd:id":"Q1654994",
         "wk:page":"Tog\u00fc\u00ed, Boyac\u00e1"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421201651,
-    "wof:lastmodified":1563309391,
+    "wof:lastmodified":1566708022,
     "wof:name":"Tog\u00fc\u00ed",
     "wof:parent_id":421198181,
     "wof:placetype":"locality",

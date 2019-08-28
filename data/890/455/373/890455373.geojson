@@ -11,10 +11,14 @@
     "geom:longitude":-73.91667,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":26699,
+    "gn:population":26699,
     "iso:country":"CO",
+    "lbl:bbox":"-73.93667,5.24667,-73.89667,5.28667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "La Mesa"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3678405,
         "gp:id":367025,
-        "qs:id":96321,
+        "qs_pg:id":96321,
         "wd:id":"Q415573",
         "wk:page":"La Mesa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890455373,
-    "wof:lastmodified":1563309650,
+    "wof:lastmodified":1566708072,
     "wof:name":"La Mesa",
     "wof:parent_id":1108700637,
     "wof:placetype":"locality",

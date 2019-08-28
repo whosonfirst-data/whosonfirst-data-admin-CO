@@ -11,10 +11,14 @@
     "geom:longitude":-77.03091,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2988,
+    "gn:population":2988,
     "iso:country":"CO",
+    "lbl:bbox":"-77.05091,1.50119,-77.01091,1.54119",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "San Bernardo"
     ],
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3670034,
         "gp:id":365271,
-        "qs:id":1046200,
+        "qs_pg:id":1046200,
         "wd:id":"Q1525355",
         "wk:page":"San Bernardo"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890436731,
-    "wof:lastmodified":1563309651,
+    "wof:lastmodified":1566708072,
     "wof:name":"San Bernardo",
     "wof:parent_id":1108701069,
     "wof:placetype":"locality",

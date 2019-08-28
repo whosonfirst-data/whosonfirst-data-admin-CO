@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.46326,
     "lbl:longitude":-72.970686,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santander",
     "meso:gadm_admin":"Mogotes",
     "meso:gadm_hasc2":"CO.ST.MG",
@@ -33,6 +35,7 @@
     "mps:longitude":-72.970686,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Mogotes"
     ],
@@ -82,9 +85,9 @@
         "\u83ab\u6208\u7279\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"355",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Mogotes",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108701299,
-    "wof:lastmodified":1563307424,
+    "wof:lastmodified":1566707502,
     "wof:name":"Mogotes",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

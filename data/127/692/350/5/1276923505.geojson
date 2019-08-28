@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.76023,8.75436,-74.72023,8.79436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caserio San Jose",
         "San Jos\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276923505,
-    "wof:lastmodified":1537618400,
+    "wof:lastmodified":1566706892,
     "wof:name":"San Jose",
     "wof:parent_id":421188689,
     "wof:placetype":"locality",

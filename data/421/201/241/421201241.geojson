@@ -10,6 +10,9 @@
     "geom:latitude":6.49156,
     "geom:longitude":-74.40326,
     "iso:country":"CO",
+    "lbl:bbox":"-74.42326,6.47156,-74.38326,6.51156",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":3671540,
         "gp:id":364331,
-        "qs:id":1341816,
+        "qs_pg:id":1341816,
         "wd:id":"Q1946640"
     },
     "wof:country":"CO",
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":421201241,
-    "wof:lastmodified":1563309396,
+    "wof:lastmodified":1566708022,
     "wof:name":"Puerto Berr\u00edo",
     "wof:parent_id":421170571,
     "wof:placetype":"locality",

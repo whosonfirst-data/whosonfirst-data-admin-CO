@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.52111,3.56611,-76.48111,3.60611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Yumbo"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1259433119,
-    "wof:lastmodified":1564296352,
+    "wof:lastmodified":1566708462,
     "wof:name":"Yumbo",
     "wof:parent_id":421186433,
     "wof:placetype":"locality",

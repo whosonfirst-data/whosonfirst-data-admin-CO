@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.89747,6.80002,-73.85747,6.84002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Palestina"
     ],
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":1209669865,
-    "wof:lastmodified":1564291900,
+    "wof:lastmodified":1566707153,
     "wof:name":"Palestina",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

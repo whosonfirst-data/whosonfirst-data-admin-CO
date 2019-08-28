@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.04736,10.02777,-75.00736,10.06777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo Lata",
         "Lata"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276391733,
-    "wof:lastmodified":1537618488,
+    "wof:lastmodified":1566706999,
     "wof:name":"Lata",
     "wof:parent_id":1108700119,
     "wof:placetype":"locality",

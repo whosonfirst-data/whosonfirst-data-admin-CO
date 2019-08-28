@@ -11,8 +11,10 @@
     "geom:longitude":-75.601202,
     "gn:id":"",
     "iso:country":"CO",
+    "lbl:bbox":"-75.606202,6.257627,-75.596202,6.267627",
     "lbl:latitude":6.262627,
     "lbl:longitude":-75.601202,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.264815,
     "mps:longitude":-75.607188,
     "mz:hierarchy_label":0,
@@ -63,9 +65,6 @@
     "name:swe_x_preferred":[
         "\u00c1lamos"
     ],
-    "name:unk_x_variant":[
-        "\u00c1lamos"
-    ],
     "name:vie_x_preferred":[
         "\u00c1lamos"
     ],
@@ -94,7 +93,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -104,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":350576,
-        "qs:id":1075366
+        "qs_pg:id":1075366
     },
     "wof:country":"CO",
     "wof:geomhash":"b8446cf8ea2db0432d80ea20b7984b76",
@@ -122,7 +121,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289396,
+    "wof:lastmodified":1566706527,
     "wof:name":"\u00c1lamos",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

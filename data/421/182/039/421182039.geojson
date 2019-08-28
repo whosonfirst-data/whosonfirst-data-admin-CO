@@ -10,8 +10,12 @@
     "geom:latitude":6.9792,
     "geom:longitude":-75.29724,
     "iso:country":"CO",
+    "lbl:bbox":"-75.31724,6.9592,-75.27724,6.9992",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Campamento"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3687835,
         "gp:id":56125924,
-        "qs:id":542914,
+        "qs_pg:id":542914,
         "wd:id":"Q546011"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421182039,
-    "wof:lastmodified":1563309538,
+    "wof:lastmodified":1566708054,
     "wof:name":"Campamento",
     "wof:parent_id":1108699939,
     "wof:placetype":"locality",

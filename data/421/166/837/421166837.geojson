@@ -10,8 +10,12 @@
     "geom:latitude":2.06895,
     "geom:longitude":-77.05273,
     "iso:country":"CO",
+    "lbl:bbox":"-77.07273,2.04895,-77.03273,2.08895",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pat\u00eda"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3672761,
         "gp:id":368360,
-        "qs:id":251734,
+        "qs_pg:id":251734,
         "wd:id":"Q1256878"
     },
     "wof:country":"CO",
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421166837,
-    "wof:lastmodified":1563308917,
+    "wof:lastmodified":1566707927,
     "wof:name":"Pat\u00eda",
     "wof:parent_id":1108700485,
     "wof:placetype":"locality",

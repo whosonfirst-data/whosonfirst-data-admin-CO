@@ -10,8 +10,12 @@
     "geom:latitude":1.57006,
     "geom:longitude":-75.32863,
     "iso:country":"CO",
+    "lbl:bbox":"-75.34863,1.55006,-75.30863,1.59006",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "El Paujil"
@@ -67,7 +71,7 @@
     "name:tgl_x_preferred":[
         "El Paujil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pajuil"
     ],
     "name:war_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3683528,
         "gp:id":368893,
-        "qs:id":150128,
+        "qs_pg:id":150128,
         "wd:id":"Q13998",
         "wk:page":"El Paujil"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421197765,
-    "wof:lastmodified":1563309338,
+    "wof:lastmodified":1566708012,
     "wof:name":"El Paujil",
     "wof:parent_id":1108700411,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.59028,9.17417,-73.55028,9.21417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gracias a Dios"
     ],
@@ -46,8 +50,7 @@
         "Gracias a Dios"
     ],
     "name:und_x_variant":[
-        "Hacienda Gracias a Dios",
-        "Gracias a Dios"
+        "Hacienda Gracias a Dios"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1326709019,
-    "wof:lastmodified":1564287981,
+    "wof:lastmodified":1566706206,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":421188175,
     "wof:placetype":"locality",

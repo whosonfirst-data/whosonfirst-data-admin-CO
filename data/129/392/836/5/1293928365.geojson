@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.38667,9.94667,-75.34667,9.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Rosa"
     ],
@@ -115,8 +119,7 @@
         "Santa Rosa"
     ],
     "name:und_x_variant":[
-        "Hacienda Santa Rosa",
-        "Santa Rosa"
+        "Hacienda Santa Rosa"
     ],
     "name:vol_x_preferred":[
         "Santa Rosa"
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1293928365,
-    "wof:lastmodified":1564289920,
+    "wof:lastmodified":1566706684,
     "wof:name":"Santa Rosa",
     "wof:parent_id":1108700131,
     "wof:placetype":"locality",

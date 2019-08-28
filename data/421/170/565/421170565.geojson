@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":6.016974,
     "lbl:longitude":-75.424923,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Antioquia",
     "meso:gadm_admin":"La Ceja",
     "meso:gadm_hasc2":"CO.AN.LC",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.424923,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0633\u064a\u062e\u0627"
@@ -103,9 +106,6 @@
     "name:tgl_x_preferred":[
         "La Ceja"
     ],
-    "name:unk_x_variant":[
-        "La Ceja del Tambo"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0633\u06cc\u062d\u0627"
     ],
@@ -143,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"131",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"La Ceja",
@@ -167,7 +167,7 @@
         "gn:id":3679555,
         "gp:id":26796669,
         "hasc:id":"CO.AN.LC",
-        "qs:id":1194339,
+        "qs_pg:id":1194339,
         "wd:id":"Q1946679",
         "wk:page":"La Ceja (Colombia)"
     },
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":421170565,
-    "wof:lastmodified":1563309454,
+    "wof:lastmodified":1566708037,
     "wof:name":"La Ceja",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

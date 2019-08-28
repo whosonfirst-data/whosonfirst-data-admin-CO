@@ -11,10 +11,14 @@
     "geom:longitude":-73.49655,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":428,
+    "gn:population":428,
     "iso:country":"CO",
+    "lbl:bbox":"-73.51655,6.22518,-73.47655,6.26518",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "El Guacamayo"
     ],
@@ -54,7 +58,7 @@
     "name:tgl_x_preferred":[
         "El Guacamayo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guacamayo"
     ],
     "name:vie_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3684132,
         "gp:id":356753,
-        "qs:id":96336,
+        "qs_pg:id":96336,
         "wd:id":"Q1655487",
         "wk:page":"El Guacamayo"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890429371,
-    "wof:lastmodified":1563309680,
+    "wof:lastmodified":1566708076,
     "wof:name":"El Guacamayo",
     "wof:parent_id":1108701239,
     "wof:placetype":"locality",

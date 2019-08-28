@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.72957,9.24152,-75.68957,9.28152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260066855,
-    "wof:lastmodified":1537011292,
+    "wof:lastmodified":1566707384,
     "wof:name":"Comejen",
     "wof:parent_id":1108700597,
     "wof:placetype":"locality",

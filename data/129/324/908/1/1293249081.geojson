@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.74794,6.96657,-73.70794,7.00657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293249081,
-    "wof:lastmodified":1536632322,
+    "wof:lastmodified":1566706646,
     "wof:name":"Los Mosqueteros",
     "wof:parent_id":1108701195,
     "wof:placetype":"locality",

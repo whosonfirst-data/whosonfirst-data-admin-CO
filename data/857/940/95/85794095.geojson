@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11449184.623192,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.197613,11.236192,-74.197613,11.236192",
     "geom:latitude":11.236192,
     "geom:longitude":-74.197613,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.23333,
     "gn:longitude":-74.2,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.202613,11.231192,-74.192613,11.241192",
     "lbl:latitude":11.236192,
     "lbl:longitude":-74.197613,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.229336,
     "mps:longitude":-74.196288,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:spa_x_preferred":[
-        "Barrio Cundi"
-    ],
-    "name:unk_x_variant":[
         "Barrio Cundi"
     ],
     "qs:gn_adm0_cc":"CO",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670223,
         102191577,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":3689127,
         "gp:id":351243,
-        "qs:id":298472,
         "qs_pg:id":298472
     },
     "wof:country":"CO",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379260,
+    "wof:lastmodified":1566706528,
     "wof:name":"Barrio Cundi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

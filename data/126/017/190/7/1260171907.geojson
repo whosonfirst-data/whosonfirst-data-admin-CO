@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.6715,1.60825,-75.6315,1.64825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u042d\u043b\u044c-\u041c\u0456\u0440\u0430\u0434\u043e\u0440"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1260171907,
-    "wof:lastmodified":1564292990,
+    "wof:lastmodified":1566707395,
     "wof:name":"El Mirador",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.5175,10.2157,-75.4775,10.2557",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Paricuica",
         "Paricuica"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276284085,
-    "wof:lastmodified":1537618438,
+    "wof:lastmodified":1566706823,
     "wof:name":"Paricuica",
     "wof:parent_id":1108700177,
     "wof:placetype":"locality",

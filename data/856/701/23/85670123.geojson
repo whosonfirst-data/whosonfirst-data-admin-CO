@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-1.25482,
     "lbl:longitude":-71.329261,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Amazonas",
     "mps:latitude":-1.220807,
     "mps:longitude":-71.329557,
@@ -153,7 +154,7 @@
         "Amazon\u0117s departamentas"
     ],
     "name:mar_x_preferred":[
-        "\u0905\u092e\u0945\u091d\u0949\u0928\u094d\u0938  \u0935\u093f\u092d\u093e\u0917"
+        "\u0905\u092e\u0945\u091d\u0949\u0928\u094d\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Amazonas"
@@ -216,7 +217,7 @@
         "Amazonas"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bae\u0bbe\u0b9a\u0bcb\u0ba9\u0bb8\u0bcd  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b85\u0bae\u0bbe\u0b9a\u0bcb\u0ba9\u0bb8\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2e\u0c46\u0c1c\u0c3e\u0c28\u0c4b\u0c38\u0c4d \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -239,7 +240,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u0441\u043e\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Intendenica Nacional del Amazonas"
     ],
     "name:urd_x_preferred":[
@@ -329,9 +330,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"109,665",
     "statoids:area_mi":"42,342",
     "statoids:as_of_date":"2005-05-22",
@@ -356,7 +357,7 @@
         "gp:id":2345047,
         "hasc:id":"CO.AM",
         "iso:id":"CO-AMA",
-        "qs:id":219531,
+        "qs_pg:id":219531,
         "unlc:id":"CO-AMA",
         "wd:id":"Q44724",
         "wk:page":"Amazonas Department"
@@ -377,11 +378,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670380,
+    "wof:lastmodified":1566706545,
     "wof:name":"Amazonas",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":46950,
     "wof:population_rank":7,

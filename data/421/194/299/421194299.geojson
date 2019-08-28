@@ -10,8 +10,12 @@
     "geom:latitude":2.51204,
     "geom:longitude":-76.40124,
     "iso:country":"CO",
+    "lbl:bbox":"-76.42124,2.49204,-76.38124,2.53204",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Totor\u00f3"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Totoro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Totora"
     ],
     "name:vie_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3666834,
         "gp:id":368602,
-        "qs:id":1046166,
+        "qs_pg:id":1046166,
         "wd:id":"Q2405808"
     },
     "wof:country":"CO",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421194299,
-    "wof:lastmodified":1563308948,
+    "wof:lastmodified":1566707934,
     "wof:name":"Totor\u00f3",
     "wof:parent_id":1108700521,
     "wof:placetype":"locality",

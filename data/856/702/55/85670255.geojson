@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.32996,
     "lbl:longitude":-73.433265,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Meta",
     "mps:latitude":3.334375,
     "mps:longitude":-73.387915,
@@ -209,7 +210,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Intendencia del Meta"
     ],
     "name:urd_x_preferred":[
@@ -299,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"85,635",
     "statoids:area_mi":"33,064",
     "statoids:as_of_date":"2005-05-22",
@@ -326,7 +327,7 @@
         "gp:id":2345064,
         "hasc:id":"CO.ME",
         "iso:id":"CO-MET",
-        "qs:id":423650,
+        "qs_pg:id":423650,
         "unlc:id":"CO-MET",
         "wd:id":"Q238629",
         "wk:page":"Meta Department"
@@ -347,11 +348,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670393,
+    "wof:lastmodified":1566706560,
     "wof:name":"Meta",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":713772,
     "wof:population_rank":11,

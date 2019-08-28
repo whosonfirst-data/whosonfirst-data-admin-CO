@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.27,5.76333,-73.23,5.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Batey"
     ],
     "name:und_x_variant":[
-        "Hacienda Batey",
-        "Batey"
+        "Hacienda Batey"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1327074351,
-    "wof:lastmodified":1564287414,
+    "wof:lastmodified":1566706071,
     "wof:name":"Batey",
     "wof:parent_id":421183883,
     "wof:placetype":"locality",

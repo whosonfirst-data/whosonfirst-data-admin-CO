@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.265953,
     "lbl:longitude":-76.41882,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cauca",
     "meso:gadm_admin":"Puerto Tejada",
     "meso:gadm_hasc2":"CO.CA.PT",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.41882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Puerto Tejada"
     ],
@@ -100,9 +103,9 @@
         "\u7279\u54c8\u9054\u6e2f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"101",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Puerto Tejada",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108700493,
-    "wof:lastmodified":1563307342,
+    "wof:lastmodified":1566707477,
     "wof:name":"Puerto Tejada",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

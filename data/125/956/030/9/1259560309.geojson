@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.30861,9.04914,-75.26861,9.08914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Zumbador",
         "Zumbado",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259560309,
-    "wof:lastmodified":1537618356,
+    "wof:lastmodified":1566708426,
     "wof:name":"Zumbador",
     "wof:parent_id":1108701409,
     "wof:placetype":"locality",

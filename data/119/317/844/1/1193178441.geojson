@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.53348,5.07238,-74.49348,5.11238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Isidre"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193178441,
-    "wof:lastmodified":1537618718,
+    "wof:lastmodified":1566707326,
     "wof:name":"San Isidre",
     "wof:parent_id":1108700701,
     "wof:placetype":"locality",

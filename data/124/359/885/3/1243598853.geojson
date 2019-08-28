@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.07,9.93,-75.03,9.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Andes"
     ],
@@ -55,8 +59,7 @@
         "Los Andes"
     ],
     "name:und_x_variant":[
-        "Hacienda Los Andes",
-        "Los Andes"
+        "Hacienda Los Andes"
     ],
     "name:war_x_preferred":[
         "Los Andes"
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1243598853,
-    "wof:lastmodified":1564295258,
+    "wof:lastmodified":1566708207,
     "wof:name":"Los Andes",
     "wof:parent_id":1108700155,
     "wof:placetype":"locality",

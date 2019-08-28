@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.99958,9.31314,-75.95958,9.35314",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chiqui",
         "Chingui"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344034487,
-    "wof:lastmodified":1537618620,
+    "wof:lastmodified":1566706485,
     "wof:name":"Chingui",
     "wof:parent_id":421192873,
     "wof:placetype":"locality",

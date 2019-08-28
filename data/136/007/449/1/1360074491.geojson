@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.77371,2.60175,-77.73371,2.64175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Olaya Herrera",
         "Charco",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360074491,
-    "wof:lastmodified":1537618550,
+    "wof:lastmodified":1566707806,
     "wof:name":"Guare",
     "wof:parent_id":1108700461,
     "wof:placetype":"locality",

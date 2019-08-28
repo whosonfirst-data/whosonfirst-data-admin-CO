@@ -10,8 +10,12 @@
     "geom:latitude":6.3685,
     "geom:longitude":-75.6289,
     "iso:country":"CO",
+    "lbl:bbox":"-75.6489,6.3485,-75.6089,6.3885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sabaneta"
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":8266004,
         "gp:id":364997,
-        "qs:id":1082715,
+        "qs_pg:id":1082715,
         "wd:id":"Q1770717"
     },
     "wof:country":"CO",
@@ -146,7 +150,7 @@
         }
     ],
     "wof:id":421176793,
-    "wof:lastmodified":1563309573,
+    "wof:lastmodified":1566708059,
     "wof:name":"Sabaneta",
     "wof:parent_id":421205075,
     "wof:placetype":"locality",

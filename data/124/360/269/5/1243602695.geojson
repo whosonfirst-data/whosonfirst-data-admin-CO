@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.59275,4.69089,-74.55275,4.73089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1243602695,
-    "wof:lastmodified":1537074346,
+    "wof:lastmodified":1566708233,
     "wof:name":"La Botica",
     "wof:parent_id":1108700705,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":6.63781,
     "geom:longitude":-73.28878,
     "iso:country":"CO",
+    "lbl:bbox":"-73.30878,6.61781,-73.26878,6.65781",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Gal\u00e1n"
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":3682243,
         "gp:id":368943,
-        "qs:id":1206607,
+        "qs_pg:id":1206607,
         "wd:id":"Q1492832"
     },
     "wof:country":"CO",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421180649,
-    "wof:lastmodified":1563309126,
+    "wof:lastmodified":1566707969,
     "wof:name":"Gal\u00e1n",
     "wof:parent_id":1108701255,
     "wof:placetype":"locality",

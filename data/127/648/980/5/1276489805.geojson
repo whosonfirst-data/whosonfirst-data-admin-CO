@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.33944,5.90222,-74.29944,5.94222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276489805,
-    "wof:lastmodified":1537063542,
+    "wof:lastmodified":1566706981,
     "wof:name":"La Mirella",
     "wof:parent_id":421190201,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":9.24217,
     "geom:longitude":-74.50037,
     "iso:country":"CO",
+    "lbl:bbox":"-74.52037,9.22217,-74.48037,9.26217",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Zen\u00f3n"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d-\u0417\u0435\u043d\u043e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Cenon"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3668286,
         "gp:id":366137,
-        "qs:id":1206346,
+        "qs_pg:id":1206346,
         "wd:id":"Q1575348"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421198815,
-    "wof:lastmodified":1563309304,
+    "wof:lastmodified":1566708004,
     "wof:name":"San Zen\u00f3n",
     "wof:parent_id":421202351,
     "wof:placetype":"locality",

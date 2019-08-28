@@ -10,8 +10,12 @@
     "geom:latitude":0.87136,
     "geom:longitude":-77.64027,
     "iso:country":"CO",
+    "lbl:bbox":"-77.66027,0.85136,-77.62027,0.89136",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0628\u064a\u0627\u0644\u064a\u0633"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3671228,
         "gp:id":369316,
-        "qs:id":1263425,
+        "qs_pg:id":1263425,
         "wd:id":"Q368268",
         "wk:page":"Pupiales"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421194563,
-    "wof:lastmodified":1563308943,
+    "wof:lastmodified":1566707933,
     "wof:name":"Pupiales",
     "wof:parent_id":1108701057,
     "wof:placetype":"locality",

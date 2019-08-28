@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.842681,
     "lbl:longitude":-77.30938,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"Puerres",
     "meso:gadm_hasc2":"CO.NA.PU",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.30938,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Puerres"
     ],
@@ -79,9 +82,9 @@
         "\u666e\u57c3\u96f7\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"475",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Puerres",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108701055,
-    "wof:lastmodified":1563307285,
+    "wof:lastmodified":1566707453,
     "wof:name":"Puerres",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

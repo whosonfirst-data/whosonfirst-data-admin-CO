@@ -10,8 +10,12 @@
     "geom:latitude":4.40367,
     "geom:longitude":-74.3867,
     "iso:country":"CO",
+    "lbl:bbox":"-74.4067,4.38367,-74.3667,4.42367",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Silvania"
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3668028,
         "gp:id":366869,
-        "qs:id":228646,
+        "qs_pg:id":228646,
         "wd:id":"Q1441993",
         "wk:page":"Silvania"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421202901,
-    "wof:lastmodified":1563309066,
+    "wof:lastmodified":1566707956,
     "wof:name":"Silvania",
     "wof:parent_id":421203445,
     "wof:placetype":"locality",

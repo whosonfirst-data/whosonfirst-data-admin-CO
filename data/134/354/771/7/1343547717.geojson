@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.93729,9.28603,-75.89729,9.32603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343547717,
-    "wof:lastmodified":1536618177,
+    "wof:lastmodified":1566706309,
     "wof:name":"Vuelta de San Juan",
     "wof:parent_id":421192871,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.18249,10.81656,-74.14249,10.85656",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda La Teresa",
         "La Teresa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343499841,
-    "wof:lastmodified":1537618487,
+    "wof:lastmodified":1566706405,
     "wof:name":"La Teresa",
     "wof:parent_id":1108700923,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.32917,4.36472,-75.28917,4.40472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343819185,
-    "wof:lastmodified":1536726715,
+    "wof:lastmodified":1566706514,
     "wof:name":"La Loma de Cocora",
     "wof:parent_id":421190207,
     "wof:placetype":"locality",

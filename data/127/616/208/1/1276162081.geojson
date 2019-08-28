@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.1844,9.04774,-74.1444,9.08774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:glg_x_preferred":[
         "Canteira"
     ],
@@ -47,8 +51,7 @@
         "\u041a\u0430\u043d\u0442\u0435\u0440\u0430"
     ],
     "name:und_x_variant":[
-        "Corregimiento Cantera",
-        "Cantera"
+        "Corregimiento Cantera"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1276162081,
-    "wof:lastmodified":1564290673,
+    "wof:lastmodified":1566706864,
     "wof:name":"Cantera",
     "wof:parent_id":1108700129,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.33085,2.17527,-77.29085,2.21527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310089669,
-    "wof:lastmodified":1537018574,
+    "wof:lastmodified":1566707682,
     "wof:name":"Cuchilla Paramillo La Belleza",
     "wof:parent_id":1108700995,
     "wof:placetype":"locality",

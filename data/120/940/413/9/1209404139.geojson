@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.70309,2.50285,-76.66309,2.54285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Rafael"
     ],
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":1209404139,
-    "wof:lastmodified":1564291666,
+    "wof:lastmodified":1566707107,
     "wof:name":"San Rafael",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

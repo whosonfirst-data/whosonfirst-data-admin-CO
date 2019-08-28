@@ -11,10 +11,14 @@
     "geom:longitude":-77.3605,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":2933,
+    "gn:population":2933,
     "iso:country":"CO",
+    "lbl:bbox":"-77.3805,1.27546,-77.3405,1.31546",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Nari\u00f1o"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":3674031,
         "gp:id":368516,
-        "qs:id":150084,
+        "qs_pg:id":150084,
         "wd:id":"Q2433055"
     },
     "wof:country":"CO",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890435177,
-    "wof:lastmodified":1563309706,
+    "wof:lastmodified":1566708078,
     "wof:name":"Nari\u00f1o",
     "wof:parent_id":1108701041,
     "wof:placetype":"locality",

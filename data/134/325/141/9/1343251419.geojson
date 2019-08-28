@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.72374,2.48186,-77.68374,2.52186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343251419,
-    "wof:lastmodified":1537046076,
+    "wof:lastmodified":1566706412,
     "wof:name":"Venero",
     "wof:parent_id":1108700461,
     "wof:placetype":"locality",

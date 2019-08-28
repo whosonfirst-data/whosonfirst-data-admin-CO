@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.851626,
     "lbl:longitude":-74.912776,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"L\u00e9rida",
     "meso:gadm_hasc2":"CO.TO.LE",
@@ -33,6 +35,7 @@
     "mps:longitude":-74.912776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "L\u00e9rida"
     ],
@@ -85,9 +88,9 @@
         "\u840a\u91cc\u9054"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"280",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"L\u00e9rida",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108701443,
-    "wof:lastmodified":1563307448,
+    "wof:lastmodified":1566707508,
     "wof:name":"L\u00e9rida",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

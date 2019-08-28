@@ -10,8 +10,12 @@
     "geom:latitude":1.56305,
     "geom:longitude":-77.1176,
     "iso:country":"CO",
+    "lbl:bbox":"-77.1376,1.54305,-77.0976,1.58305",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cartago"
@@ -55,9 +59,6 @@
     "name:tgl_x_preferred":[
         "San Pedro de Cartago"
     ],
-    "name:unk_x_variant":[
-        "San Pedro de Cartago"
-    ],
     "name:vie_x_preferred":[
         "San Pedro de Cartago"
     ],
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3687231,
         "gp:id":352580,
-        "qs:id":214699,
+        "qs_pg:id":214699,
         "wd:id":"Q974273",
         "wk:page":"San Pedro de Cartago"
     },
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":421201819,
-    "wof:lastmodified":1563309390,
+    "wof:lastmodified":1566708021,
     "wof:name":"Cartago",
     "wof:parent_id":1108701073,
     "wof:placetype":"locality",

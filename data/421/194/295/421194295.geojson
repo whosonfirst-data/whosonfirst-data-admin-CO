@@ -10,8 +10,12 @@
     "geom:latitude":10.44361,
     "geom:longitude":-75.27306,
     "iso:country":"CO",
+    "lbl:bbox":"-75.29306,10.42361,-75.25306,10.46361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Villanueva"
@@ -61,7 +65,7 @@
     "name:tgl_x_preferred":[
         "Villanueva"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Ju\u00e1n de Tumuhuaco"
     ],
     "name:vie_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":3665935,
         "gp:id":368609,
-        "qs:id":1046152,
+        "qs_pg:id":1046152,
         "wd:id":"Q2433377"
     },
     "wof:country":"CO",
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421194295,
-    "wof:lastmodified":1563308937,
+    "wof:lastmodified":1566707932,
     "wof:name":"Villanueva",
     "wof:parent_id":1108700179,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":5.93168,
     "geom:longitude":-73.61506,
     "iso:country":"CO",
+    "lbl:bbox":"-73.63506,5.91168,-73.59506,5.95168",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Barbosa"
@@ -113,7 +117,7 @@
     "wof:concordances":{
         "gn:id":3689206,
         "gp:id":368266,
-        "qs:id":489537,
+        "qs_pg:id":489537,
         "wd:id":"Q937957",
         "wk:page":"Barbosa, Santander"
     },
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":421181375,
-    "wof:lastmodified":1563309277,
+    "wof:lastmodified":1566708001,
     "wof:name":"Barbosa",
     "wof:parent_id":1108701191,
     "wof:placetype":"locality",

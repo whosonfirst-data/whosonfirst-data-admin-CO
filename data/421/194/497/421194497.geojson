@@ -10,8 +10,12 @@
     "geom:latitude":6.67456,
     "geom:longitude":-74.8343,
     "iso:country":"CO",
+    "lbl:bbox":"-74.8543,6.65456,-74.8143,6.69456",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Yal\u00ed"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3665792,
         "gp:id":369532,
-        "qs:id":1206697,
+        "qs_pg:id":1206697,
         "wd:id":"Q1576665"
     },
     "wof:country":"CO",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":421194497,
-    "wof:lastmodified":1563308938,
+    "wof:lastmodified":1566707932,
     "wof:name":"Yal\u00ed",
     "wof:parent_id":1108700041,
     "wof:placetype":"locality",

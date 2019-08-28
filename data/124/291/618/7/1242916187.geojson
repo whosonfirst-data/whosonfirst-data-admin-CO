@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.36242,9.94336,-74.32242,9.98336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Maria Antonia"
     ],
@@ -60,8 +64,7 @@
         "Maria Antonia"
     ],
     "name:und_x_variant":[
-        "Manlonia",
-        "Mar\u00eda Antonia"
+        "Manlonia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1242916187,
-    "wof:lastmodified":1564295550,
+    "wof:lastmodified":1566708277,
     "wof:name":"Maria Antonia",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

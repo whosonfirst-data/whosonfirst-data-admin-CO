@@ -10,8 +10,12 @@
     "geom:latitude":4.96109,
     "geom:longitude":-74.901206,
     "iso:country":"CO",
+    "lbl:bbox":"-74.921206,4.94109,-74.881206,4.98109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Armero"
@@ -131,7 +135,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":368179,
-        "qs:id":962954,
+        "qs_pg:id":962954,
         "wd:id":"Q584880"
     },
     "wof:country":"CO",
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":421183133,
-    "wof:lastmodified":1563309484,
+    "wof:lastmodified":1566708044,
     "wof:name":"Armero",
     "wof:parent_id":1108701427,
     "wof:placetype":"locality",

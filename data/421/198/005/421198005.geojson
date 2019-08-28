@@ -10,8 +10,12 @@
     "geom:latitude":5.13969,
     "geom:longitude":-73.39739,
     "iso:country":"CO",
+    "lbl:bbox":"-73.41739,5.11969,-73.37739,5.15969",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pachavita"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3673431,
         "gp:id":363158,
-        "qs:id":288182,
+        "qs_pg:id":288182,
         "wd:id":"Q1654528",
         "wk:page":"Pachavita"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421198005,
-    "wof:lastmodified":1563309312,
+    "wof:lastmodified":1566708005,
     "wof:name":"Pachavita",
     "wof:parent_id":1108700285,
     "wof:placetype":"locality",

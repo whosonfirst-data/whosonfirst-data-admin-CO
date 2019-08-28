@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.007809,
     "lbl:longitude":-71.255882,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Vaup\u00e9s",
     "meso:gadm_admin":"Carur\u00fa",
     "meso:gadm_hasc2":"CO.VP.CA",
@@ -33,6 +35,7 @@
     "mps:longitude":-71.255882,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Carur\u00fa"
     ],
@@ -94,9 +97,9 @@
         "\u5361\u9b6f\u9b6f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"6981",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Carur\u00fa",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108701631,
-    "wof:lastmodified":1563307490,
+    "wof:lastmodified":1566707532,
     "wof:name":"Carur\u00fa",
     "wof:parent_id":85670259,
     "wof:placetype":"county",

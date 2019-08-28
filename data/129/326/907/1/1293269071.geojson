@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.83115,8.54607,-75.79115,8.58607",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "El Totumo"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1293269071,
-    "wof:lastmodified":1564290353,
+    "wof:lastmodified":1566706783,
     "wof:name":"El Totumo",
     "wof:parent_id":421172417,
     "wof:placetype":"locality",

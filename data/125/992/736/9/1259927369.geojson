@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.82783,4.2175,-74.78783,4.2575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Puerto de la Conejera",
         "Puerto La Conejera"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259927369,
-    "wof:lastmodified":1537618421,
+    "wof:lastmodified":1566708403,
     "wof:name":"Puerto La Conejera",
     "wof:parent_id":421188695,
     "wof:placetype":"locality",

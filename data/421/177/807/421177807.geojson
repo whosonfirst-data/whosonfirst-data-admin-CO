@@ -10,8 +10,12 @@
     "geom:latitude":10.77737,
     "geom:longitude":-74.72049,
     "iso:country":"CO",
+    "lbl:bbox":"-74.74049,10.75737,-74.70049,10.79737",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Sitionuevo"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3667918,
         "gp:id":368414,
-        "qs:id":1206502,
+        "qs_pg:id":1206502,
         "wd:id":"Q1441228",
         "wk:page":"Sitionuevo"
     },
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421177807,
-    "wof:lastmodified":1563309480,
+    "wof:lastmodified":1566708043,
     "wof:name":"Sitionuevo",
     "wof:parent_id":1108700915,
     "wof:placetype":"locality",

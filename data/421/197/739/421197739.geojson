@@ -10,8 +10,12 @@
     "geom:latitude":2.43333,
     "geom:longitude":-76.8,
     "iso:country":"CO",
+    "lbl:bbox":"-76.82,2.41333,-76.78,2.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Apellito L\u00f3pez"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3676417,
         "gp:id":369086,
-        "qs:id":150104
+        "qs_pg:id":150104
     },
     "wof:country":"CO",
     "wof:created":1459009923,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421197739,
-    "wof:lastmodified":1564294718,
+    "wof:lastmodified":1566708012,
     "wof:name":"L\u00f3pez",
     "wof:parent_id":1108700455,
     "wof:placetype":"locality",

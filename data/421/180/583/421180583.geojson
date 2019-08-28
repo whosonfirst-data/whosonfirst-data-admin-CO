@@ -10,8 +10,12 @@
     "geom:latitude":4.87384,
     "geom:longitude":-74.56244,
     "iso:country":"CO",
+    "lbl:bbox":"-74.58244,4.85384,-74.54244,4.89384",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Vian\u00ed"
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3666087,
         "gp:id":367806,
-        "qs:id":1206385,
+        "qs_pg:id":1206385,
         "wd:id":"Q1656656",
         "wk:page":"Vian\u00ed"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421180583,
-    "wof:lastmodified":1563309137,
+    "wof:lastmodified":1566707970,
     "wof:name":"Vian\u00ed",
     "wof:parent_id":1108700729,
     "wof:placetype":"locality",

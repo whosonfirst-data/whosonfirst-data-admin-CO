@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.224853,
     "lbl:longitude":-77.600665,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Nari\u00f1o",
     "meso:gadm_admin":"Ancuy\u00e1",
     "meso:gadm_hasc2":"CO.NA.AN",
@@ -33,6 +35,7 @@
     "mps:longitude":-77.600665,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Provid\u00e8ncia"
     ],
@@ -84,9 +87,9 @@
         "\u666e\u7f85\u7dad\u767b\u897f\u4e9e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"81",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Ancuy\u00e1",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108701053,
-    "wof:lastmodified":1564293165,
+    "wof:lastmodified":1566707452,
     "wof:name":"Providencia",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

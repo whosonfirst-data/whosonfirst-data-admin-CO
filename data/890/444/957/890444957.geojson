@@ -11,10 +11,14 @@
     "geom:longitude":-74.4733,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":5608,
+    "gn:population":5608,
     "iso:country":"CO",
+    "lbl:bbox":"-74.4933,8.2771,-74.4533,8.3171",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Montecristo"
     ],
@@ -60,7 +64,7 @@
     "name:tgl_x_preferred":[
         "Montecristo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corregimiento Montecristo"
     ],
     "name:vie_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3674499,
         "gp:id":362661,
-        "qs:id":1046271,
+        "qs_pg:id":1046271,
         "wd:id":"Q1526097",
         "wk:page":"Montecristo"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890444957,
-    "wof:lastmodified":1563309672,
+    "wof:lastmodified":1566708074,
     "wof:name":"Montecristo",
     "wof:parent_id":1108700133,
     "wof:placetype":"locality",

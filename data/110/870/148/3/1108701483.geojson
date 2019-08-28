@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.705632,
     "lbl:longitude":-76.140351,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle del Cauca",
     "meso:gadm_admin":"Ansermanuevo",
     "meso:gadm_hasc2":"CO.VC.AN",
@@ -33,6 +35,7 @@
     "mps:longitude":-76.140351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Argelia"
     ],
@@ -74,9 +77,9 @@
         "Argelia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"308",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Ansermanuevo",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108701483,
-    "wof:lastmodified":1564293277,
+    "wof:lastmodified":1566707595,
     "wof:name":"Argelia",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

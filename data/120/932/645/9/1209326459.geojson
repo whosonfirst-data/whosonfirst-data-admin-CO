@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.52079,6.05587,-75.48079,6.09587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Kaliforni\u00eb"
     ],
@@ -613,7 +617,7 @@
         }
     ],
     "wof:id":1209326459,
-    "wof:lastmodified":1564291933,
+    "wof:lastmodified":1566707158,
     "wof:name":"California",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

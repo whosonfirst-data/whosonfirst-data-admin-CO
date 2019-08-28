@@ -9,14 +9,16 @@
     "geom:bbox":"-75.581809,6.23812,-75.581809,6.23812",
     "geom:latitude":6.23812,
     "geom:longitude":-75.581809,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.2351,
     "gn:longitude":-75.58361,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.586809,6.23312,-75.576809,6.24312",
     "lbl:latitude":6.23812,
     "lbl:longitude":-75.581809,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.228909,
     "mps:longitude":-75.603164,
     "mz:hierarchy_label":0,
@@ -505,9 +507,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430"
     ],
-    "name:unk_x_variant":[
-        "Barcelona"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u0634\u0644\u0648\u0646\u06c1"
     ],
@@ -597,7 +596,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -608,7 +607,6 @@
     "wof:concordances":{
         "gn:id":3689196,
         "gp:id":351191,
-        "qs:id":1082690,
         "qs_pg:id":1082690
     },
     "wof:country":"CO",
@@ -627,7 +625,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289399,
+    "wof:lastmodified":1566706527,
     "wof:name":"Barcelona",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

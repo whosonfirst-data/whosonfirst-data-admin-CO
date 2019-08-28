@@ -10,8 +10,12 @@
     "geom:latitude":3.99456,
     "geom:longitude":-76.2278,
     "iso:country":"CO",
+    "lbl:bbox":"-76.2478,3.97456,-76.2078,4.01456",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Pedro"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3669156,
         "gp:id":368403,
-        "qs:id":194637,
+        "qs_pg:id":194637,
         "wd:id":"Q2434300"
     },
     "wof:country":"CO",
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421169521,
-    "wof:lastmodified":1563308993,
+    "wof:lastmodified":1566707941,
     "wof:name":"San Pedro",
     "wof:parent_id":421184143,
     "wof:placetype":"locality",

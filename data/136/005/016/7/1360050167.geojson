@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-78.37464,1.84096,-78.33464,1.88096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
@@ -58,8 +62,7 @@
     ],
     "name:und_x_variant":[
         "Pundi",
-        "Pumb\u00ed",
-        "Las Lajas"
+        "Pumb\u00ed"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1360050167,
-    "wof:lastmodified":1564294326,
+    "wof:lastmodified":1566707840,
     "wof:name":"Las Lajas",
     "wof:parent_id":1108701061,
     "wof:placetype":"locality",

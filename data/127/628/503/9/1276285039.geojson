@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.50873,4.05947,-74.46873,4.09947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Agua Dulce"
     ],
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":1276285039,
-    "wof:lastmodified":1564290507,
+    "wof:lastmodified":1566706822,
     "wof:name":"Agua Dulce",
     "wof:parent_id":1108700691,
     "wof:placetype":"locality",

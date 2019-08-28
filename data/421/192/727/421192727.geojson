@@ -10,8 +10,12 @@
     "geom:latitude":5.79925,
     "geom:longitude":-75.90718,
     "iso:country":"CO",
+    "lbl:bbox":"-75.92718,5.77925,-75.88718,5.81925",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Hispania"
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3680857,
         "gp:id":357359,
-        "qs:id":1174554,
+        "qs_pg:id":1174554,
         "wd:id":"Q1654573",
         "wk:page":"Hispania, Antioquia"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421192727,
-    "wof:lastmodified":1563308927,
+    "wof:lastmodified":1566707930,
     "wof:name":"Hispania",
     "wof:parent_id":1108699967,
     "wof:placetype":"locality",

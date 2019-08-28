@@ -10,8 +10,12 @@
     "geom:latitude":9.16095,
     "geom:longitude":-75.04811,
     "iso:country":"CO",
+    "lbl:bbox":"-75.06811,9.14095,-75.02811,9.18095",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Galeras"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Galeras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corregimiento Nueva Granada"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3682232,
         "gp:id":356576,
-        "qs:id":288102,
+        "qs_pg:id":288102,
         "wd:id":"Q389099",
         "wk:page":"Galeras, Sucre"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421173419,
-    "wof:lastmodified":1563309172,
+    "wof:lastmodified":1566707977,
     "wof:name":"Galeras",
     "wof:parent_id":1108701393,
     "wof:placetype":"locality",

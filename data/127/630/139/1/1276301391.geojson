@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.44414,1.89655,-76.40414,1.93655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Puerto Quinchana"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276301391,
-    "wof:lastmodified":1537618416,
+    "wof:lastmodified":1566706995,
     "wof:name":"Puerto Quinchana",
     "wof:parent_id":421187817,
     "wof:placetype":"locality",

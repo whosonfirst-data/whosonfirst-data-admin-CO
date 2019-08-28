@@ -10,8 +10,12 @@
     "geom:latitude":5.51238,
     "geom:longitude":-73.24436,
     "iso:country":"CO",
+    "lbl:bbox":"-73.26436,5.49238,-73.22436,5.53238",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Siachoque"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3668096,
         "gp:id":368583,
-        "qs:id":150007,
+        "qs_pg:id":150007,
         "wd:id":"Q1576379",
         "wk:page":"Siachoque"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421179447,
-    "wof:lastmodified":1563309498,
+    "wof:lastmodified":1566708046,
     "wof:name":"Siachoque",
     "wof:parent_id":1108700333,
     "wof:placetype":"locality",

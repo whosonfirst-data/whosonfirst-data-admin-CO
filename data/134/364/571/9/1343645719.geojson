@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.01194,1.93472,-76.97194,1.97472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda Salidito"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343645719,
-    "wof:lastmodified":1537618679,
+    "wof:lastmodified":1566706331,
     "wof:name":"Hacienda Salidito",
     "wof:parent_id":1108700441,
     "wof:placetype":"locality",

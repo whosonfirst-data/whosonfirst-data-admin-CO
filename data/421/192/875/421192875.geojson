@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.743771,
     "lbl:longitude":-75.223137,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Tolima",
     "meso:gadm_admin":"Murillo",
     "meso:gadm_hasc2":"CO.TO.MU",
@@ -33,6 +35,7 @@
     "mps:longitude":-75.223137,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Santa Isabel"
@@ -119,7 +122,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191577,
@@ -131,7 +134,7 @@
         "gn:id":3668721,
         "gp:id":26797558,
         "hasc:id":"CO.TO.MU",
-        "qs:id":1182310,
+        "qs_pg:id":1182310,
         "wd:id":"Q1574921",
         "wk:page":"Santa Isabel, Tolima"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421192875,
-    "wof:lastmodified":1563308921,
+    "wof:lastmodified":1566707927,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.16201,4.18414,-73.12201,4.22414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Prado"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276629617,
-    "wof:lastmodified":1564291238,
+    "wof:lastmodified":1566707002,
     "wof:name":"El Prado",
     "wof:parent_id":1108700929,
     "wof:placetype":"locality",

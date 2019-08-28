@@ -10,6 +10,9 @@
     "geom:latitude":8.09368,
     "geom:longitude":-76.72691,
     "iso:country":"CO",
+    "lbl:bbox":"-76.74691,8.07368,-76.70691,8.11368",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -233,7 +236,7 @@
     "wof:concordances":{
         "gn:id":3666570,
         "gp:id":368604,
-        "qs:id":299556,
+        "qs_pg:id":299556,
         "wd:id":"Q727559",
         "wk:page":"Turbo, Colombia"
     },
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":421173789,
-    "wof:lastmodified":1563309188,
+    "wof:lastmodified":1566707979,
     "wof:name":"Turbo",
     "wof:parent_id":421190195,
     "wof:placetype":"locality",

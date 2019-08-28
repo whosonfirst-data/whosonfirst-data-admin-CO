@@ -10,8 +10,12 @@
     "geom:latitude":4.96417,
     "geom:longitude":-73.4875,
     "iso:country":"CO",
+    "lbl:bbox":"-73.5075,4.94417,-73.4675,4.98417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Guayat\u00e1"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3681255,
         "gp:id":368507,
-        "qs:id":899455,
+        "qs_pg:id":899455,
         "wd:id":"Q1577926",
         "wk:page":"Guayat\u00e1"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":421174799,
-    "wof:lastmodified":1563309097,
+    "wof:lastmodified":1566707964,
     "wof:name":"Guayat\u00e1",
     "wof:parent_id":1108700249,
     "wof:placetype":"locality",

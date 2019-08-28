@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.55526,8.86996,-75.51526,8.90996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Floridablanca"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1243431285,
-    "wof:lastmodified":1564295752,
+    "wof:lastmodified":1566708319,
     "wof:name":"Floridablanca",
     "wof:parent_id":1108700599,
     "wof:placetype":"locality",

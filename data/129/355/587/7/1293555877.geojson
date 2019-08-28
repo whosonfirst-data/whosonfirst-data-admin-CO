@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.13611,11.225,-73.09611,11.265",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Los Remedios"
     ],
@@ -41,8 +45,7 @@
     ],
     "name:und_x_variant":[
         "Campamento Los Remedios",
-        "Campamento de la Hacienda Los Remedios",
-        "Los Remedios"
+        "Campamento de la Hacienda Los Remedios"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293555877,
-    "wof:lastmodified":1564289597,
+    "wof:lastmodified":1566706609,
     "wof:name":"Los Remedios",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

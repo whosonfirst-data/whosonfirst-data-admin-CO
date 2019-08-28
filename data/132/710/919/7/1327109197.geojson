@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.78163,3.82281,-73.74163,3.86281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Santa Martica"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327109197,
-    "wof:lastmodified":1537618833,
+    "wof:lastmodified":1566706267,
     "wof:name":"Santa Martica",
     "wof:parent_id":421170441,
     "wof:placetype":"locality",

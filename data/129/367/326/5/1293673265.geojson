@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.18094,2.97366,-76.14094,3.01366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Dinamarca"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293673265,
-    "wof:lastmodified":1537618806,
+    "wof:lastmodified":1566706709,
     "wof:name":"Dinamarca",
     "wof:parent_id":1108700519,
     "wof:placetype":"locality",

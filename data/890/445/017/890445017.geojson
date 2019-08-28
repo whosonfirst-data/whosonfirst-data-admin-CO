@@ -11,10 +11,14 @@
     "geom:longitude":-72.59238,
     "gn:country":"CO",
     "gn:fcode":"PPL",
-    "gn:pop":6364,
+    "gn:population":6364,
     "iso:country":"CO",
+    "lbl:bbox":"-72.61238,11.14099,-72.57238,11.18099",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Albania"
     ],
@@ -66,7 +70,7 @@
     "name:tgl_x_preferred":[
         "Albania"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Albanio"
     ],
     "name:war_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3690250,
         "gp:id":369096,
-        "qs:id":1046438,
+        "qs_pg:id":1046438,
         "wd:id":"Q932378",
         "wk:page":"Albania"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890445017,
-    "wof:lastmodified":1563309698,
+    "wof:lastmodified":1566708077,
     "wof:name":"Albania",
     "wof:parent_id":1108700853,
     "wof:placetype":"locality",

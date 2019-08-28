@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.0375,4.8275,-71.9975,4.8675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343602923,
-    "wof:lastmodified":1537036449,
+    "wof:lastmodified":1566706448,
     "wof:name":"Los Catalanes",
     "wof:parent_id":1108701535,
     "wof:placetype":"locality",

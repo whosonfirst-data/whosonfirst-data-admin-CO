@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.898221,
     "lbl:longitude":-73.77632,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cesar",
     "meso:gadm_admin":"Tamalameque",
     "meso:gadm_hasc2":"CO.CE.TA",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.77632,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ast_x_preferred":[
         "Tamalameque"
     ],
@@ -88,9 +91,9 @@
         "\u5854\u99ac\u62c9\u6885\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1993-10-24",
+    "src:population_date":"1993-10-24",
     "statoids:area_km":"224",
     "statoids:as_of_date":"1993-10-24",
     "statoids:capital":"Tamalameque",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108700563,
-    "wof:lastmodified":1563307631,
+    "wof:lastmodified":1566707581,
     "wof:name":"Tamalameque",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

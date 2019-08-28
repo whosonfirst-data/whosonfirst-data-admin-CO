@@ -10,8 +10,12 @@
     "geom:latitude":0.97028,
     "geom:longitude":-76.58583,
     "iso:country":"CO",
+    "lbl:bbox":"-76.60583,0.95028,-76.56583,0.99028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Guzm\u00e1n"
@@ -64,9 +68,6 @@
     "name:tgl_x_preferred":[
         "Puerto Guzm\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "Puerto Guzm\u00e1n"
-    ],
     "name:vie_x_preferred":[
         "Puerto Guzm\u00e1n"
     ],
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3792398,
         "gp:id":26797684,
-        "qs:id":62140,
+        "qs_pg:id":62140,
         "wd:id":"Q1440780",
         "wk:page":"Puerto Guzm\u00e1n"
     },
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":421203391,
-    "wof:lastmodified":1563309050,
+    "wof:lastmodified":1566707950,
     "wof:name":"Puerto Guzman",
     "wof:parent_id":1108701581,
     "wof:placetype":"locality",

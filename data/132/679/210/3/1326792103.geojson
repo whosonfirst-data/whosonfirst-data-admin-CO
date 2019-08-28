@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.24128,9.02707,-75.20128,9.06707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326792103,
-    "wof:lastmodified":1536606708,
+    "wof:lastmodified":1566706202,
     "wof:name":"Pantano Arenas",
     "wof:parent_id":1108700571,
     "wof:placetype":"locality",

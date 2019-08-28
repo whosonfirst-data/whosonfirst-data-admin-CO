@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.13667,10.03,-75.09667,10.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0442\u043e\u043d"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209267519,
-    "wof:lastmodified":1564292238,
+    "wof:lastmodified":1566707225,
     "wof:name":"Caton",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

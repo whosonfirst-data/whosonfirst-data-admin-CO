@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.02792,5.88323,-71.98792,5.92323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aguada",
         "La Aguada"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309854749,
-    "wof:lastmodified":1537618537,
+    "wof:lastmodified":1566707881,
     "wof:name":"La Aguada",
     "wof:parent_id":1108701537,
     "wof:placetype":"locality",

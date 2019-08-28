@@ -9,15 +9,18 @@
     "geom:bbox":"-72.71503,5.9817,-72.71503,5.9817",
     "geom:latitude":5.9817,
     "geom:longitude":-72.71503,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":3353,
+    "gn:country":"CO",
+    "gn:fcode":"PPL",
     "gn:population":3353,
     "iso:country":"CO",
+    "lbl:bbox":"-72.73503,5.9617,-72.69503,6.0017",
     "lbl:latitude":5.9817,
     "lbl:longitude":-72.71503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ast_x_preferred":[
         "Socha"
@@ -64,9 +67,6 @@
     "name:tgl_x_preferred":[
         "Socha"
     ],
-    "name:unk_x_variant":[
-        "Socha"
-    ],
     "name:vie_x_preferred":[
         "Socha"
     ],
@@ -88,7 +88,7 @@
     "qs_pg:qs_id":279861,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191577,
@@ -115,7 +115,7 @@
         }
     ],
     "wof:id":1125861121,
-    "wof:lastmodified":1563309717,
+    "wof:lastmodified":1566708080,
     "wof:name":"Socha Viejo",
     "wof:parent_id":1108700339,
     "wof:placetype":"locality",

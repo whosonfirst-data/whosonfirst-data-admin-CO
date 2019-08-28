@@ -10,8 +10,12 @@
     "geom:latitude":4.28075,
     "geom:longitude":-74.76469,
     "iso:country":"CO",
+    "lbl:bbox":"-74.78469,4.26075,-74.74469,4.30075",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Ricaurte"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Ricaurte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ricaute"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3670812,
         "gp:id":364800,
-        "qs:id":228647,
+        "qs_pg:id":228647,
         "wd:id":"Q2226527",
         "wk:page":"Ricaurte, Cundinamarca"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421202903,
-    "wof:lastmodified":1563309077,
+    "wof:lastmodified":1566707959,
     "wof:name":"Ricaurte",
     "wof:parent_id":421188803,
     "wof:placetype":"locality",

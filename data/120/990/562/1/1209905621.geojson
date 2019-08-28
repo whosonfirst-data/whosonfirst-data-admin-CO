@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.12853,2.42363,-77.08853,2.46363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209905621,
-    "wof:lastmodified":1536384212,
+    "wof:lastmodified":1566707075,
     "wof:name":"El Verjel",
     "wof:parent_id":1108700455,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":6.733,
     "geom:longitude":-73.09588,
     "iso:country":"CO",
+    "lbl:bbox":"-73.11588,6.713,-73.07588,6.753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Jord\u00e1n"
@@ -52,7 +56,7 @@
     "name:tgl_x_preferred":[
         "Jordan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Jordan"
     ],
     "name:vie_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3680235,
         "gp:id":357684,
-        "qs:id":288126,
+        "qs_pg:id":288126,
         "wd:id":"Q726802"
     },
     "wof:country":"CO",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421193901,
-    "wof:lastmodified":1563308954,
+    "wof:lastmodified":1566707935,
     "wof:name":"Jord\u00e1n",
     "wof:parent_id":1108701277,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":1.67154,
     "geom:longitude":-78.13978,
     "iso:country":"CO",
+    "lbl:bbox":"-78.15978,1.65154,-78.11978,1.69154",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Barbacoas"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3689228,
         "gp:id":368463,
-        "qs:id":150147,
+        "qs_pg:id":150147,
         "wd:id":"Q4858559",
         "wk:page":"Barbacoas, Nari\u00f1o"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421179553,
-    "wof:lastmodified":1563309515,
+    "wof:lastmodified":1566708049,
     "wof:name":"Barbacoas",
     "wof:parent_id":1108700975,
     "wof:placetype":"locality",

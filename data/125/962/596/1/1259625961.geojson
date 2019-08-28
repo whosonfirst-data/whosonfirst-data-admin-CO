@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.15176,9.39101,-74.11176,9.43101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hacienda Palestina",
         "Palestina",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259625961,
-    "wof:lastmodified":1537618510,
+    "wof:lastmodified":1566708343,
     "wof:name":"La Palestina",
     "wof:parent_id":1108700909,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.62361,5.50306,-73.58361,5.54306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09a8\u09a1\u09c7\u09b2\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1343998099,
-    "wof:lastmodified":1564288490,
+    "wof:lastmodified":1566706320,
     "wof:name":"Candelaria",
     "wof:parent_id":421188629,
     "wof:placetype":"locality",

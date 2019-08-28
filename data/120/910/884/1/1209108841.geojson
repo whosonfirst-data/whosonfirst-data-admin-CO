@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.93533,5.57843,-75.89533,5.61843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632519
@@ -35,7 +39,7 @@
         "gn:id":3780364
     },
     "wof:country":"CO",
-    "wof:geomhash":"e5c104b2f8731993639a2da822fe194e",
+    "wof:geomhash":"60d4e0808752b47e225b1a8bea4bba98",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209108841,
-    "wof:lastmodified":1536297474,
+    "wof:lastmodified":1566707237,
     "wof:name":"La Quinta",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -75.91533000000003,
-    5.5984300000000005,
+    5.59843,
     -75.91533000000003,
-    5.5984300000000005
+    5.59843
 ],
   "geometry": {"coordinates":[-75.91533000000003,5.59843],"type":"Point"}
 }

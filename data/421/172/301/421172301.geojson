@@ -10,8 +10,12 @@
     "geom:latitude":3.02225,
     "geom:longitude":-73.4044,
     "iso:country":"CO",
+    "lbl:bbox":"-73.4244,3.00225,-73.3844,3.04225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Puerto Lleras"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "Puerto Lleras"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Chinatas"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3671424,
         "gp:id":369278,
-        "qs:id":150059,
+        "qs_pg:id":150059,
         "wd:id":"Q1577863"
     },
     "wof:country":"CO",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421172301,
-    "wof:lastmodified":1563309219,
+    "wof:lastmodified":1566707989,
     "wof:name":"Puerto Lleras",
     "wof:parent_id":1108700951,
     "wof:placetype":"locality",

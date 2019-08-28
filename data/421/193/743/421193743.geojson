@@ -10,8 +10,12 @@
     "geom:latitude":10.88606,
     "geom:longitude":-72.8487,
     "iso:country":"CO",
+    "lbl:bbox":"-72.8687,10.86606,-72.8287,10.90606",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Fonseca"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":3682374,
         "gp:id":368306,
-        "qs:id":169480,
+        "qs_pg:id":169480,
         "wd:id":"Q1441074"
     },
     "wof:country":"CO",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421193743,
-    "wof:lastmodified":1563308970,
+    "wof:lastmodified":1566707937,
     "wof:name":"Fonseca",
     "wof:parent_id":1108700861,
     "wof:placetype":"locality",

@@ -9,25 +9,25 @@
     "geom:bbox":"-75.56466,6.28149,-75.56466,6.28149",
     "geom:latitude":6.28149,
     "geom:longitude":-75.56466,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":6.28149,
     "gn:longitude":-75.56466,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-75.56966,6.27649,-75.55966,6.28649",
     "lbl:latitude":6.28149,
     "lbl:longitude":-75.56466,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_preferred":[
         "Bermejal"
     ],
     "name:spa_x_variant":[
         "Bermejal Los Alamos"
-    ],
-    "name:unk_x_variant":[
-        "Bermejal"
     ],
     "qs_pg:aaroncc":"CO",
     "qs_pg:gn_country":"CO",
@@ -50,7 +50,7 @@
     "qs_pg:woe_adm0":23424787,
     "qs_pg:woe_id":351431,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424787,
     "woe:name_adm0":"Colombia",
     "woe:name_adm1":"Antioquia",
@@ -65,7 +65,6 @@
     "wof:concordances":{
         "gn:id":3688884,
         "gp:id":351431,
-        "qs:id":298499,
         "qs_pg:id":298499
     },
     "wof:country":"CO",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1126086609,
-    "wof:lastmodified":1534379261,
+    "wof:lastmodified":1566708081,
     "wof:name":"Bermejal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

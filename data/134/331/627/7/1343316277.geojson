@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.12,9.48,-75.08,9.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Palmarito"
     ],
     "name:und_x_variant":[
-        "Hacienda Palmarito",
-        "Palmarito"
+        "Hacienda Palmarito"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343316277,
-    "wof:lastmodified":1564288369,
+    "wof:lastmodified":1566706292,
     "wof:name":"Palmarito",
     "wof:parent_id":421204839,
     "wof:placetype":"locality",

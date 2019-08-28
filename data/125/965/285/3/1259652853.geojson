@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.8728,3.46344,-74.8328,3.50344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Roblal"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259652853,
-    "wof:lastmodified":1537618823,
+    "wof:lastmodified":1566708336,
     "wof:name":"El Roblal",
     "wof:parent_id":1108701425,
     "wof:placetype":"locality",

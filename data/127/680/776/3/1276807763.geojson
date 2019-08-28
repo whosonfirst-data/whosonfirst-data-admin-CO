@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.59278,5.79417,-73.55278,5.83417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naranjal"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276807763,
-    "wof:lastmodified":1564290577,
+    "wof:lastmodified":1566706841,
     "wof:name":"Naranjal",
     "wof:parent_id":421197191,
     "wof:placetype":"locality",

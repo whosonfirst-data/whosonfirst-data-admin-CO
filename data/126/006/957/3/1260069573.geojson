@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.31254,3.25396,-76.27254,3.29396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Hacienda La Avelina"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260069573,
-    "wof:lastmodified":1537618800,
+    "wof:lastmodified":1566707384,
     "wof:name":"Hacienda La Avelina",
     "wof:parent_id":1108700477,
     "wof:placetype":"locality",

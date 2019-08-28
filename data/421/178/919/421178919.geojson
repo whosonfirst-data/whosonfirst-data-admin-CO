@@ -10,8 +10,12 @@
     "geom:latitude":8.04096,
     "geom:longitude":-72.86538,
     "iso:country":"CO",
+    "lbl:bbox":"-72.88538,8.02096,-72.84538,8.06096",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Bucarasica"
@@ -50,9 +54,6 @@
         "Bucarasica"
     ],
     "name:tgl_x_preferred":[
-        "Bucarasica"
-    ],
-    "name:unk_x_variant":[
         "Bucarasica"
     ],
     "name:vie_x_preferred":[
@@ -98,7 +99,7 @@
     "wof:concordances":{
         "gn:id":3688462,
         "gp:id":419975,
-        "qs:id":289642,
+        "qs_pg:id":289642,
         "wd:id":"Q1655530",
         "wk:page":"Bucarasica"
     },
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421178919,
-    "wof:lastmodified":1563309532,
+    "wof:lastmodified":1566708052,
     "wof:name":"Bucaracica",
     "wof:parent_id":1108701091,
     "wof:placetype":"locality",

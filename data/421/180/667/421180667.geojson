@@ -10,8 +10,12 @@
     "geom:latitude":7.30911,
     "geom:longitude":-72.87122,
     "iso:country":"CO",
+    "lbl:bbox":"-72.89122,7.28911,-72.85122,7.32911",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Vetas"
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3666092,
         "gp:id":369569,
-        "qs:id":1206702,
+        "qs_pg:id":1206702,
         "wd:id":"Q2184603",
         "wk:page":"Vetas"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421180667,
-    "wof:lastmodified":1563309114,
+    "wof:lastmodified":1566707967,
     "wof:name":"Vetas",
     "wof:parent_id":1108701371,
     "wof:placetype":"locality",

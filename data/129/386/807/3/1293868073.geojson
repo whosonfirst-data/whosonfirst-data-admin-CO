@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.74441,2.48193,-77.70441,2.52193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0422\u043e\u043c\u0430\u0441"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293868073,
-    "wof:lastmodified":1564290385,
+    "wof:lastmodified":1566706791,
     "wof:name":"Tomas",
     "wof:parent_id":1108700461,
     "wof:placetype":"locality",

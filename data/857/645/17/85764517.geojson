@@ -12,8 +12,10 @@
     "gn:latitude":6.2812,
     "gn:longitude":-75.56003,
     "iso:country":"CO",
+    "lbl:bbox":"-75.552477,6.286769,-75.542477,6.296769",
     "lbl:latitude":6.291769,
     "lbl:longitude":-75.547477,
+    "lbl:max_zoom":18.0,
     "mps:latitude":6.290375,
     "mps:longitude":-75.545475,
     "mz:hierarchy_label":0,
@@ -172,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u043d\u0445\u0443\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Aranjuez"
-    ],
     "name:uzb_x_preferred":[
         "Aranjuez"
     ],
@@ -217,7 +216,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670129,
         102191577,
@@ -228,7 +227,7 @@
     "wof:concordances":{
         "gn:id":3689742,
         "gp:id":350894,
-        "qs:id":277763
+        "qs_pg:id":277763
     },
     "wof:country":"CO",
     "wof:geomhash":"d0f5b2f5ce69cb56cd43a23cd36eb958",
@@ -246,7 +245,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289400,
+    "wof:lastmodified":1566706527,
     "wof:name":"Aranjuez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

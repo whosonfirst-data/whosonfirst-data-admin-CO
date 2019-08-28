@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.86902,1.69936,-73.82902,1.73936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226516867,
-    "wof:lastmodified":1537038130,
+    "wof:lastmodified":1566708541,
     "wof:name":"La Tunia",
     "wof:parent_id":421169199,
     "wof:placetype":"locality",

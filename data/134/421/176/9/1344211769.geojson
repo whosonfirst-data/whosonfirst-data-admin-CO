@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-72.57,6.69667,-72.53,6.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tobal",
         "El Tobal"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344211769,
-    "wof:lastmodified":1537618566,
+    "wof:lastmodified":1566706463,
     "wof:name":"El Tobal",
     "wof:parent_id":1108701209,
     "wof:placetype":"locality",

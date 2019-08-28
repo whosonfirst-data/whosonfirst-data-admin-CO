@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-77.11265,7.46121,-77.07265,7.50121",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Guacuco"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226032147,
-    "wof:lastmodified":1537618813,
+    "wof:lastmodified":1566708558,
     "wof:name":"Guacuco",
     "wof:parent_id":421205091,
     "wof:placetype":"locality",

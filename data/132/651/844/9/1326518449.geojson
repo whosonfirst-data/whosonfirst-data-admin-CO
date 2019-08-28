@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.94581,10.05784,-73.90581,10.09784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pronto Allivio",
         "Pronto Alivio"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326518449,
-    "wof:lastmodified":1537618427,
+    "wof:lastmodified":1566706102,
     "wof:name":"Pronto Alivio",
     "wof:parent_id":1108700535,
     "wof:placetype":"locality",

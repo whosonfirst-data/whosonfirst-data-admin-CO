@@ -10,8 +10,12 @@
     "geom:latitude":5.75,
     "geom:longitude":-73.0,
     "iso:country":"CO",
+    "lbl:bbox":"-73.02,5.73,-72.98,5.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Tibasosa"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3667211,
         "gp:id":367223,
-        "qs:id":149983,
+        "qs_pg:id":149983,
         "wd:id":"Q1525713"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421193815,
-    "wof:lastmodified":1563308966,
+    "wof:lastmodified":1566707936,
     "wof:name":"Tibasosa",
     "wof:parent_id":421170591,
     "wof:placetype":"locality",

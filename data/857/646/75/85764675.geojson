@@ -9,14 +9,16 @@
     "geom:bbox":"-74.803307,11.019779,-74.803307,11.019779",
     "geom:latitude":11.019779,
     "geom:longitude":-74.803307,
-    "gn:gn_country":"CO",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"CO",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.01667,
     "gn:longitude":-74.8,
+    "gn:population":0,
     "iso:country":"CO",
+    "lbl:bbox":"-74.808307,11.014779,-74.798307,11.024779",
     "lbl:latitude":11.019779,
     "lbl:longitude":-74.803307,
+    "lbl:max_zoom":18.0,
     "mps:latitude":11.026038,
     "mps:longitude":-74.802495,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
         "La Concepci\u00f3n"
     ],
     "name:swe_x_preferred":[
-        "La Concepci\u00f3n"
-    ],
-    "name:unk_x_variant":[
         "La Concepci\u00f3n"
     ],
     "name:vie_x_preferred":[
@@ -105,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85670207,
         102191577,
@@ -116,7 +115,6 @@
     "wof:concordances":{
         "gn:id":3679430,
         "gp:id":358378,
-        "qs:id":1165276,
         "qs_pg:id":1165276
     },
     "wof:country":"CO",
@@ -135,7 +133,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564289411,
+    "wof:lastmodified":1566706531,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

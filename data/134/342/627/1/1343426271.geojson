@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.27801,3.27696,-73.23801,3.31696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Morichita",
         "Morichito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343426271,
-    "wof:lastmodified":1537618454,
+    "wof:lastmodified":1566706493,
     "wof:name":"Morichito",
     "wof:parent_id":1108700951,
     "wof:placetype":"locality",

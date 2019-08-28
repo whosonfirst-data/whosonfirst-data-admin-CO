@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.56083,10.34833,-74.52083,10.38833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u041f\u0438\u0435\u0434\u0440\u0430\u0441"
     ],
@@ -70,8 +74,7 @@
         "Las Piedras"
     ],
     "name:und_x_variant":[
-        "Corregimiento Las Piedras",
-        "Las Piedras"
+        "Corregimiento Las Piedras"
     ],
     "name:vep_x_preferred":[
         "Las Pjedras"
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1225987231,
-    "wof:lastmodified":1564296997,
+    "wof:lastmodified":1566708604,
     "wof:name":"Las Piedras",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",

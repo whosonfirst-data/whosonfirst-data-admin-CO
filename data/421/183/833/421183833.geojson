@@ -10,8 +10,12 @@
     "geom:latitude":6.08236,
     "geom:longitude":-75.33509,
     "iso:country":"CO",
+    "lbl:bbox":"-75.35509,6.06236,-75.31509,6.10236",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carmen de Viboral"
@@ -64,7 +68,7 @@
     "name:tgl_x_preferred":[
         "Carmen de Viboral"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Carmen Viboral"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3687318,
         "gp:id":352509,
-        "qs:id":1046390,
+        "qs_pg:id":1046390,
         "wd:id":"Q1256664",
         "wk:page":"El Carmen de Viboral"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421183833,
-    "wof:lastmodified":1561759488,
+    "wof:lastmodified":1566708045,
     "wof:name":"Carmen de Viboral",
     "wof:parent_id":421170173,
     "wof:placetype":"locality",

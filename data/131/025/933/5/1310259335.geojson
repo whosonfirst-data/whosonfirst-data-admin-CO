@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.99833,5.77083,-73.95833,5.81083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u064a\u062a\u0627"
     ],
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":1310259335,
-    "wof:lastmodified":1564293385,
+    "wof:lastmodified":1566707631,
     "wof:name":"Villeta",
     "wof:parent_id":1108701251,
     "wof:placetype":"locality",

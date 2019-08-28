@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.113641,
     "lbl:longitude":-73.793017,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cundinamarca",
     "meso:gadm_admin":"Chocont\u00e1",
     "meso:gadm_hasc2":"CO.CU.CO",
@@ -33,6 +35,7 @@
     "mps:longitude":-73.793017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Suesca"
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":445,
     "wof:belongsto":[
         102191577,
@@ -126,7 +129,7 @@
         "gn:id":3667718,
         "gp:id":26797135,
         "hasc:id":"CO.CU.CO",
-        "qs:id":1194638,
+        "qs_pg:id":1194638,
         "wd:id":"Q1525782"
     },
     "wof:country":"CO",
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421170619,
-    "wof:lastmodified":1563309437,
+    "wof:lastmodified":1566708032,
     "wof:name":"Suesca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

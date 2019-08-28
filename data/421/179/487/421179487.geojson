@@ -10,8 +10,12 @@
     "geom:latitude":5.38346,
     "geom:longitude":-75.16122,
     "iso:country":"CO",
+    "lbl:bbox":"-75.18122,5.36346,-75.14122,5.40346",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Pensilvania"
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3672521,
         "gp:id":368224,
-        "qs:id":150070,
+        "qs_pg:id":150070,
         "wd:id":"Q1440753"
     },
     "wof:country":"CO",
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421179487,
-    "wof:lastmodified":1563309517,
+    "wof:lastmodified":1566708049,
     "wof:name":"Pensilvania",
     "wof:parent_id":421172411,
     "wof:placetype":"locality",

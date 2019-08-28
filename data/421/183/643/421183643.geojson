@@ -10,8 +10,12 @@
     "geom:latitude":6.41639,
     "geom:longitude":-73.17,
     "iso:country":"CO",
+    "lbl:bbox":"-73.19,6.39639,-73.15,6.43639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0627\u0645\u0648"
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":3672895,
         "gp:id":363500,
-        "qs:id":982670,
+        "qs_pg:id":982670,
         "wd:id":"Q366923"
     },
     "wof:country":"CO",
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421183643,
-    "wof:lastmodified":1563309486,
+    "wof:lastmodified":1566708044,
     "wof:name":"P\u00e1ramo",
     "wof:parent_id":1108701313,
     "wof:placetype":"locality",

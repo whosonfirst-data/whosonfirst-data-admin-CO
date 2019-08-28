@@ -25,14 +25,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.43667,2.38,-76.39667,2.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Quintana"
     ],
     "name:und_x_variant":[
-        "Quintana",
-        "La Quintana"
+        "Quintana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1309990081,
-    "wof:lastmodified":1537618505,
+    "wof:lastmodified":1566707860,
     "wof:name":"La Quintana",
     "wof:parent_id":1108700495,
     "wof:placetype":"locality",

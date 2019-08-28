@@ -10,6 +10,9 @@
     "geom:latitude":8.763871,
     "geom:longitude":-75.879135,
     "iso:country":"CO",
+    "lbl:bbox":"-75.899135,8.743871,-75.859135,8.783871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0435\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jer\u00f3nimo de Buenavista"
     ],
     "name:urd_x_preferred":[
@@ -318,9 +321,11 @@
     "wof:concordances":{
         "gn:id":3674453,
         "gp:id":368164,
-        "qs:id":239325,
-        "qs_pg:id":1046265,
+        "qs_pg:id":239325,
         "wd:id":"Q852725"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1046265
     },
     "wof:country":"CO",
     "wof:created":1459010181,
@@ -335,7 +340,7 @@
         }
     ],
     "wof:id":421204339,
-    "wof:lastmodified":1563309019,
+    "wof:lastmodified":1566707945,
     "wof:name":"Monter\u00eda",
     "wof:parent_id":421172417,
     "wof:placetype":"locality",

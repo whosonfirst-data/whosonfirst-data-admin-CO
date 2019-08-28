@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-73.29726,4.49885,-73.25726,4.53885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Los Reyes"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1326671179,
-    "wof:lastmodified":1564287601,
+    "wof:lastmodified":1566706118,
     "wof:name":"Los Reyes",
     "wof:parent_id":1108700683,
     "wof:placetype":"locality",

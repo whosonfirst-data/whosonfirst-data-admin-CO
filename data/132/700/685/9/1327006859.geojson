@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.75429,8.70612,-75.71429,8.74612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Costa Azul"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327006859,
-    "wof:lastmodified":1564287427,
+    "wof:lastmodified":1566706075,
     "wof:name":"Costa Azul",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",

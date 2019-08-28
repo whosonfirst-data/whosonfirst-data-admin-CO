@@ -10,8 +10,12 @@
     "geom:latitude":9.87809,
     "geom:longitude":-75.25248,
     "iso:country":"CO",
+    "lbl:bbox":"-75.27248,9.85809,-75.23248,9.89809",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "San Crist\u00f3bal"
@@ -55,7 +59,7 @@
     "name:tgl_x_preferred":[
         "San Cristobal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caserio San Cristobal"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3669956,
         "gp:id":365317,
-        "qs:id":1206330,
+        "qs_pg:id":1206330,
         "wd:id":"Q2434056",
         "wk:page":"San Crist\u00f3bal, Bol\u00edvar"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421194491,
-    "wof:lastmodified":1563308939,
+    "wof:lastmodified":1566707932,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":421192869,
     "wof:placetype":"locality",

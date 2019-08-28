@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-74.46504,10.1974,-74.42504,10.2374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El Amparo"
     ],
     "name:und_x_variant":[
-        "Hacienda El Amparo",
-        "El Amparo"
+        "Hacienda El Amparo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343499827,
-    "wof:lastmodified":1564288863,
+    "wof:lastmodified":1566706405,
     "wof:name":"El Amparo",
     "wof:parent_id":1108700905,
     "wof:placetype":"locality",

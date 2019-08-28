@@ -11,10 +11,14 @@
     "geom:longitude":-75.685157,
     "gn:country":"CO",
     "gn:fcode":"PPLA",
-    "gn:pop":440118,
+    "gn:population":440118,
     "iso:country":"CO",
+    "lbl:bbox":"-75.705157,4.792095,-75.665157,4.832095",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0631\u0627"
@@ -196,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0440\u0435\u0439\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cartago Viejo"
     ],
     "name:urd_x_preferred":[
@@ -251,12 +255,12 @@
     "wof:concordances":{
         "gn:id":3672486,
         "gp:id":368168,
-        "qs:id":239328,
+        "qs_pg:id":239328,
         "wd:id":"Q51111",
         "wk:page":"Pereira"
     },
     "wof:concordances_alt":{
-        "qs:id":274499
+        "qs_pg:id":274499
     },
     "wof:country":"CO",
     "wof:created":1459010183,
@@ -271,7 +275,7 @@
         }
     ],
     "wof:id":421204345,
-    "wof:lastmodified":1563309042,
+    "wof:lastmodified":1566707949,
     "wof:name":"Pereira",
     "wof:parent_id":421187825,
     "wof:placetype":"locality",

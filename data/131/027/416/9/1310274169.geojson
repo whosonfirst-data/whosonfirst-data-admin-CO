@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.48639,2.98556,-75.44639,3.02556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Los Llanitos"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310274169,
-    "wof:lastmodified":1564293712,
+    "wof:lastmodified":1566707703,
     "wof:name":"Los Llanitos",
     "wof:parent_id":421170437,
     "wof:placetype":"locality",

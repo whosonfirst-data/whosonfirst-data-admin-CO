@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-75.71528,6.99306,-75.67528,7.03306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Toledo"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1326842189,
-    "wof:lastmodified":1564287990,
+    "wof:lastmodified":1566706208,
     "wof:name":"Toledo",
     "wof:parent_id":1108700025,
     "wof:placetype":"locality",

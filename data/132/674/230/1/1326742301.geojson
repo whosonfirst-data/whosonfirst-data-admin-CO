@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Bogota",
     "iso:country":"CO",
+    "lbl:bbox":"-76.05083,6.90389,-76.01083,6.94389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Juntas",
         "Juntas de Uramita"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326742301,
-    "wof:lastmodified":1537618539,
+    "wof:lastmodified":1566706094,
     "wof:name":"Juntas de Uramita",
     "wof:parent_id":1108700027,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.619788,
     "lbl:longitude":-75.410934,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Antioquia",
     "mps:latitude":6.61064,
     "mps:longitude":-75.421541,
@@ -251,9 +252,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0456\u043e\u043a\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Antioquia"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u062a\u06cc\u0648\u06a9\u06cc\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -344,9 +342,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-22",
+    "src:population_date":"2005-05-22",
     "statoids:area_km":"63,612",
     "statoids:area_mi":"24,561",
     "statoids:as_of_date":"2005-05-22",
@@ -371,7 +369,7 @@
         "gp:id":2345048,
         "hasc:id":"CO.AN",
         "iso:id":"CO-ANT",
-        "qs:id":1168632,
+        "qs_pg:id":1168632,
         "unlc:id":"CO-ANT",
         "wd:id":"Q123304",
         "wk:page":"Antioquia Department"
@@ -392,11 +390,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565670374,
+    "wof:lastmodified":1566706538,
     "wof:name":"Antioquia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":5601507,
     "wof:population_rank":13,
