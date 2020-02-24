@@ -312,6 +312,7 @@
     "qs:woe_id":368201,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "wd:wordcount":62,
@@ -333,6 +334,10 @@
     },
     "wof:country":"CO",
     "wof:created":1459009488,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca39ffa1ee2356a833555cf89c489ff8",
     "wof:hierarchy":[
         {
@@ -344,7 +349,7 @@
         }
     ],
     "wof:id":421186693,
-    "wof:lastmodified":1566707994,
+    "wof:lastmodified":1582393667,
     "wof:name":"Florencia",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

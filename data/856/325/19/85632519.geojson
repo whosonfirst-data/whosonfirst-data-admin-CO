@@ -1053,6 +1053,11 @@
     },
     "wof:country":"CO",
     "wof:country_alpha3":"COL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"9288b25902331788e525312e35fc7462",
     "wof:hierarchy":[
         {
@@ -1067,7 +1072,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566706548,
+    "wof:lastmodified":1582393581,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
