@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Ap\u00eda"
     ],
+    "name:cat_x_preferred":[
+        "Apia"
+    ],
     "name:ceb_x_preferred":[
         "Ap\u00eda"
     ],
@@ -46,6 +49,9 @@
     "name:nld_x_preferred":[
         "Ap\u00eda"
     ],
+    "name:pol_x_preferred":[
+        "Ap\u00eda"
+    ],
     "name:spa_x_preferred":[
         "Ap\u00eda"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Ap\u00eda"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u963f\u76ae\u4e9e"
     ],
     "name:zho_x_preferred":[
         "\u963f\u76ae\u4e9e"
@@ -164,8 +173,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670173,
-        1108701165
+        1108701165,
+        85670173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":890445003,
-    "wof:lastmodified":1566708077,
+    "wof:lastmodified":1587428696,
     "wof:name":"Ap\u00eda",
     "wof:parent_id":1108701165,
     "wof:placetype":"locality",

@@ -56,6 +56,9 @@
     "name:nld_x_preferred":[
         "Santo Domingo"
     ],
+    "name:pol_x_preferred":[
+        "Santo Domingo"
+    ],
     "name:por_x_preferred":[
         "Santo Domingo"
     ],
@@ -79,6 +82,9 @@
     ],
     "name:war_x_preferred":[
         "Santo Domingo"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8056\u591a\u660e\u5404"
     ],
     "name:zho_min_nan_x_preferred":[
         "Santo Domingo"
@@ -202,8 +208,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670129,
-        1108700017
+        1108700017,
+        85670129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -226,7 +232,7 @@
         }
     ],
     "wof:id":421204951,
-    "wof:lastmodified":1566707948,
+    "wof:lastmodified":1587428693,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108700017,
     "wof:placetype":"locality",
