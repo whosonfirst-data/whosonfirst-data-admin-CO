@@ -26,6 +26,9 @@
     "name:arg_x_preferred":[
         "Santiago de Cali"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0644\u0649"
+    ],
     "name:ast_x_preferred":[
         "Cali"
     ],
@@ -68,6 +71,12 @@
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03bb\u03b9"
     ],
+    "name:eng_ca_x_preferred":[
+        "Cali"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Cali"
+    ],
     "name:eng_x_preferred":[
         "Santiago de Cali"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0644\u06cc"
+    ],
+    "name:fij_x_preferred":[
+        "Cali"
     ],
     "name:fin_x_preferred":[
         "Cali"
@@ -212,6 +224,9 @@
     "name:pol_x_preferred":[
         "Cali"
     ],
+    "name:por_br_x_preferred":[
+        "C\u00e1li"
+    ],
     "name:por_x_preferred":[
         "Cali"
     ],
@@ -274,6 +289,9 @@
     ],
     "name:tha_x_variant":[
         "\u0e01\u0e32\u0e25\u0e34"
+    ],
+    "name:tuk_x_preferred":[
+        "Kali"
     ],
     "name:tur_x_preferred":[
         "Santiago de Cali"
@@ -425,8 +443,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670203,
-        421170643
+        421170643,
+        85670203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -448,7 +466,7 @@
         }
     ],
     "wof:id":421169145,
-    "wof:lastmodified":1566707941,
+    "wof:lastmodified":1587428693,
     "wof:name":"Cali",
     "wof:parent_id":421170643,
     "wof:placetype":"locality",
