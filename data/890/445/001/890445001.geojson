@@ -408,13 +408,14 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670207,
-        1108700049
+        1108700049,
+        85670207
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3689147,
         "gp:id":368151,
+        "ne:id":1159149845,
         "qs_pg:id":1046406,
         "wd:id":"Q62823",
         "wk:page":"Barranquilla"
@@ -435,7 +436,8 @@
         }
     ],
     "wof:id":890445001,
-    "wof:lastmodified":1566708077,
+    "wof:lastmodified":1608688171,
+    "wof:megacity":1,
     "wof:name":"Barranquilla",
     "wof:parent_id":1108700049,
     "wof:placetype":"locality",

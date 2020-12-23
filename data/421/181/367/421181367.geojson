@@ -383,13 +383,14 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670209,
-        1108700093
+        1108700093,
+        85670209
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3687238,
         "gp:id":368153,
+        "ne:id":1159150857,
         "qs_pg:id":489507,
         "wd:id":"Q657461",
         "wk:page":"Cartagena, Colombia"
@@ -407,7 +408,8 @@
         }
     ],
     "wof:id":421181367,
-    "wof:lastmodified":1566707999,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Cartagena",
     "wof:parent_id":1108700093,
     "wof:placetype":"locality",

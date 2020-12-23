@@ -321,12 +321,13 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670141,
-        1108701181
+        1108701181,
+        85670141
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3688465,
+        "ne:id":1159146917,
         "qs_pg:id":1046403,
         "wd:id":"Q243766",
         "wk:page":"Bucaramanga"
@@ -344,7 +345,8 @@
         }
     ],
     "wof:id":890444993,
-    "wof:lastmodified":1566708075,
+    "wof:lastmodified":1608688164,
+    "wof:megacity":1,
     "wof:name":"Bucaramanga",
     "wof:parent_id":1108701181,
     "wof:placetype":"locality",
