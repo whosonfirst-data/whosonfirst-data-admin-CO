@@ -1154,7 +1154,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1214,7 +1215,8 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"93604d73337e556236fbb27105cde0d7",
     "wof:hierarchy":[
@@ -1230,7 +1232,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617828575,
+    "wof:lastmodified":1618362909,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
