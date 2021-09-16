@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.86861111,5.13055556,-70.86861111,5.13055556",
+    "geom:bbox":"-70.868611,5.130556,-70.868611,5.130556",
     "geom:latitude":5.130556,
     "geom:longitude":-70.868611,
     "iso:country":"CO",
@@ -17,7 +17,8 @@
         "Santa Rosal\u00eda Airport"
     ],
     "name:eng_x_variant":[
-        "SSL"
+        "SSL",
+        "SKSL"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Santa Rosal\u00eda"
@@ -45,7 +46,7 @@
         "wd:id":"Q28163852"
     },
     "wof:country":"CO",
-    "wof:geomhash":"66047a4358098b4cfb73ee015f0296c4",
+    "wof:geomhash":"a73dcde65c5d378935d73c8299798760",
     "wof:hierarchy":[
         {
             "campus_id":102546089,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":102546089,
-    "wof:lastmodified":1566706288,
+    "wof:lastmodified":1631757204,
     "wof:name":"Santa Rosalia Airport",
     "wof:parent_id":85670263,
     "wof:placetype":"campus",
@@ -66,10 +67,10 @@
     ]
 },
   "bbox": [
-    -70.86861111,
-    5.13055556,
-    -70.86861111,
-    5.13055556
+    -70.868611,
+    5.130556,
+    -70.868611,
+    5.130556
 ],
-  "geometry": {"coordinates":[-70.86861111,5.13055556],"type":"Point"}
+  "geometry": {"coordinates":[-70.868611,5.130556],"type":"Point"}
 }
