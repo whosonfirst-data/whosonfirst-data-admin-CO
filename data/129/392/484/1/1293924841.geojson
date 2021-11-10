@@ -45,6 +45,12 @@
     "name:fra_x_preferred":[
         "La Vega"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05d5\u05d2\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "La Vega"
+    ],
     "name:ita_x_preferred":[
         "La Vega"
     ],
@@ -78,7 +84,7 @@
         "gn:id":3782028
     },
     "wof:country":"CO",
-    "wof:geomhash":"794dc0249c2417ebd85f83e899eb9ea3",
+    "wof:geomhash":"36af447b4b641e811f2b51d6cee6d2fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1293924841,
-    "wof:lastmodified":1566706683,
+    "wof:lastmodified":1636506560,
     "wof:name":"La Vega",
     "wof:parent_id":1108700665,
     "wof:placetype":"locality",
@@ -99,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.68524000000002,
+    -73.68524,
     4.81219,
-    -73.68524000000002,
+    -73.68524,
     4.81219
 ],
-  "geometry": {"coordinates":[-73.68524000000002,4.81219],"type":"Point"}
+  "geometry": {"coordinates":[-73.68523999999999,4.81219],"type":"Point"}
 }

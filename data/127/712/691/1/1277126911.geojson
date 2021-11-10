@@ -36,6 +36,9 @@
     "name:ceb_x_preferred":[
         "La Pampa"
     ],
+    "name:hun_x_preferred":[
+        "La Pampa"
+    ],
     "name:por_x_preferred":[
         "La Pampa"
     ],
@@ -57,7 +60,7 @@
         "gn:id":3778918
     },
     "wof:country":"CO",
-    "wof:geomhash":"31cf8489e69df7d882d191e9dafaa2a5",
+    "wof:geomhash":"a65177ba9299dd926552c990e591c3b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1277126911,
-    "wof:lastmodified":1566706921,
+    "wof:lastmodified":1636506623,
     "wof:name":"La Pampa",
     "wof:parent_id":421205105,
     "wof:placetype":"locality",
@@ -78,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.25778000000003,
+    -76.25778,
     3.58444,
-    -76.25778000000003,
+    -76.25778,
     3.58444
 ],
-  "geometry": {"coordinates":[-76.25778000000003,3.58444],"type":"Point"}
+  "geometry": {"coordinates":[-76.25778,3.58444],"type":"Point"}
 }

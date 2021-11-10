@@ -118,6 +118,9 @@
         "\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3\u10d8"
     ],
     "name:kor_x_preferred":[
+        "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc\uc12c"
     ],
     "name:kur_x_preferred":[
@@ -231,7 +234,7 @@
         "gn:id":3779245
     },
     "wof:country":"CO",
-    "wof:geomhash":"e716991f8db8e46609cc3af0cec501c3",
+    "wof:geomhash":"2245f51b52172d1c06d0d1b23df617e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":1310251481,
-    "wof:lastmodified":1566707632,
+    "wof:lastmodified":1636506784,
     "wof:name":"Trinidad",
     "wof:parent_id":421193653,
     "wof:placetype":"locality",
@@ -252,10 +255,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.30984000000002,
+    -76.30984,
     3.80063,
-    -76.30984000000002,
+    -76.30984,
     3.80063
 ],
-  "geometry": {"coordinates":[-76.30984000000002,3.80063],"type":"Point"}
+  "geometry": {"coordinates":[-76.30983999999999,3.80063],"type":"Point"}
 }

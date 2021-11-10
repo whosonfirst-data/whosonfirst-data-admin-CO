@@ -49,13 +49,22 @@
         "Girardot"
     ],
     "name:rus_x_preferred":[
+        "\u0425\u0438\u0440\u0430\u0440\u0434\u043e\u0442"
+    ],
+    "name:rus_x_variant":[
         "\u0416\u0438\u0440\u0430\u0440\u0434\u043e"
     ],
     "name:sco_x_preferred":[
         "Girardot"
     ],
+    "name:tur_x_preferred":[
+        "Girardot"
+    ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u0440\u0430\u0440\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0631\u0627\u0631\u0688\u0648\u0679"
     ],
     "name:vie_x_preferred":[
         "Girardot"
@@ -72,7 +81,7 @@
         "gn:id":8462131
     },
     "wof:country":"CO",
-    "wof:geomhash":"58b0c4542a248a5a09bf3921d129347e",
+    "wof:geomhash":"d51ec528f98360b02f0d3f773d2041a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":1209982989,
-    "wof:lastmodified":1566707041,
+    "wof:lastmodified":1636506652,
     "wof:name":"Girardot",
     "wof:parent_id":421187819,
     "wof:placetype":"locality",
@@ -93,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.97816999999998,
+    -71.97817,
     11.67149,
-    -71.97816999999998,
+    -71.97817,
     11.67149
 ],
-  "geometry": {"coordinates":[-71.97816999999998,11.67149],"type":"Point"}
+  "geometry": {"coordinates":[-71.97817000000001,11.67149],"type":"Point"}
 }

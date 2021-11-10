@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0631\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Turbo"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u09b0\u09cd\u09ac\u09cb"
     ],
     "name:cat_x_preferred":[
         "Turbo"
@@ -28,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Turbo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03cd\u03c1\u03bc\u03c0\u03bf"
     ],
     "name:eng_x_preferred":[
         "Turbo"
@@ -47,10 +56,19 @@
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05d1\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u0930\u094d\u092c\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Turbo"
+    ],
     "name:ile_x_preferred":[
         "Turbo"
     ],
     "name:ilo_x_preferred":[
+        "Turbo"
+    ],
+    "name:ind_x_preferred":[
         "Turbo"
     ],
     "name:ita_x_preferred":[
@@ -61,6 +79,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10e0\u10d1\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud130\ubcf4"
     ],
     "name:lit_x_preferred":[
         "Turbas"
@@ -100,6 +121,15 @@
     ],
     "name:tgl_x_preferred":[
         "Turbo"
+    ],
+    "name:tur_x_preferred":[
+        "Turbo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0631\u0628\u0648"
     ],
     "name:vie_x_preferred":[
         "Turbo"
@@ -253,7 +283,7 @@
         }
     ],
     "wof:id":421173789,
-    "wof:lastmodified":1566707979,
+    "wof:lastmodified":1636506865,
     "wof:name":"Turbo",
     "wof:parent_id":421190195,
     "wof:placetype":"locality",

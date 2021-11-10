@@ -91,6 +91,9 @@
         "\u10e1\u10d0\u10dc\u10e2\u10d0-\u10d1\u10d0\u10e0\u10d1\u10d0\u10e0\u10d0"
     ],
     "name:kor_x_preferred":[
+        "\uc0b0\ud0c0 \ubc14\ubc14\ub77c"
+    ],
+    "name:kor_x_variant":[
         "\uc0b0\ud0c0\ubc14\ub974\ubc14\ub77c"
     ],
     "name:nld_x_preferred":[
@@ -135,6 +138,9 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u06cc\u0631\u0627"
+    ],
     "name:vol_x_preferred":[
         "Santa B\u00e1rbara"
     ],
@@ -150,7 +156,7 @@
         "gn:id":3737770
     },
     "wof:country":"CO",
-    "wof:geomhash":"2a25b6d1cb86b5c54314d8f6e75a7ca8",
+    "wof:geomhash":"8087e9516624229aa42b405e77a9e47e",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":1209479461,
-    "wof:lastmodified":1566707113,
+    "wof:lastmodified":1636506672,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -168,10 +174,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.37333000000002,
+    -73.37333,
     8.11417,
-    -73.37333000000002,
+    -73.37333,
     8.11417
 ],
-  "geometry": {"coordinates":[-73.37333000000002,8.11417],"type":"Point"}
+  "geometry": {"coordinates":[-73.37333,8.11417],"type":"Point"}
 }

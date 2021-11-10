@@ -48,6 +48,12 @@
     "name:glg_x_preferred":[
         "El Tigre"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05d8\u05d9\u05d2\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "El Tigre"
+    ],
     "name:ita_x_preferred":[
         "El Tigre"
     ],
@@ -106,7 +112,7 @@
         "gn:id":3682918
     },
     "wof:country":"CO",
-    "wof:geomhash":"5942b4aab9a84387af459cb7211540d2",
+    "wof:geomhash":"e64217c9ab4a08e986ed0f000e985d71",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1243132797,
-    "wof:lastmodified":1566708194,
+    "wof:lastmodified":1636506913,
     "wof:name":"El Tigre",
     "wof:parent_id":421190219,
     "wof:placetype":"locality",
@@ -127,10 +133,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.06383000000002,
+    -77.06383,
     3.68376,
-    -77.06383000000002,
+    -77.06383,
     3.68376
 ],
-  "geometry": {"coordinates":[-77.06383000000002,3.68376],"type":"Point"}
+  "geometry": {"coordinates":[-77.06383,3.68376],"type":"Point"}
 }

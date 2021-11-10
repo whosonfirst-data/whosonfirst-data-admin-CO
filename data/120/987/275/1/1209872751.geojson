@@ -81,6 +81,9 @@
     "name:glg_x_preferred":[
         "Palencia"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05e0\u05e1\u05d9\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Palencia"
     ],
@@ -192,7 +195,7 @@
         "gn:id":3732454
     },
     "wof:country":"CO",
-    "wof:geomhash":"e3499b61eff0600fdcddabbaea34b677",
+    "wof:geomhash":"e410827e7bc0033982eea6eb7dc41e94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":1209872751,
-    "wof:lastmodified":1566707209,
+    "wof:lastmodified":1636506701,
     "wof:name":"Palencia",
     "wof:parent_id":1108701219,
     "wof:placetype":"locality",
@@ -213,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.36218000000002,
+    -73.36218,
     6.38414,
-    -73.36218000000002,
+    -73.36218,
     6.38414
 ],
-  "geometry": {"coordinates":[-73.36218000000002,6.38414],"type":"Point"}
+  "geometry": {"coordinates":[-73.36218,6.38414],"type":"Point"}
 }

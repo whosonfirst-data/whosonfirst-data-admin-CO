@@ -60,6 +60,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d2\u05d0\u05e1"
     ],
+    "name:hun_x_preferred":[
+        "Vargas"
+    ],
     "name:ita_x_preferred":[
         "Vargas"
     ],
@@ -111,7 +114,7 @@
         "gn:id":3731645
     },
     "wof:country":"CO",
-    "wof:geomhash":"ba62d0d5d4e2b86f96a07adf431a4db1",
+    "wof:geomhash":"2102c44e26e820e67bbcac472efc68a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1310090673,
-    "wof:lastmodified":1566707663,
+    "wof:lastmodified":1636506792,
     "wof:name":"Vargas",
     "wof:parent_id":1108700423,
     "wof:placetype":"locality",
@@ -132,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.92083000000002,
+    -74.92083,
     2.34056,
-    -74.92083000000002,
+    -74.92083,
     2.34056
 ],
-  "geometry": {"coordinates":[-74.92083000000002,2.34056],"type":"Point"}
+  "geometry": {"coordinates":[-74.92083,2.34056],"type":"Point"}
 }

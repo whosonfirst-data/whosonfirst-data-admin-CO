@@ -39,6 +39,9 @@
     "name:bar_x_preferred":[
         "Roma"
     ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u09ae\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u043e\u043c\u0430"
     ],
@@ -60,6 +63,9 @@
     "name:deu_x_preferred":[
         "Roma"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03cc\u03bc\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0648\u0645\u0627"
     ],
@@ -74,6 +80,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05de\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u094b\u092e\u093e"
     ],
     "name:hun_x_preferred":[
         "Roma"
@@ -156,6 +165,12 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u043c\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Roma"
+    ],
     "name:vol_x_preferred":[
         "Roma"
     ],
@@ -174,7 +189,7 @@
         "gn:id":8626753
     },
     "wof:country":"CO",
-    "wof:geomhash":"a682ab6a871a63b18fd70633cd9f51bd",
+    "wof:geomhash":"0b3ab9786260aab184e65a6efa02a425",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +200,7 @@
         }
     ],
     "wof:id":1259344455,
-    "wof:lastmodified":1566708432,
+    "wof:lastmodified":1636506969,
     "wof:name":"Roma",
     "wof:parent_id":1108701067,
     "wof:placetype":"locality",
@@ -195,10 +210,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.49006999999997,
+    -77.49007,
     1.27868,
-    -77.49006999999997,
+    -77.49007,
     1.27868
 ],
-  "geometry": {"coordinates":[-77.49006999999997,1.27868],"type":"Point"}
+  "geometry": {"coordinates":[-77.49007,1.27868],"type":"Point"}
 }

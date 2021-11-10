@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u064a\u062f\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u099f\u09b2\u09c7\u09a1\u09cb"
+    ],
     "name:bre_x_preferred":[
         "Toledo"
     ],
@@ -180,7 +183,7 @@
         "gn:id":3666958
     },
     "wof:country":"CO",
-    "wof:geomhash":"8a7f452957d84cc4dfd3dcfc5b69e323",
+    "wof:geomhash":"4e6584aa3ffafeaaba7673c023939ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":1226787935,
-    "wof:lastmodified":1566708628,
+    "wof:lastmodified":1636507021,
     "wof:name":"Toledo",
     "wof:parent_id":1108700897,
     "wof:placetype":"locality",
@@ -201,10 +204,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.51335999999998,
+    -74.51336,
     10.33306,
-    -74.51335999999998,
+    -74.51336,
     10.33306
 ],
-  "geometry": {"coordinates":[-74.51335999999998,10.33306],"type":"Point"}
+  "geometry": {"coordinates":[-74.51336000000001,10.33306],"type":"Point"}
 }

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d9\u05dc\u05d9\u05d4"
+    ],
     "name:spa_x_preferred":[
         "Sevilla"
     ],
@@ -44,7 +47,7 @@
         "gn:id":10316329
     },
     "wof:country":"CO",
-    "wof:geomhash":"631b78b39542f64b736767e18558b21d",
+    "wof:geomhash":"3d03f9d147f51afa4d4d4afcc618afa8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1293670483,
-    "wof:lastmodified":1566706707,
+    "wof:lastmodified":1636506567,
     "wof:name":"Sevilla",
     "wof:parent_id":1108701437,
     "wof:placetype":"locality",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.82611999999997,
+    -74.82612,
     3.46257,
-    -74.82611999999997,
+    -74.82612,
     3.46257
 ],
-  "geometry": {"coordinates":[-74.82611999999997,3.46257],"type":"Point"}
+  "geometry": {"coordinates":[-74.82612,3.46257],"type":"Point"}
 }

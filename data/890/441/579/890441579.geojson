@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Granada"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09b0\u09cd\u09af\u09be\u09a8\u09be\u09a1\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Granada"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:fra_x_preferred":[
         "Granada"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u094d\u0930\u0947\u0928\u0947\u0921\u093e"
     ],
     "name:ile_x_preferred":[
         "Granada"
@@ -68,6 +77,9 @@
         "Granada"
     ],
     "name:tgl_x_preferred":[
+        "Granada"
+    ],
+    "name:tur_x_preferred":[
         "Granada"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +123,7 @@
         }
     ],
     "wof:id":890441579,
-    "wof:lastmodified":1566708069,
+    "wof:lastmodified":1636506880,
     "wof:name":"Granada",
     "wof:parent_id":421184973,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "La Esperanza"
     ],
+    "name:hun_x_preferred":[
+        "La Esperanza"
+    ],
     "name:ita_x_preferred":[
         "La Esperanza"
     ],
@@ -78,7 +81,7 @@
         "gn:id":7577185
     },
     "wof:country":"CO",
-    "wof:geomhash":"04722aafabe50dba5961cc98ba3de284",
+    "wof:geomhash":"3b5c95f1a0714a211932dbe71df9d4f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1327328243,
-    "wof:lastmodified":1566706178,
+    "wof:lastmodified":1636506441,
     "wof:name":"La Esperanza",
     "wof:parent_id":1108700429,
     "wof:placetype":"locality",
@@ -99,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.74396999999998,
+    -75.74397,
     1.17441,
-    -75.74396999999998,
+    -75.74397,
     1.17441
 ],
-  "geometry": {"coordinates":[-75.74396999999998,1.17441],"type":"Point"}
+  "geometry": {"coordinates":[-75.74397,1.17441],"type":"Point"}
 }

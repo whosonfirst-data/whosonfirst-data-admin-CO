@@ -73,6 +73,9 @@
         "Amazonas"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d6\u05d5\u05e0\u05e1"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05de\u05d6\u05d5\u05e0\u05d0\u05e1"
     ],
     "name:hrv_x_preferred":[
@@ -177,7 +180,7 @@
         "gn:id":3689983
     },
     "wof:country":"CO",
-    "wof:geomhash":"ae9d6ab83fa662df883e1d41fcf0f9ef",
+    "wof:geomhash":"20affe8e6e26d28b2ac20aac9af9ba6a",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":1209147665,
-    "wof:lastmodified":1566707136,
+    "wof:lastmodified":1636506678,
     "wof:name":"Amazonas",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",
@@ -195,10 +198,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.41691999999998,
+    -74.41692,
     10.37255,
-    -74.41691999999998,
+    -74.41692,
     10.37255
 ],
-  "geometry": {"coordinates":[-74.41691999999998,10.37255],"type":"Point"}
+  "geometry": {"coordinates":[-74.41692,10.37255],"type":"Point"}
 }

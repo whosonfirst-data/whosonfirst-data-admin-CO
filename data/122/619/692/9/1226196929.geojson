@@ -39,6 +39,9 @@
     "name:bel_x_preferred":[
         "\u041b\u0456\u043d\u043a\u0430\u043b\u044c\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u0999\u09cd\u0995\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Lincoln"
     ],
@@ -87,6 +90,9 @@
     "name:heb_x_preferred":[
         "\u05dc\u05d9\u05e0\u05e7\u05d5\u05dc\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u093f\u0902\u0915\u0928"
+    ],
     "name:hsb_x_preferred":[
         "Lincoln"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10da\u10d8\u10dc\u10d9\u10dd\u10da\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c1\ucee8"
     ],
     "name:kur_x_preferred":[
         "Lincoln"
@@ -183,6 +192,9 @@
     "name:urd_x_preferred":[
         "\u0644\u0646\u06a9\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Lincoln"
+    ],
     "name:vol_x_preferred":[
         "Lincoln"
     ],
@@ -204,7 +216,7 @@
         "gn:id":3676538
     },
     "wof:country":"CO",
-    "wof:geomhash":"0be4bf114d1b16592d9baa362a3ec389",
+    "wof:geomhash":"2278bd82b330a8ee43d8e0cd8f5b3ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -215,7 +227,7 @@
         }
     ],
     "wof:id":1226196929,
-    "wof:lastmodified":1566708503,
+    "wof:lastmodified":1636506986,
     "wof:name":"Lincoln",
     "wof:parent_id":1108701259,
     "wof:placetype":"locality",
@@ -225,10 +237,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.31709000000002,
+    -73.31709,
     7.04837,
-    -73.31709000000002,
+    -73.31709,
     7.04837
 ],
-  "geometry": {"coordinates":[-73.31709000000002,7.04837],"type":"Point"}
+  "geometry": {"coordinates":[-73.31708999999999,7.04837],"type":"Point"}
 }

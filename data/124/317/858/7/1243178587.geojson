@@ -52,6 +52,9 @@
         "La Libertad"
     ],
     "name:kor_x_preferred":[
+        "\ub77c \ub9ac\ubca0\ub974\ud0c0\ub4dc"
+    ],
+    "name:kor_x_variant":[
         "\ub77c\ub9ac\ubca0\ub974\ud0c0\ub4dc"
     ],
     "name:lit_x_preferred":[
@@ -87,11 +90,20 @@
     "name:swe_x_preferred":[
         "La Libertad"
     ],
+    "name:tur_x_preferred":[
+        "La Libertad"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
     "name:und_x_variant":[
         "Las Lagunitas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0644\u0628\u0631\u062a\u0627\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "La Libertad"
     ],
     "name:war_x_preferred":[
         "La Libertad"
@@ -108,7 +120,7 @@
         "gn:id":3759617
     },
     "wof:country":"CO",
-    "wof:geomhash":"134d5683e4f6425c5a7210f3abefc8c2",
+    "wof:geomhash":"1a090255c3cf120c47c0e9ef04db0d20",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +131,7 @@
         }
     ],
     "wof:id":1243178587,
-    "wof:lastmodified":1566708309,
+    "wof:lastmodified":1636506938,
     "wof:name":"La Libertad",
     "wof:parent_id":421170653,
     "wof:placetype":"locality",
@@ -129,10 +141,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.91058000000002,
+    -70.91058,
     6.99929,
-    -70.91058000000002,
+    -70.91058,
     6.99929
 ],
-  "geometry": {"coordinates":[-70.91058000000002,6.99929],"type":"Point"}
+  "geometry": {"coordinates":[-70.91058,6.99929],"type":"Point"}
 }

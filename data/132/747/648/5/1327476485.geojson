@@ -90,6 +90,9 @@
     "name:hrv_x_preferred":[
         "Zulia"
     ],
+    "name:hun_x_preferred":[
+        "Zulia"
+    ],
     "name:ita_x_preferred":[
         "Zulia"
     ],
@@ -189,7 +192,7 @@
         "gn:id":3775769
     },
     "wof:country":"CO",
-    "wof:geomhash":"7322e3becf6f77d46dcbd4e56851a10a",
+    "wof:geomhash":"fed3295e3b4436d4cbbccf9d551b586f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +203,7 @@
         }
     ],
     "wof:id":1327476485,
-    "wof:lastmodified":1566706155,
+    "wof:lastmodified":1636506436,
     "wof:name":"Zulia",
     "wof:parent_id":1108700891,
     "wof:placetype":"locality",
@@ -210,10 +213,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.40666999999998,
+    -74.40667,
     9.75583,
-    -74.40666999999998,
+    -74.40667,
     9.75583
 ],
-  "geometry": {"coordinates":[-74.40666999999998,9.75583],"type":"Point"}
+  "geometry": {"coordinates":[-74.40667000000001,9.75583],"type":"Point"}
 }

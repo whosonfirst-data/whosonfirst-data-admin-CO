@@ -23,11 +23,17 @@
     "name:ast_x_preferred":[
         "El Banco"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u09ac\u09cd\u09af\u09be\u0999\u09cd\u0995\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "El Banco"
     ],
     "name:deu_x_preferred":[
         "El Banco"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039c\u03c0\u03ac\u03bd\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "El Banco"
@@ -44,6 +50,15 @@
     "name:heb_x_preferred":[
         "\u05d0\u05dc \u05d1\u05e0\u05e7\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u092c\u0948\u0902\u0915\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "El Banco"
+    ],
+    "name:ind_x_preferred":[
+        "El Banco"
+    ],
     "name:ita_x_preferred":[
         "El Banco"
     ],
@@ -52,6 +67,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d4\u10da-\u10d1\u10d0\u10dc\u10d9\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \ubc29\ucf54"
     ],
     "name:msa_x_preferred":[
         "El Banco"
@@ -83,11 +101,17 @@
     "name:tgl_x_preferred":[
         "El Banco"
     ],
+    "name:tur_x_preferred":[
+        "El Banco"
+    ],
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0411\u0430\u043d\u043a\u043e"
     ],
     "name:und_x_variant":[
         "Banco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0628\u0627\u0646\u06a9\u0648"
     ],
     "name:vie_x_preferred":[
         "El Banco"
@@ -240,7 +264,7 @@
         }
     ],
     "wof:id":421176431,
-    "wof:lastmodified":1566708058,
+    "wof:lastmodified":1636506879,
     "wof:name":"El Banco",
     "wof:parent_id":421170439,
     "wof:placetype":"locality",

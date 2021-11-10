@@ -55,6 +55,9 @@
         "Pimentel"
     ],
     "name:rus_x_preferred":[
+        "\u041f\u0438\u043c\u0435\u043d\u0442\u0435\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
         "\u041f\u0438\u043c\u0435\u043d\u0442\u0435\u043b"
     ],
     "name:spa_x_preferred":[
@@ -69,6 +72,18 @@
     "name:swe_x_preferred":[
         "Pimentel"
     ],
+    "name:tur_x_preferred":[
+        "Pimentel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u043c\u0435\u043d\u0442\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0626\u0645\u06cc\u0646\u0679\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Pimentel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -81,7 +96,7 @@
         "gn:id":3672223
     },
     "wof:country":"CO",
-    "wof:geomhash":"62eb5a3705fb7e19a95df6532456fa10",
+    "wof:geomhash":"d4dcaf50e7425e0e2232f29fff67f83e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":1193124561,
-    "wof:lastmodified":1566707285,
+    "wof:lastmodified":1636506721,
     "wof:name":"Pimentel",
     "wof:parent_id":421205091,
     "wof:placetype":"locality",
@@ -102,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.09215999999998,
+    -77.09216,
     7.3127,
-    -77.09215999999998,
+    -77.09216,
     7.3127
 ],
-  "geometry": {"coordinates":[-77.09215999999998,7.3127],"type":"Point"}
+  "geometry": {"coordinates":[-77.09216000000001,7.3127],"type":"Point"}
 }

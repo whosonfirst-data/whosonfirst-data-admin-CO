@@ -35,6 +35,12 @@
     "name:gla_x_preferred":[
         "Santo Domingo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d5 \u05d3\u05d5\u05de\u05d9\u05e0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Santo Domingo"
+    ],
     "name:ile_x_preferred":[
         "Santo Domingo"
     ],
@@ -208,8 +214,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        1108700017,
-        85670129
+        85670129,
+        1108700017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -232,7 +238,7 @@
         }
     ],
     "wof:id":421204951,
-    "wof:lastmodified":1587428693,
+    "wof:lastmodified":1636506862,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108700017,
     "wof:placetype":"locality",

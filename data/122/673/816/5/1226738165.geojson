@@ -39,6 +39,9 @@
     "name:deu_x_preferred":[
         "Putumayo"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03c4\u03bf\u03c5\u03bc\u03ac\u03b3\u03b9\u03bf"
+    ],
     "name:fra_x_preferred":[
         "Putumayo"
     ],
@@ -46,6 +49,9 @@
         "\u05e4\u05d5\u05d8\u05d5\u05de\u05d9\u05d5"
     ],
     "name:hun_x_preferred":[
+        "Putumayo"
+    ],
+    "name:ind_x_preferred":[
         "Putumayo"
     ],
     "name:ita_x_preferred":[
@@ -66,8 +72,14 @@
     "name:swe_x_preferred":[
         "Putumayo"
     ],
+    "name:tur_x_preferred":[
+        "Putumayo"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0442\u0443\u043c\u0430\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0648\u0679\u0648\u0645\u0627\u06cc\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1226738165,
-    "wof:lastmodified":1566708515,
+    "wof:lastmodified":1636506989,
     "wof:name":"Putumayo",
     "wof:parent_id":421185023,
     "wof:placetype":"locality",

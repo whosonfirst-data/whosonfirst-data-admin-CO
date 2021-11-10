@@ -268,6 +268,9 @@
         "Jama\u00edka"
     ],
     "name:ita_x_preferred":[
+        "Giamaica "
+    ],
+    "name:ita_x_variant":[
         "Giamaica"
     ],
     "name:jam_x_preferred":[
@@ -633,7 +636,7 @@
         "gn:id":3781100
     },
     "wof:country":"CO",
-    "wof:geomhash":"da41891915d1d2afd7e546d5283da4c7",
+    "wof:geomhash":"044af2c762347e24047fb8f2b8be633e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -644,7 +647,7 @@
         }
     ],
     "wof:id":1360057467,
-    "wof:lastmodified":1566707839,
+    "wof:lastmodified":1636506836,
     "wof:name":"Jamaica",
     "wof:parent_id":1108700817,
     "wof:placetype":"locality",
@@ -654,10 +657,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.62276999999997,
+    -75.62277,
     2.67434,
-    -75.62276999999997,
+    -75.62277,
     2.67434
 ],
-  "geometry": {"coordinates":[-75.62276999999997,2.67434],"type":"Point"}
+  "geometry": {"coordinates":[-75.62277,2.67434],"type":"Point"}
 }

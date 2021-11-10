@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0645\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Tame"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09ae"
     ],
     "name:ceb_x_preferred":[
         "Tame"
     ],
     "name:deu_x_preferred":[
         "Tame"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Tame"
@@ -41,7 +50,16 @@
     "name:heb_x_preferred":[
         "\u05d8\u05de\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u0947\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Tame"
+    ],
     "name:ilo_x_preferred":[
+        "Tame"
+    ],
+    "name:ind_x_preferred":[
         "Tame"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +70,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e2\u10d0\u10db\u10d4"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uba54"
     ],
     "name:msa_x_preferred":[
         "Tame"
@@ -79,6 +100,15 @@
     ],
     "name:tgl_x_preferred":[
         "Tame"
+    ],
+    "name:tur_x_preferred":[
+        "Tame"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043c\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u06cc\u0645"
     ],
     "name:vie_x_preferred":[
         "Tame"
@@ -232,7 +262,7 @@
         }
     ],
     "wof:id":421168633,
-    "wof:lastmodified":1566707924,
+    "wof:lastmodified":1636506857,
     "wof:name":"Tame",
     "wof:parent_id":421181799,
     "wof:placetype":"locality",

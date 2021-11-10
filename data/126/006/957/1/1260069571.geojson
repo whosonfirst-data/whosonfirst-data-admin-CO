@@ -66,6 +66,9 @@
     "name:fra_x_preferred":[
         "Sion"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u0940\u0911\u0928"
+    ],
     "name:hun_x_preferred":[
         "Sion"
     ],
@@ -126,7 +129,7 @@
         "gn:id":8623403
     },
     "wof:country":"CO",
-    "wof:geomhash":"ffd3b45fb47fb3c89257193c7dddf8db",
+    "wof:geomhash":"f9c9d17badd749500e19dd9b34be944b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1260069571,
-    "wof:lastmodified":1566707384,
+    "wof:lastmodified":1636506747,
     "wof:name":"Sion",
     "wof:parent_id":1108700465,
     "wof:placetype":"locality",
@@ -147,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.33903000000002,
+    -76.33903,
     2.76601,
-    -76.33903000000002,
+    -76.33903,
     2.76601
 ],
-  "geometry": {"coordinates":[-76.33903000000002,2.76601],"type":"Point"}
+  "geometry": {"coordinates":[-76.33902999999999,2.76601],"type":"Point"}
 }

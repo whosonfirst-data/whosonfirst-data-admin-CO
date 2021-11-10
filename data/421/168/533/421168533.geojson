@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Pamplona"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09ae\u09aa\u09cd\u09b2\u09cb\u09a8\u09be"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u043c\u043f\u043b\u043e\u043d\u0430"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Pamplona"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bc\u03c0\u03bb\u03cc\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pamplona"
@@ -47,6 +53,18 @@
     "name:gla_x_preferred":[
         "Pamplona"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05de\u05e4\u05dc\u05d5\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0902\u092a\u0932\u094b\u0928\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Pamplona"
+    ],
+    "name:ind_x_preferred":[
+        "Pamplona"
+    ],
     "name:ita_x_preferred":[
         "Pamplona"
     ],
@@ -55,6 +73,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10db\u10de\u10da\u10dd\u10dc\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud31c\ud50c\ub85c\ub098"
     ],
     "name:lit_x_preferred":[
         "Pamplona"
@@ -87,6 +108,15 @@
         "Pamplona"
     ],
     "name:tgl_x_preferred":[
+        "Pamplona"
+    ],
+    "name:tur_x_preferred":[
+        "Pamplona"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0645\u067e\u0644\u0648\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Pamplona"
     ],
     "name:war_x_preferred":[
@@ -233,7 +263,7 @@
         }
     ],
     "wof:id":421168533,
-    "wof:lastmodified":1566707924,
+    "wof:lastmodified":1636506857,
     "wof:name":"Pamplona",
     "wof:parent_id":421172459,
     "wof:placetype":"locality",

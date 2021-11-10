@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Ayapel"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09df\u09be\u09aa\u09c7\u09b2"
+    ],
     "name:ceb_x_preferred":[
         "Ayapel"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:deu_x_preferred":[
         "Ayapel"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03b9\u03b1\u03c0\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ayapel"
@@ -41,11 +47,29 @@
     "name:fra_x_preferred":[
         "Ayapel"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05e4\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u092f\u093e\u092a\u0947\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Ayapel"
+    ],
+    "name:ind_x_preferred":[
+        "Ayapel"
+    ],
     "name:ita_x_preferred":[
         "Ayapel"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e4\u30da\u30eb"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10d0\u10de\u10d4\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc57c\ud3a0"
     ],
     "name:msa_x_preferred":[
         "Ayapel"
@@ -67,6 +91,15 @@
     ],
     "name:tgl_x_preferred":[
         "Ayapel"
+    ],
+    "name:tur_x_preferred":[
+        "Ayapel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0439\u044f\u043f\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u06cc\u0627\u067e\u06cc\u0644"
     ],
     "name:vie_x_preferred":[
         "Ayapel"
@@ -219,7 +252,7 @@
         }
     ],
     "wof:id":421172791,
-    "wof:lastmodified":1566707989,
+    "wof:lastmodified":1636506867,
     "wof:name":"Ayapel",
     "wof:parent_id":421203439,
     "wof:placetype":"locality",

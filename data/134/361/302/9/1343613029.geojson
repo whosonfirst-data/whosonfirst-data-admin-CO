@@ -63,6 +63,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0430\u043b\u0435\u0440\u043c\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09c7\u09b0\u09ae\u09cb"
+    ],
     "name:bos_x_preferred":[
         "Palermo"
     ],
@@ -399,7 +402,7 @@
         "gn:id":3781535
     },
     "wof:country":"CO",
-    "wof:geomhash":"b61233726cbd415f45a3d8d28419532f",
+    "wof:geomhash":"1a23515205b545d70b5f7fda2b91bc44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -410,7 +413,7 @@
         }
     ],
     "wof:id":1343613029,
-    "wof:lastmodified":1566706415,
+    "wof:lastmodified":1636506496,
     "wof:name":"Palermo",
     "wof:parent_id":421184113,
     "wof:placetype":"locality",
@@ -420,10 +423,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.62971999999998,
+    -75.62972,
     5.19556,
-    -75.62971999999998,
+    -75.62972,
     5.19556
 ],
-  "geometry": {"coordinates":[-75.62971999999998,5.19556],"type":"Point"}
+  "geometry": {"coordinates":[-75.62972000000001,5.19556],"type":"Point"}
 }

@@ -34,14 +34,32 @@
     "name:ceb_x_preferred":[
         "Atrato"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03c1\u03ac\u03c4\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0631\u0627\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
         "El Atrato"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05e8\u05d0\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Atrato"
+    ],
+    "name:ind_x_preferred":[
+        "Atrato"
     ],
     "name:ita_x_preferred":[
         "Atrato"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10e2\u10e0\u10d0\u10e2\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud2b8\ub77c\ud1a0"
     ],
     "name:msa_x_preferred":[
         "Atrato"
@@ -61,10 +79,19 @@
     "name:tgl_x_preferred":[
         "Atrato"
     ],
+    "name:tur_x_preferred":[
+        "Atrato"
+    ],
     "name:und_x_variant":[
         "Hacienda Atrato"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0679\u0631\u0627\u0679\u0648"
+    ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Atrato"
+    ],
+    "name:vie_x_variant":[
         "Atrato"
     ],
     "name:war_x_preferred":[
@@ -90,7 +117,7 @@
         }
     ],
     "wof:id":1209666549,
-    "wof:lastmodified":1566707152,
+    "wof:lastmodified":1636506683,
     "wof:name":"Atrato",
     "wof:parent_id":85632519,
     "wof:placetype":"locality",

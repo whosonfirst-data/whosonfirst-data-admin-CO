@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Cordill\u00e8re"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d3\u05d9\u05dc\u05e8\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Kordiller\u00e1k"
     ],
@@ -70,7 +73,7 @@
         "gn:id":3679403
     },
     "wof:country":"CO",
-    "wof:geomhash":"082e358a15c0e25b881adc5c953cfc72",
+    "wof:geomhash":"76ae6fae06ddd094fbcb59ccac4a3651",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226350751,
-    "wof:lastmodified":1566708560,
+    "wof:lastmodified":1636507001,
     "wof:name":"Cordillera",
     "wof:parent_id":1108699933,
     "wof:placetype":"locality",
@@ -91,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.92083000000002,
+    -75.92083,
     6.83222,
-    -75.92083000000002,
+    -75.92083,
     6.83222
 ],
-  "geometry": {"coordinates":[-75.92083000000002,6.83222],"type":"Point"}
+  "geometry": {"coordinates":[-75.92083,6.83222],"type":"Point"}
 }

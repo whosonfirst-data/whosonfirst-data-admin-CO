@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Los Andes"
     ],
+    "name:hun_x_preferred":[
+        "Los Andes"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0578\u057d \u0531\u0576\u0564\u0565\u057d"
     ],
@@ -75,7 +78,7 @@
         "gn:id":7523162
     },
     "wof:country":"CO",
-    "wof:geomhash":"6cb49d17672aafe0103bbc51a5c68702",
+    "wof:geomhash":"f574be2c8ee589f46653688ccc4ce87b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1293926649,
-    "wof:lastmodified":1566706684,
+    "wof:lastmodified":1636506561,
     "wof:name":"Los Andes",
     "wof:parent_id":1108700401,
     "wof:placetype":"locality",
@@ -96,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.83209000000002,
+    -74.83209,
     5.40671,
-    -74.83209000000002,
+    -74.83209,
     5.40671
 ],
-  "geometry": {"coordinates":[-74.83209000000002,5.40671],"type":"Point"}
+  "geometry": {"coordinates":[-74.83208999999999,5.40671],"type":"Point"}
 }

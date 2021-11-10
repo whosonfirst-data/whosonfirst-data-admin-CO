@@ -76,7 +76,13 @@
         "Pita"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e4\u05d9\u05ea\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Pita"
     ],
     "name:hye_x_preferred":[
         "\u054a\u056b\u057f\u0561"
@@ -162,7 +168,7 @@
         "gn:id":3672134
     },
     "wof:country":"CO",
-    "wof:geomhash":"6606b240e77ef3642891c8d0cbc03dd9",
+    "wof:geomhash":"50777189393ad761019775345d0e0eaf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1243535921,
-    "wof:lastmodified":1566708097,
+    "wof:lastmodified":1636506886,
     "wof:name":"Pita",
     "wof:parent_id":421186431,
     "wof:placetype":"locality",
@@ -183,10 +189,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.48333000000002,
+    -75.48333,
     2.25,
-    -75.48333000000002,
+    -75.48333,
     2.25
 ],
-  "geometry": {"coordinates":[-75.48333000000002,2.25],"type":"Point"}
+  "geometry": {"coordinates":[-75.48333,2.25],"type":"Point"}
 }

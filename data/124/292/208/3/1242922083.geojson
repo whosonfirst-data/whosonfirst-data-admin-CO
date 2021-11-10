@@ -121,6 +121,9 @@
         "Oran"
     ],
     "name:hun_x_preferred":[
+        "Oran"
+    ],
+    "name:hun_x_variant":[
         "Or\u00e1n"
     ],
     "name:ind_x_preferred":[
@@ -270,7 +273,7 @@
         "gn:id":3673576
     },
     "wof:country":"CO",
-    "wof:geomhash":"3d303110adc705985b9eb486107621f6",
+    "wof:geomhash":"5a0a331015be7568ed7c187482593276",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -281,7 +284,7 @@
         }
     ],
     "wof:id":1242922083,
-    "wof:lastmodified":1566708142,
+    "wof:lastmodified":1636506898,
     "wof:name":"Oran",
     "wof:parent_id":421170621,
     "wof:placetype":"locality",
@@ -291,10 +294,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.01666999999998,
+    -74.01667,
     5.01667,
-    -74.01666999999998,
+    -74.01667,
     5.01667
 ],
-  "geometry": {"coordinates":[-74.01666999999998,5.01667],"type":"Point"}
+  "geometry": {"coordinates":[-74.01667,5.01667],"type":"Point"}
 }

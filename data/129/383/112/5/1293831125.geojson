@@ -85,6 +85,9 @@
         "\u0413\u043e\u043b\u0443\u0431\u043a\u0430"
     ],
     "name:vie_x_preferred":[
+        "La Paloma"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
     "src:geom":"geonames",
@@ -99,7 +102,7 @@
         "gn:id":3678220
     },
     "wof:country":"CO",
-    "wof:geomhash":"78112005c5271e159dbddfb6cd9e0991",
+    "wof:geomhash":"29e25a53086c72574bc138004ac2abec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1293831125,
-    "wof:lastmodified":1566706638,
+    "wof:lastmodified":1636506548,
     "wof:name":"La Paloma",
     "wof:parent_id":421170271,
     "wof:placetype":"locality",
@@ -120,10 +123,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.51666999999998,
+    -75.51667,
     4.45,
-    -75.51666999999998,
+    -75.51667,
     4.45
 ],
-  "geometry": {"coordinates":[-75.51666999999998,4.45],"type":"Point"}
+  "geometry": {"coordinates":[-75.51667,4.45],"type":"Point"}
 }

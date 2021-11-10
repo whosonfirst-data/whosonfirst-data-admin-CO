@@ -64,6 +64,9 @@
         "San Gabriel"
     ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0430\u0431\u0440\u0438\u044d\u043b\u044c"
+    ],
+    "name:rus_x_variant":[
         "\u0421\u0430\u043d-\u0413\u0435\u0439\u0431\u0440\u0438\u0435\u043b"
     ],
     "name:sco_x_preferred":[
@@ -76,6 +79,18 @@
         "San Gabriel"
     ],
     "name:swe_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:tur_x_preferred":[
+        "San Gabriel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0413\u0430\u0431\u0440\u0456\u0435\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646 \u06af\u0628\u0631\u0627\u0626\u0644"
+    ],
+    "name:vie_x_preferred":[
         "San Gabriel"
     ],
     "name:war_x_preferred":[
@@ -93,7 +108,7 @@
         "gn:id":3776003
     },
     "wof:country":"CO",
-    "wof:geomhash":"a61dbb79caf603155c2a500c4d31c5dc",
+    "wof:geomhash":"d2c9abb854da4476470e03e94fc1e1dc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":1326475127,
-    "wof:lastmodified":1566706196,
+    "wof:lastmodified":1636506447,
     "wof:name":"San Gabriel",
     "wof:parent_id":421184105,
     "wof:placetype":"locality",
@@ -114,10 +129,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.83809000000002,
+    -74.83809,
     9.14461,
-    -74.83809000000002,
+    -74.83809,
     9.14461
 ],
-  "geometry": {"coordinates":[-74.83809000000002,9.14461],"type":"Point"}
+  "geometry": {"coordinates":[-74.83808999999999,9.14461],"type":"Point"}
 }

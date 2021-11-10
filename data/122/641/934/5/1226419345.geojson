@@ -63,6 +63,9 @@
     "name:hin_x_preferred":[
         "\u0932\u093e \u092f\u0941\u0928\u093f\u092f\u094b\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "La Union"
+    ],
     "name:ilo_x_preferred":[
         "La Union"
     ],
@@ -147,7 +150,7 @@
         "gn:id":3676913
     },
     "wof:country":"CO",
-    "wof:geomhash":"e43a02c98d283c593c904a285bf0e84b",
+    "wof:geomhash":"a546caa6a756bb5a52dadd8b8a4c0566",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":1226419345,
-    "wof:lastmodified":1566708641,
+    "wof:lastmodified":1636507025,
     "wof:name":"La Union",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",
@@ -168,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.66389000000002,
+    -75.66389,
     8.78139,
-    -75.66389000000002,
+    -75.66389,
     8.78139
 ],
-  "geometry": {"coordinates":[-75.66389000000002,8.78139],"type":"Point"}
+  "geometry": {"coordinates":[-75.66388999999999,8.78139],"type":"Point"}
 }

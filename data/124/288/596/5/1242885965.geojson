@@ -33,11 +33,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u062f\u064a\u0629 \u0643\u0631\u064a\u0633\u062a\u0627\u0644\u064a\u0646\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09b2\u09bf\u09a8\u09be"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09b0\u09bf\u09b8\u099f\u09be\u09b2\u09bf\u09a8\u09be"
     ],
     "name:deu_x_preferred":[
         "Cristalina"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03b9\u03c3\u03c4\u03b1\u03bb\u03af\u03bd\u03b1"
     ],
     "name:eml_x_preferred":[
         "Cristalina"
@@ -48,20 +54,38 @@
     "name:eus_x_preferred":[
         "Cristalina"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644\u06cc\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Cristalina"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e8\u05d9\u05e1\u05d8\u05dc\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093f\u0938\u094d\u091f\u0932\u093f\u0928\u093e"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0580\u056b\u057d\u057f\u0561\u056c\u056b\u0576\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Cristalina"
+    ],
     "name:ita_x_preferred":[
         "Cristalina"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ea\u30b9\u30bf\u30ea\u30ca"
     ],
     "name:kat_x_preferred":[
         "\u10d9\u10e0\u10d8\u10e1\u10e2\u10d0\u10da\u10d8\u10dc\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0440\u0438\u0441\u0442\u0430\u043b\u0438\u043d\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub9ac\uc2a4\ud0c8\ub9ac\ub098"
     ],
     "name:mlg_x_preferred":[
         "Cristalina"
@@ -70,6 +94,9 @@
         "Cristalina"
     ],
     "name:nor_x_preferred":[
+        "Cristalina"
+    ],
+    "name:pol_x_preferred":[
         "Cristalina"
     ],
     "name:por_x_preferred":[
@@ -83,6 +110,18 @@
     ],
     "name:spa_x_preferred":[
         "Cristalina"
+    ],
+    "name:swe_x_preferred":[
+        "Cristalina"
+    ],
+    "name:tur_x_preferred":[
+        "Cristalina"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0456\u0441\u0442\u0430\u043b\u0456\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0633\u0679\u0627\u0644\u06cc\u0646\u0627"
     ],
     "name:vie_x_preferred":[
         "Cristalina"
@@ -108,7 +147,7 @@
         "gn:id":3770181
     },
     "wof:country":"CO",
-    "wof:geomhash":"5d088bc1d58321c7856e75739dd6aeca",
+    "wof:geomhash":"5045d77f54ab9f445d1cbe7a0a41064d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +158,7 @@
         }
     ],
     "wof:id":1242885965,
-    "wof:lastmodified":1566708123,
+    "wof:lastmodified":1636506894,
     "wof:name":"Cristalina",
     "wof:parent_id":1108700005,
     "wof:placetype":"locality",
@@ -129,10 +168,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.96110999999998,
+    -74.96111,
     6.11,
-    -74.96110999999998,
+    -74.96111,
     6.11
 ],
-  "geometry": {"coordinates":[-74.96110999999998,6.11],"type":"Point"}
+  "geometry": {"coordinates":[-74.96111000000001,6.11],"type":"Point"}
 }

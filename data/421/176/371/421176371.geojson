@@ -23,11 +23,17 @@
     "name:ast_x_preferred":[
         "Sabanalarga"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09ac\u09be\u09a8\u09be\u09b2\u09be\u09b0\u09cd\u0997\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Sabanalarga"
     ],
     "name:deu_x_preferred":[
         "Sabanalarga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03bb\u03b1\u03c1\u03b3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sabanalarga"
@@ -38,11 +44,26 @@
     "name:fra_x_preferred":[
         "Sabanalarga"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d1\u05d0\u05e0\u05dc\u05d0\u05e8\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u092c\u093e\u0928\u093e\u0932\u093e\u0930\u094d\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Sabanalarga"
+    ],
+    "name:ind_x_preferred":[
+        "Sabanalarga"
+    ],
     "name:ita_x_preferred":[
         "Sabanalarga"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10d1\u10d0\u10dc\u10d0\u10da\u10d0\u10e0\u10d2\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ubc14\ub0a0\ub77c\ub974\uac00"
     ],
     "name:lit_x_preferred":[
         "Sabanalarga"
@@ -67,6 +88,12 @@
     ],
     "name:tgl_x_preferred":[
         "Sabanalarga"
+    ],
+    "name:tur_x_preferred":[
+        "Sabanalarga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043d\u0430\u043b\u0430\u0440\u0433\u0430"
     ],
     "name:und_x_variant":[
         "Sabanalargo"
@@ -225,7 +252,7 @@
         }
     ],
     "wof:id":421176371,
-    "wof:lastmodified":1566708059,
+    "wof:lastmodified":1636506879,
     "wof:name":"Sabanalarga",
     "wof:parent_id":1108700079,
     "wof:placetype":"locality",

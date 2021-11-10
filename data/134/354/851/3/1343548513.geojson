@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Carmelo"
     ],
+    "name:hun_x_preferred":[
+        "Carmelo"
+    ],
     "name:ita_x_preferred":[
         "Carmelo"
     ],
@@ -60,7 +63,7 @@
         "gn:id":3687334
     },
     "wof:country":"CO",
-    "wof:geomhash":"3e6e0b86e4e08bef0a81a90be320b4ee",
+    "wof:geomhash":"7b8ea0d98facaa5699e3ea111ea7256d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1343548513,
-    "wof:lastmodified":1566706308,
+    "wof:lastmodified":1636506472,
     "wof:name":"Carmelo",
     "wof:parent_id":421205093,
     "wof:placetype":"locality",
@@ -81,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.37234000000002,
+    -76.37234,
     5.3201,
-    -76.37234000000002,
+    -76.37234,
     5.3201
 ],
-  "geometry": {"coordinates":[-76.37234000000002,5.3201],"type":"Point"}
+  "geometry": {"coordinates":[-76.37233999999999,5.3201],"type":"Point"}
 }

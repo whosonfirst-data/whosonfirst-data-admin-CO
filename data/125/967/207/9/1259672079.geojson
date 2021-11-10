@@ -249,6 +249,9 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0456\u043d\u043e\u043a\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u06cc\u0646\u0648\u06a9\u0648"
+    ],
     "name:uzb_x_preferred":[
         "Orinoko"
     ],
@@ -273,7 +276,7 @@
         "gn:id":3775600
     },
     "wof:country":"CO",
-    "wof:geomhash":"bd1b2c8c1863d07347c8a87bc1bed49a",
+    "wof:geomhash":"33dd6c8f141f70b8a55c95bd7f502668",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -284,7 +287,7 @@
         }
     ],
     "wof:id":1259672079,
-    "wof:lastmodified":1566708418,
+    "wof:lastmodified":1636506964,
     "wof:name":"Orinoco",
     "wof:parent_id":1108700527,
     "wof:placetype":"locality",
@@ -294,10 +297,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.06943000000003,
+    -74.06943,
     9.47611,
-    -74.06943000000003,
+    -74.06943,
     9.47611
 ],
-  "geometry": {"coordinates":[-74.06943000000003,9.47611],"type":"Point"}
+  "geometry": {"coordinates":[-74.06943,9.47611],"type":"Point"}
 }

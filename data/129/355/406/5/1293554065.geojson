@@ -48,6 +48,9 @@
     "name:glg_x_preferred":[
         "San Mateo"
     ],
+    "name:hun_x_preferred":[
+        "San Mateo"
+    ],
     "name:ilo_x_preferred":[
         "San Mateo"
     ],
@@ -111,7 +114,7 @@
         "gn:id":3669313
     },
     "wof:country":"CO",
-    "wof:geomhash":"e20d65f5dcddc5ff82ace33b446037e6",
+    "wof:geomhash":"e97cfec0008204e110f0160553bfe4f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1293554065,
-    "wof:lastmodified":1566706608,
+    "wof:lastmodified":1636506540,
     "wof:name":"San Mateo",
     "wof:parent_id":1108701055,
     "wof:placetype":"locality",
@@ -132,10 +135,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -77.48364000000002,
+    -77.48364,
     0.91983,
-    -77.48364000000002,
+    -77.48364,
     0.91983
 ],
-  "geometry": {"coordinates":[-77.48364000000002,0.91983],"type":"Point"}
+  "geometry": {"coordinates":[-77.48363999999999,0.91983],"type":"Point"}
 }

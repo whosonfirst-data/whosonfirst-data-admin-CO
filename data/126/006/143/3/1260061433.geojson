@@ -57,6 +57,12 @@
     "name:grn_x_preferred":[
         "Filadelfia"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05dc\u05d3\u05dc\u05e4\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Filadelfia"
+    ],
     "name:ita_x_preferred":[
         "Filadelfia"
     ],
@@ -117,7 +123,7 @@
         "gn:id":3792688
     },
     "wof:country":"CO",
-    "wof:geomhash":"985aa07053e65bd6d865f7ae8ac5d6d5",
+    "wof:geomhash":"d56bb2426b96b9bfd227bdfb23c01c46",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +134,7 @@
         }
     ],
     "wof:id":1260061433,
-    "wof:lastmodified":1566707384,
+    "wof:lastmodified":1636506746,
     "wof:name":"Filadelfia",
     "wof:parent_id":421186431,
     "wof:placetype":"locality",
@@ -138,10 +144,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.63353000000002,
+    -75.63353,
     2.13939,
-    -75.63353000000002,
+    -75.63353,
     2.13939
 ],
-  "geometry": {"coordinates":[-75.63353000000002,2.13939],"type":"Point"}
+  "geometry": {"coordinates":[-75.63352999999999,2.13939],"type":"Point"}
 }

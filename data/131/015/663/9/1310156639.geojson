@@ -30,7 +30,67 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0641\u064a\u0644\u0627 \u0645\u0627\u0631\u062a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09b2\u09be \u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03af\u03bb\u03b1 \u039c\u03ac\u03c1\u03c4\u03b9\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627 \u0645\u0627\u0631\u062a\u06cc\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d9\u05dc\u05d4 \u05de\u05e8\u05d8\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0935\u093f\u0932\u093e \u092e\u093e\u0930\u094d\u091f\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:ind_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30b8\u30e3\u30de\u30eb\u30c6\u30a3\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ube4c\ub77c \ub9c8\ud2f4"
+    ],
+    "name:nld_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:pol_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:por_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f-\u041c\u0430\u0440\u0442\u0438\u043d"
+    ],
     "name:spa_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:tur_x_preferred":[
+        "Villa Martin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043b\u043b\u0430-\u041c\u0430\u0440\u0442\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0644\u0627 \u0645\u0627\u0631\u0679\u0646"
+    ],
+    "name:vie_x_preferred":[
         "Villa Martin"
     ],
     "src:geom":"geonames",
@@ -45,7 +105,7 @@
         "gn:id":7523290
     },
     "wof:country":"CO",
-    "wof:geomhash":"4b616c50799a29c8bcdc0c5a90531b7c",
+    "wof:geomhash":"d96cfd51753d6c5e4b1804d75fd563c7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,7 +116,7 @@
         }
     ],
     "wof:id":1310156639,
-    "wof:lastmodified":1566707611,
+    "wof:lastmodified":1636506776,
     "wof:name":"Villa Martin",
     "wof:parent_id":421181783,
     "wof:placetype":"locality",
@@ -66,10 +126,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.93066999999998,
+    -74.93067,
     5.21747,
-    -74.93066999999998,
+    -74.93067,
     5.21747
 ],
-  "geometry": {"coordinates":[-74.93066999999998,5.21747],"type":"Point"}
+  "geometry": {"coordinates":[-74.93067000000001,5.21747],"type":"Point"}
 }

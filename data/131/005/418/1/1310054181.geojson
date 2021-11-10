@@ -57,6 +57,9 @@
     "name:glg_x_preferred":[
         "Altamira"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d8\u05de\u05d9\u05e8\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u057f\u0561\u0574\u056b\u0580\u0561"
     ],
@@ -126,7 +129,7 @@
         "gn:id":3776082
     },
     "wof:country":"CO",
-    "wof:geomhash":"bad046b8db54480c3680f7cf74bdd519",
+    "wof:geomhash":"f1357dc411362cb253ec6a3dea48ff6b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1310054181,
-    "wof:lastmodified":1566707759,
+    "wof:lastmodified":1636506817,
     "wof:name":"Altamira",
     "wof:parent_id":1108700711,
     "wof:placetype":"locality",
@@ -147,10 +150,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.88278000000003,
+    -73.88278,
     5.50083,
-    -73.88278000000003,
+    -73.88278,
     5.50083
 ],
-  "geometry": {"coordinates":[-73.88278000000003,5.50083],"type":"Point"}
+  "geometry": {"coordinates":[-73.88278,5.50083],"type":"Point"}
 }
