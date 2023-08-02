@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Leticia"
+    ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u062a\u064a\u0633\u064a\u0627"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:aze_x_preferred":[
         "Letisiya"
+    ],
+    "name:bel_x_preferred":[
+        "\u041b\u0435\u0442\u044b\u0441\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09c7\u099f\u09bf\u09b8\u09bf\u09af\u09bc\u09be"
@@ -98,6 +104,9 @@
         "Leticia"
     ],
     "name:gla_x_preferred":[
+        "Leticia"
+    ],
+    "name:gle_x_preferred":[
         "Leticia"
     ],
     "name:glg_x_preferred":[
@@ -247,6 +256,9 @@
     "name:war_x_preferred":[
         "Leticia"
     ],
+    "name:wuu_x_preferred":[
+        "\u83b1\u8482\u897f\u4e9a"
+    ],
     "name:yid_x_preferred":[
         "\u05dc\u05e2\u05d8\u05d9\u05e1\u05d9\u05e2"
     ],
@@ -319,7 +331,7 @@
         }
     ],
     "wof:id":421202275,
-    "wof:lastmodified":1636506863,
+    "wof:lastmodified":1690868158,
     "wof:name":"Leticia",
     "wof:parent_id":85670123,
     "wof:placetype":"county",

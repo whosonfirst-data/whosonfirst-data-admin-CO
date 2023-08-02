@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "Florensiya"
     ],
+    "name:bel_x_preferred":[
+        "\u0424\u043b\u0430\u0440\u044d\u043d\u0441\u0456\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09ab\u09cd\u09b2\u09cb\u09b0\u09c7\u09a8\u09cd\u09b8\u09bf\u09af\u09bc\u09be"
     ],
@@ -71,6 +74,9 @@
     "name:gla_x_preferred":[
         "Florencia"
     ],
+    "name:gle_x_preferred":[
+        "Florencia"
+    ],
     "name:glg_x_preferred":[
         "Florencia"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:hun_x_preferred":[
         "Florencia"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0578\u0580\u0565\u0576\u0581\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Florencia"
@@ -124,6 +133,9 @@
     ],
     "name:nob_x_preferred":[
         "Florencia"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u0435\u043d\u0441\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0627"
@@ -185,6 +197,9 @@
     "name:urd_x_variant":[
         "\u0641\u0644\u0648\u0631\u0646\u0633\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Florencia"
+    ],
     "name:vie_x_preferred":[
         "Florencia"
     ],
@@ -193,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Florencia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5f17\u6d1b\u4f26\u897f\u4e9a"
     ],
     "name:yor_x_preferred":[
         "Florencia"
@@ -349,7 +367,7 @@
         }
     ],
     "wof:id":421186693,
-    "wof:lastmodified":1582393667,
+    "wof:lastmodified":1690868231,
     "wof:name":"Florencia",
     "wof:parent_id":421170599,
     "wof:placetype":"locality",

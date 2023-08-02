@@ -22,8 +22,14 @@
     "name:ast_x_preferred":[
         "Paez"
     ],
+    "name:avk_x_preferred":[
+        "P\u00e1ez"
+    ],
     "name:ceb_x_preferred":[
         "Belalcazar"
+    ],
+    "name:ceb_x_variant":[
+        "P\u00e1ez"
     ],
     "name:deu_x_preferred":[
         "P\u00e1ez"
@@ -35,6 +41,12 @@
         "\u067e\u0627\u0626\u0633"
     ],
     "name:fra_x_preferred":[
+        "P\u00e1ez"
+    ],
+    "name:gle_x_preferred":[
+        "P\u00e1ez"
+    ],
+    "name:glg_x_preferred":[
         "P\u00e1ez"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +67,9 @@
     "name:por_x_preferred":[
         "P\u00e1ez"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u044d\u0441"
+    ],
     "name:spa_x_preferred":[
         "P\u00e1ez"
     ],
@@ -65,6 +80,9 @@
     ],
     "name:swe_x_preferred":[
         "Belalcazar"
+    ],
+    "name:swe_x_variant":[
+        "P\u00e1ez"
     ],
     "name:tgl_x_preferred":[
         "P\u00e1ez"
@@ -111,7 +129,7 @@
         }
     ],
     "wof:id":890420241,
-    "wof:lastmodified":1566708076,
+    "wof:lastmodified":1690868410,
     "wof:name":"Belalcazar",
     "wof:parent_id":1108700483,
     "wof:placetype":"locality",

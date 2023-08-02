@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Usaqu\u00e9n"
+    ],
     "name:deu_x_preferred":[
         "Usaqu\u00e9n"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:epo_x_preferred":[
         "Usaqu\u00e9n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0633\u0627\u06a9\u0646"
     ],
     "name:fra_x_preferred":[
         "Usaqu\u00e9n"
@@ -58,6 +64,9 @@
     ],
     "name:und_x_variant":[
         "Saque"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u8428\u594e"
     ],
     "qs:gn_country":"CO",
     "qs:gn_fcode":"PPL",
@@ -105,7 +114,7 @@
         }
     ],
     "wof:id":421189823,
-    "wof:lastmodified":1566707980,
+    "wof:lastmodified":1690868208,
     "wof:name":"Usaqu\u00e9n",
     "wof:parent_id":421203817,
     "wof:placetype":"locality",

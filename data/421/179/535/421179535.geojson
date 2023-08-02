@@ -20,6 +20,12 @@
     "name:ast_x_preferred":[
         "Chaparral"
     ],
+    "name:avk_x_preferred":[
+        "Chaparral"
+    ],
+    "name:cat_x_preferred":[
+        "Chaparral"
+    ],
     "name:ceb_x_preferred":[
         "Chaparral"
     ],
@@ -36,6 +42,9 @@
         "Chaparral"
     ],
     "name:gla_x_preferred":[
+        "Chaparral"
+    ],
+    "name:gle_x_preferred":[
         "Chaparral"
     ],
     "name:ita_x_preferred":[
@@ -56,6 +65,9 @@
     "name:nld_x_preferred":[
         "Chaparral"
     ],
+    "name:pol_x_preferred":[
+        "Chaparral"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043f\u0430\u0440\u0440\u0430\u043b\u044c"
     ],
@@ -64,6 +76,9 @@
     ],
     "name:swe_x_preferred":[
         "Chaparral"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043f\u0430\u0440\u0430\u043b\u044c"
     ],
     "name:vie_x_preferred":[
         "Chaparral"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421179535,
-    "wof:lastmodified":1566708046,
+    "wof:lastmodified":1690868332,
     "wof:name":"Chaparral",
     "wof:parent_id":421185185,
     "wof:placetype":"locality",

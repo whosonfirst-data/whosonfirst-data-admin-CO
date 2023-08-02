@@ -17,16 +17,28 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062c\u0627\u064a\u0627"
+    ],
     "name:ast_x_preferred":[
         "Bojay\u00e1"
     ],
     "name:ceb_x_preferred":[
         "Bellavista"
     ],
+    "name:ceb_x_variant":[
+        "Bojaya"
+    ],
     "name:eng_x_preferred":[
         "Bojay\u00e1"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062e\u0627\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Bojay\u00e1"
+    ],
+    "name:gle_x_preferred":[
         "Bojay\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +59,9 @@
     "name:por_x_preferred":[
         "Bojay\u00e1"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0445\u0430\u044f"
+    ],
     "name:sco_x_preferred":[
         "Bojay\u00e1"
     ],
@@ -55,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Bellavista"
+    ],
+    "name:swe_x_variant":[
+        "Bojaya"
     ],
     "name:tgl_x_preferred":[
         "Bojay\u00e1"
@@ -121,7 +139,7 @@
         }
     ],
     "wof:id":421172327,
-    "wof:lastmodified":1636506867,
+    "wof:lastmodified":1690868227,
     "wof:name":"Bella Vista",
     "wof:parent_id":1108700751,
     "wof:placetype":"locality",

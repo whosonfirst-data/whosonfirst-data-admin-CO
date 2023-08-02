@@ -20,14 +20,26 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Pereira"
+    ],
     "name:ara_x_preferred":[
+        "\u0628\u064a\u0631\u064a\u0631\u0627"
+    ],
+    "name:arz_x_preferred":[
         "\u0628\u064a\u0631\u064a\u0631\u0627"
     ],
     "name:ast_x_preferred":[
         "Pereira"
     ],
+    "name:avk_x_preferred":[
+        "Pereira"
+    ],
     "name:aze_x_preferred":[
         "Pereyra"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0435\u0440\u044d\u0439\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b0\u09c7\u0987\u09b0\u09be"
@@ -77,7 +89,13 @@
     "name:frr_x_preferred":[
         "Pereira"
     ],
+    "name:fry_x_preferred":[
+        "Pereira"
+    ],
     "name:gla_x_preferred":[
+        "Pereira"
+    ],
+    "name:gle_x_preferred":[
         "Pereira"
     ],
     "name:glg_x_preferred":[
@@ -173,6 +191,9 @@
     "name:spa_x_preferred":[
         "Pereira"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u0440\u0435\u0438\u0440\u0430"
+    ],
     "name:swe_x_preferred":[
         "Pereira"
     ],
@@ -209,6 +230,9 @@
     "name:urd_x_variant":[
         "\u067e\u0631\u06cc\u0631\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Pereira"
+    ],
     "name:vep_x_preferred":[
         "Pereir"
     ],
@@ -220,6 +244,9 @@
     ],
     "name:war_x_preferred":[
         "Pereira"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f69\u96f7\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u96f7\u62c9"
@@ -275,7 +302,7 @@
         }
     ],
     "wof:id":421204345,
-    "wof:lastmodified":1566707949,
+    "wof:lastmodified":1690868148,
     "wof:name":"Pereira",
     "wof:parent_id":421187825,
     "wof:placetype":"locality",

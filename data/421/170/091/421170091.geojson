@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Villavicencio"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0641\u064a\u0633\u0646\u0633\u064a\u0648"
     ],
@@ -71,6 +74,12 @@
     "name:gla_x_preferred":[
         "Villavicencio"
     ],
+    "name:gle_x_preferred":[
+        "Villavicencio"
+    ],
+    "name:glg_x_preferred":[
+        "Villavicencio"
+    ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abf\u0ab2\u0abe\u0ab5\u0abf\u0ab8\u0ac7\u0aa8\u0ab8\u0abf\u0aaf\u0acb"
     ],
@@ -82,6 +91,9 @@
     ],
     "name:hun_x_preferred":[
         "Villavicencio"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u056b\u056c\u0561\u057e\u056b\u057d\u0565\u0576\u057d\u056b\u0578"
     ],
     "name:ind_x_preferred":[
         "Villavicencio"
@@ -119,6 +131,9 @@
     "name:nob_x_preferred":[
         "Villavicencio"
     ],
+    "name:oss_x_preferred":[
+        "\u0412\u0438\u043b\u044c\u044f\u0432\u0438\u0441\u0435\u043d\u0441\u0438\u043e"
+    ],
     "name:pnb_x_preferred":[
         "\u0648\u0644\u0627\u0648\u06cc\u06a9\u0646\u0633\u06cc\u0648"
     ],
@@ -127,6 +142,9 @@
     ],
     "name:por_x_preferred":[
         "Villavic\u00eancio"
+    ],
+    "name:por_x_variant":[
+        "Villavicencio"
     ],
     "name:que_x_preferred":[
         "Villavicencio"
@@ -137,6 +155,9 @@
     "name:rus_x_preferred":[
         "\u0412\u0438\u043b\u044c\u044f\u0432\u0438\u0441\u0435\u043d\u0441\u044c\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0412\u0438\u043b\u044c\u044f\u0432\u0438\u0441\u0435\u043d\u0441\u0438\u043e"
+    ],
     "name:sin_x_preferred":[
         "\u0dc0\u0dd2\u0dbd\u0dc0\u0dd2\u0dc3\u0dd9\u0db1\u0dca\u0dc3\u0dd2\u0dba\u0ddd"
     ],
@@ -144,6 +165,9 @@
         "Villavicencio"
     ],
     "name:swe_x_preferred":[
+        "Villavicencio"
+    ],
+    "name:szl_x_preferred":[
         "Villavicencio"
     ],
     "name:tam_x_preferred":[
@@ -173,6 +197,9 @@
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0627\u0628\u06cc\u0633\u06cc\u0646\u0633\u06cc\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Villavicencio"
+    ],
     "name:vie_x_preferred":[
         "Villavicencio"
     ],
@@ -181,6 +208,9 @@
     ],
     "name:war_x_preferred":[
         "Villavicencio"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6bd4\u4e9a\u7ef4\u68ee\u897f\u5965"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u4e9a\u7ef4\u68ee\u897f\u5965"
@@ -229,7 +259,7 @@
         }
     ],
     "wof:id":421170091,
-    "wof:lastmodified":1566708034,
+    "wof:lastmodified":1690868308,
     "wof:name":"Villavicencio",
     "wof:parent_id":421170631,
     "wof:placetype":"locality",

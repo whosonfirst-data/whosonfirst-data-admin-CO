@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-75.2322143979,4.43891379691,-75.2322143979,4.43891379691",
+    "geom:bbox":"-75.232214,4.438914,-75.232214,4.438914",
     "geom:latitude":4.438914,
     "geom:longitude":-75.232214,
     "iso:country":"CO",
@@ -21,7 +21,13 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0628\u0627\u063a\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0628\u0627\u062c\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
+        "Ibagu\u00e9"
+    ],
+    "name:avk_x_preferred":[
         "Ibagu\u00e9"
     ],
     "name:aym_x_preferred":[
@@ -38,6 +44,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0987\u09ad\u09be\u0997\u09c7"
+    ],
+    "name:ben_x_variant":[
+        "\u0987\u09ac\u09be\u0997\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0418\u0431\u0430\u043a\u0435"
@@ -84,6 +93,9 @@
     "name:gla_x_preferred":[
         "Ibagu\u00e9"
     ],
+    "name:gle_x_preferred":[
+        "Ibagu\u00e9"
+    ],
     "name:guj_x_preferred":[
         "\u0a87\u0aac\u0a97\u0ac1\u0a8f"
     ],
@@ -98,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Ibagu\u00e9"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0562\u0561\u0563\u0565"
     ],
     "name:ind_x_preferred":[
         "Ibagu\u00e9"
@@ -128,6 +143,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0907\u092c\u093e\u091c\u094d\u092f\u0941"
+    ],
+    "name:mlg_x_preferred":[
+        "Ibagu\u00e9"
     ],
     "name:msa_x_preferred":[
         "Ibagu\u00e9"
@@ -189,6 +207,12 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0628\u0627\u06af\u06d2"
     ],
+    "name:uzb_x_preferred":[
+        "Ibage"
+    ],
+    "name:vec_x_preferred":[
+        "Ibagu\u00e9"
+    ],
     "name:vie_x_preferred":[
         "Ibagu\u00e9"
     ],
@@ -197,6 +221,9 @@
     ],
     "name:war_x_preferred":[
         "Ibagu\u00e9"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u74e6\u683c"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u74e6\u683c"
@@ -309,7 +336,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130943,
-    "wof:geomhash":"33e8eac9432ac6a1aba2950b7c489bdd",
+    "wof:geomhash":"05a5db2dc8732cd80b3705d3068d284c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -320,7 +347,7 @@
         }
     ],
     "wof:id":1141908623,
-    "wof:lastmodified":1566708719,
+    "wof:lastmodified":1690868432,
     "wof:name":"Ibague",
     "wof:parent_id":421190207,
     "wof:placetype":"locality",
@@ -330,10 +357,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.23221439787449,
-    4.43891379690922,
-    -75.23221439787449,
-    4.43891379690922
+    -75.232214,
+    4.438914,
+    -75.232214,
+    4.438914
 ],
-  "geometry": {"coordinates":[-75.23221439787449,4.43891379690922],"type":"Point"}
+  "geometry": {"coordinates":[-75.232214,4.438914],"type":"Point"}
 }

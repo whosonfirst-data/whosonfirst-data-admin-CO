@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Gal\u00e1n"
     ],
+    "name:avk_x_preferred":[
+        "Gal\u00e1n"
+    ],
     "name:bos_x_preferred":[
         "Gal\u00e1n"
     ],
@@ -35,10 +38,16 @@
     "name:eng_x_preferred":[
         "Gal\u00e1n"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0644\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Cerro Gal\u00e1n"
     ],
     "name:fra_x_variant":[
+        "Gal\u00e1n"
+    ],
+    "name:gle_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -62,11 +71,17 @@
     "name:pol_x_preferred":[
         "Galan"
     ],
+    "name:pol_x_variant":[
+        "Gal\u00e1n"
+    ],
     "name:por_x_preferred":[
         "Gal\u00e1n"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0440\u043e-\u0413\u0430\u043b\u0430\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0413\u0430\u043b\u0430\u043d"
     ],
     "name:spa_x_preferred":[
         "Cerro Gal\u00e1n"
@@ -79,6 +94,9 @@
     ],
     "name:tgl_x_preferred":[
         "Galan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0430\u043b\u0430\u043d"
     ],
     "name:vie_x_preferred":[
         "Gal\u00e1n"
@@ -136,7 +154,7 @@
         }
     ],
     "wof:id":421180649,
-    "wof:lastmodified":1566707969,
+    "wof:lastmodified":1690868183,
     "wof:name":"Gal\u00e1n",
     "wof:parent_id":1108701255,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Chivor"
     ],
+    "name:avk_x_preferred":[
+        "Chivor"
+    ],
     "name:cat_x_preferred":[
         "Chivor"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Chivor"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0648\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
+        "Chivor"
+    ],
+    "name:gle_x_preferred":[
         "Chivor"
     ],
     "name:glg_x_preferred":[
@@ -48,6 +57,9 @@
         "Chivor"
     ],
     "name:nld_x_preferred":[
+        "Chivor"
+    ],
+    "name:pol_x_preferred":[
         "Chivor"
     ],
     "name:por_x_preferred":[
@@ -124,7 +136,7 @@
         }
     ],
     "wof:id":421172329,
-    "wof:lastmodified":1566707992,
+    "wof:lastmodified":1690868228,
     "wof:name":"Chivor",
     "wof:parent_id":421186373,
     "wof:placetype":"locality",

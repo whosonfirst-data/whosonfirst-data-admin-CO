@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.9099788835,11.5403407989,-72.9099788835,11.5403407989",
+    "geom:bbox":"-72.909979,11.540341,-72.909979,11.540341",
     "geom:latitude":11.540341,
     "geom:longitude":-72.909979,
     "iso:country":"CO",
@@ -30,6 +30,9 @@
     "name:aze_x_preferred":[
         "Rioa\u00e7a"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u044f\u0430\u0447\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993\u09b9\u09be\u0995\u09be"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:ceb_x_preferred":[
         "R\u00edohacha"
+    ],
+    "name:ces_x_preferred":[
+        "Riohacha"
     ],
     "name:dan_x_preferred":[
         "Riohacha"
@@ -72,8 +78,14 @@
     "name:gla_x_preferred":[
         "Riohacha"
     ],
+    "name:gle_x_preferred":[
+        "Riohacha"
+    ],
     "name:glg_x_preferred":[
         "Riohacha"
+    ],
+    "name:guc_x_preferred":[
+        "S\u00fcchiimma"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb\u0ab9\u0a9a\u0abe"
@@ -117,6 +129,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u092f\u094b\u0939\u093e\u091a\u093e"
     ],
+    "name:mlg_x_preferred":[
+        "Riohacha"
+    ],
     "name:msa_x_preferred":[
         "Riohacha"
     ],
@@ -130,6 +145,12 @@
         "Riohacha"
     ],
     "name:nob_x_preferred":[
+        "Riohacha"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0438\u043e\u0430\u0447\u00e6"
+    ],
+    "name:pap_x_preferred":[
         "Riohacha"
     ],
     "name:pnb_x_preferred":[
@@ -183,11 +204,17 @@
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0622\u0686\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Riohacha"
+    ],
     "name:vie_x_preferred":[
         "Riohacha"
     ],
     "name:war_x_preferred":[
         "Riohacha"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91cc\u5965\u963f\u67e5"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5967\u963f\u67e5"
@@ -300,7 +327,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130744,
-    "wof:geomhash":"b9114fd791ce140f7ea632303e333278",
+    "wof:geomhash":"8f642c3e595618f13ac254759d2219c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -311,7 +338,7 @@
         }
     ],
     "wof:id":1141907583,
-    "wof:lastmodified":1566708718,
+    "wof:lastmodified":1690868432,
     "wof:name":"Riohacha",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",
@@ -321,10 +348,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.90997888354224,
-    11.54034079889067,
-    -72.90997888354224,
-    11.54034079889067
+    -72.909979,
+    11.540341,
+    -72.909979,
+    11.540341
 ],
-  "geometry": {"coordinates":[-72.90997888354224,11.54034079889067],"type":"Point"}
+  "geometry": {"coordinates":[-72.90997900000001,11.540341],"type":"Point"}
 }

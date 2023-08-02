@@ -46,6 +46,9 @@
     "name:ast_x_preferred":[
         "Palmira"
     ],
+    "name:avk_x_preferred":[
+        "Palmira"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2 \u09ae\u09bf\u09b0\u09be \u09ad\u09c7\u09b2 \u09a1\u09c7\u09b2 \u0995\u09be\u0989\u0995\u09be"
     ],
@@ -86,6 +89,9 @@
         "Palmira"
     ],
     "name:gla_x_preferred":[
+        "Palmira"
+    ],
+    "name:gle_x_preferred":[
         "Palmira"
     ],
     "name:guj_x_preferred":[
@@ -151,11 +157,14 @@
     "name:swe_x_preferred":[
         "Palmira"
     ],
+    "name:szl_x_preferred":[
+        "Palmira"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbf\u0bb0\u0bbe"
     ],
     "name:tam_x_variant":[
-        "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbf\u0bb0\u0bbe"
+        "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bbf\u0bb0\u0bbe "
     ],
     "name:tat_x_preferred":[
         "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
@@ -165,6 +174,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1e\u0e32\u0e23\u0e4c\u0e21\u0e34\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e31\u0e25\u0e21\u0e34\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Palmira"
@@ -258,7 +270,7 @@
         }
     ],
     "wof:id":421205105,
-    "wof:lastmodified":1587163138,
+    "wof:lastmodified":1690868163,
     "wof:name":"Palmira",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

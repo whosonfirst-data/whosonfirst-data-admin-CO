@@ -30,11 +30,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Cauca"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0627\u0648\u0643\u0627"
     ],
     "name:ast_x_preferred":[
         "Cauca"
+    ],
+    "name:avk_x_preferred":[
+        "KolombiaCaucaWinka"
     ],
     "name:aze_x_preferred":[
         "Kauka"
@@ -69,6 +75,9 @@
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03ac\u03bf\u03c5\u03ba\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u03b4\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u039a\u03ac\u03bf\u03c5\u03ba\u03b1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Cauca"
     ],
@@ -99,6 +108,9 @@
     "name:glg_x_preferred":[
         "Cauca"
     ],
+    "name:guc_x_preferred":[
+        "Kaau'kaa"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0a89\u0a95\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
     ],
@@ -116,6 +128,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0578\u0582\u056f\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0561\u0578\u0582\u0584\u0561\u0575\u056b \u057e\u0561\u0580\u0579\u0561\u056f\u0561\u0566\u0574"
     ],
     "name:ilo_x_preferred":[
         "Cauca"
@@ -153,6 +168,9 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u090a\u091a\u0902 \u0935\u093f\u092d\u093e\u0917"
     ],
+    "name:mlg_x_preferred":[
+        "Departamentan'i Cauca"
+    ],
     "name:msa_x_preferred":[
         "Pentadbiran Cauca"
     ],
@@ -167,6 +185,9 @@
     ],
     "name:nob_x_preferred":[
         "Cauca"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0443\u043a\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0624\u06a9\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -242,6 +263,9 @@
     ],
     "name:war_x_preferred":[
         "Cauca"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8003\u5361\u7701"
     ],
     "name:yor_x_preferred":[
         "Cauca Department"
@@ -370,7 +394,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506528,
+    "wof:lastmodified":1690867900,
     "wof:name":"Cauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -25,6 +25,9 @@
     "name:ast_x_preferred":[
         "Balboa"
     ],
+    "name:avk_x_preferred":[
+        "Balboa"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b2\u09ac\u09cb\u09df\u09be"
     ],
@@ -44,6 +47,9 @@
         "\u0628\u0627\u0644\u0628\u0648\u0622"
     ],
     "name:fra_x_preferred":[
+        "Balboa"
+    ],
+    "name:gle_x_preferred":[
         "Balboa"
     ],
     "name:hin_x_preferred":[
@@ -73,8 +79,14 @@
     "name:nld_x_preferred":[
         "Balboa"
     ],
+    "name:pol_x_preferred":[
+        "Balboa"
+    ],
     "name:por_x_preferred":[
         "Balboa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u044c\u0431\u043e\u0430"
     ],
     "name:sco_x_preferred":[
         "Balboa"
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":890445005,
-    "wof:lastmodified":1636506883,
+    "wof:lastmodified":1690868413,
     "wof:name":"Balboa",
     "wof:parent_id":1108700439,
     "wof:placetype":"locality",

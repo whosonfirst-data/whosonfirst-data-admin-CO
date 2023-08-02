@@ -20,7 +20,13 @@
     "name:ast_x_preferred":[
         "Turbaco"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0443\u0440\u0431\u0430\u043a\u0430"
+    ],
     "name:ceb_x_preferred":[
+        "Turbaco"
+    ],
+    "name:ces_x_preferred":[
         "Turbaco"
     ],
     "name:dan_x_preferred":[
@@ -41,8 +47,14 @@
     "name:fra_x_preferred":[
         "Turbaco"
     ],
+    "name:gle_x_preferred":[
+        "Turbaco"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e8\u05d1\u05e7\u05d5"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u0582\u0580\u0562\u0561\u056f\u0578"
     ],
     "name:ita_x_preferred":[
         "Turbaco"
@@ -53,6 +65,9 @@
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10e0\u10d1\u10d0\u10d9\u10dd"
     ],
+    "name:mlg_x_preferred":[
+        "Turbaco"
+    ],
     "name:msa_x_preferred":[
         "Turbaco"
     ],
@@ -62,11 +77,17 @@
     "name:nld_x_preferred":[
         "Turbaco"
     ],
+    "name:pol_x_preferred":[
+        "Turbaco"
+    ],
     "name:por_x_preferred":[
         "Turbaco"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0440\u0431\u0430\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Turbaco"
     ],
     "name:spa_x_preferred":[
         "Turbaco"
@@ -132,7 +153,7 @@
         }
     ],
     "wof:id":421179443,
-    "wof:lastmodified":1566708049,
+    "wof:lastmodified":1690868340,
     "wof:name":"Turbaco",
     "wof:parent_id":421199647,
     "wof:placetype":"locality",

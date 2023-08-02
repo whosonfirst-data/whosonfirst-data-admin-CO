@@ -25,13 +25,25 @@
     "name:ast_x_preferred":[
         "Tol\u00fa Viejo"
     ],
+    "name:avk_x_preferred":[
+        "Tol\u00fa Viejo"
+    ],
     "name:ceb_x_preferred":[
         "Toluviejo"
+    ],
+    "name:ceb_x_variant":[
+        "Tol\u00fa Viejo"
     ],
     "name:eng_x_preferred":[
         "Toluviejo"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0644\u0648\u0648\u06cc\u062e\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Toluviejo"
+    ],
+    "name:gle_x_preferred":[
         "Toluviejo"
     ],
     "name:ita_x_preferred":[
@@ -49,11 +61,20 @@
     "name:nld_x_preferred":[
         "Tol\u00fa Viejo"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0443\u0432\u044c\u0435\u0445\u043e"
+    ],
     "name:spa_x_preferred":[
         "Tol\u00fa Viejo"
     ],
+    "name:spa_x_variant":[
+        "Toluviejo"
+    ],
     "name:swe_x_preferred":[
         "Toluviejo"
+    ],
+    "name:swe_x_variant":[
+        "Tol\u00fa Viejo"
     ],
     "name:vie_x_preferred":[
         "Toluviejo"
@@ -103,7 +124,7 @@
         }
     ],
     "wof:id":1125776865,
-    "wof:lastmodified":1566708085,
+    "wof:lastmodified":1690868425,
     "wof:name":"Toluviejo",
     "wof:parent_id":1108701421,
     "wof:placetype":"locality",

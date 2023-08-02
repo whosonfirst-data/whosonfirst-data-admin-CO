@@ -30,11 +30,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Sucre"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0633\u0648\u0643\u0631\u064a"
     ],
     "name:ast_x_preferred":[
         "Sucre"
+    ],
+    "name:avk_x_preferred":[
+        "KolombiaSucreWinka"
     ],
     "name:aze_x_preferred":[
         "Sukre"
@@ -50,6 +56,9 @@
     ],
     "name:cat_x_preferred":[
         "Departament de Sucre"
+    ],
+    "name:ces_x_preferred":[
+        "Sucre"
     ],
     "name:dan_x_preferred":[
         "Sucre Department"
@@ -92,6 +101,9 @@
     ],
     "name:glg_x_preferred":[
         "Sucre"
+    ],
+    "name:guc_x_preferred":[
+        "Suuk\u00fcree"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a95\u0acd\u0ab0\u0ac7 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -147,6 +159,9 @@
     "name:mar_x_preferred":[
         "\u0938\u0941\u0915\u094d\u0930\u0947 \u0935\u093f\u092d\u093e\u0917"
     ],
+    "name:mlg_x_preferred":[
+        "Departamentan'i Sucre"
+    ],
     "name:msa_x_preferred":[
         "Pentadbiran Sucre"
     ],
@@ -161,6 +176,9 @@
     ],
     "name:nob_x_preferred":[
         "Sucre"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0443\u043a\u0440\u0435"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06a9\u0631\u06d2 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -224,6 +242,9 @@
     ],
     "name:war_x_preferred":[
         "Sucre"
+    ],
+    "name:wuu_x_preferred":[
+        "\u82cf\u514b\u96f7\u7701"
     ],
     "name:yor_x_preferred":[
         "Sucre Department"
@@ -354,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506528,
+    "wof:lastmodified":1690867906,
     "wof:name":"Sucre",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

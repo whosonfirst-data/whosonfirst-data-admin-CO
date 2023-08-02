@@ -26,6 +26,9 @@
     "name:ast_x_preferred":[
         "Manizales"
     ],
+    "name:avk_x_preferred":[
+        "Manizales"
+    ],
     "name:aym_x_preferred":[
         "Manizales"
     ],
@@ -83,6 +86,9 @@
     "name:gla_x_preferred":[
         "Manizales"
     ],
+    "name:gle_x_preferred":[
+        "Manizales"
+    ],
     "name:glg_x_preferred":[
         "Manizales"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0948\u0928\u093f\u091c\u093e\u0932\u0947\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Manizales"
     ],
     "name:ido_x_preferred":[
         "Manizales"
@@ -127,6 +136,12 @@
     ],
     "name:mar_x_preferred":[
         "\u092e\u0945\u0928\u093f\u091d\u093e\u0932\u0947\u0938"
+    ],
+    "name:mdf_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0441\u0430\u043b\u044d\u0441"
+    ],
+    "name:mlg_x_preferred":[
+        "Manizales"
     ],
     "name:msa_x_preferred":[
         "Manizales"
@@ -167,8 +182,14 @@
     "name:sin_x_preferred":[
         "\u0db8\u0db1\u0dd2\u0dc3\u0dbd\u0dd9\u0dc3\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Manizales"
+    ],
     "name:spa_x_preferred":[
         "Manizales"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043d\u0438\u0437\u0430\u043b\u0435\u0441"
     ],
     "name:swe_x_preferred":[
         "Manizales"
@@ -211,6 +232,9 @@
     ],
     "name:war_x_preferred":[
         "Manizales"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u5c3c\u8428\u83b1\u65af"
     ],
     "name:yor_x_preferred":[
         "Manizales"
@@ -268,7 +292,7 @@
         }
     ],
     "wof:id":421170509,
-    "wof:lastmodified":1566708036,
+    "wof:lastmodified":1690868314,
     "wof:name":"Manizales",
     "wof:parent_id":421172405,
     "wof:placetype":"locality",

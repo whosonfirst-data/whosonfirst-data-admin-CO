@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Valledupar"
+    ],
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a\u062f\u0648\u0628\u0627\u0631"
     ],
     "name:ara_x_variant":[
         "\u062a\u0648\u0631\u0628\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0644\u064a\u062f\u0648\u0628\u0627\u0631"
+    ],
     "name:ast_x_preferred":[
+        "Valledupar"
+    ],
+    "name:avk_x_preferred":[
         "Valledupar"
     ],
     "name:aze_x_preferred":[
@@ -80,6 +89,9 @@
     "name:gla_x_preferred":[
         "Valledupar"
     ],
+    "name:gle_x_preferred":[
+        "Valledupar"
+    ],
     "name:glg_x_preferred":[
         "Valledupar"
     ],
@@ -124,6 +136,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0935\u0947\u0902\u0932\u094d\u0921\u0947\u092a\u093e\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Valledupar"
     ],
     "name:msa_x_preferred":[
         "Valledupar"
@@ -194,6 +209,9 @@
     "name:urd_x_preferred":[
         "\u0648\u0627\u06cc\u062f\u0648\u067e\u0627\u0631"
     ],
+    "name:vec_x_preferred":[
+        "Valledupar"
+    ],
     "name:vie_x_preferred":[
         "Valledupar"
     ],
@@ -202,6 +220,9 @@
     ],
     "name:war_x_preferred":[
         "Valledupar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u8036\u675c\u5e15\u5c14"
     ],
     "name:zho_min_nan_x_preferred":[
         "Valledupar"
@@ -349,7 +370,7 @@
         }
     ],
     "wof:id":421173095,
-    "wof:lastmodified":1566707978,
+    "wof:lastmodified":1690868204,
     "wof:name":"Valledupar",
     "wof:parent_id":421169849,
     "wof:placetype":"locality",

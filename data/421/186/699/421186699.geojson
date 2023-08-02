@@ -29,6 +29,9 @@
     "name:aze_x_preferred":[
         "Rioa\u00e7a"
     ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u044f\u0430\u0447\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993\u09b9\u09be\u0995\u09be"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ceb_x_preferred":[
         "R\u00edohacha"
+    ],
+    "name:ces_x_preferred":[
+        "Riohacha"
     ],
     "name:dan_x_preferred":[
         "Riohacha"
@@ -71,8 +77,14 @@
     "name:gla_x_preferred":[
         "Riohacha"
     ],
+    "name:gle_x_preferred":[
+        "Riohacha"
+    ],
     "name:glg_x_preferred":[
         "Riohacha"
+    ],
+    "name:guc_x_preferred":[
+        "S\u00fcchiimma"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb\u0ab9\u0a9a\u0abe"
@@ -116,6 +128,9 @@
     "name:mar_x_preferred":[
         "\u0930\u093f\u092f\u094b\u0939\u093e\u091a\u093e"
     ],
+    "name:mlg_x_preferred":[
+        "Riohacha"
+    ],
     "name:msa_x_preferred":[
         "Riohacha"
     ],
@@ -132,6 +147,12 @@
         "Riohacha"
     ],
     "name:nor_x_preferred":[
+        "Riohacha"
+    ],
+    "name:oss_x_preferred":[
+        "\u0420\u0438\u043e\u0430\u0447\u00e6"
+    ],
+    "name:pap_x_preferred":[
         "Riohacha"
     ],
     "name:pnb_x_preferred":[
@@ -188,11 +209,17 @@
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0622\u0686\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Riohacha"
+    ],
     "name:vie_x_preferred":[
         "Riohacha"
     ],
     "name:war_x_preferred":[
         "Riohacha"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91cc\u5965\u963f\u67e5"
     ],
     "name:zho_x_preferred":[
         "\u91cc\u5967\u963f\u67e5"
@@ -251,7 +278,7 @@
         }
     ],
     "wof:id":421186699,
-    "wof:lastmodified":1582393667,
+    "wof:lastmodified":1690868233,
     "wof:name":"R\u00edohacha",
     "wof:parent_id":421182357,
     "wof:placetype":"locality",

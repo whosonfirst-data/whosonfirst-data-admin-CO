@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-70.1736084408,1.1983105661,-70.1736084408,1.1983105661",
+    "geom:bbox":"-70.173608,1.198311,-70.173608,1.198311",
     "geom:latitude":1.198311,
     "geom:longitude":-70.173608,
     "iso:country":"CO",
@@ -64,6 +64,9 @@
         "Mit\u00fa"
     ],
     "name:gla_x_preferred":[
+        "Mit\u00fa"
+    ],
+    "name:gle_x_preferred":[
         "Mit\u00fa"
     ],
     "name:guj_x_preferred":[
@@ -279,7 +282,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499131069,
-    "wof:geomhash":"9d25ea91b61518914bd66f783d30fd75",
+    "wof:geomhash":"5857d66bd71f06aa1bf11092fa5e2566",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -290,7 +293,7 @@
         }
     ],
     "wof:id":1141909363,
-    "wof:lastmodified":1566708718,
+    "wof:lastmodified":1690868431,
     "wof:name":"Mitu",
     "wof:parent_id":421170241,
     "wof:placetype":"locality",
@@ -300,10 +303,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -70.17360844082299,
-    1.19831056610195,
-    -70.17360844082299,
-    1.19831056610195
+    -70.173608,
+    1.198311,
+    -70.173608,
+    1.198311
 ],
-  "geometry": {"coordinates":[-70.17360844082299,1.19831056610195],"type":"Point"}
+  "geometry": {"coordinates":[-70.173608,1.198311],"type":"Point"}
 }

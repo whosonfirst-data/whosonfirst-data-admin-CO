@@ -17,14 +17,26 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0631\u062a\u0627\u063a\u0648"
+    ],
     "name:ast_x_preferred":[
+        "Cartago"
+    ],
+    "name:avk_x_preferred":[
         "Cartago"
     ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b0\u09cd\u09a4\u09be\u0997\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Cartago"
+    ],
     "name:ceb_x_preferred":[
         "Cartago"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Cartago"
     ],
     "name:deu_x_preferred":[
         "Cartago"
@@ -47,6 +59,9 @@
     "name:fra_x_preferred":[
         "Cartago"
     ],
+    "name:gle_x_preferred":[
+        "Bardas Cartago"
+    ],
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d8\u05d2\u05d5"
     ],
@@ -55,6 +70,9 @@
     ],
     "name:hun_x_preferred":[
         "Cartago"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u057f\u0561\u0563\u0578"
     ],
     "name:ind_x_preferred":[
         "Cartago"
@@ -106,6 +124,9 @@
     ],
     "name:swe_x_preferred":[
         "Cartago"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0433\u043e"
     ],
     "name:tur_x_preferred":[
         "Cartago"
@@ -268,7 +289,7 @@
         }
     ],
     "wof:id":421176471,
-    "wof:lastmodified":1636506878,
+    "wof:lastmodified":1690868358,
     "wof:name":"Cartago",
     "wof:parent_id":421170647,
     "wof:placetype":"locality",

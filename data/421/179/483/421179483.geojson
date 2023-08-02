@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Puerto Yuca"
     ],
+    "name:ceb_x_variant":[
+        "Puerto Rico"
+    ],
     "name:cym_x_preferred":[
         "Puerto Rico"
     ],
@@ -41,7 +44,13 @@
     "name:fas_x_preferred":[
         "\u067e\u0648\u0626\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648"
     ],
+    "name:fas_x_variant":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0631\u06cc\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Puerto Rico"
+    ],
+    "name:gle_x_preferred":[
         "Puerto Rico"
     ],
     "name:heb_x_preferred":[
@@ -62,6 +71,9 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u5cf6"
     ],
+    "name:jpn_x_variant":[
+        "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
+    ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10d4\u10e0\u10e2\u10dd-\u10e0\u10d8\u10d9\u10dd"
     ],
@@ -80,6 +92,9 @@
     "name:pol_x_preferred":[
         "Portoryko"
     ],
+    "name:pol_x_variant":[
+        "Puerto Rico"
+    ],
     "name:por_x_preferred":[
         "Porto Rico"
     ],
@@ -94,6 +109,9 @@
     ],
     "name:swe_x_preferred":[
         "Puerto Yuca"
+    ],
+    "name:swe_x_variant":[
+        "Puerto Rico"
     ],
     "name:tgl_x_preferred":[
         "Puerto Rico"
@@ -173,7 +191,7 @@
         }
     ],
     "wof:id":421179483,
-    "wof:lastmodified":1636506878,
+    "wof:lastmodified":1690868334,
     "wof:name":"Puerto Rico",
     "wof:parent_id":1108700953,
     "wof:placetype":"locality",

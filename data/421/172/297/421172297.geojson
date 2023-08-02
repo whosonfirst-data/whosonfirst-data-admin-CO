@@ -20,8 +20,14 @@
     "name:ast_x_preferred":[
         "Tangua"
     ],
+    "name:avk_x_preferred":[
+        "Tangua"
+    ],
     "name:bpy_x_preferred":[
         "\u099f\u09be\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Tangua"
     ],
     "name:ceb_x_preferred":[
         "Tangua"
@@ -36,6 +42,9 @@
         "Tangu\u00e1"
     ],
     "name:fra_x_variant":[
+        "Tangua"
+    ],
+    "name:gle_x_preferred":[
         "Tangua"
     ],
     "name:hye_x_preferred":[
@@ -74,8 +83,14 @@
     "name:pol_x_preferred":[
         "Tangu\u00e1"
     ],
+    "name:pol_x_variant":[
+        "Tangua"
+    ],
     "name:por_x_preferred":[
         "Tangua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u0433\u0443\u0430"
     ],
     "name:spa_x_preferred":[
         "Tangua"
@@ -142,7 +157,7 @@
         }
     ],
     "wof:id":421172297,
-    "wof:lastmodified":1566707992,
+    "wof:lastmodified":1690868227,
     "wof:name":"T\u00e1ngua",
     "wof:parent_id":421205099,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:ast_x_preferred":[
         "Salento"
     ],
+    "name:avk_x_preferred":[
+        "Salento"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0430\u045e\u0432\u043e\u0441\u0442\u0440\u0430\u045e \u0421\u0430\u043b\u0435\u043d\u0446\u0456\u043d\u0430"
     ],
@@ -50,11 +53,20 @@
     "name:eus_x_preferred":[
         "Salento"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0644\u0646\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Salento"
+    ],
+    "name:gle_x_preferred":[
         "Salento"
     ],
     "name:glg_x_preferred":[
         "Salento"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05dc\u05e0\u05d8\u05d5"
     ],
     "name:hun_x_preferred":[
         "Salento"
@@ -104,6 +116,9 @@
     "name:pol_x_preferred":[
         "P\u00f3\u0142wysep Salenty\u0144ski"
     ],
+    "name:pol_x_variant":[
+        "Salento"
+    ],
     "name:por_x_preferred":[
         "Salento"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:scn_x_preferred":[
         "Salentu"
+    ],
+    "name:slv_x_preferred":[
+        "Salento"
     ],
     "name:spa_x_preferred":[
         "Salento"
@@ -184,7 +202,7 @@
         }
     ],
     "wof:id":421173087,
-    "wof:lastmodified":1566707977,
+    "wof:lastmodified":1690868201,
     "wof:name":"Salento",
     "wof:parent_id":421194733,
     "wof:placetype":"locality",

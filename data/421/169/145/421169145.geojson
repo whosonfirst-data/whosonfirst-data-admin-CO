@@ -23,6 +23,12 @@
     "name:afr_x_preferred":[
         "Cali"
     ],
+    "name:aka_x_preferred":[
+        "Cali"
+    ],
+    "name:ang_x_preferred":[
+        "Cali"
+    ],
     "name:ara_x_preferred":[
         "\u0643\u0627\u0644\u064a"
     ],
@@ -33,6 +39,9 @@
         "\u0643\u0627\u0644\u0649"
     ],
     "name:ast_x_preferred":[
+        "Cali"
+    ],
+    "name:avk_x_preferred":[
         "Cali"
     ],
     "name:aym_x_preferred":[
@@ -104,6 +113,9 @@
     "name:fin_x_preferred":[
         "Cali"
     ],
+    "name:fit_x_preferred":[
+        "Cali"
+    ],
     "name:fra_x_preferred":[
         "Cali"
     ],
@@ -114,6 +126,9 @@
         "Cali"
     ],
     "name:gla_x_preferred":[
+        "Cali"
+    ],
+    "name:gle_x_preferred":[
         "Cali"
     ],
     "name:glg_x_preferred":[
@@ -173,6 +188,9 @@
     "name:kor_x_preferred":[
         "\uce7c\ub9ac"
     ],
+    "name:kur_x_preferred":[
+        "Cali"
+    ],
     "name:lad_x_preferred":[
         "Kali"
     ],
@@ -194,8 +212,20 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0932\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u041a\u0430\u043b\u0438"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041a\u0430\u043b\u0438"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u043b\u0438"
+    ],
+    "name:mlg_x_preferred":[
+        "Cali"
+    ],
+    "name:mlt_x_preferred":[
+        "Cali"
     ],
     "name:msa_x_preferred":[
         "Cali"
@@ -214,6 +244,9 @@
     ],
     "name:oci_x_preferred":[
         "Cali"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u043b\u0438"
     ],
     "name:pan_x_preferred":[
         "\u0a38\u0a3e\u0a02\u0a24\u0a3f\u0a06\u0a17\u0a4b \u0a26\u0a47 \u0a15\u0a3e\u0a32\u0a40"
@@ -239,6 +272,9 @@
     "name:que_x_preferred":[
         "Cali"
     ],
+    "name:rmf_x_preferred":[
+        "Cali"
+    ],
     "name:ron_x_preferred":[
         "Santiago de Cali"
     ],
@@ -251,10 +287,34 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0dbd\u0dd2"
     ],
+    "name:sjd_x_preferred":[
+        "\u041a\u0430\u043b\u0438"
+    ],
+    "name:sje_x_preferred":[
+        "Cali"
+    ],
+    "name:sju_x_preferred":[
+        "Cali"
+    ],
     "name:slk_x_preferred":[
         "Cali"
     ],
     "name:slv_x_preferred":[
+        "Cali"
+    ],
+    "name:sma_x_preferred":[
+        "Cali"
+    ],
+    "name:sme_x_preferred":[
+        "Cali"
+    ],
+    "name:smj_x_preferred":[
+        "Cali"
+    ],
+    "name:smn_x_preferred":[
+        "Cali"
+    ],
+    "name:sms_x_preferred":[
         "Cali"
     ],
     "name:spa_x_colloquial":[
@@ -299,6 +359,9 @@
     "name:tur_x_preferred":[
         "Santiago de Cali"
     ],
+    "name:twi_x_preferred":[
+        "Cali"
+    ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043b\u0456"
     ],
@@ -307,6 +370,9 @@
     ],
     "name:uzb_x_preferred":[
         "Kali"
+    ],
+    "name:vec_x_preferred":[
+        "Cali"
     ],
     "name:vie_x_preferred":[
         "Santiago de Cali"
@@ -450,8 +516,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        421170643,
-        85670203
+        85670203,
+        421170643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -477,7 +543,7 @@
         }
     ],
     "wof:id":421169145,
-    "wof:lastmodified":1610161229,
+    "wof:lastmodified":1690868130,
     "wof:megacity":1,
     "wof:name":"Cali",
     "wof:parent_id":421170643,

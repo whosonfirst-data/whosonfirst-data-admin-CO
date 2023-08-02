@@ -20,14 +20,23 @@
     "name:ast_x_preferred":[
         "Guapot\u00e1"
     ],
+    "name:avk_x_preferred":[
+        "Guapot\u00e1"
+    ],
     "name:ceb_x_preferred":[
         "Guapot\u00e1"
     ],
     "name:eng_x_preferred":[
         "Guapota"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0627\u067e\u0648\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Guapot\u00e1"
+    ],
+    "name:gle_x_preferred":[
+        "Guapota"
     ],
     "name:ita_x_preferred":[
         "Guapot\u00e1"
@@ -44,6 +53,12 @@
     "name:nld_x_preferred":[
         "Guapot\u00e1"
     ],
+    "name:pol_x_preferred":[
+        "Guapot\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0430\u043f\u043e\u0442\u0430"
+    ],
     "name:spa_x_preferred":[
         "Guapot\u00e1"
     ],
@@ -52,6 +67,9 @@
     ],
     "name:tgl_x_preferred":[
         "Guapota"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0430\u043f\u043e\u0442\u0430"
     ],
     "name:vie_x_preferred":[
         "Guapot\u00e1"
@@ -112,7 +130,7 @@
         }
     ],
     "wof:id":421182613,
-    "wof:lastmodified":1566708055,
+    "wof:lastmodified":1690868354,
     "wof:name":"Guapot\u00e1",
     "wof:parent_id":1108701267,
     "wof:placetype":"locality",

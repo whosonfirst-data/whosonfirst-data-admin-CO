@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u0995\u09cb"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8 \u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8\u09bf\u09b8\u09cd\u0995\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "San Francisco"
     ],
@@ -29,8 +32,14 @@
     "name:eng_x_preferred":[
         "San Francisco"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
         "San Francisco de Sales"
+    ],
+    "name:gle_x_preferred":[
+        "San Francisco"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u092b\u093c\u094d\u0930\u0948\u0928\u094d\u0938\u093f\u0938\u094d\u0915\u094b"
@@ -59,8 +68,14 @@
     "name:nld_x_preferred":[
         "San Francisco"
     ],
+    "name:pol_x_preferred":[
+        "San Francisco"
+    ],
     "name:por_x_preferred":[
         "San Francisco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d \u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e"
     ],
     "name:sco_x_preferred":[
         "San Francisco"
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":421167787,
-    "wof:lastmodified":1636506860,
+    "wof:lastmodified":1690868126,
     "wof:name":"San Francisco",
     "wof:parent_id":421205087,
     "wof:placetype":"locality",

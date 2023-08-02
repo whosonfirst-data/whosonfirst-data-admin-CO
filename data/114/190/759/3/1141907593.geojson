@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-74.640028322,2.07037619924,-74.640028322,2.07037619924",
+    "geom:bbox":"-74.640028,2.070376,-74.640028,2.070376",
     "geom:latitude":2.070376,
     "geom:longitude":-74.640028,
     "iso:country":"CO",
@@ -24,6 +24,9 @@
     "name:ast_x_preferred":[
         "San Vicente del Cagu\u00e1n"
     ],
+    "name:cat_x_preferred":[
+        "San Vicente del Cagu\u00e1n"
+    ],
     "name:ceb_x_preferred":[
         "San Vicente del Cagu\u00e1n"
     ],
@@ -39,6 +42,9 @@
     "name:fra_x_preferred":[
         "San Vicente del Cagu\u00e1n"
     ],
+    "name:gle_x_preferred":[
+        "San Vicente del Cagu\u00e1n"
+    ],
     "name:ita_x_preferred":[
         "San Vicente del Cagu\u00e1n"
     ],
@@ -52,6 +58,9 @@
         "San Vicente del Cagu\u00e1n"
     ],
     "name:nld_x_preferred":[
+        "San Vicente del Cagu\u00e1n"
+    ],
+    "name:pol_x_preferred":[
         "San Vicente del Cagu\u00e1n"
     ],
     "name:por_x_preferred":[
@@ -186,7 +195,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130745,
-    "wof:geomhash":"f98c270a2b8c1c9fac1f60fced457e49",
+    "wof:geomhash":"7fdbf71ef3aaa2bfb4a1a8a46643a10b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -197,7 +206,7 @@
         }
     ],
     "wof:id":1141907593,
-    "wof:lastmodified":1566708719,
+    "wof:lastmodified":1690868432,
     "wof:name":"San Vicente del Caguan",
     "wof:parent_id":1108700423,
     "wof:placetype":"locality",
@@ -207,10 +216,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -74.64002832202573,
-    2.07037619924341,
-    -74.64002832202573,
-    2.07037619924341
+    -74.640028,
+    2.070376,
+    -74.640028,
+    2.070376
 ],
-  "geometry": {"coordinates":[-74.64002832202573,2.07037619924341],"type":"Point"}
+  "geometry": {"coordinates":[-74.640028,2.070376],"type":"Point"}
 }

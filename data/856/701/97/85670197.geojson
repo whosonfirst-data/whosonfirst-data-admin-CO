@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Putumayo"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0628\u0648\u062a\u0648\u0645\u0627\u064a\u0648"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:aze_x_preferred":[
         "Putumayo"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0443\u0442\u0443\u043c\u0430\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09a4\u09cb\u09ae\u09be\u0987\u09af\u09bc\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
@@ -49,6 +55,9 @@
         "\u041f\u0443\u0442\u0443\u043c\u0430\u0439\u043e"
     ],
     "name:cat_x_preferred":[
+        "Putumayo"
+    ],
+    "name:ces_x_preferred":[
         "Putumayo"
     ],
     "name:dan_x_preferred":[
@@ -93,11 +102,17 @@
     "name:glg_x_preferred":[
         "Putumayo"
     ],
+    "name:guc_x_preferred":[
+        "Putumaaya"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac1\u0a9f\u0ac1\u0aae\u0ac7\u0aaf\u0acb \u0ab5\u0abf\u0aad\u0abe\u0a97"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05d8\u05d5\u05de\u05d9\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05d8\u05d5\u05de\u05d0\u05d9\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u091f\u0941\u092e\u093e\u0913 \u0935\u093f\u092d\u093e\u0917"
@@ -146,6 +161,9 @@
     ],
     "name:mar_x_preferred":[
         "\u092a\u0941\u0924\u094d\u0924\u0941\u092e\u093e \u0935\u093f\u092d\u093e\u0917"
+    ],
+    "name:mlg_x_preferred":[
+        "Departamentan'i Putumayo"
     ],
     "name:msa_x_preferred":[
         "Pentadbiran Putumayo"
@@ -227,6 +245,9 @@
     ],
     "name:war_x_preferred":[
         "Putumayo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u666e\u56fe\u9a6c\u7ea6\u7701"
     ],
     "name:yor_x_preferred":[
         "Putumayo Department"
@@ -357,7 +378,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506527,
+    "wof:lastmodified":1690867898,
     "wof:name":"Putumayo",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

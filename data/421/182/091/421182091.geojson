@@ -23,6 +23,9 @@
     "name:ast_x_variant":[
         "Ginebra"
     ],
+    "name:avk_x_preferred":[
+        "Ginebra"
+    ],
     "name:ceb_x_preferred":[
         "Ginebra"
     ],
@@ -32,7 +35,13 @@
     "name:eng_x_preferred":[
         "Ginebra"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u06cc\u0646\u0628\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Ginebra"
+    ],
+    "name:gle_x_preferred":[
         "Ginebra"
     ],
     "name:glg_x_preferred":[
@@ -59,8 +68,14 @@
     "name:nld_x_preferred":[
         "Ginebra"
     ],
+    "name:pol_x_preferred":[
+        "Ginebra"
+    ],
     "name:por_x_preferred":[
         "Genebra"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0438\u043d\u0435\u0431\u0440\u0430"
     ],
     "name:spa_x_preferred":[
         "Ginebra"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421182091,
-    "wof:lastmodified":1566708054,
+    "wof:lastmodified":1690868351,
     "wof:name":"Ginebra",
     "wof:parent_id":421204845,
     "wof:placetype":"locality",

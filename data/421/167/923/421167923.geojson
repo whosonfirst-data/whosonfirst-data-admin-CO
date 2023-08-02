@@ -37,10 +37,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Neiva"
+    ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u0641\u0627"
     ],
     "name:ast_x_preferred":[
+        "Neiva"
+    ],
+    "name:avk_x_preferred":[
         "Neiva"
     ],
     "name:aze_x_preferred":[
@@ -94,6 +100,9 @@
     "name:gla_x_preferred":[
         "Neiva"
     ],
+    "name:gle_x_preferred":[
+        "Neiva"
+    ],
     "name:glg_x_preferred":[
         "Neiva"
     ],
@@ -135,6 +144,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0947\u0908\u0935\u094d\u0939"
+    ],
+    "name:mlg_x_preferred":[
+        "Neiva"
     ],
     "name:msa_x_preferred":[
         "Neiva"
@@ -210,6 +222,9 @@
     ],
     "name:urd_x_variant":[
         "\u0646\u06cc\u0648\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Neiva"
     ],
     "name:vie_x_preferred":[
         "Neiva"
@@ -291,7 +306,7 @@
         }
     ],
     "wof:id":421167923,
-    "wof:lastmodified":1636506860,
+    "wof:lastmodified":1690868124,
     "wof:name":"Neiva",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

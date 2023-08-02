@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "Su\u00e1rez"
+    ],
     "name:cat_x_preferred":[
         "Su\u00e1rez"
     ],
@@ -30,10 +33,17 @@
         "Su\u00e1rez"
     ],
     "name:eng_x_variant":[
-        "Su\u00e1rezds"
+        "Su\u00e1rezds",
+        "Suarez"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0622\u0631\u0632"
     ],
     "name:fra_x_preferred":[
         "Su\u00e1rez"
+    ],
+    "name:gle_x_preferred":[
+        "Suarez"
     ],
     "name:glg_x_preferred":[
         "Su\u00e1rez"
@@ -54,6 +64,9 @@
         "Su\u00e1rez"
     ],
     "name:nld_x_preferred":[
+        "Su\u00e1rez"
+    ],
+    "name:pol_x_preferred":[
         "Su\u00e1rez"
     ],
     "name:spa_x_preferred":[
@@ -121,7 +134,7 @@
         }
     ],
     "wof:id":421201839,
-    "wof:lastmodified":1566708023,
+    "wof:lastmodified":1690868294,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":1108701471,
     "wof:placetype":"locality",

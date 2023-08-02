@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Zarzal"
     ],
+    "name:avk_x_preferred":[
+        "Zarzal"
+    ],
     "name:ceb_x_preferred":[
         "Zarzal"
     ],
@@ -29,10 +32,16 @@
     "name:eng_x_preferred":[
         "Zarzal"
     ],
+    "name:eng_x_variant":[
+        "Cali"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0631\u0633\u0627\u0644"
     ],
     "name:fra_x_preferred":[
+        "Zarzal"
+    ],
+    "name:gle_x_preferred":[
         "Zarzal"
     ],
     "name:ita_x_preferred":[
@@ -58,6 +67,12 @@
     ],
     "name:nor_x_preferred":[
         "Zarzal"
+    ],
+    "name:pol_x_preferred":[
+        "Zarzal"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0440\u0441\u0430\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Zarzal"
@@ -127,7 +142,7 @@
         }
     ],
     "wof:id":421177325,
-    "wof:lastmodified":1566708043,
+    "wof:lastmodified":1690868324,
     "wof:name":"Zarzal",
     "wof:parent_id":421181795,
     "wof:placetype":"locality",

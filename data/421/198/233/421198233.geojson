@@ -37,6 +37,12 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "San Pablo"
+    ],
+    "name:avk_x_preferred":[
+        "San Pablo"
+    ],
     "name:bre_x_preferred":[
         "San Pablo"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05e4\u05d1\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "San Pablo"
     ],
     "name:ilo_x_preferred":[
         "San Pablo"
@@ -186,7 +195,7 @@
         }
     ],
     "wof:id":421198233,
-    "wof:lastmodified":1636506869,
+    "wof:lastmodified":1690868250,
     "wof:name":"San Pablo",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

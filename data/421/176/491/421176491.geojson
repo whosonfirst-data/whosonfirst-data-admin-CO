@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u0648\u0627\u062f\u0627\u0633"
+    ],
     "name:ast_x_preferred":[
+        "Aguadas"
+    ],
+    "name:avk_x_preferred":[
         "Aguadas"
     ],
     "name:cat_x_preferred":[
@@ -41,6 +47,9 @@
     "name:fra_x_preferred":[
         "Aguadas"
     ],
+    "name:gle_x_preferred":[
+        "Aguadas"
+    ],
     "name:ita_x_preferred":[
         "Aguadas"
     ],
@@ -54,6 +63,9 @@
         "Aguadas"
     ],
     "name:nld_x_preferred":[
+        "Aguadas"
+    ],
+    "name:pol_x_preferred":[
         "Aguadas"
     ],
     "name:por_x_preferred":[
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":421176491,
-    "wof:lastmodified":1566708059,
+    "wof:lastmodified":1690868363,
     "wof:name":"Aguadas",
     "wof:parent_id":421188637,
     "wof:placetype":"locality",

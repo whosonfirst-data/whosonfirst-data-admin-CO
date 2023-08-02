@@ -20,8 +20,14 @@
     "name:eng_x_preferred":[
         "Gaira"
     ],
+    "name:eng_x_variant":[
+        "Gaira-Rodadero"
+    ],
     "name:spa_x_preferred":[
         "Gaira"
+    ],
+    "name:spa_x_variant":[
+        "Gaira-Rodadero"
     ],
     "name:und_x_variant":[
         "Corregimiento De Gaira"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421172221,
-    "wof:lastmodified":1566707989,
+    "wof:lastmodified":1690868222,
     "wof:name":"Gaira",
     "wof:parent_id":1108700871,
     "wof:placetype":"locality",

@@ -20,13 +20,22 @@
     "name:ast_x_preferred":[
         "Bucarasica"
     ],
+    "name:avk_x_preferred":[
+        "Bucarasica"
+    ],
     "name:ceb_x_preferred":[
         "Bucarasica"
     ],
     "name:eng_x_preferred":[
         "Bucarasica"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0631\u0627\u0633\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Bucarasica"
+    ],
+    "name:gle_x_preferred":[
         "Bucarasica"
     ],
     "name:ita_x_preferred":[
@@ -44,8 +53,14 @@
     "name:nld_x_preferred":[
         "Bucarasica"
     ],
+    "name:pol_x_preferred":[
+        "Bucarasica"
+    ],
     "name:por_x_preferred":[
         "Bucarasica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043a\u0430\u0440\u0430\u0441\u0438\u043a\u0430"
     ],
     "name:spa_x_preferred":[
         "Bucarasica"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421178919,
-    "wof:lastmodified":1566708052,
+    "wof:lastmodified":1690868348,
     "wof:name":"Bucaracica",
     "wof:parent_id":1108701091,
     "wof:placetype":"locality",

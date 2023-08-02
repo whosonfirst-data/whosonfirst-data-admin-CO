@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Coello"
     ],
+    "name:avk_x_preferred":[
+        "Coello"
+    ],
     "name:cat_x_preferred":[
         "Coello"
     ],
@@ -32,7 +35,13 @@
     "name:eng_x_preferred":[
         "Coello"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0626\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Coello"
+    ],
+    "name:gle_x_preferred":[
         "Coello"
     ],
     "name:ita_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421199555,
-    "wof:lastmodified":1566708016,
+    "wof:lastmodified":1690868277,
     "wof:name":"Coello",
     "wof:parent_id":1108701431,
     "wof:placetype":"locality",

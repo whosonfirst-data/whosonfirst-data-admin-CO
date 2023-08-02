@@ -20,8 +20,14 @@
     "name:ast_x_preferred":[
         "Tulu\u00e1"
     ],
+    "name:avk_x_preferred":[
+        "Tulu\u00e1"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0443\u043b\u0443\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Tulu\u00e1"
     ],
     "name:ceb_x_preferred":[
         "Tulu\u00e1"
@@ -44,6 +50,9 @@
     "name:fra_x_preferred":[
         "Tulu\u00e1"
     ],
+    "name:gle_x_preferred":[
+        "Tulu\u00e1"
+    ],
     "name:glg_x_preferred":[
         "Tulu\u00e1"
     ],
@@ -56,11 +65,17 @@
     "name:jpn_x_preferred":[
         "\u30c8\u30a5\u30eb\u30a2\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u30c8\u30a5\u30eb\u30a2"
+    ],
     "name:kat_x_preferred":[
         "\u10e2\u10e3\u10da\u10e3\u10d0"
     ],
     "name:lit_x_preferred":[
         "Tulua"
+    ],
+    "name:mlg_x_preferred":[
+        "Tulu\u00e1"
     ],
     "name:msa_x_preferred":[
         "Tulu\u00e1"
@@ -250,7 +265,7 @@
         }
     ],
     "wof:id":421176795,
-    "wof:lastmodified":1566708059,
+    "wof:lastmodified":1690868367,
     "wof:name":"Tulu\u00e1",
     "wof:parent_id":1108701505,
     "wof:placetype":"locality",

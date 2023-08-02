@@ -23,8 +23,14 @@
     "name:eng_x_preferred":[
         "San Juan Betulia"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0627\u0646 \u0628\u062a\u0648\u0644\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
         "San Juan de Betulia"
+    ],
+    "name:gle_x_preferred":[
+        "San Juan Betulia"
     ],
     "name:ita_x_preferred":[
         "San Juan de Betulia"
@@ -43,6 +49,9 @@
     ],
     "name:nld_x_variant":[
         "San Juan de Betulia"
+    ],
+    "name:pol_x_preferred":[
+        "San Juan Betulia"
     ],
     "name:spa_x_preferred":[
         "San Juan de Betulia"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421176369,
-    "wof:lastmodified":1566708059,
+    "wof:lastmodified":1690868366,
     "wof:name":"San Juan de Betulia",
     "wof:parent_id":1108701413,
     "wof:placetype":"locality",
