@@ -45,6 +45,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u0997\u09cb"
     ],
+    "name:cat_x_preferred":[
+        "Santiago"
+    ],
     "name:ceb_x_preferred":[
         "Santiago"
     ],
@@ -61,6 +64,9 @@
         "\u0633\u0627\u0646\u062a\u06cc\u0627\u06af\u0648"
     ],
     "name:fra_x_preferred":[
+        "Santiago"
+    ],
+    "name:gle_x_preferred":[
         "Santiago"
     ],
     "name:heb_x_preferred":[
@@ -105,13 +111,15 @@
     "name:rus_x_preferred":[
         "\u0440\u0435\u043a\u0430 \u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
     ],
+    "name:rus_x_variant":[
+        "\u0421\u0430\u043d\u0442\u044c\u044f\u0433\u043e"
+    ],
     "name:sco_x_preferred":[
         "Santiago"
     ],
     "name:spa_x_preferred":[
         "Santiago"
     ],
-    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Rio Santiago"
     ],
@@ -181,7 +189,7 @@
         }
     ],
     "wof:id":1108701145,
-    "wof:lastmodified":1636506774,
+    "wof:lastmodified":1690868087,
     "wof:name":"Santiago",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

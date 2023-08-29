@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "San Luis"
+    ],
     "name:bre_x_preferred":[
         "San Luis"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0932\u0941\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "San Luis"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576 \u053c\u0578\u0582\u056b\u057d"
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":421170573,
-    "wof:lastmodified":1636506876,
+    "wof:lastmodified":1690868312,
     "wof:name":"San Luis",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Corozal"
     ],
+    "name:avk_x_preferred":[
+        "Corozal"
+    ],
     "name:ceb_x_preferred":[
         "Corozal"
     ],
@@ -36,6 +39,9 @@
         "\u06a9\u0648\u0631\u0648\u0633\u0627\u0644"
     ],
     "name:fra_x_preferred":[
+        "Corozal"
+    ],
+    "name:gle_x_preferred":[
         "Corozal"
     ],
     "name:heb_x_preferred":[
@@ -73,6 +79,15 @@
     ],
     "name:nld_x_preferred":[
         "Corozal"
+    ],
+    "name:pol_x_preferred":[
+        "Corozal"
+    ],
+    "name:por_x_preferred":[
+        "Corozal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0441\u0430\u043b\u044c"
     ],
     "name:spa_x_preferred":[
         "Corozal"
@@ -146,7 +161,7 @@
         }
     ],
     "wof:id":421201817,
-    "wof:lastmodified":1636506874,
+    "wof:lastmodified":1690868288,
     "wof:name":"Corozal",
     "wof:parent_id":1108701383,
     "wof:placetype":"locality",

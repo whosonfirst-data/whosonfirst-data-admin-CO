@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Mogotes"
     ],
+    "name:avk_x_preferred":[
+        "Mogotes"
+    ],
     "name:ceb_x_preferred":[
         "Mogotes"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Mogotes"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06af\u0648\u062a\u0633"
+    ],
     "name:fra_x_preferred":[
+        "Mogotes"
+    ],
+    "name:gle_x_preferred":[
         "Mogotes"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +55,12 @@
     ],
     "name:nld_x_preferred":[
         "Mogotes"
+    ],
+    "name:pol_x_preferred":[
+        "Mogotes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0442\u0435\u0441"
     ],
     "name:spa_x_preferred":[
         "Mogotes"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421197737,
-    "wof:lastmodified":1566708012,
+    "wof:lastmodified":1690868266,
     "wof:name":"Mogotes",
     "wof:parent_id":1108701299,
     "wof:placetype":"locality",

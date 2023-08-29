@@ -37,6 +37,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lorica"
+    ],
     "name:deu_x_preferred":[
         "Lorica"
     ],
@@ -91,6 +94,12 @@
     ],
     "name:spa_x_preferred":[
         "Lorica"
+    ],
+    "name:swe_x_preferred":[
+        "Lorica"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0437-\u0434\u0435-\u041b\u043e\u0440\u0438\u043a\u0430"
     ],
     "name:tgl_x_preferred":[
         "Santa Cruz de Lorica"
@@ -165,7 +174,7 @@
         }
     ],
     "wof:id":421192871,
-    "wof:lastmodified":1636506858,
+    "wof:lastmodified":1690868103,
     "wof:name":"Lorica",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

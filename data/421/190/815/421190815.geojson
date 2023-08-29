@@ -43,6 +43,9 @@
     "name:ast_x_preferred":[
         "Soledad"
     ],
+    "name:avk_x_preferred":[
+        "Soledad"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c7\u09a6\u09be\u09a6"
     ],
@@ -73,6 +76,12 @@
     "name:fra_x_preferred":[
         "Soledad"
     ],
+    "name:gle_x_preferred":[
+        "Soledad"
+    ],
+    "name:glg_x_preferred":[
+        "Soledad"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05dc\u05d3\u05d0\u05d3"
     ],
@@ -80,6 +89,9 @@
         "\u0938\u094b\u0932\u0921\u0948\u0921"
     ],
     "name:hun_x_preferred":[
+        "Soledad"
+    ],
+    "name:ilo_x_preferred":[
         "Soledad"
     ],
     "name:ind_x_preferred":[
@@ -90,6 +102,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30ec\u30c0"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bd\u30ec\u30c0\u30fc\u30c9"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10dd\u10da\u10d4\u10d3\u10d0\u10d3\u10d8"
@@ -109,10 +124,19 @@
     "name:nld_x_preferred":[
         "Soledad"
     ],
+    "name:nno_x_preferred":[
+        "Soledad"
+    ],
+    "name:nob_x_preferred":[
+        "Soledad"
+    ],
     "name:pol_x_preferred":[
         "Soledad"
     ],
     "name:por_x_preferred":[
+        "Soledad"
+    ],
+    "name:que_x_preferred":[
         "Soledad"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +243,7 @@
         }
     ],
     "wof:id":421190815,
-    "wof:lastmodified":1636506872,
+    "wof:lastmodified":1690868264,
     "wof:name":"Soledad",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

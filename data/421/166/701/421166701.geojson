@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Teruel"
     ],
+    "name:avk_x_preferred":[
+        "Teruel"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09c7\u09b0\u09c1\u09af\u09bc\u09c7\u09b2"
     ],
@@ -32,7 +35,13 @@
     "name:eng_x_preferred":[
         "Teruel"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0631\u0648\u0626\u0644"
+    ],
     "name:fra_x_preferred":[
+        "Teruel"
+    ],
+    "name:gle_x_preferred":[
         "Teruel"
     ],
     "name:glg_x_preferred":[
@@ -55,6 +64,9 @@
     ],
     "name:nld_x_preferred":[
         "Teruel"
+    ],
+    "name:pol_x_preferred":[
+        "Teurel"
     ],
     "name:por_x_preferred":[
         "Teruel"
@@ -128,7 +140,7 @@
         }
     ],
     "wof:id":421166701,
-    "wof:lastmodified":1636506857,
+    "wof:lastmodified":1690868097,
     "wof:name":"Teruel",
     "wof:parent_id":1108700851,
     "wof:placetype":"locality",

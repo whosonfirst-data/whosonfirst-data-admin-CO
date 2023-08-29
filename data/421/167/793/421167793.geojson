@@ -26,10 +26,16 @@
     "name:eng_x_preferred":[
         "Miraflores"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0627\u0641\u0644\u0648\u0631\u0633"
+    ],
     "name:fin_x_preferred":[
         "Miraflores"
     ],
     "name:fra_x_preferred":[
+        "Miraflores"
+    ],
+    "name:gle_x_preferred":[
         "Miraflores"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +58,9 @@
     ],
     "name:por_x_preferred":[
         "Miraflores"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0440\u0430\u0444\u043b\u043e\u0440\u0435\u0441"
     ],
     "name:sco_x_preferred":[
         "Miraflores"
@@ -125,7 +134,7 @@
         }
     ],
     "wof:id":421167793,
-    "wof:lastmodified":1566707939,
+    "wof:lastmodified":1690868125,
     "wof:name":"Miraflores",
     "wof:parent_id":1108701629,
     "wof:placetype":"locality",

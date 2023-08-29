@@ -22,13 +22,22 @@
     "name:ast_x_preferred":[
         "Ocamonte"
     ],
+    "name:avk_x_preferred":[
+        "Ocamonte"
+    ],
     "name:ceb_x_preferred":[
         "Ocamonte"
     ],
     "name:eng_x_preferred":[
         "Ocamonte"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06a9\u0627\u0645\u0648\u0646\u062a\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Ocamonte"
+    ],
+    "name:gle_x_preferred":[
         "Ocamonte"
     ],
     "name:ita_x_preferred":[
@@ -45,6 +54,12 @@
     ],
     "name:nld_x_preferred":[
         "Ocamonte"
+    ],
+    "name:pol_x_preferred":[
+        "Ocamonte"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0430\u043c\u043e\u043d\u0442\u0435"
     ],
     "name:spa_x_preferred":[
         "Ocamonte"
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":890455369,
-    "wof:lastmodified":1566708071,
+    "wof:lastmodified":1690868396,
     "wof:name":"Ocamonte",
     "wof:parent_id":1108701303,
     "wof:placetype":"locality",

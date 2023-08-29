@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Villarrica"
     ],
+    "name:avk_x_preferred":[
+        "Villarrica"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u043b\u044c\u044f\u0440\u044b\u043a\u0430"
     ],
@@ -38,7 +41,13 @@
     "name:eng_x_preferred":[
         "Villarrica"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u06cc\u0644\u0627\u0631\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Villarrica"
+    ],
+    "name:gle_x_preferred":[
         "Villarrica"
     ],
     "name:glg_x_preferred":[
@@ -154,7 +163,7 @@
         }
     ],
     "wof:id":421204657,
-    "wof:lastmodified":1636506862,
+    "wof:lastmodified":1690868141,
     "wof:name":"Villarrica",
     "wof:parent_id":1108701481,
     "wof:placetype":"locality",

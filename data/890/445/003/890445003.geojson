@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Ap\u00eda"
     ],
+    "name:avk_x_preferred":[
+        "Ap\u00eda"
+    ],
     "name:cat_x_preferred":[
         "Apia"
     ],
@@ -31,7 +34,13 @@
     "name:eng_x_preferred":[
         "Ap\u00eda"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u067e\u06cc\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Ap\u00eda"
+    ],
+    "name:gle_x_preferred":[
         "Ap\u00eda"
     ],
     "name:ita_x_preferred":[
@@ -173,8 +182,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        1108701165,
-        85670173
+        85670173,
+        1108701165
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -196,7 +205,7 @@
         }
     ],
     "wof:id":890445003,
-    "wof:lastmodified":1587428696,
+    "wof:lastmodified":1690868413,
     "wof:name":"Ap\u00eda",
     "wof:parent_id":1108701165,
     "wof:placetype":"locality",

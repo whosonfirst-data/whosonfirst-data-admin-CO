@@ -23,11 +23,17 @@
     "name:ast_x_preferred":[
         "Sincelejo"
     ],
+    "name:avk_x_preferred":[
+        "Sincelejo"
+    ],
     "name:aze_x_preferred":[
         "Sinselexo"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u0999\u09cd\u0995\u09c7\u09b2\u09c7\u099c\u09c1"
+    ],
+    "name:ben_x_variant":[
+        "\u09b8\u09bf\u09a8\u09b8\u09c7\u09b2\u09c7\u09b9\u09cb"
     ],
     "name:cat_x_preferred":[
         "Sincelejo"
@@ -63,6 +69,9 @@
         "Sincelejo"
     ],
     "name:gla_x_preferred":[
+        "Sincelejo"
+    ],
+    "name:gle_x_preferred":[
         "Sincelejo"
     ],
     "name:glg_x_preferred":[
@@ -106,6 +115,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u0938\u0947\u0932\u093e\u091c\u094b"
+    ],
+    "name:mlg_x_preferred":[
+        "Sincelejo"
     ],
     "name:msa_x_preferred":[
         "Sincelejo"
@@ -176,6 +188,9 @@
     "name:urd_x_preferred":[
         "\u0633\u0646\u0633\u06cc\u0644\u062e\u0648"
     ],
+    "name:vec_x_preferred":[
+        "Sincelejo"
+    ],
     "name:vie_x_preferred":[
         "Sincelejo"
     ],
@@ -184,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Sincelejo"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8f9b\u585e\u83b1\u970d"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sincelejo"
@@ -330,7 +348,7 @@
         }
     ],
     "wof:id":421172785,
-    "wof:lastmodified":1636506867,
+    "wof:lastmodified":1690868222,
     "wof:name":"Sincelejo",
     "wof:parent_id":421170639,
     "wof:placetype":"locality",

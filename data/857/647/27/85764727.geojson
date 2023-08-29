@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Libertadores"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0628\u0631\u062a\u0627\u062f\u0648\u0631\u0633"
+    ],
     "name:fra_x_preferred":[
         "Libertadores"
     ],
@@ -63,6 +66,9 @@
     "name:nld_x_preferred":[
         "Libertadores"
     ],
+    "name:nld_x_variant":[
+        "libertadores"
+    ],
     "name:por_x_preferred":[
         "Libertadores"
     ],
@@ -78,6 +84,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0412\u0438\u0437\u0432\u043e\u043b\u0438\u0442\u0435\u043b\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434\u043e\u0440\u0435\u0441"
     ],
     "name:war_x_preferred":[
         "Libertadores"
@@ -166,7 +175,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1582393564,
+    "wof:lastmodified":1690867889,
     "wof:name":"Libertadores",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Yotoco"
     ],
+    "name:avk_x_preferred":[
+        "Yotoco"
+    ],
     "name:ceb_x_preferred":[
         "Yotoco"
     ],
@@ -29,7 +32,13 @@
     "name:epo_x_preferred":[
         "Jotoko"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u062a\u0648\u06a9\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Yotoco"
+    ],
+    "name:gle_x_preferred":[
         "Yotoco"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +55,12 @@
     ],
     "name:nld_x_preferred":[
         "Yotoco"
+    ],
+    "name:pol_x_preferred":[
+        "Yotoco"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u043e\u0442\u043e\u043a\u043e"
     ],
     "name:sco_x_preferred":[
         "Yotoco"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421174801,
-    "wof:lastmodified":1566707965,
+    "wof:lastmodified":1690868173,
     "wof:name":"Yotoco",
     "wof:parent_id":421181797,
     "wof:placetype":"locality",

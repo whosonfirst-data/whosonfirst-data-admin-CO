@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Chibolo"
     ],
+    "name:avk_x_preferred":[
+        "Chibolo"
+    ],
     "name:bul_x_preferred":[
         "\u0427\u0438\u0432\u043e\u043b\u043e"
     ],
@@ -29,11 +32,23 @@
     "name:ceb_x_preferred":[
         "Chivolo"
     ],
+    "name:ceb_x_variant":[
+        "Chibolo"
+    ],
     "name:eng_x_preferred":[
         "Chibolo"
     ],
+    "name:eng_x_variant":[
+        "Chivolo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0628\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
         "Chibolo"
+    ],
+    "name:gle_x_preferred":[
+        "Chivolo"
     ],
     "name:glg_x_preferred":[
         "Chibolo"
@@ -53,6 +68,9 @@
     "name:nld_x_preferred":[
         "Chibolo"
     ],
+    "name:pol_x_preferred":[
+        "Chibolo"
+    ],
     "name:por_x_preferred":[
         "Chibolo"
     ],
@@ -65,8 +83,14 @@
     "name:spa_x_preferred":[
         "Chibolo"
     ],
+    "name:spa_x_variant":[
+        "Chivolo"
+    ],
     "name:swe_x_preferred":[
         "Chivolo"
+    ],
+    "name:swe_x_variant":[
+        "Chibolo"
     ],
     "name:tgl_x_preferred":[
         "Chibolo"
@@ -134,7 +158,7 @@
         }
     ],
     "wof:id":421167975,
-    "wof:lastmodified":1566707939,
+    "wof:lastmodified":1690868126,
     "wof:name":"Chivolo",
     "wof:parent_id":1108700879,
     "wof:placetype":"locality",

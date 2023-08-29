@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "San Lorenzo"
     ],
+    "name:avk_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:ceb_x_preferred":[
         "San Lorenzo"
     ],
@@ -38,8 +41,14 @@
     "name:fra_x_preferred":[
         "San Lorenzo"
     ],
+    "name:gle_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05df \u05dc\u05d5\u05e8\u05e0\u05e6\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05e1\u05df \u05dc\u05d5\u05e8\u05e0\u05e1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0932\u094b\u0930\u0947\u0902\u091c\u093c\u094b"
@@ -159,7 +168,7 @@
         }
     ],
     "wof:id":421201831,
-    "wof:lastmodified":1636506874,
+    "wof:lastmodified":1690868293,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108701071,
     "wof:placetype":"locality",

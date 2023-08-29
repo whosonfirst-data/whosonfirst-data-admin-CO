@@ -22,16 +22,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
+    "name:ace_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:afr_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:ang_x_preferred":[
         "Medell\u00edn"
     ],
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u064a\u0644\u064a\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u064a\u062f\u064a\u064a\u0646"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u064a\u062f\u064a\u0644\u0644\u064a\u0646"
     ],
     "name:ast_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:avk_x_preferred":[
         "Medell\u00edn"
     ],
     "name:aym_x_preferred":[
@@ -64,6 +76,9 @@
     "name:cat_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:cdo_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:ceb_x_preferred":[
         "Medell\u00edn"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:che_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
+    ],
+    "name:cor_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:cos_x_preferred":[
         "Medell\u00edn"
@@ -118,6 +136,9 @@
     "name:epo_x_variant":[
         "Mede\u011dino"
     ],
+    "name:est_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:eus_x_preferred":[
         "Medellin"
     ],
@@ -136,6 +157,9 @@
     "name:fra_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:frp_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:frr_x_preferred":[
         "Medell\u00edn"
     ],
@@ -143,6 +167,9 @@
         "Medell\u00edn"
     ],
     "name:fur_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:gag_x_preferred":[
         "Medell\u00edn"
     ],
     "name:gla_x_preferred":[
@@ -159,6 +186,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa1\u0ac7\u0ab2\u0abf\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:hat_x_preferred":[
         "Medell\u00edn"
@@ -196,6 +226,9 @@
     "name:ind_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:ipk_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:isl_x_preferred":[
         "Medell\u00edn"
     ],
@@ -226,6 +259,9 @@
     "name:kor_x_preferred":[
         "\uba54\ub370\uc778"
     ],
+    "name:ksh_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:kur_x_preferred":[
         "Medell\u00edn"
     ],
@@ -250,11 +286,17 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0926\u0947\u092f\u0940\u0928"
     ],
+    "name:mdf_x_preferred":[
+        "\u041c\u044d\u0434\u044d\u043b\u044c\u0438\u043d"
+    ],
     "name:min_x_preferred":[
         "Medell\u00edn"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043b\u0458\u0438\u043d"
+    ],
+    "name:mlt_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0435\u0434\u0435\u043b\u044c\u0438\u043d"
@@ -289,8 +331,20 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a47\u0a26\u0a47\u0a2f\u0a40\u0a28"
     ],
+    "name:pap_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:pcd_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:pdc_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:pih_x_preferred":[
         "Medell\u00edn"
+    ],
+    "name:pms_x_preferred":[
+        "Medell\u00ecn"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u0688\u06cc\u0644\u0646"
@@ -332,6 +386,9 @@
         "Medell\u00edn"
     ],
     "name:sqi_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:srn_x_preferred":[
         "Medell\u00edn"
     ],
     "name:srp_x_preferred":[
@@ -381,6 +438,9 @@
     ],
     "name:uzb_x_preferred":[
         "Medelin"
+    ],
+    "name:vec_x_preferred":[
+        "Medell\u00edn"
     ],
     "name:vep_x_preferred":[
         "Medel'jin"
@@ -521,8 +581,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        421205069,
-        85670129
+        85670129,
+        421205069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -552,7 +612,7 @@
         }
     ],
     "wof:id":890442155,
-    "wof:lastmodified":1610161236,
+    "wof:lastmodified":1690868411,
     "wof:megacity":1,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":421205069,

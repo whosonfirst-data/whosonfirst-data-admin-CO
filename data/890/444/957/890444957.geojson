@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "Montecristo"
     ],
+    "name:avk_x_preferred":[
+        "Montecristo"
+    ],
     "name:ceb_x_preferred":[
         "Montecristo"
     ],
@@ -31,11 +34,20 @@
     "name:eng_x_preferred":[
         "Montecristo"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0647 \u06a9\u0631\u06cc\u0633\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Montecristo"
+    ],
+    "name:gle_x_preferred":[
         "Montecristo"
     ],
     "name:ita_x_preferred":[
         "Montecristo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c6\u30af\u30ea\u30b9\u30c8"
     ],
     "name:kat_x_preferred":[
         "\u10db\u10dd\u10dc\u10e2\u10d4\u10d9\u10e0\u10d8\u10e1\u10e2\u10dd"
@@ -47,6 +59,9 @@
         "Montecristo"
     ],
     "name:nld_x_preferred":[
+        "Montecristo"
+    ],
+    "name:pol_x_preferred":[
         "Montecristo"
     ],
     "name:por_x_preferred":[
@@ -109,7 +124,7 @@
         }
     ],
     "wof:id":890444957,
-    "wof:lastmodified":1566708074,
+    "wof:lastmodified":1690868405,
     "wof:name":"Montecristo",
     "wof:parent_id":1108700133,
     "wof:placetype":"locality",

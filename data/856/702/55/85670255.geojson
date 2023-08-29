@@ -30,6 +30,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.7,
+    "name:afr_x_preferred":[
+        "Meta"
+    ],
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0645\u064a\u062a\u0627"
     ],
@@ -51,6 +54,9 @@
     "name:cat_x_preferred":[
         "Departament del Meta"
     ],
+    "name:ces_x_preferred":[
+        "Meta"
+    ],
     "name:cym_x_preferred":[
         "Meta"
     ],
@@ -65,6 +71,9 @@
     ],
     "name:eng_x_preferred":[
         "Meta"
+    ],
+    "name:eng_x_variant":[
+        "Meta Department"
     ],
     "name:epo_x_preferred":[
         "Metao"
@@ -90,6 +99,9 @@
     "name:glg_x_preferred":[
         "Meta"
     ],
+    "name:guc_x_preferred":[
+        "Meeta"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0a9f\u0abe"
     ],
@@ -104,6 +116,9 @@
     ],
     "name:hun_x_preferred":[
         "Meta megye"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0565\u0569\u0561\u0575\u056b \u057e\u0561\u0580\u0579\u0561\u056f\u0561\u0566\u0574"
     ],
     "name:ilo_x_preferred":[
         "Departamento ti Meta"
@@ -141,11 +156,17 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u091f\u093e"
     ],
+    "name:mlg_x_preferred":[
+        "Departamentan'i Meta"
+    ],
     "name:msa_x_preferred":[
         "Pentadbiran Meta"
     ],
     "name:nan_x_preferred":[
         "Meta"
+    ],
+    "name:nds_x_preferred":[
+        "Departamento Meta"
     ],
     "name:nld_x_preferred":[
         "Meta"
@@ -155,6 +176,9 @@
     ],
     "name:nob_x_preferred":[
         "Meta"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0435\u0442\u00e6"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u062a\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -227,6 +251,9 @@
     ],
     "name:war_x_preferred":[
         "Meta"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6885\u5854\u7701"
     ],
     "name:yor_x_preferred":[
         "Meta Department"
@@ -357,7 +384,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636506529,
+    "wof:lastmodified":1690867910,
     "wof:name":"Meta",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

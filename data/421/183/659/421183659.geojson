@@ -17,14 +17,23 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:avk_x_preferred":[
+        "Purac\u00e9-Coconuco"
+    ],
     "name:ceb_x_preferred":[
         "Purac\u00e9"
     ],
     "name:eng_x_preferred":[
         "Purace"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u0627\u0633\u0647"
+    ],
     "name:fra_x_preferred":[
         "Purac\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "Purace"
     ],
     "name:ita_x_preferred":[
         "Purac\u00e9"
@@ -43,6 +52,9 @@
     ],
     "name:por_x_preferred":[
         "Purac\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0440\u0430\u0441\u0435"
     ],
     "name:spa_x_preferred":[
         "Coconuco"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421183659,
-    "wof:lastmodified":1566708045,
+    "wof:lastmodified":1690868328,
     "wof:name":"Coconuco",
     "wof:parent_id":1108700495,
     "wof:placetype":"locality",

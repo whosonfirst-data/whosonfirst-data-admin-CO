@@ -26,6 +26,12 @@
     "name:ast_x_preferred":[
         "Arauca"
     ],
+    "name:aym_x_preferred":[
+        "Arauca"
+    ],
+    "name:aze_x_preferred":[
+        "Arauka"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09be\u0989\u0995\u09be"
     ],
@@ -65,7 +71,13 @@
     "name:fra_x_preferred":[
         "Arauca"
     ],
+    "name:frr_x_preferred":[
+        "Arauca"
+    ],
     "name:gla_x_preferred":[
+        "Arauca"
+    ],
+    "name:gle_x_preferred":[
         "Arauca"
     ],
     "name:glg_x_preferred":[
@@ -161,6 +173,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0bb1\u0bb5\u0bc1\u0b95\u0bcd\u0b95\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u0440\u0430\u0443\u043a\u0430"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c30\u0c4b\u0c15\u0c3e"
     ],
@@ -190,6 +205,9 @@
     ],
     "name:war_x_preferred":[
         "Arauca"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u52b3\u5361"
     ],
     "name:yor_x_preferred":[
         "Arauca"
@@ -345,7 +363,7 @@
         }
     ],
     "wof:id":421185877,
-    "wof:lastmodified":1582393689,
+    "wof:lastmodified":1690868384,
     "wof:name":"Arauca",
     "wof:parent_id":421170653,
     "wof:placetype":"locality",

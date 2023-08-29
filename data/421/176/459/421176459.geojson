@@ -20,13 +20,22 @@
     "name:ast_x_preferred":[
         "Cerrito"
     ],
+    "name:avk_x_preferred":[
+        "Cerrito"
+    ],
     "name:ceb_x_preferred":[
         "Cerrito"
     ],
     "name:eng_x_preferred":[
         "Cerrito"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06cc\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Cerrito"
+    ],
+    "name:gle_x_preferred":[
         "Cerrito"
     ],
     "name:ita_x_preferred":[
@@ -43,6 +52,12 @@
     ],
     "name:nld_x_preferred":[
         "Cerrito"
+    ],
+    "name:pol_x_preferred":[
+        "Cerrito"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0440\u0438\u0442\u043e"
     ],
     "name:sco_x_preferred":[
         "Cerrito"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421176459,
-    "wof:lastmodified":1566708061,
+    "wof:lastmodified":1690868372,
     "wof:name":"Cerrito",
     "wof:parent_id":1108701213,
     "wof:placetype":"locality",

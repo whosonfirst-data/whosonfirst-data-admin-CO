@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Chita"
     ],
+    "name:avk_x_preferred":[
+        "Chita"
+    ],
     "name:ceb_x_preferred":[
         "Chita"
     ],
@@ -33,6 +36,12 @@
         "\u0686\u06cc\u062a\u0627"
     ],
     "name:fra_x_preferred":[
+        "Chita"
+    ],
+    "name:gle_x_preferred":[
+        "Chita"
+    ],
+    "name:glg_x_preferred":[
         "Chita"
     ],
     "name:heb_x_preferred":[
@@ -56,6 +65,9 @@
     "name:nld_x_preferred":[
         "Chita"
     ],
+    "name:pol_x_preferred":[
+        "Chita"
+    ],
     "name:por_x_preferred":[
         "Chita"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0456\u0442\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0427\u0438\u0442\u0430"
     ],
     "name:vie_x_preferred":[
         "Chita"
@@ -133,7 +148,7 @@
         }
     ],
     "wof:id":421201213,
-    "wof:lastmodified":1566708023,
+    "wof:lastmodified":1690868293,
     "wof:name":"Chita",
     "wof:parent_id":1108700213,
     "wof:placetype":"locality",

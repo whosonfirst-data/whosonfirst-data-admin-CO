@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.6299843767,1.14999310191,-76.6299843767,1.14999310191",
+    "geom:bbox":"-76.629984,1.149993,-76.629984,1.149993",
     "geom:latitude":1.149993,
     "geom:longitude":-76.629984,
     "gn:country":"CO",
@@ -67,6 +67,9 @@
         "Mocoa"
     ],
     "name:gla_x_preferred":[
+        "Mocoa"
+    ],
+    "name:gle_x_preferred":[
         "Mocoa"
     ],
     "name:guj_x_preferred":[
@@ -179,6 +182,9 @@
     ],
     "name:war_x_preferred":[
         "Mocoa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u83ab\u79d1\u963f"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u79d1\u963f"
@@ -305,7 +311,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130605,
-    "wof:geomhash":"7bbb55980b39e97d5625dfc697a803fd",
+    "wof:geomhash":"4bbd3f2e47de56525c59cf07ff550f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -316,7 +322,7 @@
         }
     ],
     "wof:id":1141906525,
-    "wof:lastmodified":1566708719,
+    "wof:lastmodified":1690868432,
     "wof:name":"Mocoa",
     "wof:parent_id":421170259,
     "wof:placetype":"locality",
@@ -330,10 +336,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.62998437672115,
-    1.1499931019091,
-    -76.62998437672115,
-    1.1499931019091
+    -76.629984,
+    1.149993,
+    -76.629984,
+    1.149993
 ],
-  "geometry": {"coordinates":[-76.62998437672115,1.1499931019091],"type":"Point"}
+  "geometry": {"coordinates":[-76.62998399999999,1.149993],"type":"Point"}
 }

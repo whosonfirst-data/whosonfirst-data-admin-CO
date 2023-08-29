@@ -22,13 +22,28 @@
     "name:ast_x_preferred":[
         "Colos\u00f3"
     ],
+    "name:avk_x_preferred":[
+        "Colos\u00f3"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0441\u043e"
+    ],
     "name:ceb_x_preferred":[
         "Colos\u00f3"
+    ],
+    "name:ceb_x_variant":[
+        "Coloso"
     ],
     "name:eng_x_preferred":[
         "Colos\u00f3"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0644\u0648\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Colos\u00f3"
+    ],
+    "name:gle_x_preferred":[
         "Colos\u00f3"
     ],
     "name:ita_x_preferred":[
@@ -46,11 +61,17 @@
     "name:nld_x_preferred":[
         "Colos\u00f3"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u0441\u043e"
+    ],
     "name:spa_x_preferred":[
         "Colos\u00f3"
     ],
     "name:swe_x_preferred":[
         "Colos\u00f3"
+    ],
+    "name:swe_x_variant":[
+        "Coloso"
     ],
     "name:und_x_variant":[
         "Ricaurte"
@@ -97,7 +118,7 @@
         }
     ],
     "wof:id":890444985,
-    "wof:lastmodified":1566708074,
+    "wof:lastmodified":1690868405,
     "wof:name":"Colos\u00f3",
     "wof:parent_id":1108701381,
     "wof:placetype":"locality",

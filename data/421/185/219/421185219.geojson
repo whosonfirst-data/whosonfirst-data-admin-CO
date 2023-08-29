@@ -17,8 +17,14 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0631\u0627\u0646\u0643\u0627\u0633"
+    ],
     "name:ast_x_preferred":[
         "Barrancas"
+    ],
+    "name:aze_x_preferred":[
+        "Barrankas"
     ],
     "name:ceb_x_preferred":[
         "Barrancas"
@@ -38,11 +44,17 @@
     "name:fra_x_preferred":[
         "Barrancas"
     ],
+    "name:gle_x_preferred":[
+        "Barrancas"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e8\u05e0\u05e7\u05d0\u05e1"
     ],
     "name:ita_x_preferred":[
         "Barrancas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e9\u30f3\u30ab\u30b9"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10d0\u10dc\u10d9\u10d0\u10e1\u10d8"
@@ -54,6 +66,9 @@
         "Barrancas"
     ],
     "name:nld_x_preferred":[
+        "Barrancas"
+    ],
+    "name:pol_x_preferred":[
         "Barrancas"
     ],
     "name:por_x_preferred":[
@@ -123,7 +138,7 @@
         }
     ],
     "wof:id":421185219,
-    "wof:lastmodified":1566708064,
+    "wof:lastmodified":1690868379,
     "wof:name":"Barrancas",
     "wof:parent_id":1108700855,
     "wof:placetype":"locality",

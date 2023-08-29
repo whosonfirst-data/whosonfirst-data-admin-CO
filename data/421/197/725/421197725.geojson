@@ -29,7 +29,13 @@
     "name:eng_x_preferred":[
         "Riosucio"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u0633\u0648\u0633\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Riosucio"
+    ],
+    "name:gle_x_preferred":[
         "Riosucio"
     ],
     "name:ita_x_preferred":[
@@ -47,8 +53,14 @@
     "name:nld_x_preferred":[
         "Riosucio"
     ],
+    "name:pol_x_preferred":[
+        "Riosucio"
+    ],
     "name:por_x_preferred":[
         "Riosucio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043e\u0441\u0443\u0441\u0438\u043e"
     ],
     "name:spa_x_preferred":[
         "Riosucio"
@@ -117,7 +129,7 @@
         }
     ],
     "wof:id":421197725,
-    "wof:lastmodified":1566708013,
+    "wof:lastmodified":1690868268,
     "wof:name":"R\u00edosucio",
     "wof:parent_id":421205091,
     "wof:placetype":"locality",

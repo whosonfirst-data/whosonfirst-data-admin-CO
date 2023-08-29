@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.639995363,2.56998394664,-72.639995363,2.56998394664",
+    "geom:bbox":"-72.639995,2.569984,-72.639995,2.569984",
     "geom:latitude":2.569984,
     "geom:longitude":-72.639995,
     "iso:country":"CO",
@@ -35,6 +35,9 @@
     ],
     "name:ben_x_variant":[
         "\u09b8\u09be\u09a8 \u09b9\u09cb\u09b8\u09c7 \u09a6\u09c7\u09b2 \u0997\u09c1\u09af\u09bc\u09be\u09ac\u09bf\u09af\u09bc\u09be\u09b0\u09c7"
+    ],
+    "name:cat_x_preferred":[
+        "San Jos\u00e9 del Guaviare"
     ],
     "name:ceb_x_preferred":[
         "San Jos\u00e9 del Guaviare"
@@ -285,7 +288,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130606,
-    "wof:geomhash":"59b0abc93859c1bfb97478471aeb20de",
+    "wof:geomhash":"d4a30ebb03bd6a0a1815f1966597361b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -296,7 +299,7 @@
         }
     ],
     "wof:id":1141906529,
-    "wof:lastmodified":1566708719,
+    "wof:lastmodified":1690868432,
     "wof:name":"San Jose del Guaviare",
     "wof:parent_id":421203263,
     "wof:placetype":"locality",
@@ -306,10 +309,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.63999536303334,
-    2.56998394664134,
-    -72.63999536303334,
-    2.56998394664134
+    -72.639995,
+    2.569984,
+    -72.639995,
+    2.569984
 ],
-  "geometry": {"coordinates":[-72.63999536303334,2.56998394664134],"type":"Point"}
+  "geometry": {"coordinates":[-72.639995,2.569984],"type":"Point"}
 }

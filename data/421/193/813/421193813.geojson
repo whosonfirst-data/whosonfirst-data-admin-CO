@@ -20,8 +20,17 @@
     "name:ast_x_preferred":[
         "Torib\u00edo"
     ],
+    "name:avk_x_preferred":[
+        "Torib\u00edo"
+    ],
+    "name:cat_x_preferred":[
+        "Torib\u00edo"
+    ],
     "name:ceb_x_preferred":[
         "Torib\u00edo"
+    ],
+    "name:ceb_x_variant":[
+        "Toribio"
     ],
     "name:deu_x_preferred":[
         "Torib\u00edo"
@@ -33,6 +42,9 @@
         "\u062a\u0648\u0631\u06cc\u0628\u06cc\u0648"
     ],
     "name:fra_x_preferred":[
+        "Torib\u00edo"
+    ],
+    "name:gle_x_preferred":[
         "Torib\u00edo"
     ],
     "name:ita_x_preferred":[
@@ -50,14 +62,23 @@
     "name:nld_x_preferred":[
         "Toribio"
     ],
+    "name:pol_x_preferred":[
+        "Torib\u00edo"
+    ],
     "name:por_x_preferred":[
         "Toribio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0431\u0438\u043e"
     ],
     "name:spa_x_preferred":[
         "Torib\u00edo"
     ],
     "name:swe_x_preferred":[
         "Torib\u00edo"
+    ],
+    "name:swe_x_variant":[
+        "Toribio"
     ],
     "name:tgl_x_preferred":[
         "Torib\u00edo"
@@ -116,7 +137,7 @@
         }
     ],
     "wof:id":421193813,
-    "wof:lastmodified":1566707937,
+    "wof:lastmodified":1690868120,
     "wof:name":"Torib\u00edo",
     "wof:parent_id":1108700519,
     "wof:placetype":"locality",

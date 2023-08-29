@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-76.6100114356,2.41999310191,-76.6100114356,2.41999310191",
+    "geom:bbox":"-76.610011,2.419993,-76.610011,2.419993",
     "geom:latitude":2.419993,
     "geom:longitude":-76.610011,
     "iso:country":"CO",
@@ -22,6 +22,9 @@
         "\u0628\u0648\u0628\u0627\u064a\u0627\u0646"
     ],
     "name:ast_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:avk_x_preferred":[
         "Popay\u00e1n"
     ],
     "name:aze_x_preferred":[
@@ -81,6 +84,9 @@
     "name:gla_x_preferred":[
         "Popay\u00e1n"
     ],
+    "name:gle_x_preferred":[
+        "Popay\u00e1n"
+    ],
     "name:glg_x_preferred":[
         "Popay\u00e1n"
     ],
@@ -120,6 +126,12 @@
     "name:mar_x_preferred":[
         "\u092a\u0949\u092a\u092f\u093e\u0928"
     ],
+    "name:mlg_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:mlt_x_preferred":[
+        "Popay\u00e1n"
+    ],
     "name:msa_x_preferred":[
         "Popay\u00e1n"
     ],
@@ -156,7 +168,13 @@
     "name:spa_x_preferred":[
         "Popay\u00e1n"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043f\u0430\u0458\u0430\u043d"
+    ],
     "name:swe_x_preferred":[
+        "Popay\u00e1n"
+    ],
+    "name:szl_x_preferred":[
         "Popay\u00e1n"
     ],
     "name:tam_x_preferred":[
@@ -183,6 +201,9 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u067e\u0627\u06cc\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Popay\u00e1n"
+    ],
     "name:vie_x_preferred":[
         "Popay\u00e1n"
     ],
@@ -191,6 +212,9 @@
     ],
     "name:war_x_preferred":[
         "Popay\u00e1n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6ce2\u5e15\u626c"
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u5e15\u626c"
@@ -303,7 +327,7 @@
     },
     "wof:country":"CO",
     "wof:created":1499130944,
-    "wof:geomhash":"6bf31146d6af06cedef1b310d6e4643c",
+    "wof:geomhash":"8526e84773b88899c2822e75ab0aed8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -314,7 +338,7 @@
         }
     ],
     "wof:id":1141908625,
-    "wof:lastmodified":1566708719,
+    "wof:lastmodified":1690868433,
     "wof:name":"Popayan",
     "wof:parent_id":1108700431,
     "wof:placetype":"locality",
@@ -324,10 +348,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -76.61001143564039,
-    2.41999310191414,
-    -76.61001143564039,
-    2.41999310191414
+    -76.610011,
+    2.419993,
+    -76.610011,
+    2.419993
 ],
-  "geometry": {"coordinates":[-76.61001143564039,2.41999310191414],"type":"Point"}
+  "geometry": {"coordinates":[-76.610011,2.419993],"type":"Point"}
 }

@@ -43,8 +43,14 @@
     "name:ast_x_preferred":[
         "Duitama"
     ],
+    "name:avk_x_preferred":[
+        "Duitama"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09c1\u0987\u09a4\u09be\u09ae\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Duitama"
     ],
     "name:ceb_x_preferred":[
         "Duitama"
@@ -68,6 +74,9 @@
         "\u062f\u0648\u06cc\u062a\u0627\u0645\u0627"
     ],
     "name:fra_x_preferred":[
+        "Duitama"
+    ],
+    "name:gle_x_preferred":[
         "Duitama"
     ],
     "name:glg_x_preferred":[
@@ -101,6 +110,9 @@
         "\ub450\uc774\ud0c0\ub9c8"
     ],
     "name:lad_x_preferred":[
+        "Duitama"
+    ],
+    "name:mlg_x_preferred":[
         "Duitama"
     ],
     "name:msa_x_preferred":[
@@ -139,16 +151,25 @@
     "name:swe_x_preferred":[
         "Duitama"
     ],
+    "name:tat_x_preferred":[
+        "\u0414\u0443\u0439\u0442\u0430\u043c\u0430"
+    ],
     "name:tgl_x_preferred":[
         "Duitama"
     ],
     "name:tur_x_preferred":[
         "Duitama"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0443i\u0442\u0430\u043c\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0626\u06cc\u062a\u0627\u0645\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Duitama"
+    ],
+    "name:vls_x_preferred":[
         "Duitama"
     ],
     "name:war_x_preferred":[
@@ -221,7 +242,7 @@
         }
     ],
     "wof:id":421188625,
-    "wof:lastmodified":1636506866,
+    "wof:lastmodified":1690868215,
     "wof:name":"Duitama",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

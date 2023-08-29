@@ -31,7 +31,13 @@
     "name:eng_x_preferred":[
         "El Retorno"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u0631\u062a\u0648\u0631\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
+        "El Retorno"
+    ],
+    "name:gle_x_preferred":[
         "El Retorno"
     ],
     "name:ita_x_preferred":[
@@ -51,6 +57,9 @@
     ],
     "name:por_x_preferred":[
         "El Retorno"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0420\u0435\u0442\u043e\u0440\u043d\u043e"
     ],
     "name:sco_x_preferred":[
         "El Retorno"
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":890435777,
-    "wof:lastmodified":1566708078,
+    "wof:lastmodified":1690868416,
     "wof:name":"El Retorno",
     "wof:parent_id":1108701627,
     "wof:placetype":"locality",

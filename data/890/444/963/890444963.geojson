@@ -22,6 +22,9 @@
     "name:ast_x_preferred":[
         "La Victoria"
     ],
+    "name:avk_x_preferred":[
+        "La Victoria"
+    ],
     "name:ceb_x_preferred":[
         "La Victoria"
     ],
@@ -32,6 +35,9 @@
         "\u0644\u0627 \u0648\u06cc\u06a9\u062a\u0648\u0631\u06cc\u0627"
     ],
     "name:fra_x_preferred":[
+        "La Victoria"
+    ],
+    "name:gle_x_preferred":[
         "La Victoria"
     ],
     "name:ita_x_preferred":[
@@ -48,6 +54,12 @@
     ],
     "name:nld_x_preferred":[
         "La Victoria"
+    ],
+    "name:pol_x_preferred":[
+        "La Victoria"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f"
     ],
     "name:spa_x_preferred":[
         "La Victoria"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":890444963,
-    "wof:lastmodified":1636506882,
+    "wof:lastmodified":1690868403,
     "wof:name":"La Victoria",
     "wof:parent_id":1108701497,
     "wof:placetype":"locality",

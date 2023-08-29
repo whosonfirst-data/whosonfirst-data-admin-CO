@@ -20,13 +20,22 @@
     "name:ast_x_preferred":[
         "El Santuario"
     ],
+    "name:avk_x_preferred":[
+        "El Santuario"
+    ],
     "name:ceb_x_preferred":[
         "Santuario"
+    ],
+    "name:ceb_x_variant":[
+        "El Santuario"
     ],
     "name:deu_x_preferred":[
         "El Santuario"
     ],
     "name:eng_x_preferred":[
+        "El Santuario"
+    ],
+    "name:epo_x_preferred":[
         "El Santuario"
     ],
     "name:fas_x_preferred":[
@@ -37,6 +46,12 @@
     ],
     "name:gla_x_preferred":[
         "El Santuario"
+    ],
+    "name:gle_x_preferred":[
+        "El Santuario"
+    ],
+    "name:ile_x_preferred":[
+        "Santuario"
     ],
     "name:ilo_x_preferred":[
         "El Santuario"
@@ -56,6 +71,9 @@
     "name:nld_x_preferred":[
         "El Santuario"
     ],
+    "name:pol_x_preferred":[
+        "El Santuario"
+    ],
     "name:por_x_preferred":[
         "El Santuario"
     ],
@@ -73,6 +91,9 @@
     ],
     "name:swe_x_preferred":[
         "Santuario"
+    ],
+    "name:swe_x_variant":[
+        "El Santuario"
     ],
     "name:vie_x_preferred":[
         "Santuario"
@@ -134,7 +155,7 @@
         }
     ],
     "wof:id":421168583,
-    "wof:lastmodified":1566707925,
+    "wof:lastmodified":1690868096,
     "wof:name":"Santuario",
     "wof:parent_id":1108700021,
     "wof:placetype":"locality",

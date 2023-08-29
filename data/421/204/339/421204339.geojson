@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Monter\u00eda"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u064a\u0631\u064a\u0627"
     ],
     "name:ast_x_preferred":[
+        "Monter\u00eda"
+    ],
+    "name:avk_x_preferred":[
         "Monter\u00eda"
     ],
     "name:aze_x_preferred":[
@@ -71,6 +77,9 @@
     "name:gla_x_preferred":[
         "Monter\u00eda"
     ],
+    "name:gle_x_preferred":[
+        "Monter\u00eda"
+    ],
     "name:glg_x_preferred":[
         "Monter\u00eda"
     ],
@@ -86,6 +95,9 @@
     "name:hun_x_preferred":[
         "Monter\u00eda"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0576\u057f\u0565\u0580\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Monter\u00eda"
     ],
@@ -94,6 +106,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30f3\u30c6\u30ea\u30fc\u30a2"
+    ],
+    "name:jpn_x_variant":[
+        "\u30e2\u30f3\u30c6\u30ea\u30a2"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0cbe\u0c82\u0c9f\u0cc6\u0cb0\u0cbf\u0caf\u0cbe"
@@ -127,6 +142,9 @@
     ],
     "name:nor_x_preferred":[
         "Monter\u00eda"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0435\u0440\u0438"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0631\u06cc\u0627"
@@ -185,6 +203,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u062a\u06cc\u0631\u06cc\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Monter\u00eda"
+    ],
     "name:vie_x_preferred":[
         "Monter\u00eda"
     ],
@@ -193,6 +214,9 @@
     ],
     "name:war_x_preferred":[
         "Monter\u00eda"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8499\u7279\u91cc\u4e9a"
     ],
     "name:zho_x_preferred":[
         "\u8499\u7279\u91cc\u4e9e"
@@ -343,7 +367,7 @@
         }
     ],
     "wof:id":421204339,
-    "wof:lastmodified":1582393650,
+    "wof:lastmodified":1690868138,
     "wof:name":"Monter\u00eda",
     "wof:parent_id":421172417,
     "wof:placetype":"locality",

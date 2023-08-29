@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Cabrera"
     ],
+    "name:avk_x_preferred":[
+        "Cabrera"
+    ],
     "name:cat_x_preferred":[
         "Cabrera"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Cabrera"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0628\u0631\u0631\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Cabrera"
+    ],
+    "name:gle_x_preferred":[
         "Cabrera"
     ],
     "name:glg_x_preferred":[
@@ -49,6 +58,12 @@
     ],
     "name:nld_x_preferred":[
         "Cabrera"
+    ],
+    "name:pol_x_preferred":[
+        "Cabrera"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0440\u0435\u0440\u0430"
     ],
     "name:sco_x_preferred":[
         "Cabrera"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421178899,
-    "wof:lastmodified":1566708052,
+    "wof:lastmodified":1690868348,
     "wof:name":"Cabrera",
     "wof:parent_id":1108701201,
     "wof:placetype":"locality",

@@ -20,13 +20,22 @@
     "name:ast_x_preferred":[
         "Hobo"
     ],
+    "name:avk_x_preferred":[
+        "Hobo"
+    ],
     "name:ceb_x_preferred":[
         "Hobo"
     ],
     "name:eng_x_preferred":[
         "Hobo"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0628\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Hobo"
+    ],
+    "name:gle_x_preferred":[
         "Hobo"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +53,9 @@
     "name:nld_x_preferred":[
         "Hobo"
     ],
+    "name:pol_x_preferred":[
+        "Hobo"
+    ],
     "name:por_x_preferred":[
         "Hobo"
     ],
@@ -58,6 +70,9 @@
     ],
     "name:und_x_variant":[
         "El Hobo"
+    ],
+    "name:vie_x_preferred":[
+        "Hobo"
     ],
     "name:war_x_preferred":[
         "Hobo"
@@ -116,7 +131,7 @@
         }
     ],
     "wof:id":421202739,
-    "wof:lastmodified":1566707956,
+    "wof:lastmodified":1690868156,
     "wof:name":"Hobo",
     "wof:parent_id":421188665,
     "wof:placetype":"locality",

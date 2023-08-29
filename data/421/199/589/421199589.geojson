@@ -20,8 +20,14 @@
     "name:ast_x_preferred":[
         "Ancuy\u00e1"
     ],
+    "name:avk_x_preferred":[
+        "Ancuya"
+    ],
     "name:ceb_x_preferred":[
         "Ancuya"
+    ],
+    "name:ceb_x_variant":[
+        "Ancuy\u00e1"
     ],
     "name:eng_x_preferred":[
         "Ancuya"
@@ -31,6 +37,9 @@
     ],
     "name:fra_x_preferred":[
         "Ancuy\u00e1"
+    ],
+    "name:gle_x_preferred":[
+        "Ancuya"
     ],
     "name:ita_x_preferred":[
         "Ancuya"
@@ -50,14 +59,23 @@
     "name:nld_x_preferred":[
         "Ancuy\u00e1"
     ],
+    "name:pol_x_preferred":[
+        "Ancuya"
+    ],
     "name:por_x_preferred":[
         "Ancuya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u043a\u0443\u044f"
     ],
     "name:spa_x_preferred":[
         "Ancuy\u00e1"
     ],
     "name:swe_x_preferred":[
         "Ancuya"
+    ],
+    "name:swe_x_variant":[
+        "Ancuy\u00e1"
     ],
     "name:tgl_x_preferred":[
         "Ancuya"
@@ -122,7 +140,7 @@
         }
     ],
     "wof:id":421199589,
-    "wof:lastmodified":1566708016,
+    "wof:lastmodified":1690868277,
     "wof:name":"Ancuy\u00e1",
     "wof:parent_id":1108700969,
     "wof:placetype":"locality",

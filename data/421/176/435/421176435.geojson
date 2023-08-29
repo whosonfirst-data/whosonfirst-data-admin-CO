@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Coromoro"
     ],
+    "name:avk_x_preferred":[
+        "Coromoro"
+    ],
     "name:ceb_x_preferred":[
         "Coromoro"
     ],
@@ -29,7 +32,13 @@
     "name:eng_x_preferred":[
         "Coromoro"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0631\u0648\u0645\u0648\u0631\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Coromoro"
+    ],
+    "name:gle_x_preferred":[
         "Coromoro"
     ],
     "name:glg_x_preferred":[
@@ -49,6 +58,12 @@
     ],
     "name:nld_x_preferred":[
         "Coromoro"
+    ],
+    "name:pol_x_preferred":[
+        "Coromoro"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043c\u043e\u0440\u043e"
     ],
     "name:spa_x_preferred":[
         "Coromoro"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":421176435,
-    "wof:lastmodified":1566708061,
+    "wof:lastmodified":1690868372,
     "wof:name":"Comoro",
     "wof:parent_id":1108701233,
     "wof:placetype":"locality",
