@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":92.69969,
-    "geom:area_square_m":1141685024754.641113,
+    "geom:area_square_m":1141690593803.469482,
     "geom:bbox":"-81.737724,-4.22711,-66.851923,15.886285",
     "geom:latitude":3.907047,
     "geom:longitude":-73.080581,
@@ -13,6 +13,9 @@
     "iso:country":"CO",
     "itu:country_code":[
         "57"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CO"
@@ -1281,7 +1284,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"57",
     "statoids:ds":"CO",
     "statoids:fifa":"COL",
@@ -1341,7 +1345,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"93604d73337e556236fbb27105cde0d7",
+    "wof:geomhash":"a817667b89dd5885bf3e593b751dc7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -1355,12 +1359,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867902,
+    "wof:lastmodified":1694639654,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
-    "wof:population":47704427,
-    "wof:population_rank":15,
+    "wof:population":50339443,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:shortcode":"CO",
     "wof:superseded_by":[],
