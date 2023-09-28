@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.894206,
-    "geom:area_square_m":23302336608.159779,
+    "geom:area_square_m":23302336390.371689,
     "geom:bbox":"-74.660171,4.655805,-71.945457,7.054841",
     "geom:latitude":5.778016,
     "geom:longitude":-73.100227,
@@ -380,17 +380,19 @@
         "gn:id":3688536,
         "gp:id":2345052,
         "hasc:id":"CO.BY",
+        "iso:code":"CO-BOY",
         "iso:id":"CO-BOY",
         "qs_pg:id":894859,
         "unlc:id":"CO-BOY",
         "wd:id":"Q121233",
         "wk:page":"Boyac\u00e1 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba093803bdc68324743aaa86de38aa0f",
+    "wof:geomhash":"8f3cbaa902c75e30fcd492e7f0da3fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -405,7 +407,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867893,
+    "wof:lastmodified":1695884386,
     "wof:name":"Boyac\u00e1",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.605192,
-    "geom:area_square_m":7450759992.888674,
+    "geom:area_square_m":7450760689.983822,
     "geom:bbox":"-75.922134,4.802514,-74.627708,5.778891",
     "geom:latitude":5.34241,
     "geom:longitude":-75.305699,
@@ -356,17 +356,19 @@
         "gn:id":3687951,
         "gp:id":2345053,
         "hasc:id":"CO.CL",
+        "iso:code":"CO-CAL",
         "iso:id":"CO-CAL",
         "qs_pg:id":894861,
         "unlc:id":"CO-CAL",
         "wd:id":"Q230607",
         "wk:page":"Caldas Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de924ddd45c1e30b4581dcf9d66f2b99",
+    "wof:geomhash":"694149e86afb3ab71a52f91aca119d30",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867897,
+    "wof:lastmodified":1695884388,
     "wof:name":"Caldas",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

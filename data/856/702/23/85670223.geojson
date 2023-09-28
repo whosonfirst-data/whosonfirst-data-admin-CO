@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.90146,
-    "geom:area_square_m":23135542574.177643,
+    "geom:area_square_m":23135542661.27396,
     "geom:bbox":"-74.945591,8.917108,-73.541983,11.349458",
     "geom:latitude":10.248913,
     "geom:longitude":-74.260694,
@@ -374,17 +374,19 @@
         "gn:id":3675686,
         "gp:id":2345063,
         "hasc:id":"CO.MA",
+        "iso:code":"CO-MAG",
         "iso:id":"CO-MAG",
         "qs_pg:id":890043,
         "unlc:id":"CO-MAG",
         "wd:id":"Q199910",
         "wk:page":"Magdalena Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87b60f4c92849f5c0d2d379fec1978b0",
+    "wof:geomhash":"c7a7ef705e53830875ee94f98ed882b5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -399,7 +401,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867913,
+    "wof:lastmodified":1695884974,
     "wof:name":"Magdalena",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

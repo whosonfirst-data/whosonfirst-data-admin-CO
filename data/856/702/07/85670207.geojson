@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275979,
-    "geom:area_square_m":3353448836.559743,
+    "geom:area_square_m":3353449010.86635,
     "geom:bbox":"-75.267143,10.253183,-74.713238,11.107689",
     "geom:latitude":10.676015,
     "geom:longitude":-74.964903,
@@ -373,17 +373,19 @@
         "gn:id":3689436,
         "gp:id":2345050,
         "hasc:id":"CO.AT",
+        "iso:code":"CO-ATL",
         "iso:id":"CO-ATL",
         "qs_pg:id":890036,
         "unlc:id":"CO-ATL",
         "wd:id":"Q230882",
         "wk:page":"Atl\u00e1ntico Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5bbe9e43f68bcac7036b1e6894e66b41",
+    "wof:geomhash":"345c2cc91fd67ced1de22b0592f7e975",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -398,7 +400,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867908,
+    "wof:lastmodified":1695884393,
     "wof:name":"Atl\u00e1ntico",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

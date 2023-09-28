@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004073,
-    "geom:area_square_m":49093321.651725,
+    "geom:area_square_m":49093307.986916,
     "geom:bbox":"-81.736264,12.480639,-81.349075,13.394773",
     "geom:latitude":12.909467,
     "geom:longitude":-81.562568,
@@ -362,15 +362,17 @@
         "gn:id":3670205,
         "gp:id":2345070,
         "hasc:id":"CO.SA",
+        "iso:code":"CO-SAP",
         "iso:id":"CO-SAP",
         "qs_pg:id":672403,
         "wd:id":"Q26855"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20f5c983b8d441fa7d6ba01feb31de72",
+    "wof:geomhash":"f34037f251d8a4557361924199f9777b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -385,7 +387,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867891,
+    "wof:lastmodified":1695884384,
     "wof:name":"San Andr\u00e9s y Providencia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

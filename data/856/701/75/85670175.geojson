@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.964998,
-    "geom:area_square_m":24236151694.572868,
+    "geom:area_square_m":24236151028.023514,
     "geom:bbox":"-76.108527,2.870496,-74.475238,5.316963",
     "geom:latitude":4.034664,
     "geom:longitude":-75.255811,
@@ -362,17 +362,19 @@
         "gn:id":3666951,
         "gp:id":2345073,
         "hasc:id":"CO.TO",
+        "iso:code":"CO-TOL",
         "iso:id":"CO-TOL",
         "qs_pg:id":423662,
         "unlc:id":"CO-TOL",
         "wd:id":"Q234501",
         "wk:page":"Tolima Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fde889edd93bb494d0d589d46441d5d7",
+    "wof:geomhash":"d3127d25a4643ee3bf0461f1d1debdcf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -387,7 +389,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867896,
+    "wof:lastmodified":1695884387,
     "wof:name":"Tolima",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

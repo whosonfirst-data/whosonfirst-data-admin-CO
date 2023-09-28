@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.166799,
-    "geom:area_square_m":63417106432.687523,
+    "geom:area_square_m":63417108732.857002,
     "geom:bbox":"-77.127087,5.418251,-73.879592,8.889797",
     "geom:latitude":6.92599,
     "geom:longitude":-75.57096,
@@ -401,17 +401,19 @@
         "gn:id":3689815,
         "gp:id":2345048,
         "hasc:id":"CO.AN",
+        "iso:code":"CO-ANT",
         "iso:id":"CO-ANT",
         "qs_pg:id":1168632,
         "unlc:id":"CO-ANT",
         "wd:id":"Q123304",
         "wk:page":"Antioquia Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20afd27ce10ca1f6e8222c0611c1fc3e",
+    "wof:geomhash":"36bf23d199141068fa51ac28de87ce23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -426,7 +428,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867894,
+    "wof:lastmodified":1695884386,
     "wof:name":"Antioquia",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

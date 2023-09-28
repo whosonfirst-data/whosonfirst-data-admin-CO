@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.483255,
-    "geom:area_square_m":18321458140.082726,
+    "geom:area_square_m":18321458964.991863,
     "geom:bbox":"-76.624259,1.555473,-74.412844,3.844847",
     "geom:latitude":2.57103,
     "geom:longitude":-75.585812,
@@ -356,17 +356,19 @@
         "gn:id":3680692,
         "gp:id":2345061,
         "hasc:id":"CO.HU",
+        "iso:code":"CO-HUI",
         "iso:id":"CO-HUI",
         "qs_pg:id":894862,
         "unlc:id":"CO-HUI",
         "wd:id":"Q234920",
         "wk:page":"Huila Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bc66b0b9019617abf94411e614f0a25c",
+    "wof:geomhash":"82a833dfe0f3408f6a6c666e4f4c09ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +383,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867895,
+    "wof:lastmodified":1695884387,
     "wof:name":"Huila",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

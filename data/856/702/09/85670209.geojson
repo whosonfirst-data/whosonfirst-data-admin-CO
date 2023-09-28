@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.194049,
-    "geom:area_square_m":26810825554.574753,
+    "geom:area_square_m":26810823524.044979,
     "geom:bbox":"-75.703074,6.999822,-73.747796,10.801467",
     "geom:latitude":8.743749,
     "geom:longitude":-74.506382,
@@ -372,17 +372,19 @@
         "gn:id":3688650,
         "gp:id":2345051,
         "hasc:id":"CO.BL",
+        "iso:code":"CO-BOL",
         "iso:id":"CO-BOL",
         "qs_pg:id":913456,
         "unlc:id":"CO-BOL",
         "wd:id":"Q230597",
         "wk:page":"Bol\u00edvar Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"468a0fc017315764811556e96e239274",
+    "wof:geomhash":"1dd538485f456b77966ea777878af9a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -397,7 +399,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867909,
+    "wof:lastmodified":1695884394,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

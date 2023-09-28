@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.882072,
-    "geom:area_square_m":10770524375.234953,
+    "geom:area_square_m":10770524875.470678,
     "geom:bbox":"-75.711769,8.276045,-74.532889,10.145647",
     "geom:latitude":9.062989,
     "geom:longitude":-75.111505,
@@ -350,17 +350,19 @@
         "gn:id":3667725,
         "gp:id":2345072,
         "hasc:id":"CO.SU",
+        "iso:code":"CO-SUC",
         "iso:id":"CO-SUC",
         "qs_pg:id":890044,
         "unlc:id":"CO-SUC",
         "wd:id":"Q235188",
         "wk:page":"Sucre Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e97a1379d9b5df8cc4b57d208ee284cf",
+    "wof:geomhash":"68b97a41be74ecb3c7f858395bd38cc6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -375,7 +377,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867906,
+    "wof:lastmodified":1695884974,
     "wof:name":"Sucre",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

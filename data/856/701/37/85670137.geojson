@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.044757,
-    "geom:area_square_m":25014245902.065929,
+    "geom:area_square_m":25014245180.794708,
     "geom:bbox":"-76.509935,7.347091,-74.785137,9.447827",
     "geom:latitude":8.358325,
     "geom:longitude":-75.794815,
@@ -366,17 +366,19 @@
         "gn:id":3685889,
         "gp:id":2345058,
         "hasc:id":"CO.CO",
+        "iso:code":"CO-COR",
         "iso:id":"CO-COR",
         "qs_pg:id":890042,
         "unlc:id":"CO-COR",
         "wd:id":"Q234912",
         "wk:page":"C\u00f3rdoba Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4af47cc07ea4cb7c534d40ffc2da2268",
+    "wof:geomhash":"0cf5acf571aca23e0eb4ba1b56c922fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867897,
+    "wof:lastmodified":1695884388,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

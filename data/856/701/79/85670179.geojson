@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.316485,
-    "geom:area_square_m":90452724194.126801,
+    "geom:area_square_m":90452725234.585205,
     "geom:bbox":"-76.305777,-0.70651,-71.320216,2.933192",
     "geom:latitude":0.80015,
     "geom:longitude":-73.962618,
@@ -372,17 +372,19 @@
         "gn:id":3687479,
         "gp:id":2345054,
         "hasc:id":"CO.CQ",
+        "iso:code":"CO-CAQ",
         "iso:id":"CO-CAQ",
         "qs_pg:id":890039,
         "unlc:id":"CO-CAQ",
         "wd:id":"Q13985",
         "wk:page":"Caquet\u00e1 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1e7d3111154f1055c9ac511dc7bec7e",
+    "wof:geomhash":"96e973f4a53af70343f012a0ee6123e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -397,7 +399,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867899,
+    "wof:lastmodified":1695884389,
     "wof:name":"Caquet\u00e1",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
