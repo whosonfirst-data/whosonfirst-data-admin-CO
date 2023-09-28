@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019468,
-    "geom:area_square_m":240097423.453786,
+    "geom:area_square_m":240097534.212625,
     "geom:bbox":"-74.465066,4.03367,-74.240552,4.226241",
     "geom:latitude":4.139406,
     "geom:longitude":-74.352183,
@@ -125,9 +125,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CU.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503395,
-    "wof:geomhash":"a51e26271112f354d7d51b07b3c984cb",
+    "wof:geomhash":"5eca34fc26dba18b93d3d817b10c1080",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108700707,
-    "wof:lastmodified":1636506762,
+    "wof:lastmodified":1695886202,
     "wof:name":"San Bernardo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

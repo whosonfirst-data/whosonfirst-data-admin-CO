@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066648,
-    "geom:area_square_m":812375195.414083,
+    "geom:area_square_m":812374560.95231,
     "geom:bbox":"-73.836989,9.524628,-73.441287,9.872877",
     "geom:latitude":9.681882,
     "geom:longitude":-73.693089,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CE.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503227,
-    "wof:geomhash":"3d2d2c0af1656e665dae83154d1a5851",
+    "wof:geomhash":"ea0763fb5a65eae775f03164c20d86f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108700537,
-    "wof:lastmodified":1627522016,
+    "wof:lastmodified":1695886511,
     "wof:name":"El Paso",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

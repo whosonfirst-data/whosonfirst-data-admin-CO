@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008096,
-    "geom:area_square_m":99643452.241313,
+    "geom:area_square_m":99643412.664438,
     "geom:bbox":"-73.910666,5.457008,-73.786474,5.573583",
     "geom:latitude":5.508089,
     "geom:longitude":-73.845422,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.CU.SM",
         "wd:id":"Q1576943"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503404,
-    "wof:geomhash":"191059092f1dcef34bb24dd3714c9907",
+    "wof:geomhash":"73d3d9e79f17f5e5f1adf13c727b1fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700711,
-    "wof:lastmodified":1690867958,
+    "wof:lastmodified":1695885995,
     "wof:name":"Simijaca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

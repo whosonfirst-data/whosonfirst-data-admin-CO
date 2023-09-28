@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09157,
-    "geom:area_square_m":1116692408.930009,
+    "geom:area_square_m":1116692587.600906,
     "geom:bbox":"-74.655728,9.257321,-73.809646,9.749512",
     "geom:latitude":9.51878,
     "geom:longitude":-74.340724,
@@ -150,9 +150,10 @@
         "hasc:id":"CO.MA.SA",
         "wd:id":"Q1441044"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503597,
-    "wof:geomhash":"1cb402f8d0aeee757edb93a7d803dbf8",
+    "wof:geomhash":"4add75886cfb6677552acd7377e3d9a5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108700911,
-    "wof:lastmodified":1690867968,
+    "wof:lastmodified":1695886203,
     "wof:name":"Santa Ana",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

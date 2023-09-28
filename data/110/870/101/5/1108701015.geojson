@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006514,
-    "geom:area_square_m":80538540.256629,
+    "geom:area_square_m":80538642.073542,
     "geom:bbox":"-77.599809,0.943739,-77.461748,1.026984",
     "geom:latitude":0.980757,
     "geom:longitude":-77.519337,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.NA.IL",
         "wd:id":"Q1575358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503688,
-    "wof:geomhash":"5dae5437defb86c088a686746a989739",
+    "wof:geomhash":"eb547b90f816a9640687db476938f6b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108701015,
-    "wof:lastmodified":1690868024,
+    "wof:lastmodified":1695886056,
     "wof:name":"Iles",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

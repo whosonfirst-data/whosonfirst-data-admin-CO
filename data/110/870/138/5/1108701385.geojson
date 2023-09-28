@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004028,
-    "geom:area_square_m":49142530.703764,
+    "geom:area_square_m":49142530.703733,
     "geom:bbox":"-75.711768529,9.35402942324,-75.6028746242,9.46867549231",
     "geom:latitude":9.398492,
     "geom:longitude":-75.656255,
@@ -90,9 +90,10 @@
     "wof:concordances":{
         "hasc:id":"CO.SU.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503989,
-    "wof:geomhash":"b8670709d801c515cc22b3e05f30492e",
+    "wof:geomhash":"9dfbdda3c96234adbbce8d7475b55a74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108701385,
-    "wof:lastmodified":1566707526,
+    "wof:lastmodified":1695886044,
     "wof:name":"Cove\u00f1as",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

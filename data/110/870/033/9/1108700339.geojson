@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01259,
-    "geom:area_square_m":154838340.510877,
+    "geom:area_square_m":154838237.017832,
     "geom:bbox":"-72.743002,5.866767,-72.632776,6.062423",
     "geom:latitude":5.959292,
     "geom:longitude":-72.681362,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.BY.SC",
         "wd:id":"Q1574712"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503058,
-    "wof:geomhash":"b9af74ac48592fb0533dd2b29d09734f",
+    "wof:geomhash":"872d3d19d374402ac848fc271b31fb83",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700339,
-    "wof:lastmodified":1690868065,
+    "wof:lastmodified":1695886091,
     "wof:name":"Socha",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

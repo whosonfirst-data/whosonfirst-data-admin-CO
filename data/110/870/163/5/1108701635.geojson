@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.52924,
-    "geom:area_square_m":6543590776.052892,
+    "geom:area_square_m":6543590351.551721,
     "geom:bbox":"-70.327471,-1.227671,-69.418309,-0.112464",
     "geom:latitude":-0.71589,
     "geom:longitude":-69.908694,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.VP.TA",
         "wd:id":"Q1655173"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504255,
-    "wof:geomhash":"08b577d3503bcd1e9bd6dc0bd5dc8e61",
+    "wof:geomhash":"f235d1b3c7f5ae2967d073eb5cd5013b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701635,
-    "wof:lastmodified":1690868018,
+    "wof:lastmodified":1695886051,
     "wof:name":"Taraira",
     "wof:parent_id":85670259,
     "wof:placetype":"county",

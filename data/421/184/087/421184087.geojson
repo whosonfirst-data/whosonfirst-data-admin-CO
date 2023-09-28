@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070114,
-    "geom:area_square_m":861098732.987975,
+    "geom:area_square_m":861098441.497381,
     "geom:bbox":"-75.64285,6.515554,-75.196032,6.881591",
     "geom:latitude":6.676033,
     "geom:longitude":-75.439134,
@@ -159,12 +159,13 @@
         "qs_pg:id":989494,
         "wd:id":"Q2088093"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009400,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"abcdb27ea6f5f3f824e80c9baaae0453",
+    "wof:geomhash":"270577f0434fcecaf4735e7963631b17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421184087,
-    "wof:lastmodified":1690868302,
+    "wof:lastmodified":1695886252,
     "wof:name":"Santa Rosa De Osos",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

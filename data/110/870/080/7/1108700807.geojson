@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03751,
-    "geom:area_square_m":463323127.873537,
+    "geom:area_square_m":463322736.231168,
     "geom:bbox":"-75.438915,2.510272,-75.170139,2.78109",
     "geom:latitude":2.658658,
     "geom:longitude":-75.329337,
@@ -171,9 +171,10 @@
         "hasc:id":"CO.HU.CA",
         "wd:id":"Q2327412"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503498,
-    "wof:geomhash":"242250b58526d419db85be7f10626191",
+    "wof:geomhash":"cd728a9121975d883d89839dd3bfdb54",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1108700807,
-    "wof:lastmodified":1690868036,
+    "wof:lastmodified":1695886212,
     "wof:name":"Campoalegre",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007707,
-    "geom:area_square_m":94985815.362456,
+    "geom:area_square_m":94985705.101972,
     "geom:bbox":"-75.747449,4.607206,-75.570718,4.718211",
     "geom:latitude":4.668861,
     "geom:longitude":-75.675407,
@@ -282,12 +282,13 @@
         "qs_pg:id":1063130,
         "wd:id":"Q1525384"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"75909766be9a57ee106b6e16060eb831",
+    "wof:geomhash":"71cd0f421df63575a7cadd61e9bbf515",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -297,7 +298,7 @@
         }
     ],
     "wof:id":421176667,
-    "wof:lastmodified":1690868362,
+    "wof:lastmodified":1695886269,
     "wof:name":"Filandia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

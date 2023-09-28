@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065246,
-    "geom:area_square_m":797962071.519267,
+    "geom:area_square_m":797962091.783977,
     "geom:bbox":"-75.648867,8.310178,-75.184176,8.616284",
     "geom:latitude":8.479397,
     "geom:longitude":-75.408499,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CO.PN",
         "wd:id":"Q2433383"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503278,
-    "wof:geomhash":"10c677497d7f3c6d52351c356f956773",
+    "wof:geomhash":"a764d0552c55418bc9c815b4055bc5bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700591,
-    "wof:lastmodified":1690868061,
+    "wof:lastmodified":1695886087,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

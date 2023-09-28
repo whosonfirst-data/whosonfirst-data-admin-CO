@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147862,
-    "geom:area_square_m":1818216870.37495,
+    "geom:area_square_m":1818216804.500886,
     "geom:bbox":"-76.988755,5.813045,-76.245655,6.209259",
     "geom:latitude":6.033903,
     "geom:longitude":-76.673611,
@@ -239,9 +239,10 @@
         "hasc:id":"CO.CH.QU",
         "wd:id":"Q816420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503468,
-    "wof:geomhash":"909e7064111141157fc88f1070645595",
+    "wof:geomhash":"ed27d5a9a9650acaf4c12e1ee93f7415",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":1108700773,
-    "wof:lastmodified":1690867952,
+    "wof:lastmodified":1695885991,
     "wof:name":"Medio Atrato",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

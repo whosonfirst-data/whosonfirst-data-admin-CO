@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.07684,
-    "geom:area_square_m":947894912.793002,
+    "geom:area_square_m":947894722.168523,
     "geom:bbox":"-75.443393,3.756641,-75.072057,4.119151",
     "geom:latitude":3.937092,
     "geom:longitude":-75.276073,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.TO.OR",
         "wd:id":"Q2433233"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504059,
-    "wof:geomhash":"5c823205c6b6771fa1211a06af89a7c3",
+    "wof:geomhash":"c754b23443ac0442a6a1b6ac841bda42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701449,
-    "wof:lastmodified":1690867999,
+    "wof:lastmodified":1695886025,
     "wof:name":"Ortega",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

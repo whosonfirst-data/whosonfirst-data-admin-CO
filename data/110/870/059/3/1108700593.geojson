@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135182,
-    "geom:area_square_m":1656425402.103447,
+    "geom:area_square_m":1656425246.214607,
     "geom:bbox":"-75.994797,7.347091,-75.512528,8.034686",
     "geom:latitude":7.711339,
     "geom:longitude":-75.770297,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CO.PL",
         "wd:id":"Q2433456"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503280,
-    "wof:geomhash":"2f8d25828057d79059adf6c37e341991",
+    "wof:geomhash":"b8a035f839c70d4efc15c455d9facb89",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700593,
-    "wof:lastmodified":1690868061,
+    "wof:lastmodified":1695886089,
     "wof:name":"Puerto Libertador",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

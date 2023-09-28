@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036585,
-    "geom:area_square_m":444370932.848683,
+    "geom:area_square_m":444370964.905088,
     "geom:bbox":"-74.272716,10.633977,-74.084827,10.959845",
     "geom:latitude":10.797278,
     "geom:longitude":-74.178845,
@@ -143,9 +143,10 @@
         "hasc:id":"CO.MA.CI",
         "wd:id":"Q1092797"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503605,
-    "wof:geomhash":"ab82d242fd6c52c6c4323b0db2455e59",
+    "wof:geomhash":"f59160d7d3947d3bf24a74fd9629dfbe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1108700923,
-    "wof:lastmodified":1690868060,
+    "wof:lastmodified":1695886086,
     "wof:name":"Zona Bananera",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

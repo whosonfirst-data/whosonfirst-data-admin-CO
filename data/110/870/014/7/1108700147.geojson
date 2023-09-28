@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00344,
-    "geom:area_square_m":41836697.685473,
+    "geom:area_square_m":41836697.68547,
     "geom:bbox":"-75.1108717664,10.3363825196,-75.0282145887,10.4115040701",
     "geom:latitude":10.370233,
     "geom:longitude":-75.073813,
@@ -144,9 +144,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AT.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502889,
-    "wof:geomhash":"3cf1a7c8bcc9e711a74ddbe75507e675",
+    "wof:geomhash":"5668ce774cfddafbd2cb84e37e2ee6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108700147,
-    "wof:lastmodified":1566707473,
+    "wof:lastmodified":1695885994,
     "wof:name":"San Crist\u00f3bal",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

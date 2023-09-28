@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005668,
-    "geom:area_square_m":69977323.676817,
+    "geom:area_square_m":69977166.025109,
     "geom:bbox":"-76.376933,3.130337,-76.286693,3.241385",
     "geom:latitude":3.194823,
     "geom:longitude":-76.336216,
@@ -153,9 +153,10 @@
         "hasc:id":"CO.CA.PD",
         "wd:id":"Q2433292"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503182,
-    "wof:geomhash":"adb5daed3145a95d6eca7fb432bded43",
+    "wof:geomhash":"fbe52b9f8cfb90fd53c19ab55bffddc1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108700481,
-    "wof:lastmodified":1690867950,
+    "wof:lastmodified":1695886201,
     "wof:name":"Padilla",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

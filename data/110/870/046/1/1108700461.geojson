@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208349,
-    "geom:area_square_m":2573982081.69968,
+    "geom:area_square_m":2573981771.398293,
     "geom:bbox":"-77.929146,2.133566,-77.374794,2.705645",
     "geom:latitude":2.413716,
     "geom:longitude":-77.690886,
@@ -168,9 +168,10 @@
         "hasc:id":"CO.CA.GU",
         "wd:id":"Q2432113"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503169,
-    "wof:geomhash":"88f6e2e9ce4ba9efb4121d4bc79d9dab",
+    "wof:geomhash":"3c60a8fed05270fad7c7532b02bd7c18",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108700461,
-    "wof:lastmodified":1690867949,
+    "wof:lastmodified":1695886201,
     "wof:name":"Guapi",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

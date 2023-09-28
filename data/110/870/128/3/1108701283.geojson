@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048201,
-    "geom:area_square_m":592381666.22031,
+    "geom:area_square_m":592382057.553562,
     "geom:bbox":"-74.102852,6.159979,-73.682429,6.564067",
     "geom:latitude":6.331424,
     "geom:longitude":-73.819137,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.ST.LN",
         "wd:id":"Q612555"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503916,
-    "wof:geomhash":"748277efb3349b643f388d439e66defb",
+    "wof:geomhash":"41d71040efa92b8b9fa12322711cf8b7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108701283,
-    "wof:lastmodified":1690868005,
+    "wof:lastmodified":1695886029,
     "wof:name":"Land\u00e1zuri",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

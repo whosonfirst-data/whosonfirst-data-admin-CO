@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003869,
-    "geom:area_square_m":47580483.068161,
+    "geom:area_square_m":47580483.06814,
     "geom:bbox":"-73.6662281305,5.91113415539,-73.5869259571,5.99859917994",
     "geom:latitude":5.955391,
     "geom:longitude":-73.62323,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.JP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503855,
-    "wof:geomhash":"1baf1e1041f6647ac187267962f793f9",
+    "wof:geomhash":"aa5725e3736b15caf3c58f60efd8bb2a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108701191,
-    "wof:lastmodified":1566707510,
+    "wof:lastmodified":1695886027,
     "wof:name":"Barbosa",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

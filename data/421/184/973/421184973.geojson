@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015438,
-    "geom:area_square_m":189802133.230405,
+    "geom:area_square_m":189802076.649564,
     "geom:bbox":"-75.233112,6.020255,-75.060522,6.232774",
     "geom:latitude":6.12369,
     "geom:longitude":-75.127059,
@@ -390,12 +390,13 @@
         "hasc:id":"CO.AN.GR",
         "qs_pg:id":1015366
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009428,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10e1edbc830dba417ffb408dff8e5f77",
+    "wof:geomhash":"3a376b33d7084f832276eeadc76919ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -405,7 +406,7 @@
         }
     ],
     "wof:id":421184973,
-    "wof:lastmodified":1636506875,
+    "wof:lastmodified":1695886230,
     "wof:name":"Granada",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

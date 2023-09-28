@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087676,
-    "geom:area_square_m":1071293388.592881,
+    "geom:area_square_m":1071293232.714046,
     "geom:bbox":"-74.894992,8.568353,-74.557434,9.045732",
     "geom:latitude":8.826383,
     "geom:longitude":-74.74311,
@@ -158,12 +158,13 @@
         "wd:id":"Q1442422",
         "wk:page":"Sucre, Sucre Department"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009574,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"191130ab96d42577df589cefa723c406",
+    "wof:geomhash":"44e56cd21620a06663fd89d8e83f1aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421188689,
-    "wof:lastmodified":1690868210,
+    "wof:lastmodified":1695886222,
     "wof:name":"Sucre",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

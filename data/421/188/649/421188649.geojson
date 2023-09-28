@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007356,
-    "geom:area_square_m":90592269.218076,
+    "geom:area_square_m":90592173.52702,
     "geom:bbox":"-75.844063,5.0512,-75.696656,5.175489",
     "geom:latitude":5.111989,
     "geom:longitude":-75.758934,
@@ -135,12 +135,13 @@
         "wd:id":"Q536797",
         "wk:page":"Risaralda, Caldas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009572,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b8b389be2ef4baa6e16517b0f8979f98",
+    "wof:geomhash":"d45a9e6851bfddd3f087c4ade2681fa5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421188649,
-    "wof:lastmodified":1690868216,
+    "wof:lastmodified":1695886236,
     "wof:name":"Risaralda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.98793,
-    "geom:area_square_m":12153784356.98864,
+    "geom:area_square_m":12153784356.986952,
     "geom:bbox":"-72.0481725561,5.41636667735,-69.8355924808,6.12901621731",
     "geom:latitude":5.780489,
     "geom:longitude":-70.870624,
@@ -112,9 +112,10 @@
         "hasc:id":"CO.CS.PA",
         "wd:id":"Q1442453"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504163,
-    "wof:geomhash":"91a184a6c41abdd3bf30d0a88a15f68c",
+    "wof:geomhash":"9de1a2a0d5f555c471d3b83fbab72c22",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108701537,
-    "wof:lastmodified":1566707514,
+    "wof:lastmodified":1695886031,
     "wof:name":"Paz De Ariporo",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

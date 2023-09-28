@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009959,
-    "geom:area_square_m":122372685.008621,
+    "geom:area_square_m":122372849.710491,
     "geom:bbox":"-72.625991,6.34646,-72.481304,6.487343",
     "geom:latitude":6.406736,
     "geom:longitude":-72.56035,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503040,
-    "wof:geomhash":"7e2353f3f3304866a8bd4670478c77d2",
+    "wof:geomhash":"a06f6351101b29a4670ab15658430a67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700315,
-    "wof:lastmodified":1636506764,
+    "wof:lastmodified":1695886204,
     "wof:name":"San Mateo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

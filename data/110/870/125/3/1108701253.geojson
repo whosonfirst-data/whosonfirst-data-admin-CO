@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008201,
-    "geom:area_square_m":100637612.877558,
+    "geom:area_square_m":100637611.92175,
     "geom:bbox":"-73.135102,7.017245,-73.001719,7.14832",
     "geom:latitude":7.07891,
     "geom:longitude":-73.068806,
@@ -159,9 +159,10 @@
         "hasc:id":"CO.ST.FL",
         "wd:id":"Q1006661"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503896,
-    "wof:geomhash":"9972b7dd7c089bb73c084b448458a0a0",
+    "wof:geomhash":"012aa13817822763bb6644f99fae06b8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":1108701253,
-    "wof:lastmodified":1690868085,
+    "wof:lastmodified":1695886109,
     "wof:name":"Floridablanca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

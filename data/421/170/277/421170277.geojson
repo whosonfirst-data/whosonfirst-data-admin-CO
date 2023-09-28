@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020748,
-    "geom:area_square_m":256019278.873694,
+    "geom:area_square_m":256018899.614655,
     "geom:bbox":"-76.652198,3.54706,-76.507074,3.862985",
     "geom:latitude":3.694184,
     "geom:longitude":-76.590211,
@@ -181,12 +181,13 @@
         "qs_pg:id":233546,
         "wd:id":"Q677687"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008846,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0388cefd83c6507c13714c3581d460a8",
+    "wof:geomhash":"a8bce92441a3ad16cd7417d81248594b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421170277,
-    "wof:lastmodified":1690868315,
+    "wof:lastmodified":1695886258,
     "wof:name":"La Cumbre",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

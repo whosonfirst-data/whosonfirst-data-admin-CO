@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02739,
-    "geom:area_square_m":336885911.102733,
+    "geom:area_square_m":336885784.405292,
     "geom:bbox":"-74.183265,5.829525,-73.908014,6.034451",
     "geom:latitude":5.910584,
     "geom:longitude":-74.050836,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.ST.LB",
         "wd:id":"Q1575306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503915,
-    "wof:geomhash":"f9da6f5e5c6ea3d896a4c3b7432a6c66",
+    "wof:geomhash":"b7c3835359e4214e7902691a301de139",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701281,
-    "wof:lastmodified":1690868004,
+    "wof:lastmodified":1695886029,
     "wof:name":"La Belleza",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

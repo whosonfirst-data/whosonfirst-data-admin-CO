@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034817,
-    "geom:area_square_m":427796668.493128,
+    "geom:area_square_m":427796804.043593,
     "geom:bbox":"-75.107123,6.313582,-74.781559,6.547647",
     "geom:latitude":6.448592,
     "geom:longitude":-74.93203,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.AN.SQ",
         "wd:id":"Q1525767"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502772,
-    "wof:geomhash":"591511b3a38b4905cb3b1ca6d034cdc8",
+    "wof:geomhash":"5863ee3a8b6d07c734838dd82f8852e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700015,
-    "wof:lastmodified":1690867988,
+    "wof:lastmodified":1695886018,
     "wof:name":"San Roque",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

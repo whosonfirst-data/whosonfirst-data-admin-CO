@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017093,
-    "geom:area_square_m":208520290.726347,
+    "geom:area_square_m":208520317.779911,
     "geom:bbox":"-75.116689,9.31444,-74.953819,9.478865",
     "geom:latitude":9.395887,
     "geom:longitude":-75.035338,
@@ -185,9 +185,10 @@
     "wof:concordances":{
         "hasc:id":"CO.SU.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504011,
-    "wof:geomhash":"d20bf3861da28c7febdc482e743cea85",
+    "wof:geomhash":"0bfe92c7e0eb6bb4df73ce61beb50f70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":1108701417,
-    "wof:lastmodified":1636506773,
+    "wof:lastmodified":1695886217,
     "wof:name":"San Pedro",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

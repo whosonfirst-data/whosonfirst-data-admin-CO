@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009819,
-    "geom:area_square_m":121038153.343495,
+    "geom:area_square_m":121037847.960315,
     "geom:bbox":"-75.785439,4.39536,-75.633253,4.588906",
     "geom:latitude":4.498675,
     "geom:longitude":-75.725134,
@@ -297,12 +297,13 @@
         "wd:id":"Q328518",
         "wk:page":"Armenia, Colombia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010115,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"493cf0c4b996ac9f9f4a1ea87911325d",
+    "wof:geomhash":"d7b143edcaa3d3dddad3843b98bfd179",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -312,7 +313,7 @@
         }
     ],
     "wof:id":421202353,
-    "wof:lastmodified":1690868156,
+    "wof:lastmodified":1695886220,
     "wof:name":"Armenia",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

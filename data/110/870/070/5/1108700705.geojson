@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010394,
-    "geom:area_square_m":128090193.428747,
+    "geom:area_square_m":128090160.569773,
     "geom:bbox":"-74.609598,4.622397,-74.500397,4.800215",
     "geom:latitude":4.715291,
     "geom:longitude":-74.554214,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CU.QP",
         "wd:id":"Q941367"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503391,
-    "wof:geomhash":"7c15976c5a228b06acea7aebe4837ef6",
+    "wof:geomhash":"9f25056f3f658fe46e89a64a4be7d48d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700705,
-    "wof:lastmodified":1690867954,
+    "wof:lastmodified":1695885992,
     "wof:name":"Quipile",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

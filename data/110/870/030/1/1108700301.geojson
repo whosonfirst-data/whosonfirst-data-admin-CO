@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012638,
-    "geom:area_square_m":155540983.474758,
+    "geom:area_square_m":155540983.474826,
     "geom:bbox":"-74.3147989975,5.46215331977,-74.1283878973,5.64116052524",
     "geom:latitude":5.558362,
     "geom:longitude":-74.216025,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.MZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503026,
-    "wof:geomhash":"cd7bd3d9a346623a84efb2126730ded5",
+    "wof:geomhash":"e1ed1e4e06fdd18e8081a943555f83dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700301,
-    "wof:lastmodified":1566707497,
+    "wof:lastmodified":1695886016,
     "wof:name":"Qu\u00edpama",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

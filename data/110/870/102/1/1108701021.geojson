@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020115,
-    "geom:area_square_m":248628963.771723,
+    "geom:area_square_m":248628963.77177,
     "geom:bbox":"-77.8652693972,1.4293224807,-77.5343738972,1.66619381849",
     "geom:latitude":1.552631,
     "geom:longitude":-77.701682,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503694,
-    "wof:geomhash":"e9c651bdc567fce5955d1d6d00e9d129",
+    "wof:geomhash":"4c9a1b08277bb6fbc9ff3c1d2cf1ccf7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701021,
-    "wof:lastmodified":1566707452,
+    "wof:lastmodified":1695885980,
     "wof:name":"La Llanada",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

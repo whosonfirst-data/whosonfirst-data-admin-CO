@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01211,
-    "geom:area_square_m":147006547.870141,
+    "geom:area_square_m":147006547.870157,
     "geom:bbox":"-74.919957,10.916263,-74.75482,11.107689",
     "geom:latitude":10.980133,
     "geom:longitude":-74.826452,
@@ -366,12 +366,13 @@
         "hasc:id":"CO.AT.BQ",
         "wd:id":"Q62823"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         890445001
     ],
     "wof:country":"CO",
     "wof:created":1474502813,
-    "wof:geomhash":"b89a7f223e9026b3d106d9d0a1b175ba",
+    "wof:geomhash":"88541de80b5115989a0a323b5c1f5e67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -381,7 +382,7 @@
         }
     ],
     "wof:id":1108700049,
-    "wof:lastmodified":1690868053,
+    "wof:lastmodified":1695886457,
     "wof:name":"Barranquilla",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

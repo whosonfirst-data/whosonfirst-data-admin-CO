@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070394,
-    "geom:area_square_m":857884169.912728,
+    "geom:area_square_m":857883723.815864,
     "geom:bbox":"-74.489059,9.565887,-74.167114,9.958149",
     "geom:latitude":9.739576,
     "geom:longitude":-74.331957,
@@ -130,9 +130,10 @@
         "hasc:id":"CO.MA.PL",
         "wd:id":"Q1093229"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503581,
-    "wof:geomhash":"f63eb4af327ca3abfd64444aa4138cc8",
+    "wof:geomhash":"27f6d66a320b1c6ce0b939002f82f5ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108700891,
-    "wof:lastmodified":1690868029,
+    "wof:lastmodified":1695886060,
     "wof:name":"Nueva Granada",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

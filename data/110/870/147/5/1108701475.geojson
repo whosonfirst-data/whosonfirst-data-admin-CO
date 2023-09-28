@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028374,
-    "geom:area_square_m":349666202.432649,
+    "geom:area_square_m":349666076.387741,
     "geom:bbox":"-75.070468,4.608962,-74.786538,4.815194",
     "geom:latitude":4.709005,
     "geom:longitude":-74.923262,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.TO.VE",
         "wd:id":"Q1525428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504081,
-    "wof:geomhash":"307207e60a8a54d2bdf84e0982c97521",
+    "wof:geomhash":"37aa3dd7504075cffa8f830cdd431024",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701475,
-    "wof:lastmodified":1690868088,
+    "wof:lastmodified":1695886112,
     "wof:name":"Venadillo",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

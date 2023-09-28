@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007168,
-    "geom:area_square_m":88616696.508158,
+    "geom:area_square_m":88616696.508207,
     "geom:bbox":"-76.9656144721,1.15702604294,-76.8713347325,1.30158461477",
     "geom:latitude":1.22408,
     "geom:longitude":-76.911851,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CO.PU.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504195,
-    "wof:geomhash":"2f9d79abd95cccae52a55758a5c9747a",
+    "wof:geomhash":"648793738f136ad515b25667191dba3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108701571,
-    "wof:lastmodified":1566707444,
+    "wof:lastmodified":1695885978,
     "wof:name":"Sibundoy",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

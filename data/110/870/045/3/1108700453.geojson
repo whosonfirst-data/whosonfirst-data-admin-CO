@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026461,
-    "geom:area_square_m":326701791.945053,
+    "geom:area_square_m":326701961.548141,
     "geom:bbox":"-76.33192,3.059727,-76.072595,3.228842",
     "geom:latitude":3.136888,
     "geom:longitude":-76.209402,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CA.CO",
         "wd:id":"Q2236398"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503163,
-    "wof:geomhash":"093f7292af1b5962e433db60539a7d5e",
+    "wof:geomhash":"ad094cf919bb82b07aecc89112f28e82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700453,
-    "wof:lastmodified":1690868031,
+    "wof:lastmodified":1695886063,
     "wof:name":"Corinto",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

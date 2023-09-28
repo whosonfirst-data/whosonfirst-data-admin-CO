@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003469,
-    "geom:area_square_m":42748358.529701,
+    "geom:area_square_m":42748414.722818,
     "geom:bbox":"-75.855539,4.677646,-75.707832,4.736058",
     "geom:latitude":4.707468,
     "geom:longitude":-75.778226,
@@ -108,9 +108,10 @@
         "hasc:id":"CO.VC.UL",
         "wd:id":"Q1575644"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504127,
-    "wof:geomhash":"d9227aff2279d504011afe5e678f5db3",
+    "wof:geomhash":"3c55d436fa19aed5587f6b94fef30dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108701507,
-    "wof:lastmodified":1690867937,
+    "wof:lastmodified":1695885979,
     "wof:name":"Ulloa",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

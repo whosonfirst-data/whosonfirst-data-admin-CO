@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010022,
-    "geom:area_square_m":123283702.50006,
+    "geom:area_square_m":123283702.500041,
     "geom:bbox":"-72.8353218181,5.76688143041,-72.6232958102,5.8531568537",
     "geom:latitude":5.803318,
     "geom:longitude":-72.735085,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502975,
-    "wof:geomhash":"0d1bb72afd763226c7fe31976f2d095a",
+    "wof:geomhash":"d79c54027e76534c6621808733f2023a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108700241,
-    "wof:lastmodified":1566707462,
+    "wof:lastmodified":1695885986,
     "wof:name":"G\u00e1meza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

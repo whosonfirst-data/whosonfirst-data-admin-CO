@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041948,
-    "geom:area_square_m":518364725.577851,
+    "geom:area_square_m":518364857.47434,
     "geom:bbox":"-76.896607,1.939067,-76.57268,2.166832",
     "geom:latitude":2.054095,
     "geom:longitude":-76.758392,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.LV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503175,
-    "wof:geomhash":"14c0e1f570e2e5253701fecedc2bb867",
+    "wof:geomhash":"699e8296e91151ef8f5ca7c46bef4639",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700471,
-    "wof:lastmodified":1636506763,
+    "wof:lastmodified":1695886203,
     "wof:name":"La Vega",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

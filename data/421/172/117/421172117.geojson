@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006166,
-    "geom:area_square_m":75965148.608873,
+    "geom:area_square_m":75965068.150839,
     "geom:bbox":"-74.134052,4.892682,-74.036159,5.010201",
     "geom:latitude":4.951994,
     "geom:longitude":-74.084708,
@@ -158,12 +158,13 @@
         "qs_pg:id":1297254,
         "wd:id":"Q1441966"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008921,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ff8ca5a97821f6f6d5442314a03a015f",
+    "wof:geomhash":"4a3870e220f98ab985531a9577561685",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421172117,
-    "wof:lastmodified":1690868224,
+    "wof:lastmodified":1695886238,
     "wof:name":"Tabio",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

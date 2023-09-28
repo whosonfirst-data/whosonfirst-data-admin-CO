@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035214,
-    "geom:area_square_m":435228046.720524,
+    "geom:area_square_m":435228026.425084,
     "geom:bbox":"-77.622546,1.584294,-77.35012,1.883796",
     "geom:latitude":1.735665,
     "geom:longitude":-77.481901,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NA.PC",
         "wd:id":"Q1525852"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503714,
-    "wof:geomhash":"297c47c98aaac20700ef4e8cd7cb31d2",
+    "wof:geomhash":"0f29b4b11ab0883458448e6569876113",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701051,
-    "wof:lastmodified":1690867939,
+    "wof:lastmodified":1695885980,
     "wof:name":"Policarpa",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

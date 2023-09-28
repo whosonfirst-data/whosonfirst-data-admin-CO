@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064667,
-    "geom:area_square_m":798321322.527192,
+    "geom:area_square_m":798321169.518519,
     "geom:bbox":"-75.587378,3.057797,-75.171688,3.419556",
     "geom:latitude":3.263483,
     "geom:longitude":-75.352226,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.HU.AI",
         "wd:id":"Q1524884"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503491,
-    "wof:geomhash":"955acc2c1e996613309b1edf5a26fc07",
+    "wof:geomhash":"d91f178c6f80fed26c0e7925594dac60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700799,
-    "wof:lastmodified":1690867948,
+    "wof:lastmodified":1695885988,
     "wof:name":"Aipe",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

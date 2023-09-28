@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035704,
-    "geom:area_square_m":438156936.254962,
+    "geom:area_square_m":438156942.612943,
     "geom:bbox":"-75.982906,6.871813,-75.775433,7.222268",
     "geom:latitude":7.04405,
     "geom:longitude":-75.889379,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AN.PQ",
         "wd:id":"Q1577164"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502743,
-    "wof:geomhash":"a9442ae0a3d037bad91d8bcd90329231",
+    "wof:geomhash":"19a50376d68931180aa93a393e2636ca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108699987,
-    "wof:lastmodified":1690867922,
+    "wof:lastmodified":1695886617,
     "wof:name":"Peque",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

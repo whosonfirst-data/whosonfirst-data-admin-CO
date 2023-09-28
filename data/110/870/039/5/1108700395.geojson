@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00498,
-    "geom:area_square_m":61339016.602472,
+    "geom:area_square_m":61339016.602465,
     "geom:bbox":"-75.8593185723,5.00429747115,-75.7610718683,5.12787726392",
     "geom:latitude":5.069815,
     "geom:longitude":-75.813179,
@@ -236,9 +236,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CL.RR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503119,
-    "wof:geomhash":"583746355a92ceb51906ef2b7b05ffa7",
+    "wof:geomhash":"1afdd15104caf1e5a8829452248309d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":1108700395,
-    "wof:lastmodified":1566707499,
+    "wof:lastmodified":1695886018,
     "wof:name":"San Jos\u00e9",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

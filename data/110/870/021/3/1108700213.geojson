@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060303,
-    "geom:area_square_m":741467123.584232,
+    "geom:area_square_m":741467226.638842,
     "geom:bbox":"-72.558296,5.823615,-72.317505,6.306535",
     "geom:latitude":6.074289,
     "geom:longitude":-72.436153,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.BY.CA",
         "wd:id":"Q1575553"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502949,
-    "wof:geomhash":"2df3261c1c71831ddde106fe408edff5",
+    "wof:geomhash":"145c4364a316ba3910a98d7e096fd0ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700213,
-    "wof:lastmodified":1690868051,
+    "wof:lastmodified":1695886080,
     "wof:name":"Chita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

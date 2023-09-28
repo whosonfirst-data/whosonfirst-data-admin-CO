@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005469,
-    "geom:area_square_m":67292264.061187,
+    "geom:area_square_m":67292264.061204,
     "geom:bbox":"-72.8802475062,5.64366546069,-72.7891048612,5.75260374062",
     "geom:latitude":5.696981,
     "geom:longitude":-72.832041,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503001,
-    "wof:geomhash":"cf60d328a477bab10a953f13ba0106c8",
+    "wof:geomhash":"4f1bf10fd0624d72f29cc73212680145",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700273,
-    "wof:lastmodified":1566707553,
+    "wof:lastmodified":1695886069,
     "wof:name":"Mongu\u00ed",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

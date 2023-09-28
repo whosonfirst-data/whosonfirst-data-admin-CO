@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0311,
-    "geom:area_square_m":384189213.725005,
+    "geom:area_square_m":384189094.614453,
     "geom:bbox":"-75.795234,2.425154,-75.554029,2.667992",
     "geom:latitude":2.527369,
     "geom:longitude":-75.68011,
@@ -108,9 +108,10 @@
         "hasc:id":"CO.HU.TS",
         "wd:id":"Q384534"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503535,
-    "wof:geomhash":"a601139a713c34f236304db52abe9e13",
+    "wof:geomhash":"89d7af16bbe863021d7ead610158a231",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108700845,
-    "wof:lastmodified":1690867954,
+    "wof:lastmodified":1695885993,
     "wof:name":"Tesalia",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

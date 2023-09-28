@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004853,
-    "geom:area_square_m":59654287.713479,
+    "geom:area_square_m":59654287.373297,
     "geom:bbox":"-73.57058,6.108549,-73.482491,6.251451",
     "geom:latitude":6.175323,
     "geom:longitude":-73.533245,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503850,
-    "wof:geomhash":"d4953c95f397f71d5d9f4018109edd02",
+    "wof:geomhash":"bca1d0d29867674c1bc3834f298e5cca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701183,
-    "wof:lastmodified":1627522014,
+    "wof:lastmodified":1695886507,
     "wof:name":"Aguada",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

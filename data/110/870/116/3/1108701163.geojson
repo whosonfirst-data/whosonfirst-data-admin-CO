@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020528,
-    "geom:area_square_m":253120249.795718,
+    "geom:area_square_m":253120107.564754,
     "geom:bbox":"-75.796793,4.220578,-75.591288,4.382055",
     "geom:latitude":4.303174,
     "geom:longitude":-75.683137,
@@ -108,9 +108,10 @@
         "hasc:id":"CO.QD.PI",
         "wd:id":"Q636738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503827,
-    "wof:geomhash":"f858e1797da3a74e6fda530969b5d298",
+    "wof:geomhash":"c2ede929428fa3f218c325e3be74d4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108701163,
-    "wof:lastmodified":1690867994,
+    "wof:lastmodified":1695886021,
     "wof:name":"Pijao",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

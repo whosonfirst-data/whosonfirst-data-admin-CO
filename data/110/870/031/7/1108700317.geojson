@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006955,
-    "geom:area_square_m":85602869.211734,
+    "geom:area_square_m":85602881.099688,
     "geom:bbox":"-73.790999,5.469111,-73.689819,5.594838",
     "geom:latitude":5.529968,
     "geom:longitude":-73.750163,
@@ -109,9 +109,10 @@
         "hasc:id":"CO.BY.MS",
         "wd:id":"Q1656150"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503042,
-    "wof:geomhash":"7aa1b9cfb933a2ce78a0b51318d0fcba",
+    "wof:geomhash":"274bc7a72ec713c40a22c2391e483d19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108700317,
-    "wof:lastmodified":1690867978,
+    "wof:lastmodified":1695886010,
     "wof:name":"San Miguel De Sema",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

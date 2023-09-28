@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041689,
-    "geom:area_square_m":514875221.305086,
+    "geom:area_square_m":514875177.13787,
     "geom:bbox":"-76.916746,2.708283,-76.575733,2.979574",
     "geom:latitude":2.814552,
     "geom:longitude":-76.751569,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CA.MS",
         "wd:id":"Q615597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503181,
-    "wof:geomhash":"3a9e18b4a012a31c1feeb1d97a3080f1",
+    "wof:geomhash":"3f70aeb48b5d6c796857b696119c3c70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700479,
-    "wof:lastmodified":1690867966,
+    "wof:lastmodified":1695886000,
     "wof:name":"Morales",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

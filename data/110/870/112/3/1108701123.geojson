@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020964,
-    "geom:area_square_m":257148083.45375,
+    "geom:area_square_m":257148083.453835,
     "geom:bbox":"-72.5934875856,7.15566125856,-72.4466667846,7.40090827032",
     "geom:latitude":7.265485,
     "geom:longitude":-72.522314,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NS.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503777,
-    "wof:geomhash":"8bc467e38c3cb0eafe8825ca8dc67d1d",
+    "wof:geomhash":"457caea00c2f791f82c6dc3542086b45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701123,
-    "wof:lastmodified":1566707592,
+    "wof:lastmodified":1695886104,
     "wof:name":"Labateca",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

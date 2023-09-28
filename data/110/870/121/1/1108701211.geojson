@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008829,
-    "geom:area_square_m":108416832.957105,
+    "geom:area_square_m":108416765.211275,
     "geom:bbox":"-72.98574,6.675426,-72.87786,6.817075",
     "geom:latitude":6.752207,
     "geom:longitude":-72.92891,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.CE",
         "wd:id":"Q963127"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503868,
-    "wof:geomhash":"8d13e246d5da026f08ca8a29ce3fca46",
+    "wof:geomhash":"059aec4c36796b5707f76dcadf87508e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701211,
-    "wof:lastmodified":1690868000,
+    "wof:lastmodified":1695886025,
     "wof:name":"Cepit\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

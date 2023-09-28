@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057943,
-    "geom:area_square_m":708276666.716669,
+    "geom:area_square_m":708276792.458206,
     "geom:bbox":"-73.166799,8.500991,-72.90658,8.888814",
     "geom:latitude":8.677537,
     "geom:longitude":-73.03187,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NS.ET",
         "wd:id":"Q1577131"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503764,
-    "wof:geomhash":"9ad84b6b6333ff8b417830cf00a9f81f",
+    "wof:geomhash":"c574890c8770944ef43db6e27f47fe29",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701111,
-    "wof:lastmodified":1690867995,
+    "wof:lastmodified":1695886021,
     "wof:name":"El Tarra",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

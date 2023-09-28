@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022478,
-    "geom:area_square_m":274371171.110001,
+    "geom:area_square_m":274371109.22682,
     "geom:bbox":"-75.358817,9.05731,-75.125555,9.352701",
     "geom:latitude":9.201567,
     "geom:longitude":-75.247942,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.SU.CZ",
         "wd:id":"Q2431720"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503987,
-    "wof:geomhash":"6599061ee0696c8dd068b0b9536b83e3",
+    "wof:geomhash":"40892619cdc9f7c4cc577941d23365f0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108701383,
-    "wof:lastmodified":1690868015,
+    "wof:lastmodified":1695886206,
     "wof:name":"Corozal",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

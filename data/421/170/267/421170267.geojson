@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005601,
-    "geom:area_square_m":69021051.175817,
+    "geom:area_square_m":69020976.577136,
     "geom:bbox":"-74.24621,4.695658,-74.14838,4.797368",
     "geom:latitude":4.742072,
     "geom:longitude":-74.19768,
@@ -161,12 +161,13 @@
         "qs_pg:id":233542,
         "wd:id":"Q608955"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008846,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5752f81341a26973cee97f75652a3511",
+    "wof:geomhash":"772fc04299ecb4eda8b9d654bcf35e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421170267,
-    "wof:lastmodified":1690868310,
+    "wof:lastmodified":1695886256,
     "wof:name":"Funza",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

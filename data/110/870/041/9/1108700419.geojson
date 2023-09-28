@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038513,
-    "geom:area_square_m":476081910.177629,
+    "geom:area_square_m":476081910.177227,
     "geom:bbox":"-75.7993851011,1.21659110761,-75.5682432508,1.58239333613",
     "geom:latitude":1.378578,
     "geom:longitude":-75.673003,
@@ -221,9 +221,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CQ.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503139,
-    "wof:geomhash":"f827cf28aca06130b5d2cba4e4747ae4",
+    "wof:geomhash":"5365ba7af4a84baabe67b08bf3ee8c87",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -233,7 +234,7 @@
         }
     ],
     "wof:id":1108700419,
-    "wof:lastmodified":1566707467,
+    "wof:lastmodified":1695885990,
     "wof:name":"Morelia",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

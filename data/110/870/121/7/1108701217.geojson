@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010302,
-    "geom:area_square_m":126367481.940904,
+    "geom:area_square_m":126367657.852195,
     "geom:bbox":"-73.074783,7.186031,-72.88149,7.319049",
     "geom:latitude":7.258875,
     "geom:longitude":-72.987698,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.ST.CH",
         "wd:id":"Q594164"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503872,
-    "wof:geomhash":"2b8428f8fce3a08650bb420fefa88572",
+    "wof:geomhash":"7d9f4c5cb56bbfb74c07616f1da629a8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701217,
-    "wof:lastmodified":1690868000,
+    "wof:lastmodified":1695886027,
     "wof:name":"Charta",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

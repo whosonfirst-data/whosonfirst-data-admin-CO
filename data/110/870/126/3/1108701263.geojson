@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024847,
-    "geom:area_square_m":304984532.568459,
+    "geom:area_square_m":304984442.894648,
     "geom:bbox":"-72.938351,6.795556,-72.73413,7.075026",
     "geom:latitude":6.943125,
     "geom:longitude":-72.823538,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.GC",
         "wd:id":"Q948769"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503903,
-    "wof:geomhash":"b9fdd5d4c96648ea689628ccd36365f5",
+    "wof:geomhash":"57639ac9b6b508a8f4a8de01e467fce7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701263,
-    "wof:lastmodified":1690868002,
+    "wof:lastmodified":1695886027,
     "wof:name":"Guaca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

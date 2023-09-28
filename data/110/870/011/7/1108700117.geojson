@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077393,
-    "geom:area_square_m":943296487.927644,
+    "geom:area_square_m":943296302.396304,
     "geom:bbox":"-75.376132,9.530028,-74.938671,9.879487",
     "geom:latitude":9.699762,
     "geom:longitude":-75.154644,
@@ -125,9 +125,10 @@
         "hasc:id":"CO.BL.EC",
         "wd:id":"Q1323930"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502866,
-    "wof:geomhash":"6d22626a89356c84f9b78c4e387d8b13",
+    "wof:geomhash":"cd4a5773d01a86cd7477783613c1a6e8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1108700117,
-    "wof:lastmodified":1690868038,
+    "wof:lastmodified":1695886070,
     "wof:name":"El Carmen De Bol\u00edvar",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

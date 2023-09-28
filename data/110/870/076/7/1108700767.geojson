@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153456,
-    "geom:area_square_m":1891013471.461243,
+    "geom:area_square_m":1891013471.461226,
     "geom:bbox":"-77.1610902615,4.37290136715,-76.5249538236,5.28498131819",
     "geom:latitude":4.73774,
     "geom:longitude":-76.86893,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503463,
-    "wof:geomhash":"a4f6dcdb829bcb7542b1e4847ac0300c",
+    "wof:geomhash":"00240b6bf2448ea6c4a741d1ab81d08b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108700767,
-    "wof:lastmodified":1566707478,
+    "wof:lastmodified":1695885998,
     "wof:name":"Istmina",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

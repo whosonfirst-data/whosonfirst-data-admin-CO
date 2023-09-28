@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045118,
-    "geom:area_square_m":552712866.14348,
+    "geom:area_square_m":552712646.747046,
     "geom:bbox":"-73.669388,7.676393,-73.275531,7.993363",
     "geom:latitude":7.81454,
     "geom:longitude":-73.453515,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CE.SA",
         "wd:id":"Q1441898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503242,
-    "wof:geomhash":"95eae96e220e0f2e21756871eaeaae0a",
+    "wof:geomhash":"c7b605db5633236b0813e1c9ccecde88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700555,
-    "wof:lastmodified":1690867981,
+    "wof:lastmodified":1695886012,
     "wof:name":"San Alberto",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

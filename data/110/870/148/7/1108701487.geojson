@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065568,
-    "geom:area_square_m":808844722.98667,
+    "geom:area_square_m":808844213.237896,
     "geom:bbox":"-76.885078,3.842646,-76.400318,4.067848",
     "geom:latitude":3.943631,
     "geom:longitude":-76.624403,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.VC.CM",
         "wd:id":"Q1526288"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504098,
-    "wof:geomhash":"35fc22be02a959f0931eaf57c0e4705d",
+    "wof:geomhash":"ff97d031b7ba2fa79bb6934c9cf77e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701487,
-    "wof:lastmodified":1690868081,
+    "wof:lastmodified":1695886107,
     "wof:name":"Calima",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

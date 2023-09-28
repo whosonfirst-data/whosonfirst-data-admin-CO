@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035844,
-    "geom:area_square_m":442307417.75979,
+    "geom:area_square_m":442307690.006765,
     "geom:bbox":"-76.426428,3.603594,-75.955259,3.770589",
     "geom:latitude":3.675948,
     "geom:longitude":-76.209522,
@@ -183,12 +183,13 @@
         "wd:id":"Q1093505",
         "wk:page":"El Cerrito, Valle del Cauca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008846,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c75c647792f0eedb870d7f6cb4f285e",
+    "wof:geomhash":"fb7a085cbdf6d2fc671cfc33ded0e86c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -198,7 +199,7 @@
         }
     ],
     "wof:id":421170275,
-    "wof:lastmodified":1690868308,
+    "wof:lastmodified":1695886255,
     "wof:name":"El Cerrito",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

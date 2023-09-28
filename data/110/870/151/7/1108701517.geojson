@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093863,
-    "geom:area_square_m":1152678794.035475,
+    "geom:area_square_m":1152677505.646875,
     "geom:bbox":"-72.12643,6.514896,-71.455397,6.874369",
     "geom:latitude":6.705379,
     "geom:longitude":-71.829874,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AR.FO",
         "wd:id":"Q1442438"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504144,
-    "wof:geomhash":"995a72faabf0392a16615646b78eaf26",
+    "wof:geomhash":"f176eef7d0529f117e6f4a3141ab35fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108701517,
-    "wof:lastmodified":1690867943,
+    "wof:lastmodified":1695885985,
     "wof:name":"Fortul",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

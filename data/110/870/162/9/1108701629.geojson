@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.04055,
-    "geom:area_square_m":12862769330.986919,
+    "geom:area_square_m":12862769330.986399,
     "geom:bbox":"-72.726288275,0.653492683507,-71.3864061749,1.99973099098",
     "geom:latitude":1.36503,
     "geom:longitude":-72.018613,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CO.GV.MF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504247,
-    "wof:geomhash":"8ed814fcc67ec9b4714e00f00633fc08",
+    "wof:geomhash":"7d2c49a4e5d48b87a97f8d2266612453",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108701629,
-    "wof:lastmodified":1566707517,
+    "wof:lastmodified":1695886035,
     "wof:name":"Miraflores",
     "wof:parent_id":85670245,
     "wof:placetype":"county",

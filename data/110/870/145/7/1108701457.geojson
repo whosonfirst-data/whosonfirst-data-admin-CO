@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166665,
-    "geom:area_square_m":2057062503.012038,
+    "geom:area_square_m":2057062392.957159,
     "geom:bbox":"-76.08498,3.169648,-75.576,3.777335",
     "geom:latitude":3.468149,
     "geom:longitude":-75.854667,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.TO.RI",
         "wd:id":"Q2299677"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504068,
-    "wof:geomhash":"2de12472ad965562c0f6ac9f0807e095",
+    "wof:geomhash":"a4808ec862d6b44e10cadd6c199d68e7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701457,
-    "wof:lastmodified":1690867990,
+    "wof:lastmodified":1695886019,
     "wof:name":"Rioblanco",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

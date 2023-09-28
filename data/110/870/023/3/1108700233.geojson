@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005685,
-    "geom:area_square_m":69842977.229477,
+    "geom:area_square_m":69842969.604573,
     "geom:bbox":"-72.540082,6.463806,-72.417027,6.549245",
     "geom:latitude":6.507899,
     "geom:longitude":-72.480763,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502969,
-    "wof:geomhash":"5470a5d93b303b8a197210e981545c2b",
+    "wof:geomhash":"96b0254aebe5a15573c8b42397576a93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108700233,
-    "wof:lastmodified":1627522016,
+    "wof:lastmodified":1695886510,
     "wof:name":"El Espino",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

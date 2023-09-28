@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144368,
-    "geom:area_square_m":1754417201.398112,
+    "geom:area_square_m":1754417117.982642,
     "geom:bbox":"-74.257803,10.42609,-73.541983,10.879889",
     "geom:latitude":10.645167,
     "geom:longitude":-73.879333,
@@ -204,9 +204,10 @@
         "hasc:id":"CO.MA.AC",
         "wd:id":"Q624492"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503565,
-    "wof:geomhash":"e66ffa1e65e16291bce76581a4e261ca",
+    "wof:geomhash":"3922fdc68fb16f8e2cbaa93ec00d71ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":1108700873,
-    "wof:lastmodified":1690868032,
+    "wof:lastmodified":1695886065,
     "wof:name":"Aracataca",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

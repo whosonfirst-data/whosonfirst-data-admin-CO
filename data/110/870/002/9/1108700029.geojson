@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209024,
-    "geom:area_square_m":2568825929.562551,
+    "geom:area_square_m":2568825952.622528,
     "geom:bbox":"-76.582094,5.997631,-75.990503,6.593685",
     "geom:latitude":6.335636,
     "geom:longitude":-76.260309,
@@ -162,9 +162,10 @@
         "hasc:id":"CO.AN.UO",
         "wd:id":"Q1026557"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502797,
-    "wof:geomhash":"1a14ad15e584735874d0c5b81cc392ec",
+    "wof:geomhash":"800591c0b12ea63b9dd0a95a10637ebe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108700029,
-    "wof:lastmodified":1690868067,
+    "wof:lastmodified":1695886092,
     "wof:name":"Urrao",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

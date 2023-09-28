@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.193106,
-    "geom:area_square_m":2379748828.009725,
+    "geom:area_square_m":2379748828.009357,
     "geom:bbox":"-72.9158376062,4.30427643252,-72.2598536932,5.18500846346",
     "geom:latitude":4.697151,
     "geom:longitude":-72.628839,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CS.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504174,
-    "wof:geomhash":"dc69fd0a3d09de4c42ea8ee10a6b8323",
+    "wof:geomhash":"2a9210513711a2f7cea635ef9f256359",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108701553,
-    "wof:lastmodified":1566707534,
+    "wof:lastmodified":1695886051,
     "wof:name":"Tauramena",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

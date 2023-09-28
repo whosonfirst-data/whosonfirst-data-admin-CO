@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02714,
-    "geom:area_square_m":333287896.810817,
+    "geom:area_square_m":333287739.0434,
     "geom:bbox":"-75.29339,6.575278,-75.106596,6.847239",
     "geom:latitude":6.709066,
     "geom:longitude":-75.192631,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AN.GP",
         "wd:id":"Q1576474"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502712,
-    "wof:geomhash":"5e5028a955b0a71f94a939b940a8f39e",
+    "wof:geomhash":"3dfaa51ffe1bbf5fc0aa4c97368f193f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108699963,
-    "wof:lastmodified":1690867923,
+    "wof:lastmodified":1695886617,
     "wof:name":"G\u00f3mez Plata",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

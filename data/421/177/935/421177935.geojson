@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01787,
-    "geom:area_square_m":220061838.315326,
+    "geom:area_square_m":220061616.942182,
     "geom:bbox":"-75.161144,5.092814,-74.964643,5.292602",
     "geom:latitude":5.186821,
     "geom:longitude":-75.051732,
@@ -151,12 +151,13 @@
         "qs_pg:id":14282,
         "wd:id":"Q2431919"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9f399bc0a3df6a272167483594818d2",
+    "wof:geomhash":"6664856c36c1554e581ada7adfb66677",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421177935,
-    "wof:lastmodified":1690868324,
+    "wof:lastmodified":1695886262,
     "wof:name":"Fresno",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

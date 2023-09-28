@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078883,
-    "geom:area_square_m":963931173.968781,
+    "geom:area_square_m":963931173.968314,
     "geom:bbox":"-75.5612678746,8.57672261909,-75.2670254319,9.01916657707",
     "geom:latitude":8.797635,
     "geom:longitude":-75.429984,
@@ -163,9 +163,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CO.SH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503283,
-    "wof:geomhash":"116ec1dad4d12274a7220f707d8bcf54",
+    "wof:geomhash":"dd4ac7ef9607e8dafc7c6f288c63397b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":1108700599,
-    "wof:lastmodified":1566707576,
+    "wof:lastmodified":1695886087,
     "wof:name":"Sahag\u00fan",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

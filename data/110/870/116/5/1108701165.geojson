@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012095,
-    "geom:area_square_m":148962087.467357,
+    "geom:area_square_m":148962010.04857,
     "geom:bbox":"-76.067141,5.040764,-75.883208,5.22681",
     "geom:latitude":5.137754,
     "geom:longitude":-75.953573,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.RI.AP",
         "wd:id":"Q1525318"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503831,
-    "wof:geomhash":"70ca147576f0c336312d18f9d04bf248",
+    "wof:geomhash":"2a7073464da3911be2b89c6b7bcf9ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701165,
-    "wof:lastmodified":1690867994,
+    "wof:lastmodified":1695886021,
     "wof:name":"Ap\u00eda",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

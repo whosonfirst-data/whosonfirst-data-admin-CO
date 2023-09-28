@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038421,
-    "geom:area_square_m":467967473.108458,
+    "geom:area_square_m":467967612.025453,
     "geom:bbox":"-74.873183,9.807956,-74.554028,10.017826",
     "geom:latitude":9.925618,
     "geom:longitude":-74.726324,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.MA.TE",
         "wd:id":"Q1525827"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503602,
-    "wof:geomhash":"8ccebe5b9feb5d51b8f7a41cfffc7ba6",
+    "wof:geomhash":"76a14bd6d71daf4172c058a4b9a099f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700917,
-    "wof:lastmodified":1690867968,
+    "wof:lastmodified":1695886002,
     "wof:name":"Tenerife",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

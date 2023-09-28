@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033548,
-    "geom:area_square_m":413751317.83719,
+    "geom:area_square_m":413751097.895163,
     "geom:bbox":"-75.218551,3.927053,-74.995947,4.325403",
     "geom:latitude":4.129884,
     "geom:longitude":-75.112229,
@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"CO.TO.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504076,
-    "wof:geomhash":"57f6c44b192834fb1c2561d3c928a11d",
+    "wof:geomhash":"ad43fc607dca6038dc6cd39c40eee41c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1108701469,
-    "wof:lastmodified":1636506774,
+    "wof:lastmodified":1695886218,
     "wof:name":"San Luis",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

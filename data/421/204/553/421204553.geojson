@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011601,
-    "geom:area_square_m":142897054.096225,
+    "geom:area_square_m":142897021.410784,
     "geom:bbox":"-73.856076,4.945734,-73.684294,5.082561",
     "geom:latitude":5.008386,
     "geom:longitude":-73.779432,
@@ -152,12 +152,13 @@
         "qs_pg:id":241664,
         "wd:id":"Q1576281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010190,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ceb1cd9eb602894a14783d4dd8f0682",
+    "wof:geomhash":"ac3bd4dc29700fe2586e5966f688c5ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421204553,
-    "wof:lastmodified":1690868145,
+    "wof:lastmodified":1695886212,
     "wof:name":"Sesquil\u00e9",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

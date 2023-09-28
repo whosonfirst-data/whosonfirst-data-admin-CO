@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017784,
-    "geom:area_square_m":215789709.337173,
+    "geom:area_square_m":215789608.883611,
     "geom:bbox":"-72.855602,11.024503,-72.493275,11.165881",
     "geom:latitude":11.099122,
     "geom:longitude":-72.732846,
@@ -80,12 +80,13 @@
         "hasc:id":"CO.LG.RI",
         "qs_pg:id":1104228
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009579,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bba9df6813ed79f1de40f55debdcd0d9",
+    "wof:geomhash":"50e4e4d49eb7b222cfa627912baceacf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":421188817,
-    "wof:lastmodified":1627522017,
+    "wof:lastmodified":1695886512,
     "wof:name":"Hato Nuevo",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

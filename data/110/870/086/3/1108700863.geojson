@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014768,
-    "geom:area_square_m":179578631.496552,
+    "geom:area_square_m":179578433.267056,
     "geom:bbox":"-73.180665,10.396985,-72.878703,10.534769",
     "geom:latitude":10.458297,
     "geom:longitude":-73.072349,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"CO.LG.UM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503554,
-    "wof:geomhash":"ec2392736649694f96a00f977b6121b8",
+    "wof:geomhash":"6cfae2c376798f48395f7b7b9e33280d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108700863,
-    "wof:lastmodified":1627522017,
+    "wof:lastmodified":1695886512,
     "wof:name":"La Jagua Del Pilar",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

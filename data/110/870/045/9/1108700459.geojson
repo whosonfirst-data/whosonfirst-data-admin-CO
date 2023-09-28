@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008112,
-    "geom:area_square_m":100156421.178566,
+    "geom:area_square_m":100156421.178527,
     "geom:bbox":"-76.4472966024,3.06860856213,-76.3505460956,3.21718195594",
     "geom:latitude":3.146154,
     "geom:longitude":-76.3933,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.CT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503168,
-    "wof:geomhash":"ba900e65ae49d20c9c8fd768b227bfde",
+    "wof:geomhash":"28d8731321f0511370b4e839d758ba95",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108700459,
-    "wof:lastmodified":1566707546,
+    "wof:lastmodified":1695886063,
     "wof:name":"Guachen\u00e9",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

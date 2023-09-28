@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00673,
-    "geom:area_square_m":82752035.457898,
+    "geom:area_square_m":82752154.0225,
     "geom:bbox":"-75.767498,5.981319,-75.663632,6.09005",
     "geom:latitude":6.032864,
     "geom:longitude":-75.707771,
@@ -185,12 +185,13 @@
         "qs_pg:id":1194271,
         "wd:id":"Q1441660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5ff1a9ce6f6fc3d013eca75e40ea0b3",
+    "wof:geomhash":"ca5c4cf9fa082ce99c36d84351a50b70",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":421205071,
-    "wof:lastmodified":1690868164,
+    "wof:lastmodified":1695886222,
     "wof:name":"Amag\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

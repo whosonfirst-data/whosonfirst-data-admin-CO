@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014122,
-    "geom:area_square_m":173753966.145881,
+    "geom:area_square_m":173754040.260453,
     "geom:bbox":"-76.086954,5.67154,-75.879997,5.796693",
     "geom:latitude":5.729292,
     "geom:longitude":-75.987692,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.AN.BN",
         "wd:id":"Q1578748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502665,
-    "wof:geomhash":"6d01a2aa30c88c98777139b308607295",
+    "wof:geomhash":"baaa0e5ac8ac82f3761f1ff95379b1ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108699923,
-    "wof:lastmodified":1690867928,
+    "wof:lastmodified":1695885971,
     "wof:name":"Betania",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

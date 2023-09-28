@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01103,
-    "geom:area_square_m":135644466.096751,
+    "geom:area_square_m":135644463.303621,
     "geom:bbox":"-75.510079,5.901937,-75.359917,6.068078",
     "geom:latitude":5.994331,
     "geom:longitude":-75.431127,
@@ -192,12 +192,13 @@
         "wd:id":"Q1946679",
         "wk:page":"La Ceja (Colombia)"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008859,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"54ae452a4ad00926fa5edd4c0d9ee10d",
+    "wof:geomhash":"6b9d2a9489f95b574e105c2c6030dd1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":421170565,
-    "wof:lastmodified":1690868314,
+    "wof:lastmodified":1695886258,
     "wof:name":"La Ceja",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009773,
-    "geom:area_square_m":120400084.06178,
+    "geom:area_square_m":120400220.434163,
     "geom:bbox":"-75.994414,4.856535,-75.880175,4.989954",
     "geom:latitude":4.917858,
     "geom:longitude":-75.942868,
@@ -155,9 +155,10 @@
     "wof:concordances":{
         "hasc:id":"CO.RI.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503832,
-    "wof:geomhash":"f8d9643d0e7fd724a0548f96355d9118",
+    "wof:geomhash":"03e20ecede2ce5eea8480199a3374a7d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108701167,
-    "wof:lastmodified":1636506764,
+    "wof:lastmodified":1695886205,
     "wof:name":"Balboa",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

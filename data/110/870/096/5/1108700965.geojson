@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003334,
-    "geom:area_square_m":41206650.31753,
+    "geom:area_square_m":41206650.317554,
     "geom:bbox":"-77.1209326811,1.43324362363,-77.0209388334,1.51552328342",
     "geom:latitude":1.471041,
     "geom:longitude":-77.068362,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.EL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503652,
-    "wof:geomhash":"5472db32864cc9c51bf0d5b8f35bb252",
+    "wof:geomhash":"e5fc2ec58c284c0a2120bc4aac598c73",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108700965,
-    "wof:lastmodified":1566707484,
+    "wof:lastmodified":1695886004,
     "wof:name":"Alb\u00e1n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

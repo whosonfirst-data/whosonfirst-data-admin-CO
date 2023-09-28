@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019535,
-    "geom:area_square_m":240210325.662034,
+    "geom:area_square_m":240210325.66202,
     "geom:bbox":"-75.998936623,5.95013635072,-75.8324262891,6.15981676946",
     "geom:latitude":6.054087,
     "geom:longitude":-75.901045,
@@ -167,9 +167,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502698,
-    "wof:geomhash":"ec37d4ffa8d3ec3c85a09d64489a1f36",
+    "wof:geomhash":"1d3b2251399d767d540cf5cfa25c7a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1108699955,
-    "wof:lastmodified":1566707436,
+    "wof:lastmodified":1695885970,
     "wof:name":"Concordia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

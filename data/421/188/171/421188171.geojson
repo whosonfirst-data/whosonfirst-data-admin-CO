@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04538,
-    "geom:area_square_m":554322627.901298,
+    "geom:area_square_m":554322543.910646,
     "geom:bbox":"-73.707543,8.828031,-73.426218,9.070209",
     "geom:latitude":8.939245,
     "geom:longitude":-73.5762,
@@ -151,12 +151,13 @@
         "qs_pg:id":12269,
         "wd:id":"Q1525724"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009536,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aaae95d479e09fc3af763227ba958381",
+    "wof:geomhash":"2a264930be1820969449aa7a4f6c2902",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421188171,
-    "wof:lastmodified":1690868220,
+    "wof:lastmodified":1695886237,
     "wof:name":"Pailitas",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012015,
-    "geom:area_square_m":147665059.800873,
+    "geom:area_square_m":147665020.289944,
     "geom:bbox":"-72.665252,6.220678,-72.566419,6.444122",
     "geom:latitude":6.33595,
     "geom:longitude":-72.619901,
@@ -151,12 +151,13 @@
         "qs_pg:id":1330533,
         "wd:id":"Q1576227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009094,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f7d0a8b5ab0ffca6dc440e9b53de5caa",
+    "wof:geomhash":"907cd1bcdcbd50bddaefd7783f46760f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421176079,
-    "wof:lastmodified":1690868359,
+    "wof:lastmodified":1695886269,
     "wof:name":"Boavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

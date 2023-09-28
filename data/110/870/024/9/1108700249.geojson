@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008247,
-    "geom:area_square_m":101595578.035011,
+    "geom:area_square_m":101595495.386047,
     "geom:bbox":"-73.547314,4.877898,-73.437325,4.996368",
     "geom:latitude":4.931325,
     "geom:longitude":-73.496372,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.GY",
         "wd:id":"Q1577926"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502981,
-    "wof:geomhash":"425fd197041ec7ce3efeb39b6e699199",
+    "wof:geomhash":"9200da3ed66a9b3e8c8167185e4af9f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700249,
-    "wof:lastmodified":1690867945,
+    "wof:lastmodified":1695885986,
     "wof:name":"Guayat\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

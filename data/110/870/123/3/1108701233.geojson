@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047183,
-    "geom:area_square_m":579980482.924504,
+    "geom:area_square_m":579980492.18647,
     "geom:bbox":"-73.136519,6.098621,-72.861347,6.382464",
     "geom:latitude":6.234677,
     "geom:longitude":-72.981922,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.CO",
         "wd:id":"Q1579660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503883,
-    "wof:geomhash":"342c05f628605d826f1ce9cba00ce61c",
+    "wof:geomhash":"b97e07c01b67329462a4f60f832d75fd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701233,
-    "wof:lastmodified":1690868079,
+    "wof:lastmodified":1695886106,
     "wof:name":"Coromoro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

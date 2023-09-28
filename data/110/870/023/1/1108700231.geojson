@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003517,
-    "geom:area_square_m":43283374.466858,
+    "geom:area_square_m":43283374.466863,
     "geom:bbox":"-73.4915576113,5.48549266102,-73.409097324,5.56484003751",
     "geom:latitude":5.527431,
     "geom:longitude":-73.445895,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.TJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502963,
-    "wof:geomhash":"9d18599472cda076d153322260fdd630",
+    "wof:geomhash":"567bddcb7bf7ec5573541b09c650d4b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108700231,
-    "wof:lastmodified":1566707463,
+    "wof:lastmodified":1695885987,
     "wof:name":"Cucaita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

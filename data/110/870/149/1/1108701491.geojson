@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017319,
-    "geom:area_square_m":213414102.395393,
+    "geom:area_square_m":213414102.395407,
     "geom:bbox":"-76.3059311465,4.67439021104,-76.1325439346,4.83791435195",
     "geom:latitude":4.756312,
     "geom:longitude":-76.215713,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.VC.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504104,
-    "wof:geomhash":"61343fa64f2224289c528365434020f3",
+    "wof:geomhash":"b343ff77e1d8eb6be1f4d4a75290b45d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108701491,
-    "wof:lastmodified":1566707604,
+    "wof:lastmodified":1695886113,
     "wof:name":"El Cairo",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

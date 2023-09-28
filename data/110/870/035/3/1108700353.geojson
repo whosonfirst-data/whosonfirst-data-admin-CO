@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010289,
-    "geom:area_square_m":126685752.282621,
+    "geom:area_square_m":126685865.44918,
     "geom:bbox":"-73.452647,5.242662,-73.307856,5.37901",
     "geom:latitude":5.300275,
     "geom:longitude":-73.391868,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.BY.TN",
         "wd:id":"Q1579430"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503073,
-    "wof:geomhash":"edb09d26d20d53979c8bf4f0b14470de",
+    "wof:geomhash":"65f04f65968f4969541ff675481cea0d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700353,
-    "wof:lastmodified":1690868055,
+    "wof:lastmodified":1695886082,
     "wof:name":"Tiban\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

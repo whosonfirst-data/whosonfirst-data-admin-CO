@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013921,
-    "geom:area_square_m":171014253.064348,
+    "geom:area_square_m":171014222.853607,
     "geom:bbox":"-73.441742,6.487488,-73.288437,6.637388",
     "geom:latitude":6.560457,
     "geom:longitude":-73.362652,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.ST.HA",
         "wd:id":"Q1655700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503910,
-    "wof:geomhash":"e9d09ff4fd18beb0d7e97b337095173a",
+    "wof:geomhash":"dd5d10722f976758b28ba897719eb80d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701273,
-    "wof:lastmodified":1690867997,
+    "wof:lastmodified":1695886023,
     "wof:name":"Hato",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

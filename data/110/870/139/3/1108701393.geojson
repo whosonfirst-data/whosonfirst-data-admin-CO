@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024794,
-    "geom:area_square_m":302696817.22249,
+    "geom:area_square_m":302696772.714128,
     "geom:bbox":"-75.090667,9.026849,-74.843782,9.21535",
     "geom:latitude":9.13735,
     "geom:longitude":-74.980908,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.SU.GA",
         "wd:id":"Q389099"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503993,
-    "wof:geomhash":"68078c4378c0f12afdebde78e313c7e7",
+    "wof:geomhash":"85a0939defd856244740d87ce0615e31",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701393,
-    "wof:lastmodified":1690868023,
+    "wof:lastmodified":1695886055,
     "wof:name":"Galeras",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

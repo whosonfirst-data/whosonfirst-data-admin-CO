@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005246,
-    "geom:area_square_m":64630652.967758,
+    "geom:area_square_m":64630461.394356,
     "geom:bbox":"-74.513157,4.823921,-74.439409,4.951753",
     "geom:latitude":4.879916,
     "geom:longitude":-74.48325,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CU.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503351,
-    "wof:geomhash":"7b86fe6646d0f824835c0af7c8d1f358",
+    "wof:geomhash":"e7997e96369625e4b8f90c99c81b3afc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108700657,
-    "wof:lastmodified":1627522017,
+    "wof:lastmodified":1695886512,
     "wof:name":"Guayabal De S\u00edquima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045072,
-    "geom:area_square_m":548268391.253033,
+    "geom:area_square_m":548268230.404431,
     "geom:bbox":"-74.849519,10.206301,-74.493992,10.469184",
     "geom:latitude":10.3413,
     "geom:longitude":-74.674406,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.MA.EP",
         "wd:id":"Q614970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503576,
-    "wof:geomhash":"51108f7afab49f7222fd5482e85750ee",
+    "wof:geomhash":"7f4be7cdab39ec66519ae1d5a8f5a964",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700885,
-    "wof:lastmodified":1690868046,
+    "wof:lastmodified":1695886075,
     "wof:name":"El Pi\u00f1\u00f3n",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

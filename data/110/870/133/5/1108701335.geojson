@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004708,
-    "geom:area_square_m":57889593.616518,
+    "geom:area_square_m":57889652.532049,
     "geom:bbox":"-73.579028,6.042014,-73.473878,6.164308",
     "geom:latitude":6.101252,
     "geom:longitude":-73.527343,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.ST.SN",
         "wd:id":"Q1655659"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503951,
-    "wof:geomhash":"db1ab85d45b95d54a01172ac00010544",
+    "wof:geomhash":"ec0ce311bf77bb1a14c0771478a4d0b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701335,
-    "wof:lastmodified":1690867940,
+    "wof:lastmodified":1695885981,
     "wof:name":"San Benito",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

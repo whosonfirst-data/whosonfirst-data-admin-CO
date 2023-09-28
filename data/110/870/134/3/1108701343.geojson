@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006105,
-    "geom:area_square_m":74997525.971601,
+    "geom:area_square_m":74997474.130037,
     "geom:bbox":"-72.704295,6.506598,-72.599124,6.617673",
     "geom:latitude":6.567081,
     "geom:longitude":-72.643543,
@@ -177,9 +177,10 @@
         "hasc:id":"CO.ST.SM",
         "wd:id":"Q2434034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503957,
-    "wof:geomhash":"4b702f7956e8000521a5a78a6c7b201d",
+    "wof:geomhash":"5c74c643e311eb6c702ccb606166cd7f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":1108701343,
-    "wof:lastmodified":1690867941,
+    "wof:lastmodified":1695886200,
     "wof:name":"San Miguel",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

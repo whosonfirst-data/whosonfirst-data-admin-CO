@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010476,
-    "geom:area_square_m":129519130.956289,
+    "geom:area_square_m":129519188.353611,
     "geom:bbox":"-77.690898,0.84318,-77.567349,0.993666",
     "geom:latitude":0.916489,
     "geom:longitude":-77.633876,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.NA.PP",
         "wd:id":"Q368268"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503720,
-    "wof:geomhash":"68bac34d8c326eda9cc0e10630935324",
+    "wof:geomhash":"dda6f3c28e7cfc62454fa571ccffb631",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701057,
-    "wof:lastmodified":1690867939,
+    "wof:lastmodified":1695885981,
     "wof:name":"Pupiales",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038254,
-    "geom:area_square_m":471349181.098442,
+    "geom:area_square_m":471349152.405783,
     "geom:bbox":"-73.239698,4.655805,-73.028864,4.995843",
     "geom:latitude":4.815328,
     "geom:longitude":-73.123694,
@@ -109,9 +109,10 @@
         "hasc:id":"CO.BY.LG",
         "wd:id":"Q1577001"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503039,
-    "wof:geomhash":"bbf92cf69eba1b014525dd23ab10b844",
+    "wof:geomhash":"e2ab66d11807dc92db439760cc578c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108700313,
-    "wof:lastmodified":1690867979,
+    "wof:lastmodified":1695886009,
     "wof:name":"San Luis De Gaceno",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

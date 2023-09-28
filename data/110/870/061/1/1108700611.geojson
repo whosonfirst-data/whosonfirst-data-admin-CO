@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009325,
-    "geom:area_square_m":113813997.825676,
+    "geom:area_square_m":113813997.825694,
     "geom:bbox":"-75.6204672007,9.15373382441,-75.4790894579,9.28327585491",
     "geom:latitude":9.223564,
     "geom:longitude":-75.550173,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CO.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503294,
-    "wof:geomhash":"e166dafd820a802d95ede0e169c17a2c",
+    "wof:geomhash":"fd34ee73798b8bb47d41b663eff71d97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108700611,
-    "wof:lastmodified":1566707573,
+    "wof:lastmodified":1695886084,
     "wof:name":"Tuch\u00edn",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

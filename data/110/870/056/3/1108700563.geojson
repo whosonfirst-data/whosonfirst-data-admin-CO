@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040155,
-    "geom:area_square_m":490541925.403266,
+    "geom:area_square_m":490541974.077844,
     "geom:bbox":"-73.869546,8.735601,-73.674145,9.059867",
     "geom:latitude":8.900648,
     "geom:longitude":-73.764694,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CE.TA",
         "wd:id":"Q1524857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503247,
-    "wof:geomhash":"159848e18557b10acf7c190bf8b2c196",
+    "wof:geomhash":"e3b6217b149941465acd2196a7643e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700563,
-    "wof:lastmodified":1690868068,
+    "wof:lastmodified":1695886093,
     "wof:name":"Tamalameque",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195042,
-    "geom:area_square_m":2366429311.251646,
+    "geom:area_square_m":2366429311.251595,
     "geom:bbox":"-74.241619,10.824739,-73.56495,11.349458",
     "geom:latitude":11.122085,
     "geom:longitude":-73.885383,
@@ -296,9 +296,10 @@
         "hasc:id":"CO.MA.SM",
         "wd:id":"Q209016"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503563,
-    "wof:geomhash":"f6888e3599c622ad1576327ac362b9e6",
+    "wof:geomhash":"c1b4cd9cc4419de688869b82aaf8d77d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -308,7 +309,7 @@
         }
     ],
     "wof:id":1108700871,
-    "wof:lastmodified":1690868032,
+    "wof:lastmodified":1695886287,
     "wof:name":"Santa Marta",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

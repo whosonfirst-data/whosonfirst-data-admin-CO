@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043804,
-    "geom:area_square_m":541403175.701999,
+    "geom:area_square_m":541403147.641405,
     "geom:bbox":"-76.168259,1.555473,-75.835441,1.870224",
     "geom:latitude":1.709601,
     "geom:longitude":-75.9971,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.HU.AC",
         "wd:id":"Q1110278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503488,
-    "wof:geomhash":"6e5df771bb674fab16b88b22e517a318",
+    "wof:geomhash":"64d3186889f66d10a9fb6df796bf752b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700795,
-    "wof:lastmodified":1690867949,
+    "wof:lastmodified":1695885989,
     "wof:name":"Acevedo",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

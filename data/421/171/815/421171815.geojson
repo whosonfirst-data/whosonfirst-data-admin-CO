@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007275,
-    "geom:area_square_m":89626937.728221,
+    "geom:area_square_m":89626937.7282,
     "geom:bbox":"-74.2843904753,4.81889806928,-74.1863585642,4.95026672775",
     "geom:latitude":4.877235,
     "geom:longitude":-74.239396,
@@ -118,12 +118,13 @@
         "qs_pg:id":1264526,
         "wd:id":"Q352671"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b63c82f59af999aab4eaeb6133fcce4c",
+    "wof:geomhash":"8f4a7e20f6332bdcf7676e9586d7b665",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421171815,
-    "wof:lastmodified":1582393688,
+    "wof:lastmodified":1695886268,
     "wof:name":"El Rosal",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

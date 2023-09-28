@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017195,
-    "geom:area_square_m":211577105.379652,
+    "geom:area_square_m":211577139.966483,
     "geom:bbox":"-72.968778,5.583783,-72.770056,5.769421",
     "geom:latitude":5.668395,
     "geom:longitude":-72.885987,
@@ -252,12 +252,13 @@
         "qs_pg:id":1103701,
         "wd:id":"Q989996"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009572,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b834bb1df040f609260d6c590888566a",
+    "wof:geomhash":"0b362cba96cfbf52961958f5ece40674",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -267,7 +268,7 @@
         }
     ],
     "wof:id":421188647,
-    "wof:lastmodified":1690868216,
+    "wof:lastmodified":1695886223,
     "wof:name":"Sogamoso",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

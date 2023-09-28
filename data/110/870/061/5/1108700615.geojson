@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075667,
-    "geom:area_square_m":926020106.937371,
+    "geom:area_square_m":926019749.949269,
     "geom:bbox":"-76.427044,7.996993,-76.045618,8.401713",
     "geom:latitude":8.220156,
     "geom:longitude":-76.220265,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.CO.VA",
         "wd:id":"Q1983488"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503295,
-    "wof:geomhash":"426e1f955bce337f9eaab0b9ff6c1c44",
+    "wof:geomhash":"14e52a326af7ca32289d80c2df0a1261",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700615,
-    "wof:lastmodified":1690868057,
+    "wof:lastmodified":1695886214,
     "wof:name":"Valencia",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

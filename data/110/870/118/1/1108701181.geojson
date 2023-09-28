@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01244,
-    "geom:area_square_m":152625573.17448,
+    "geom:area_square_m":152625573.174577,
     "geom:bbox":"-73.169296,7.069722,-73.04906,7.263715",
     "geom:latitude":7.155475,
     "geom:longitude":-73.111332,
@@ -294,12 +294,13 @@
         "hasc:id":"CO.ST.BU",
         "wd:id":"Q243766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         890444993
     ],
     "wof:country":"CO",
     "wof:created":1474503848,
-    "wof:geomhash":"6dc6ea0e8b24a9716be98547e445319e",
+    "wof:geomhash":"c0251062c3a7294632456a1b2e5151b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -309,7 +310,7 @@
         }
     ],
     "wof:id":1108701181,
-    "wof:lastmodified":1690867996,
+    "wof:lastmodified":1695886457,
     "wof:name":"Bucaramanga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

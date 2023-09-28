@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187585,
-    "geom:area_square_m":2315468523.117425,
+    "geom:area_square_m":2315468177.469533,
     "geom:bbox":"-67.860163,3.114014,-67.310785,3.775236",
     "geom:latitude":3.386109,
     "geom:longitude":-67.585156,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.GN.CA",
         "wd:id":"Q1654694"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504234,
-    "wof:geomhash":"83e171ebc72e5f17c11c9fd69d8969f8",
+    "wof:geomhash":"8c4a1cbf93e556677137b1d55f5f66bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108701617,
-    "wof:lastmodified":1690867938,
+    "wof:lastmodified":1695885979,
     "wof:name":"C.D Cacahual",
     "wof:parent_id":85670249,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050905,
-    "geom:area_square_m":628768449.922444,
+    "geom:area_square_m":628768357.188746,
     "geom:bbox":"-76.516268,2.534789,-76.174263,2.789552",
     "geom:latitude":2.660101,
     "geom:longitude":-76.351137,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.CA.SI",
         "wd:id":"Q2418703"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503200,
-    "wof:geomhash":"1995cd1d37d9f2a87383ffdeb13eaaca",
+    "wof:geomhash":"6941024b59c6888163ec76f33a66e92c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108700507,
-    "wof:lastmodified":1690868061,
+    "wof:lastmodified":1695886088,
     "wof:name":"Silvia",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

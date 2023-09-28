@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039683,
-    "geom:area_square_m":487067285.411986,
+    "geom:area_square_m":487067422.532565,
     "geom:bbox":"-73.125977,6.790028,-72.907957,7.112714",
     "geom:latitude":6.962833,
     "geom:longitude":-73.005509,
@@ -144,9 +144,10 @@
         "hasc:id":"CO.ST.PD",
         "wd:id":"Q2075634"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503940,
-    "wof:geomhash":"f7197ed70462dc4e138c970444cac9cc",
+    "wof:geomhash":"4be63c2762ac829df97fcc56cb9e4253",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108701317,
-    "wof:lastmodified":1690868010,
+    "wof:lastmodified":1695886041,
     "wof:name":"Piedecuesta",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046506,
-    "geom:area_square_m":569117193.553515,
+    "geom:area_square_m":569117014.413745,
     "geom:bbox":"-74.8341,8.031478,-74.498641,8.427914",
     "geom:latitude":8.23812,
     "geom:longitude":-74.669344,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502900,
-    "wof:geomhash":"a58d00d9ca06c2777eee61bb5d2434e3",
+    "wof:geomhash":"b74e3fcf23e1edff2fe897b5a722a751",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108700153,
-    "wof:lastmodified":1627522022,
+    "wof:lastmodified":1695886526,
     "wof:name":"San Jacinto Del Cauca",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

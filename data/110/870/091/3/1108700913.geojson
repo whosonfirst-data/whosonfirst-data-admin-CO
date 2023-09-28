@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041151,
-    "geom:area_square_m":501824934.881089,
+    "geom:area_square_m":501824931.493622,
     "geom:bbox":"-74.808814,9.384591,-74.526435,9.668086",
     "geom:latitude":9.521732,
     "geom:longitude":-74.650292,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.MA.SA",
         "wd:id":"Q1441044"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503599,
-    "wof:geomhash":"1aca85e55e27817f48b477cc7ef7d187",
+    "wof:geomhash":"88e86549782a8563cc8d74314bb464c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700913,
-    "wof:lastmodified":1690867969,
+    "wof:lastmodified":1695886002,
     "wof:name":"Santa Barbara De Pinto",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

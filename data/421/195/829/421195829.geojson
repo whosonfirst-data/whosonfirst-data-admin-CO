@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017812,
-    "geom:area_square_m":218911484.154027,
+    "geom:area_square_m":218911537.244935,
     "geom:bbox":"-75.404432,6.223918,-75.227773,6.400793",
     "geom:latitude":6.311624,
     "geom:longitude":-75.324244,
@@ -186,12 +186,13 @@
         "wd:id":"Q1525987",
         "wk:page":"San Vicente, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009860,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0614f704246f4372c1a4f1b644ef15a",
+    "wof:geomhash":"21e74f5e4946096c128737c210fea6de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":421195829,
-    "wof:lastmodified":1690868104,
+    "wof:lastmodified":1695886219,
     "wof:name":"San Vicente",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

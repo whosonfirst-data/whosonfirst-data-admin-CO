@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065695,
-    "geom:area_square_m":808584922.939051,
+    "geom:area_square_m":808584707.139993,
     "geom:bbox":"-76.435642,5.335873,-76.002611,5.686622",
     "geom:latitude":5.503334,
     "geom:longitude":-76.198038,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.CH.BA",
         "wd:id":"Q1576654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503448,
-    "wof:geomhash":"d1264bfa60dad341a7115fb1f4fca2a0",
+    "wof:geomhash":"73080874af8ddc3bf056af0cfc73cfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700745,
-    "wof:lastmodified":1690868035,
+    "wof:lastmodified":1695886067,
     "wof:name":"Bagad\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

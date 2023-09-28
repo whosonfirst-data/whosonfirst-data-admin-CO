@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008847,
-    "geom:area_square_m":108980694.060822,
+    "geom:area_square_m":108980869.554514,
     "geom:bbox":"-73.619566,4.914202,-73.50763,5.072523",
     "geom:latitude":4.978212,
     "geom:longitude":-73.562275,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CU.MN",
         "wd:id":"Q1654947"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503369,
-    "wof:geomhash":"af6d3067f9018ece432c7cfbfd083aa3",
+    "wof:geomhash":"a104af378e662b2c89696f7788cbc369",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700681,
-    "wof:lastmodified":1690868063,
+    "wof:lastmodified":1695886214,
     "wof:name":"Manta",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

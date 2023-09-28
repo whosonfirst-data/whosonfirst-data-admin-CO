@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022802,
-    "geom:area_square_m":281700495.681886,
+    "geom:area_square_m":281700468.667558,
     "geom:bbox":"-75.842728,2.323651,-75.562532,2.484289",
     "geom:latitude":2.406639,
     "geom:longitude":-75.728151,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.HU.PC",
         "wd:id":"Q1655580"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503516,
-    "wof:geomhash":"8efe1a483c52e7393b55df7a617b6381",
+    "wof:geomhash":"ddba13a5a7605f4e974a452b56d836ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700831,
-    "wof:lastmodified":1690867953,
+    "wof:lastmodified":1695885991,
     "wof:name":"Paicol",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

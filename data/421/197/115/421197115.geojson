@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006996,
-    "geom:area_square_m":85935119.990111,
+    "geom:area_square_m":85935056.124137,
     "geom:bbox":"-75.824408,6.538492,-75.716619,6.666006",
     "geom:latitude":6.612338,
     "geom:longitude":-75.775722,
@@ -163,12 +163,13 @@
         "qs_pg:id":1311353,
         "wd:id":"Q1656222"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6348a88bfeae172551464265e65ba034",
+    "wof:geomhash":"9586d9eb0a9c35fd372e638b5f7976e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421197115,
-    "wof:lastmodified":1690868273,
+    "wof:lastmodified":1695886246,
     "wof:name":"Olaya",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

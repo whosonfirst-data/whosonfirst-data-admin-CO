@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027953,
-    "geom:area_square_m":344283380.8386,
+    "geom:area_square_m":344283380.838559,
     "geom:bbox":"-73.1170206088,4.97539400174,-72.9028790182,5.21525189439",
     "geom:latitude":5.095245,
     "geom:longitude":-73.004578,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.PZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503013,
-    "wof:geomhash":"5ff7407f84f26d91598f8fe8e8d89b84",
+    "wof:geomhash":"34741f095196046235ca7b36d4585c3e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108700287,
-    "wof:lastmodified":1566707564,
+    "wof:lastmodified":1695886078,
     "wof:name":"P\u00e1ez",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

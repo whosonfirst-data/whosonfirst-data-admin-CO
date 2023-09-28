@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032108,
-    "geom:area_square_m":390952192.670342,
+    "geom:area_square_m":390952422.0089,
     "geom:bbox":"-75.060348,9.944572,-74.785878,10.128691",
     "geom:latitude":10.034647,
     "geom:longitude":-74.923396,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.BL.EG",
         "wd:id":"Q1576366"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502867,
-    "wof:geomhash":"a8e8ecbefb3d6090720814b5848ac6a1",
+    "wof:geomhash":"7128d759be56263f795f3f03d74006c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700119,
-    "wof:lastmodified":1690868038,
+    "wof:lastmodified":1695886070,
     "wof:name":"El Guamo",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010762,
-    "geom:area_square_m":131344237.81536,
+    "geom:area_square_m":131344163.198,
     "geom:bbox":"-74.760352,9.167717,-74.619409,9.305723",
     "geom:latitude":9.235073,
     "geom:longitude":-74.688328,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.BL.CC",
         "wd:id":"Q1579035"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502861,
-    "wof:geomhash":"0d1ec79f1bb04737ab060914c335a1a7",
+    "wof:geomhash":"c1a12d90b9b61da54624e8cf259e1071",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108700111,
-    "wof:lastmodified":1690868038,
+    "wof:lastmodified":1695886070,
     "wof:name":"Cicuco",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

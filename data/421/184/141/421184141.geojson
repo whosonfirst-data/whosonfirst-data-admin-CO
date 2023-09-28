@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074531,
-    "geom:area_square_m":919713494.713314,
+    "geom:area_square_m":919713618.309991,
     "geom:bbox":"-76.88574,3.423999,-76.582496,3.878715",
     "geom:latitude":3.650096,
     "geom:longitude":-76.720657,
@@ -158,12 +158,13 @@
         "qs_pg:id":989522,
         "wd:id":"Q2406018"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009401,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bdf8ae3382828d69c10b687401256900",
+    "wof:geomhash":"552ecc47a9d1445b7ca770c8459496bb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421184141,
-    "wof:lastmodified":1690868304,
+    "wof:lastmodified":1695886252,
     "wof:name":"Dagua",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

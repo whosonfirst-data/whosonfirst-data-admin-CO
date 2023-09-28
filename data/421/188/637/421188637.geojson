@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038832,
-    "geom:area_square_m":477880005.754509,
+    "geom:area_square_m":477880119.219437,
     "geom:bbox":"-75.599843,5.420419,-75.3116,5.73807",
     "geom:latitude":5.59681,
     "geom:longitude":-75.449873,
@@ -146,12 +146,13 @@
         "qs_pg:id":1103696,
         "wd:id":"Q1442012"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009572,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"04776d4d8f649ca36ad9bf40c5d333f3",
+    "wof:geomhash":"1f0c4bf2c148d3957730f85053503b66",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421188637,
-    "wof:lastmodified":1690868219,
+    "wof:lastmodified":1695886237,
     "wof:name":"Aguadas",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

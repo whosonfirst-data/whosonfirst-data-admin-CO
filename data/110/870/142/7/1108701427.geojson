@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035536,
-    "geom:area_square_m":437737841.525456,
+    "geom:area_square_m":437737561.445442,
     "geom:bbox":"-75.015883,4.887224,-74.707094,5.149272",
     "geom:latitude":5.007468,
     "geom:longitude":-74.846802,
@@ -166,9 +166,10 @@
         "hasc:id":"CO.TO.AR",
         "wd:id":"Q584880"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504024,
-    "wof:geomhash":"b772f134fcdf824d17c1f06fcf2bb388",
+    "wof:geomhash":"111fcb497f8688b894a4b7a3c7a8a752",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1108701427,
-    "wof:lastmodified":1690867992,
+    "wof:lastmodified":1695886021,
     "wof:name":"Armero",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

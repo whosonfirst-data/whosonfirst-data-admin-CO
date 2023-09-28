@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003463,
-    "geom:area_square_m":42816248.046759,
+    "geom:area_square_m":42816071.92394,
     "geom:bbox":"-77.575844,0.896243,-77.469778,0.958908",
     "geom:latitude":0.933049,
     "geom:longitude":-77.528204,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.NA.CN",
         "wd:id":"Q1113699"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503666,
-    "wof:geomhash":"81eec44ba995d59b94c776a9bef66199",
+    "wof:geomhash":"e00d39552148b8a4e3990278d5738467",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700985,
-    "wof:lastmodified":1690867973,
+    "wof:lastmodified":1695886008,
     "wof:name":"Contadero",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

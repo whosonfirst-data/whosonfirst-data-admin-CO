@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016877,
-    "geom:area_square_m":208034950.31165,
+    "geom:area_square_m":208034950.311603,
     "geom:bbox":"-76.3968552692,4.46792496869,-76.1577308679,4.61506400734",
     "geom:latitude":4.531853,
     "geom:longitude":-76.28291,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"CO.VC.VE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504106,
-    "wof:geomhash":"dfe3196066b12551b318d75702387f33",
+    "wof:geomhash":"a3ca1379a228e39450ea606ecdf6b0a2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108701493,
-    "wof:lastmodified":1566707604,
+    "wof:lastmodified":1695886114,
     "wof:name":"El Dovio",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

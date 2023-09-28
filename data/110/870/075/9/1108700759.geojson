@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033225,
-    "geom:area_square_m":409018368.035991,
+    "geom:area_square_m":409018525.826863,
     "geom:bbox":"-76.718331,5.269122,-76.342405,5.495262",
     "geom:latitude":5.390559,
     "geom:longitude":-76.520924,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CH.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503457,
-    "wof:geomhash":"d9d42ad2d57e8a6d7cb864347d274cf9",
+    "wof:geomhash":"b2c54f64e39ee00c04223353ff734b26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108700759,
-    "wof:lastmodified":1627522015,
+    "wof:lastmodified":1695886509,
     "wof:name":"Certegui",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

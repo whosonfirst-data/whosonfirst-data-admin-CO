@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052425,
-    "geom:area_square_m":645215231.260187,
+    "geom:area_square_m":645214961.573309,
     "geom:bbox":"-72.755692,5.382153,-72.443425,5.709076",
     "geom:latitude":5.540667,
     "geom:longitude":-72.600551,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.LB",
         "wd:id":"Q1654772"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502987,
-    "wof:geomhash":"93f2bc1bcac8961f0456d2df00b22935",
+    "wof:geomhash":"83857680b8a61acb06795d623cedc875",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700257,
-    "wof:lastmodified":1690867957,
+    "wof:lastmodified":1695885994,
     "wof:name":"Labranzagrande",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

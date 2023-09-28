@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034987,
-    "geom:area_square_m":425819216.114819,
+    "geom:area_square_m":425819353.191189,
     "geom:bbox":"-75.286017,10.036079,-75.065885,10.299833",
     "geom:latitude":10.177048,
     "geom:longitude":-75.181163,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.BL.MH",
         "wd:id":"Q1440795"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502873,
-    "wof:geomhash":"e0da834a344aa7e501aa20360833884a",
+    "wof:geomhash":"ff9c76b734f74d7045c04eb0b3fa5734",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700125,
-    "wof:lastmodified":1690867948,
+    "wof:lastmodified":1695885988,
     "wof:name":"Mahates",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

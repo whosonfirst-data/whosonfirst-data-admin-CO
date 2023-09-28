@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470969,
-    "geom:area_square_m":5782543191.168228,
+    "geom:area_square_m":5782543266.846886,
     "geom:bbox":"-71.202472,6.483525,-69.767936,7.104381",
     "geom:latitude":6.796083,
     "geom:longitude":-70.509737,
@@ -290,12 +290,13 @@
         "qs_pg:id":1194984,
         "wd:id":"Q626543"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008862,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5a3007d36114519e5d36c85aff4571f4",
+    "wof:geomhash":"fe8934bd1af669b4ab92eae8c8819aca",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -305,7 +306,7 @@
         }
     ],
     "wof:id":421170653,
-    "wof:lastmodified":1690868318,
+    "wof:lastmodified":1695886259,
     "wof:name":"Arauca",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

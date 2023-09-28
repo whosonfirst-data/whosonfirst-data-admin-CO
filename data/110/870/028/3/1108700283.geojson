@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041485,
-    "geom:area_square_m":510395415.877474,
+    "geom:area_square_m":510395386.834967,
     "geom:bbox":"-74.307172,5.576423,-74.079541,5.911394",
     "geom:latitude":5.747312,
     "geom:longitude":-74.196146,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.OT",
         "wd:id":"Q1577588"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503010,
-    "wof:geomhash":"db7b1cca82e587b637cc337016806560",
+    "wof:geomhash":"2cb6d5bc5be418eafe22d0832c2739ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700283,
-    "wof:lastmodified":1690868048,
+    "wof:lastmodified":1695886078,
     "wof:name":"Otanche",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

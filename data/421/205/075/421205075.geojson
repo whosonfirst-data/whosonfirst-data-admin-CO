@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012111,
-    "geom:area_square_m":148831862.196547,
+    "geom:area_square_m":148831844.694938,
     "geom:bbox":"-75.668783,6.287403,-75.514359,6.434998",
     "geom:latitude":6.358817,
     "geom:longitude":-75.58962,
@@ -245,12 +245,13 @@
         "qs_pg:id":1194305,
         "wd:id":"Q816024"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9d561a6f0210c395071906a73703f8e3",
+    "wof:geomhash":"95efa4177477e3d299da3bab8773a45b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -260,7 +261,7 @@
         }
     ],
     "wof:id":421205075,
-    "wof:lastmodified":1690868168,
+    "wof:lastmodified":1695886222,
     "wof:name":"Bello",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

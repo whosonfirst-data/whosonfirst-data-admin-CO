@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021034,
-    "geom:area_square_m":258748321.312224,
+    "geom:area_square_m":258748363.40439,
     "geom:bbox":"-73.775451,5.712003,-73.599907,5.929421",
     "geom:latitude":5.831349,
     "geom:longitude":-73.678764,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.PN",
         "wd:id":"Q1525489"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503943,
-    "wof:geomhash":"108167e1522302097c1e322bcbec6924",
+    "wof:geomhash":"993e0adeaae7f62f3a31399088de7fe7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701321,
-    "wof:lastmodified":1690867932,
+    "wof:lastmodified":1695885974,
     "wof:name":"Puente Nacional",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

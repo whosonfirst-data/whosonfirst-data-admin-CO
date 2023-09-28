@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00713,
-    "geom:area_square_m":87698765.827887,
+    "geom:area_square_m":87698670.533427,
     "geom:bbox":"-72.97575,5.79592,-72.869895,5.929722",
     "geom:latitude":5.859245,
     "geom:longitude":-72.925486,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.BY.FL",
         "wd:id":"Q1656297"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502972,
-    "wof:geomhash":"1505d53006dd9acef44abe2cb1e64490",
+    "wof:geomhash":"2198a8da5998b9fe0224be37ef3fbf7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108700239,
-    "wof:lastmodified":1690867946,
+    "wof:lastmodified":1695885987,
     "wof:name":"Floresta",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033633,
-    "geom:area_square_m":414409055.916386,
+    "geom:area_square_m":414408812.54343,
     "geom:bbox":"-73.076933,4.65756,-72.85863,5.003888",
     "geom:latitude":4.808471,
     "geom:longitude":-72.994699,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CS.MO",
         "wd:id":"Q1525276"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504168,
-    "wof:geomhash":"a279c9923d34ddfc952b4d6abd00ff47",
+    "wof:geomhash":"c774a10b0cb69601e33d5e0976edaaa3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701543,
-    "wof:lastmodified":1690868007,
+    "wof:lastmodified":1695886207,
     "wof:name":"Sabanalarga",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

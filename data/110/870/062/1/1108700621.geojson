@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009769,
-    "geom:area_square_m":120372123.90723,
+    "geom:area_square_m":120372134.604952,
     "geom:bbox":"-74.525452,4.72586,-74.392687,4.847958",
     "geom:latitude":4.789382,
     "geom:longitude":-74.461368,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CU.AN",
         "wd:id":"Q1524766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503301,
-    "wof:geomhash":"3b2e2854b4a4cf8b785bb42db6143749",
+    "wof:geomhash":"d2266dd91384ef50cebf158b377fe231",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700621,
-    "wof:lastmodified":1690867970,
+    "wof:lastmodified":1695886005,
     "wof:name":"Anolaima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

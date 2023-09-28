@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006068,
-    "geom:area_square_m":74520822.570814,
+    "geom:area_square_m":74520797.64411,
     "geom:bbox":"-72.722767,6.579088,-72.626114,6.720868",
     "geom:latitude":6.658254,
     "geom:longitude":-72.680728,
@@ -108,9 +108,10 @@
         "hasc:id":"CO.ST.ES",
         "wd:id":"Q1654246"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503893,
-    "wof:geomhash":"ed75ebd27eaedb2dd94c6d57aa74fcce",
+    "wof:geomhash":"7cdf704ac2d1c574a26dea81968233ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108701249,
-    "wof:lastmodified":1690868079,
+    "wof:lastmodified":1695886107,
     "wof:name":"Enciso",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

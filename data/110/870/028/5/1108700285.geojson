@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005417,
-    "geom:area_square_m":66711708.059552,
+    "geom:area_square_m":66711708.059546,
     "geom:bbox":"-73.4391886521,5.08307003009,-73.3641762626,5.21776621135",
     "geom:latitude":5.148312,
     "geom:longitude":-73.399671,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503012,
-    "wof:geomhash":"dbf5af98dfee2cc064b859c0cefad30c",
+    "wof:geomhash":"07dc8f242c266b90fc262df7d6fd655d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108700285,
-    "wof:lastmodified":1566707564,
+    "wof:lastmodified":1695886078,
     "wof:name":"Pachavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

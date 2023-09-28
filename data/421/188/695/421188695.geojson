@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008,
-    "geom:area_square_m":98649348.698811,
+    "geom:area_square_m":98649317.52797,
     "geom:bbox":"-74.908341,4.186459,-74.776931,4.294373",
     "geom:latitude":4.242594,
     "geom:longitude":-74.837505,
@@ -150,12 +150,13 @@
         "wd:id":"Q764821",
         "wk:page":"Flandes"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009574,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"80f18f86c9ea1c164c2ca045a0d26874",
+    "wof:geomhash":"5db0511364d444572aad7ce51b5aacc5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421188695,
-    "wof:lastmodified":1690868213,
+    "wof:lastmodified":1695886235,
     "wof:name":"Flandes",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

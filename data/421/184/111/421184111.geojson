@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009103,
-    "geom:area_square_m":112133431.610106,
+    "geom:area_square_m":112133431.610033,
     "geom:bbox":"-75.8667457516,4.91884689649,-75.7434085885,5.06706941832",
     "geom:latitude":4.994153,
     "geom:longitude":-75.812283,
@@ -102,12 +102,13 @@
         "hasc:id":"CO.RI.MA",
         "qs_pg:id":989505
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009400,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e685972a6e39679b0ce9e1ab95b0e9af",
+    "wof:geomhash":"be6394d3945257a656d908d0cf142bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":421184111,
-    "wof:lastmodified":1582393675,
+    "wof:lastmodified":1695886249,
     "wof:name":"Belalc\u00e1zar",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015243,
-    "geom:area_square_m":187887904.817395,
+    "geom:area_square_m":187887943.52154,
     "geom:bbox":"-74.307943,4.384762,-74.159982,4.631544",
     "geom:latitude":4.535158,
     "geom:longitude":-74.225041,
@@ -338,12 +338,13 @@
         "qs_pg:id":1194635,
         "wd:id":"Q1011151"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008860,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aebb140e07b927435bf296ea20e83871",
+    "wof:geomhash":"3057b9720f6f5293614c1e2a2716deab",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -353,7 +354,7 @@
         }
     ],
     "wof:id":421170611,
-    "wof:lastmodified":1690868308,
+    "wof:lastmodified":1695886255,
     "wof:name":"Soacha",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

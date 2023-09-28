@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006012,
-    "geom:area_square_m":73879078.94596,
+    "geom:area_square_m":73878956.675008,
     "geom:bbox":"-73.2087,6.329505,-73.115409,6.499352",
     "geom:latitude":6.416299,
     "geom:longitude":-73.171607,
@@ -93,9 +93,10 @@
         "hasc:id":"CO.ST.VS",
         "wd:id":"Q1657211"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503938,
-    "wof:geomhash":"78ee8aba3757c33b962fe9f49b869b18",
+    "wof:geomhash":"d5161c7c6ae0ad22abe24bcc4101ef9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108701313,
-    "wof:lastmodified":1690868010,
+    "wof:lastmodified":1695886041,
     "wof:name":"P\u00e1ramo",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

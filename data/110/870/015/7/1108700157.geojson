@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038048,
-    "geom:area_square_m":464954373.96243,
+    "geom:area_square_m":464954510.290817,
     "geom:bbox":"-74.134551,8.636728,-73.86993,8.976974",
     "geom:latitude":8.782737,
     "geom:longitude":-74.006433,
@@ -110,9 +110,10 @@
         "hasc:id":"CO.BL.SM",
         "wd:id":"Q1525726"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502903,
-    "wof:geomhash":"5eb2fa13e0e99022000d6b67ed96359e",
+    "wof:geomhash":"03e8b9d6e7f7f12398fa988158f23c74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108700157,
-    "wof:lastmodified":1690867946,
+    "wof:lastmodified":1695885987,
     "wof:name":"San Mart\u00edn De Loba",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010699,
-    "geom:area_square_m":131746739.799016,
+    "geom:area_square_m":131746739.799026,
     "geom:bbox":"-73.4025636887,5.13556640065,-73.2516347737,5.27604671439",
     "geom:latitude":5.200958,
     "geom:longitude":-73.340315,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502945,
-    "wof:geomhash":"4ee3bd52a6a5a2896abddd647ec2ecce",
+    "wof:geomhash":"653c1c58a02b04f6c6d2d80c4b639b89",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108700209,
-    "wof:lastmodified":1566707552,
+    "wof:lastmodified":1695886068,
     "wof:name":"Chinavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

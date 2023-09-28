@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01047,
-    "geom:area_square_m":127682546.66001,
+    "geom:area_square_m":127682243.90387,
     "geom:bbox":"-75.413538,9.438973,-75.281811,9.63604",
     "geom:latitude":9.525363,
     "geom:longitude":-75.362149,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.SU.CS",
         "wd:id":"Q1576957"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503985,
-    "wof:geomhash":"35fa3fd630c152004ccc9ccd2ac3f461",
+    "wof:geomhash":"0957144a0953bc8bab304cbd5fb94cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701381,
-    "wof:lastmodified":1690868014,
+    "wof:lastmodified":1695886044,
     "wof:name":"Colos\u00f3",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

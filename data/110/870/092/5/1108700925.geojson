@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033248,
-    "geom:area_square_m":409844845.392018,
+    "geom:area_square_m":409844262.547187,
     "geom:bbox":"-73.093004,4.357164,-72.843403,4.737208",
     "geom:latitude":4.518635,
     "geom:longitude":-72.994909,
@@ -110,9 +110,10 @@
         "hasc:id":"CO.ME.BA",
         "wd:id":"Q1654757"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503609,
-    "wof:geomhash":"cf61d894d4935bc7066a95f2c995c131",
+    "wof:geomhash":"1a5a5c1af518addd74be10ec626d2399",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108700925,
-    "wof:lastmodified":1690868060,
+    "wof:lastmodified":1695886088,
     "wof:name":"Barranca De Up\u00eda",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

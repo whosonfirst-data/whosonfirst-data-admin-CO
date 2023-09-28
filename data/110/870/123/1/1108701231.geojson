@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011058,
-    "geom:area_square_m":135912668.500977,
+    "geom:area_square_m":135912466.307522,
     "geom:bbox":"-73.599507,6.232292,-73.408791,6.375147",
     "geom:latitude":6.303066,
     "geom:longitude":-73.501579,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.CN",
         "wd:id":"Q1655552"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503881,
-    "wof:geomhash":"8f7c2ba3c044e74f628a824d0501c0a3",
+    "wof:geomhash":"280b0a4395d0667a72b8787d1c60ead8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701231,
-    "wof:lastmodified":1690868079,
+    "wof:lastmodified":1695886106,
     "wof:name":"Contrataci\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

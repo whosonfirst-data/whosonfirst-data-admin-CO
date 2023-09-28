@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050525,
-    "geom:area_square_m":621402974.076459,
+    "geom:area_square_m":621402922.137368,
     "geom:bbox":"-72.659992,5.753448,-72.390173,6.119511",
     "geom:latitude":5.929831,
     "geom:longitude":-72.554888,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.BY.ST",
         "wd:id":"Q1576416"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503057,
-    "wof:geomhash":"2327f23497673e34d609c6f53fc65c33",
+    "wof:geomhash":"0c361dccc8ddd81abed3e2b4dd10de67",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700337,
-    "wof:lastmodified":1690868065,
+    "wof:lastmodified":1695886091,
     "wof:name":"Socot\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

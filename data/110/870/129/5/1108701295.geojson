@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00909,
-    "geom:area_square_m":111494146.39517,
+    "geom:area_square_m":111494145.514174,
     "geom:bbox":"-73.112631,7.196877,-72.978926,7.36292",
     "geom:latitude":7.297626,
     "geom:longitude":-73.049952,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.ST.MZ",
         "wd:id":"Q1574806"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503926,
-    "wof:geomhash":"ccdd1f9873cee3da87d3128a8528031f",
+    "wof:geomhash":"6e028ff12a040ba97dc8bba01e2e0482",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701295,
-    "wof:lastmodified":1690867993,
+    "wof:lastmodified":1695886021,
     "wof:name":"Matanza",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

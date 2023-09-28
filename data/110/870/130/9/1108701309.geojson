@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001662,
-    "geom:area_square_m":20421361.816833,
+    "geom:area_square_m":20421394.728439,
     "geom:bbox":"-73.312605,6.484178,-73.2728,6.56748",
     "geom:latitude":6.524759,
     "geom:longitude":-73.289213,
@@ -77,9 +77,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503935,
-    "wof:geomhash":"de891aa748772611d75b9e1a7313b5b3",
+    "wof:geomhash":"49c6ccd2ad988f4cff0dcfff0332051d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -89,7 +90,7 @@
         }
     ],
     "wof:id":1108701309,
-    "wof:lastmodified":1627522019,
+    "wof:lastmodified":1695886517,
     "wof:name":"Palmar",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

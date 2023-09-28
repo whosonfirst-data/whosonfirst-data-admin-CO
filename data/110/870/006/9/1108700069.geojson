@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005905,
-    "geom:area_square_m":71729327.950436,
+    "geom:area_square_m":71729291.235416,
     "geom:bbox":"-74.896878,10.705294,-74.807871,10.813228",
     "geom:latitude":10.768076,
     "geom:longitude":-74.85409,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AT.PL",
         "wd:id":"Q1526194"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502828,
-    "wof:geomhash":"01576846bd02efa1383e55129d821933",
+    "wof:geomhash":"592c2e930ed7c81fe6f77b20ff0edac6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108700069,
-    "wof:lastmodified":1690867989,
+    "wof:lastmodified":1695886018,
     "wof:name":"Polonuevo",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

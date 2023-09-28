@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013941,
-    "geom:area_square_m":172314552.006856,
+    "geom:area_square_m":172314552.006805,
     "geom:bbox":"-76.2220331521,1.57302543125,-76.0603247833,1.77676255001",
     "geom:latitude":1.682668,
     "geom:longitude":-76.146779,
@@ -155,9 +155,10 @@
     "wof:concordances":{
         "hasc:id":"CO.HU.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503523,
-    "wof:geomhash":"1ad4f209c6e482b25e5c003612ee18e9",
+    "wof:geomhash":"b9d6da4302c12efbad446769e4baf556",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":1108700833,
-    "wof:lastmodified":1566707470,
+    "wof:lastmodified":1695885991,
     "wof:name":"Palestina",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

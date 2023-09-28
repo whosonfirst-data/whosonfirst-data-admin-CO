@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011898,
-    "geom:area_square_m":146494942.476072,
+    "geom:area_square_m":146494936.483881,
     "geom:bbox":"-75.556871,5.208097,-75.371788,5.348913",
     "geom:latitude":5.264425,
     "geom:longitude":-75.473183,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CL.AR",
         "wd:id":"Q1525243"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503097,
-    "wof:geomhash":"d221033afd1ccf2bb69955ffe37fa8ca",
+    "wof:geomhash":"04146e92a436f166af9461270525cb42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700377,
-    "wof:lastmodified":1690867986,
+    "wof:lastmodified":1695886017,
     "wof:name":"Aranzazu",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

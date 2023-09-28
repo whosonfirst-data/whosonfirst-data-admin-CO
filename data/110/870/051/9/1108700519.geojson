@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040104,
-    "geom:area_square_m":495225702.848684,
+    "geom:area_square_m":495225644.181965,
     "geom:bbox":"-76.31861,2.845037,-76.066531,3.097615",
     "geom:latitude":2.975689,
     "geom:longitude":-76.203525,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.CA.TR",
         "wd:id":"Q1870972"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503209,
-    "wof:geomhash":"def5631b3ff32eb964e0a76d112f9c21",
+    "wof:geomhash":"4049e5dc526ff869716e5a0e36de1ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108700519,
-    "wof:lastmodified":1690868069,
+    "wof:lastmodified":1695886095,
     "wof:name":"Torib\u00edo",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

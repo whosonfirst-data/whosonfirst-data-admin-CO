@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061163,
-    "geom:area_square_m":755758318.101449,
+    "geom:area_square_m":755758318.101004,
     "geom:bbox":"-77.20396,1.937364,-76.891724,2.32953",
     "geom:latitude":2.148423,
     "geom:longitude":-77.057932,
@@ -133,9 +133,10 @@
         "hasc:id":"CO.CA.PA",
         "wd:id":"Q1256878"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503186,
-    "wof:geomhash":"4b39036805692400bf8a90ea930e9fdf",
+    "wof:geomhash":"22dcd09ea49c887447a5ef54cd16bd68",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108700485,
-    "wof:lastmodified":1690867951,
+    "wof:lastmodified":1695886292,
     "wof:name":"Pat\u00eda",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

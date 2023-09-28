@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028979,
-    "geom:area_square_m":358066153.240639,
+    "geom:area_square_m":358066097.195237,
     "geom:bbox":"-76.360603,2.08801,-75.886517,2.283675",
     "geom:latitude":2.182189,
     "geom:longitude":-76.117516,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.HU.LA",
         "wd:id":"Q1578514"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503510,
-    "wof:geomhash":"32c98b50611f22b1425d1a5fa6aae519",
+    "wof:geomhash":"59827ed8a48386ebd77c83842e1f1e57",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700821,
-    "wof:lastmodified":1690867962,
+    "wof:lastmodified":1695885997,
     "wof:name":"La Argentina",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

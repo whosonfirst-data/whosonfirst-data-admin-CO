@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021929,
-    "geom:area_square_m":270777017.563559,
+    "geom:area_square_m":270776929.68578,
     "geom:bbox":"-76.458966,2.91708,-76.275661,3.172951",
     "geom:latitude":3.042802,
     "geom:longitude":-76.366809,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CA.CT",
         "wd:id":"Q2420491"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503162,
-    "wof:geomhash":"9d1e40efdffed4e5737cbab4258b3e81",
+    "wof:geomhash":"18a7ccc9c9b8c2e10344d16248b81107",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700449,
-    "wof:lastmodified":1690868045,
+    "wof:lastmodified":1695886075,
     "wof:name":"Caloto",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

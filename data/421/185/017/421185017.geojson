@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014609,
-    "geom:area_square_m":179523447.281582,
+    "geom:area_square_m":179523284.341287,
     "geom:bbox":"-75.309531,6.304396,-75.137101,6.452379",
     "geom:latitude":6.384402,
     "geom:longitude":-75.219168,
@@ -233,12 +233,13 @@
         "qs_pg:id":1016998,
         "wd:id":"Q109182"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009429,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e612a9e540a01a7c916e47ceed989f5f",
+    "wof:geomhash":"80c1ec79ab2d98bf5a61eeadeb46f8bb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -248,7 +249,7 @@
         }
     ],
     "wof:id":421185017,
-    "wof:lastmodified":1690868384,
+    "wof:lastmodified":1695886269,
     "wof:name":"Concepci\u00f3n",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

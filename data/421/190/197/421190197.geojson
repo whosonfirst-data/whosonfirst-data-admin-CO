@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003211,
-    "geom:area_square_m":39459892.656125,
+    "geom:area_square_m":39459818.72911,
     "geom:bbox":"-72.493624,6.391554,-72.431304,6.493844",
     "geom:latitude":6.443882,
     "geom:longitude":-72.461699,
@@ -158,12 +158,13 @@
         "qs_pg:id":1118965,
         "wd:id":"Q1656207"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11ba94295a40808e403c48b3863d27bd",
+    "wof:geomhash":"15b90e142c9a1184e52d170832388d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421190197,
-    "wof:lastmodified":1690868264,
+    "wof:lastmodified":1695886244,
     "wof:name":"Panqueba",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

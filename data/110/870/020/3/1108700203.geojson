@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006236,
-    "geom:area_square_m":76741788.628699,
+    "geom:area_square_m":76741788.628717,
     "geom:bbox":"-73.9251699522,5.51299294492,-73.8425151001,5.6375038852",
     "geom:latitude":5.574868,
     "geom:longitude":-73.879905,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.CQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502940,
-    "wof:geomhash":"8083eea8c6f5fec098b3445a04d16c6b",
+    "wof:geomhash":"c415685aae844e1d5a2b3a686cc02c88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108700203,
-    "wof:lastmodified":1566707552,
+    "wof:lastmodified":1695886068,
     "wof:name":"Caldas",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032064,
-    "geom:area_square_m":395526735.640981,
+    "geom:area_square_m":395526828.362131,
     "geom:bbox":"-75.632053,3.821169,-75.388996,4.121124",
     "geom:latitude":3.956844,
     "geom:longitude":-75.49697,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.TO.SA",
         "wd:id":"Q1526235"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504075,
-    "wof:geomhash":"586e9b6ef2f6b54360a2a2d3b7629c9b",
+    "wof:geomhash":"290b4b41162f5c8b6b24af659c1a7aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701467,
-    "wof:lastmodified":1690868083,
+    "wof:lastmodified":1695886218,
     "wof:name":"San Antonio",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

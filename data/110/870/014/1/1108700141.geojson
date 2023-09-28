@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014287,
-    "geom:area_square_m":174622422.851649,
+    "geom:area_square_m":174622342.850316,
     "geom:bbox":"-73.924263,8.615076,-73.788899,8.837265",
     "geom:latitude":8.72488,
     "geom:longitude":-73.844938,
@@ -59,9 +59,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.MS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502885,
-    "wof:geomhash":"d8c6fa7d1b41b65d6919b21be4f38305",
+    "wof:geomhash":"9bbd7de342a530c48d96c9c23c56eec7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,7 +72,7 @@
         }
     ],
     "wof:id":1108700141,
-    "wof:lastmodified":1627522022,
+    "wof:lastmodified":1695886525,
     "wof:name":"Regidor",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

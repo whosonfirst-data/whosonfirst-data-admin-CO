@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004592,
-    "geom:area_square_m":56385427.199959,
+    "geom:area_square_m":56385427.200059,
     "geom:bbox":"-72.7755957464,6.67565880532,-72.7036915739,6.7896323167",
     "geom:latitude":6.720512,
     "geom:longitude":-72.737958,
@@ -366,9 +366,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503924,
-    "wof:geomhash":"cbf70418689f3085bce1e1c0cac93b21",
+    "wof:geomhash":"bdf99bd57af998f3cbd072a89a5b7b17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +379,7 @@
         }
     ],
     "wof:id":1108701293,
-    "wof:lastmodified":1566707503,
+    "wof:lastmodified":1695886021,
     "wof:name":"M\u00e1laga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

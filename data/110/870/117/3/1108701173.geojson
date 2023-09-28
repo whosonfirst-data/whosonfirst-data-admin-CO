@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007755,
-    "geom:area_square_m":95523178.32857,
+    "geom:area_square_m":95523178.328561,
     "geom:bbox":"-76.0963140921,4.9115717119,-75.9462078465,5.04951296619",
     "geom:latitude":4.989093,
     "geom:longitude":-76.010593,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.RI.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503837,
-    "wof:geomhash":"7a3d14036ea82bc4952f867f6d555af0",
+    "wof:geomhash":"f12470debf3fa9ef0a85799f822d9a4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108701173,
-    "wof:lastmodified":1566707513,
+    "wof:lastmodified":1695886030,
     "wof:name":"La Celia",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

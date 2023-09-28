@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023015,
-    "geom:area_square_m":282579055.384932,
+    "geom:area_square_m":282579359.119776,
     "geom:bbox":"-72.909785,6.679003,-72.731274,6.956886",
     "geom:latitude":6.796509,
     "geom:longitude":-72.815471,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503950,
-    "wof:geomhash":"f576e7613bb86b822fd248961f5ac7df",
+    "wof:geomhash":"7a137e5c3db7f11632eb6e8b8a2c8d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701331,
-    "wof:lastmodified":1627522022,
+    "wof:lastmodified":1695886526,
     "wof:name":"San Andr\u00e9s",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

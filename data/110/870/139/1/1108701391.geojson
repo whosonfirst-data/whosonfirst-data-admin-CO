@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016649,
-    "geom:area_square_m":203289196.800364,
+    "geom:area_square_m":203289196.800412,
     "geom:bbox":"-75.2735210801,8.98885100738,-75.0206120303,9.16925245087",
     "geom:latitude":9.071282,
     "geom:longitude":-75.144718,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CO.SU.CZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503991,
-    "wof:geomhash":"d6d030c372e5c6350e75d7a3ee6d9dc0",
+    "wof:geomhash":"732870bc154e9993b7dca66f8ecf6197",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108701391,
-    "wof:lastmodified":1566707538,
+    "wof:lastmodified":1695886055,
     "wof:name":"El Roble",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

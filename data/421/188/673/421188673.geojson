@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011477,
-    "geom:area_square_m":141371225.455499,
+    "geom:area_square_m":141371103.314028,
     "geom:bbox":"-74.543877,4.941449,-74.41302,5.073113",
     "geom:latitude":5.012152,
     "geom:longitude":-74.487769,
@@ -168,12 +168,13 @@
         "wd:id":"Q1440837",
         "wk:page":"Villeta, Cundinamarca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009573,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c286fae94211e4d442b64f51dfa7c207",
+    "wof:geomhash":"19bfe7d0770ee0fa2287184ad37dad8d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421188673,
-    "wof:lastmodified":1690868211,
+    "wof:lastmodified":1695886233,
     "wof:name":"Villeta",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

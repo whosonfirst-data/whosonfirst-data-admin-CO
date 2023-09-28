@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063379,
-    "geom:area_square_m":774851590.493058,
+    "geom:area_square_m":774851517.217941,
     "geom:bbox":"-76.573259,8.443725,-76.250853,8.889797",
     "geom:latitude":8.611938,
     "geom:longitude":-76.410748,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AN.AR",
         "wd:id":"Q2088061"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502658,
-    "wof:geomhash":"1a43099c8e9b5d2b734104b485f81a16",
+    "wof:geomhash":"edbe62e8825bdf46f56dddc4b27749f2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108699917,
-    "wof:lastmodified":1690867922,
+    "wof:lastmodified":1695886616,
     "wof:name":"Arboletes",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010409,
-    "geom:area_square_m":127842600.300943,
+    "geom:area_square_m":127842666.70583,
     "geom:bbox":"-76.024753,6.554058,-75.881655,6.726954",
     "geom:latitude":6.646738,
     "geom:longitude":-75.959815,
@@ -162,12 +162,13 @@
         "wd:id":"Q1655837",
         "wk:page":"Giraldo, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008859,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d137d894f5e211b37a8f039d2cea0e9",
+    "wof:geomhash":"1c624a2c0c8b12b7e66f25f6ff306418",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421170563,
-    "wof:lastmodified":1690868313,
+    "wof:lastmodified":1695886256,
     "wof:name":"Giraldo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

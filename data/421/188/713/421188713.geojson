@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045102,
-    "geom:area_square_m":556193722.631867,
+    "geom:area_square_m":556193723.452808,
     "geom:bbox":"-76.038122,3.904276,-75.738572,4.410755",
     "geom:latitude":4.198129,
     "geom:longitude":-75.891039,
@@ -148,12 +148,13 @@
         "qs_pg:id":1103760,
         "wd:id":"Q2263673"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009575,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95c4d3becdf5ecc618fe78363ca0683c",
+    "wof:geomhash":"8232cd17598ee28ee61459897d283800",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421188713,
-    "wof:lastmodified":1690868214,
+    "wof:lastmodified":1695886223,
     "wof:name":"Sevilla",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

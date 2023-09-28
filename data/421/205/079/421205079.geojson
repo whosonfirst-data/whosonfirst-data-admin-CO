@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031851,
-    "geom:area_square_m":392119650.941301,
+    "geom:area_square_m":392119541.67049,
     "geom:bbox":"-75.53273,5.222367,-75.279373,5.467515",
     "geom:latitude":5.370133,
     "geom:longitude":-75.409184,
@@ -159,12 +159,13 @@
         "wd:id":"Q610524",
         "wk:page":"Salamina, Caldas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"735a351d9ebc0127527749ddbeb522c1",
+    "wof:geomhash":"edf092e0969ad9917942c41a252b2e32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421205079,
-    "wof:lastmodified":1690868164,
+    "wof:lastmodified":1695886222,
     "wof:name":"Salamina",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

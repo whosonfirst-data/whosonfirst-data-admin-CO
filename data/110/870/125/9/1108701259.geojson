@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040602,
-    "geom:area_square_m":498266942.627124,
+    "geom:area_square_m":498266696.077384,
     "geom:bbox":"-73.545352,6.884228,-73.089353,7.215204",
     "geom:latitude":7.037464,
     "geom:longitude":-73.249939,
@@ -144,9 +144,10 @@
         "hasc:id":"CO.ST.GI",
         "wd:id":"Q1093497"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503901,
-    "wof:geomhash":"899fd921ff2a185651366228a92a8561",
+    "wof:geomhash":"2c48292d8bd85314c558bec0adfe1ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108701259,
-    "wof:lastmodified":1690868084,
+    "wof:lastmodified":1695886110,
     "wof:name":"Gir\u00f3n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

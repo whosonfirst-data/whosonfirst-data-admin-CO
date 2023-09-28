@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029598,
-    "geom:area_square_m":365729908.933866,
+    "geom:area_square_m":365730127.1726,
     "geom:bbox":"-76.007571,2.033496,-75.733401,2.220801",
     "geom:latitude":2.130363,
     "geom:longitude":-75.875794,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.HU.TA",
         "wd:id":"Q1526198"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503534,
-    "wof:geomhash":"9947fddc5acc2c43a6ff5f37642d9cf0",
+    "wof:geomhash":"b65ebf7759a37b73c1608d835fd5219b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700843,
-    "wof:lastmodified":1690867953,
+    "wof:lastmodified":1695885993,
     "wof:name":"Tarqui",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

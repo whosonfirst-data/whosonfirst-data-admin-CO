@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005326,
-    "geom:area_square_m":65845159.800146,
+    "geom:area_square_m":65845159.800116,
     "geom:bbox":"-77.6001206507,0.986248536618,-77.4969840877,1.07246390277",
     "geom:latitude":1.030034,
     "geom:longitude":-77.55243,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.IL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503710,
-    "wof:geomhash":"76ff22b14987116a5fd81aebafdd0c6c",
+    "wof:geomhash":"6e911e7f3de76d8b4f8412cd7dc79c1e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701047,
-    "wof:lastmodified":1566707441,
+    "wof:lastmodified":1695885975,
     "wof:name":"Ospina",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

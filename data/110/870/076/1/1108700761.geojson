@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038014,
-    "geom:area_square_m":468208837.170167,
+    "geom:area_square_m":468208931.520628,
     "geom:bbox":"-76.724696,4.97959,-76.288081,5.211818",
     "geom:latitude":5.073798,
     "geom:longitude":-76.527511,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CH.CO",
         "wd:id":"Q1525250"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503459,
-    "wof:geomhash":"1434d1a688ed09902f4ceaddc2f1a196",
+    "wof:geomhash":"7a69a7ec9176f3ffd0402bc52a544338",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700761,
-    "wof:lastmodified":1690867963,
+    "wof:lastmodified":1695885998,
     "wof:name":"Condoto",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012582,
-    "geom:area_square_m":155560535.094288,
+    "geom:area_square_m":155560535.094251,
     "geom:bbox":"-77.8312834299,0.909468562355,-77.6131671296,1.04017024597",
     "geom:latitude":0.975656,
     "geom:longitude":-77.737411,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503684,
-    "wof:geomhash":"c710b66411bf4bccc1635b4c8ca516c4",
+    "wof:geomhash":"9775b4fbfe8f9c187cca4bb022661dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108701007,
-    "wof:lastmodified":1566707524,
+    "wof:lastmodified":1695886042,
     "wof:name":"Guachucal",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

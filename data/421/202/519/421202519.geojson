@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030495,
-    "geom:area_square_m":375377329.052887,
+    "geom:area_square_m":375377329.052858,
     "geom:bbox":"-75.8674039084,5.33587969305,-75.6096421819,5.56354982866",
     "geom:latitude":5.446296,
     "geom:longitude":-75.754495,
@@ -272,12 +272,13 @@
         "qs_pg:id":224055,
         "wd:id":"Q398637"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010120,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70c84ab299395396d210eb1eda28a1eb",
+    "wof:geomhash":"d38a73c2a1ae1c15278b5e7406113c62",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -287,7 +288,7 @@
         }
     ],
     "wof:id":421202519,
-    "wof:lastmodified":1582393655,
+    "wof:lastmodified":1695886220,
     "wof:name":"Riosucio",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

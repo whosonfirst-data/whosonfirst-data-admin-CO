@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075689,
-    "geom:area_square_m":923771468.431772,
+    "geom:area_square_m":923771525.754696,
     "geom:bbox":"-73.701959,9.070261,-73.27107,9.410925",
     "geom:latitude":9.239431,
     "geom:longitude":-73.488027,
@@ -157,12 +157,13 @@
         "qs_pg:id":12276,
         "wd:id":"Q2309031"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009536,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9890c76f5d2e2a8604f245a8af68dc5a",
+    "wof:geomhash":"b6ccd53f6e2ac67068acf14bd8f15098",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421188175,
-    "wof:lastmodified":1690868214,
+    "wof:lastmodified":1695886234,
     "wof:name":"Curuman\u00ed",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

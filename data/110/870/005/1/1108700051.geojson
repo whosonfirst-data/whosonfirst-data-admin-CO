@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010213,
-    "geom:area_square_m":124050969.97203,
+    "geom:area_square_m":124050668.221359,
     "geom:bbox":"-74.994413,10.701078,-74.866351,10.859341",
     "geom:latitude":10.79371,
     "geom:longitude":-74.921827,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.AT.BO",
         "wd:id":"Q979097"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502815,
-    "wof:geomhash":"146279bb073b7237be714c4fb4a8838d",
+    "wof:geomhash":"3d1387effdbca6bcc439b8b8fb194535",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700051,
-    "wof:lastmodified":1690868067,
+    "wof:lastmodified":1695886092,
     "wof:name":"Baranoa",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034007,
-    "geom:area_square_m":419607137.048074,
+    "geom:area_square_m":419607066.306744,
     "geom:bbox":"-75.008564,3.615295,-74.706466,3.825098",
     "geom:latitude":3.728219,
     "geom:longitude":-74.871858,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.TO.PR",
         "wd:id":"Q1576149"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504065,
-    "wof:geomhash":"50b04dcf3d1a1da3a7dbe92b281d9a94",
+    "wof:geomhash":"c722055bc2706c506d2b380d5d50f6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701455,
-    "wof:lastmodified":1690867991,
+    "wof:lastmodified":1695886020,
     "wof:name":"Prado",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

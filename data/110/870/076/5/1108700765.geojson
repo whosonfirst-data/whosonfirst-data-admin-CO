@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.336058,
-    "geom:area_square_m":4144003519.92118,
+    "geom:area_square_m":4144003396.846838,
     "geom:bbox":"-77.531172,3.964677,-76.444384,4.5729",
     "geom:latitude":4.247114,
     "geom:longitude":-76.962547,
@@ -110,9 +110,10 @@
         "hasc:id":"CO.CH",
         "wd:id":"Q931811"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503461,
-    "wof:geomhash":"649cc278da67e61f3898c72d88cc6502",
+    "wof:geomhash":"8b1a68455d4286874af898c024f228cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108700765,
-    "wof:lastmodified":1690867963,
+    "wof:lastmodified":1695886000,
     "wof:name":"El Litoral Del San Juan",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

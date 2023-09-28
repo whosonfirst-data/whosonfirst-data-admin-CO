@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138383,
-    "geom:area_square_m":1710675502.450419,
+    "geom:area_square_m":1710675502.450001,
     "geom:bbox":"-75.4850274242,0.976402213796,-74.8938065616,1.77137564734",
     "geom:latitude":1.302846,
     "geom:longitude":-75.234951,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CQ.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503136,
-    "wof:geomhash":"9911ff6d6aa8d5004f3840595f74f665",
+    "wof:geomhash":"01f1d8836558380a2eda636bbeae91a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108700413,
-    "wof:lastmodified":1566707467,
+    "wof:lastmodified":1695885989,
     "wof:name":"La Monta\u00f1ita",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

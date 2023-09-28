@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007151,
-    "geom:area_square_m":86883188.108409,
+    "geom:area_square_m":86883188.108375,
     "geom:bbox":"-74.8330583537,10.6426151837,-74.7230402529,10.7527261612",
     "geom:latitude":10.691726,
     "geom:longitude":-74.76653,
@@ -115,9 +115,10 @@
         "hasc:id":"CO.AT.PV",
         "wd:id":"Q1023805"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502826,
-    "wof:geomhash":"0896c323c8857b2ea4f73ba7ad25ca2a",
+    "wof:geomhash":"9cc9f7315a851707314f698ce0067e60",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108700065,
-    "wof:lastmodified":1566707500,
+    "wof:lastmodified":1695886018,
     "wof:name":"Palmar De Varela",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

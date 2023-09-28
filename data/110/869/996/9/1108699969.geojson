@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185693,
-    "geom:area_square_m":2277727764.796329,
+    "geom:area_square_m":2277727209.350478,
     "geom:bbox":"-76.38092,7.044638,-75.443827,7.417058",
     "geom:latitude":7.258689,
     "geom:longitude":-75.897014,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.AN.IN",
         "wd:id":"Q1441937"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502721,
-    "wof:geomhash":"c61633898f0ceed15a4d0e4aae51ddf2",
+    "wof:geomhash":"10d3c3ba7e69bbec0569f835bb9252f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108699969,
-    "wof:lastmodified":1690867923,
+    "wof:lastmodified":1695886618,
     "wof:name":"Ituango",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

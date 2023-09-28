@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070392,
-    "geom:area_square_m":869583543.368569,
+    "geom:area_square_m":869583431.66081,
     "geom:bbox":"-76.328463,2.316911,-75.957946,2.679156",
     "geom:latitude":2.499365,
     "geom:longitude":-76.137723,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.CA.IN",
         "wd:id":"Q1441907"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503171,
-    "wof:geomhash":"5e5770d5401ea1cfbf8215b2e83ead02",
+    "wof:geomhash":"0f9d1981cf2546b7bccd0dbe654741e0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700463,
-    "wof:lastmodified":1690867950,
+    "wof:lastmodified":1695885988,
     "wof:name":"Inz\u00e1",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

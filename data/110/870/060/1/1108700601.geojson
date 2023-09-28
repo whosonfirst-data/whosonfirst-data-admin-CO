@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017463,
-    "geom:area_square_m":213201536.616668,
+    "geom:area_square_m":213201536.616707,
     "geom:bbox":"-75.5897338273,9.02007290359,-75.4218073331,9.2583694785",
     "geom:latitude":9.126027,
     "geom:longitude":-75.513543,
@@ -107,9 +107,10 @@
         "hasc:id":"CO.CO.SS",
         "wd:id":"Q2433828"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503284,
-    "wof:geomhash":"4da049869648e6ca1b6d4b03f18a2d04",
+    "wof:geomhash":"4575055a88c7e90ed3ae76faa22f05a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108700601,
-    "wof:lastmodified":1566707587,
+    "wof:lastmodified":1695886098,
     "wof:name":"San Andr\u00e9s De Sotavento",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

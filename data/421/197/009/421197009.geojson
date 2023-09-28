@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006544,
-    "geom:area_square_m":80798027.781807,
+    "geom:area_square_m":80798027.78176,
     "geom:bbox":"-76.5046156546,3.10444344624,-76.4223335918,3.25904671058",
     "geom:latitude":3.180241,
     "geom:longitude":-76.463769,
@@ -110,12 +110,13 @@
         "qs_pg:id":1264528,
         "wd:id":"Q413347"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009900,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"143245b288ea6b8e712a44490834a7ed",
+    "wof:geomhash":"92007572912424d2f98e749dd8869f58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":421197009,
-    "wof:lastmodified":1582393672,
+    "wof:lastmodified":1695886245,
     "wof:name":"Villa Rica",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003794,
-    "geom:area_square_m":46907772.588614,
+    "geom:area_square_m":46907772.588556,
     "geom:bbox":"-77.726573773,0.835444302888,-77.6624927234,0.976628365744",
     "geom:latitude":0.913486,
     "geom:longitude":-77.695557,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503654,
-    "wof:geomhash":"e6b4b21e678b1ebcef27064469bf90e4",
+    "wof:geomhash":"aaa0d7aa0aa8c2e52a60c3f63a65a96c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108700967,
-    "wof:lastmodified":1566707483,
+    "wof:lastmodified":1695886004,
     "wof:name":"Aldana",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

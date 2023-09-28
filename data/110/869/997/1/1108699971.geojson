@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004422,
-    "geom:area_square_m":54404685.766815,
+    "geom:area_square_m":54404685.766871,
     "geom:bbox":"-75.6405181243,5.67014065581,-75.5678299232,5.81037546918",
     "geom:latitude":5.74853,
     "geom:longitude":-75.601917,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.SB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502726,
-    "wof:geomhash":"bb97e52d36381a91eb50bc560e7ee8e0",
+    "wof:geomhash":"87046792e01a762ab2928c842087e3a7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1108699971,
-    "wof:lastmodified":1566707434,
+    "wof:lastmodified":1695886618,
     "wof:name":"La Pintada",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

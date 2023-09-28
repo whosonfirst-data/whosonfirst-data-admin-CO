@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022509,
-    "geom:area_square_m":276877049.360602,
+    "geom:area_square_m":276877049.360628,
     "geom:bbox":"-76.0992104066,5.75341801335,-75.9024538815,5.93207801664",
     "geom:latitude":5.84254,
     "geom:longitude":-76.014444,
@@ -193,9 +193,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502668,
-    "wof:geomhash":"c741555714fb9376dbb302df3710884b",
+    "wof:geomhash":"01d079129b73f20115419399381e53cc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1108699927,
-    "wof:lastmodified":1566707437,
+    "wof:lastmodified":1695885972,
     "wof:name":"Ciudad Bol\u00edvar",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

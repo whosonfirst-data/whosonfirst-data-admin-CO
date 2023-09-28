@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028963,
-    "geom:area_square_m":357697168.777602,
+    "geom:area_square_m":357697144.868275,
     "geom:bbox":"-76.630562,2.704404,-76.361113,2.926062",
     "geom:latitude":2.811028,
     "geom:longitude":-76.464077,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CA.CD",
         "wd:id":"Q1391900"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503160,
-    "wof:geomhash":"4987279e8759e9b0d5fdba59aa510683",
+    "wof:geomhash":"814b837ab773ab486ddaf1ac60762c44",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700447,
-    "wof:lastmodified":1690868045,
+    "wof:lastmodified":1695886075,
     "wof:name":"Caldono",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

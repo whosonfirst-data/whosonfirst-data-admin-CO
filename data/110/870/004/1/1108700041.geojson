@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036313,
-    "geom:area_square_m":445929922.583306,
+    "geom:area_square_m":445929833.133879,
     "geom:bbox":"-74.950573,6.637145,-74.578251,6.799072",
     "geom:latitude":6.716859,
     "geom:longitude":-74.755628,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.AN.YL",
         "wd:id":"Q1576665"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502806,
-    "wof:geomhash":"868d71f8beb5547d44b351e10d64ec29",
+    "wof:geomhash":"6f10e9489ed833fa8ef52bc7adc1d8f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700041,
-    "wof:lastmodified":1690868053,
+    "wof:lastmodified":1695886081,
     "wof:name":"Yal\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

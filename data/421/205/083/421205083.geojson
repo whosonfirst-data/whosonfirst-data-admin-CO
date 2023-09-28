@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008754,
-    "geom:area_square_m":107890227.718808,
+    "geom:area_square_m":107890223.398085,
     "geom:bbox":"-74.300534,4.616755,-74.160487,4.73502",
     "geom:latitude":4.671623,
     "geom:longitude":-74.235119,
@@ -162,12 +162,13 @@
         "wd:id":"Q2432909",
         "wk:page":"Mosquera, Cundinamarca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b646f3886dc361ab5331d03b1dea8096",
+    "wof:geomhash":"dc342e58dd67b1fdd0e0f0360d692f85",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421205083,
-    "wof:lastmodified":1690868164,
+    "wof:lastmodified":1695886222,
     "wof:name":"Mosquera",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

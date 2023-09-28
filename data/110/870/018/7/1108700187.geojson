@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011153,
-    "geom:area_square_m":137218908.22047,
+    "geom:area_square_m":137218974.013623,
     "geom:bbox":"-73.513103,5.66385,-73.344752,5.846606",
     "geom:latitude":5.749008,
     "geom:longitude":-73.439717,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.BY.AR",
         "wd:id":"Q1654728"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502925,
-    "wof:geomhash":"a6b2f59614a86f72c6b66eb7eb96ec23",
+    "wof:geomhash":"0643c2a44eb8cc4870e2686074a7a7e5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700187,
-    "wof:lastmodified":1690868037,
+    "wof:lastmodified":1695886069,
     "wof:name":"Arcabuco",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

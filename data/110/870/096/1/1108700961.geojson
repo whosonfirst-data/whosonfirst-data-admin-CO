@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019023,
-    "geom:area_square_m":234509768.277093,
+    "geom:area_square_m":234509903.23462,
     "geom:bbox":"-73.744572,4.359354,-73.567268,4.560078",
     "geom:latitude":4.471165,
     "geom:longitude":-73.660685,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.ME.SJ",
         "wd:id":"Q2434067"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503646,
-    "wof:geomhash":"cb5874729012bcde025605eb97f21909",
+    "wof:geomhash":"2f372813e30c88eb6db29900cc8e2dc2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700961,
-    "wof:lastmodified":1690867969,
+    "wof:lastmodified":1695886003,
     "wof:name":"San Juanito",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

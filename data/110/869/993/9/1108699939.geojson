@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016593,
-    "geom:area_square_m":203624257.715065,
+    "geom:area_square_m":203624404.43166,
     "geom:bbox":"-75.36327,6.943026,-75.22031,7.204936",
     "geom:latitude":7.038383,
     "geom:longitude":-75.288967,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.AN.CM",
         "wd:id":"Q546011"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502677,
-    "wof:geomhash":"fb3f3fce8f13d42227245e961cde320b",
+    "wof:geomhash":"ad7d55a12f0de611fee9db16eb70764d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108699939,
-    "wof:lastmodified":1690867929,
+    "wof:lastmodified":1695885972,
     "wof:name":"Campamento",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

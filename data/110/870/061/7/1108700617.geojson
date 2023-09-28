@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007001,
-    "geom:area_square_m":86322708.54074,
+    "geom:area_square_m":86322708.540756,
     "geom:bbox":"-74.7350958619,4.32805160999,-74.5921324044,4.41551704079",
     "geom:latitude":4.372551,
     "geom:longitude":-74.670699,
@@ -118,9 +118,10 @@
         "hasc:id":"CO.CU.AD",
         "wd:id":"Q1525734"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503296,
-    "wof:geomhash":"c856d55c64e395031b2f404bc25dc891",
+    "wof:geomhash":"0f2f26e6448dda29aaabb9ab19951aac",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108700617,
-    "wof:lastmodified":1566707573,
+    "wof:lastmodified":1695886084,
     "wof:name":"Agua De Dios",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

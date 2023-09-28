@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017986,
-    "geom:area_square_m":221790357.725312,
+    "geom:area_square_m":221790357.725422,
     "geom:bbox":"-73.9373236219,4.14323195368,-73.7417806714,4.35253757204",
     "geom:latitude":4.23207,
     "geom:longitude":-73.835715,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CU.QT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503352,
-    "wof:geomhash":"b598dbe6f5d5ff71811b6c71ac8f628b",
+    "wof:geomhash":"fa11317e3893d8570bb35f0213148535",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108700659,
-    "wof:lastmodified":1566707481,
+    "wof:lastmodified":1695886002,
     "wof:name":"Guayabetal",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025667,
-    "geom:area_square_m":315604561.203028,
+    "geom:area_square_m":315604509.330628,
     "geom:bbox":"-72.36588,5.966624,-72.026336,6.134339",
     "geom:latitude":6.050301,
     "geom:longitude":-72.211304,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CS.SC",
         "wd:id":"Q1654723"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504169,
-    "wof:geomhash":"077ddcd796a5537908696d5825c40a9a",
+    "wof:geomhash":"86de301f521c6b8eedbbf54fea1c6c3a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701545,
-    "wof:lastmodified":1690868008,
+    "wof:lastmodified":1695886034,
     "wof:name":"S\u00e1cama",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

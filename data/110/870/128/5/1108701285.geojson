@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020722,
-    "geom:area_square_m":254723550.778919,
+    "geom:area_square_m":254723674.554037,
     "geom:bbox":"-73.719351,6.085378,-73.542212,6.384849",
     "geom:latitude":6.222978,
     "geom:longitude":-73.625262,
@@ -404,9 +404,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.RO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503918,
-    "wof:geomhash":"4641e30e816471e13417864408981265",
+    "wof:geomhash":"c24bb0deceead20aa76ec6d2813e87dd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -416,7 +417,7 @@
         }
     ],
     "wof:id":1108701285,
-    "wof:lastmodified":1636506765,
+    "wof:lastmodified":1695886205,
     "wof:name":"La Paz",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

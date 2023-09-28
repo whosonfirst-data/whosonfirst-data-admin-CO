@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004037,
-    "geom:area_square_m":49704786.739674,
+    "geom:area_square_m":49704786.739703,
     "geom:bbox":"-73.47996297,5.29012319919,-73.4167657256,5.41502498769",
     "geom:latitude":5.353835,
     "geom:longitude":-73.448971,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.JN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503007,
-    "wof:geomhash":"c0937cef71ce50ed8bad6e3b3e51ac40",
+    "wof:geomhash":"a681a030a085d55d69c96cbd0edb3fa9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700279,
-    "wof:lastmodified":1566707553,
+    "wof:lastmodified":1695886069,
     "wof:name":"Nuevo Col\u00f3n",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

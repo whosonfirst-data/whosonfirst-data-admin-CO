@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039698,
-    "geom:area_square_m":490785246.613614,
+    "geom:area_square_m":490785005.887407,
     "geom:bbox":"-76.140778,0.876649,-75.80266,1.24816",
     "geom:latitude":1.077028,
     "geom:longitude":-75.96175,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CQ.CU",
         "wd:id":"Q660268"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503132,
-    "wof:geomhash":"c539592efeb81ae9c16f70654dc6f0f3",
+    "wof:geomhash":"2877973b000173298d0b97b72c02c577",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700407,
-    "wof:lastmodified":1690867964,
+    "wof:lastmodified":1695885999,
     "wof:name":"Curillo",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077353,
-    "geom:area_square_m":956080616.246877,
+    "geom:area_square_m":956080536.949224,
     "geom:bbox":"-77.9634,1.44845,-77.438019,1.867556",
     "geom:latitude":1.672993,
     "geom:longitude":-77.710973,
@@ -124,9 +124,10 @@
         "hasc:id":"CO.NA.LO",
         "wd:id":"Q1526257"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503702,
-    "wof:geomhash":"009639dd81942fcebe7384aff55bba7e",
+    "wof:geomhash":"1b2ff06e98646a0e145c4c74c5152248",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108701033,
-    "wof:lastmodified":1690867935,
+    "wof:lastmodified":1695886199,
     "wof:name":"Los Andes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

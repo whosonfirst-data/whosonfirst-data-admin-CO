@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009406,
-    "geom:area_square_m":115894537.383021,
+    "geom:area_square_m":115894496.548769,
     "geom:bbox":"-74.221525,4.749152,-74.081846,4.904701",
     "geom:latitude":4.838183,
     "geom:longitude":-74.146763,
@@ -155,12 +155,13 @@
         "qs_pg:id":1086192,
         "wd:id":"Q1525701"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009524,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31aeaeab9a251b0ae728194815b9b5ab",
+    "wof:geomhash":"e26f86dd7c710a67102bb34d420a08ee",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421187811,
-    "wof:lastmodified":1690868189,
+    "wof:lastmodified":1695886226,
     "wof:name":"Tenjo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

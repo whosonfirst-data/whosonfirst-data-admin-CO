@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002194,
-    "geom:area_square_m":26987319.295303,
+    "geom:area_square_m":26987319.295278,
     "geom:bbox":"-72.9002822727,5.81542787775,-72.8438241585,5.88623157253",
     "geom:latitude":5.846404,
     "geom:longitude":-72.874693,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502939,
-    "wof:geomhash":"27f9d29f82277f94783576fe56b68df5",
+    "wof:geomhash":"a1743bee20d3b8fd1fc3c75a32922dd8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108700201,
-    "wof:lastmodified":1566707552,
+    "wof:lastmodified":1695886068,
     "wof:name":"Busbanz\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00527,
-    "geom:area_square_m":64461070.181425,
+    "geom:area_square_m":64461136.431628,
     "geom:bbox":"-73.415329,8.329249,-73.34623,8.46127",
     "geom:latitude":8.403323,
     "geom:longitude":-73.378494,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CE.GO",
         "wd:id":"Q1577059"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503230,
-    "wof:geomhash":"275e6b0c3cb79c072595fdd0a5957458",
+    "wof:geomhash":"60a60af3edfb43f3e3b8a0a0566b8374",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700543,
-    "wof:lastmodified":1690867971,
+    "wof:lastmodified":1695886006,
     "wof:name":"Gonz\u00e1lez",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

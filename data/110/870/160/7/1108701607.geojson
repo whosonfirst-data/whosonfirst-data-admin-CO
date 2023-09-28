@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.765083,
-    "geom:area_square_m":9444523460.38979,
+    "geom:area_square_m":9444521752.675295,
     "geom:bbox":"-70.053888,2.69797,-68.484422,3.742407",
     "geom:latitude":3.313825,
     "geom:longitude":-69.398894,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"CO.GN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504225,
-    "wof:geomhash":"c3a6f9ce3637331c5d3f21548a2b16a5",
+    "wof:geomhash":"eee88f4c315bbc8e0c2e95c5eb2eb43a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108701607,
-    "wof:lastmodified":1627522014,
+    "wof:lastmodified":1695886507,
     "wof:name":"C.D Barranco Mina",
     "wof:parent_id":85670249,
     "wof:placetype":"county",

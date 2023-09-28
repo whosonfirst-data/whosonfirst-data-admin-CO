@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025765,
-    "geom:area_square_m":317846037.279283,
+    "geom:area_square_m":317846157.958502,
     "geom:bbox":"-76.489879,3.729143,-76.297798,4.067218",
     "geom:latitude":3.905255,
     "geom:longitude":-76.388966,
@@ -152,12 +152,13 @@
         "qs_pg:id":504806,
         "wd:id":"Q543996"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009307,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"60710c6aa97c0b348599d366bead0bf4",
+    "wof:geomhash":"135a61849c43e640776c7d96333fca50",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421181797,
-    "wof:lastmodified":1690868234,
+    "wof:lastmodified":1695886241,
     "wof:name":"Yotoco",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

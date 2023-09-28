@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006364,
-    "geom:area_square_m":77316562.285383,
+    "geom:area_square_m":77316363.704735,
     "geom:bbox":"-74.850901,10.681454,-74.725269,10.77974",
     "geom:latitude":10.741214,
     "geom:longitude":-74.794849,
@@ -144,9 +144,10 @@
         "hasc:id":"CO.AT.ST",
         "wd:id":"Q2434309"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502838,
-    "wof:geomhash":"f2f9efd3c13b8fa2447fb2ab08b96e6d",
+    "wof:geomhash":"c568379c9ee5e4487c28ae33ed175530",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108700083,
-    "wof:lastmodified":1690867986,
+    "wof:lastmodified":1695886017,
     "wof:name":"Santo Tom\u00e1s",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

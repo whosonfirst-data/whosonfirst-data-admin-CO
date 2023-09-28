@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01308,
-    "geom:area_square_m":160414631.470656,
+    "geom:area_square_m":160414494.460288,
     "geom:bbox":"-72.842268,7.248834,-72.698711,7.380724",
     "geom:latitude":7.317086,
     "geom:longitude":-72.768356,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.NS.MU",
         "wd:id":"Q1656003"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503784,
-    "wof:geomhash":"b99623c77c8a32cb72de89f826af70a2",
+    "wof:geomhash":"2a08fb6a62310c3d4bbdb4086b24f503",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701131,
-    "wof:lastmodified":1690868087,
+    "wof:lastmodified":1695886112,
     "wof:name":"Mutiscua",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009681,
-    "geom:area_square_m":119154029.394747,
+    "geom:area_square_m":119153886.776837,
     "geom:bbox":"-73.446582,5.446719,-73.304407,5.584605",
     "geom:latitude":5.517551,
     "geom:longitude":-73.377915,
@@ -281,12 +281,13 @@
         "qs_pg:id":1103681,
         "wd:id":"Q236744"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009571,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"31fd0e4deddd0ab0c59eba3ee4d2302e",
+    "wof:geomhash":"e0deec33a56b1ae3f637766e94a06e74",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":421188623,
-    "wof:lastmodified":1690868217,
+    "wof:lastmodified":1695886235,
     "wof:name":"Tunja",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

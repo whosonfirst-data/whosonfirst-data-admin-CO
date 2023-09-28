@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020314,
-    "geom:area_square_m":249861976.623072,
+    "geom:area_square_m":249861809.168516,
     "geom:bbox":"-75.780055,5.753273,-75.609453,5.999071",
     "geom:latitude":5.886327,
     "geom:longitude":-75.680474,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AN.FD",
         "wd:id":"Q1442002"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502707,
-    "wof:geomhash":"0982f12260d5d49c6b6931f81af270a0",
+    "wof:geomhash":"11abf6095702d2fcf300a2ef323cdb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108699959,
-    "wof:lastmodified":1690867927,
+    "wof:lastmodified":1695885971,
     "wof:name":"Fredonia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

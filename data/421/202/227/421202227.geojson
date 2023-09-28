@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030096,
-    "geom:area_square_m":370132645.747541,
+    "geom:area_square_m":370132613.243982,
     "geom:bbox":"-74.845151,5.858976,-74.561054,6.051873",
     "geom:latitude":5.955124,
     "geom:longitude":-74.686205,
@@ -160,12 +160,13 @@
         "qs_pg:id":220038,
         "wd:id":"Q932785"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010109,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ce51f04ace75985b17e4688473faa07d",
+    "wof:geomhash":"b70c8fd373c92e8c6022f8d0305bded0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421202227,
-    "wof:lastmodified":1690868157,
+    "wof:lastmodified":1695886220,
     "wof:name":"Puerto Triunfo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

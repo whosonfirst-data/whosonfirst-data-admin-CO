@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033909,
-    "geom:area_square_m":417271281.366575,
+    "geom:area_square_m":417271466.291574,
     "geom:bbox":"-72.518463,5.506956,-72.25487,5.800293",
     "geom:latitude":5.633035,
     "geom:longitude":-72.37547,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.BY.PY",
         "wd:id":"Q2022761"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503019,
-    "wof:geomhash":"ff6b33c6c5b20ebc032255c5f9d2a397",
+    "wof:geomhash":"9a889819374c729c062281f0371aa22d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700295,
-    "wof:lastmodified":1690868041,
+    "wof:lastmodified":1695886072,
     "wof:name":"Paya",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

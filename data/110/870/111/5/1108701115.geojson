@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012253,
-    "geom:area_square_m":150072973.693593,
+    "geom:area_square_m":150072798.073152,
     "geom:bbox":"-72.899839,7.827108,-72.747548,8.020408",
     "geom:latitude":7.907024,
     "geom:longitude":-72.80627,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NS.GR",
         "wd:id":"Q1576677"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503767,
-    "wof:geomhash":"95e05a907231b9c695c9d50a806876f5",
+    "wof:geomhash":"f41cb74c43787771b8a98e663b78a1ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701115,
-    "wof:lastmodified":1690867995,
+    "wof:lastmodified":1695886022,
     "wof:name":"Gramalote",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

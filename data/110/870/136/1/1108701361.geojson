@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029853,
-    "geom:area_square_m":366001451.821416,
+    "geom:area_square_m":366001451.821289,
     "geom:bbox":"-73.0963017352,7.29034981154,-72.862935265,7.62357573755",
     "geom:latitude":7.475394,
     "geom:longitude":-72.987649,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503970,
-    "wof:geomhash":"790d689f72f66ebf61ba95d183ee89d2",
+    "wof:geomhash":"1dc850273f4b0fc0a1af1e199b561674",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108701361,
-    "wof:lastmodified":1566707523,
+    "wof:lastmodified":1695886041,
     "wof:name":"Surat\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

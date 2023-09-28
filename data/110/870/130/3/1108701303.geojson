@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006098,
-    "geom:area_square_m":74940335.652177,
+    "geom:area_square_m":74940294.092146,
     "geom:bbox":"-73.164897,6.287542,-73.071463,6.404491",
     "geom:latitude":6.355795,
     "geom:longitude":-73.122478,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.ST.OC",
         "wd:id":"Q1655496"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503931,
-    "wof:geomhash":"3711512e758a325c57efbf31d3b07948",
+    "wof:geomhash":"8df7c9cc00792713fa9d57081efff711",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701303,
-    "wof:lastmodified":1690868027,
+    "wof:lastmodified":1695886059,
     "wof:name":"Ocamonte",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

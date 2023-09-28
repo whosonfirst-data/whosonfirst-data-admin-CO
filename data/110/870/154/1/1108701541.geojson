@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015211,
-    "geom:area_square_m":187295571.88586,
+    "geom:area_square_m":187295568.518346,
     "geom:bbox":"-72.839225,5.172345,-72.697801,5.395681",
     "geom:latitude":5.266432,
     "geom:longitude":-72.771488,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CS.RE",
         "wd:id":"Q954584"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504166,
-    "wof:geomhash":"c4da2da943b7028b9b7236f58785121f",
+    "wof:geomhash":"6b94fe1661830bd1531abcb9113b48fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701541,
-    "wof:lastmodified":1690868007,
+    "wof:lastmodified":1695886033,
     "wof:name":"Recetor",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

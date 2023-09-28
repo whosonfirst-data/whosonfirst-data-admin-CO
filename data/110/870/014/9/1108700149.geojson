@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017353,
-    "geom:area_square_m":211071583.605316,
+    "geom:area_square_m":211071456.096879,
     "geom:bbox":"-75.290391,10.279592,-75.128552,10.4553",
     "geom:latitude":10.364873,
     "geom:longitude":-75.204681,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.BL.SE",
         "wd:id":"Q1525416"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502895,
-    "wof:geomhash":"ffff6c2cec47f363b8f3176d66ca4095",
+    "wof:geomhash":"a7f60011a20a0f118daf6944fe3a054c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700149,
-    "wof:lastmodified":1690867956,
+    "wof:lastmodified":1695885994,
     "wof:name":"San Estanislao",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017331,
-    "geom:area_square_m":211451930.790067,
+    "geom:area_square_m":211451986.841422,
     "geom:bbox":"-75.875012,9.279475,-75.686087,9.432539",
     "geom:latitude":9.362262,
     "geom:longitude":-75.783643,
@@ -155,12 +155,13 @@
         "qs_pg:id":224060,
         "wd:id":"Q1442369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010120,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6994b8416cd40fc089f743ebe18b2b93",
+    "wof:geomhash":"b1c505a68ff968fea0cc0fc9cafeb134",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421202521,
-    "wof:lastmodified":1690868159,
+    "wof:lastmodified":1695886221,
     "wof:name":"San Antero",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

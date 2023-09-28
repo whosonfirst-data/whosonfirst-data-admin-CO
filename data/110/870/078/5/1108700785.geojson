@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056251,
-    "geom:area_square_m":692269156.747729,
+    "geom:area_square_m":692268984.100597,
     "geom:bbox":"-76.96723,5.413515,-76.664121,5.689364",
     "geom:latitude":5.566589,
     "geom:longitude":-76.810475,
@@ -239,9 +239,10 @@
         "hasc:id":"CO.CH.QU",
         "wd:id":"Q816420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503477,
-    "wof:geomhash":"8e86a5ab199aed8f4a79a7603d9c5229",
+    "wof:geomhash":"bbae9a26f86b67e9f8144735e4bf25ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -251,7 +252,7 @@
         }
     ],
     "wof:id":1108700785,
-    "wof:lastmodified":1690867966,
+    "wof:lastmodified":1695886001,
     "wof:name":"R\u00edo Quito",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

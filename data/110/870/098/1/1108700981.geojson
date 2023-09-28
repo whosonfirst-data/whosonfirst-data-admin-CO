@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00494,
-    "geom:area_square_m":61056004.300819,
+    "geom:area_square_m":61056000.079231,
     "geom:bbox":"-77.103047,1.589901,-76.98497,1.672217",
     "geom:latitude":1.636706,
     "geom:longitude":-77.047462,
@@ -130,9 +130,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503663,
-    "wof:geomhash":"dde8094943f9b9fb60c1d1c7cb03ed62",
+    "wof:geomhash":"98c50faaac9b7b83ba688b0ac2f3dba7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108700981,
-    "wof:lastmodified":1627522016,
+    "wof:lastmodified":1695886511,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

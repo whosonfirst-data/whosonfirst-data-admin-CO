@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0359,
-    "geom:area_square_m":441500397.104034,
+    "geom:area_square_m":441500397.104043,
     "geom:bbox":"-75.3888349302,5.81104953743,-75.1174396075,6.15318818727",
     "geom:latitude":5.973006,
     "geom:longitude":-75.255128,
@@ -136,12 +136,13 @@
         "qs_pg:id":224043,
         "wd:id":"Q1256664"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008841,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b3b8615a482a0175c3cc3dea456bd7ea",
+    "wof:geomhash":"03a00ca51522c9e626041448c7c34539",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421170173,
-    "wof:lastmodified":1582393680,
+    "wof:lastmodified":1695886255,
     "wof:name":"Carmen De Viboral",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

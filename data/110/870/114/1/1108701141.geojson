@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032781,
-    "geom:area_square_m":400934601.328974,
+    "geom:area_square_m":400934282.558168,
     "geom:bbox":"-73.301155,8.321077,-72.964114,8.572238",
     "geom:latitude":8.454866,
     "geom:longitude":-73.158162,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NS.SX",
         "wd:id":"Q2348501"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503792,
-    "wof:geomhash":"c791f74e932f105f2d5baefe5fe1a642",
+    "wof:geomhash":"188c63bcbc962473b5403e77d88c33c0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701141,
-    "wof:lastmodified":1690868086,
+    "wof:lastmodified":1695886111,
     "wof:name":"San Calixto",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

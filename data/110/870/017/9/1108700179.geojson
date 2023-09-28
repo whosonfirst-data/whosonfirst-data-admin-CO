@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011631,
-    "geom:area_square_m":141438938.139512,
+    "geom:area_square_m":141438823.737156,
     "geom:bbox":"-75.334695,10.358154,-75.164572,10.52642",
     "geom:latitude":10.445261,
     "geom:longitude":-75.263234,
@@ -158,9 +158,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.VN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502919,
-    "wof:geomhash":"0b0189929f606035e98002f0f2361b66",
+    "wof:geomhash":"dd92f27119d5da6aa808b05b1b9a269d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1108700179,
-    "wof:lastmodified":1636506770,
+    "wof:lastmodified":1695886213,
     "wof:name":"Villanueva",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

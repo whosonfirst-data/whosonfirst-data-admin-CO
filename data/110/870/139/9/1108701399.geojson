@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017095,
-    "geom:area_square_m":208529390.433472,
+    "geom:area_square_m":208529347.419008,
     "geom:bbox":"-75.302743,9.335714,-75.100898,9.501175",
     "geom:latitude":9.427079,
     "geom:longitude":-75.214851,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.SU.LP",
         "wd:id":"Q595791"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503998,
-    "wof:geomhash":"5f5d55008d52a9394d491e6d46e8346f",
+    "wof:geomhash":"5ffac85906e3340f67b1443241e427cb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701399,
-    "wof:lastmodified":1690868022,
+    "wof:lastmodified":1695886056,
     "wof:name":"Los Palmitos",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

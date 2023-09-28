@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029505,
-    "geom:area_square_m":362625324.672409,
+    "geom:area_square_m":362625561.403894,
     "geom:bbox":"-75.14585,6.209465,-74.827877,6.40557",
     "geom:latitude":6.310337,
     "geom:longitude":-74.99768,
@@ -201,12 +201,13 @@
         "wd:id":"Q1526004",
         "wk:page":"San Rafael, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008859,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1b1e193c00e07234a9771ada28be9b0",
+    "wof:geomhash":"dd66470fafd80b8d49146cf609bb67a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":421170575,
-    "wof:lastmodified":1690868311,
+    "wof:lastmodified":1695886230,
     "wof:name":"San Rafael",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

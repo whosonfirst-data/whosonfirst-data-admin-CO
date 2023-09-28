@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052794,
-    "geom:area_square_m":642954044.674634,
+    "geom:area_square_m":642953883.154767,
     "geom:bbox":"-75.254947,9.85563,-74.861093,10.124517",
     "geom:latitude":9.968056,
     "geom:longitude":-75.065058,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.BL.SN",
         "wd:id":"Q1822959"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502901,
-    "wof:geomhash":"b987d27186478d5fc62f436101c96328",
+    "wof:geomhash":"df741dc0e3843c4a731f27fb14b3b064",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700155,
-    "wof:lastmodified":1690867947,
+    "wof:lastmodified":1695885988,
     "wof:name":"San Juan Nepomuceno",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

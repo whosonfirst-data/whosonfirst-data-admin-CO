@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023693,
-    "geom:area_square_m":291780499.06029,
+    "geom:area_square_m":291780556.658247,
     "geom:bbox":"-76.681713,5.09299,-76.332056,5.24159",
     "geom:latitude":5.16438,
     "geom:longitude":-76.490182,
@@ -121,9 +121,10 @@
         "hasc:id":"CO.CH.CO",
         "wd:id":"Q1525250"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503475,
-    "wof:geomhash":"063e2356a2d99ce55ef291c6d80e3bbb",
+    "wof:geomhash":"ca18a66c0e1b0b5c12851db83e8ef056",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108700783,
-    "wof:lastmodified":1690867966,
+    "wof:lastmodified":1695886000,
     "wof:name":"R\u00edo Ir\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

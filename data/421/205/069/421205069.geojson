@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030079,
-    "geom:area_square_m":369713413.046948,
+    "geom:area_square_m":369713413.046782,
     "geom:bbox":"-75.718592,6.167111,-75.477605,6.373249",
     "geom:latitude":6.258455,
     "geom:longitude":-75.611146,
@@ -515,6 +515,7 @@
         "qs_pg:id":1194268,
         "wd:id":"Q48278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         890442155
     ],
@@ -523,7 +524,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b3fa750aefe26ce8d180ed994f24733",
+    "wof:geomhash":"1ee50e6a5633f84f7b3fac731030f83d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -533,7 +534,7 @@
         }
     ],
     "wof:id":421205069,
-    "wof:lastmodified":1690868169,
+    "wof:lastmodified":1695886458,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

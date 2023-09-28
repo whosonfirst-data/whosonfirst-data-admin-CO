@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050695,
-    "geom:area_square_m":616466480.978713,
+    "geom:area_square_m":616466174.689282,
     "geom:bbox":"-75.703074,10.08702,-75.287205,10.704819",
     "geom:latitude":10.443146,
     "geom:longitude":-75.464309,
@@ -318,9 +318,10 @@
         "hasc:id":"CO.BL",
         "wd:id":"Q657461"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502849,
-    "wof:geomhash":"06a8c012398d3a73aca731a01cd19136",
+    "wof:geomhash":"6daf3f539e3549dde7aeb7ced5b80e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -330,7 +331,7 @@
         }
     ],
     "wof:id":1108700093,
-    "wof:lastmodified":1690867976,
+    "wof:lastmodified":1695886008,
     "wof:name":"Cartagena De Indias",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

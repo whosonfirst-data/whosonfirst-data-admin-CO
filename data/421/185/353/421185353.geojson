@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003774,
-    "geom:area_square_m":46461776.436143,
+    "geom:area_square_m":46461630.849593,
     "geom:bbox":"-73.437721,5.404659,-73.33131,5.480989",
     "geom:latitude":5.440518,
     "geom:longitude":-73.380672,
@@ -163,12 +163,13 @@
         "qs_pg:id":892965,
         "wd:id":"Q1654749"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009440,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6b15a98a64e5207620b77de952b15fca",
+    "wof:geomhash":"be20a8a9dfb8f3217f3fbd4d59149af3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421185353,
-    "wof:lastmodified":1690868378,
+    "wof:lastmodified":1695886269,
     "wof:name":"Boyac\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

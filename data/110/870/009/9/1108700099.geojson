@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037686,
-    "geom:area_square_m":461059760.93831,
+    "geom:area_square_m":461059854.766399,
     "geom:bbox":"-74.333979,8.155786,-73.872932,8.487224",
     "geom:latitude":8.34088,
     "geom:longitude":-74.107112,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.BL.MS",
         "wd:id":"Q2432408"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502853,
-    "wof:geomhash":"c7c313149e75b044d01b2042e7e75e70",
+    "wof:geomhash":"cf494e053cc4ab4199b6670fada4c388",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700099,
-    "wof:lastmodified":1690867976,
+    "wof:lastmodified":1695886009,
     "wof:name":"Arenal",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

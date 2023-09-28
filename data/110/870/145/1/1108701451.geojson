@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005611,
-    "geom:area_square_m":69111126.006766,
+    "geom:area_square_m":69111126.006781,
     "geom:bbox":"-75.0637805719,5.04119451355,-74.9817271055,5.14619724366",
     "geom:latitude":5.091311,
     "geom:longitude":-75.019013,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CO.TO.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504061,
-    "wof:geomhash":"57ec0282fdfdb26caf765af63a40ade8",
+    "wof:geomhash":"d204c665a4426d447322f6354a33028a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108701451,
-    "wof:lastmodified":1566707500,
+    "wof:lastmodified":1695886019,
     "wof:name":"Palocabildo",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

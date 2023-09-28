@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048545,
-    "geom:area_square_m":591959146.876544,
+    "geom:area_square_m":591958875.49228,
     "geom:bbox":"-75.036054,9.387025,-74.772161,9.684015",
     "geom:latitude":9.541608,
     "geom:longitude":-74.896323,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.BL.CO",
         "wd:id":"Q1150886"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502863,
-    "wof:geomhash":"d0ea4bf1b9e55033608d7b844fba7c95",
+    "wof:geomhash":"2d8653752ecf64b483a9905716561df5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700113,
-    "wof:lastmodified":1690868038,
+    "wof:lastmodified":1695886070,
     "wof:name":"C\u00f3rdoba",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

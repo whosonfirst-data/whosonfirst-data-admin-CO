@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016432,
-    "geom:area_square_m":202648244.972604,
+    "geom:area_square_m":202648363.052488,
     "geom:bbox":"-74.752141,4.095693,-74.555366,4.272175",
     "geom:latitude":4.186763,
     "geom:longitude":-74.637758,
@@ -164,12 +164,13 @@
         "qs_pg:id":902683,
         "wd:id":"Q1257259"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009818,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dee17859c90461aee0c426ec65ee054",
+    "wof:geomhash":"e25af575a457205431a1a47789fbfd1b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421194737,
-    "wof:lastmodified":1690868106,
+    "wof:lastmodified":1695886206,
     "wof:name":"Melgar",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

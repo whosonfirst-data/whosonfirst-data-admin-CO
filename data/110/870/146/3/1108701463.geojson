@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060025,
-    "geom:area_square_m":740216591.606765,
+    "geom:area_square_m":740216762.44376,
     "geom:bbox":"-75.566766,4.039045,-75.140942,4.346587",
     "geom:latitude":4.215013,
     "geom:longitude":-75.34867,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.TO.RR",
         "wd:id":"Q1441209"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504071,
-    "wof:geomhash":"d3ee4f9d178cb8670f6cad089e25e5c2",
+    "wof:geomhash":"b08f669c13d077181022b5fe3f57f980",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701463,
-    "wof:lastmodified":1690868083,
+    "wof:lastmodified":1695886109,
     "wof:name":"Rovira",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

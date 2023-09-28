@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026051,
-    "geom:area_square_m":319595525.524427,
+    "geom:area_square_m":319595599.485794,
     "geom:bbox":"-72.876624,7.048519,-72.692606,7.303929",
     "geom:latitude":7.1806,
     "geom:longitude":-72.786491,
@@ -116,9 +116,10 @@
         "hasc:id":"CO.NS.SI",
         "wd:id":"Q1655140"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503798,
-    "wof:geomhash":"da87d1e98d309f34754b656661eeda86",
+    "wof:geomhash":"09dd8214d05d559b5c0d1b35f2a35752",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108701149,
-    "wof:lastmodified":1690868086,
+    "wof:lastmodified":1695886110,
     "wof:name":"Silos",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

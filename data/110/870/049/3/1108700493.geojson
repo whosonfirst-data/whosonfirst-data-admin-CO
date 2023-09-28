@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008797,
-    "geom:area_square_m":108594426.652162,
+    "geom:area_square_m":108594354.457319,
     "geom:bbox":"-76.49202,3.199225,-76.351814,3.328941",
     "geom:latitude":3.266558,
     "geom:longitude":-76.418824,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.CA.PT",
         "wd:id":"Q1256377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503191,
-    "wof:geomhash":"f20c50719acfefe6d32a1d9a11026342",
+    "wof:geomhash":"b048f2fa4cff1799da3c11c4aed8d91c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700493,
-    "wof:lastmodified":1690867961,
+    "wof:lastmodified":1695885997,
     "wof:name":"Puerto Tejada",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

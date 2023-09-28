@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087376,
-    "geom:area_square_m":1080225817.394712,
+    "geom:area_square_m":1080225847.078223,
     "geom:bbox":"-77.364483,0.81911,-77.026596,1.326439",
     "geom:latitude":1.078142,
     "geom:longitude":-77.203102,
@@ -304,12 +304,13 @@
         "wd:id":"Q320015",
         "wk:page":"Pasto, Colombia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009229,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab435ef9761ca9889d87f2c8f331798d",
+    "wof:geomhash":"ba61fb4e40e5eeccd1ad9d842b930863",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -319,7 +320,7 @@
         }
     ],
     "wof:id":421179665,
-    "wof:lastmodified":1690868344,
+    "wof:lastmodified":1695886265,
     "wof:name":"Pasto",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

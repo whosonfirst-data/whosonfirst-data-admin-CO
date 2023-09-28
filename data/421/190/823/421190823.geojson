@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009907,
-    "geom:area_square_m":122071191.161712,
+    "geom:area_square_m":122071375.566687,
     "geom:bbox":"-74.327502,4.682495,-74.174802,4.865521",
     "geom:latitude":4.772408,
     "geom:longitude":-74.259578,
@@ -168,12 +168,13 @@
         "wd:id":"Q2316396",
         "wk:page":"Madrid, Cundinamarca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009670,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65458a1c0d24269f3374f09b661965a4",
+    "wof:geomhash":"4ab01017184fd1bf060ac7fe86e2924c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421190823,
-    "wof:lastmodified":1690868264,
+    "wof:lastmodified":1695886227,
     "wof:name":"Madrid",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

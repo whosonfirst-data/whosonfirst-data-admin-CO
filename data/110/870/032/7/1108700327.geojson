@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010378,
-    "geom:area_square_m":127648646.397359,
+    "geom:area_square_m":127648664.523344,
     "geom:bbox":"-73.049299,5.785681,-72.926941,6.02145",
     "geom:latitude":5.892897,
     "geom:longitude":-72.993912,
@@ -109,9 +109,10 @@
         "hasc:id":"CO.BY.RV",
         "wd:id":"Q1526329"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503048,
-    "wof:geomhash":"e301560373b87840803288f2a0460d34",
+    "wof:geomhash":"93de5e0bfe68ce5e3ce866d16b178e76",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108700327,
-    "wof:lastmodified":1690868054,
+    "wof:lastmodified":1695886082,
     "wof:name":"Santa Rosa De Viterbo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

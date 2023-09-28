@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020346,
-    "geom:area_square_m":247262637.256912,
+    "geom:area_square_m":247262633.783816,
     "geom:bbox":"-73.004763,10.535561,-72.775604,10.718648",
     "geom:latitude":10.635086,
     "geom:longitude":-72.882911,
@@ -127,9 +127,10 @@
         "hasc:id":"CO.LG.SJ",
         "wd:id":"Q1256394"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503550,
-    "wof:geomhash":"e8f0411b11e34c876f88b10b8feebea2",
+    "wof:geomhash":"ac6aa8dd3f06b74043c85d56c6e2b441",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108700859,
-    "wof:lastmodified":1690867959,
+    "wof:lastmodified":1695885996,
     "wof:name":"El Molino",
     "wof:parent_id":85670147,
     "wof:placetype":"county",
