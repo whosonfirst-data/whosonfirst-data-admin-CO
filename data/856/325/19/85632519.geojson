@@ -1323,6 +1323,7 @@
         "hasc:id":"CO",
         "icao:code":"HK",
         "ioc:id":"COL",
+        "iso:code":"CO",
         "itu:id":"CLM",
         "m49:code":"170",
         "marc:id":"ck",
@@ -1336,6 +1337,7 @@
         "wk:page":"Colombia",
         "wmo:id":"CO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:country_alpha3":"COL",
     "wof:geom_alt":[
@@ -1359,7 +1361,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639654,
+    "wof:lastmodified":1695881315,
     "wof:name":"Colombia",
     "wof:parent_id":102191577,
     "wof:placetype":"country",
