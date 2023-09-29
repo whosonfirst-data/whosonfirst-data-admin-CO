@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021821,
-    "geom:area_square_m":268906403.797945,
+    "geom:area_square_m":268906245.502576,
     "geom:bbox":"-75.388459,4.651793,-75.014074,4.811398",
     "geom:latitude":4.72705,
     "geom:longitude":-75.207522,
@@ -165,12 +165,13 @@
         "wd:id":"Q1574921",
         "wk:page":"Santa Isabel, Tolima"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ba11ada50a1bec2ab4b861933fa0de7e",
+    "wof:geomhash":"68218f8c16fdb34371ba2cb764f55f88",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421192875,
-    "wof:lastmodified":1690868101,
+    "wof:lastmodified":1695886219,
     "wof:name":"Santa Isabel",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

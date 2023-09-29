@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183802,
-    "geom:area_square_m":2269294004.609139,
+    "geom:area_square_m":2269293860.30176,
     "geom:bbox":"-74.299503,2.57015,-73.952334,3.634743",
     "geom:latitude":3.150102,
     "geom:longitude":-74.122878,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ME.ME",
         "wd:id":"Q1574693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503626,
-    "wof:geomhash":"500635b68788ba461f437090a6c0fb92",
+    "wof:geomhash":"146eb875f50c99fbf448e4c7aaca2e17",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700943,
-    "wof:lastmodified":1690868075,
+    "wof:lastmodified":1695886101,
     "wof:name":"Mesetas",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

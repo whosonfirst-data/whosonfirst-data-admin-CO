@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056289,
-    "geom:area_square_m":695934929.029964,
+    "geom:area_square_m":695934929.029912,
     "geom:bbox":"-75.8698775356,0.767892718704,-75.4533027849,1.06703938686",
     "geom:latitude":0.932769,
     "geom:longitude":-75.666056,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CQ.VP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503147,
-    "wof:geomhash":"a50ca33796d8ae75d0298bb90bae3164",
+    "wof:geomhash":"99c38c8f05425fb984bd5024c78ea85e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108700427,
-    "wof:lastmodified":1566707545,
+    "wof:lastmodified":1695886063,
     "wof:name":"Solita",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

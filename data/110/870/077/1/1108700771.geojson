@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068038,
-    "geom:area_square_m":837313503.774769,
+    "geom:area_square_m":837313433.851583,
     "geom:bbox":"-76.590399,5.427509,-76.139363,5.741579",
     "geom:latitude":5.585601,
     "geom:longitude":-76.383353,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.CH.LL",
         "wd:id":"Q1575268"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503466,
-    "wof:geomhash":"24a4be1adc84d8ec30d5445ea1d5b469",
+    "wof:geomhash":"2c153431f999f7ccae01179ac2e38465",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700771,
-    "wof:lastmodified":1690867952,
+    "wof:lastmodified":1695885991,
     "wof:name":"Llor\u00f3",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

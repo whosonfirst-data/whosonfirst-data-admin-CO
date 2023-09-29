@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00811,
-    "geom:area_square_m":99845608.858575,
+    "geom:area_square_m":99845435.628205,
     "geom:bbox":"-73.88891,5.258101,-73.763692,5.368315",
     "geom:latitude":5.313712,
     "geom:longitude":-73.821501,
@@ -165,12 +165,13 @@
         "qs_pg:id":355540,
         "wd:id":"Q2219816"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009757,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c1e9f70fc86d783d1f9ddbc7f772aab",
+    "wof:geomhash":"702b7821c611575a06eebf8aa1e54eae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421193017,
-    "wof:lastmodified":1690868119,
+    "wof:lastmodified":1695886207,
     "wof:name":"Ubat\u00e9",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

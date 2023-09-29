@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008561,
-    "geom:area_square_m":103960347.229765,
+    "geom:area_square_m":103960293.135308,
     "geom:bbox":"-74.881883,10.812179,-74.722295,10.892341",
     "geom:latitude":10.849515,
     "geom:longitude":-74.804645,
@@ -144,9 +144,10 @@
         "hasc:id":"CO.AT.ML",
         "wd:id":"Q568597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502823,
-    "wof:geomhash":"6fdeefcaf04e8142e7ee27d57ab441ef",
+    "wof:geomhash":"2f823faf79f928464f6de92451e77ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":1108700061,
-    "wof:lastmodified":1690867990,
+    "wof:lastmodified":1695886018,
     "wof:name":"Malambo",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

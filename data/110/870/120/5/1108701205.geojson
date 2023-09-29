@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006524,
-    "geom:area_square_m":80149197.270987,
+    "geom:area_square_m":80149114.271286,
     "geom:bbox":"-72.742357,6.436216,-72.62738,6.593925",
     "geom:latitude":6.520213,
     "geom:longitude":-72.675929,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503865,
-    "wof:geomhash":"5baceb68d1b3cfe4b797f45921633d27",
+    "wof:geomhash":"c7cb0a8b31306b24b72a8cdc4293f3c4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108701205,
-    "wof:lastmodified":1627522015,
+    "wof:lastmodified":1695886510,
     "wof:name":"Capitanejo",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

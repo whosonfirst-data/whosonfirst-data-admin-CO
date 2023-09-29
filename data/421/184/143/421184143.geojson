@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016264,
-    "geom:area_square_m":200628326.11175,
+    "geom:area_square_m":200628229.429657,
     "geom:bbox":"-76.312021,3.904056,-76.093647,4.055823",
     "geom:latitude":3.981846,
     "geom:longitude":-76.205921,
@@ -213,12 +213,13 @@
         "wd:id":"Q2434300",
         "wk:page":"San Pedro, Valle del Cauca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009401,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de496eaa80dbf9cffb4d1d782ab4c4a0",
+    "wof:geomhash":"9fd583466ecf88df490b259f56c338a9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -228,7 +229,7 @@
         }
     ],
     "wof:id":421184143,
-    "wof:lastmodified":1690868298,
+    "wof:lastmodified":1695886229,
     "wof:name":"San Pedro",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

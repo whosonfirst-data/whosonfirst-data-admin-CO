@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114196,
-    "geom:area_square_m":1400288326.312194,
+    "geom:area_square_m":1400288272.878104,
     "geom:bbox":"-73.776748,7.159818,-73.355565,7.696568",
     "geom:latitude":7.400572,
     "geom:longitude":-73.566959,
@@ -118,9 +118,10 @@
         "hasc:id":"CO.ST.ST",
         "wd:id":"Q1525377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503949,
-    "wof:geomhash":"2ee902e23aead625dc304bbcc6a2afa6",
+    "wof:geomhash":"485224cf220f4aa314e622f1bebf451f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":1108701329,
-    "wof:lastmodified":1690867932,
+    "wof:lastmodified":1695885975,
     "wof:name":"Sabana De Torres",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

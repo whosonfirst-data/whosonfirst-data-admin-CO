@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09328,
-    "geom:area_square_m":1141884828.044545,
+    "geom:area_square_m":1141884673.478959,
     "geom:bbox":"-72.606834,7.725995,-72.346272,8.431491",
     "geom:latitude":8.11241,
     "geom:longitude":-72.488842,
@@ -286,9 +286,10 @@
         "hasc:id":"CO.NS.CC",
         "wd:id":"Q216847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503745,
-    "wof:geomhash":"7e5fd8ee30bb91a46096f4cf9c07967c",
+    "wof:geomhash":"daaa19c1b7ce6c8788a0096d8ccb1fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -298,7 +299,7 @@
         }
     ],
     "wof:id":1108701087,
-    "wof:lastmodified":1690868025,
+    "wof:lastmodified":1695886057,
     "wof:name":"C\u00facuta",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

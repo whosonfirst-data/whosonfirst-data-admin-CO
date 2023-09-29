@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023226,
-    "geom:area_square_m":285560562.120834,
+    "geom:area_square_m":285560508.079181,
     "geom:bbox":"-73.497786,6.047569,-73.226829,6.20443",
     "geom:latitude":6.114974,
     "geom:longitude":-73.365924,
@@ -90,9 +90,10 @@
         "hasc:id":"CO.ST.SU",
         "wd:id":"Q2434325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503967,
-    "wof:geomhash":"f26f5370789cd8fe14981761c43cc0ea",
+    "wof:geomhash":"f541b304391e33e5b82e9be1348c0a42",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108701357,
-    "wof:lastmodified":1690867931,
+    "wof:lastmodified":1695885974,
     "wof:name":"Suaita",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

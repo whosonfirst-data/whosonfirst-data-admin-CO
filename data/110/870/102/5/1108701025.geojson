@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011522,
-    "geom:area_square_m":142409255.855231,
+    "geom:area_square_m":142409255.855397,
     "geom:bbox":"-77.2365010412,1.53071363418,-77.0616725476,1.68511882152",
     "geom:latitude":1.619612,
     "geom:longitude":-77.142976,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503697,
-    "wof:geomhash":"c71bdb878dcf1c37c91f6671f207ce9c",
+    "wof:geomhash":"4ff2dc324bff16855ee2ab4ecafaf33c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108701025,
-    "wof:lastmodified":1566707452,
+    "wof:lastmodified":1695885980,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

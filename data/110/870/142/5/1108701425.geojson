@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041172,
-    "geom:area_square_m":508204093.575145,
+    "geom:area_square_m":508204061.029834,
     "geom:bbox":"-75.074146,3.276802,-74.809146,3.511118",
     "geom:latitude":3.389685,
     "geom:longitude":-74.9431,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.TO.AJ",
         "wd:id":"Q748817"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504019,
-    "wof:geomhash":"2678bfd723e89a91b253efe9065f7e7d",
+    "wof:geomhash":"a11c8f4ffdff7a6e11f06d516ab4cb10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701425,
-    "wof:lastmodified":1690867992,
+    "wof:lastmodified":1695886020,
     "wof:name":"Alpujarra",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

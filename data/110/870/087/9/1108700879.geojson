@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044482,
-    "geom:area_square_m":541500472.282433,
+    "geom:area_square_m":541500236.075393,
     "geom:bbox":"-74.672691,9.943283,-74.387913,10.234389",
     "geom:latitude":10.099214,
     "geom:longitude":-74.525631,
@@ -150,9 +150,10 @@
         "hasc:id":"CO.MA.CH",
         "wd:id":"Q1525439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503570,
-    "wof:geomhash":"9b8ad0c1e623d786775215f76b397c8a",
+    "wof:geomhash":"445a3cda27a3fba7e719ce0e01fa064b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108700879,
-    "wof:lastmodified":1690868031,
+    "wof:lastmodified":1695886064,
     "wof:name":"Chivolo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

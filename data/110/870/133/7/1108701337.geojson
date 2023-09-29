@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012012,
-    "geom:area_square_m":147564451.293208,
+    "geom:area_square_m":147564521.207628,
     "geom:bbox":"-73.211247,6.479681,-73.028605,6.65028",
     "geom:latitude":6.550896,
     "geom:longitude":-73.118197,
@@ -147,9 +147,10 @@
         "hasc:id":"CO.ST.SG",
         "wd:id":"Q1294128"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503953,
-    "wof:geomhash":"e5c314f7c1e9220872aa59dd259fbad0",
+    "wof:geomhash":"a7022aba84da0736244357cc2fe9299b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108701337,
-    "wof:lastmodified":1690867940,
+    "wof:lastmodified":1695885981,
     "wof:name":"San Gil",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

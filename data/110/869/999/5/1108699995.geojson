@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021504,
-    "geom:area_square_m":263970663.812941,
+    "geom:area_square_m":263970645.98026,
     "geom:bbox":"-75.870078,6.780304,-75.73629,7.061805",
     "geom:latitude":6.901234,
     "geom:longitude":-75.791827,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502754,
-    "wof:geomhash":"c755ad5a2c93d3f837760d1e3c463618",
+    "wof:geomhash":"6d014f14c3f2f50a0967d733e79b5509",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108699995,
-    "wof:lastmodified":1636506759,
+    "wof:lastmodified":1695886198,
     "wof:name":"Sabanalarga",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

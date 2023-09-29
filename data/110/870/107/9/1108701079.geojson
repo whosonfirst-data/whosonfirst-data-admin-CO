@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009241,
-    "geom:area_square_m":114243702.287846,
+    "geom:area_square_m":114243633.933964,
     "geom:bbox":"-77.763526,0.985667,-77.58024,1.097283",
     "geom:latitude":1.036041,
     "geom:longitude":-77.680225,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NA.SY",
         "wd:id":"Q1577815"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503736,
-    "wof:geomhash":"49a8babbc7f5e512e389e96a59754397",
+    "wof:geomhash":"2645856a5bc25ad47c12ed60c731eef2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701079,
-    "wof:lastmodified":1690868013,
+    "wof:lastmodified":1695886043,
     "wof:name":"Sapuyes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

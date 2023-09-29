@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004629,
-    "geom:area_square_m":57213989.176645,
+    "geom:area_square_m":57213989.176659,
     "geom:bbox":"-77.1445812095,1.65480718966,-77.0295026225,1.73985150949",
     "geom:latitude":1.694374,
     "geom:longitude":-77.087601,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503166,
-    "wof:geomhash":"f7173b7885fb2a021ddf5e3a0d30a8d2",
+    "wof:geomhash":"84e277e66b0ae98ed389cd1da569e280",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108700457,
-    "wof:lastmodified":1566707547,
+    "wof:lastmodified":1695886064,
     "wof:name":"Florencia",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

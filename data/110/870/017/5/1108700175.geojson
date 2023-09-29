@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061512,
-    "geom:area_square_m":752270453.062395,
+    "geom:area_square_m":752270453.062382,
     "geom:bbox":"-74.4466380696,8.30077722054,-74.1331822792,8.66321161247",
     "geom:latitude":8.492804,
     "geom:longitude":-74.295446,
@@ -97,9 +97,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502915,
-    "wof:geomhash":"639b8940735afda485dd614d7573e77c",
+    "wof:geomhash":"fdda4f87bafc07591394ebb738c8265a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108700175,
-    "wof:lastmodified":1566707564,
+    "wof:lastmodified":1695886077,
     "wof:name":"Tiquisio",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

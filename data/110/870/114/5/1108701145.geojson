@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015451,
-    "geom:area_square_m":189243107.373252,
+    "geom:area_square_m":189243026.03677,
     "geom:bbox":"-72.774611,7.795775,-72.656097,7.982746",
     "geom:latitude":7.89494,
     "geom:longitude":-72.715064,
@@ -177,9 +177,10 @@
         "hasc:id":"CO.NS.SG",
         "wd:id":"Q2078735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503795,
-    "wof:geomhash":"3db525200e0bd70c9b70078020e69907",
+    "wof:geomhash":"44d4db9ece92220bab04860d4ad9e15d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -189,7 +190,7 @@
         }
     ],
     "wof:id":1108701145,
-    "wof:lastmodified":1690868087,
+    "wof:lastmodified":1695886217,
     "wof:name":"Santiago",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

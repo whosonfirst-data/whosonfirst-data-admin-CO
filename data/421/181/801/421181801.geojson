@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063637,
-    "geom:area_square_m":784078066.619357,
+    "geom:area_square_m":784078103.588737,
     "geom:bbox":"-72.986763,4.639425,-72.682374,5.068124",
     "geom:latitude":4.840747,
     "geom:longitude":-72.845814,
@@ -135,12 +135,13 @@
         "wd:id":"Q1525276",
         "wk:page":"Monterrey, Casanare"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009307,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"185e2658c85c39d4c20c8c843211c6d1",
+    "wof:geomhash":"0b98fde860f3f855a7de48ace5aa8652",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421181801,
-    "wof:lastmodified":1690868242,
+    "wof:lastmodified":1695886241,
     "wof:name":"Monterrey",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

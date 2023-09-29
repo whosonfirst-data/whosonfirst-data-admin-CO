@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029564,
-    "geom:area_square_m":364283723.451142,
+    "geom:area_square_m":364283549.302699,
     "geom:bbox":"-73.96351,4.681068,-73.737748,4.926036",
     "geom:latitude":4.803309,
     "geom:longitude":-73.846263,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.CU.GU",
         "wd:id":"Q179672"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503347,
-    "wof:geomhash":"58f0f188f57c4fad18c4e509d719c4f6",
+    "wof:geomhash":"394bf9cd4801574d0fda0371af53c45c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700653,
-    "wof:lastmodified":1690867968,
+    "wof:lastmodified":1695886002,
     "wof:name":"Guasca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

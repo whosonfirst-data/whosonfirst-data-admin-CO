@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034508,
-    "geom:area_square_m":423609066.911888,
+    "geom:area_square_m":423608973.764851,
     "geom:bbox":"-72.757737,6.793781,-72.542061,7.00964",
     "geom:latitude":6.904072,
     "geom:longitude":-72.644715,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.ST.CR",
         "wd:id":"Q2012935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503869,
-    "wof:geomhash":"b9e586a480a6ae411334d52c90ebe7df",
+    "wof:geomhash":"f68852457b5fc3f17aed6fd583282ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701213,
-    "wof:lastmodified":1690868001,
+    "wof:lastmodified":1695886026,
     "wof:name":"Cerrito",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

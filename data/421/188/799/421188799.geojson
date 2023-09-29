@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012215,
-    "geom:area_square_m":150589226.111276,
+    "geom:area_square_m":150589119.942781,
     "geom:bbox":"-74.119657,4.30318,-73.977117,4.511963",
     "geom:latitude":4.425092,
     "geom:longitude":-74.060094,
@@ -148,12 +148,13 @@
         "qs_pg:id":1104176,
         "wd:id":"Q740349"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009579,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a61600ccd09535886d5ff04af40fb3cc",
+    "wof:geomhash":"6ba3c2c16490f3b100c0a5fca479ab27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421188799,
-    "wof:lastmodified":1690868208,
+    "wof:lastmodified":1695886232,
     "wof:name":"Chipaque",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

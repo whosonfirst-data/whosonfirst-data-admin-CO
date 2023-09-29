@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017081,
-    "geom:area_square_m":210100435.841639,
+    "geom:area_square_m":210100424.05172,
     "geom:bbox":"-72.825822,5.809027,-72.616413,5.987875",
     "geom:latitude":5.882433,
     "geom:longitude":-72.726433,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503070,
-    "wof:geomhash":"37d99d866d7412cfa29e9f0f584ad8bf",
+    "wof:geomhash":"a89d6e0368e43b4ab6393f8a283c91da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108700349,
-    "wof:lastmodified":1627522024,
+    "wof:lastmodified":1695886529,
     "wof:name":"Tasco",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

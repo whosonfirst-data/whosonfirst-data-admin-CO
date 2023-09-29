@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011821,
-    "geom:area_square_m":145557673.308528,
+    "geom:area_square_m":145557457.310165,
     "geom:bbox":"-73.524382,5.147541,-73.391801,5.303102",
     "geom:latitude":5.217461,
     "geom:longitude":-73.463215,
@@ -130,9 +130,10 @@
         "hasc:id":"CO.BY.UM",
         "wd:id":"Q1576294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503088,
-    "wof:geomhash":"af1fbe9b2329d33458d9853c32b4f833",
+    "wof:geomhash":"775fefd5d270f51fb4c9b93d1d79683b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108700369,
-    "wof:lastmodified":1690867977,
+    "wof:lastmodified":1695886009,
     "wof:name":"\u00daMbita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

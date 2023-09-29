@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010868,
-    "geom:area_square_m":133478975.670854,
+    "geom:area_square_m":133478975.670901,
     "geom:bbox":"-73.2659938685,6.55814042538,-73.1518714996,6.7415287489",
     "geom:latitude":6.645126,
     "geom:longitude":-73.215732,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.VN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503856,
-    "wof:geomhash":"296bbbdfab305c28b5841fb14ca1c9fc",
+    "wof:geomhash":"a21ce136fbabc50b271a2a336545d3f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701193,
-    "wof:lastmodified":1566707510,
+    "wof:lastmodified":1695886027,
     "wof:name":"Barichara",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

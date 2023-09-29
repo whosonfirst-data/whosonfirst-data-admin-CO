@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030398,
-    "geom:area_square_m":372943339.705855,
+    "geom:area_square_m":372943245.325109,
     "geom:bbox":"-73.065957,7.044545,-72.817654,7.263524",
     "geom:latitude":7.161073,
     "geom:longitude":-72.929744,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.TO",
         "wd:id":"Q1574932"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503971,
-    "wof:geomhash":"64fb7be2355793ef956196e0f1fb2655",
+    "wof:geomhash":"6c0eef2d8786a531ea4bb69176a10295",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701363,
-    "wof:lastmodified":1690868011,
+    "wof:lastmodified":1695886041,
     "wof:name":"Tona",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

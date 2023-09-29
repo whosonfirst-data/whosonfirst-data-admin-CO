@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074511,
-    "geom:area_square_m":909579969.186449,
+    "geom:area_square_m":909579840.56846,
     "geom:bbox":"-76.155227,9.036504,-75.687455,9.341648",
     "geom:latitude":9.163882,
     "geom:longitude":-75.908884,
@@ -159,12 +159,13 @@
         "qs_pg:id":1182308,
         "wd:id":"Q775761"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009751,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d08d3e60c70f146b97cc8a34a9aebc6b",
+    "wof:geomhash":"8a59b8b85e854420dfa0a93be14e60ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":421192871,
-    "wof:lastmodified":1690868103,
+    "wof:lastmodified":1695886218,
     "wof:name":"Lorica",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

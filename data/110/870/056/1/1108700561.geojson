@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081347,
-    "geom:area_square_m":996231461.123047,
+    "geom:area_square_m":996230975.548567,
     "geom:bbox":"-73.76179,7.749484,-73.297763,8.112285",
     "geom:latitude":7.937607,
     "geom:longitude":-73.544275,
@@ -141,9 +141,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CE.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503245,
-    "wof:geomhash":"68ae47125812905ba362623389992f1e",
+    "wof:geomhash":"e0e0fe3f1363a98cb9fa2859dd50d88c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700561,
-    "wof:lastmodified":1627522023,
+    "wof:lastmodified":1695886527,
     "wof:name":"San Mart\u00edn",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

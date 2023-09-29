@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033376,
-    "geom:area_square_m":411599344.642764,
+    "geom:area_square_m":411599293.846252,
     "geom:bbox":"-76.23719,4.085715,-75.95482,4.317745",
     "geom:latitude":4.198427,
     "geom:longitude":-76.091377,
@@ -137,12 +137,13 @@
         "qs_pg:id":267515,
         "wd:id":"Q686202"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008695,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d1515cf8177a8b11986ad600cf98b027",
+    "wof:geomhash":"c90c514ee000188634f076c623c5bb27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421166577,
-    "wof:lastmodified":1690868100,
+    "wof:lastmodified":1695886203,
     "wof:name":"Bugalagrande",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

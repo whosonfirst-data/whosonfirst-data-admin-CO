@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021779,
-    "geom:area_square_m":269084577.297742,
+    "geom:area_square_m":269084710.512387,
     "geom:bbox":"-75.798082,2.163433,-75.639233,2.363188",
     "geom:latitude":2.269156,
     "geom:longitude":-75.716361,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.HU.AG",
         "wd:id":"Q1576785"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503490,
-    "wof:geomhash":"dc17aa5e1b87d17546ed781c2d1fc0b0",
+    "wof:geomhash":"9c15f681165b5a91f8f4c040c843f166",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700797,
-    "wof:lastmodified":1690867948,
+    "wof:lastmodified":1695885989,
     "wof:name":"Agrado",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

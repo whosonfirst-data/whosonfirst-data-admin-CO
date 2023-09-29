@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004383,
-    "geom:area_square_m":53887660.451076,
+    "geom:area_square_m":53887660.451057,
     "geom:bbox":"-72.7953306454,6.01779278229,-72.6535909646,6.10720644682",
     "geom:latitude":6.070666,
     "geom:longitude":-72.714877,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503052,
-    "wof:geomhash":"50d620a87ba43cb806d97059290d1d70",
+    "wof:geomhash":"db22077ae9346a5ba00b9e5b4ab2624b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700331,
-    "wof:lastmodified":1566707579,
+    "wof:lastmodified":1695886090,
     "wof:name":"Sativasur",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

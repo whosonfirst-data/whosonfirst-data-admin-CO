@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036401,
-    "geom:area_square_m":448338067.257257,
+    "geom:area_square_m":448338067.456099,
     "geom:bbox":"-75.677581,4.982231,-75.317757,5.165895",
     "geom:latitude":5.082811,
     "geom:longitude":-75.505979,
@@ -305,12 +305,13 @@
         "qs_pg:id":1310411,
         "wd:id":"Q235190"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008939,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"509f9cb53f22e085d459d328689a47da",
+    "wof:geomhash":"db79de91ef2a9e31b0d056518253f900",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -320,7 +321,7 @@
         }
     ],
     "wof:id":421172405,
-    "wof:lastmodified":1690868226,
+    "wof:lastmodified":1695886238,
     "wof:name":"Manizales",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

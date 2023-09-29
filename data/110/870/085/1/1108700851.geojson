@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045967,
-    "geom:area_square_m":567701461.086512,
+    "geom:area_square_m":567701920.405635,
     "geom:bbox":"-76.029241,2.681147,-75.490287,2.981736",
     "geom:latitude":2.828316,
     "geom:longitude":-75.743575,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.HU.TR",
         "wd:id":"Q641800"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503539,
-    "wof:geomhash":"bd13d3bac2f948cd12f4ce40360fcbda",
+    "wof:geomhash":"02a11b75e61d5c7bce6bc100d100d44b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700851,
-    "wof:lastmodified":1690867959,
+    "wof:lastmodified":1695886202,
     "wof:name":"Teruel",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

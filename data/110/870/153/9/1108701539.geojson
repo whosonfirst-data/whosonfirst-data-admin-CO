@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063654,
-    "geom:area_square_m":783256777.159927,
+    "geom:area_square_m":783256723.965114,
     "geom:bbox":"-72.111199,5.531263,-71.661035,5.839751",
     "geom:latitude":5.66294,
     "geom:longitude":-71.924273,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CS.PO",
         "wd:id":"Q1555513"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504165,
-    "wof:geomhash":"f8bccf152ea7a987d7dd1c96d5e5b115",
+    "wof:geomhash":"a51d4b1099c1b194f17e7ce45c63f726",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701539,
-    "wof:lastmodified":1690868005,
+    "wof:lastmodified":1695886030,
     "wof:name":"Pore",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

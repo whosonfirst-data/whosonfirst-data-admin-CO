@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010366,
-    "geom:area_square_m":127559817.698321,
+    "geom:area_square_m":127559817.698206,
     "geom:bbox":"-75.6768553938,5.56973327717,-75.5724565543,5.75974503662",
     "geom:latitude":5.651469,
     "geom:longitude":-75.630651,
@@ -716,9 +716,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CL.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502800,
-    "wof:geomhash":"6fc6fa4472e0582e8838d88c7cbeb2de",
+    "wof:geomhash":"81f1c38b13248cd48c6af65646789100",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -728,7 +729,7 @@
         }
     ],
     "wof:id":1108700033,
-    "wof:lastmodified":1566707568,
+    "wof:lastmodified":1695886081,
     "wof:name":"Valpara\u00edso",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

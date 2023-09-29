@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.075458,
-    "geom:area_square_m":926748624.293722,
+    "geom:area_square_m":926748461.601836,
     "geom:bbox":"-73.742084,6.510035,-73.380785,6.832833",
     "geom:latitude":6.664972,
     "geom:longitude":-73.564305,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503886,
-    "wof:geomhash":"3411375875d7569cba2529a25b1d4554",
+    "wof:geomhash":"357ffd9a8174adf0a4f829a6bb4380ce",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1108701237,
-    "wof:lastmodified":1627522016,
+    "wof:lastmodified":1695886511,
     "wof:name":"El Carmen de Chucuri",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

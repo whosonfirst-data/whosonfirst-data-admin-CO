@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034364,
-    "geom:area_square_m":420396080.062559,
+    "geom:area_square_m":420395911.483171,
     "geom:bbox":"-73.184577,8.243772,-72.96751,8.492837",
     "geom:latitude":8.36212,
     "geom:longitude":-73.078245,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.NS.HA",
         "wd:id":"Q1577521"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503774,
-    "wof:geomhash":"9704ca181bd5578b551b213bc521f104",
+    "wof:geomhash":"ca4bf157137dca38ff9a8785536ff9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701119,
-    "wof:lastmodified":1690867994,
+    "wof:lastmodified":1695886022,
     "wof:name":"Hacar\u00ed",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

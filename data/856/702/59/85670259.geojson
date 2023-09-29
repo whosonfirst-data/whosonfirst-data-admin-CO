@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.324307,
-    "geom:area_square_m":53463082037.488541,
+    "geom:area_square_m":53463080255.883842,
     "geom:bbox":"-72.034371,-1.227671,-69.115641,2.080105",
     "geom:latitude":0.645783,
     "geom:longitude":-70.560247,
@@ -348,17 +348,19 @@
         "gn:id":3666254,
         "gp:id":2345075,
         "hasc:id":"CO.VP",
+        "iso:code":"CO-VAU",
         "iso:id":"CO-VAU",
         "qs_pg:id":984073,
         "unlc:id":"CO-VAU",
         "wd:id":"Q234505",
         "wk:page":"Vaup\u00e9s Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"33e4cd956d110370b24f851c3a88cee2",
+    "wof:geomhash":"da96f808638be4b69f14d8ef7ef85006",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -373,7 +375,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867904,
+    "wof:lastmodified":1695884390,
     "wof:name":"Vaup\u00e9s",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004431,
-    "geom:area_square_m":54765255.06888,
+    "geom:area_square_m":54765143.628206,
     "geom:bbox":"-77.147806,1.48735,-77.057184,1.589712",
     "geom:latitude":1.53713,
     "geom:longitude":-77.101186,
@@ -113,9 +113,10 @@
         "hasc:id":"CO.NA.SC",
         "wd:id":"Q974273"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503732,
-    "wof:geomhash":"d29a5c3bcabe0ab2bed6681e3f0028f0",
+    "wof:geomhash":"dc64569d230e6c853de29f7fe1c50c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108701073,
-    "wof:lastmodified":1690868014,
+    "wof:lastmodified":1695886043,
     "wof:name":"San Pedro De Cartago",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

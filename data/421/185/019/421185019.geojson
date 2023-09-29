@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009165,
-    "geom:area_square_m":112885944.131281,
+    "geom:area_square_m":112885944.131181,
     "geom:bbox":"-75.9221342016,4.94198098446,-75.8110178912,5.13457995294",
     "geom:latitude":5.047795,
     "geom:longitude":-75.878658,
@@ -258,12 +258,13 @@
         "hasc:id":"CO.CL.RR",
         "qs_pg:id":1016999
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009430,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b34cc4010d2b966d8b5e98a34ec356ed",
+    "wof:geomhash":"bc57c8ccbe2b99bcc37646ef3293869d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -273,7 +274,7 @@
         }
     ],
     "wof:id":421185019,
-    "wof:lastmodified":1582393689,
+    "wof:lastmodified":1695886270,
     "wof:name":"Viterbo",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

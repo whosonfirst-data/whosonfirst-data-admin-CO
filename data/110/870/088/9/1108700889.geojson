@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.080116,
-    "geom:area_square_m":974184735.281145,
+    "geom:area_square_m":974184408.012104,
     "geom:bbox":"-74.245594,10.273786,-73.560605,10.645042",
     "geom:latitude":10.459005,
     "geom:longitude":-73.884244,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.MA.FU",
         "wd:id":"Q303437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503579,
-    "wof:geomhash":"1779a84e1375119899367ed1c9d5efa2",
+    "wof:geomhash":"40cdd42ad998404e749a05830fe64664",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700889,
-    "wof:lastmodified":1690868046,
+    "wof:lastmodified":1695886076,
     "wof:name":"Fundaci\u00f3n",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

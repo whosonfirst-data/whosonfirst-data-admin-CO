@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102448,
-    "geom:area_square_m":1247139234.97349,
+    "geom:area_square_m":1247139234.973958,
     "geom:bbox":"-74.4626111945,9.88082060035,-74.0333618169,10.3833923831",
     "geom:latitude":10.10448,
     "geom:longitude":-74.263233,
@@ -100,9 +100,10 @@
         "hasc:id":"CO.MA.PI",
         "wd:id":"Q929338"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503591,
-    "wof:geomhash":"c3532f7cc05b47f060ba1c09e453effe",
+    "wof:geomhash":"d7422f8c0903185c8e562161d31a73f7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108700905,
-    "wof:lastmodified":1566707496,
+    "wof:lastmodified":1695886015,
     "wof:name":"Sabanas De San \u00e1ngel",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

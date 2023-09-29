@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014393,
-    "geom:area_square_m":176344668.596948,
+    "geom:area_square_m":176344648.476557,
     "geom:bbox":"-72.732375,7.634784,-72.604797,7.841852",
     "geom:latitude":7.746932,
     "geom:longitude":-72.671788,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NS.DU",
         "wd:id":"Q510149"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503761,
-    "wof:geomhash":"3eee1a4727c8019981c2922713388cdc",
+    "wof:geomhash":"f9e31dcd0a9e71b97d31a03b40167525",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701107,
-    "wof:lastmodified":1690868003,
+    "wof:lastmodified":1695886028,
     "wof:name":"Durania",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

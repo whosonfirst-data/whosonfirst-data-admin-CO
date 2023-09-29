@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013091,
-    "geom:area_square_m":160987790.763455,
+    "geom:area_square_m":160987569.69555,
     "geom:bbox":"-72.970409,5.935119,-72.791769,6.098621",
     "geom:latitude":6.005152,
     "geom:longitude":-72.895057,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502926,
-    "wof:geomhash":"b7a91db81b8ec6265bc691664e3d8c4c",
+    "wof:geomhash":"8215302b83a7445ef534123e4a4e414c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108700189,
-    "wof:lastmodified":1627522014,
+    "wof:lastmodified":1695886507,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

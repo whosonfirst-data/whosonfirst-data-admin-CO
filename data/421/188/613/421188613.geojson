@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033461,
-    "geom:area_square_m":411756456.857852,
+    "geom:area_square_m":411756409.890476,
     "geom:bbox":"-76.066672,5.480645,-75.810306,5.775146",
     "geom:latitude":5.625163,
     "geom:longitude":-75.926344,
@@ -171,12 +171,13 @@
         "wd:id":"Q267585",
         "wk:page":"Andes, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009571,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32fef368d766f85486c90371a3e253b1",
+    "wof:geomhash":"5c7a8f7cc5b9fd076436d7d27c361c53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":421188613,
-    "wof:lastmodified":1690868215,
+    "wof:lastmodified":1695886234,
     "wof:name":"Andes",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

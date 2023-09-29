@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009877,
-    "geom:area_square_m":121667908.721716,
+    "geom:area_square_m":121667828.660586,
     "geom:bbox":"-74.324872,4.870499,-74.206166,5.036407",
     "geom:latitude":4.964813,
     "geom:longitude":-74.271105,
@@ -165,12 +165,13 @@
         "wd:id":"Q1576269",
         "wk:page":"San Francisco, Cundinamarca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36607e31e3adf4c4144fb33195bd77bb",
+    "wof:geomhash":"de643b75c842ee6d325c8abff777e090",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":421205087,
-    "wof:lastmodified":1690868167,
+    "wof:lastmodified":1695886222,
     "wof:name":"San Francisco",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

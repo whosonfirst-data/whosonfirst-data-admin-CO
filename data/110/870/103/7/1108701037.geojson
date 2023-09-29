@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046072,
-    "geom:area_square_m":569576191.472484,
+    "geom:area_square_m":569576292.834959,
     "geom:bbox":"-77.978252,0.999426,-77.715546,1.379178",
     "geom:latitude":1.155877,
     "geom:longitude":-77.846473,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.NA.ML",
         "wd:id":"Q1576117"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503705,
-    "wof:geomhash":"425b159e4e5d98438bf065d683c2dff7",
+    "wof:geomhash":"72c84f2966af4ee185df502301578088",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108701037,
-    "wof:lastmodified":1690867935,
+    "wof:lastmodified":1695885976,
     "wof:name":"Mallama",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

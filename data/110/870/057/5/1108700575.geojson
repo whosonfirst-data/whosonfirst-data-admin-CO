@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007176,
-    "geom:area_square_m":87622553.12901,
+    "geom:area_square_m":87622553.129057,
     "geom:bbox":"-75.8460658104,9.00046399556,-75.7248486913,9.12264776964",
     "geom:latitude":9.057385,
     "geom:longitude":-75.778821,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CO.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503260,
-    "wof:geomhash":"451cf5e082f27852d0d09ba2cce31fa7",
+    "wof:geomhash":"e8b7e75563c0dc9141520ef80cb612ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108700575,
-    "wof:lastmodified":1566707578,
+    "wof:lastmodified":1695886090,
     "wof:name":"Cotorra",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

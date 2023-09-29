@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.499372,
-    "geom:area_square_m":30693288971.809669,
+    "geom:area_square_m":30693289045.61224,
     "geom:bbox":"-74.526656,5.70671,-72.476391,8.143419",
     "geom:latitude":6.695094,
     "geom:longitude":-73.486236,
@@ -349,17 +349,19 @@
         "gn:id":3668578,
         "gp:id":2345071,
         "hasc:id":"CO.ST",
+        "iso:code":"CO-SAN",
         "iso:id":"CO-SAN",
         "loc:id":"n81084493",
         "qs_pg:id":1083814,
         "wd:id":"Q235166",
         "wk:page":"Santander Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4db9a8156aa48867a7a91e0ff553e03c",
+    "wof:geomhash":"d56b655db5cf04a0aac280c2573763b1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -374,7 +376,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867899,
+    "wof:lastmodified":1695884389,
     "wof:name":"Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

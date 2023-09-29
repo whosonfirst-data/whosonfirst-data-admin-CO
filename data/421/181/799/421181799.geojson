@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439359,
-    "geom:area_square_m":5398985149.4378,
+    "geom:area_square_m":5398985088.268063,
     "geom:bbox":"-72.368311,6.067648,-71.216411,6.702767",
     "geom:latitude":6.390071,
     "geom:longitude":-71.79448,
@@ -196,12 +196,13 @@
         "qs_pg:id":504812,
         "wd:id":"Q2434750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009307,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e20340007dbe47e1a170ffa5644c61f5",
+    "wof:geomhash":"edfe9956542f8bfa43ee7cb8e02ad0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":421181799,
-    "wof:lastmodified":1690868234,
+    "wof:lastmodified":1695886225,
     "wof:name":"Tame",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

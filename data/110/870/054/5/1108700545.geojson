@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068195,
-    "geom:area_square_m":833711881.556482,
+    "geom:area_square_m":833711591.919692,
     "geom:bbox":"-73.819823,8.447226,-73.411628,8.821804",
     "geom:latitude":8.620393,
     "geom:longitude":-73.627832,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CE.LG",
         "wd:id":"Q1526106"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503231,
-    "wof:geomhash":"2ebe38ea464cb97d3bf72125419250d8",
+    "wof:geomhash":"131decfdf2ec72c6b945b6b9cc2be515",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700545,
-    "wof:lastmodified":1690867971,
+    "wof:lastmodified":1695886006,
     "wof:name":"La Gloria",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

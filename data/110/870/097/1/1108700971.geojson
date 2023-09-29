@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004849,
-    "geom:area_square_m":59934388.117038,
+    "geom:area_square_m":59934388.117046,
     "geom:bbox":"-77.1845946524,1.44124797966,-77.0821756641,1.52726679159",
     "geom:latitude":1.480559,
     "geom:longitude":-77.129882,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503657,
-    "wof:geomhash":"7e97e5b6851819ce687d493479bd1f02",
+    "wof:geomhash":"b9b92b60ff1fbd2507ce277f7f901d78",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108700971,
-    "wof:lastmodified":1566707495,
+    "wof:lastmodified":1695886013,
     "wof:name":"Arboleda",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

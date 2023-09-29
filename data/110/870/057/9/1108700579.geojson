@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021847,
-    "geom:area_square_m":267480782.008247,
+    "geom:area_square_m":267480782.008138,
     "geom:bbox":"-75.3927139103,7.94450149051,-75.1682908167,8.13717468503",
     "geom:latitude":8.048779,
     "geom:longitude":-75.288434,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CO.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503261,
-    "wof:geomhash":"8d5b303ed52f8a2d4deb31a49f889a01",
+    "wof:geomhash":"9e5ec58ed6a3cf351f7afb5956dedbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700579,
-    "wof:lastmodified":1566707577,
+    "wof:lastmodified":1695886089,
     "wof:name":"La Apartada",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

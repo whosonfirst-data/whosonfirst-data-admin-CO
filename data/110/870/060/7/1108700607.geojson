@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038817,
-    "geom:area_square_m":474089973.645146,
+    "geom:area_square_m":474089631.834696,
     "geom:bbox":"-76.110435,8.901234,-75.698911,9.083398",
     "geom:latitude":8.98957,
     "geom:longitude":-75.910535,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.CO.SP",
         "wd:id":"Q2314281"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503291,
-    "wof:geomhash":"b3f26a4e1527aae512abc5712a836780",
+    "wof:geomhash":"0d659f69d49c4225dd38cf876c43d6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700607,
-    "wof:lastmodified":1690868074,
+    "wof:lastmodified":1695886098,
     "wof:name":"San Pelayo",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040304,
-    "geom:area_square_m":493784189.112019,
+    "geom:area_square_m":493784235.266754,
     "geom:bbox":"-73.000458,7.667531,-72.706612,7.90274",
     "geom:latitude":7.773217,
     "geom:longitude":-72.867875,
@@ -116,9 +116,10 @@
         "hasc:id":"CO.NS.SZ",
         "wd:id":"Q776636"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503791,
-    "wof:geomhash":"3d55b15b13e293afff003205b4344231",
+    "wof:geomhash":"1e89334e7175bd43fedfb8b9609f7c52",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108701139,
-    "wof:lastmodified":1690868087,
+    "wof:lastmodified":1695886111,
     "wof:name":"Salazar",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

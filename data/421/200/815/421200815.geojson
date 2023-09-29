@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044283,
-    "geom:area_square_m":545615624.48224,
+    "geom:area_square_m":545615624.482186,
     "geom:bbox":"-75.7178046219,4.69824416159,-75.3760917927,4.97467720726",
     "geom:latitude":4.833438,
     "geom:longitude":-75.549218,
@@ -153,12 +153,13 @@
         "qs_pg:id":896552,
         "wd:id":"Q955068"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010042,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1bec608add2530e03a7c94e47614a83a",
+    "wof:geomhash":"5736a6e1a8a1e1ca6b4c727935a2321e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421200815,
-    "wof:lastmodified":1582393673,
+    "wof:lastmodified":1695886246,
     "wof:name":"Santa Rosa De Cabal",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

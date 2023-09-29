@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004758,
-    "geom:area_square_m":57877682.88908,
+    "geom:area_square_m":57877610.839946,
     "geom:bbox":"-75.029385,10.287154,-74.917676,10.39603",
     "geom:latitude":10.352434,
     "geom:longitude":-74.963838,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.AT.SL",
         "wd:id":"Q1867062"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502836,
-    "wof:geomhash":"34faefcb54688dc19e1a96bc4ba4529a",
+    "wof:geomhash":"25998c87a1d725035614c387ac872315",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700081,
-    "wof:lastmodified":1690867986,
+    "wof:lastmodified":1695886016,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

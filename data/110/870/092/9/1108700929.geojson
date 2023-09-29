@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050948,
-    "geom:area_square_m":628263494.596357,
+    "geom:area_square_m":628263036.300117,
     "geom:bbox":"-73.574705,4.147301,-73.038706,4.383428",
     "geom:latitude":4.232947,
     "geom:longitude":-73.31577,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.ME.CM",
         "wd:id":"Q1525841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503614,
-    "wof:geomhash":"92116fb811e659ef54f2d5c4eebc92d4",
+    "wof:geomhash":"912af533823e11c5476469a6dd09753a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700929,
-    "wof:lastmodified":1690868059,
+    "wof:lastmodified":1695886086,
     "wof:name":"Cumaral",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

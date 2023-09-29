@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034978,
-    "geom:area_square_m":427459200.302845,
+    "geom:area_square_m":427459326.431021,
     "geom:bbox":"-73.808585,8.648089,-73.428337,8.891883",
     "geom:latitude":8.764127,
     "geom:longitude":-73.633069,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CE.PE",
         "wd:id":"Q962740"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503236,
-    "wof:geomhash":"08145ba001647fef53a96391830345ad",
+    "wof:geomhash":"391bab622deb5588bfe8cdd52c405ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700549,
-    "wof:lastmodified":1690867971,
+    "wof:lastmodified":1695886005,
     "wof:name":"Pelaya",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

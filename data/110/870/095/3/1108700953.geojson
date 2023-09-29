@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275858,
-    "geom:area_square_m":3407089772.596985,
+    "geom:area_square_m":3407089895.290482,
     "geom:bbox":"-73.51728,2.412505,-72.8209,3.089335",
     "geom:latitude":2.756968,
     "geom:longitude":-73.13937,
@@ -509,9 +509,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ME.PR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503639,
-    "wof:geomhash":"058a7dd2f39baf915e67bda74b39150d",
+    "wof:geomhash":"8be19efe60a51d5337b377367367a807",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -521,7 +522,7 @@
         }
     ],
     "wof:id":1108700953,
-    "wof:lastmodified":1636506771,
+    "wof:lastmodified":1695886214,
     "wof:name":"Puerto Rico",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

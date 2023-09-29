@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029575,
-    "geom:area_square_m":363113808.852469,
+    "geom:area_square_m":363113892.768304,
     "geom:bbox":"-76.127208,6.646335,-75.952228,6.981298",
     "geom:latitude":6.815345,
     "geom:longitude":-76.026402,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.AN.CG",
         "wd:id":"Q1525112"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502683,
-    "wof:geomhash":"137ee21b5ad1f45b10b1eb9678061074",
+    "wof:geomhash":"def821a5d952b34b3843301ec4197959",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108699941,
-    "wof:lastmodified":1690867930,
+    "wof:lastmodified":1695885973,
     "wof:name":"Ca\u00f1asgordas",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

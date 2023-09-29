@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026293,
-    "geom:area_square_m":322779849.79027,
+    "geom:area_square_m":322779886.691819,
     "geom:bbox":"-75.491107,6.764551,-75.241977,6.971068",
     "geom:latitude":6.866623,
     "geom:longitude":-75.353131,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.AN.AS",
         "wd:id":"Q1525268"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502651,
-    "wof:geomhash":"bcc6ad9fb10dcb17c6b827b3446c9b21",
+    "wof:geomhash":"6e8951d9924da9ff0664b0e7e7c8d3db",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108699907,
-    "wof:lastmodified":1690867925,
+    "wof:lastmodified":1695886618,
     "wof:name":"Angostura",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033488,
-    "geom:area_square_m":407468171.521852,
+    "geom:area_square_m":407468171.521838,
     "geom:bbox":"-74.2132747341,10.052131529,-73.9777975214,10.3933169117",
     "geom:latitude":10.254102,
     "geom:longitude":-74.103419,
@@ -124,12 +124,13 @@
         "qs_pg:id":64631,
         "wd:id":"Q354527"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8e5b83dd31bd527c840abaafbcdcc649",
+    "wof:geomhash":"00822924fc482cb6aa87fedee61ce3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421203427,
-    "wof:lastmodified":1582393652,
+    "wof:lastmodified":1695886216,
     "wof:name":"Algarrobo",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

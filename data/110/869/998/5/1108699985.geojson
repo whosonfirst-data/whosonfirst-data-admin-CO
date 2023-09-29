@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076973,
-    "geom:area_square_m":942548841.007645,
+    "geom:area_square_m":942548841.007187,
     "geom:bbox":"-74.9524730143,7.76792717636,-74.5692838609,8.19976077753",
     "geom:latitude":7.991146,
     "geom:longitude":-74.79375,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.EB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502739,
-    "wof:geomhash":"f67f5c55dda0d733e4497c82c687dc20",
+    "wof:geomhash":"2d35e1b4c1b04d5dfeea6d978992ad32",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108699985,
-    "wof:lastmodified":1566707432,
+    "wof:lastmodified":1695886617,
     "wof:name":"Nech\u00ed",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

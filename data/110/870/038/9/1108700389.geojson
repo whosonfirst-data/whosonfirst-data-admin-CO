@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030767,
-    "geom:area_square_m":378847619.308774,
+    "geom:area_square_m":378847559.533578,
     "geom:bbox":"-75.371788,5.046559,-75.166191,5.377594",
     "geom:latitude":5.236035,
     "geom:longitude":-75.282649,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CL.MD",
         "wd:id":"Q1654886"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503108,
-    "wof:geomhash":"75080a2245db140d5541d9ca9e81a376",
+    "wof:geomhash":"fb699f0665234919a8e2c05611aa4789",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700389,
-    "wof:lastmodified":1690867973,
+    "wof:lastmodified":1695886008,
     "wof:name":"Marulanda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

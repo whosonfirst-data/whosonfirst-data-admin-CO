@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054085,
-    "geom:area_square_m":666412203.340497,
+    "geom:area_square_m":666411919.38933,
     "geom:bbox":"-76.970647,4.49872,-76.65721,5.126997",
     "geom:latitude":4.814065,
     "geom:longitude":-76.804789,
@@ -133,9 +133,10 @@
         "hasc:id":"CO.CH.IS",
         "wd:id":"Q1441410"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503471,
-    "wof:geomhash":"a10cceac69c71bd188ad494f26571f2e",
+    "wof:geomhash":"8742116abc7fd148cc7dae7e6609ea75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1108700779,
-    "wof:lastmodified":1690867951,
+    "wof:lastmodified":1695885990,
     "wof:name":"Medio San Juan",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

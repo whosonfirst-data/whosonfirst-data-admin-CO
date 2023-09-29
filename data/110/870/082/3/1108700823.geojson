@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066277,
-    "geom:area_square_m":818844999.188522,
+    "geom:area_square_m":818845572.985207,
     "geom:bbox":"-76.209091,2.151966,-75.816813,2.503124",
     "geom:latitude":2.328086,
     "geom:longitude":-76.001005,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.HU.LP",
         "wd:id":"Q593144"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503511,
-    "wof:geomhash":"31ac3c14119e5ce47649c04e8f859c86",
+    "wof:geomhash":"44b868b4ef759762d63cc5079561cd4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700823,
-    "wof:lastmodified":1690867962,
+    "wof:lastmodified":1695885997,
     "wof:name":"La Plata",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

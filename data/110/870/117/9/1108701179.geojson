@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015839,
-    "geom:area_square_m":195087395.052761,
+    "geom:area_square_m":195087207.881026,
     "geom:bbox":"-76.080428,4.910391,-75.862563,5.130898",
     "geom:latitude":5.046645,
     "geom:longitude":-75.982897,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CO.RI.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503847,
-    "wof:geomhash":"1823688399009eecade32a612f523e0a",
+    "wof:geomhash":"6d303804dac29f34ca88f3dacfb62f01",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108701179,
-    "wof:lastmodified":1627522024,
+    "wof:lastmodified":1695886530,
     "wof:name":"Santuario",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

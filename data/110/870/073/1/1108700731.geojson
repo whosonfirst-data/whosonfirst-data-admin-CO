@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005313,
-    "geom:area_square_m":65414000.193692,
+    "geom:area_square_m":65414000.193691,
     "geom:bbox":"-74.2320622641,5.19282307936,-74.1256424509,5.34224861299",
     "geom:latitude":5.269461,
     "geom:longitude":-74.189007,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CU.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503432,
-    "wof:geomhash":"510106d7be5b35787f97e6a91c37d640",
+    "wof:geomhash":"df40e3a06983355b48583a886b998ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108700731,
-    "wof:lastmodified":1566707549,
+    "wof:lastmodified":1695886065,
     "wof:name":"Villag\u00f3mez",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

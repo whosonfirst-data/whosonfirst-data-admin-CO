@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028453,
-    "geom:area_square_m":351791111.231166,
+    "geom:area_square_m":351791354.691098,
     "geom:bbox":"-77.541988,0.671343,-77.159155,0.928666",
     "geom:latitude":0.826618,
     "geom:longitude":-77.322392,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.NA.PU",
         "wd:id":"Q948935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503718,
-    "wof:geomhash":"10316ca592480ebef3fa03fd8323ae51",
+    "wof:geomhash":"cad19d0fc08577601e2e54f192e010d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701055,
-    "wof:lastmodified":1690867940,
+    "wof:lastmodified":1695885981,
     "wof:name":"Puerres",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

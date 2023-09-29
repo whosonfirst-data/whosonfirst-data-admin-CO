@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013815,
-    "geom:area_square_m":170694808.835015,
+    "geom:area_square_m":170694734.575272,
     "geom:bbox":"-76.842489,2.187025,-76.649009,2.319408",
     "geom:latitude":2.250895,
     "geom:longitude":-76.753087,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CA.RO",
         "wd:id":"Q1525805"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503194,
-    "wof:geomhash":"b15873f96456224cb848a55cd0f286fa",
+    "wof:geomhash":"26f5adf942aca424c4a33101e45fe4bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700497,
-    "wof:lastmodified":1690867960,
+    "wof:lastmodified":1695885996,
     "wof:name":"Rosas",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068416,
-    "geom:area_square_m":835292746.105948,
+    "geom:area_square_m":835292860.030166,
     "geom:bbox":"-74.177822,8.917108,-73.797542,9.351119",
     "geom:latitude":9.117291,
     "geom:longitude":-73.980803,
@@ -200,12 +200,13 @@
         "qs_pg:id":504561,
         "wd:id":"Q2330760"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008853,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b32911a76251cc7e1b7a99bdd68b9d7c",
+    "wof:geomhash":"e4e695825e2cd04e4ed78f26b9859372",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":421170439,
-    "wof:lastmodified":1690868309,
+    "wof:lastmodified":1695886229,
     "wof:name":"El Banco",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

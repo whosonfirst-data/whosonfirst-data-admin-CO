@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015641,
-    "geom:area_square_m":192919946.338746,
+    "geom:area_square_m":192919784.190753,
     "geom:bbox":"-74.876526,3.892759,-74.746588,4.266155",
     "geom:latitude":4.047549,
     "geom:longitude":-74.818816,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CO.TO.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504078,
-    "wof:geomhash":"b0e117831602bd0fc1b997a966785f77",
+    "wof:geomhash":"513bab57300eae5dd5f54893e4a382cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108701471,
-    "wof:lastmodified":1627522024,
+    "wof:lastmodified":1695886530,
     "wof:name":"Su\u00e1rez",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

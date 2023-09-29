@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011581,
-    "geom:area_square_m":142433227.906063,
+    "geom:area_square_m":142433219.450496,
     "geom:bbox":"-75.856473,5.881971,-75.683064,6.010292",
     "geom:latitude":5.956648,
     "geom:longitude":-75.77634,
@@ -162,12 +162,13 @@
         "wd:id":"Q525532",
         "wk:page":"Venecia, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009571,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"56fc07db97af9d573662ed7946e3e105",
+    "wof:geomhash":"01ded7b39376a275041db4cbdd450ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":421188621,
-    "wof:lastmodified":1690868209,
+    "wof:lastmodified":1695886231,
     "wof:name":"Venecia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

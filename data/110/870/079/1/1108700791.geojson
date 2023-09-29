@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015184,
-    "geom:area_square_m":186958910.108422,
+    "geom:area_square_m":186958977.574671,
     "geom:bbox":"-76.726471,5.190345,-76.584568,5.40431",
     "geom:latitude":5.287572,
     "geom:longitude":-76.644285,
@@ -102,9 +102,10 @@
         "hasc:id":"CO.CH",
         "wd:id":"Q1576215"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503485,
-    "wof:geomhash":"201c294aee874c175c1bca0b8816d4d6",
+    "wof:geomhash":"625eda3e7cd6521d0eba259080749346",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108700791,
-    "wof:lastmodified":1690867949,
+    "wof:lastmodified":1695885989,
     "wof:name":"Uni\u00f3n Panamericana",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

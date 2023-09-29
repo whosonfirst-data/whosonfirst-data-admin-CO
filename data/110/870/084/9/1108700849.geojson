@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042065,
-    "geom:area_square_m":519407676.588391,
+    "geom:area_square_m":519407592.275892,
     "geom:bbox":"-75.268056,2.863851,-74.930343,3.178098",
     "geom:latitude":3.034444,
     "geom:longitude":-75.091111,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.HU.TL",
         "wd:id":"Q934561"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503537,
-    "wof:geomhash":"f22abe92da751437fc50b5ae5fd68272",
+    "wof:geomhash":"980373d5af76d305d1e1eebb201eaef5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700849,
-    "wof:lastmodified":1690867953,
+    "wof:lastmodified":1695885992,
     "wof:name":"Tello",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

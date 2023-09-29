@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012195,
-    "geom:area_square_m":150301465.207734,
+    "geom:area_square_m":150301529.348054,
     "geom:bbox":"-74.559539,4.579112,-74.386213,4.716602",
     "geom:latitude":4.651204,
     "geom:longitude":-74.47347,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.CU.LM",
         "wd:id":"Q936790"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503359,
-    "wof:geomhash":"b27d12141055b0068cf1074c78ec709d",
+    "wof:geomhash":"3d51b0a02e04cb12fe309fac0591657d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108700669,
-    "wof:lastmodified":1690868057,
+    "wof:lastmodified":1695886085,
     "wof:name":"La Mesa",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

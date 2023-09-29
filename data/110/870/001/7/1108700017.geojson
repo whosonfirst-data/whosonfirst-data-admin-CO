@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021683,
-    "geom:area_square_m":266395483.142865,
+    "geom:area_square_m":266395248.719667,
     "geom:bbox":"-75.263046,6.394139,-75.018827,6.555509",
     "geom:latitude":6.481299,
     "geom:longitude":-75.142282,
@@ -147,9 +147,10 @@
         "hasc:id":"CO.AN.SD",
         "wd:id":"Q1578783"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502777,
-    "wof:geomhash":"987e371a914df2105485647218deb48a",
+    "wof:geomhash":"71e1f214bb1a5c162ec977b4c100b0e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108700017,
-    "wof:lastmodified":1690867987,
+    "wof:lastmodified":1695886204,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

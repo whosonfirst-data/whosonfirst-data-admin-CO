@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.864698,
-    "geom:area_square_m":22736435885.243065,
+    "geom:area_square_m":22736434976.998688,
     "geom:bbox":"-74.139812,7.676393,-72.882548,10.867224",
     "geom:latitude":9.537409,
     "geom:longitude":-73.517752,
@@ -353,17 +353,19 @@
         "gn:id":3686880,
         "gp:id":2345056,
         "hasc:id":"CO.CE",
+        "iso:code":"CO-CES",
         "iso:id":"CO-CES",
         "qs_pg:id":423641,
         "unlc:id":"CO-CES",
         "wd:id":"Q234916",
         "wk:page":"Cesar Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f67213b5ddce674bf6130d78e841df5f",
+    "wof:geomhash":"3a2b9eae3306a6e3dc98770249299f4a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867914,
+    "wof:lastmodified":1695884397,
     "wof:name":"Cesar",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

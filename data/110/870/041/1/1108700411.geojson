@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101388,
-    "geom:area_square_m":1253175290.144203,
+    "geom:area_square_m":1253175290.143067,
     "geom:bbox":"-75.437001273,1.23205608512,-74.9662797092,2.31402548479",
     "geom:latitude":1.613143,
     "geom:longitude":-75.231084,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CQ.ED"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503135,
-    "wof:geomhash":"f91362eb6dc5c9b7a275050b308d7878",
+    "wof:geomhash":"ae1cc3703547cd3df85c4213592bb6f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700411,
-    "wof:lastmodified":1566707467,
+    "wof:lastmodified":1695885989,
     "wof:name":"El Paujil",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

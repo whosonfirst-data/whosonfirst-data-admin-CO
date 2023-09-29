@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009748,
-    "geom:area_square_m":120508888.674364,
+    "geom:area_square_m":120508776.117226,
     "geom:bbox":"-77.592993,1.091616,-77.472566,1.21872",
     "geom:latitude":1.150515,
     "geom:longitude":-77.530617,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.NA.GT",
         "wd:id":"Q1525820"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503685,
-    "wof:geomhash":"db455251efe2a386a7782b10c4f449a0",
+    "wof:geomhash":"d4a6db75f836ab2819b9bd15718b571e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701011,
-    "wof:lastmodified":1690868024,
+    "wof:lastmodified":1695886056,
     "wof:name":"Guaitarilla",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

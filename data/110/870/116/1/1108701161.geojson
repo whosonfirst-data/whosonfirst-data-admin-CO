@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024041,
-    "geom:area_square_m":296485235.355563,
+    "geom:area_square_m":296485400.305629,
     "geom:bbox":"-75.843147,4.073919,-75.654171,4.309836",
     "geom:latitude":4.179917,
     "geom:longitude":-75.761139,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.QD.GE",
         "wd:id":"Q968063"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503821,
-    "wof:geomhash":"01ec781ad79c05d134c7a9bcf3314c82",
+    "wof:geomhash":"18f6cabd211716f7263d6189e0046edd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108701161,
-    "wof:lastmodified":1690867994,
+    "wof:lastmodified":1695886021,
     "wof:name":"G\u00e9nova",
     "wof:parent_id":85670169,
     "wof:placetype":"county",

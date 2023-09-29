@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089499,
-    "geom:area_square_m":1106443280.35249,
+    "geom:area_square_m":1106443280.353174,
     "geom:bbox":"-76.566393064,0.958565436353,-76.074599342,1.58722296576",
     "geom:latitude":1.1523,
     "geom:longitude":-76.305615,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503187,
-    "wof:geomhash":"df61a05e6f546d828424a194e1adff05",
+    "wof:geomhash":"b077a27c1cb7563df86b20aa3ca84074",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108700489,
-    "wof:lastmodified":1566707467,
+    "wof:lastmodified":1695885990,
     "wof:name":"Piamonte",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

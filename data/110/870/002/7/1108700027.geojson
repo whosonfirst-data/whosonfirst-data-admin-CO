@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021806,
-    "geom:area_square_m":267676347.805578,
+    "geom:area_square_m":267676347.805538,
     "geom:bbox":"-76.2433858106,6.8250974971,-75.9682752831,7.00146995341",
     "geom:latitude":6.914035,
     "geom:longitude":-76.132445,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.CG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502795,
-    "wof:geomhash":"036b786a03a92ecb0246a1e0ac58407d",
+    "wof:geomhash":"5c4319477ba92d4c8835bc0a381657fb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108700027,
-    "wof:lastmodified":1566707580,
+    "wof:lastmodified":1695886092,
     "wof:name":"Uramita",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

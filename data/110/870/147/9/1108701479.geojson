@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022184,
-    "geom:area_square_m":273284932.778789,
+    "geom:area_square_m":273284836.91698,
     "geom:bbox":"-75.32034,4.887666,-75.01473,5.066098",
     "geom:latitude":4.963828,
     "geom:longitude":-75.159349,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.TO.VH",
         "wd:id":"Q1575039"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504083,
-    "wof:geomhash":"f645a27e1e3edb651c39cd6c2e5dabcc",
+    "wof:geomhash":"3ddf8b05649bea63977bdf52cac9b62e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701479,
-    "wof:lastmodified":1690868088,
+    "wof:lastmodified":1695886113,
     "wof:name":"Villahermosa",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

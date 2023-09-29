@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04206,
-    "geom:area_square_m":519735191.976537,
+    "geom:area_square_m":519735068.398657,
     "geom:bbox":"-78.712793,1.892616,-78.470185,2.278785",
     "geom:latitude":2.088252,
     "geom:longitude":-78.591363,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.NA.FP",
         "wd:id":"Q1578185"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503712,
-    "wof:geomhash":"81ccf91344ea2fe9028121126b490523",
+    "wof:geomhash":"ac84a5c62e5af2fd9efc27f9f443d8c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701049,
-    "wof:lastmodified":1690867933,
+    "wof:lastmodified":1695885976,
     "wof:name":"Francisco Pizarro",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

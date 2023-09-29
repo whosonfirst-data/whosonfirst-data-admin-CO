@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01401,
-    "geom:area_square_m":172583422.00187,
+    "geom:area_square_m":172583504.996831,
     "geom:bbox":"-74.732133,4.884979,-74.552501,5.012873",
     "geom:latitude":4.954029,
     "geom:longitude":-74.631696,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CU.CN",
         "wd:id":"Q1654559"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503317,
-    "wof:geomhash":"7b366137354cb1f194102b28520d8aff",
+    "wof:geomhash":"20fc18c84bbea99af88a8160911677a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700639,
-    "wof:lastmodified":1690867981,
+    "wof:lastmodified":1695886013,
     "wof:name":"Chaguan\u00ed",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

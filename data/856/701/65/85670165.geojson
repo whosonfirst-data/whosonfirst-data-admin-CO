@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130732,
-    "geom:area_square_m":1611930120.984711,
+    "geom:area_square_m":1611930057.557542,
     "geom:bbox":"-74.451763,3.729768,-73.996315,4.835606",
     "geom:latitude":4.312371,
     "geom:longitude":-74.181741,
@@ -877,15 +877,17 @@
         "gn:id":3688685,
         "gp:id":2345079,
         "hasc:id":"CO.DC",
+        "iso:code":"CO-DC",
         "iso:id":"CO-DC",
         "qs_pg:id":96348,
         "wd:id":"Q2841"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"889b98873e6e23947d3be4cc7993e1f2",
+    "wof:geomhash":"81380d64caaab8fcdedcc40b1a3f61ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -900,7 +902,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867897,
+    "wof:lastmodified":1695884388,
     "wof:name":"Bogota",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

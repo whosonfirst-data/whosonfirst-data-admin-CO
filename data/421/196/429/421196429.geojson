@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003865,
-    "geom:area_square_m":47563820.30356,
+    "geom:area_square_m":47563820.303548,
     "geom:bbox":"-73.4984958191,5.54725256086,-73.3952965483,5.61976955569",
     "geom:latitude":5.580136,
     "geom:longitude":-73.443596,
@@ -146,12 +146,13 @@
         "hasc:id":"CO.BY.TJ",
         "qs_pg:id":1199124
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009881,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1078d7a5be3e7aa1c45dea5d8e0c0c68",
+    "wof:geomhash":"d0a66168b348f01582713890f586cc4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421196429,
-    "wof:lastmodified":1582393669,
+    "wof:lastmodified":1695886242,
     "wof:name":"Sora",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

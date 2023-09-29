@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005224,
-    "geom:area_square_m":64241873.585206,
+    "geom:area_square_m":64241873.585183,
     "geom:bbox":"-73.0091746604,5.92243801834,-72.9141690672,6.01873083918",
     "geom:latitude":5.961796,
     "geom:longitude":-72.96431,
@@ -112,9 +112,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502943,
-    "wof:geomhash":"bfaeb6dfd553fb47957d76fe897f277a",
+    "wof:geomhash":"3b3ac6e179f1fc3e47a179f7cffa64df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108700207,
-    "wof:lastmodified":1566707552,
+    "wof:lastmodified":1695886068,
     "wof:name":"Cerinza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

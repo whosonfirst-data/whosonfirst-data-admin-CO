@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097294,
-    "geom:area_square_m":1199376415.108717,
+    "geom:area_square_m":1199376305.82703,
     "geom:bbox":"-73.604133,4.278306,-73.19229,4.678888",
     "geom:latitude":4.485226,
     "geom:longitude":-73.405684,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CU.ME",
         "wd:id":"Q1579406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503371,
-    "wof:geomhash":"dd44d1714abc54fb9bb258b6f396f284",
+    "wof:geomhash":"b9a98b78e2977ce37b640a77baab8a33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700683,
-    "wof:lastmodified":1690868064,
+    "wof:lastmodified":1695886091,
     "wof:name":"Medina",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

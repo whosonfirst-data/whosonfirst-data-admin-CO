@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074386,
-    "geom:area_square_m":917188625.103958,
+    "geom:area_square_m":917188127.540054,
     "geom:bbox":"-73.124462,4.149902,-72.740195,4.467057",
     "geom:latitude":4.315336,
     "geom:longitude":-72.952466,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.ME.CA",
         "wd:id":"Q517693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503611,
-    "wof:geomhash":"9542c374f68eb1a277b0e81e7999c229",
+    "wof:geomhash":"0ed6799281b956adc0f30e5c278b92cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700927,
-    "wof:lastmodified":1690868059,
+    "wof:lastmodified":1695886087,
     "wof:name":"Cabuyaro",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045691,
-    "geom:area_square_m":562459795.90418,
+    "geom:area_square_m":562459901.336637,
     "geom:bbox":"-76.086982,5.244739,-75.833007,5.568041",
     "geom:latitude":5.414278,
     "geom:longitude":-75.960078,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.RI.MI",
         "wd:id":"Q923166"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503840,
-    "wof:geomhash":"a086f0ec686e3af36c71214e3fa81f61",
+    "wof:geomhash":"759d94e1de70c2d583cc2e05aad91965",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701175,
-    "wof:lastmodified":1690868005,
+    "wof:lastmodified":1695886030,
     "wof:name":"Mistrat\u00f3",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

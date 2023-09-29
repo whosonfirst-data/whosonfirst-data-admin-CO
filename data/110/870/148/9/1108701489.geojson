@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014816,
-    "geom:area_square_m":182523425.319286,
+    "geom:area_square_m":182523271.383099,
     "geom:bbox":"-76.139407,4.828861,-75.987355,5.036871",
     "geom:latitude":4.916745,
     "geom:longitude":-76.065203,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.VC.EA",
         "wd:id":"Q1578199"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504102,
-    "wof:geomhash":"1e511718f04363974762fd58b5786158",
+    "wof:geomhash":"de16db4e16f1fc106ce3949f008bc222",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701489,
-    "wof:lastmodified":1690868080,
+    "wof:lastmodified":1695886107,
     "wof:name":"El Aguila",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

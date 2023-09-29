@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011227,
-    "geom:area_square_m":138177284.040204,
+    "geom:area_square_m":138177284.040278,
     "geom:bbox":"-74.1752043402,5.43279002269,-74.0459668606,5.60548516479",
     "geom:latitude":5.524958,
     "geom:longitude":-74.116128,
@@ -102,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.MP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503005,
-    "wof:geomhash":"c0db83aa55cd358657707278f9ee74b8",
+    "wof:geomhash":"3191634cce9f80dbdf7fc494d084b868",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108700277,
-    "wof:lastmodified":1566707553,
+    "wof:lastmodified":1695886069,
     "wof:name":"Muzo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

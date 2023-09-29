@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021779,
-    "geom:area_square_m":268732559.838975,
+    "geom:area_square_m":268732293.948162,
     "geom:bbox":"-76.32414,3.665851,-76.081446,3.832391",
     "geom:latitude":3.744163,
     "geom:longitude":-76.191351,
@@ -153,12 +153,13 @@
         "wd:id":"Q1525670",
         "wk:page":"Ginebra, Valle del Cauca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010200,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa0d74f96119dad07c2fd9cc474b73db",
+    "wof:geomhash":"b6d87a87890fdd685829038399454e65",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421204845,
-    "wof:lastmodified":1690868139,
+    "wof:lastmodified":1695886213,
     "wof:name":"Ginebra",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

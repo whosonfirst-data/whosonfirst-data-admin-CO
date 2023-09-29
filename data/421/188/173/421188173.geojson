@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047102,
-    "geom:area_square_m":573673578.629338,
+    "geom:area_square_m":573673550.382587,
     "geom:bbox":"-74.035054,9.780562,-73.739063,10.076268",
     "geom:latitude":9.946355,
     "geom:longitude":-73.868601,
@@ -154,12 +154,13 @@
         "qs_pg:id":12275,
         "wd:id":"Q1391851"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009536,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0efde53d7bdf238943af83293f10fa6a",
+    "wof:geomhash":"a892d36097d857e9f4c706062e4edb56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421188173,
-    "wof:lastmodified":1690868213,
+    "wof:lastmodified":1695886234,
     "wof:name":"Bosconia",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

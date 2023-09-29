@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005413,
-    "geom:area_square_m":66496251.235147,
+    "geom:area_square_m":66496251.235226,
     "geom:bbox":"-73.2823981822,6.50975838238,-73.2039605354,6.62888824401",
     "geom:latitude":6.562323,
     "geom:longitude":-73.249981,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503862,
-    "wof:geomhash":"5b7baf73fbcc6d4cb85313bd9a61c26c",
+    "wof:geomhash":"bc3ebf5826745399822d526f9b66c6bf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108701201,
-    "wof:lastmodified":1566707506,
+    "wof:lastmodified":1695886023,
     "wof:name":"Cabrera",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

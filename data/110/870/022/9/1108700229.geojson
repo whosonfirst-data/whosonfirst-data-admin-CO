@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.09658,
-    "geom:area_square_m":1185612525.738454,
+    "geom:area_square_m":1185612443.2407,
     "geom:bbox":"-72.502022,6.698258,-71.945457,7.054841",
     "geom:latitude":6.886811,
     "geom:longitude":-72.181577,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.BY.CU",
         "wd:id":"Q1576256"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502961,
-    "wof:geomhash":"92ae4e9222a8df10cb00421891fb36d8",
+    "wof:geomhash":"d3961e294258c15f752a2aa00381eb98",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700229,
-    "wof:lastmodified":1690867956,
+    "wof:lastmodified":1695885994,
     "wof:name":"Cubar\u00e1",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

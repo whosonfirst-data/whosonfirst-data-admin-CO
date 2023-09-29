@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006195,
-    "geom:area_square_m":76198106.979186,
+    "geom:area_square_m":76198060.11414,
     "geom:bbox":"-75.578076,5.861937,-75.475342,5.976599",
     "geom:latitude":5.91769,
     "geom:longitude":-75.519743,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.AN.MO",
         "wd:id":"Q1577236"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502733,
-    "wof:geomhash":"3624ae5330c3095a0c61b6dfb03e73f6",
+    "wof:geomhash":"7bef3fff606879d1204587b04981ebf4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108699977,
-    "wof:lastmodified":1690867924,
+    "wof:lastmodified":1695886619,
     "wof:name":"Montebello",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00826,
-    "geom:area_square_m":102108517.71349,
+    "geom:area_square_m":102108676.030581,
     "geom:bbox":"-77.513498,1.227793,-77.374882,1.37032",
     "geom:latitude":1.288785,
     "geom:longitude":-77.457101,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.NA.SD",
         "wd:id":"Q1441195"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503727,
-    "wof:geomhash":"fd3620cec87d33cf0ce1a0e2573b5be3",
+    "wof:geomhash":"567aea423cb32eea10e04dac5d947e10",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108701067,
-    "wof:lastmodified":1690868021,
+    "wof:lastmodified":1695886054,
     "wof:name":"Sandon\u00e1",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

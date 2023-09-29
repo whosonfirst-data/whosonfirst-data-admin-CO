@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138779,
-    "geom:area_square_m":1695460323.149742,
+    "geom:area_square_m":1695460513.28879,
     "geom:bbox":"-73.578032,8.403329,-73.003236,9.29114",
     "geom:latitude":8.876025,
     "geom:longitude":-73.342025,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.NS.EC",
         "wd:id":"Q1525675"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503762,
-    "wof:geomhash":"b38e836d9178288323609b35ef10ce73",
+    "wof:geomhash":"c8d76aebe840828a7ad9d87c394158c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108701109,
-    "wof:lastmodified":1690868002,
+    "wof:lastmodified":1695886028,
     "wof:name":"El Carmen",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

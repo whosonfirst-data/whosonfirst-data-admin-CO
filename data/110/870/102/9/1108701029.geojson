@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025093,
-    "geom:area_square_m":310097933.829977,
+    "geom:area_square_m":310097910.554097,
     "geom:bbox":"-77.421242,1.83062,-77.203472,2.125034",
     "geom:latitude":1.938605,
     "geom:longitude":-77.31201,
@@ -105,9 +105,10 @@
         "hasc:id":"CO.NA.LE",
         "wd:id":"Q1526208"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503699,
-    "wof:geomhash":"c89a0ad9c397f62b5ea65471af6c5921",
+    "wof:geomhash":"d53e63d9dd335f23b9d727ff9b2e3b15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1108701029,
-    "wof:lastmodified":1690867939,
+    "wof:lastmodified":1695885979,
     "wof:name":"Leiva",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

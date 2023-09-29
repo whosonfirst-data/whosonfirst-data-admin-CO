@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014895,
-    "geom:area_square_m":183552423.951773,
+    "geom:area_square_m":183552516.279346,
     "geom:bbox":"-74.819793,4.586247,-74.680408,4.842664",
     "geom:latitude":4.718888,
     "geom:longitude":-74.756389,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.CU.BE",
         "wd:id":"Q432570"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503304,
-    "wof:geomhash":"1fcb7e4178b977735d18ac945f832e7c",
+    "wof:geomhash":"d3eac50636a237bd9886ac43d67e5ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700625,
-    "wof:lastmodified":1690867971,
+    "wof:lastmodified":1695886005,
     "wof:name":"Beltr\u00e1n",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

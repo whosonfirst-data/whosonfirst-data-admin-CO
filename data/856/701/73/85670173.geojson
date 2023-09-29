@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291676,
-    "geom:area_square_m":3592407595.98636,
+    "geom:area_square_m":3592407242.453104,
     "geom:bbox":"-76.211543,4.664642,-75.376092,5.568041",
     "geom:latitude":5.084073,
     "geom:longitude":-75.842199,
@@ -355,17 +355,19 @@
         "gn:id":3670698,
         "gp:id":2345069,
         "hasc:id":"CO.RI",
+        "iso:code":"CO-RIS",
         "iso:id":"CO-RIS",
         "qs_pg:id":1083813,
         "unlc:id":"CO-RIS",
         "wd:id":"Q13993",
         "wk:page":"Risaralda Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae5ec9a83a43107e0645fa402d6d4ebd",
+    "wof:geomhash":"5f26ecec40ac9dac55ce1e7e35b20880",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -380,7 +382,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867895,
+    "wof:lastmodified":1695884387,
     "wof:name":"Risaralda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

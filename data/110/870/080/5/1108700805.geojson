@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06227,
-    "geom:area_square_m":768825080.145992,
+    "geom:area_square_m":768825258.64747,
     "geom:bbox":"-75.166634,2.887205,-74.82652,3.290017",
     "geom:latitude":3.133806,
     "geom:longitude":-74.968287,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.HU.BA",
         "wd:id":"Q977818"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503496,
-    "wof:geomhash":"b1668d1d3dc754b971a68debfbefd865",
+    "wof:geomhash":"7c3f65dfbbb501b20d0551cecafc3963",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700805,
-    "wof:lastmodified":1690868036,
+    "wof:lastmodified":1695886068,
     "wof:name":"Baraya",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

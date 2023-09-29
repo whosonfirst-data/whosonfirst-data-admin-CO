@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005542,
-    "geom:area_square_m":67286996.485409,
+    "geom:area_square_m":67286926.960978,
     "geom:bbox":"-74.841571,10.864783,-74.713238,10.945086",
     "geom:latitude":10.904777,
     "geom:longitude":-74.771838,
@@ -228,12 +228,13 @@
         "wd:id":"Q767071",
         "wk:page":"Soledad, Atl\u00e1ntico"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009670,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e4a86d680e73df5747d4b714b1fccbfa",
+    "wof:geomhash":"fbd180bf40b2c246bd93c2e2b03c815a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -243,7 +244,7 @@
         }
     ],
     "wof:id":421190815,
-    "wof:lastmodified":1690868264,
+    "wof:lastmodified":1695886227,
     "wof:name":"Soledad",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

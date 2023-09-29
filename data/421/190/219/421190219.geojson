@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.50877,
-    "geom:area_square_m":6278457571.125796,
+    "geom:area_square_m":6278457689.043843,
     "geom:bbox":"-77.545051,3.108639,-76.687999,4.234053",
     "geom:latitude":3.611075,
     "geom:longitude":-77.085211,
@@ -181,12 +181,13 @@
         "qs_pg:id":1119063,
         "wd:id":"Q355272"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd3713a667fb33a0ea28d073802ea44b",
+    "wof:geomhash":"48d74195b690a2f115e83690253146ae",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421190219,
-    "wof:lastmodified":1690868261,
+    "wof:lastmodified":1695886244,
     "wof:name":"Buenaventura",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

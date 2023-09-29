@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020805,
-    "geom:area_square_m":255995052.051404,
+    "geom:area_square_m":255995055.459526,
     "geom:bbox":"-75.803772,5.548257,-75.638955,5.801065",
     "geom:latitude":5.674549,
     "geom:longitude":-75.709741,
@@ -188,12 +188,13 @@
         "qs_pg:id":401532,
         "wd:id":"Q1526001"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009758,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"093e9a0e65971923d9ef11173792a178",
+    "wof:geomhash":"edbb7dcd48a60247758acd3cd2240575",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":421193049,
-    "wof:lastmodified":1690868117,
+    "wof:lastmodified":1695886207,
     "wof:name":"T\u00e1mesis",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

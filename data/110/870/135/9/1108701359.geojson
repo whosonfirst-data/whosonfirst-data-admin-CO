@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039508,
-    "geom:area_square_m":485854082.443925,
+    "geom:area_square_m":485854082.443945,
     "geom:bbox":"-74.1268955104,5.86069876978,-73.7556628925,6.17137053318",
     "geom:latitude":5.987734,
     "geom:longitude":-73.967759,
@@ -371,9 +371,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503968,
-    "wof:geomhash":"597e919c60b97ff46331b23fbb4d943e",
+    "wof:geomhash":"0d910eba067678760406b808fa73587f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -383,7 +384,7 @@
         }
     ],
     "wof:id":1108701359,
-    "wof:lastmodified":1566707439,
+    "wof:lastmodified":1695885974,
     "wof:name":"Sucre",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

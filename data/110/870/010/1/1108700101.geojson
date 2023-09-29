@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014045,
-    "geom:area_square_m":170897296.804745,
+    "geom:area_square_m":170897336.365068,
     "geom:bbox":"-75.109922,10.156725,-74.955435,10.330595",
     "geom:latitude":10.240779,
     "geom:longitude":-75.030065,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.BL.CM",
         "wd:id":"Q476071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502855,
-    "wof:geomhash":"40b8e8484cc9154bf666152e7bae7e80",
+    "wof:geomhash":"73e970defc3a0597cb83ca6f4993f74d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700101,
-    "wof:lastmodified":1690868049,
+    "wof:lastmodified":1695886078,
     "wof:name":"Arroyohondo",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

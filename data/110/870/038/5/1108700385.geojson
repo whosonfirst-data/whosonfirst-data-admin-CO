@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003098,
-    "geom:area_square_m":38133202.95118,
+    "geom:area_square_m":38133177.291959,
     "geom:bbox":"-75.640976,5.446282,-75.576008,5.532357",
     "geom:latitude":5.491621,
     "geom:longitude":-75.602889,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CL.PC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503106,
-    "wof:geomhash":"fa9def13952e5ec5c472473a4a848311",
+    "wof:geomhash":"2454918cf0520664905cd65500769c26",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108700385,
-    "wof:lastmodified":1627522018,
+    "wof:lastmodified":1695886514,
     "wof:name":"Marmato",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

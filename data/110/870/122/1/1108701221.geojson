@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00779,
-    "geom:area_square_m":95788047.878775,
+    "geom:area_square_m":95788055.07205,
     "geom:bbox":"-73.694611,6.017368,-73.575672,6.130701",
     "geom:latitude":6.067809,
     "geom:longitude":-73.632309,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.ST.CP",
         "wd:id":"Q2430935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503875,
-    "wof:geomhash":"00530642c700a284748ca022d25c5e73",
+    "wof:geomhash":"f5c126e8189c437973d5579545d30d81",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701221,
-    "wof:lastmodified":1690868085,
+    "wof:lastmodified":1695886110,
     "wof:name":"Chipat\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

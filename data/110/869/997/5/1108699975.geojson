@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033231,
-    "geom:area_square_m":408234910.75731,
+    "geom:area_square_m":408234747.633285,
     "geom:bbox":"-74.873381,6.394534,-74.560214,6.656267",
     "geom:latitude":6.536356,
     "geom:longitude":-74.718993,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.AN.MC",
         "wd:id":"Q1576486"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502730,
-    "wof:geomhash":"683512d551b15d49a30e4276690e0dec",
+    "wof:geomhash":"1272e1c5756ff2444694372e2ea1b3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108699975,
-    "wof:lastmodified":1690867924,
+    "wof:lastmodified":1695886618,
     "wof:name":"Maceo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049643,
-    "geom:area_square_m":611711383.98208,
+    "geom:area_square_m":611711239.317412,
     "geom:bbox":"-75.935622,4.664642,-75.377109,4.905904",
     "geom:latitude":4.781364,
     "geom:longitude":-75.713614,
@@ -307,12 +307,13 @@
         "wd:id":"Q51111",
         "wk:page":"Pereira, Colombia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009525,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"166c9993cb3cfe02f4919f9ad0e017e4",
+    "wof:geomhash":"2583493ab408c26b3709ca0e83400ef5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -322,7 +323,7 @@
         }
     ],
     "wof:id":421187825,
-    "wof:lastmodified":1690868192,
+    "wof:lastmodified":1695886230,
     "wof:name":"Pereira",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

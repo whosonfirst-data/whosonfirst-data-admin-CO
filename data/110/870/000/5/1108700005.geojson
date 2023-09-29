@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05875,
-    "geom:area_square_m":722211282.469753,
+    "geom:area_square_m":722211299.29785,
     "geom:bbox":"-75.121737,6.04157,-74.712167,6.33904",
     "geom:latitude":6.193679,
     "geom:longitude":-74.906669,
@@ -170,9 +170,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502761,
-    "wof:geomhash":"a60c27fb9e17b53b82520f195065e2bf",
+    "wof:geomhash":"cc3d0e52493d71aada660aabc299e4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1108700005,
-    "wof:lastmodified":1636506764,
+    "wof:lastmodified":1695886203,
     "wof:name":"San Carlos",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

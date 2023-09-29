@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003529,
-    "geom:area_square_m":43630866.471639,
+    "geom:area_square_m":43630866.471599,
     "geom:bbox":"-77.6232898459,1.17017470457,-77.5715220553,1.31362858825",
     "geom:latitude":1.232835,
     "geom:longitude":-77.598121,
@@ -109,9 +109,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503716,
-    "wof:geomhash":"4bcba355b7bca0f72d467ada4986032d",
+    "wof:geomhash":"e97f5dcca6402d32e0fc89abc30c95da",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108701053,
-    "wof:lastmodified":1566707452,
+    "wof:lastmodified":1695885981,
     "wof:name":"Providencia",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

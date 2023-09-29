@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010023,
-    "geom:area_square_m":123013179.918825,
+    "geom:area_square_m":123013136.222788,
     "geom:bbox":"-75.765537,6.92661,-75.656083,7.088894",
     "geom:latitude":7.016756,
     "geom:longitude":-75.713139,
@@ -206,9 +206,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502793,
-    "wof:geomhash":"901b513812edc85b560ab7a49bcf8020",
+    "wof:geomhash":"df322150ca52bcce615e3a9fba4dcd7a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":1108700025,
-    "wof:lastmodified":1636506772,
+    "wof:lastmodified":1695886215,
     "wof:name":"Toledo",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

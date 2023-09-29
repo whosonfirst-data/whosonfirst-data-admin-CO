@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039333,
-    "geom:area_square_m":477706559.116766,
+    "geom:area_square_m":477706450.656597,
     "geom:bbox":"-72.921562,10.646815,-72.674455,11.036373",
     "geom:latitude":10.826699,
     "geom:longitude":-72.800652,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.LG.FO",
         "wd:id":"Q1441074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503552,
-    "wof:geomhash":"f160ebbccf87dec7951a41e370f4f0f6",
+    "wof:geomhash":"3009ebf07927960a5e139bfce79a3d9a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700861,
-    "wof:lastmodified":1690868044,
+    "wof:lastmodified":1695886074,
     "wof:name":"Fonseca",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

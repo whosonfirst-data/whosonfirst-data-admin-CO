@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004833,
-    "geom:area_square_m":59496736.589925,
+    "geom:area_square_m":59496736.589926,
     "geom:bbox":"-73.4246489831,5.31537327031,-73.324585293,5.43257700422",
     "geom:latitude":5.377735,
     "geom:longitude":-73.377047,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.RM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502985,
-    "wof:geomhash":"c221d81c85b7ae05719d5fb7993ea633",
+    "wof:geomhash":"210c75ccd2c18708fe37e9ce36e1a060",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108700251,
-    "wof:lastmodified":1566707474,
+    "wof:lastmodified":1695885994,
     "wof:name":"Jenesano",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

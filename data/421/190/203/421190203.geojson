@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002834,
-    "geom:area_square_m":34870877.81186,
+    "geom:area_square_m":34870848.306937,
     "geom:bbox":"-73.005464,5.59012,-72.923666,5.648982",
     "geom:latitude":5.617117,
     "geom:longitude":-72.969563,
@@ -137,12 +137,13 @@
         "qs_pg:id":1118967,
         "wd:id":"Q564660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ceabf5568c35f19a85bdcd3719f2d364",
+    "wof:geomhash":"44156a9f7131e047b05dd632800e3afd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421190203,
-    "wof:lastmodified":1690868262,
+    "wof:lastmodified":1695886244,
     "wof:name":"Iza",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

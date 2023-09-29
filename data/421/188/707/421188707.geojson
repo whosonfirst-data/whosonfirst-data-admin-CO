@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032871,
-    "geom:area_square_m":405783004.9801,
+    "geom:area_square_m":405782749.903832,
     "geom:bbox":"-76.348332,3.211246,-76.039101,3.389158",
     "geom:latitude":3.304201,
     "geom:longitude":-76.166182,
@@ -168,12 +168,13 @@
         "wd:id":"Q1093490",
         "wk:page":"Florida, Valle del Cauca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009575,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d8a249ae43a5356c5a823ad7e944c2b",
+    "wof:geomhash":"bd023abfc92f8ff9d5127ad20acaaa97",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":421188707,
-    "wof:lastmodified":1690868208,
+    "wof:lastmodified":1695886223,
     "wof:name":"Florida",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

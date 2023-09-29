@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096281,
-    "geom:area_square_m":1180414709.514445,
+    "geom:area_square_m":1180415563.462086,
     "geom:bbox":"-75.128683,7.263749,-74.615075,7.725495",
     "geom:latitude":7.475179,
     "geom:longitude":-74.858034,
@@ -169,12 +169,13 @@
         "qs_pg:id":13874,
         "wd:id":"Q1441664"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0010931b723305f794e8df7b89ffaec",
+    "wof:geomhash":"8b76fca42055715261875085d528a680",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421177931,
-    "wof:lastmodified":1690868321,
+    "wof:lastmodified":1695886261,
     "wof:name":"Zaragoza",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

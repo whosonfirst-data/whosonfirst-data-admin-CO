@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093752,
-    "geom:area_square_m":1153861888.576781,
+    "geom:area_square_m":1153861778.324115,
     "geom:bbox":"-72.344335,5.335228,-71.834706,5.728791",
     "geom:latitude":5.531458,
     "geom:longitude":-72.09883,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CS.NU",
         "wd:id":"Q1575548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504159,
-    "wof:geomhash":"752040edc5c5b082b9f1d36e280a040c",
+    "wof:geomhash":"5fd323a341b3390a9a2c39c4483bb446",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701533,
-    "wof:lastmodified":1690868006,
+    "wof:lastmodified":1695886032,
     "wof:name":"Nunch\u00eda",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

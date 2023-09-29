@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010832,
-    "geom:area_square_m":133562170.394416,
+    "geom:area_square_m":133562154.257571,
     "geom:bbox":"-73.903246,4.254665,-73.791681,4.40695",
     "geom:latitude":4.336739,
     "geom:longitude":-73.850259,
@@ -137,12 +137,13 @@
         "qs_pg:id":1015098,
         "wd:id":"Q1577699"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009428,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8127a02e0a02c7b67c4a5d7c475eaa6d",
+    "wof:geomhash":"771cc15946d1cc6e385cc2913e1261f5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421184957,
-    "wof:lastmodified":1690868299,
+    "wof:lastmodified":1695886252,
     "wof:name":"Quetame",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.509723,
-    "geom:area_square_m":55729991287.314117,
+    "geom:area_square_m":55729992393.039757,
     "geom:bbox":"-73.661217,0.653493,-69.99451,2.924801",
     "geom:latitude":1.924654,
     "geom:longitude":-72.127319,
@@ -352,16 +352,18 @@
         "gn:id":3681344,
         "gp:id":2345059,
         "hasc:id":"CO.GV",
+        "iso:code":"CO-GUV",
         "iso:id":"CO-GUV",
         "qs_pg:id":1134999,
         "unlc:id":"CO-GUV",
         "wd:id":"Q272885"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a133179545892a773714691da18bf63",
+    "wof:geomhash":"7227a440b34dc26b0fecd3778b92c89b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -376,7 +378,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867907,
+    "wof:lastmodified":1695884392,
     "wof:name":"Guaviare",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

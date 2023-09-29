@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.259274,
-    "geom:area_square_m":3181836568.978643,
+    "geom:area_square_m":3181836568.978151,
     "geom:bbox":"-77.416112,6.767141,-76.514988,7.313839",
     "geom:latitude":7.033285,
     "geom:longitude":-76.974657,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CH.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503456,
-    "wof:geomhash":"6f1b0de731a9f181163d7408d45ea7bd",
+    "wof:geomhash":"fdab6c97483fcaab4ffbcaee9c94db4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1108700755,
-    "wof:lastmodified":1627522015,
+    "wof:lastmodified":1695886509,
     "wof:name":"Carmen Del Dari\u00e9n",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

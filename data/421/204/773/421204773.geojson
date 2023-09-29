@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014425,
-    "geom:area_square_m":177125833.494974,
+    "geom:area_square_m":177125833.49493,
     "geom:bbox":"-75.4008973012,6.67705872795,-75.2289198616,6.82314008233",
     "geom:latitude":6.757591,
     "geom:longitude":-75.3143,
@@ -146,12 +146,13 @@
         "wd:id":"Q1655875",
         "wk:page":"Carolina del Pr\u00edncipe, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010197,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c36581e1019bfc292ff69c2dc5dffa97",
+    "wof:geomhash":"7c78a4199d327741babdbc0090f3936a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421204773,
-    "wof:lastmodified":1582393651,
+    "wof:lastmodified":1695886214,
     "wof:name":"Carolina",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

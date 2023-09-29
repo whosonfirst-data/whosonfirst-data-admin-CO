@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045176,
-    "geom:area_square_m":552901421.873321,
+    "geom:area_square_m":552901421.873188,
     "geom:bbox":"-73.6549873184,8.06089315494,-73.3584447259,8.36803771142",
     "geom:latitude":8.201132,
     "geom:longitude":-73.487421,
@@ -122,9 +122,10 @@
         "hasc:id":"CO.CE.RI",
         "wd:id":"Q1526621"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503239,
-    "wof:geomhash":"024f653123fd515cf4ffc1115f7ee322",
+    "wof:geomhash":"cbea583fb3f3f95f128c5c4ea0b205b2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108700551,
-    "wof:lastmodified":1566707493,
+    "wof:lastmodified":1695886011,
     "wof:name":"R\u00edo De Oro",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

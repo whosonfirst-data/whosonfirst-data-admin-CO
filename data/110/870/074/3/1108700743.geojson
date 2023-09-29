@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035194,
-    "geom:area_square_m":433127849.864498,
+    "geom:area_square_m":433128102.066062,
     "geom:bbox":"-76.708961,5.400617,-76.477596,5.694476",
     "geom:latitude":5.559851,
     "geom:longitude":-76.60624,
@@ -242,9 +242,10 @@
         "hasc:id":"CO.CH.QU",
         "wd:id":"Q816420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503446,
-    "wof:geomhash":"e605360e21f0f06e5aba5d21e5f1a88f",
+    "wof:geomhash":"0011096bd66aa0ed108a41b46fae6f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -254,7 +255,7 @@
         }
     ],
     "wof:id":1108700743,
-    "wof:lastmodified":1690868035,
+    "wof:lastmodified":1695886212,
     "wof:name":"Atrato",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

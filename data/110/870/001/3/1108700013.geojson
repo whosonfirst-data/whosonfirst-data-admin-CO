@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048156,
-    "geom:area_square_m":589111503.496327,
+    "geom:area_square_m":589111503.496399,
     "geom:bbox":"-76.4251078615,8.08246234801,-76.1902044834,8.58116215548",
     "geom:latitude":8.371938,
     "geom:longitude":-76.319658,
@@ -122,9 +122,10 @@
         "hasc:id":"CO.AN.SU",
         "wd:id":"Q1391914"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502770,
-    "wof:geomhash":"4c777c3389b0054cfc1bd80cc5339fde",
+    "wof:geomhash":"071cdbb3a90ea69abda32360e106c5ed",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108700013,
-    "wof:lastmodified":1566707498,
+    "wof:lastmodified":1695886017,
     "wof:name":"San Pedro De Urab\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

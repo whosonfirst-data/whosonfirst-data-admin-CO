@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032182,
-    "geom:area_square_m":397692564.710568,
+    "geom:area_square_m":397692402.98351,
     "geom:bbox":"-76.426046,1.854396,-76.076472,2.279089",
     "geom:latitude":2.006084,
     "geom:longitude":-76.249767,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.HU.IS",
         "wd:id":"Q953401"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503508,
-    "wof:geomhash":"5050340791380c1a6e9eabdc219fc647",
+    "wof:geomhash":"e0be476dca4b1d92a501bf50d4cf8e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700819,
-    "wof:lastmodified":1690868041,
+    "wof:lastmodified":1695886073,
     "wof:name":"Isnos",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

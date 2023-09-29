@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01073,
-    "geom:area_square_m":131915935.970607,
+    "geom:area_square_m":131915935.970611,
     "geom:bbox":"-72.6561735254,6.06890744135,-72.5129280571,6.20618978445",
     "geom:latitude":6.144517,
     "geom:longitude":-72.585834,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502986,
-    "wof:geomhash":"dd9a736b3f6a39abb950b561c233103d",
+    "wof:geomhash":"3a44e7cc7683608cb326e94f79efdf33",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1108700255,
-    "wof:lastmodified":1566707474,
+    "wof:lastmodified":1695885994,
     "wof:name":"Jeric\u00f3",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

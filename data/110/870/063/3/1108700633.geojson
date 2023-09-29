@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004303,
-    "geom:area_square_m":53024607.318577,
+    "geom:area_square_m":53024600.943145,
     "geom:bbox":"-74.511385,4.675407,-74.403142,4.78204",
     "geom:latitude":4.72327,
     "geom:longitude":-74.459363,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.CU.CA",
         "wd:id":"Q425657"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503310,
-    "wof:geomhash":"beba8694ef2d5befca414f411fe6d7d0",
+    "wof:geomhash":"1eccb8dc4713dfc18e7553458de5dd45",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700633,
-    "wof:lastmodified":1690867982,
+    "wof:lastmodified":1695886013,
     "wof:name":"Cachipay",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

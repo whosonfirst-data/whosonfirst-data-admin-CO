@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009944,
-    "geom:area_square_m":121332117.271348,
+    "geom:area_square_m":121332117.271458,
     "geom:bbox":"-75.0085082576,9.19967403848,-74.8821579536,9.44487375129",
     "geom:latitude":9.33612,
     "geom:longitude":-74.948155,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"CO.SU.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503981,
-    "wof:geomhash":"5c662ba9f379dda1837f66bc0f2d49fc",
+    "wof:geomhash":"5b660c9a9875fb0d21bc5d14b9860ccc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108701377,
-    "wof:lastmodified":1566707539,
+    "wof:lastmodified":1695886056,
     "wof:name":"Buenavista",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

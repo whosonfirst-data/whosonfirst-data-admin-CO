@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020507,
-    "geom:area_square_m":249199602.073856,
+    "geom:area_square_m":249199602.074016,
     "geom:bbox":"-74.4506704028,10.5348235497,-74.1898444396,10.767614766",
     "geom:latitude":10.661102,
     "geom:longitude":-74.323799,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"CO.MA.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503577,
-    "wof:geomhash":"a7768ce401cbbb1fabecfa94eb648911",
+    "wof:geomhash":"583648dc6a14abbeb3c982573de8a3c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108700887,
-    "wof:lastmodified":1566707562,
+    "wof:lastmodified":1695886076,
     "wof:name":"El Ret\u00e9n",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020638,
-    "geom:area_square_m":252255086.42906,
+    "geom:area_square_m":252255086.429278,
     "geom:bbox":"-76.629640044,8.60296974067,-76.4282351489,8.8183601098",
     "geom:latitude":8.70704,
     "geom:longitude":-76.532638,
@@ -122,9 +122,10 @@
         "hasc:id":"CO.AN.SX",
         "wd:id":"Q1441760"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502767,
-    "wof:geomhash":"9a4a4ffd33eafbec22e3fdfcba6b9f0c",
+    "wof:geomhash":"c3b2dc4f2e3dd61080ddaf188cf64378",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108700011,
-    "wof:lastmodified":1566707498,
+    "wof:lastmodified":1695886017,
     "wof:name":"San Juan De Urab\u00e1",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

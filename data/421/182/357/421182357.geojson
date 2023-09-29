@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254898,
-    "geom:area_square_m":3091367088.152626,
+    "geom:area_square_m":3091366817.174955,
     "geom:bbox":"-73.385603,10.910717,-72.602551,11.560379",
     "geom:latitude":11.243315,
     "geom:longitude":-72.958452,
@@ -281,12 +281,13 @@
         "qs_pg:id":902676,
         "wd:id":"Q826566"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009327,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30f41b4519891adfedfc2a0adebcf65f",
+    "wof:geomhash":"ddb8271f99c557aaaeadd059007dcf53",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -296,7 +297,7 @@
         }
     ],
     "wof:id":421182357,
-    "wof:lastmodified":1690868353,
+    "wof:lastmodified":1695886266,
     "wof:name":"Riohacha",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

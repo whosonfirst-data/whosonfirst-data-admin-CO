@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004662,
-    "geom:area_square_m":57424223.292752,
+    "geom:area_square_m":57424190.369244,
     "geom:bbox":"-73.471664,4.906797,-73.37651,5.015981",
     "geom:latitude":4.971283,
     "geom:longitude":-73.428263,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.BY.SK",
         "wd:id":"Q1654735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503061,
-    "wof:geomhash":"0423effc8ec46adde02e103217bffe21",
+    "wof:geomhash":"31271b9d480493ec03ad794a5cfb9932",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700341,
-    "wof:lastmodified":1690868064,
+    "wof:lastmodified":1695886091,
     "wof:name":"Somondoco",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

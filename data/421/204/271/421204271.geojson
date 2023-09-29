@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014088,
-    "geom:area_square_m":173263493.867473,
+    "geom:area_square_m":173263385.918932,
     "geom:bbox":"-75.427584,5.85763,-75.269713,6.045338",
     "geom:latitude":5.941077,
     "geom:longitude":-75.353622,
@@ -199,12 +199,13 @@
         "wd:id":"Q2143798",
         "wk:page":"La Uni\u00f3n, Antioquia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b02a27b525d0ca420ccb6c297294555",
+    "wof:geomhash":"c5bd3f5ad9d822c0616059ef1d3a761a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":421204271,
-    "wof:lastmodified":1690868146,
+    "wof:lastmodified":1695886220,
     "wof:name":"La Union",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

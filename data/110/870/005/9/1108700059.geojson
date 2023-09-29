@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013967,
-    "geom:area_square_m":169637919.226335,
+    "geom:area_square_m":169637810.346754,
     "geom:bbox":"-75.216753,10.765712,-74.984245,10.887267",
     "geom:latitude":10.82407,
     "geom:longitude":-75.075521,
@@ -112,9 +112,10 @@
         "hasc:id":"CO.AT.JU",
         "wd:id":"Q2320402"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502820,
-    "wof:geomhash":"191846dcaeb5cc08e83caf3506cb79db",
+    "wof:geomhash":"943fd1a506900f84cd9e52b2fc004402",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108700059,
-    "wof:lastmodified":1690868066,
+    "wof:lastmodified":1695886092,
     "wof:name":"Juan De Acosta",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

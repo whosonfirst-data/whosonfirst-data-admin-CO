@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008359,
-    "geom:area_square_m":102696878.975412,
+    "geom:area_square_m":102696878.975264,
     "geom:bbox":"-72.8089507119,6.44078050099,-72.679866233,6.58309088175",
     "geom:latitude":6.519388,
     "geom:longitude":-72.740191,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502960,
-    "wof:geomhash":"ab0b003fd538cabddfa25016deecfe85",
+    "wof:geomhash":"759a483f17b79f48b2879d986f976cbc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108700227,
-    "wof:lastmodified":1566707473,
+    "wof:lastmodified":1695885994,
     "wof:name":"Covarach\u00eda",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

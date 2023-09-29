@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240719,
-    "geom:area_square_m":2963491231.843519,
+    "geom:area_square_m":2963491124.740356,
     "geom:bbox":"-71.903223,5.138782,-70.604755,5.570572",
     "geom:latitude":5.366869,
     "geom:longitude":-71.195021,
@@ -147,9 +147,10 @@
         "hasc:id":"CO.CS.TR",
         "wd:id":"Q1575575"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504181,
-    "wof:geomhash":"e4a1192da2a01325cd1c0c54889b5bf9",
+    "wof:geomhash":"cf5d8daebebb5efc1346ee2ab321295e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108701555,
-    "wof:lastmodified":1690868019,
+    "wof:lastmodified":1695886208,
     "wof:name":"Trinidad",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

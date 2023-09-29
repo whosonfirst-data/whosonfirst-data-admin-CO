@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032657,
-    "geom:area_square_m":399947918.203597,
+    "geom:area_square_m":399947979.02233,
     "geom:bbox":"-73.08968,7.764502,-72.871386,8.103312",
     "geom:latitude":7.93636,
     "geom:longitude":-72.987553,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NS.VC",
         "wd:id":"Q1654451"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503804,
-    "wof:geomhash":"f58f5587b9780f937a837daffd98ee82",
+    "wof:geomhash":"4571d30dfc0afbf8d355c16773323fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701159,
-    "wof:lastmodified":1690868078,
+    "wof:lastmodified":1695886104,
     "wof:name":"Villa Caro",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

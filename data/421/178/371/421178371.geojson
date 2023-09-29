@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009833,
-    "geom:area_square_m":120947480.808828,
+    "geom:area_square_m":120947523.837418,
     "geom:bbox":"-75.886819,5.809918,-75.759618,5.939859",
     "geom:latitude":5.871204,
     "geom:longitude":-75.82891,
@@ -158,12 +158,13 @@
         "qs_pg:id":87367,
         "wd:id":"Q1578758"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009180,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"884b8273f8726326daf2c510327da057",
+    "wof:geomhash":"854b01fffcd520b57137923453238cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421178371,
-    "wof:lastmodified":1690868348,
+    "wof:lastmodified":1695886265,
     "wof:name":"Tarso",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

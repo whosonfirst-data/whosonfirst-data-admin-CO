@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014484,
-    "geom:area_square_m":177992558.117338,
+    "geom:area_square_m":177992779.21144,
     "geom:bbox":"-73.482367,6.302241,-73.320907,6.46515",
     "geom:latitude":6.373779,
     "geom:longitude":-73.415246,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.CM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503874,
-    "wof:geomhash":"c7508f245866a391bb7cd55779b2cae9",
+    "wof:geomhash":"cdeda525bb0ce194d7bfafd6cff547a1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1108701219,
-    "wof:lastmodified":1627522016,
+    "wof:lastmodified":1695886511,
     "wof:name":"Chima",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

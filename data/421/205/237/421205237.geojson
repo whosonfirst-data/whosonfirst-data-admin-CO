@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010086,
-    "geom:area_square_m":124029678.386979,
+    "geom:area_square_m":124029865.157951,
     "geom:bbox":"-72.818377,5.954893,-72.701702,6.099457",
     "geom:latitude":6.029014,
     "geom:longitude":-72.767323,
@@ -149,12 +149,13 @@
         "qs_pg:id":259793,
         "wd:id":"Q2279482"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010216,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"36b82095d9cdc4a48d05957fb7394829",
+    "wof:geomhash":"7970f897c4294aabbaeca782a51e350d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -164,7 +165,7 @@
         }
     ],
     "wof:id":421205237,
-    "wof:lastmodified":1690868168,
+    "wof:lastmodified":1695886225,
     "wof:name":"Paz De Rio",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

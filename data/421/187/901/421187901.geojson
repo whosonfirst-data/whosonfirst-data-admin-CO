@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007576,
-    "geom:area_square_m":93373379.450225,
+    "geom:area_square_m":93373282.3469,
     "geom:bbox":"-74.395048,4.548978,-74.295985,4.652783",
     "geom:latitude":4.599936,
     "geom:longitude":-74.343686,
@@ -161,12 +161,13 @@
         "qs_pg:id":1086726,
         "wd:id":"Q1525530"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee31a6b099f8a7e632c7edb02cb1b595",
+    "wof:geomhash":"f31160eaee7ec74122e011c5ece4bf86",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421187901,
-    "wof:lastmodified":1690868188,
+    "wof:lastmodified":1695886226,
     "wof:name":"San Antonio Del Tequendama",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

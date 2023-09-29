@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030856,
-    "geom:area_square_m":379876976.119126,
+    "geom:area_square_m":379876640.872625,
     "geom:bbox":"-76.894284,5.240935,-76.653884,5.514172",
     "geom:latitude":5.360559,
     "geom:longitude":-76.773006,
@@ -107,9 +107,10 @@
         "hasc:id":"CO.CH",
         "wd:id":"Q1576215"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503454,
-    "wof:geomhash":"f0f93c8983020fb6851f4c0ded785120",
+    "wof:geomhash":"334741c994f37d4b0dc793f9a2951503",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108700753,
-    "wof:lastmodified":1690868043,
+    "wof:lastmodified":1695886073,
     "wof:name":"El Cant\u00f3n Del San Pablo",
     "wof:parent_id":85670219,
     "wof:placetype":"county",

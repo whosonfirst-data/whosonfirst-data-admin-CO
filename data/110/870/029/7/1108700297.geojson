@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022832,
-    "geom:area_square_m":281029457.158915,
+    "geom:area_square_m":281029432.446706,
     "geom:bbox":"-73.163249,5.344906,-72.997051,5.649048",
     "geom:latitude":5.495148,
     "geom:longitude":-73.082861,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.BY.PE",
         "wd:id":"Q1575463"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503022,
-    "wof:geomhash":"aa688705a2915c624932ffa1fc8b2be5",
+    "wof:geomhash":"bfc7cc596ddeb779fd211197af08bf15",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700297,
-    "wof:lastmodified":1690868040,
+    "wof:lastmodified":1695886072,
     "wof:name":"Pesca",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

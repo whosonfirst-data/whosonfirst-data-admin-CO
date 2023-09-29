@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008585,
-    "geom:area_square_m":105711918.771189,
+    "geom:area_square_m":105711896.289298,
     "geom:bbox":"-73.103997,5.161164,-72.996695,5.313034",
     "geom:latitude":5.236184,
     "geom:longitude":-73.048904,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.BY.SD",
         "wd:id":"Q1656180"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503036,
-    "wof:geomhash":"9a1a44eceebc13f46786c55fc74eb91f",
+    "wof:geomhash":"4238035491924c054d449acfa0e4b169",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108700309,
-    "wof:lastmodified":1690867985,
+    "wof:lastmodified":1695886014,
     "wof:name":"San Eduardo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

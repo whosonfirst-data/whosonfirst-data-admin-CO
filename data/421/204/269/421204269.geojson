@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016633,
-    "geom:area_square_m":204634077.667356,
+    "geom:area_square_m":204634077.667274,
     "geom:bbox":"-75.8380622247,5.65385995478,-75.6656500052,5.87401417683",
     "geom:latitude":5.770033,
     "geom:longitude":-75.765337,
@@ -106,12 +106,13 @@
         "hasc:id":"CO.AN.JR",
         "qs_pg:id":238956
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01633c42b1be7fa91e11e47ff1ea7dcf",
+    "wof:geomhash":"5d05f3907d83cf0c4fa26bfb9ca7ea5b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421204269,
-    "wof:lastmodified":1582393650,
+    "wof:lastmodified":1695886212,
     "wof:name":"Jeric\u00f3",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

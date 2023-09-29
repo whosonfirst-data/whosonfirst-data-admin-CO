@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.241806,
-    "geom:area_square_m":2977515322.046257,
+    "geom:area_square_m":2977515093.72323,
     "geom:bbox":"-72.11953,5.007497,-70.909871,5.551894",
     "geom:latitude":5.232332,
     "geom:longitude":-71.594302,
@@ -115,9 +115,10 @@
         "hasc:id":"CO.CS.SL",
         "wd:id":"Q648843"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504171,
-    "wof:geomhash":"dcb9b32b47522ccbff2dc06b9df93dfe",
+    "wof:geomhash":"b3858444cacbd5adf9f700cc4b7bbf93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108701547,
-    "wof:lastmodified":1690868007,
+    "wof:lastmodified":1695886034,
     "wof:name":"San Luis De Palenque",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

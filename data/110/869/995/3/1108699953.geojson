@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003778,
-    "geom:area_square_m":46414233.47984,
+    "geom:area_square_m":46414358.407649,
     "geom:bbox":"-75.13658,6.505372,-75.033253,6.584368",
     "geom:latitude":6.5505,
     "geom:longitude":-75.082881,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.AN.CI",
         "wd:id":"Q1578727"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502694,
-    "wof:geomhash":"5840bdf9744542c75ee697f24672e20d",
+    "wof:geomhash":"64839df98f8395f1f9f59b258faa1252",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108699953,
-    "wof:lastmodified":1690867928,
+    "wof:lastmodified":1695885970,
     "wof:name":"Cisneros",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

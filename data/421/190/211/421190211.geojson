@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202395,
-    "geom:area_square_m":2492176449.371583,
+    "geom:area_square_m":2492176087.643746,
     "geom:bbox":"-72.582786,4.905524,-71.939789,5.571036",
     "geom:latitude":5.242637,
     "geom:longitude":-72.257436,
@@ -278,12 +278,13 @@
         "qs_pg:id":1118976,
         "wd:id":"Q13591"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009650,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5136c595ad2680e76548fc53c6762005",
+    "wof:geomhash":"01007589e43042ea6b4a6f94fe57086a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -293,7 +294,7 @@
         }
     ],
     "wof:id":421190211,
-    "wof:lastmodified":1690868261,
+    "wof:lastmodified":1695886226,
     "wof:name":"Yopal",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

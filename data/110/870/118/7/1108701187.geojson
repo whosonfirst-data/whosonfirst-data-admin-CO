@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013911,
-    "geom:area_square_m":170826667.308858,
+    "geom:area_square_m":170826584.25438,
     "geom:bbox":"-73.106543,6.645554,-72.93585,6.823348",
     "geom:latitude":6.716005,
     "geom:longitude":-73.011826,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.AR",
         "wd:id":"Q933015"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503853,
-    "wof:geomhash":"1792e66c414a4c4b546a1ac00a562822",
+    "wof:geomhash":"3a810bedee4f4630c044d9974f6bb367",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701187,
-    "wof:lastmodified":1690867995,
+    "wof:lastmodified":1695886022,
     "wof:name":"Aratoca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.288875,
-    "geom:area_square_m":3570506729.464582,
+    "geom:area_square_m":3570506474.086779,
     "geom:bbox":"-79.007854,1.18785,-78.255665,2.448609",
     "geom:latitude":1.633717,
     "geom:longitude":-78.613157,
@@ -195,9 +195,10 @@
         "hasc:id":"CO.NA.TC",
         "wd:id":"Q1005555"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503740,
-    "wof:geomhash":"7327338ff47892848da165b42c5152e7",
+    "wof:geomhash":"b68d76177e29cae5b4560aa4bff359d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":1108701083,
-    "wof:lastmodified":1690868026,
+    "wof:lastmodified":1695886209,
     "wof:name":"Tumaco",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

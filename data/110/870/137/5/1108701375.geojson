@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029461,
-    "geom:area_square_m":361705155.875988,
+    "geom:area_square_m":361705202.313752,
     "geom:bbox":"-73.447179,6.694618,-73.167159,7.007267",
     "geom:latitude":6.835107,
     "geom:longitude":-73.279046,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.ZA",
         "wd:id":"Q1574792"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503979,
-    "wof:geomhash":"118fb3db7759337f855474d34d2e48d7",
+    "wof:geomhash":"9f4d776061e6b2765e6fc311ba518cb1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701375,
-    "wof:lastmodified":1690868025,
+    "wof:lastmodified":1695886058,
     "wof:name":"Zapatoca",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

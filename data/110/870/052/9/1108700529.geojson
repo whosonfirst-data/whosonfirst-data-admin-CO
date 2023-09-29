@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10284,
-    "geom:area_square_m":1253349147.00062,
+    "geom:area_square_m":1253349105.078294,
     "geom:bbox":"-73.643911,9.586979,-72.941304,9.920661",
     "geom:latitude":9.727855,
     "geom:longitude":-73.250745,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.CE.BE",
         "wd:id":"Q1524772"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503218,
-    "wof:geomhash":"7430b52991a6e33a612fd024229ee04d",
+    "wof:geomhash":"d9b33ce10344c092a4a6de140d3e89d2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700529,
-    "wof:lastmodified":1690867979,
+    "wof:lastmodified":1695886010,
     "wof:name":"Becerril",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

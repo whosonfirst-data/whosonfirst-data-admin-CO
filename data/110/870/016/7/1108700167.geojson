@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19551,
-    "geom:area_square_m":2395296854.593744,
+    "geom:area_square_m":2395296828.354226,
     "geom:bbox":"-74.570383,7.342959,-73.979151,8.178808",
     "geom:latitude":7.772677,
     "geom:longitude":-74.262598,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.BL.SS",
         "wd:id":"Q1256676"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502909,
-    "wof:geomhash":"14d5220cd7a3e64e810de863e8da88d3",
+    "wof:geomhash":"c22eb6e55ca9cdaf206f79b7d45663eb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700167,
-    "wof:lastmodified":1690868039,
+    "wof:lastmodified":1695886071,
     "wof:name":"Santa Rosa Del Sur",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.251483,
-    "geom:area_square_m":3087785401.429609,
+    "geom:area_square_m":3087785401.431911,
     "geom:bbox":"-71.6929663245,6.52659883079,-70.867485152,7.05607546927",
     "geom:latitude":6.797614,
     "geom:longitude":-71.298171,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AR.PR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504140,
-    "wof:geomhash":"d3c39b9acb62d966e96b14a4b78a7f0e",
+    "wof:geomhash":"a62554e73563816f31a7224f5c435fb6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108701511,
-    "wof:lastmodified":1566707460,
+    "wof:lastmodified":1695885984,
     "wof:name":"Arauquita",
     "wof:parent_id":85670231,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.788119,
-    "geom:area_square_m":21888916801.208542,
+    "geom:area_square_m":21888916906.664944,
     "geom:bbox":"-73.637429,6.873063,-72.047051,9.29114",
     "geom:latitude":8.095303,
     "geom:longitude":-72.880507,
@@ -351,17 +351,19 @@
         "gn:id":3673798,
         "gp:id":2345066,
         "hasc:id":"CO.NS",
+        "iso:code":"CO-NSA",
         "iso:id":"CO-NSA",
         "qs_pg:id":894865,
         "unlc:id":"CO-NSA",
         "wd:id":"Q233058",
         "wk:page":"Norte de Santander Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d4586078b2879c3641fde86890370b4",
+    "wof:geomhash":"d9fea01704da3c12944919b99e586f27",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -376,7 +378,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867910,
+    "wof:lastmodified":1695884394,
     "wof:name":"Norte de Santander",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019258,
-    "geom:area_square_m":237993226.698999,
+    "geom:area_square_m":237993061.801826,
     "geom:bbox":"-76.936179,1.836531,-76.723021,1.988108",
     "geom:latitude":1.912695,
     "geom:longitude":-76.834819,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.CA.AL",
         "wd:id":"Q2308989"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503151,
-    "wof:geomhash":"a12ab32825a62631e72524a25e902bec",
+    "wof:geomhash":"7b51b6d15cc63da91ee067e751219a23",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700435,
-    "wof:lastmodified":1690868047,
+    "wof:lastmodified":1695886077,
     "wof:name":"Almaguer",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

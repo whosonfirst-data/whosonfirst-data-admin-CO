@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016842,
-    "geom:area_square_m":206841308.905597,
+    "geom:area_square_m":206841431.236291,
     "geom:bbox":"-73.398869,6.565083,-73.258214,6.783448",
     "geom:latitude":6.672872,
     "geom:longitude":-73.324905,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.ST.GL",
         "wd:id":"Q1492832"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503897,
-    "wof:geomhash":"4f2b7728b5dd435986c829dd5ff67f66",
+    "wof:geomhash":"ce8102478922050e01cf92b2184200ff",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701255,
-    "wof:lastmodified":1690868085,
+    "wof:lastmodified":1695886109,
     "wof:name":"Gal\u00e1n",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

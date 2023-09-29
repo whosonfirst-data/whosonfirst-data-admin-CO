@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010816,
-    "geom:area_square_m":133696529.670629,
+    "geom:area_square_m":133696576.421886,
     "geom:bbox":"-77.573333,1.308726,-77.475001,1.50638",
     "geom:latitude":1.396521,
     "geom:longitude":-77.520624,
@@ -168,9 +168,10 @@
         "hasc:id":"CO.NA.LI",
         "wd:id":"Q1526262"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503700,
-    "wof:geomhash":"0595e7bd636a8472a1e4f78e0ce3ed4d",
+    "wof:geomhash":"e400d5eb777648491fd57c94db27b4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108701031,
-    "wof:lastmodified":1690867935,
+    "wof:lastmodified":1695886199,
     "wof:name":"Linares",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

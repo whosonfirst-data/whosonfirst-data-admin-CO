@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013158,
-    "geom:area_square_m":161771010.455054,
+    "geom:area_square_m":161770987.053972,
     "geom:bbox":"-72.837528,6.068535,-72.635846,6.184058",
     "geom:latitude":6.131952,
     "geom:longitude":-72.730472,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.BY.SE",
         "wd:id":"Q1654912"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503051,
-    "wof:geomhash":"595f839e37fe4e8dcacca47b76fdd0f2",
+    "wof:geomhash":"0a7c0e3ec14136670d59e456bf8b00cd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700329,
-    "wof:lastmodified":1690868054,
+    "wof:lastmodified":1695886082,
     "wof:name":"Sativanorte",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

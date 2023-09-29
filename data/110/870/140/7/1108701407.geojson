@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014497,
-    "geom:area_square_m":176875975.057535,
+    "geom:area_square_m":176875670.711794,
     "geom:bbox":"-75.684277,9.257977,-75.494305,9.40744",
     "geom:latitude":9.340059,
     "geom:longitude":-75.571596,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.SU.PA",
         "wd:id":"Q1577493"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504003,
-    "wof:geomhash":"d3c0da8f25e3c85b7d4056f1d39a12dc",
+    "wof:geomhash":"56099bc0d91db6f7fee838ddb2a0f671",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108701407,
-    "wof:lastmodified":1690868089,
+    "wof:lastmodified":1695886113,
     "wof:name":"Palmito",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

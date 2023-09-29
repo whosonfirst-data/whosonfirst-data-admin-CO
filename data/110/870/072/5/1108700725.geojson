@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007038,
-    "geom:area_square_m":86664582.773103,
+    "geom:area_square_m":86664550.048635,
     "geom:bbox":"-74.536787,5.122269,-74.431825,5.259129",
     "geom:latitude":5.193256,
     "geom:longitude":-74.476672,
@@ -138,9 +138,10 @@
         "hasc:id":"CO.CU.UT",
         "wd:id":"Q1655784"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503427,
-    "wof:geomhash":"435ae5b9329dfe8e58852a63fda26984",
+    "wof:geomhash":"2d862cfa521d72cee9bb437791ef954d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108700725,
-    "wof:lastmodified":1690868044,
+    "wof:lastmodified":1695886074,
     "wof:name":"\u00datica",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

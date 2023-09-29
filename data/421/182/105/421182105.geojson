@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027352,
-    "geom:area_square_m":337814464.468548,
+    "geom:area_square_m":337814351.20365,
     "geom:bbox":"-75.335795,2.680661,-75.036816,2.868085",
     "geom:latitude":2.776652,
     "geom:longitude":-75.203029,
@@ -167,12 +167,13 @@
         "qs_pg:id":888281,
         "wd:id":"Q1526269"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009318,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"862369f1dfcae834f1d5c8cba989f4ac",
+    "wof:geomhash":"1e51ff8b22af072d44fda9f0887999de",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421182105,
-    "wof:lastmodified":1690868349,
+    "wof:lastmodified":1695886265,
     "wof:name":"Rivera",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

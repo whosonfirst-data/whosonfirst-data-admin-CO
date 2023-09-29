@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025971,
-    "geom:area_square_m":317295146.814993,
+    "geom:area_square_m":317295146.814787,
     "geom:bbox":"-73.9888087565,8.72457139622,-73.8163548155,8.99594549968",
     "geom:latitude":8.866159,
     "geom:longitude":-73.912179,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.RV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502869,
-    "wof:geomhash":"ca68583e88ea7279fa558989f1be20cd",
+    "wof:geomhash":"eec4977ea1a6ec41069ddfd7c310a923",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108700121,
-    "wof:lastmodified":1566707464,
+    "wof:lastmodified":1695885987,
     "wof:name":"El Pe\u00f1\u00f3n",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

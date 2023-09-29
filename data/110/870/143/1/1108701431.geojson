@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027766,
-    "geom:area_square_m":342340825.221626,
+    "geom:area_square_m":342340475.763542,
     "geom:bbox":"-75.034998,4.207398,-74.802731,4.520841",
     "geom:latitude":4.353699,
     "geom:longitude":-74.911953,
@@ -99,9 +99,10 @@
         "hasc:id":"CO.TO.CL",
         "wd:id":"Q1577445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504037,
-    "wof:geomhash":"e8896aaa7d62290459f109b73b405e2b",
+    "wof:geomhash":"b4e9e1d6919dd5ca79c08106da6afb56",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108701431,
-    "wof:lastmodified":1690867998,
+    "wof:lastmodified":1695886023,
     "wof:name":"Coello",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

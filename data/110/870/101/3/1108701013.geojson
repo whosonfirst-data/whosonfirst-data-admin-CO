@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002433,
-    "geom:area_square_m":30086357.701281,
+    "geom:area_square_m":30086357.701283,
     "geom:bbox":"-77.6112645693,0.894920108596,-77.5516680883,0.975159835256",
     "geom:latitude":0.929035,
     "geom:longitude":-77.582717,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503686,
-    "wof:geomhash":"e8f346af650dc757b78a4e9cbbd93894",
+    "wof:geomhash":"5f551b9617809bf7c26f5916c0962e75",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108701013,
-    "wof:lastmodified":1566707539,
+    "wof:lastmodified":1695886056,
     "wof:name":"Gualmat\u00e1n",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.875692,
-    "geom:area_square_m":10827971919.685329,
+    "geom:area_square_m":10827971047.470947,
     "geom:bbox":"-76.143195,-0.560016,-73.841302,0.725247",
     "geom:latitude":0.061748,
     "geom:longitude":-75.064003,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.PU.PL",
         "wd:id":"Q1525407"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504193,
-    "wof:geomhash":"a78b63ae109b1a1128a103b9dde01600",
+    "wof:geomhash":"9c2ca238e22bf2e3a3e2b29668faac3c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108701569,
-    "wof:lastmodified":1690867944,
+    "wof:lastmodified":1695885986,
     "wof:name":"Puerto Legu\u00edzamo",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01302,
-    "geom:area_square_m":160029061.524523,
+    "geom:area_square_m":160029123.662179,
     "geom:bbox":"-72.636341,6.176473,-72.49552,6.356396",
     "geom:latitude":6.264762,
     "geom:longitude":-72.555343,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.BY.LU",
         "wd:id":"Q1654706"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502992,
-    "wof:geomhash":"2eb61934576fa6b6872a74312933d492",
+    "wof:geomhash":"65e39b94b15a585eddcfcefa40fb4932",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700263,
-    "wof:lastmodified":1690868050,
+    "wof:lastmodified":1695886080,
     "wof:name":"La Uvita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

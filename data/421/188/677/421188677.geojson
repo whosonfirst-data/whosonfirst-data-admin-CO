@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125664,
-    "geom:area_square_m":1553787175.428835,
+    "geom:area_square_m":1553787449.114209,
     "geom:bbox":"-77.698186,0.362025,-77.089302,0.903478",
     "geom:latitude":0.562321,
     "geom:longitude":-77.368262,
@@ -221,12 +221,13 @@
         "qs_pg:id":1103730,
         "wd:id":"Q1010094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009573,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f336658747be18040b73baa070ff6f2",
+    "wof:geomhash":"3969736ed62abb51941f5d45c2b3c6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -236,7 +237,7 @@
         }
     ],
     "wof:id":421188677,
-    "wof:lastmodified":1690868218,
+    "wof:lastmodified":1695886224,
     "wof:name":"Ipiales",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

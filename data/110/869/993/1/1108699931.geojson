@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030931,
-    "geom:area_square_m":379526448.458542,
+    "geom:area_square_m":379526360.606615,
     "geom:bbox":"-75.687191,6.988485,-75.437158,7.251515",
     "geom:latitude":7.111157,
     "geom:longitude":-75.563088,
@@ -96,9 +96,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502670,
-    "wof:geomhash":"f5578fddaf7272060af8a62a1501b39e",
+    "wof:geomhash":"4b023e773a68f478daa1d526bb4408d6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108699931,
-    "wof:lastmodified":1627522015,
+    "wof:lastmodified":1695886508,
     "wof:name":"Brice\u00f1o",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

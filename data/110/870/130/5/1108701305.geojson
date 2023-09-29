@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022535,
-    "geom:area_square_m":277006651.10782,
+    "geom:area_square_m":277006714.864086,
     "geom:bbox":"-73.372317,6.127433,-73.199518,6.335394",
     "geom:latitude":6.224765,
     "geom:longitude":-73.277896,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.OI",
         "wd:id":"Q1577577"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503932,
-    "wof:geomhash":"c1226a147c2194b3ffaf2c0c4649c876",
+    "wof:geomhash":"74fa2237e75444ca54390a20a9d51da0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701305,
-    "wof:lastmodified":1690868028,
+    "wof:lastmodified":1695886059,
     "wof:name":"Oiba",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036752,
-    "geom:area_square_m":452752852.323879,
+    "geom:area_square_m":452752715.024584,
     "geom:bbox":"-75.588874,4.802514,-75.317376,5.051515",
     "geom:latitude":4.940127,
     "geom:longitude":-75.436318,
@@ -150,12 +150,13 @@
         "wd:id":"Q961399",
         "wk:page":"Villamar\u00eda, Caldas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008860,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a1e6bf2588cb3a3a0383bc4ad2016cf8",
+    "wof:geomhash":"ba0e75957dc9e61f42554201e17805bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421170595,
-    "wof:lastmodified":1690868305,
+    "wof:lastmodified":1695886253,
     "wof:name":"Villamar\u00eda",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

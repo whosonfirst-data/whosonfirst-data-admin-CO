@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014394,
-    "geom:area_square_m":176408458.98922,
+    "geom:area_square_m":176408636.958273,
     "geom:bbox":"-72.74362,7.52551,-72.573658,7.763283",
     "geom:latitude":7.631486,
     "geom:longitude":-72.659995,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.NS.BO",
         "wd:id":"Q1575422"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503748,
-    "wof:geomhash":"e51e97c57183c575537efdb1a578f114",
+    "wof:geomhash":"203679d515306ce50f0774889953721f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701089,
-    "wof:lastmodified":1690868025,
+    "wof:lastmodified":1695886058,
     "wof:name":"Bochalema",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

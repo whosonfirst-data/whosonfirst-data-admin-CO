@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041076,
-    "geom:area_square_m":507472450.896665,
+    "geom:area_square_m":507472341.690906,
     "geom:bbox":"-75.669533,2.254392,-75.385754,2.534781",
     "geom:latitude":2.372002,
     "geom:longitude":-75.517281,
@@ -155,12 +155,13 @@
         "qs_pg:id":54844,
         "wd:id":"Q919595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009778,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5678779f6ff12a99767322a1fa5e81d3",
+    "wof:geomhash":"0e28008c25b358b5a82e43558801c021",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421193651,
-    "wof:lastmodified":1690868117,
+    "wof:lastmodified":1695886208,
     "wof:name":"Gigante",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

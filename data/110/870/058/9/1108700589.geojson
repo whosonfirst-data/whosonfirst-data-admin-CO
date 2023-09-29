@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098492,
-    "geom:area_square_m":1205127567.685363,
+    "geom:area_square_m":1205127523.631214,
     "geom:bbox":"-75.801727,8.054895,-75.353567,8.555784",
     "geom:latitude":8.295753,
     "geom:longitude":-75.615353,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CO.PR",
         "wd:id":"Q956174"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503276,
-    "wof:geomhash":"7336f259342ebcfdb23b5524aaa291b3",
+    "wof:geomhash":"9a952ba23c4c70209b7d8daf6f2476f3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700589,
-    "wof:lastmodified":1690868072,
+    "wof:lastmodified":1695886098,
     "wof:name":"Planeta Rica",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

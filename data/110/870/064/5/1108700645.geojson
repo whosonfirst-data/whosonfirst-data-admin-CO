@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009465,
-    "geom:area_square_m":116699476.094358,
+    "geom:area_square_m":116699519.311059,
     "geom:bbox":"-74.034662,4.264738,-73.890989,4.369605",
     "geom:latitude":4.31604,
     "geom:longitude":-73.950176,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.CU.FO",
         "wd:id":"Q1577716"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503332,
-    "wof:geomhash":"855b1e0b2335605c0c1ca5c5a72551d5",
+    "wof:geomhash":"01c8bfe7a671efb2aed3f7380e670880",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108700645,
-    "wof:lastmodified":1690867984,
+    "wof:lastmodified":1695886015,
     "wof:name":"Fosca",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

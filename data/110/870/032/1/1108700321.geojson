@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005902,
-    "geom:area_square_m":72574901.263654,
+    "geom:area_square_m":72574734.578432,
     "geom:bbox":"-73.531463,6.003647,-73.425452,6.108906",
     "geom:latitude":6.058731,
     "geom:longitude":-73.486399,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.BY.SN",
         "wd:id":"Q1575506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503045,
-    "wof:geomhash":"a7ca45e32c5f473dbda37cc1639c50f4",
+    "wof:geomhash":"8436a1d7eef4e8cffc75833e27e1319c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700321,
-    "wof:lastmodified":1690868055,
+    "wof:lastmodified":1695886082,
     "wof:name":"Santana",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

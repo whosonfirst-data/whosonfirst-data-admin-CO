@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.707828,
-    "geom:area_square_m":20694917941.934925,
+    "geom:area_square_m":20694916238.262737,
     "geom:bbox":"-73.664185,10.396985,-71.112958,12.45734",
     "geom:latitude":11.475969,
     "geom:longitude":-72.429918,
@@ -353,17 +353,19 @@
         "gn:id":3678847,
         "gp:id":2345062,
         "hasc:id":"CO.LG",
+        "iso:code":"CO-LAG",
         "iso:id":"CO-LAG",
         "qs_pg:id":894863,
         "unlc:id":"CO-LAG",
         "wd:id":"Q272747",
         "wk:page":"La Guajira Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c238ad055ec9aad696f11291bd5aecdc",
+    "wof:geomhash":"7839652f67275a0e7057a4870430e1ef",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867901,
+    "wof:lastmodified":1695884390,
     "wof:name":"La Guajira",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

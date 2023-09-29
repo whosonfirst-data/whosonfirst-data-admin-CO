@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010381,
-    "geom:area_square_m":128234316.198749,
+    "geom:area_square_m":128234316.198591,
     "geom:bbox":"-75.8387893763,2.4752820704,-75.730900735,2.68003853022",
     "geom:latitude":2.576609,
     "geom:longitude":-75.787476,
@@ -92,9 +92,10 @@
     "wof:concordances":{
         "hasc:id":"CO.HU.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503513,
-    "wof:geomhash":"6714694b9f3ed75bca4cc2e356498378",
+    "wof:geomhash":"7ef6df5f327bbbf46b1d5b840a76c592",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1108700825,
-    "wof:lastmodified":1566707477,
+    "wof:lastmodified":1695885997,
     "wof:name":"N\u00e1taga",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041112,
-    "geom:area_square_m":503301652.958129,
+    "geom:area_square_m":503301553.052454,
     "geom:bbox":"-72.760008,7.904237,-72.525679,8.28641",
     "geom:latitude":8.084453,
     "geom:longitude":-72.631086,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.NS.EZ",
         "wd:id":"Q1441107"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503765,
-    "wof:geomhash":"0a9c2aaeb4866bcf14f4ef317b0f3023",
+    "wof:geomhash":"e3b0b17615f6195b4869651238040073",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701113,
-    "wof:lastmodified":1690867995,
+    "wof:lastmodified":1695886022,
     "wof:name":"El Zulia",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

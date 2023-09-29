@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032131,
-    "geom:area_square_m":396954438.582674,
+    "geom:area_square_m":396954438.581453,
     "geom:bbox":"-78.3048005053,2.03127903317,-78.1590902669,2.66528423003",
     "geom:latitude":2.40719,
     "geom:longitude":-78.208475,
@@ -108,9 +108,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.EC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503696,
-    "wof:geomhash":"b3988ff32ce09b446266b7ee4dfeba3a",
+    "wof:geomhash":"268089cbbb8ce98bd8f691e4b972211d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108701023,
-    "wof:lastmodified":1566707452,
+    "wof:lastmodified":1695885980,
     "wof:name":"La Tola",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006179,
-    "geom:area_square_m":76008103.563661,
+    "geom:area_square_m":76008283.420088,
     "geom:bbox":"-75.915917,5.729089,-75.813775,5.915548",
     "geom:latitude":5.810287,
     "geom:longitude":-75.861199,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.AN.PU",
         "wd:id":"Q1576028"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502744,
-    "wof:geomhash":"735c1ab22129671bcea70b2b415b130d",
+    "wof:geomhash":"3340ee9e8cc705df35ebb7ed5d3d08c2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108699989,
-    "wof:lastmodified":1690867921,
+    "wof:lastmodified":1695886617,
     "wof:name":"Pueblorrico",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

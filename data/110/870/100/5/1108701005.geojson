@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031975,
-    "geom:area_square_m":395329027.732949,
+    "geom:area_square_m":395329016.484978,
     "geom:bbox":"-77.481434,0.743833,-77.140214,1.055463",
     "geom:latitude":0.914678,
     "geom:longitude":-77.329203,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.NA.FU",
         "wd:id":"Q1574953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503682,
-    "wof:geomhash":"974c0de60ea0c2a120651bbfc7a2059a",
+    "wof:geomhash":"d10d533a4d6d54906b7c758a69eadb1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108701005,
-    "wof:lastmodified":1690868013,
+    "wof:lastmodified":1695886043,
     "wof:name":"Funes",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

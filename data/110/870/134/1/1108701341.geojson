@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006261,
-    "geom:area_square_m":76904832.663271,
+    "geom:area_square_m":76904832.663378,
     "geom:bbox":"-72.7729159149,6.55925305694,-72.7050905699,6.69072286609",
     "geom:latitude":6.629225,
     "geom:longitude":-72.739661,
@@ -90,9 +90,10 @@
         "hasc:id":"CO.ST.ES",
         "wd:id":"Q1654246"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503956,
-    "wof:geomhash":"1e527a554394a66602c5d01b14f187bd",
+    "wof:geomhash":"9480f7303034880f0ea4dc021993c15a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108701341,
-    "wof:lastmodified":1566707454,
+    "wof:lastmodified":1695885982,
     "wof:name":"San Jos\u00e9 De Miranda",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

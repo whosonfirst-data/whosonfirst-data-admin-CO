@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005656,
-    "geom:area_square_m":69658876.113195,
+    "geom:area_square_m":69658728.371462,
     "geom:bbox":"-74.436572,5.015767,-74.333374,5.111857",
     "geom:latitude":5.067275,
     "geom:longitude":-74.390465,
@@ -158,12 +158,13 @@
         "qs_pg:id":1311354,
         "wd:id":"Q1577029"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008943,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"268d0e99b467e3e6586e71957e26104f",
+    "wof:geomhash":"4e68fe64b25acf75ca302b1abe2d98fa",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421172457,
-    "wof:lastmodified":1690868226,
+    "wof:lastmodified":1695886239,
     "wof:name":"Nocaima",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004581,
-    "geom:area_square_m":56359015.386714,
+    "geom:area_square_m":56359015.386707,
     "geom:bbox":"-75.9574391704,5.75147025824,-75.8707711404,5.84161074886",
     "geom:latitude":5.795347,
     "geom:longitude":-75.907154,
@@ -194,9 +194,10 @@
     "wof:concordances":{
         "hasc:id":"CO.AN.PU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502718,
-    "wof:geomhash":"265c94ad62d04ccd03ca0ee8ccf1675c",
+    "wof:geomhash":"2f7797e6854e742e0cc036d7e2c3952a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1108699967,
-    "wof:lastmodified":1566707433,
+    "wof:lastmodified":1695886618,
     "wof:name":"Hispania",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

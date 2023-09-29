@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009867,
-    "geom:area_square_m":121408592.572177,
+    "geom:area_square_m":121408464.00956,
     "geom:bbox":"-73.579604,5.597306,-73.423426,5.726292",
     "geom:latitude":5.666577,
     "geom:longitude":-73.511538,
@@ -158,12 +158,13 @@
         "wd:id":"Q1409503",
         "wk:page":"Villa de Leyva"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008859,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7804184a87ea9d2a108c0805e1494842",
+    "wof:geomhash":"3fe2efd38885b50c0e661906b88fc2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":421170589,
-    "wof:lastmodified":1690868311,
+    "wof:lastmodified":1695886256,
     "wof:name":"Villa De Leiva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

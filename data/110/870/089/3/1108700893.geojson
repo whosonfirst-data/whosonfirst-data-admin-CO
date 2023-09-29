@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026169,
-    "geom:area_square_m":318512518.289375,
+    "geom:area_square_m":318512276.353891,
     "geom:bbox":"-74.945591,10.059227,-74.678761,10.238574",
     "geom:latitude":10.154175,
     "geom:longitude":-74.830592,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.MA.PE",
         "wd:id":"Q1575673"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503582,
-    "wof:geomhash":"ac8c4f4e3c9e22016ee53e5087e3a441",
+    "wof:geomhash":"96c1c675b5937c90159663554004a90f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700893,
-    "wof:lastmodified":1690868029,
+    "wof:lastmodified":1695886060,
     "wof:name":"Pedraza",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

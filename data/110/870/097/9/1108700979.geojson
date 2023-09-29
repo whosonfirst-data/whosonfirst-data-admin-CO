@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041748,
-    "geom:area_square_m":516080318.240603,
+    "geom:area_square_m":516080178.401849,
     "geom:bbox":"-77.253435,1.206332,-77.000159,1.452826",
     "geom:latitude":1.333038,
     "geom:longitude":-77.137858,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.NA.BU",
         "wd:id":"Q1441100"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503661,
-    "wof:geomhash":"1b366ed859959b668cf278461bda6da9",
+    "wof:geomhash":"8ecf17003346f8cdcc9c31df11f6db2c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700979,
-    "wof:lastmodified":1690867982,
+    "wof:lastmodified":1695886014,
     "wof:name":"Buesaco",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010514,
-    "geom:area_square_m":129178188.52372,
+    "geom:area_square_m":129178169.638826,
     "geom:bbox":"-73.316562,6.405988,-73.175785,6.525785",
     "geom:latitude":6.462513,
     "geom:longitude":-73.243833,
@@ -174,9 +174,10 @@
         "hasc:id":"CO.ST.SO",
         "wd:id":"Q979980"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503965,
-    "wof:geomhash":"71f2e0b8c259bd6d7910d03cb8b4b993",
+    "wof:geomhash":"d784f4974f761d6e771317fdc7f49536",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":1108701355,
-    "wof:lastmodified":1690867932,
+    "wof:lastmodified":1695886199,
     "wof:name":"Socorro",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

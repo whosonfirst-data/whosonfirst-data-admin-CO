@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071019,
-    "geom:area_square_m":869079520.583848,
+    "geom:area_square_m":869079553.778846,
     "geom:bbox":"-73.775674,7.99064,-73.456834,8.505884",
     "geom:latitude":8.249838,
     "geom:longitude":-73.62142,
@@ -167,12 +167,13 @@
         "qs_pg:id":1017001,
         "wd:id":"Q2309010"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009430,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3cba693e97e86432fb912a8f4024bda9",
+    "wof:geomhash":"e570c566d52208331a36734da90e639d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":421185023,
-    "wof:lastmodified":1690868379,
+    "wof:lastmodified":1695886270,
     "wof:name":"Aguachica",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

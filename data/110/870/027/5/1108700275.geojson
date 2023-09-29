@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004926,
-    "geom:area_square_m":60622366.0327,
+    "geom:area_square_m":60622366.032663,
     "geom:bbox":"-73.4138534604,5.55622875958,-73.33935263,5.66839170912",
     "geom:latitude":5.60554,
     "geom:longitude":-73.37714,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503004,
-    "wof:geomhash":"989f1e74d58f8bcd1e8f16a7a7a5e900",
+    "wof:geomhash":"af0337bc8cc52f224ad9a09361d6cf96",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1108700275,
-    "wof:lastmodified":1566707553,
+    "wof:lastmodified":1695886069,
     "wof:name":"Motavita",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

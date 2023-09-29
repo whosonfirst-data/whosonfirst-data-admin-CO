@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033986,
-    "geom:area_square_m":415257331.74575,
+    "geom:area_square_m":415257128.857471,
     "geom:bbox":"-76.416449,8.718517,-76.126378,8.952804",
     "geom:latitude":8.838021,
     "geom:longitude":-76.292575,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.CO.LC",
         "wd:id":"Q1525401"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503265,
-    "wof:geomhash":"59ade7cd86beeb52d8b6baa12cf4b2d3",
+    "wof:geomhash":"1ba23d9615acf817f0463a67e84fa986",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700581,
-    "wof:lastmodified":1690868073,
+    "wof:lastmodified":1695886097,
     "wof:name":"Los C\u00f3rdobas",
     "wof:parent_id":85670137,
     "wof:placetype":"county",

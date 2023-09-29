@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045038,
-    "geom:area_square_m":546242235.206102,
+    "geom:area_square_m":546242159.516006,
     "geom:bbox":"-72.659891,11.081041,-72.403913,11.408791",
     "geom:latitude":11.229069,
     "geom:longitude":-72.532209,
@@ -147,9 +147,10 @@
         "hasc:id":"CO.LG.MC",
         "wd:id":"Q1937427"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503545,
-    "wof:geomhash":"bc67a5536172dcf03ddbaf9fe861c3b7",
+    "wof:geomhash":"281f0ae478d54d2c5f899618499b9778",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108700853,
-    "wof:lastmodified":1690867959,
+    "wof:lastmodified":1695885995,
     "wof:name":"Albania",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

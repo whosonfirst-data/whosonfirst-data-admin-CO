@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009577,
-    "geom:area_square_m":118168310.857205,
+    "geom:area_square_m":118168255.993563,
     "geom:bbox":"-73.90323,3.649853,-73.765103,3.767239",
     "geom:latitude":3.707792,
     "geom:longitude":-73.831909,
@@ -207,9 +207,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ME.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503618,
-    "wof:geomhash":"42b2f9c2cf11142921e4162431b69924",
+    "wof:geomhash":"37d6692655d3bc21b895c427fd781ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":1108700933,
-    "wof:lastmodified":1636506772,
+    "wof:lastmodified":1695886215,
     "wof:name":"El Dorado",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

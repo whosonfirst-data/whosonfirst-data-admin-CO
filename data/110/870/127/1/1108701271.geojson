@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002439,
-    "geom:area_square_m":29987619.525043,
+    "geom:area_square_m":29987620.608186,
     "geom:bbox":"-73.61958,5.992376,-73.537064,6.079242",
     "geom:latitude":6.03312,
     "geom:longitude":-73.578351,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.ST.GU",
         "wd:id":"Q1560045"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503909,
-    "wof:geomhash":"4f11358ee77fad743f036dccbe5d528e",
+    "wof:geomhash":"7ce3b08c3d2372c4d0170e0ec2f789d5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701271,
-    "wof:lastmodified":1690867996,
+    "wof:lastmodified":1695886022,
     "wof:name":"Guepsa",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

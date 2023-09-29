@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016476,
-    "geom:area_square_m":202882884.144033,
+    "geom:area_square_m":202882864.066749,
     "geom:bbox":"-75.244198,5.156599,-75.061586,5.309326",
     "geom:latitude":5.233466,
     "geom:longitude":-75.153082,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CL.MZ",
         "wd:id":"Q1442335"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503104,
-    "wof:geomhash":"21f0b6a4ca6862c67af86918b8ea0943",
+    "wof:geomhash":"a3da1ef085323c40ca77d5ff918f438d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108700383,
-    "wof:lastmodified":1690867974,
+    "wof:lastmodified":1695886007,
     "wof:name":"Manzanares",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

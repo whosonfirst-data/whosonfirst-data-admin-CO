@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101897,
-    "geom:area_square_m":1258510810.276915,
+    "geom:area_square_m":1258510487.121059,
     "geom:bbox":"-72.948077,2.523456,-72.438773,3.028127",
     "geom:latitude":2.751483,
     "geom:longitude":-72.723091,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.ME.PC",
         "wd:id":"Q1525869"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503633,
-    "wof:geomhash":"576522931d4a0bcc1034382057197e4c",
+    "wof:geomhash":"b24ee48df4926865251930a366e24e12",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700949,
-    "wof:lastmodified":1690868074,
+    "wof:lastmodified":1695886099,
     "wof:name":"Puerto Concordia",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

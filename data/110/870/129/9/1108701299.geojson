@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039506,
-    "geom:area_square_m":485369295.729493,
+    "geom:area_square_m":485369480.68686,
     "geom:bbox":"-73.080433,6.356396,-72.832947,6.648589",
     "geom:latitude":6.491835,
     "geom:longitude":-72.958513,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.MG",
         "wd:id":"Q1577177"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503928,
-    "wof:geomhash":"505df20db7dfa8895c2a91f98d891929",
+    "wof:geomhash":"61cd7db56bc2fae184fc87a04b5012be",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701299,
-    "wof:lastmodified":1690867993,
+    "wof:lastmodified":1695886020,
     "wof:name":"Mogotes",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

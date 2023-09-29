@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142393,
-    "geom:area_square_m":1758137382.634529,
+    "geom:area_square_m":1758137288.345379,
     "geom:bbox":"-76.108527,2.870496,-75.572628,3.326189",
     "geom:latitude":3.09927,
     "geom:longitude":-75.816738,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.TO.PL",
         "wd:id":"Q1964548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504064,
-    "wof:geomhash":"5d1ad63a295eb57b39f0c0a31064f6c4",
+    "wof:geomhash":"cd1e335b2f67ff2ff88a22fea99f9416",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701453,
-    "wof:lastmodified":1690867991,
+    "wof:lastmodified":1695886020,
     "wof:name":"Planadas",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008906,
-    "geom:area_square_m":109782359.423936,
+    "geom:area_square_m":109782525.278422,
     "geom:bbox":"-74.048125,4.439396,-73.90072,4.562033",
     "geom:latitude":4.500753,
     "geom:longitude":-73.975317,
@@ -141,12 +141,13 @@
         "qs_pg:id":10399,
         "wd:id":"Q1574736"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25028e9d78dc7e1aafa43fc5ce0c4e70",
+    "wof:geomhash":"763980847815b21903379c60d41c75f4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -156,7 +157,7 @@
         }
     ],
     "wof:id":421193615,
-    "wof:lastmodified":1690868119,
+    "wof:lastmodified":1695886207,
     "wof:name":"Ubaque",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

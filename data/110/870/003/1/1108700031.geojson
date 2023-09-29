@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046448,
-    "geom:area_square_m":569731017.178749,
+    "geom:area_square_m":569731248.682162,
     "geom:bbox":"-75.530155,7.050208,-75.274327,7.434546",
     "geom:latitude":7.26494,
     "geom:longitude":-75.400701,
@@ -141,9 +141,10 @@
         "hasc:id":"CO.AN.VD",
         "wd:id":"Q1525117"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502798,
-    "wof:geomhash":"caf37b0fb5322724c5fe1aa93476576b",
+    "wof:geomhash":"09892aab66fdfad07441096d48cb9d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108700031,
-    "wof:lastmodified":1690868052,
+    "wof:lastmodified":1695886080,
     "wof:name":"Valdivia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

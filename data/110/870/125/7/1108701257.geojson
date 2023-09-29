@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047934,
-    "geom:area_square_m":589549321.162459,
+    "geom:area_square_m":589549296.950689,
     "geom:bbox":"-73.471361,5.75123,-73.176247,6.081456",
     "geom:latitude":5.925411,
     "geom:longitude":-73.318873,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.GA",
         "wd:id":"Q1655623"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503899,
-    "wof:geomhash":"eac2009a3f4207da5b4c087f1bf10cd5",
+    "wof:geomhash":"61a35b570597a32295776ccd5e2bc70a",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701257,
-    "wof:lastmodified":1690868084,
+    "wof:lastmodified":1695886109,
     "wof:name":"G\u00e1mbita",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

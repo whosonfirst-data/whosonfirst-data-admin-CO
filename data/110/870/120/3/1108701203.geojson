@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003675,
-    "geom:area_square_m":45070393.134646,
+    "geom:area_square_m":45070393.134556,
     "geom:bbox":"-72.9800358544,7.29081873307,-72.8649411234,7.40179360163",
     "geom:latitude":7.352165,
     "geom:longitude":-72.92641,
@@ -623,9 +623,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.VT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503863,
-    "wof:geomhash":"8f452f9e0819513cb01c068ba52b02f9",
+    "wof:geomhash":"da51fdca6fc79eebb2bc64f1ebaf781b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -635,7 +636,7 @@
         }
     ],
     "wof:id":1108701203,
-    "wof:lastmodified":1566707506,
+    "wof:lastmodified":1695886023,
     "wof:name":"California",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

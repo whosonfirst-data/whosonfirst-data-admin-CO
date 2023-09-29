@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035334,
-    "geom:area_square_m":433639786.615125,
+    "geom:area_square_m":433639786.615183,
     "geom:bbox":"-73.5380979616,6.8499143791,-73.2178239212,7.15364521133",
     "geom:latitude":7.011907,
     "geom:longitude":-73.387165,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CO.ST.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503859,
-    "wof:geomhash":"38c57c8a5217f9b91b6484f8849a4f96",
+    "wof:geomhash":"0e30bbf7e9ba31eef0daad8e4a0b81e1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108701197,
-    "wof:lastmodified":1566707510,
+    "wof:lastmodified":1695886027,
     "wof:name":"Betulia",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

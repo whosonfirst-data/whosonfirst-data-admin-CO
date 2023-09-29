@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039883,
-    "geom:area_square_m":490148197.612795,
+    "geom:area_square_m":490148175.926945,
     "geom:bbox":"-72.92364,6.14196,-72.724678,6.542998",
     "geom:latitude":6.334865,
     "geom:longitude":-72.812124,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.ST.ON",
         "wd:id":"Q2245327"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503934,
-    "wof:geomhash":"e62755a6911aa548f6565dbc0b2981e3",
+    "wof:geomhash":"c1c982c232f3fcceb3798b0d06bb3ddf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701307,
-    "wof:lastmodified":1690868027,
+    "wof:lastmodified":1695886058,
     "wof:name":"Onzaga",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

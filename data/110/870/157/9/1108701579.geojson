@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064719,
-    "geom:area_square_m":800238906.603233,
+    "geom:area_square_m":800241153.049047,
     "geom:bbox":"-77.114875,0.284197,-76.656648,0.560463",
     "geom:latitude":0.413262,
     "geom:longitude":-76.882922,
@@ -121,9 +121,10 @@
         "hasc:id":"CO.PU.OR",
         "wd:id":"Q12981826"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504200,
-    "wof:geomhash":"070d79ef8463082fa4f31fe08834ef8f",
+    "wof:geomhash":"0e719abce03f07c23de88087997f6f91",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":1108701579,
-    "wof:lastmodified":1690867936,
+    "wof:lastmodified":1695885977,
     "wof:name":"Valle Del Guamuez",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012362,
-    "geom:area_square_m":152194164.467074,
+    "geom:area_square_m":152194142.589895,
     "geom:bbox":"-75.780979,5.255715,-75.634884,5.397465",
     "geom:latitude":5.323905,
     "geom:longitude":-75.708878,
@@ -137,12 +137,13 @@
         "qs_pg:id":1002132,
         "wd:id":"Q2433476"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dbebe5f0948c798e77d1553b35ac087d",
+    "wof:geomhash":"146eff14e709790430b6c7af8e8cf414",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421184593,
-    "wof:lastmodified":1690868295,
+    "wof:lastmodified":1695886249,
     "wof:name":"Quinch\u00eda",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046426,
-    "geom:area_square_m":573054117.285144,
+    "geom:area_square_m":573054184.011319,
     "geom:bbox":"-76.706944,3.272014,-76.459634,3.546226",
     "geom:latitude":3.397007,
     "geom:longitude":-76.575677,
@@ -443,12 +443,13 @@
         "wd:id":"Q51103",
         "wk:page":"Cali"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459008862,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aa636f6d7a9decea2575a2ed7cc99a43",
+    "wof:geomhash":"ef401b710fb232ac04b1a6c86d1a83c3",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -458,7 +459,7 @@
         }
     ],
     "wof:id":421170643,
-    "wof:lastmodified":1690868305,
+    "wof:lastmodified":1695886254,
     "wof:name":"Cali",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004264,
-    "geom:area_square_m":52487140.132672,
+    "geom:area_square_m":52487102.593905,
     "geom:bbox":"-73.32959,5.351063,-73.222686,5.427637",
     "geom:latitude":5.391602,
     "geom:longitude":-73.27967,
@@ -124,9 +124,10 @@
         "hasc:id":"CO.BY.CG",
         "wd:id":"Q2431058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502954,
-    "wof:geomhash":"4a6e8169e615894e03217e68928e229d",
+    "wof:geomhash":"18c8af99538fbcb005af866dd4673f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108700221,
-    "wof:lastmodified":1690867956,
+    "wof:lastmodified":1695885994,
     "wof:name":"Ci\u00e9nega",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

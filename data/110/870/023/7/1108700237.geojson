@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008898,
-    "geom:area_square_m":109488580.839253,
+    "geom:area_square_m":109488648.72377,
     "geom:bbox":"-73.10404,5.626145,-72.945935,5.723953",
     "geom:latitude":5.673744,
     "geom:longitude":-73.018753,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.FI",
         "wd:id":"Q1579392"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502971,
-    "wof:geomhash":"db1b910da9e2fad69b47551a976fe3b7",
+    "wof:geomhash":"7b2e29a9a191a7bfd4869abf1cc7610b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700237,
-    "wof:lastmodified":1690867946,
+    "wof:lastmodified":1695885987,
     "wof:name":"Firavitoba",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

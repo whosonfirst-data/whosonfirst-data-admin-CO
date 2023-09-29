@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08899,
-    "geom:area_square_m":1099831243.330552,
+    "geom:area_square_m":1099830490.102171,
     "geom:bbox":"-75.385756,1.42683,-74.916106,2.323309",
     "geom:latitude":1.790397,
     "geom:longitude":-75.192672,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.CQ.ED",
         "wd:id":"Q746033"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503133,
-    "wof:geomhash":"10f3b676c4770303b723b22b56e95bcb",
+    "wof:geomhash":"8e757b1f0766f799d291800babd3b331",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108700409,
-    "wof:lastmodified":1690867963,
+    "wof:lastmodified":1695886000,
     "wof:name":"El Doncello",
     "wof:parent_id":85670179,
     "wof:placetype":"county",

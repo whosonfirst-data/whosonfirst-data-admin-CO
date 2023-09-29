@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0169,
-    "geom:area_square_m":205406330.736264,
+    "geom:area_square_m":205406223.53725,
     "geom:bbox":"-74.8731,10.483336,-74.724713,10.725935",
     "geom:latitude":10.594151,
     "geom:longitude":-74.798954,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.AT.PD",
         "wd:id":"Q512871"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502830,
-    "wof:geomhash":"4d2669732865e68584e474aa104fd054",
+    "wof:geomhash":"4b5a9f4dac62466fc0d2f1e3e0380af5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700071,
-    "wof:lastmodified":1690867975,
+    "wof:lastmodified":1695886008,
     "wof:name":"Ponedera",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

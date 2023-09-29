@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038006,
-    "geom:area_square_m":467590300.690913,
+    "geom:area_square_m":467590452.999883,
     "geom:bbox":"-72.583809,5.606676,-72.294549,5.864247",
     "geom:latitude":5.744765,
     "geom:longitude":-72.44592,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.PV",
         "wd:id":"Q1656260"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503023,
-    "wof:geomhash":"93b682c311787ac60c74c0ea6a117dc2",
+    "wof:geomhash":"a11b865937ae49356643410883e8c17d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700299,
-    "wof:lastmodified":1690868040,
+    "wof:lastmodified":1695886072,
     "wof:name":"Pisva",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

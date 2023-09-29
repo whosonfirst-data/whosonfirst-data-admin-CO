@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026493,
-    "geom:area_square_m":322854900.874896,
+    "geom:area_square_m":322854827.277532,
     "geom:bbox":"-74.97086,9.648287,-74.785377,9.920847",
     "geom:latitude":9.750833,
     "geom:longitude":-74.876477,
@@ -120,9 +120,10 @@
         "hasc:id":"CO.BL.ZA",
         "wd:id":"Q746961"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502920,
-    "wof:geomhash":"865ac74a8d9873ceab969266b6763f21",
+    "wof:geomhash":"8ecb8a38666c26ce06af0777fafbdd64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":1108700183,
-    "wof:lastmodified":1690868037,
+    "wof:lastmodified":1695886069,
     "wof:name":"Zambrano",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

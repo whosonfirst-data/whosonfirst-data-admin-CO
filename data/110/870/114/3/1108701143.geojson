@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010966,
-    "geom:area_square_m":134326382.608319,
+    "geom:area_square_m":134326382.608359,
     "geom:bbox":"-72.6770115027,7.75490998487,-72.5429000641,7.91159306324",
     "geom:latitude":7.846259,
     "geom:longitude":-72.609829,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NS.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503794,
-    "wof:geomhash":"3f9aee4683910b971540d15e10f55f4e",
+    "wof:geomhash":"395ce4aaea2a5c1186c0315790cf5014",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1108701143,
-    "wof:lastmodified":1566707601,
+    "wof:lastmodified":1695886112,
     "wof:name":"San Cayetano",
     "wof:parent_id":85670237,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134676,
-    "geom:area_square_m":1631252203.269507,
+    "geom:area_square_m":1631252203.26935,
     "geom:bbox":"-72.8899449344,11.4223725246,-72.2582339434,11.8280215595",
     "geom:latitude":11.605467,
     "geom:longitude":-72.571388,
@@ -112,12 +112,13 @@
         "qs_pg:id":1119060,
         "wd:id":"Q398631"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009864,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25f518a0b7e2ec864e8ef454a11feb4a",
+    "wof:geomhash":"8706239889974cf4be67a838abd376b4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":421195937,
-    "wof:lastmodified":1582393646,
+    "wof:lastmodified":1695886207,
     "wof:name":"Manaure",
     "wof:parent_id":85670147,
     "wof:placetype":"county",

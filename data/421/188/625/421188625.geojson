@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018584,
-    "geom:area_square_m":228578537.977513,
+    "geom:area_square_m":228578389.648988,
     "geom:bbox":"-73.176247,5.771147,-73.008952,6.023554",
     "geom:latitude":5.892812,
     "geom:longitude":-73.069027,
@@ -227,12 +227,13 @@
         "qs_pg:id":1103682,
         "wd:id":"Q1011125"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009571,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7510b219b2041e582354613a0d10f75",
+    "wof:geomhash":"e1d81eb998571e49872e58811668cae1",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -242,7 +243,7 @@
         }
     ],
     "wof:id":421188625,
-    "wof:lastmodified":1690868215,
+    "wof:lastmodified":1695886223,
     "wof:name":"Duitama",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035024,
-    "geom:area_square_m":428002268.830924,
+    "geom:area_square_m":428002300.154006,
     "geom:bbox":"-75.258347,8.615682,-74.994419,8.9242",
     "geom:latitude":8.784551,
     "geom:longitude":-75.131207,
@@ -111,9 +111,10 @@
         "hasc:id":"CO.SU.CA",
         "wd:id":"Q738108"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503984,
-    "wof:geomhash":"dbdea095fb9b41c45f79d3546b3eca56",
+    "wof:geomhash":"4d60794c2eb19e812c94d0979dc8edb4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1108701379,
-    "wof:lastmodified":1690868024,
+    "wof:lastmodified":1695886057,
     "wof:name":"Caimito",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

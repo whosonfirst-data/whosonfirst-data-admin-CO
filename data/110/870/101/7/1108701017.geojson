@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006417,
-    "geom:area_square_m":79328267.261565,
+    "geom:area_square_m":79328267.163725,
     "geom:bbox":"-77.570462,1.022137,-77.448621,1.119846",
     "geom:latitude":1.072736,
     "geom:longitude":-77.500853,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.NA.IM",
         "wd:id":"Q1575329"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503689,
-    "wof:geomhash":"5aeed5c1e5e8058589c8f51802cb8b21",
+    "wof:geomhash":"db9989ea70490808da16e9197de3f39b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108701017,
-    "wof:lastmodified":1690868023,
+    "wof:lastmodified":1695886056,
     "wof:name":"Imu\u00e9s",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

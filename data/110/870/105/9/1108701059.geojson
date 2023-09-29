@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08514,
-    "geom:area_square_m":1052536976.30961,
+    "geom:area_square_m":1052536976.309964,
     "geom:bbox":"-78.2911081758,1.00491706444,-77.8256732508,1.48895468153",
     "geom:latitude":1.202614,
     "geom:longitude":-78.047585,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.RI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503722,
-    "wof:geomhash":"d132bd5d1117850e45d5b463b2fb5dd0",
+    "wof:geomhash":"753359c83631b4a18cfa57da5c314a84",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108701059,
-    "wof:lastmodified":1566707452,
+    "wof:lastmodified":1695885981,
     "wof:name":"Ricaurte",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

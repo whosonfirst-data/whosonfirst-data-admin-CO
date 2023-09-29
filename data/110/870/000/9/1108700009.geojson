@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01031,
-    "geom:area_square_m":126582652.675519,
+    "geom:area_square_m":126582546.425238,
     "geom:bbox":"-75.73439,6.744451,-75.616573,6.887302",
     "geom:latitude":6.823558,
     "geom:longitude":-75.678556,
@@ -113,9 +113,10 @@
         "hasc:id":"CO.AN.SJ",
         "wd:id":"Q1655028"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502765,
-    "wof:geomhash":"4e6437039ddea5babdb4cd24e79ec1be",
+    "wof:geomhash":"02d62bc60a545d65b9b46a6ba3aa9b19",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108700009,
-    "wof:lastmodified":1690867975,
+    "wof:lastmodified":1695886008,
     "wof:name":"San Jos\u00e9 De La Monta\u00f1a",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011866,
-    "geom:area_square_m":146052704.013467,
+    "geom:area_square_m":146052489.027159,
     "geom:bbox":"-73.287909,5.42013,-73.136021,5.555877",
     "geom:latitude":5.489669,
     "geom:longitude":-73.209817,
@@ -114,9 +114,10 @@
         "hasc:id":"CO.BY.SI",
         "wd:id":"Q1576379"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503054,
-    "wof:geomhash":"908e40ef5bb3dbc59950374596557fcc",
+    "wof:geomhash":"480b063decee5ae8a1cafd7d6d17c958",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108700333,
-    "wof:lastmodified":1690868065,
+    "wof:lastmodified":1695886093,
     "wof:name":"Siachoque",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

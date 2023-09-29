@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.94059,
-    "geom:area_square_m":23837811405.045044,
+    "geom:area_square_m":23837813303.954796,
     "geom:bbox":"-72.368311,6.038351,-69.430467,7.104381",
     "geom:latitude":6.569909,
     "geom:longitude":-70.968822,
@@ -359,17 +359,19 @@
         "gn:id":3689717,
         "gp:id":2345049,
         "hasc:id":"CO.AR",
+        "iso:code":"CO-ARA",
         "iso:id":"CO-ARA",
         "qs_pg:id":59593,
         "unlc:id":"CO-ARA",
         "wd:id":"Q230223",
         "wk:page":"Arauca Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"afc7e3cd2b1e78e26cc5aa5f7efe29f3",
+    "wof:geomhash":"930600621760e87ff6ebd2b6c3838322",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -384,7 +386,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867909,
+    "wof:lastmodified":1695884394,
     "wof:name":"Arauca",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

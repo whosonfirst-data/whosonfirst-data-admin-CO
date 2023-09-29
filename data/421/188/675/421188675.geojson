@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029983,
-    "geom:area_square_m":369725713.22584,
+    "geom:area_square_m":369725713.225046,
     "geom:bbox":"-73.6332118057,4.12762359327,-73.11329477,4.4615222185",
     "geom:latitude":4.237992,
     "geom:longitude":-73.473753,
@@ -117,12 +117,13 @@
         "hasc:id":"CO.ME.RE",
         "qs_pg:id":1103729
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009573,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d7435ae03c78d027a9364e6317dc0d5",
+    "wof:geomhash":"5e1def1022d319dd36bc1510e4a583bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421188675,
-    "wof:lastmodified":1582393661,
+    "wof:lastmodified":1695886231,
     "wof:name":"Restrepo",
     "wof:parent_id":85670255,
     "wof:placetype":"county",

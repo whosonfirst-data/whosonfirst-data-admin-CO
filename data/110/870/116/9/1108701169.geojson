@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014842,
-    "geom:area_square_m":182773915.627124,
+    "geom:area_square_m":182773915.627125,
     "geom:bbox":"-75.9310980976,5.10371501315,-75.8025870146,5.27389066273",
     "geom:latitude":5.200364,
     "geom:longitude":-75.868,
@@ -107,9 +107,10 @@
         "hasc:id":"CO.RI.BE",
         "wd:id":"Q1391572"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503833,
-    "wof:geomhash":"677761c5ec5d46bcf0163cf7d46baa7e",
+    "wof:geomhash":"519c1b3870dab5c913e6259752616cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108701169,
-    "wof:lastmodified":1566707503,
+    "wof:lastmodified":1695886021,
     "wof:name":"Bel\u00e9n De Umbr\u00eda",
     "wof:parent_id":85670173,
     "wof:placetype":"county",

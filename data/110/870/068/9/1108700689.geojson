@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018264,
-    "geom:area_square_m":225201678.177982,
+    "geom:area_square_m":225201486.988558,
     "geom:bbox":"-74.731308,4.198341,-74.498128,4.373457",
     "geom:latitude":4.294868,
     "geom:longitude":-74.614908,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.CU.NI",
         "wd:id":"Q1524825"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503376,
-    "wof:geomhash":"8492f53416fa8dc49d1874a4f9359861",
+    "wof:geomhash":"96bd805b06d9611f45d503be4b577c99",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700689,
-    "wof:lastmodified":1690868063,
+    "wof:lastmodified":1695886090,
     "wof:name":"Nilo",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

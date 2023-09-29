@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005053,
-    "geom:area_square_m":62223827.720385,
+    "geom:area_square_m":62223827.720447,
     "geom:bbox":"-73.1495558766,5.15768357608,-73.0521775678,5.30116878961",
     "geom:latitude":5.230336,
     "geom:longitude":-73.099442,
@@ -95,9 +95,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.SD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502928,
-    "wof:geomhash":"4055c2f97b8f5674d0944ad81519c624",
+    "wof:geomhash":"13ac44e407bfa5fd450a31ca4a1fa030",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108700191,
-    "wof:lastmodified":1566707566,
+    "wof:lastmodified":1695886079,
     "wof:name":"Berbeo",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

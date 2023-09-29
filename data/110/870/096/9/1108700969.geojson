@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00558,
-    "geom:area_square_m":68979153.420382,
+    "geom:area_square_m":68979153.420421,
     "geom:bbox":"-77.5686351295,1.18470555361,-77.5009479144,1.31788312485",
     "geom:latitude":1.245725,
     "geom:longitude":-77.53131,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"CO.NA.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503655,
-    "wof:geomhash":"8eb25ab4d7b9e98c4a80a1d5a0dcf0bd",
+    "wof:geomhash":"2dee0c6bf02d7a304c472c5a848627fc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108700969,
-    "wof:lastmodified":1566707483,
+    "wof:lastmodified":1695886004,
     "wof:name":"Ancuya",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

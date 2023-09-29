@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016914,
-    "geom:area_square_m":208989029.084091,
+    "geom:area_square_m":208988934.046818,
     "geom:bbox":"-76.933516,2.131236,-76.640993,2.266717",
     "geom:latitude":2.187398,
     "geom:longitude":-76.782283,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CA.LS",
         "wd:id":"Q508563"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503174,
-    "wof:geomhash":"455ba8be61c9bd23bce5102153563ad4",
+    "wof:geomhash":"6bdc9360e2b30fc8f080a2544105ce94",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700467,
-    "wof:lastmodified":1690867949,
+    "wof:lastmodified":1695885989,
     "wof:name":"La Sierra",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

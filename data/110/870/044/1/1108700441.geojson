@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064537,
-    "geom:area_square_m":797589190.961534,
+    "geom:area_square_m":797589148.56896,
     "geom:bbox":"-77.136382,1.635942,-76.808108,2.11101",
     "geom:latitude":1.854384,
     "geom:longitude":-76.96366,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503156,
-    "wof:geomhash":"cf7033449ccd187ce362668472e272ec",
+    "wof:geomhash":"4bbd1c095aafe2cd15ad7ce2180929c8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1108700441,
-    "wof:lastmodified":1627522015,
+    "wof:lastmodified":1695886509,
     "wof:name":"Bol\u00edvar",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

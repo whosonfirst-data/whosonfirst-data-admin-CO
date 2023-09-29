@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014044,
-    "geom:area_square_m":172810098.854331,
+    "geom:area_square_m":172810051.642874,
     "geom:bbox":"-74.167425,5.59413,-74.039461,5.761199",
     "geom:latitude":5.676382,
     "geom:longitude":-74.107254,
@@ -112,9 +112,10 @@
         "hasc:id":"CO.BY.SP",
         "wd:id":"Q1575910"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503043,
-    "wof:geomhash":"5273aefe0ae8f6f656cfeb1e5d6c1545",
+    "wof:geomhash":"d3f4b7d34769120c2170ecad32cb3203",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108700319,
-    "wof:lastmodified":1690867978,
+    "wof:lastmodified":1695886010,
     "wof:name":"San Pablo De Borbur",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

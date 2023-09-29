@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040651,
-    "geom:area_square_m":499396164.490705,
+    "geom:area_square_m":499396164.490714,
     "geom:bbox":"-76.0398580603,6.39443946102,-75.794941486,6.68362579062",
     "geom:latitude":6.529395,
     "geom:longitude":-75.898434,
@@ -149,9 +149,10 @@
         "hasc:id":"CO.AN.AT",
         "wd:id":"Q927703"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502654,
-    "wof:geomhash":"b6f1f3502fd83f84d6c2666d5d875618",
+    "wof:geomhash":"b3975f335575c97fd163c5def2d65799",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1108699913,
-    "wof:lastmodified":1566707433,
+    "wof:lastmodified":1695886617,
     "wof:name":"Santa Fe De Antioquia",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

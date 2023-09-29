@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062922,
-    "geom:area_square_m":777402472.971936,
+    "geom:area_square_m":777402472.972474,
     "geom:bbox":"-77.4033161063,2.14603558889,-77.1328862885,2.50943193193",
     "geom:latitude":2.329424,
     "geom:longitude":-77.263174,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.AG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503153,
-    "wof:geomhash":"45c12f64ddc948ce285c6c4bb8d658c0",
+    "wof:geomhash":"89afc6b285f002374d6dc98ea4568541",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1108700437,
-    "wof:lastmodified":1566707563,
+    "wof:lastmodified":1695886077,
     "wof:name":"Argelia",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

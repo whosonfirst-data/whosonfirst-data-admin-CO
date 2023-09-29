@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031407,
-    "geom:area_square_m":387067136.606038,
+    "geom:area_square_m":387066912.56979,
     "geom:bbox":"-73.647142,4.525255,-73.323301,4.802046",
     "geom:latitude":4.654774,
     "geom:longitude":-73.510369,
@@ -155,12 +155,13 @@
         "qs_pg:id":1015096,
         "wd:id":"Q1577621"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009428,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4290edf8a7c03d5ce79b8a16e74a91f1",
+    "wof:geomhash":"6e8640b84996769c31cc6ad1ece0c310",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421184953,
-    "wof:lastmodified":1690868295,
+    "wof:lastmodified":1695886249,
     "wof:name":"Gachal\u00e1",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

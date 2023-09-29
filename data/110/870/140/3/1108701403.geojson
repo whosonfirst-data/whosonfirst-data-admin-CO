@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014691,
-    "geom:area_square_m":179220509.072256,
+    "geom:area_square_m":179220438.759354,
     "geom:bbox":"-75.401566,9.305043,-75.254713,9.47745",
     "geom:latitude":9.39127,
     "geom:longitude":-75.327966,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.SU.MO",
         "wd:id":"Q1526204"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504000,
-    "wof:geomhash":"6ce433b1862b817ddb5818c67c191240",
+    "wof:geomhash":"9550a086d57fbf8532937490d1bbe8ea",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701403,
-    "wof:lastmodified":1690868090,
+    "wof:lastmodified":1695886113,
     "wof:name":"Morroa",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073813,
-    "geom:area_square_m":910457374.809693,
+    "geom:area_square_m":910457320.371367,
     "geom:bbox":"-76.313001,3.888515,-75.820155,4.185654",
     "geom:latitude":4.028561,
     "geom:longitude":-76.032205,
@@ -171,9 +171,10 @@
         "hasc:id":"CO.VC.TU",
         "wd:id":"Q1002577"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504126,
-    "wof:geomhash":"3857d3759874a13f24721b61e48d17b3",
+    "wof:geomhash":"cca044b1f3a2c19bef67ce99cac12cfe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1108701505,
-    "wof:lastmodified":1690867938,
+    "wof:lastmodified":1695885978,
     "wof:name":"Tulu\u00e1",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

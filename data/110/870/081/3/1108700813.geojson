@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006566,
-    "geom:area_square_m":81135726.325901,
+    "geom:area_square_m":81135619.768934,
     "geom:bbox":"-76.026217,1.954958,-75.862371,2.050707",
     "geom:latitude":2.006135,
     "geom:longitude":-75.951136,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.HU.EL",
         "wd:id":"Q1656750"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503501,
-    "wof:geomhash":"3c48b97e5f8db2d4b1541e89356cb7b2",
+    "wof:geomhash":"47c16d109cb2799ec57a41eb13d1990b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700813,
-    "wof:lastmodified":1690868042,
+    "wof:lastmodified":1695886072,
     "wof:name":"El\u00edas",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

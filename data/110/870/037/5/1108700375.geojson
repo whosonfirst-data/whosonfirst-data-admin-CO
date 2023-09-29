@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017037,
-    "geom:area_square_m":209800722.938894,
+    "geom:area_square_m":209800467.166256,
     "geom:bbox":"-75.837339,5.112282,-75.661608,5.285754",
     "geom:latitude":5.200229,
     "geom:longitude":-75.752929,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CL.AN",
         "wd:id":"Q547678"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503095,
-    "wof:geomhash":"d3859543d0a83718adf34c21d9b8cedb",
+    "wof:geomhash":"649d634567fae7628a7d8ff16f51e7ad",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700375,
-    "wof:lastmodified":1690867987,
+    "wof:lastmodified":1695886017,
     "wof:name":"Anserma",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

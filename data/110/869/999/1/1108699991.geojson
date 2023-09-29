@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046868,
-    "geom:area_square_m":576208914.577773,
+    "geom:area_square_m":576208943.064854,
     "geom:bbox":"-74.817298,5.989452,-74.53373,6.291999",
     "geom:latitude":6.139337,
     "geom:longitude":-74.684134,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.AN",
         "wd:id":"Q1526008"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502747,
-    "wof:geomhash":"a7fc2b972ebf1a3516bf7bba7a4a1324",
+    "wof:geomhash":"055ea949e777e705e8f8c4f51fc15883",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108699991,
-    "wof:lastmodified":1690867926,
+    "wof:lastmodified":1695885970,
     "wof:name":"Puerto Nare",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

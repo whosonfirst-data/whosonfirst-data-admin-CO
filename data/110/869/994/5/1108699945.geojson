@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031762,
-    "geom:area_square_m":389121238.74265,
+    "geom:area_square_m":389121359.824132,
     "geom:bbox":"-76.823261,7.712292,-76.452428,7.883459",
     "geom:latitude":7.789416,
     "geom:longitude":-76.655395,
@@ -147,9 +147,10 @@
         "hasc:id":"CO.AN.CP",
         "wd:id":"Q1946648"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502687,
-    "wof:geomhash":"3235ebd4fcc800134a6ffafe1dfb728e",
+    "wof:geomhash":"4d6211abb5446e1909fcbf348b3afb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108699945,
-    "wof:lastmodified":1690867931,
+    "wof:lastmodified":1695885973,
     "wof:name":"Carepa",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

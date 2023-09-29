@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020914,
-    "geom:area_square_m":257809993.900062,
+    "geom:area_square_m":257809521.222675,
     "geom:bbox":"-76.069966,4.400113,-75.865039,4.567952",
     "geom:latitude":4.483852,
     "geom:longitude":-75.965203,
@@ -156,9 +156,10 @@
     "wof:concordances":{
         "hasc:id":"CO.VC.LV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504114,
-    "wof:geomhash":"e0e6a36781142a80e101700eeb009be5",
+    "wof:geomhash":"92a90485262662913fbc7ed1fa0f1b58",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":1108701497,
-    "wof:lastmodified":1636506774,
+    "wof:lastmodified":1695886218,
     "wof:name":"La Victoria",
     "wof:parent_id":85670203,
     "wof:placetype":"county",

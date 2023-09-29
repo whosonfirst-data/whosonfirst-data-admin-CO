@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014029,
-    "geom:area_square_m":170679271.088996,
+    "geom:area_square_m":170679355.17416,
     "geom:bbox":"-74.909738,10.217802,-74.701033,10.364531",
     "geom:latitude":10.293719,
     "geom:longitude":-74.817445,
@@ -106,9 +106,10 @@
         "hasc:id":"CO.MA.CE",
         "wd:id":"Q1575697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503568,
-    "wof:geomhash":"6a1fb7b65dce3c0c89e2dcac65a0a6e3",
+    "wof:geomhash":"c44ebdb9093b567f99a2edb0dd6e1796",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108700877,
-    "wof:lastmodified":1690868031,
+    "wof:lastmodified":1695886064,
     "wof:name":"Cerro De San Antonio",
     "wof:parent_id":85670223,
     "wof:placetype":"county",

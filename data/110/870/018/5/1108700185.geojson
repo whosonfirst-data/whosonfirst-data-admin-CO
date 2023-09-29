@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004669,
-    "geom:area_square_m":57513381.206488,
+    "geom:area_square_m":57513337.51604,
     "geom:bbox":"-73.439648,4.904925,-73.345008,5.015578",
     "geom:latitude":4.954912,
     "geom:longitude":-73.388054,
@@ -132,9 +132,10 @@
         "hasc:id":"CO.BY.AL",
         "wd:id":"Q1656170"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502923,
-    "wof:geomhash":"c2093f6e415b541d684fa819248c1b1d",
+    "wof:geomhash":"1054bf07f54616f69f4fc6bdba591ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700185,
-    "wof:lastmodified":1690868037,
+    "wof:lastmodified":1695886069,
     "wof:name":"Almeida",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

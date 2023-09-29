@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015107,
-    "geom:area_square_m":186684113.250189,
+    "geom:area_square_m":186683950.784441,
     "geom:bbox":"-75.859211,1.989566,-75.668491,2.175233",
     "geom:latitude":2.080666,
     "geom:longitude":-75.767537,
@@ -126,9 +126,10 @@
         "hasc:id":"CO.HU.AM",
         "wd:id":"Q1654714"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503495,
-    "wof:geomhash":"b821ce822ca010067071363b1136afa9",
+    "wof:geomhash":"bb4960396cd3b8449f493cc2971df0c9",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1108700803,
-    "wof:lastmodified":1690868036,
+    "wof:lastmodified":1695886212,
     "wof:name":"Altamira",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

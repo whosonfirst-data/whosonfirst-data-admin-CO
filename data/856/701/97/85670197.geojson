@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.105216,
-    "geom:area_square_m":26029836137.000851,
+    "geom:area_square_m":26029835342.169399,
     "geom:bbox":"-77.186797,-0.560016,-73.841302,1.467815",
     "geom:latitude":0.458449,
     "geom:longitude":-75.864116,
@@ -353,17 +353,19 @@
         "gn:id":3671178,
         "gp:id":2345067,
         "hasc:id":"CO.PU",
+        "iso:code":"CO-PUT",
         "iso:id":"CO-PUT",
         "qs_pg:id":894866,
         "unlc:id":"CO-PUT",
         "wd:id":"Q232953",
         "wk:page":"Putumayo Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b4f6e3c0ae1314a5b9300bfe0b02eec9",
+    "wof:geomhash":"1c48c3cf72da7e795c98b58a80acd08e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -378,7 +380,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867898,
+    "wof:lastmodified":1695884973,
     "wof:name":"Putumayo",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

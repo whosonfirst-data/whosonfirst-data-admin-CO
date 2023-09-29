@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020119,
-    "geom:area_square_m":248682584.985207,
+    "geom:area_square_m":248682566.201339,
     "geom:bbox":"-77.302938,1.448806,-77.145603,1.670807",
     "geom:latitude":1.542851,
     "geom:longitude":-77.21876,
@@ -165,9 +165,10 @@
         "hasc:id":"CO.NA.SL",
         "wd:id":"Q1525075"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503730,
-    "wof:geomhash":"41ce09b352502f534e55908416c3fd04",
+    "wof:geomhash":"463f97784d477a1375ab4de91c40d301",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -177,7 +178,7 @@
         }
     ],
     "wof:id":1108701071,
-    "wof:lastmodified":1690868014,
+    "wof:lastmodified":1695886206,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85670193,
     "wof:placetype":"county",

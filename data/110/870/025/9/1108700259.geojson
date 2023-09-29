@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0047,
-    "geom:area_square_m":57879524.882963,
+    "geom:area_square_m":57879296.721255,
     "geom:bbox":"-73.494637,5.06441,-73.419855,5.158479",
     "geom:latitude":5.113289,
     "geom:longitude":-73.459039,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.LC",
         "wd:id":"Q1654986"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502989,
-    "wof:geomhash":"bdebe041c1c367d96733152cb26ccbfb",
+    "wof:geomhash":"ef9db41232b493563e56ab6496ef8192",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700259,
-    "wof:lastmodified":1690867957,
+    "wof:lastmodified":1695885995,
     "wof:name":"La Capilla",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

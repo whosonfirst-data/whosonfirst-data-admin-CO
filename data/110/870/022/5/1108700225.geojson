@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005076,
-    "geom:area_square_m":62438553.968701,
+    "geom:area_square_m":62438433.348256,
     "geom:bbox":"-72.897693,5.76906,-72.797425,5.879387",
     "geom:latitude":5.823235,
     "geom:longitude":-72.845716,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.CL",
         "wd:id":"Q928725"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502959,
-    "wof:geomhash":"f6b0063b4b4cafc48d32cf8a5b61df80",
+    "wof:geomhash":"c36eaaab5f28aa88acfe392735daa757",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700225,
-    "wof:lastmodified":1690867957,
+    "wof:lastmodified":1695885994,
     "wof:name":"Corrales",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

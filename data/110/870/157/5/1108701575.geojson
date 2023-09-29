@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031301,
-    "geom:area_square_m":387041667.917411,
+    "geom:area_square_m":387040611.254627,
     "geom:bbox":"-77.050132,0.24097,-76.641304,0.383739",
     "geom:latitude":0.306505,
     "geom:longitude":-76.857602,
@@ -140,9 +140,10 @@
         "hasc:id":"CO.PU.VA",
         "wd:id":"Q739165"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504197,
-    "wof:geomhash":"e9494a1c6350d1668e4f1bbfcdd38b0c",
+    "wof:geomhash":"9b0062e6f7487778aeab20eaa41fb136",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108701575,
-    "wof:lastmodified":1690867936,
+    "wof:lastmodified":1695886200,
     "wof:name":"San Miguel",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

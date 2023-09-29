@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079749,
-    "geom:area_square_m":975170349.494993,
+    "geom:area_square_m":975170294.712417,
     "geom:bbox":"-74.928184,8.353564,-74.562582,8.770174",
     "geom:latitude":8.544839,
     "geom:longitude":-74.726456,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.SU.MA",
         "wd:id":"Q2173993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503999,
-    "wof:geomhash":"068079edf5557733eb30cb2bdbfb2ffc",
+    "wof:geomhash":"b553d1fa36aa1196a3ca5a19023bb111",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701401,
-    "wof:lastmodified":1690868089,
+    "wof:lastmodified":1695886113,
     "wof:name":"Majagual",
     "wof:parent_id":85670227,
     "wof:placetype":"county",

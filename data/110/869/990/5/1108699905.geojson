@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098845,
-    "geom:area_square_m":1213178739.116287,
+    "geom:area_square_m":1213178776.437242,
     "geom:bbox":"-75.182468,6.74794,-74.836291,7.292981",
     "geom:latitude":6.97846,
     "geom:longitude":-74.981053,
@@ -150,9 +150,10 @@
         "hasc:id":"CO.AN.AF",
         "wd:id":"Q1441668"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502647,
-    "wof:geomhash":"c7c6e24495ec932551e706c8cede6226",
+    "wof:geomhash":"779da8018014c6cc9deb7c9a67710d82",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108699905,
-    "wof:lastmodified":1690867926,
+    "wof:lastmodified":1695885970,
     "wof:name":"Amalfi",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

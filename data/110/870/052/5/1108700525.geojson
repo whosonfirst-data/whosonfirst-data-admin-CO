@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144549,
-    "geom:area_square_m":1760485694.639097,
+    "geom:area_square_m":1760485668.386762,
     "geom:bbox":"-73.63126,9.720709,-72.893886,10.258586",
     "geom:latitude":9.950559,
     "geom:longitude":-73.219177,
@@ -135,9 +135,10 @@
         "hasc:id":"CO.CE.AC",
         "wd:id":"Q781307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503215,
-    "wof:geomhash":"ecf62f4bde85e7897411386fcfd76752",
+    "wof:geomhash":"6ede0644501c80f9ea515dfb67d75246",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108700525,
-    "wof:lastmodified":1690867980,
+    "wof:lastmodified":1695886011,
     "wof:name":"Agust\u00edn Codazzi",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

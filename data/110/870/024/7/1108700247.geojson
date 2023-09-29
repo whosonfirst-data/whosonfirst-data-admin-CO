@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003037,
-    "geom:area_square_m":37406423.402137,
+    "geom:area_square_m":37406423.402129,
     "geom:bbox":"-73.5203388048,4.98287331043,-73.4462664594,5.06228834171",
     "geom:latitude":5.01362,
     "geom:longitude":-73.485802,
@@ -104,9 +104,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BY.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502980,
-    "wof:geomhash":"072a24a3422e3a0695af0576967eb802",
+    "wof:geomhash":"6df11340ec8e256f373209b720766f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1108700247,
-    "wof:lastmodified":1566707462,
+    "wof:lastmodified":1695885986,
     "wof:name":"Guateque",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

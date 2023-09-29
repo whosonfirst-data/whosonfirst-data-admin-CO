@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.222063,
-    "geom:area_square_m":2743151513.645822,
+    "geom:area_square_m":2743151513.646425,
     "geom:bbox":"-77.3116715414,2.20678830643,-76.7079901579,2.82636879185",
     "geom:latitude":2.534726,
     "geom:longitude":-77.005347,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CO.CA.ET"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503165,
-    "wof:geomhash":"3554d96ca2fd132380444e5aeb6b74a2",
+    "wof:geomhash":"99b8eeeb508ddf5f3e0553efce74da9b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1108700455,
-    "wof:lastmodified":1566707547,
+    "wof:lastmodified":1695886063,
     "wof:name":"El Tambo",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

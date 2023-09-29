@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003534,
-    "geom:area_square_m":42992831.76861,
+    "geom:area_square_m":42992805.274244,
     "geom:bbox":"-74.940339,10.253183,-74.864907,10.356364",
     "geom:latitude":10.311562,
     "geom:longitude":-74.905108,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.AT.SU",
         "wd:id":"Q1449926"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502841,
-    "wof:geomhash":"b9e953d7673b0aee0f324c00d34d10ca",
+    "wof:geomhash":"1402d99fabb7d56a7da056f664c8d5a4",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700085,
-    "wof:lastmodified":1690867986,
+    "wof:lastmodified":1695886017,
     "wof:name":"Suan",
     "wof:parent_id":85670207,
     "wof:placetype":"county",

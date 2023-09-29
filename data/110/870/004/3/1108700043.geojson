@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059598,
-    "geom:area_square_m":731461516.831022,
+    "geom:area_square_m":731461667.820796,
     "geom:bbox":"-75.657119,6.800775,-75.302582,7.242019",
     "geom:latitude":6.988758,
     "geom:longitude":-75.453874,
@@ -183,9 +183,10 @@
         "hasc:id":"CO.AN.YR",
         "wd:id":"Q972405"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502808,
-    "wof:geomhash":"f624b3752f6f559ba8271e1001f0be8f",
+    "wof:geomhash":"244e695b5c31215a15ab5a8decfeb3e2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -195,7 +196,7 @@
         }
     ],
     "wof:id":1108700043,
-    "wof:lastmodified":1690868053,
+    "wof:lastmodified":1695886212,
     "wof:name":"Yarumal",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

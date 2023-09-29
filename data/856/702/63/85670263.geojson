@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.102422,
-    "geom:area_square_m":99839007561.054977,
+    "geom:area_square_m":99839007708.906662,
     "geom:bbox":"-71.077663,2.737103,-67.409803,6.324317",
     "geom:latitude":4.71385,
     "geom:longitude":-69.414306,
@@ -347,17 +347,19 @@
         "gn:id":3666082,
         "gp:id":2345076,
         "hasc:id":"CO.VD",
+        "iso:code":"CO-VID",
         "iso:id":"CO-VID",
         "qs_pg:id":423663,
         "unlc:id":"CO-VID",
         "wd:id":"Q268729",
         "wk:page":"Vichada Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd20686d19eb741e2b5d98fc592efb90",
+    "wof:geomhash":"56fef684539a0127a127b8557544db4f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -372,7 +374,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867911,
+    "wof:lastmodified":1695884395,
     "wof:name":"Vichada",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

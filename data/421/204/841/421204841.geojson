@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026503,
-    "geom:area_square_m":326661970.590194,
+    "geom:area_square_m":326661970.688973,
     "geom:bbox":"-75.074803,4.449412,-74.864283,4.696531",
     "geom:latitude":4.580291,
     "geom:longitude":-74.989061,
@@ -166,12 +166,13 @@
         "qs_pg:id":249577,
         "wd:id":"Q1575371"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010199,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4194521d1a8dd496846dd75f0074f516",
+    "wof:geomhash":"5125ebf6a69f96ee81e4b7af62ec1033",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -181,7 +182,7 @@
         }
     ],
     "wof:id":421204841,
-    "wof:lastmodified":1690868145,
+    "wof:lastmodified":1695886212,
     "wof:name":"Alvarado",
     "wof:parent_id":85670175,
     "wof:placetype":"county",

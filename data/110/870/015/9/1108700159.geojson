@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165316,
-    "geom:area_square_m":2027026342.807699,
+    "geom:area_square_m":2027026552.807211,
     "geom:bbox":"-74.409403,6.999822,-73.798704,7.722632",
     "geom:latitude":7.422111,
     "geom:longitude":-74.138545,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"CO.BL.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474502904,
-    "wof:geomhash":"0f247dd213258b9d718b17669d027bdb",
+    "wof:geomhash":"69f686ff48fbbc18170acfb7fa2754a0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108700159,
-    "wof:lastmodified":1636506760,
+    "wof:lastmodified":1695886199,
     "wof:name":"San Pablo",
     "wof:parent_id":85670209,
     "wof:placetype":"county",

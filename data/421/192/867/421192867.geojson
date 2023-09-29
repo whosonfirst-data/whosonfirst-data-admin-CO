@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001841,
-    "geom:area_square_m":22152042.339258,
+    "geom:area_square_m":22152042.339075,
     "geom:bbox":"-81.3964565355,13.3203863352,-81.3490751136,13.3947728457",
     "geom:latitude":13.353325,
     "geom:longitude":-81.373967,
@@ -136,12 +136,13 @@
         "qs_pg:id":1182306,
         "wk:page":"Santa Catalina, Bol\u00edvar"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009751,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bb9886aaed669a3886687d1e0afc579",
+    "wof:geomhash":"9a409b26ccec2e9e61e9d7563c21f484",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421192867,
-    "wof:lastmodified":1582393645,
+    "wof:lastmodified":1695886204,
     "wof:name":"Santa Catalina",
     "wof:parent_id":85670151,
     "wof:placetype":"county",

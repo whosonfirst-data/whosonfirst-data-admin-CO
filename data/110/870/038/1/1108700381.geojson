@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007287,
-    "geom:area_square_m":89702186.814313,
+    "geom:area_square_m":89702046.595477,
     "geom:bbox":"-75.60805,5.329462,-75.511308,5.457241",
     "geom:latitude":5.393347,
     "geom:longitude":-75.55755,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.CL.LM",
         "wd:id":"Q1574759"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503103,
-    "wof:geomhash":"5efa2c45daa48029c24a4dcc6af2e9d0",
+    "wof:geomhash":"e704ac13b24834aad7dca6c72e480af6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700381,
-    "wof:lastmodified":1690867974,
+    "wof:lastmodified":1695886007,
     "wof:name":"La Merced",
     "wof:parent_id":85670155,
     "wof:placetype":"county",

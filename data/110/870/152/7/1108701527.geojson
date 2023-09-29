@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015912,
-    "geom:area_square_m":195610585.119192,
+    "geom:area_square_m":195610720.193602,
     "geom:bbox":"-72.418794,6.074065,-72.273057,6.307163",
     "geom:latitude":6.172655,
     "geom:longitude":-72.346211,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.CS.LS",
         "wd:id":"Q952145"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504155,
-    "wof:geomhash":"60b1f5cc0ea94a0e14c981a49d3e33b8",
+    "wof:geomhash":"dc780f851c29f59a8ecaee7e3fc1975c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701527,
-    "wof:lastmodified":1690868020,
+    "wof:lastmodified":1695886053,
     "wof:name":"La Salina",
     "wof:parent_id":85670241,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158137,
-    "geom:area_square_m":1955255823.6863,
+    "geom:area_square_m":1955254315.29583,
     "geom:bbox":"-77.186797,0.41422,-76.652642,0.944851",
     "geom:latitude":0.672889,
     "geom:longitude":-76.943156,
@@ -117,9 +117,10 @@
         "hasc:id":"CO.PU.OR",
         "wd:id":"Q12981826"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474504187,
-    "wof:geomhash":"5c613ea18e3ffef23b63e84e45189098",
+    "wof:geomhash":"975937f5c89f7ec87014a7d564422089",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1108701561,
-    "wof:lastmodified":1690867944,
+    "wof:lastmodified":1695885985,
     "wof:name":"Orito",
     "wof:parent_id":85670197,
     "wof:placetype":"county",

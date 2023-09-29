@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033453,
-    "geom:area_square_m":411971938.452681,
+    "geom:area_square_m":411971745.296657,
     "geom:bbox":"-74.302568,5.0384,-74.038828,5.295768",
     "geom:latitude":5.169137,
     "geom:longitude":-74.164169,
@@ -173,12 +173,13 @@
         "qs_pg:id":54807,
         "wd:id":"Q680909"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009177,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f24403892f8f6560731d6f0f4fbdde96",
+    "wof:geomhash":"80c50883ddb12f8c35f8fafbf6eee395",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421178281,
-    "wof:lastmodified":1690868347,
+    "wof:lastmodified":1695886265,
     "wof:name":"Pacho",
     "wof:parent_id":85670159,
     "wof:placetype":"county",

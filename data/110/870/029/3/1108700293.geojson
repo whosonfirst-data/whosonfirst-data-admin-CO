@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021417,
-    "geom:area_square_m":263521780.588081,
+    "geom:area_square_m":263521712.765458,
     "geom:bbox":"-74.093044,5.565653,-73.894013,5.820269",
     "geom:latitude":5.68592,
     "geom:longitude":-74.003067,
@@ -129,9 +129,10 @@
         "hasc:id":"CO.BY.PA",
         "wd:id":"Q1577120"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503018,
-    "wof:geomhash":"a24d0e73df563619773b821e2670fff3",
+    "wof:geomhash":"1651b37e570fe8ad095a26fe8efebc93",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108700293,
-    "wof:lastmodified":1690868041,
+    "wof:lastmodified":1695886072,
     "wof:name":"Pauna",
     "wof:parent_id":85670133,
     "wof:placetype":"county",

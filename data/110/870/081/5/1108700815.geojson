@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020107,
-    "geom:area_square_m":248474123.745322,
+    "geom:area_square_m":248473947.07829,
     "geom:bbox":"-75.78991,1.875885,-75.591358,2.088718",
     "geom:latitude":1.98538,
     "geom:longitude":-75.697609,
@@ -108,9 +108,10 @@
         "hasc:id":"CO.HU.GD",
         "wd:id":"Q1525875"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503505,
-    "wof:geomhash":"a75aa9d45de846d283561eb96f9f34e7",
+    "wof:geomhash":"f9ed3502c022753c9dc24d5f557f51f8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":1108700815,
-    "wof:lastmodified":1690868042,
+    "wof:lastmodified":1695886073,
     "wof:name":"Guadalupe",
     "wof:parent_id":85670189,
     "wof:placetype":"county",

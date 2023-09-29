@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041822,
-    "geom:area_square_m":516429160.407832,
+    "geom:area_square_m":516429300.261109,
     "geom:bbox":"-76.61534,2.846092,-76.37358,3.149304",
     "geom:latitude":2.984907,
     "geom:longitude":-76.501614,
@@ -124,9 +124,10 @@
         "hasc:id":"CO.CA.SN",
         "wd:id":"Q1093175"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503197,
-    "wof:geomhash":"2085dfddd859d105f19bff429eb83938",
+    "wof:geomhash":"0fbc11838f53622b7210dc6236b6d17b",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":1108700501,
-    "wof:lastmodified":1690868062,
+    "wof:lastmodified":1695886088,
     "wof:name":"Santander De Quilichao",
     "wof:parent_id":85670185,
     "wof:placetype":"county",

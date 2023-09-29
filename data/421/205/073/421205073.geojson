@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017785,
-    "geom:area_square_m":218453421.113811,
+    "geom:area_square_m":218453490.27,
     "geom:bbox":"-75.66551,6.506151,-75.457008,6.678852",
     "geom:latitude":6.595435,
     "geom:longitude":-75.559595,
@@ -170,12 +170,13 @@
         "qs_pg:id":1194304,
         "wd:id":"Q1575512"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459010211,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99fd551275d75d6979264796925af64e",
+    "wof:geomhash":"1a17aa42f751a1edf56ec1495d1d6c46",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421205073,
-    "wof:lastmodified":1690868167,
+    "wof:lastmodified":1695886223,
     "wof:name":"Entrerrios",
     "wof:parent_id":85670129,
     "wof:placetype":"county",

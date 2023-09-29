@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.758818,
-    "geom:area_square_m":71124504055.904388,
+    "geom:area_square_m":71124502160.770264,
     "geom:bbox":"-70.942492,1.167028,-66.847215,4.047405",
     "geom:latitude":2.726296,
     "geom:longitude":-68.812833,
@@ -357,17 +357,19 @@
         "gn:id":3681652,
         "gp:id":2345060,
         "hasc:id":"CO.GN",
+        "iso:code":"CO-GUA",
         "iso:id":"CO-GUA",
         "qs_pg:id":894869,
         "unlc:id":"CO-GUA",
         "wd:id":"Q238645",
         "wk:page":"Guain\u00eda Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c6574ae7a88101af869547b4f355f709",
+    "wof:geomhash":"5fec1da41c93237768c0833d00b2cddf",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -382,7 +384,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867913,
+    "wof:lastmodified":1695884396,
     "wof:name":"Guain\u00eda",
     "wof:parent_id":85632519,
     "wof:placetype":"region",

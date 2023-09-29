@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060917,
-    "geom:area_square_m":742805020.447448,
+    "geom:area_square_m":742805020.447199,
     "geom:bbox":"-73.577594851,9.4242555663,-73.0673405972,9.69278889762",
     "geom:latitude":9.550596,
     "geom:longitude":-73.326032,
@@ -150,12 +150,13 @@
         "qs_pg:id":12277,
         "wd:id":"Q950053"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"475554ad338fd85c555b49ecf558c7b2",
+    "wof:geomhash":"fdfe9ebc37740e489b498fa909a5893d",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421177921,
-    "wof:lastmodified":1582393684,
+    "wof:lastmodified":1695886262,
     "wof:name":"La Jagua De Ibirico",
     "wof:parent_id":85670213,
     "wof:placetype":"county",

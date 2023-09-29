@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006383,
-    "geom:area_square_m":78507799.737289,
+    "geom:area_square_m":78507768.018166,
     "geom:bbox":"-73.767449,5.894871,-73.666834,6.001247",
     "geom:latitude":5.94512,
     "geom:longitude":-73.722723,
@@ -123,9 +123,10 @@
         "hasc:id":"CO.ST.GV",
         "wd:id":"Q597693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CO",
     "wof:created":1474503907,
-    "wof:geomhash":"8292ae05acdef7efb2098dd7f0a6fed0",
+    "wof:geomhash":"cc07ae1e7ed1e2e783dea5716ec50d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":1108701269,
-    "wof:lastmodified":1690868001,
+    "wof:lastmodified":1695886028,
     "wof:name":"Guavat\u00e1",
     "wof:parent_id":85670141,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.918073,
-    "geom:area_square_m":48178406029.112312,
+    "geom:area_square_m":48178406066.08493,
     "geom:bbox":"-77.883,3.964677,-76.002611,8.680162",
     "geom:latitude":5.938831,
     "geom:longitude":-76.938253,
@@ -366,17 +366,19 @@
         "gn:id":3686431,
         "gp:id":2345057,
         "hasc:id":"CO.CH",
+        "iso:code":"CO-CHO",
         "iso:id":"CO-CHO",
         "qs_pg:id":890041,
         "unlc:id":"CO-CHO",
         "wd:id":"Q230584",
         "wk:page":"Choc\u00f3 Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CO",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9111030e40676257cfdc4dd636eac205",
+    "wof:geomhash":"016e2d704a1f7839c7bd9a8d695f9783",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690867908,
+    "wof:lastmodified":1695884393,
     "wof:name":"Choc\u00f3",
     "wof:parent_id":85632519,
     "wof:placetype":"region",
