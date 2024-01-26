@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3674573
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6957970
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"33a7a10aa9752f0673644c115c779575",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1193212385,
-    "wof:lastmodified":1566707340,
+    "wof:lastmodified":1706239482,
     "wof:name":"Moniquira",
     "wof:parent_id":421170589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310349441
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -101,6 +101,11 @@
     "wof:concordances":{
         "gn:id":3738345
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3738055
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"e56c92f6d12c070125371a8c78a38db2",
     "wof:hierarchy":[
@@ -113,13 +118,15 @@
         }
     ],
     "wof:id":1243412975,
-    "wof:lastmodified":1566708170,
+    "wof:lastmodified":1706239483,
     "wof:name":"Piedecuesta",
     "wof:parent_id":1108701103,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259542347
+    ],
     "wof:tags":[]
 },
   "bbox": [

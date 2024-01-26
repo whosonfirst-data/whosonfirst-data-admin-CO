@@ -9,6 +9,20 @@
     "geom:bbox":"-75.69947,8.79577,-75.69947,8.79577",
     "geom:latitude":8.79577,
     "geom:longitude":-75.69947,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"23678.0",
+    "gn:asciiname":"San Carlos",
+    "gn:country_code":"CO",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3669997,
+    "gn:latitude":8.79577,
+    "gn:longitude":-75.69947,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"San Carlos",
+    "gn:population":24615,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-75.71947,8.77577,-75.67947,8.81577",
     "lbl:max_zoom":14.0,
@@ -161,7 +175,15 @@
         "wk:page":"San Carlos, C\u00f3rdoba"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":269801
+        "gn:id":[
+            3669997
+        ],
+        "qs_pg:id":[
+            269801
+        ],
+        "wk:page":[
+            "San_Carlos%2C_C%C3%B3rdoba"
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459008873,
@@ -179,7 +201,7 @@
         }
     ],
     "wof:id":421170899,
-    "wof:lastmodified":1690868318,
+    "wof:lastmodified":1706239481,
     "wof:name":"San Carlos",
     "wof:parent_id":1108700603,
     "wof:placetype":"locality",
@@ -187,7 +209,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276203013
+    ],
     "wof:tags":[]
 },
   "bbox": [

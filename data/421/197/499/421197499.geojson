@@ -9,6 +9,20 @@
     "geom:bbox":"-74.72084,8.81136,-74.72084,8.81136",
     "geom:latitude":8.81136,
     "geom:longitude":-74.72084,
+    "gn:admin1_code":"27.0",
+    "gn:admin2_code":"70771.0",
+    "gn:asciiname":"Sucre",
+    "gn:country_code":"CO",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3667728,
+    "gn:latitude":8.81136,
+    "gn:longitude":-74.72084,
+    "gn:modification_date":"2018-04-22",
+    "gn:name":"Sucre",
+    "gn:population":23210,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-74.74084,8.79136,-74.70084,8.83136",
     "lbl:max_zoom":14.0,
@@ -80,6 +94,9 @@
     "name:swe_x_preferred":[
         "Sucre"
     ],
+    "name:tgl_x_preferred":[
+        "Sucre"
+    ],
     "name:und_x_variant":[
         "Boca de Granada"
     ],
@@ -126,10 +143,16 @@
         "gn:id":3667731,
         "gp:id":366996,
         "qs_pg:id":288245,
-        "wd:id":"Q1442422"
+        "wd:id":"Q1442422",
+        "wk:page":"Sucre,_Cauca"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1046174
+        "gn:id":[
+            3667728
+        ],
+        "qs_pg:id":[
+            1046174
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459009915,
@@ -147,7 +170,7 @@
         }
     ],
     "wof:id":421197499,
-    "wof:lastmodified":1690868268,
+    "wof:lastmodified":1706239481,
     "wof:name":"Sucre",
     "wof:parent_id":421188689,
     "wof:placetype":"locality",
@@ -155,7 +178,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344204929
+    ],
     "wof:tags":[]
 },
   "bbox": [

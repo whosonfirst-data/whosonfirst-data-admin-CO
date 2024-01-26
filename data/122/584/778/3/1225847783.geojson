@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3669904
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3793451
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"045ab6314b699379b11ab6d28c41542f",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1225847783,
-    "wof:lastmodified":1566708716,
+    "wof:lastmodified":1706239482,
     "wof:name":"San Fermin",
     "wof:parent_id":1108700031,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343270235
+    ],
     "wof:tags":[]
 },
   "bbox": [

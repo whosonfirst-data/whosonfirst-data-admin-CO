@@ -30,6 +30,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "La Arena",
+        "Arena del Norte",
+        "Arenas del Norte"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -41,8 +46,13 @@
     "wof:concordances":{
         "gn:id":3783278
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3689632
+        ]
+    },
     "wof:country":"CO",
-    "wof:geomhash":"9eaf4622db588c6ad09b1259d7f5317a",
+    "wof:geomhash":"5fc49021e21d5f0c772a43c4fe588908",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -53,20 +63,22 @@
         }
     ],
     "wof:id":1226422369,
-    "wof:lastmodified":1566708509,
+    "wof:lastmodified":1706239483,
     "wof:name":"Arenas del Norte",
     "wof:parent_id":1108700599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276417327
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -75.50083000000002,
+    -75.50083,
     8.98611,
-    -75.50083000000002,
+    -75.50083,
     8.98611
 ],
-  "geometry": {"coordinates":[-75.50083000000002,8.98611],"type":"Point"}
+  "geometry": {"coordinates":[-75.50082999999999,8.98611],"type":"Point"}
 }

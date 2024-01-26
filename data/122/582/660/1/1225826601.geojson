@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":3828361
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7544135
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"8a51aeda5614da9a2f2c90be627e40d5",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1225826601,
-    "wof:lastmodified":1566708704,
+    "wof:lastmodified":1706239482,
     "wof:name":"El Recreo",
     "wof:parent_id":1108700809,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243335579
+    ],
     "wof:tags":[]
 },
   "bbox": [

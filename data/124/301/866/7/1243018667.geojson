@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3671401
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3734370
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"c6e0950758326cf424b7aceaa768a3e7",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1243018667,
-    "wof:lastmodified":1566708105,
+    "wof:lastmodified":1706239483,
     "wof:name":"Puerto Merizalde",
     "wof:parent_id":421190219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292947609
+    ],
     "wof:tags":[]
 },
   "bbox": [

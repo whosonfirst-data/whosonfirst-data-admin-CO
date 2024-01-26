@@ -9,9 +9,22 @@
     "geom:bbox":"-72.49443,7.29847,-72.49443,7.29847",
     "geom:latitude":7.29847,
     "geom:longitude":-72.49443,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"54377.0",
+    "gn:asciiname":"Labateca",
     "gn:country":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1553,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3756907,
+    "gn:latitude":7.29889,
+    "gn:longitude":-72.49472,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Labateca",
     "gn:population":1639,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-72.51443,7.27847,-72.47443,7.31847",
     "lbl:latitude":7.29847,
@@ -112,7 +125,13 @@
     "wof:concordances":{
         "gn:id":3679780,
         "qs_pg:id":1046298,
-        "wd:id":"Q1575676"
+        "wd:id":"Q1575676",
+        "wk:page":"Labateca"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3756907
+        ]
     },
     "wof:country":"CO",
     "wof:created":1497297107,
@@ -127,7 +146,7 @@
         }
     ],
     "wof:id":1125940713,
-    "wof:lastmodified":1690868417,
+    "wof:lastmodified":1706239482,
     "wof:name":"Labateca",
     "wof:parent_id":1108701123,
     "wof:placetype":"locality",
@@ -135,7 +154,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310269111
+    ],
     "wof:tags":[]
 },
   "bbox": [

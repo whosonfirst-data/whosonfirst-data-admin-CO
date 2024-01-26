@@ -131,8 +131,13 @@
     "wof:concordances":{
         "gn:id":3783598
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3688067
+        ]
+    },
     "wof:country":"CO",
-    "wof:geomhash":"fd0c6b4d9b1a66a403924bbe59d07fc8",
+    "wof:geomhash":"af1db1aa91ce15b410233822a997f7ba",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -143,20 +148,22 @@
         }
     ],
     "wof:id":1310291573,
-    "wof:lastmodified":1566707713,
+    "wof:lastmodified":1706239484,
     "wof:name":"Caiman",
     "wof:parent_id":1108700607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343238941
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -75.76333000000002,
+    -75.76333,
     8.99944,
-    -75.76333000000002,
+    -75.76333,
     8.99944
 ],
-  "geometry": {"coordinates":[-75.76333000000002,8.99944],"type":"Point"}
+  "geometry": {"coordinates":[-75.76333,8.99944],"type":"Point"}
 }

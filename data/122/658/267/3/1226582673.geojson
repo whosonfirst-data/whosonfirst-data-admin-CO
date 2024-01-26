@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.64083,5.10028,-75.64083,5.10028",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +44,7 @@
         "gn:id":3781527
     },
     "wof:country":"CO",
-    "wof:geomhash":"4b24f420b67560f2acae76d51c0f5c09",
+    "wof:geomhash":"2a5ba939132220fe9465affe89644bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1226582673,
-    "wof:lastmodified":1566708554,
+    "wof:lastmodified":1706239481,
     "wof:name":"La Tebaida",
     "wof:parent_id":421172405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421176797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.64083000000002,
+    -75.64083,
     5.10028,
-    -75.64083000000002,
+    -75.64083,
     5.10028
 ],
-  "geometry": {"coordinates":[-75.64083000000002,5.10028],"type":"Point"}
+  "geometry": {"coordinates":[-75.64082999999999,5.10028],"type":"Point"}
 }

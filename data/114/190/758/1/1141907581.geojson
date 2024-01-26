@@ -9,6 +9,20 @@
     "geom:bbox":"-75.590487,7.03059,-75.590487,7.03059",
     "geom:latitude":7.03059,
     "geom:longitude":-75.590487,
+    "gn:admin1_code":"2",
+    "gn:admin2_code":"5887.0",
+    "gn:asciiname":"Yarumal",
+    "gn:country_code":"CO",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731756,
+    "gn:latitude":7.03028,
+    "gn:longitude":-75.59056,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"Yarumal",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-75.610487103,7.01059022921,-75.570487103,7.05059022921",
     "lbl:latitude":7.03059,
@@ -245,6 +259,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3731756,
         "wd:id":"Q972405"
     },
     "wof:country":"CO",
@@ -260,13 +275,15 @@
         }
     ],
     "wof:id":1141907581,
-    "wof:lastmodified":1690868431,
+    "wof:lastmodified":1706239482,
     "wof:name":"Yarumal",
     "wof:parent_id":1108700043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259888379
+    ],
     "wof:tags":[]
 },
   "bbox": [

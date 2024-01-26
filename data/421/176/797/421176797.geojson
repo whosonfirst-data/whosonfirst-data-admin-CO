@@ -9,6 +9,20 @@
     "geom:bbox":"-75.64083,5.10028,-75.64083,5.10028",
     "geom:latitude":5.10028,
     "geom:longitude":-75.64083,
+    "gn:admin1_code":"37",
+    "gn:admin2_code":"17001.0",
+    "gn:asciiname":"La Tebaida",
+    "gn:country_code":"CO",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3781527,
+    "gn:latitude":5.10028,
+    "gn:longitude":-75.64083,
+    "gn:modification_date":"2016-01-28",
+    "gn:name":"La Tebaida",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-75.66083,5.08028,-75.62083,5.12028",
     "lbl:max_zoom":18.0,
@@ -58,7 +72,12 @@
         "qs_pg:id":1046286
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1082725
+        "gn:id":[
+            3781527
+        ],
+        "qs_pg:id":[
+            1082725
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459009120,
@@ -76,13 +95,15 @@
         }
     ],
     "wof:id":421176797,
-    "wof:lastmodified":1582393688,
+    "wof:lastmodified":1706239481,
     "wof:name":"La Tebaida",
     "wof:parent_id":421172405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226582673
+    ],
     "wof:tags":[]
 },
   "bbox": [

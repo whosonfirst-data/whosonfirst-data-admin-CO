@@ -9,6 +9,20 @@
     "geom:bbox":"-73.86567,5.55456,-73.86567,5.55456",
     "geom:latitude":5.55456,
     "geom:longitude":-73.86567,
+    "gn:admin1_code":"36",
+    "gn:admin2_code":"15131.0",
+    "gn:asciiname":"Caldas",
+    "gn:country_code":"CO",
+    "gn:dem":2671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3687953,
+    "gn:latitude":5.55456,
+    "gn:longitude":-73.86567,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Caldas",
+    "gn:population":475,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-73.88567,5.53456,-73.84567,5.57456",
     "lbl:max_zoom":17.0,
@@ -126,10 +140,16 @@
         "gn:id":3687952,
         "gp:id":352070,
         "qs_pg:id":279876,
-        "wd:id":"Q2430634"
+        "wd:id":"Q2430634",
+        "wk:page":"Caldas,_Boyac%C3%A1"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":887330
+        "gn:id":[
+            3687953
+        ],
+        "qs_pg:id":[
+            887330
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459010029,
@@ -147,7 +167,7 @@
         }
     ],
     "wof:id":421200559,
-    "wof:lastmodified":1690868281,
+    "wof:lastmodified":1706239481,
     "wof:name":"Caldas",
     "wof:parent_id":1108700203,
     "wof:placetype":"locality",
@@ -155,7 +175,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1193076937
+    ],
     "wof:tags":[]
 },
   "bbox": [

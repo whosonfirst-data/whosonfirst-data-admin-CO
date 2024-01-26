@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3682136
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3776536
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"d0e2f7e110b485b79c2aa29b1fb233b9",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1259623585,
-    "wof:lastmodified":1566708343,
+    "wof:lastmodified":1706239483,
     "wof:name":"Garibay",
     "wof:parent_id":1108700357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310357149
+    ],
     "wof:tags":[]
 },
   "bbox": [
