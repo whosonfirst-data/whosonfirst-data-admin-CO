@@ -9,9 +9,23 @@
     "geom:bbox":"-73.49655,6.24518,-73.49655,6.24518",
     "geom:latitude":6.24518,
     "geom:longitude":-73.49655,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68245.0",
+    "gn:asciiname":"El Guacamayo",
+    "gn:cc2":"CO",
     "gn:country":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1974,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3732902,
+    "gn:latitude":6.24528,
+    "gn:longitude":-73.49667,
+    "gn:modification_date":"2018-04-18",
+    "gn:name":"El Guacamayo",
     "gn:population":428,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-73.51655,6.22518,-73.47655,6.26518",
     "lbl:max_zoom":17.0,
@@ -105,6 +119,14 @@
         "wd:id":"Q1655487",
         "wk:page":"El Guacamayo"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3732902
+        ],
+        "wk:page":[
+            "El_Guacamayo"
+        ]
+    },
     "wof:country":"CO",
     "wof:created":1469051812,
     "wof:geomhash":"418c7ba7d5cbab1c1c0aa8694d22859c",
@@ -118,7 +140,7 @@
         }
     ],
     "wof:id":890429371,
-    "wof:lastmodified":1690868409,
+    "wof:lastmodified":1706239482,
     "wof:name":"El Guacamayo",
     "wof:parent_id":1108701239,
     "wof:placetype":"locality",
@@ -126,7 +148,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259934653
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -371,8 +371,13 @@
     "wof:concordances":{
         "gn:id":3732910
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3670126
+        ]
+    },
     "wof:country":"CO",
-    "wof:geomhash":"716283e06eb8e7286d249a86737fe7bb",
+    "wof:geomhash":"55140947b91264f93f2a110ac52fc4df",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -383,20 +388,22 @@
         }
     ],
     "wof:id":1226001355,
-    "wof:lastmodified":1566708689,
+    "wof:lastmodified":1706239483,
     "wof:name":"San Antonio",
     "wof:parent_id":1108701265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243408783
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -73.46694000000002,
+    -73.46694,
     6.18778,
-    -73.46694000000002,
+    -73.46694,
     6.18778
 ],
-  "geometry": {"coordinates":[-73.46694000000002,6.18778],"type":"Point"}
+  "geometry": {"coordinates":[-73.46693999999999,6.18778],"type":"Point"}
 }

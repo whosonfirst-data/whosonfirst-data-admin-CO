@@ -9,6 +9,20 @@
     "geom:bbox":"-74.99278,6.04167,-74.99278,6.04167",
     "geom:latitude":6.04167,
     "geom:longitude":-74.99278,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"5660.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"CO",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3669383,
+    "gn:latitude":6.04343,
+    "gn:longitude":-74.99366,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-75.01278,6.02167,-74.97278,6.06167",
     "lbl:max_zoom":15.0,
@@ -168,7 +182,13 @@
         "gn:id":3770066,
         "gp:id":368396,
         "qs_pg:id":150306,
-        "wd:id":"Q2057762"
+        "wd:id":"Q2057762",
+        "wk:page":"San_Luis%2C_Antioquia"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3669383
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459008744,
@@ -183,7 +203,7 @@
         }
     ],
     "wof:id":421167801,
-    "wof:lastmodified":1690868126,
+    "wof:lastmodified":1706239481,
     "wof:name":"San Luis",
     "wof:parent_id":421170573,
     "wof:placetype":"locality",
@@ -191,7 +211,9 @@
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310307671
+    ],
     "wof:tags":[]
 },
   "bbox": [

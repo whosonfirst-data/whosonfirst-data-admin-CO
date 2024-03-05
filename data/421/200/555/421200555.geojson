@@ -9,6 +9,20 @@
     "geom:bbox":"-74.88356,10.37808,-74.88356,10.37808",
     "geom:latitude":10.37808,
     "geom:longitude":-74.88356,
+    "gn:admin1_code":"4",
+    "gn:admin2_code":"8137.0",
+    "gn:asciiname":"Campo de la Cruz",
+    "gn:country_code":"CO",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":3687758,
+    "gn:latitude":10.37808,
+    "gn:longitude":-74.88356,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Campo de la Cruz",
+    "gn:population":22803,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-74.90356,10.35808,-74.86356,10.39808",
     "lbl:max_zoom":14.0,
@@ -125,7 +139,15 @@
         "wk:page":"Campo de la Cruz"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1046295
+        "gn:id":[
+            3687758
+        ],
+        "qs_pg:id":[
+            1046295
+        ],
+        "wk:page":[
+            "Campo_de_la_Cruz"
+        ]
     },
     "wof:country":"CO",
     "wof:created":1459010029,
@@ -143,7 +165,7 @@
         }
     ],
     "wof:id":421200555,
-    "wof:lastmodified":1690868283,
+    "wof:lastmodified":1706239481,
     "wof:name":"Campo de la Cruz",
     "wof:parent_id":1108700053,
     "wof:placetype":"locality",
@@ -151,7 +173,9 @@
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243072633
+    ],
     "wof:tags":[]
 },
   "bbox": [

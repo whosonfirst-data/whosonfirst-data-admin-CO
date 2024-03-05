@@ -573,6 +573,9 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u0431\u0435\u0440\u0456\u044f"
     ],
+    "name:und_x_variant":[
+        "Charc\u00f3n"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"
     ],
@@ -635,6 +638,11 @@
     "wof:concordances":{
         "gn:id":3780038
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3676598
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"194eaac6152ec0a99e955a8534290587",
     "wof:hierarchy":[
@@ -647,13 +655,15 @@
         }
     ],
     "wof:id":1259385485,
-    "wof:lastmodified":1566708324,
+    "wof:lastmodified":1706239483,
     "wof:name":"Liberia",
     "wof:parent_id":1108699909,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343461421
+    ],
     "wof:tags":[]
 },
   "bbox": [

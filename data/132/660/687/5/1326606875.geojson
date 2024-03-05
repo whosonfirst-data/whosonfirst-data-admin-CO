@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3676053
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3783794
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"bc965e469d645609f52d80c04a1f66d7",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1326606875,
-    "wof:lastmodified":1566706111,
+    "wof:lastmodified":1706239484,
     "wof:name":"Los Mimbres",
     "wof:parent_id":1108700573,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327310711
+    ],
     "wof:tags":[]
 },
   "bbox": [

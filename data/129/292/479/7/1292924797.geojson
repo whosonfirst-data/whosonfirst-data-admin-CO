@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3685352
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3681189
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"0ba3ebd3962cdc02933bd6e817207d57",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1292924797,
-    "wof:lastmodified":1566706621,
+    "wof:lastmodified":1706239484,
     "wof:name":"Huitora",
     "wof:parent_id":1108700425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327224229
+    ],
     "wof:tags":[]
 },
   "bbox": [

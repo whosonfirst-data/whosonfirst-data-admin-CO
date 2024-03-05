@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":3678645
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3732905
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"04ed0c470c260047cf4f5cf1a298fe07",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1226001361,
-    "wof:lastmodified":1566708691,
+    "wof:lastmodified":1706239483,
     "wof:name":"La Laguna",
     "wof:parent_id":1108701239,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343417711
+    ],
     "wof:tags":[]
 },
   "bbox": [

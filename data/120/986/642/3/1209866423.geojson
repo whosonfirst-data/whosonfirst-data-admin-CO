@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":3676746
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3764009
+        ]
+    },
     "wof:country":"CO",
-    "wof:geomhash":"cc31702360b89456ddc585a7cea16979",
+    "wof:geomhash":"fd3cead4b156d62ad79037a54f3f5404",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1209866423,
-    "wof:lastmodified":1566707248,
+    "wof:lastmodified":1706239482,
     "wof:name":"La Viga",
     "wof:parent_id":421170643,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327095133
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -76.53475999999998,
+    -76.53476,
     3.31446,
-    -76.53475999999998,
+    -76.53476,
     3.31446
 ],
-  "geometry": {"coordinates":[-76.53475999999998,3.31446],"type":"Point"}
+  "geometry": {"coordinates":[-76.53476000000001,3.31446],"type":"Point"}
 }

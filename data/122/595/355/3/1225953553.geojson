@@ -11,6 +11,7 @@
     "geom:longitude":-72.85258,
     "gn:admin1_code":"1",
     "gn:admin2_code":"91263.0",
+    "gn:admin3_code":"160109.0",
     "gn:asciiname":"Puerto Elvira",
     "gn:country_code":"CO",
     "gn:dem":117,
@@ -41,6 +42,11 @@
     "wof:concordances":{
         "gn:id":3766574
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3671473
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"1d3ab09bf5172f2fe3e498f0557a25e7",
     "wof:hierarchy":[
@@ -53,13 +59,15 @@
         }
     ],
     "wof:id":1225953553,
-    "wof:lastmodified":1566708477,
+    "wof:lastmodified":1706239483,
     "wof:name":"Puerto Elvira",
     "wof:parent_id":421182241,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276519083
+    ],
     "wof:tags":[]
 },
   "bbox": [

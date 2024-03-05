@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-74.86781,0.23264,-74.86781,0.23264",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guitora",
@@ -46,7 +48,7 @@
         "gn:id":3681189
     },
     "wof:country":"CO",
-    "wof:geomhash":"f1c0b13307733a89d95ef2c4a990f7a6",
+    "wof:geomhash":"629379e8ebc365af1bc91c526e56a715",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1327224229,
-    "wof:lastmodified":1566706144,
+    "wof:lastmodified":1706239483,
     "wof:name":"Huitora",
     "wof:parent_id":1108700425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1292924797
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -74.86780999999998,
+    -74.86781,
     0.23264,
-    -74.86780999999998,
+    -74.86781,
     0.23264
 ],
-  "geometry": {"coordinates":[-74.86780999999998,0.23264],"type":"Point"}
+  "geometry": {"coordinates":[-74.86781000000001,0.23264],"type":"Point"}
 }

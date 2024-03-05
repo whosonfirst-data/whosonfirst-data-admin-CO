@@ -9,9 +9,22 @@
     "geom:bbox":"-73.28824,6.40756,-73.28824,6.40756",
     "geom:latitude":6.40756,
     "geom:longitude":-73.28824,
+    "gn:admin1_code":"26",
+    "gn:admin2_code":"68524.0",
+    "gn:asciiname":"Palmas del Socorro",
     "gn:country":"CO",
+    "gn:country_code":"CO",
+    "gn:dem":1187,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731933,
+    "gn:latitude":6.40667,
+    "gn:longitude":-73.28694,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Palmas del Socorro",
     "gn:population":657,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-73.30824,6.38756,-73.26824,6.42756",
     "lbl:max_zoom":17.0,
@@ -98,7 +111,13 @@
         "gn:id":3673187,
         "gp:id":363301,
         "qs_pg:id":96311,
-        "wd:id":"Q1656731"
+        "wd:id":"Q1656731",
+        "wk:page":"Palmas_del_Socorro"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3731933
+        ]
     },
     "wof:country":"CO",
     "wof:created":1469051326,
@@ -113,7 +132,7 @@
         }
     ],
     "wof:id":890420239,
-    "wof:lastmodified":1690868410,
+    "wof:lastmodified":1706239482,
     "wof:name":"Palmas del Socorro",
     "wof:parent_id":1108701311,
     "wof:placetype":"locality",
@@ -121,7 +140,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292955301
+    ],
     "wof:tags":[]
 },
   "bbox": [

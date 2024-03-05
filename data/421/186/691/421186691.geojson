@@ -9,10 +9,17 @@
     "geom:bbox":"-75.573921,6.236509,-75.573921,6.236509",
     "geom:latitude":6.236509,
     "geom:longitude":-75.573921,
+    "gn:country":"CO",
+    "gn:fcode":"PPLA",
+    "gn:population":1999979,
     "iso:country":"CO",
     "lbl:bbox":"-75.593921,6.216509,-75.553921,6.256509",
+    "lbl:latitude":6.276949,
+    "lbl:longitude":-75.576955,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":6.255509,
+    "mps:longitude":-75.623208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
@@ -51,6 +58,9 @@
         "Medell\u00edn"
     ],
     "name:bel_x_preferred":[
+        "\u041c\u0435\u0434\u044d\u043b\u044c\u0456\u043d"
+    ],
+    "name:bel_x_variant":[
         "\u041c\u0435\u0434\u044d\u043b\u044c\u0456\u043d"
     ],
     "name:ben_x_preferred":[
@@ -98,6 +108,9 @@
     "name:dan_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:deu_ch_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:deu_x_preferred":[
         "Medell\u00edn"
     ],
@@ -110,16 +123,28 @@
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03b4\u03b5\u03b3\u03af\u03bd"
     ],
+    "name:eng_ca_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:eng_x_preferred":[
         "Medell\u00edn"
     ],
     "name:epo_x_preferred":[
         "Mede\u011dino"
     ],
+    "name:epo_x_variant":[
+        "Mede\u011dino"
+    ],
     "name:est_x_preferred":[
         "Medell\u00edn"
     ],
     "name:eus_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:eus_x_variant":[
         "Medell\u00edn"
     ],
     "name:fas_x_preferred":[
@@ -296,6 +321,9 @@
     "name:nob_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:nor_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:oci_x_preferred":[
         "Medell\u00edn"
     ],
@@ -326,7 +354,13 @@
     "name:pol_x_preferred":[
         "Medell\u00edn"
     ],
+    "name:por_br_x_preferred":[
+        "Medell\u00edn"
+    ],
     "name:por_x_preferred":[
+        "Medell\u00edn"
+    ],
+    "name:por_x_variant":[
         "Medell\u00edn"
     ],
     "name:que_x_preferred":[
@@ -372,6 +406,9 @@
         "Medell\u00edn"
     ],
     "name:tam_x_preferred":[
+        "\u0bae\u0bc6\u0ba4\u0bc6\u0bb2\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tam_x_variant":[
         "\u0bae\u0bc6\u0ba4\u0bc6\u0bb2\u0bbf\u0ba9\u0bcd"
     ],
     "name:tat_x_preferred":[
@@ -440,6 +477,95 @@
     "name:zho_x_preferred":[
         "\u9ea6\u5fb7\u6797"
     ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Colombia",
+    "ne:ADM0_A3":"COL",
+    "ne:ADM1NAME":"Antioquia",
+    "ne:ADMIN1_COD":2,
+    "ne:CAPALT":0,
+    "ne:CHANGED":5,
+    "ne:CHECKME":0,
+    "ne:CITYALT":"Medellin",
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":1405.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":3674962,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Medellin",
+    "ne:GN_POP":1999979,
+    "ne:GTOPO30":2076.0,
+    "ne:ISO_A2":"CO",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":6.275003,
+    "ne:LONGITUDE":-75.57501,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Medellin",
+    "ne:MAX_AREAKM":235.0,
+    "ne:MAX_AREAMI":91.0,
+    "ne:MAX_BBXMAX":-75.5,
+    "ne:MAX_BBXMIN":-75.666667,
+    "ne:MAX_BBYMAX":6.358333,
+    "ne:MAX_BBYMIN":6.075,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":155.0,
+    "ne:MAX_PERMI":96.0,
+    "ne:MAX_POP10":2872329,
+    "ne:MAX_POP20":3301133,
+    "ne:MAX_POP300":3301133,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":3301133,
+    "ne:MEAN_BBXC":-75.586351,
+    "ne:MEAN_BBYC":6.228575,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Medelldn",
+    "ne:MIN_AREAKM":193.0,
+    "ne:MIN_AREAMI":74.0,
+    "ne:MIN_BBXMAX":-75.525,
+    "ne:MIN_BBXMIN":-75.666667,
+    "ne:MIN_BBYMAX":6.304992,
+    "ne:MIN_BBYMIN":6.075,
+    "ne:MIN_PERKM":126.0,
+    "ne:MIN_PERMI":78.0,
+    "ne:NAME":"Medellin",
+    "ne:NAMEALT":"Medellin",
+    "ne:NAMEASCII":"Medellin",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":200,
+    "ne:POP1950":376,
+    "ne:POP1955":523,
+    "ne:POP1960":727,
+    "ne:POP1965":992,
+    "ne:POP1970":1260,
+    "ne:POP1975":1536,
+    "ne:POP1980":1731,
+    "ne:POP1985":1950,
+    "ne:POP1990":2135,
+    "ne:POP1995":2372,
+    "ne:POP2000":2724,
+    "ne:POP2005":3127,
+    "ne:POP2010":3297,
+    "ne:POP2015":3524,
+    "ne:POP2020":3789,
+    "ne:POP2025":3975,
+    "ne:POP2050":4129,
+    "ne:POP_MAX":3297000,
+    "ne:POP_MIN":1999979,
+    "ne:POP_OTHER":2697901,
+    "ne:RANK_MAX":12,
+    "ne:RANK_MIN":12,
+    "ne:SCALERANK":2,
+    "ne:SOV0NAME":"Colombia",
+    "ne:SOV_A3":"COL",
+    "ne:TIMEZONE":"America/Bogota",
+    "ne:UN_ADM0":"Colombia",
+    "ne:UN_FID":165,
+    "ne:UN_LAT":6.24,
+    "ne:UN_LONG":-75.59,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -459,6 +585,9 @@
     "qs:woe_adm0":23424787,
     "qs:woe_id":368150,
     "src:geom":"quattroshapes",
+    "src:lbl_centroid":"whosonfirst",
+    "src:population":"geonames",
+    "wd:wordcount":12572,
     "wof:belongsto":[
         102191577,
         85632519,
@@ -467,10 +596,27 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":3674962,
         "gp:id":368150,
+        "ne:id":1159151343,
         "qs_pg:id":1075500,
-        "wd:id":"Q48278"
+        "wd:id":"Q48278",
+        "wk:page":"Medell\u00edn"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            368150
+        ],
+        "qs_pg:id":[
+            274504
+        ],
+        "wd:id":[
+            "Q48278"
+        ]
+    },
+    "wof:coterminous":[
+        421205069
+    ],
     "wof:country":"CO",
     "wof:created":1459009488,
     "wof:geomhash":"d863ec887f6dc14ed93ddb7ad303fcf1",
@@ -484,13 +630,18 @@
         }
     ],
     "wof:id":421186691,
-    "wof:lastmodified":1690868233,
+    "wof:lastmodified":1706239481,
+    "wof:megacity":1,
     "wof:name":"Medell\u00edn",
     "wof:parent_id":421205069,
     "wof:placetype":"locality",
+    "wof:population":1999979,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890442155
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":3677930
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3783647
+        ]
+    },
     "wof:country":"CO",
     "wof:geomhash":"c933fd664e30f15ae2dd9ad7682a6c91",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1310182053,
-    "wof:lastmodified":1566707705,
+    "wof:lastmodified":1706239484,
     "wof:name":"La Quinta",
     "wof:parent_id":421184119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310687841
+    ],
     "wof:tags":[]
 },
   "bbox": [

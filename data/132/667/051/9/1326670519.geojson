@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-75.45556,10.00917,-75.45556,10.00917",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -42,7 +44,7 @@
         "gn:id":3674088
     },
     "wof:country":"CO",
-    "wof:geomhash":"5a29e2a086f02790ffcc3db929852a40",
+    "wof:geomhash":"e994b0d2a0a951da38b1ef553da9720e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -53,20 +55,22 @@
         }
     ],
     "wof:id":1326670519,
-    "wof:lastmodified":1566706120,
+    "wof:lastmodified":1706239482,
     "wof:name":"Nanguma",
     "wof:parent_id":1108700131,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209259383
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -75.45555999999998,
+    -75.45556,
     10.00917,
-    -75.45555999999998,
+    -75.45556,
     10.00917
 ],
-  "geometry": {"coordinates":[-75.45555999999998,10.00917],"type":"Point"}
+  "geometry": {"coordinates":[-75.45556000000001,10.00917],"type":"Point"}
 }

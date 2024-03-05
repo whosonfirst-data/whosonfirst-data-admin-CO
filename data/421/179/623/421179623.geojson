@@ -9,6 +9,20 @@
     "geom:bbox":"-75.98,2.19611,-75.98,2.19611",
     "geom:latitude":2.19611,
     "geom:longitude":-75.98,
+    "gn:admin1_code":"16",
+    "gn:admin2_code":"41378.0",
+    "gn:asciiname":"La Argentina",
+    "gn:country_code":"CO",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3679852,
+    "gn:latitude":2.19762,
+    "gn:longitude":-75.9799,
+    "gn:modification_date":"2018-04-19",
+    "gn:name":"La Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Bogota",
     "iso:country":"CO",
     "lbl:bbox":"-76.0,2.17611,-75.96,2.21611",
     "lbl:max_zoom":15.0,
@@ -74,6 +88,10 @@
     "name:tgl_x_preferred":[
         "La Argentina"
     ],
+    "name:und_x_variant":[
+        "Plata Vieja",
+        "Argentina"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646\u060c \u06c1\u0648\u06cc\u0644\u0627"
     ],
@@ -124,6 +142,14 @@
         "wd:id":"Q1578514",
         "wk:page":"La Argentina, Huila"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3679852
+        ],
+        "wk:page":[
+            "La_Argentina,_Huila"
+        ]
+    },
     "wof:country":"CO",
     "wof:created":1459009227,
     "wof:geomhash":"8254aedd02ad86dc5d3d3ed5ed82bac6",
@@ -137,7 +163,7 @@
         }
     ],
     "wof:id":421179623,
-    "wof:lastmodified":1690868340,
+    "wof:lastmodified":1706239481,
     "wof:name":"La Argentina",
     "wof:parent_id":1108700821,
     "wof:placetype":"locality",
@@ -145,7 +171,9 @@
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-co",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344226299
+    ],
     "wof:tags":[]
 },
   "bbox": [

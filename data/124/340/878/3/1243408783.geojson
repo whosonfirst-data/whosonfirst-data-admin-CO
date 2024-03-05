@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-73.46487,6.18715,-73.46487,6.18715",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
@@ -372,7 +374,7 @@
         "gn:id":3670126
     },
     "wof:country":"CO",
-    "wof:geomhash":"d7a49857cea065b7d1ab52137e3c4a76",
+    "wof:geomhash":"2cb209c50ec247cf3359f7b1e448d330",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -383,20 +385,22 @@
         }
     ],
     "wof:id":1243408783,
-    "wof:lastmodified":1566708190,
+    "wof:lastmodified":1706239483,
     "wof:name":"San Antonio",
     "wof:parent_id":1108701265,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-co",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226001355
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -73.46486999999998,
+    -73.46487,
     6.18715,
-    -73.46486999999998,
+    -73.46487,
     6.18715
 ],
-  "geometry": {"coordinates":[-73.46486999999998,6.18715],"type":"Point"}
+  "geometry": {"coordinates":[-73.46487,6.18715],"type":"Point"}
 }
